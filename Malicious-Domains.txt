@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-13 10:12:36 UTC                        #
+# Last updated: 2023-12-13 10:56:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	fertelion.com
+127.0.0.1	orionparti.com
+127.0.0.1	limperus.com
 127.0.0.1	api.speech-microsoft.com
 127.0.0.1	martenesid.com
 127.0.0.1	lorented.com
@@ -25919,4 +25922,4 @@
 127.0.0.1	www.certinstall.cc
 127.0.0.1	www.microsoft-info.org
 127.0.0.1	libertader.org
-# Number of entries: 25913
+# Number of entries: 25916
