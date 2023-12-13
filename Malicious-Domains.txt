@@ -25918,8 +25918,4 @@
 127.0.0.1	www.51menke.com
 127.0.0.1	www.zuimeitianqi.com
 127.0.0.1	groowstatb.com
-127.0.0.1	norominis1.com
-127.0.0.1	a.connectie-78d5566d11aea.nl
-127.0.0.1	asdcw.oracleup.cc
-127.0.0.1	pop.bantir.top
-# Number of entries: 25916
+# Number of entries: 25912
