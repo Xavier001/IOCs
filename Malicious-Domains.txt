@@ -1,11 +1,29 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-13 10:56:04 UTC                        #
+# Last updated: 2023-12-13 15:56:55 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	monitor-websystem.net
+127.0.0.1	sandelias.com
+127.0.0.1	getfnewssolutions.com
+127.0.0.1	allcompanycenter.com
+127.0.0.1	taskthebox.net
+127.0.0.1	glassenclosed.com
+127.0.0.1	besttrademarklawyers.com
+127.0.0.1	liannanielsen.com
+127.0.0.1	www.cannabisneed.com
+127.0.0.1	mail.iqoptionlive.com
+127.0.0.1	www.test.nolog.no
+127.0.0.1	login.test.nolog.no
+127.0.0.1	webmail.precisionrenovationri.com
+127.0.0.1	stupefied-banach.91-215-85-177.plesk.page
+127.0.0.1	static.11.254.76.144.clients.your-server.de
+127.0.0.1	www.hongtong502.cn
+127.0.0.1	emperorplan.org
+127.0.0.1	second.amadgood.com
 127.0.0.1	fertelion.com
 127.0.0.1	orionparti.com
 127.0.0.1	limperus.com
@@ -25904,22 +25922,4 @@
 127.0.0.1	a.connectie-78d5566d11aea.nl
 127.0.0.1	asdcw.oracleup.cc
 127.0.0.1	pop.bantir.top
-127.0.0.1	qfive5vt.top
-127.0.0.1	globalrawe.top
-127.0.0.1	qseven7vt.top
-127.0.0.1	nitutdra.com
-127.0.0.1	accessinfonet.com
-127.0.0.1	huo96.icu
-127.0.0.1	xianggepeach.f3322.net
-127.0.0.1	forex.4cloud.click
-127.0.0.1	aaaxxx60.hopto.org
-127.0.0.1	testing1212.ddns.net
-127.0.0.1	backup1212.ddns.net
-127.0.0.1	windows10-11.ddns.net
-127.0.0.1	windows10-11.ddnsfree.com
-127.0.0.1	ibm.deltavis.net
-127.0.0.1	dns.azurelive-dns.com
-127.0.0.1	www.certinstall.cc
-127.0.0.1	www.microsoft-info.org
-127.0.0.1	libertader.org
 # Number of entries: 25916
