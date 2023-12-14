@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-13 15:56:55 UTC                        #
+# Last updated: 2023-12-14 09:40:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dy.vvvvvbeng.com
+127.0.0.1	maufusjiop.com
 127.0.0.1	monitor-websystem.net
 127.0.0.1	sandelias.com
 127.0.0.1	getfnewssolutions.com
@@ -25912,10 +25914,4 @@
 127.0.0.1	external.myazureonline.com
 127.0.0.1	toolkit.mobileautorepairmechanic.com
 127.0.0.1	datacloudprocessing.com
-127.0.0.1	search.zhenai.com
-127.0.0.1	www.pcsoft.com.cn
-127.0.0.1	edu.enorth.com.cn
-127.0.0.1	www.51menke.com
-127.0.0.1	www.zuimeitianqi.com
-127.0.0.1	groowstatb.com
-# Number of entries: 25912
+# Number of entries: 25908
