@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-15 10:12:00 UTC                        #
+# Last updated: 2023-12-15 10:44:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	keebling.com
+127.0.0.1	baumbachers.com
+127.0.0.1	ionister.com
 127.0.0.1	dns.smwanyi1.top
 127.0.0.1	www.qianxin.today
 127.0.0.1	ns3.aliyunn.com.cn
@@ -25915,5 +25918,4 @@
 127.0.0.1	javr.ddnsfree.com
 127.0.0.1	teamsy.ddnsfree.com
 127.0.0.1	www.taxinfoservices.org
-127.0.0.1	www.0nedriveup.com
-# Number of entries: 25910
+# Number of entries: 25912
