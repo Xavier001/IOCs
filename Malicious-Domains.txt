@@ -1,11 +1,27 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-15 03:00:04 UTC                        #
+# Last updated: 2023-12-15 10:12:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dns.smwanyi1.top
+127.0.0.1	www.qianxin.today
+127.0.0.1	ns3.aliyunn.com.cn
+127.0.0.1	ns2.aliyunn.com.cn
+127.0.0.1	ns1.aliyunn.com.cn
+127.0.0.1	ns3.microsoftgame.online
+127.0.0.1	ns2.microsoftgame.online
+127.0.0.1	ns1.microsoftgame.online
+127.0.0.1	c1.ericleexx.com
+127.0.0.1	n1.johnchen88.com
+127.0.0.1	ns2.sojuan.top
+127.0.0.1	ns1.sojuan.top
+127.0.0.1	6012.punkdns.pw
+127.0.0.1	betadns.phatbois.biz
+127.0.0.1	dfwfdsfsdasd.project-nightfall.com
+127.0.0.1	dololow.ddns.net
 127.0.0.1	couriercare.in
 127.0.0.1	service-b3iwjlaj-1322248009.sh.tencentapigw.com
 127.0.0.1	k597s.cn110bet.top
@@ -25900,19 +25916,4 @@
 127.0.0.1	teamsy.ddnsfree.com
 127.0.0.1	www.taxinfoservices.org
 127.0.0.1	www.0nedriveup.com
-127.0.0.1	www.city-optikhaus.shop
-127.0.0.1	service-5mxtmnpp-1301496742.sh.apigw.tencentcs.com
-127.0.0.1	asdasdwqrweerwfa.top
-127.0.0.1	ny2pnews.top
-127.0.0.1	p2newer.top
-127.0.0.1	ny2new.top
-127.0.0.1	log5ny.top
-127.0.0.1	powr2new.top
-127.0.0.1	sb2pnew.top
-127.0.0.1	dop2load.top
-127.0.0.1	dop2buid.top
-127.0.0.1	newr2bb.top
-127.0.0.1	newv2up.top
-127.0.0.1	globalrawe.top
-127.0.0.1	new2pnev.top
-# Number of entries: 25909
+# Number of entries: 25910
