@@ -26127,10 +26127,4 @@
 127.0.0.1	software.cncb.info
 127.0.0.1	mail.cncb.info
 127.0.0.1	jidisianyr.shop
-127.0.0.1	ns1.myazureonline.com
-127.0.0.1	fever2new.top
-127.0.0.1	trademark.iglesiaelarca.com
-127.0.0.1	sneakerpop.bounceme.net
-127.0.0.1	hadleyshope.3utilities.com
-127.0.0.1	app.dbapp.xyz
-# Number of entries: 26127
+# Number of entries: 26121

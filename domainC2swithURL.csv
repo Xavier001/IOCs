@@ -43,8 +43,9 @@ dns.cityoall.com,Possible Cobalt Strike C2 Domain,/cm
 dns.cstest.buzz,Possible Cobalt Strike C2 Domain,/match
 dns.forcorpor.com,Possible Cobalt Strike C2 Domain,/match
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink
-dns.ringatpstul.com,Possible Cobalt Strike C2 Domain,/g.pixel
+dns.ringatpstul.com,Possible Cobalt Strike C2 Domain,/fwlink
 dns.smwanyi1.top,Possible Cobalt Strike C2 Domain,/pixel.gif
+dns.veriernano.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 dns1.engie.com,Possible Cobalt Strike C2 Domain,/api/v1/getLast
 dns31.starbucksvip.com,Possible Cobalt Strike C2 Domain,/static/mancard/img/qrcode_download_john.png
 dns32.starbucksvip.com,Possible Cobalt Strike C2 Domain,/static/mancard/img/qrcode_download_john.png
@@ -61,7 +62,6 @@ exchange2.microsoftser.top,Possible Cobalt Strike C2 Domain,/www/handle/doc
 exchanges1.microsoftser.top,Possible Cobalt Strike C2 Domain,/pixel
 exchanges2.microsoftser.top,Possible Cobalt Strike C2 Domain,/pixel
 forcorpor.com,Possible Cobalt Strike C2 Domain,/fwlink
-gertefin.com,Possible Cobalt Strike C2 Domain,/compose/v2.85/CIEU4A5V4T5
 hahnevohjoo.spenserfitolife.com,Possible Cobalt Strike C2 Domain,/doFor/Credentials/76STLDEX
 high.ehealthnutrition.com,Possible Cobalt Strike C2 Domain,/j.ad
 hw.chintelecom.com.cn,Possible Cobalt Strike C2 Domain,/updates
@@ -162,7 +162,7 @@ rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d3000002
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad
 redteam.tandemcyberops.co,Possible Cobalt Strike C2 Domain,/fwlink
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507c.js
-ringatpstul.com,Possible Cobalt Strike C2 Domain,/g.pixel
+ringatpstul.com,Possible Cobalt Strike C2 Domain,/ga.js
 runanywhere.myvnc.com,Possible Cobalt Strike C2 Domain,/j.ad
 schumacherbar.com,Possible Cobalt Strike C2 Domain,/acquire/research/6XC6CUWV
 seeusdt.com,Possible Cobalt Strike C2 Domain,/activity
@@ -176,7 +176,6 @@ service-b3iwjlaj-1322248009.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-b7g5qx9l-1318401771.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/stream
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Contact/v9.23/AODFY6X8UV
 service-dlrbbup7-1309697666.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
-service-dlsvfir0-1319620322.gz.tencentapigw.com,Possible Cobalt Strike C2 Domain,/updates.rss
 service-fddzhrcc-1320999622.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-oa25iv4d-1306428399.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/dpixel
@@ -196,6 +195,7 @@ updatelink.firefoxokt.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 updates.imedicalhub.com,Possible Cobalt Strike C2 Domain,/ms-settings-power
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+veriernano.com,Possible Cobalt Strike C2 Domain,/load
 verify.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/cx
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js
 wpengine.clsr.ca,Possible Cobalt Strike C2 Domain,/__utm.gif
