@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-15 22:15:36 UTC                        #
+# Last updated: 2023-12-16 06:58:08 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	catsndogz.org
+127.0.0.1	botnet.atakehosting.com
 127.0.0.1	hahnevohjoo.spenserfitolife.com
 127.0.0.1	sync.webappclick.net
 127.0.0.1	ping.cachespace.net
@@ -26131,12 +26133,4 @@
 127.0.0.1	sneakerpop.bounceme.net
 127.0.0.1	hadleyshope.3utilities.com
 127.0.0.1	app.dbapp.xyz
-127.0.0.1	ns6.starbucksvip.com
-127.0.0.1	ns5.starbucksvip.com
-127.0.0.1	ns2.icbcbc.com.cn
-127.0.0.1	ns1.icbcbc.com.cn
-127.0.0.1	yahoo.com.s3.bucket-amazon.com
-127.0.0.1	linkpop.com.s3.bucket-amazon.com
-127.0.0.1	file.spotify.com.s3.bucket-amazon.com
-127.0.0.1	card.starbucks.com.s3.bucket-amazon.com
-# Number of entries: 26133
+# Number of entries: 26127
