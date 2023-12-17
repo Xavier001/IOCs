@@ -1,5 +1,6 @@
 #domain,ioc,uri_path,ip
 1.jangholi.info,Possible Cobalt Strike C2 Domain,/match,188.121.110.191
+MicrosoftSyst3m.com,Possible Cobalt Strike C2 Domain,/Produce/txt/RDI34HRI85,5.188.86.24
 a.osslog.com,Possible Cobalt Strike C2 Domain,/jquery-3.6.1.min.js,167.179.74.154
 a.verbinding-voor-cobalt.nl,Possible Cobalt Strike C2 Domain,/ad71d350-167d-4337-b3b8-d146b5d3d96b/,85.10.151.25
 activity.quicksmartmoney.com,Possible Cobalt Strike C2 Domain,/j.ad,18.226.79.33

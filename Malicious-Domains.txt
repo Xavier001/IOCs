@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-16 06:58:08 UTC                        #
+# Last updated: 2023-12-16 22:12:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	microsoftsyst3m.com
 127.0.0.1	catsndogz.org
 127.0.0.1	botnet.atakehosting.com
 127.0.0.1	hahnevohjoo.spenserfitolife.com
@@ -26126,5 +26127,4 @@
 127.0.0.1	wps.cncb.info
 127.0.0.1	software.cncb.info
 127.0.0.1	mail.cncb.info
-127.0.0.1	jidisianyr.shop
 # Number of entries: 26121
