@@ -1,11 +1,31 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-18 06:24:03 UTC                        #
+# Last updated: 2023-12-18 10:22:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	interactivetreadrel.fun
+127.0.0.1	arresthorrodrw.fun
+127.0.0.1	couragedistributeoeo.pw
+127.0.0.1	subwayspellprotiso.fun
+127.0.0.1	solutionoutlineplaint.fun
+127.0.0.1	teardesertfreewo.fun
+127.0.0.1	breakfastchanneljw.fun
+127.0.0.1	viewconceivegiw.fun
+127.0.0.1	twinconstellationjkal.fun
+127.0.0.1	winterrescueplwo.pw
+127.0.0.1	advancefishexeedw.pw
+127.0.0.1	driftpasssingeriuw.pw
+127.0.0.1	idealruinrewardesw.fun
+127.0.0.1	bombertublestylebanws.fun
+127.0.0.1	muggymidnightleanuu.fun
+127.0.0.1	jewelassertivebop.fun
+127.0.0.1	illusionqualifiedj.fun
+127.0.0.1	rarevaluediscow.fun
+127.0.0.1	leaffountainla.fun
+127.0.0.1	folkloreinviteex.pw
 127.0.0.1	octopanel.xyz
 127.0.0.1	main.young.wo.tc
 127.0.0.1	mandanga.blogdns.com
@@ -30271,7 +30291,4 @@
 127.0.0.1	service-dlrbbup7-1309697666.bj.apigw.tencentcs.com
 127.0.0.1	service-ryfvjv9l-1313169921.sh.apigw.tencentcs
 127.0.0.1	registry.aliyun-cs1.com
-127.0.0.1	n4o.invesd.top
-127.0.0.1	admex1955x.xyz
-127.0.0.1	servx2785x.xyz
-# Number of entries: 30268
+# Number of entries: 30285
