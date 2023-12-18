@@ -27313,14 +27313,4 @@
 127.0.0.1	n4o.invesd.top
 127.0.0.1	admex1955x.xyz
 127.0.0.1	servx2785x.xyz
-127.0.0.1	globalfresha.top
-127.0.0.1	wone1sb.top
-127.0.0.1	qfive5vs.top
-127.0.0.1	qseven7ht.top
-127.0.0.1	qthree3sr.top
-127.0.0.1	qfive5pt.top
-127.0.0.1	wfive5sb.top
-127.0.0.1	qseven7pt.top
-127.0.0.1	adspirenetwork.com
-127.0.0.1	www.csyml.cyou
-# Number of entries: 27317
+# Number of entries: 27307
