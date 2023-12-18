@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-18 10:22:51 UTC                        #
+# Last updated: 2023-12-18 17:45:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	shakyastatuestrade.com
+127.0.0.1	buildmateindia.com
+127.0.0.1	seovdetech.com
+127.0.0.1	seohomee.com
+127.0.0.1	metersphere.zenmen.cloud
+127.0.0.1	ritualaccidentrepu.fun
+127.0.0.1	testifypiecefarst.fun
+127.0.0.1	coastperfumeoslan.fun
+127.0.0.1	feedbackspidermate.fun
 127.0.0.1	interactivetreadrel.fun
 127.0.0.1	arresthorrodrw.fun
 127.0.0.1	couragedistributeoeo.pw
@@ -30290,5 +30299,4 @@
 127.0.0.1	sao.gagasi.top
 127.0.0.1	service-dlrbbup7-1309697666.bj.apigw.tencentcs.com
 127.0.0.1	service-ryfvjv9l-1313169921.sh.apigw.tencentcs
-127.0.0.1	registry.aliyun-cs1.com
-# Number of entries: 30285
+# Number of entries: 30293
