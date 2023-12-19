@@ -30317,7 +30317,4 @@
 127.0.0.1	gojojomjwemjajoag.myeffect.net
 127.0.0.1	cnc.corh.cf
 127.0.0.1	corh.cf
-127.0.0.1	zvub.us
-127.0.0.1	sao.gagasi.top
-127.0.0.1	service-dlrbbup7-1309697666.bj.apigw.tencentcs.com
-# Number of entries: 30314
+# Number of entries: 30311
