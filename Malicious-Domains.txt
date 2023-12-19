@@ -1,11 +1,28 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-19 00:04:45 UTC                        #
+# Last updated: 2023-12-19 06:16:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	en.voiceaichanger.pro
+127.0.0.1	en.voice-ai.store
+127.0.0.1	ed.softaipro.fun
+127.0.0.1	promo.voiceaichanger.pro
+127.0.0.1	ens.voiceaichanger.site
+127.0.0.1	enz.voiceaichanger.site
+127.0.0.1	ena.voiceaichanger.store
+127.0.0.1	ena.voiceaichanger.pro
+127.0.0.1	ns.voicechangeai.pro
+127.0.0.1	voiceai.attyclaim.com
+127.0.0.1	premiums.voiceaichanger.pro
+127.0.0.1	game2030.site
+127.0.0.1	bukkva.space
+127.0.0.1	china.dhabigroup.top
+127.0.0.1	circuspride.org
+127.0.0.1	fresh1.ironoreprod.top
+127.0.0.1	masterunis.net
 127.0.0.1	gya.com.bo
 127.0.0.1	onucleo.com.br
 127.0.0.1	la-box-de-ginette.fr
@@ -30303,4 +30320,4 @@
 127.0.0.1	zvub.us
 127.0.0.1	sao.gagasi.top
 127.0.0.1	service-dlrbbup7-1309697666.bj.apigw.tencentcs.com
-# Number of entries: 30297
+# Number of entries: 30314
