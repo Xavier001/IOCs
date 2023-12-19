@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-18 17:45:09 UTC                        #
+# Last updated: 2023-12-19 00:04:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	gya.com.bo
+127.0.0.1	onucleo.com.br
+127.0.0.1	la-box-de-ginette.fr
+127.0.0.1	verdemanzana.com.bo
+127.0.0.1	www.crash-it.it
 127.0.0.1	shakyastatuestrade.com
 127.0.0.1	buildmateindia.com
 127.0.0.1	seovdetech.com
@@ -30298,5 +30303,4 @@
 127.0.0.1	zvub.us
 127.0.0.1	sao.gagasi.top
 127.0.0.1	service-dlrbbup7-1309697666.bj.apigw.tencentcs.com
-127.0.0.1	service-ryfvjv9l-1313169921.sh.apigw.tencentcs
-# Number of entries: 30293
+# Number of entries: 30297
