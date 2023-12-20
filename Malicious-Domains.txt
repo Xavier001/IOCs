@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-19 22:04:03 UTC                        #
+# Last updated: 2023-12-19 22:18:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	spenserfitolife.com
 127.0.0.1	cdn.kfsldieuwq.online
 127.0.0.1	www.kfsldieuwq.online
 127.0.0.1	vpn145403011.softether.net
@@ -30440,6 +30441,4 @@
 127.0.0.1	catnetwork.online
 127.0.0.1	microsoftmicrosoftmicrosoft.ydns.eu
 127.0.0.1	securiji1.com
-127.0.0.1	nonoise.duckdns.org
-127.0.0.1	vegavamyrni.dns.navy
-# Number of entries: 30436
+# Number of entries: 30435
