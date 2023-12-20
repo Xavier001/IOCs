@@ -30434,11 +30434,4 @@
 127.0.0.1	ns1.333ling.com
 127.0.0.1	saham-a.mcfadyen.com
 127.0.0.1	mcfadyen.com
-127.0.0.1	ircx.us.to
-127.0.0.1	ircxx.us.to
-127.0.0.1	fluu.badworldgama.top
-127.0.0.1	badworldgama.top
-127.0.0.1	catnetwork.online
-127.0.0.1	microsoftmicrosoftmicrosoft.ydns.eu
-127.0.0.1	securiji1.com
-# Number of entries: 30435
+# Number of entries: 30428
