@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-21 09:22:51 UTC                        #
+# Last updated: 2023-12-21 10:16:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	zx.regsvcast.com
+127.0.0.1	as.regsvcast.com
+127.0.0.1	qw.regsvcast.com
+127.0.0.1	service-lqsfxdz9-1307700818.sh.tencentapigw.com
 127.0.0.1	advancedlpscanner.com
 127.0.0.1	advanceds-ip-scan.net
 127.0.0.1	advanceds-ip-scanner.net
@@ -30595,42 +30599,4 @@
 127.0.0.1	vespetrolgroup.com
 127.0.0.1	api.upgrad3.cc
 127.0.0.1	quasarincorporated.com
-127.0.0.1	ruthhogan.cfd
-127.0.0.1	tanyamiller.cfd
-127.0.0.1	aliciapricemd.mom
-127.0.0.1	cynthiawilliams.mom
-127.0.0.1	danielcooper.mom
-127.0.0.1	douglashoward.mom
-127.0.0.1	edwardgregory.mom
-127.0.0.1	eugeneblair.cfd
-127.0.0.1	jackbowman.cfd
-127.0.0.1	jeffreyray.cfd
-127.0.0.1	karaburton.cfd
-127.0.0.1	karlatownsend.cfd
-127.0.0.1	patriciastark.cfd
-127.0.0.1	rhondawatson.cfd
-127.0.0.1	robertlee.cfd
-127.0.0.1	royaltybel.top
-127.0.0.1	sellpower.top
-127.0.0.1	sistemit.top
-127.0.0.1	soelines.makeup
-127.0.0.1	stylediamond.top
-127.0.0.1	teaworks.sbs
-127.0.0.1	urbanred.click
-127.0.0.1	cardgoal.makeup
-127.0.0.1	chartublf.sbs
-127.0.0.1	coneticvoice.makeup
-127.0.0.1	datadiscord.hair
-127.0.0.1	finortexes.makeup
-127.0.0.1	fortressbrain.sbs
-127.0.0.1	fusionwin.top
-127.0.0.1	globalwaves.hair
-127.0.0.1	ligthvert.click
-127.0.0.1	loyalteam.top
-127.0.0.1	ministerfic.top
-127.0.0.1	mosaiccolor.skin
-127.0.0.1	networksoluction.click
-127.0.0.1	phoneking.sbs
-127.0.0.1	questfor.top
-127.0.0.1	relicutils.top
-# Number of entries: 30627
+# Number of entries: 30593
