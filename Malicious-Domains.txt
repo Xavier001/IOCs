@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-20 21:19:08 UTC                        #
+# Last updated: 2023-12-20 22:15:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	charon561.xyz
 127.0.0.1	e2e-73-173.ssdcloudindia.net
 127.0.0.1	secops.vunetsystems.com
 127.0.0.1	e2e-72-122.ssdcloudindia.net
@@ -30591,5 +30592,4 @@
 127.0.0.1	ns2.njzjamc.cloud
 127.0.0.1	ns1.njzjamc.cloud
 127.0.0.1	cdn2.duc3k.com
-127.0.0.1	service-80hlrkys-1257781941.jp.apigw.tencentcs.com
 # Number of entries: 30586
