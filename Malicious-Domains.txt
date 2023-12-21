@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-21 10:16:21 UTC                        #
+# Last updated: 2023-12-21 20:20:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ns2.dns-supports.online
+127.0.0.1	ns1.dns-supports.online
+127.0.0.1	getfnewsolutions.com
+127.0.0.1	bluenetworking.net
+127.0.0.1	erihudeg.com
+127.0.0.1	mail.googlesmail.xyz
+127.0.0.1	withclier.com
 127.0.0.1	zx.regsvcast.com
 127.0.0.1	as.regsvcast.com
 127.0.0.1	qw.regsvcast.com
@@ -30594,9 +30601,4 @@
 127.0.0.1	cscscscscs.imalloc.cn
 127.0.0.1	cs.p0dan.site
 127.0.0.1	c2c.updatenews.me
-127.0.0.1	ilo.coital.top
-127.0.0.1	lauracenters.com
-127.0.0.1	vespetrolgroup.com
-127.0.0.1	api.upgrad3.cc
-127.0.0.1	quasarincorporated.com
-# Number of entries: 30593
+# Number of entries: 30595

@@ -96,6 +96,7 @@ ns1.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.5.1.slim.m
 ns1.chongfan1990.xyz,Possible Cobalt Strike C2 Domain,/updates
 ns1.crnbchina.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.dingtaIk.tk,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
+ns1.dns-supports.online,Possible Cobalt Strike C2 Domain,/api/3
 ns1.dnslogik.com,Possible Cobalt Strike C2 Domain,/mp/getapp/msgext
 ns1.fuckworldxxx.shop,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB
 ns1.gsafc.co,Possible Cobalt Strike C2 Domain,/themes/index.php
@@ -122,6 +123,7 @@ ns2.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.5.1.slim.m
 ns2.chongfan1990.xyz,Possible Cobalt Strike C2 Domain,/updates
 ns2.crnbchina.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.dingtaIk.tk,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
+ns2.dns-supports.online,Possible Cobalt Strike C2 Domain,/api/3
 ns2.dnslogik.com,Possible Cobalt Strike C2 Domain,/mp/getapp/msgext
 ns2.fuckworldxxx.shop,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB
 ns2.gsafc.co,Possible Cobalt Strike C2 Domain,/themes/index.php
@@ -185,10 +187,12 @@ service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-dlrbbup7-1309697666.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-dlsvfir0-1319620322.gz.tencentapigw.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 service-fddzhrcc-1320999622.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js
+service-g1c0a353-1302650299.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-lqsfxdz9-1307700818.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/geqeqwea.js
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-oa25iv4d-1306428399.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/dpixel
 service-oshdwnr7-1306743016.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/ymget0905
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/dpixel
 social.soft-update.services,Possible Cobalt Strike C2 Domain,/ca
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 spenserfitolife.com,Possible Cobalt Strike C2 Domain,/detect/properties/B2QCQJTLLH4
