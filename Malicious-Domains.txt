@@ -1,11 +1,60 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-20 22:15:47 UTC                        #
+# Last updated: 2023-12-21 09:22:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	advancedlpscanner.com
+127.0.0.1	advanceds-ip-scan.net
+127.0.0.1	advanceds-ip-scanner.net
+127.0.0.1	advanceds-lp-scanner.net
+127.0.0.1	advnced-ip-scan.com
+127.0.0.1	advnced-ip-scanner.com
+127.0.0.1	advnced-lp-scanner.com
+127.0.0.1	inductiveautomatlon.com
+127.0.0.1	inductiveoutomation.com
+127.0.0.1	inductlveautomation.com
+127.0.0.1	mycaase.com
+127.0.0.1	mycaase.net
+127.0.0.1	oldsfaq.com
+127.0.0.1	technorobo-life.com
+127.0.0.1	adsvanced-ip-scanner.com
+127.0.0.1	advancd-ip-scanner.com
+127.0.0.1	advancd-ip-scanner.net
+127.0.0.1	advancd-lp-scanner.net
+127.0.0.1	advanced-ip-scan.net
+127.0.0.1	advanced-ip-scanned.com
+127.0.0.1	advanced-ip-scanning.com
+127.0.0.1	advanced-ip-scanning.net
+127.0.0.1	advanced-ipscan.com
+127.0.0.1	advanced-ipscanning.com
+127.0.0.1	advanced-lp-scan.com
+127.0.0.1	advanced-lp-scaners.com
+127.0.0.1	advanced-lp-scaners.net
+127.0.0.1	advanced-lp-scanned.com
+127.0.0.1	advanced-lp-scanned.net
+127.0.0.1	advanced-lp-scanner.com
+127.0.0.1	advanced-lp-scanners.com
+127.0.0.1	advanced-port-scanner.net
+127.0.0.1	advancede-ip-scanner.com
+127.0.0.1	advancedes-ip-scan.com
+127.0.0.1	advancedes-ip-scan.net
+127.0.0.1	advancedes-ip-scanner.com
+127.0.0.1	advancedes-ip-scanner.net
+127.0.0.1	advancedes-lp-scan.net
+127.0.0.1	advancedes-lp-scanner.com
+127.0.0.1	advancedes-lp-scanner.net
+127.0.0.1	advancedip-scanner.net
+127.0.0.1	adavanced-ip-scaner.com
+127.0.0.1	adavanced-ip-scanner.com
+127.0.0.1	adevancd-lp-scanner.com
+127.0.0.1	adevanced-ip-scans.com
+127.0.0.1	adevanced-lp-scaners.com
+127.0.0.1	adevanced-lp-scanner.net
+127.0.0.1	adevanced-lp-scanners.com
+127.0.0.1	adsvancd-lp-scanner.net
 127.0.0.1	charon561.xyz
 127.0.0.1	e2e-73-173.ssdcloudindia.net
 127.0.0.1	secops.vunetsystems.com
@@ -30584,12 +30633,4 @@
 127.0.0.1	phoneking.sbs
 127.0.0.1	questfor.top
 127.0.0.1	relicutils.top
-127.0.0.1	new2bs.top
-127.0.0.1	avas1ta.com
-127.0.0.1	avas1ta.de
-127.0.0.1	njamma.com
-127.0.0.1	ns3.njzjamc.cloud
-127.0.0.1	ns2.njzjamc.cloud
-127.0.0.1	ns1.njzjamc.cloud
-127.0.0.1	cdn2.duc3k.com
-# Number of entries: 30586
+# Number of entries: 30627
