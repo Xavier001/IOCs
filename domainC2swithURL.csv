@@ -15,6 +15,7 @@ bot.douosadgaadonline.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 c1.ericleexx.com,Possible Cobalt Strike C2 Domain,/pixel
 cache.thorjane.com,Possible Cobalt Strike C2 Domain,/search
 cc.cert-ex.net,Possible Cobalt Strike C2 Domain,/__utm.gif
+cdn-014.epsonupdate.uk,Possible Cobalt Strike C2 Domain,/j.ad
 cdn.amazon-shopping.nl,Possible Cobalt Strike C2 Domain,/c986e4a8-46ff-4083-b6e8-e744c780e36b/
 cdn.ctfmall.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html
 cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v2/q
@@ -178,6 +179,7 @@ schumacherbar.com,Possible Cobalt Strike C2 Domain,/acquire/research/6XC6CUWV
 seeusdt.com,Possible Cobalt Strike C2 Domain,/activity
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink
 service-00o1njdx-1317238936.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronted Domain,/api/3
+service-0gzrxicv-1307700818.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/fwlieeeqnk
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
 service-5q4qdd0g-1317142305.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
