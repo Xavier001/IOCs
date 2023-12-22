@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-22 09:28:13 UTC                        #
+# Last updated: 2023-12-22 18:01:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	globron.duckdns.org
+127.0.0.1	smartpoliceax.website
+127.0.0.1	digitalcodecrafters.com
+127.0.0.1	annualraises2023.zip
+127.0.0.1	windows.dns-supports.online
 127.0.0.1	biggerfun.org
 127.0.0.1	seemeseeyou.duckdns.org
 127.0.0.1	www.view.nuvaringsideffectslawsuit.com
@@ -30574,33 +30579,4 @@
 127.0.0.1	globalunbox.top
 127.0.0.1	dvp.arkitek.top
 127.0.0.1	niloofarkhosravi.org
-127.0.0.1	artwork.siddavisart.com
-127.0.0.1	webriiz.radicalhosts.ir
-127.0.0.1	radicalhosts.ir
-127.0.0.1	inside.awesomepotions.com
-127.0.0.1	route.muenchner-finanzhilfe.workers.dev
-127.0.0.1	usadevgroup.com
-127.0.0.1	cdn.update.microsoft.com.w.kunluncan.com
-127.0.0.1	redteambp.tech
-127.0.0.1	dns.incididunt.com
-127.0.0.1	incididunt.com
-127.0.0.1	ns2.allegiancefithealth.com
-127.0.0.1	ns1.allegiancefithealth.com
-127.0.0.1	estiletelivros.shop
-127.0.0.1	estilingulivrose.shop
-127.0.0.1	estojlivrosodepintura.shop
-127.0.0.1	estojodemaquiagem.shop
-127.0.0.1	estojolivrosdelapis.shop
-127.0.0.1	estriblivroso.shop
-127.0.0.1	etiquelivrosta.shop
-127.0.0.1	exauslivrostor.shop
-127.0.0.1	extensaeletrica.shop
-127.0.0.1	extilivrosntor.shop
-127.0.0.1	espacocontabilrec.one
-127.0.0.1	exameoldeaion.one
-127.0.0.1	examesesaude.one
-127.0.0.1	felasuthir.one
-127.0.0.1	wyekszloldhc.cfd
-127.0.0.1	xyanavegador.makeup
-127.0.0.1	yrqcxhixmoxp.cfd
-# Number of entries: 30597
+# Number of entries: 30573
