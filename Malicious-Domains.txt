@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-22 02:02:09 UTC                        #
+# Last updated: 2023-12-22 09:28:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	biggerfun.org
 127.0.0.1	seemeseeyou.duckdns.org
 127.0.0.1	www.view.nuvaringsideffectslawsuit.com
 127.0.0.1	mail.newearth-superfoods.com
@@ -30602,4 +30603,4 @@
 127.0.0.1	wyekszloldhc.cfd
 127.0.0.1	xyanavegador.makeup
 127.0.0.1	yrqcxhixmoxp.cfd
-# Number of entries: 30596
+# Number of entries: 30597
