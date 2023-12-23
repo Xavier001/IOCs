@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-22 18:01:45 UTC                        #
+# Last updated: 2023-12-22 22:12:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	conectmeto.net
 127.0.0.1	globron.duckdns.org
 127.0.0.1	smartpoliceax.website
 127.0.0.1	digitalcodecrafters.com
@@ -30579,4 +30580,4 @@
 127.0.0.1	globalunbox.top
 127.0.0.1	dvp.arkitek.top
 127.0.0.1	niloofarkhosravi.org
-# Number of entries: 30573
+# Number of entries: 30574
