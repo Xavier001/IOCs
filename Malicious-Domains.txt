@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-23 10:14:18 UTC                        #
+# Last updated: 2023-12-23 21:48:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	secure.biiclick.com
+127.0.0.1	ns3.c1oudflare.com
+127.0.0.1	ns2.c1oudflare.com
+127.0.0.1	ns1.c1oudflare.com
+127.0.0.1	workstation.homeip.net
 127.0.0.1	service-azqy7lup-1303896379.sh.tencentapigw.com
 127.0.0.1	lindacolor.com
 127.0.0.1	unougn.com
@@ -30559,14 +30564,4 @@
 127.0.0.1	lijiang.yunnan.cn
 127.0.0.1	digital.yesky.com
 127.0.0.1	www.onlinedown.net
-127.0.0.1	support.npmstatic.com
-127.0.0.1	help.npmstatic.com
-127.0.0.1	ns2.opposrv.top
-127.0.0.1	ns1.opposrv.top
-127.0.0.1	ns2.centos-yum.net
-127.0.0.1	ns1.centos-yum.net
-127.0.0.1	service-iby8w5fq-1306407718.gz.apigw.tencentcs.com
-127.0.0.1	linedgreen.org
-127.0.0.1	groupline.org
-127.0.0.1	poceretu.co
-# Number of entries: 30563
+# Number of entries: 30558
