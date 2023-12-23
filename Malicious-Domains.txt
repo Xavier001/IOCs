@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-22 22:12:32 UTC                        #
+# Last updated: 2023-12-23 07:47:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	unougn.com
+127.0.0.1	conitreid.com
 127.0.0.1	conectmeto.net
 127.0.0.1	globron.duckdns.org
 127.0.0.1	smartpoliceax.website
@@ -30566,18 +30568,4 @@
 127.0.0.1	groupline.org
 127.0.0.1	poceretu.co
 127.0.0.1	ok.ppctech.xyz
-127.0.0.1	uone1ht.top
-127.0.0.1	uthree3pt.top
-127.0.0.1	pten10ht.top
-127.0.0.1	ufive5ht.top
-127.0.0.1	uthree3ht.top
-127.0.0.1	useven7ht.top
-127.0.0.1	usix6ht.top
-127.0.0.1	useven7sr.top
-127.0.0.1	ufive5sr.top
-127.0.0.1	qeit8vt.top
-127.0.0.1	uone1sr.top
-127.0.0.1	globalunbox.top
-127.0.0.1	dvp.arkitek.top
-127.0.0.1	niloofarkhosravi.org
-# Number of entries: 30574
+# Number of entries: 30562
