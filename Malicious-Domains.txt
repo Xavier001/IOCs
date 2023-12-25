@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-25 09:11:58 UTC                        #
+# Last updated: 2023-12-25 19:23:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cdn-hackersdobem.com
+127.0.0.1	windows2.systeam.site
+127.0.0.1	windows.systeam.site
+127.0.0.1	cachetransferjs.com
+127.0.0.1	www.mygoogleupdate.com
+127.0.0.1	www.temt.top
 127.0.0.1	k1-ai-jk.789aa654.top
 127.0.0.1	k3-ai-jk.jkapp88.top
 127.0.0.1	jkapp88.top
@@ -30578,13 +30584,4 @@
 127.0.0.1	check1.judicical.ml
 127.0.0.1	check.judicical.ml
 127.0.0.1	msk-gov.com
-127.0.0.1	valerehandstand.com
-127.0.0.1	server1.sqsendy.shop
-127.0.0.1	colukas37.ddns.net
-127.0.0.1	wealthyblessed.ddns.net
-127.0.0.1	soatfebrero.duckdns.org
-127.0.0.1	cms.epicbags.top
-127.0.0.1	ns2.amz-proxy.net
-127.0.0.1	ns1.amz-proxy.net
-127.0.0.1	ys.myhome.xin
-# Number of entries: 30581
+# Number of entries: 30578
