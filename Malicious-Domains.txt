@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-24 18:19:56 UTC                        #
+# Last updated: 2023-12-25 09:11:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	k1-ai-jk.789aa654.top
+127.0.0.1	k3-ai-jk.jkapp88.top
+127.0.0.1	jkapp88.top
+127.0.0.1	2024shivatalisman.com
+127.0.0.1	citrusliveshow.com
+127.0.0.1	lineferaline.com
 127.0.0.1	petrus4.com
 127.0.0.1	www.736627.com
 127.0.0.1	m158663.com
@@ -30581,23 +30587,4 @@
 127.0.0.1	ns2.amz-proxy.net
 127.0.0.1	ns1.amz-proxy.net
 127.0.0.1	ys.myhome.xin
-127.0.0.1	teamsites.dycknet.com
-127.0.0.1	blogstat355.xyz
-127.0.0.1	blogstatserv25.xyz
-127.0.0.1	demstat377xm.xyz
-127.0.0.1	dexblog45.xyz
-127.0.0.1	dexstat255.xyz
-127.0.0.1	servblog757.xyz
-127.0.0.1	serverlogs37.xyz
-127.0.0.1	admlogs.online
-127.0.0.1	adstat277xm.xyz
-127.0.0.1	superposition.mathgeniusacademy.com
-127.0.0.1	career.humandesigns.com
-127.0.0.1	examples.propertytax4less.com
-127.0.0.1	taxes.rpacx.com
-127.0.0.1	framework.rankinfiles.com
-127.0.0.1	devops.livinginthenowbook.info
-127.0.0.1	ythre3sb.top
-127.0.0.1	yfive5sb.top
-127.0.0.1	yone1sb.top
-# Number of entries: 30594
+# Number of entries: 30581
