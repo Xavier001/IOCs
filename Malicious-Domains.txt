@@ -30581,7 +30581,4 @@
 127.0.0.1	yseven7sb.top
 127.0.0.1	ysix6sb.top
 127.0.0.1	yeit8sb.top
-127.0.0.1	check1.judicical.ml
-127.0.0.1	check.judicical.ml
-127.0.0.1	msk-gov.com
-# Number of entries: 30578
+# Number of entries: 30575
