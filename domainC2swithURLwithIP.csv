@@ -75,6 +75,7 @@ logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/
 mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 metersphere.zenmen.cloud,Possible Cobalt Strike C2 Domain,/match,47.112.137.119
 mricossoftmanager.info,Possible Cobalt Strike C2 Domain,/siteindex/c/,88.119.169.58
+myappsec.eu,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM,20.229.98.160
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain,/push,43.139.189.54
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,191.101.44.35
 ns.controlcavi.com,Possible Cobalt Strike C2 Domain,/_/SubscriptionsManagementUi/data/batchexecute,84.32.131.0

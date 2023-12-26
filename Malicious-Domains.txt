@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-25 19:23:06 UTC                        #
+# Last updated: 2023-12-26 10:14:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	myappsec.eu
 127.0.0.1	cdn-hackersdobem.com
 127.0.0.1	windows2.systeam.site
 127.0.0.1	windows.systeam.site
@@ -30573,12 +30574,4 @@
 127.0.0.1	m7py7pju95.execute-api.us-east-1.amazonaws.com
 127.0.0.1	sso.airspace.lol
 127.0.0.1	ausixo.xyz
-127.0.0.1	artacrazy.s2.subdomainbot.top
-127.0.0.1	s2.subdomainbot.top
-127.0.0.1	subdomainbot.top
-127.0.0.1	yyfive5vs.top
-127.0.0.1	ythre3pn.top
-127.0.0.1	yseven7sb.top
-127.0.0.1	ysix6sb.top
-127.0.0.1	yeit8sb.top
-# Number of entries: 30575
+# Number of entries: 30568
