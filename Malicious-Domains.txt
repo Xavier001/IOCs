@@ -30633,16 +30633,4 @@
 127.0.0.1	reception.q-dent.com
 127.0.0.1	ns2.anaitea.com
 127.0.0.1	ns1.anaitea.com
-127.0.0.1	ns1.goporsche.de
-127.0.0.1	balbalz2.com
-127.0.0.1	blahadfurtik2.com
-127.0.0.1	sh.sys-stat.download
-127.0.0.1	uggage83.ayzakpo.ru
-127.0.0.1	profile.htl502.tech
-127.0.0.1	check.htl502.tech
-127.0.0.1	ns1.htl502.tech
-127.0.0.1	r89kq6esetljq7r.top
-127.0.0.1	wudugf.top
-127.0.0.1	savastijir1.com
-127.0.0.1	savastijir2.com
-# Number of entries: 30639
+# Number of entries: 30627
