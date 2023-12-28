@@ -30615,7 +30615,4 @@
 127.0.0.1	ns1.wp9.cc
 127.0.0.1	logs.speech-microsoft.com
 127.0.0.1	log.speech-microsoft.com
-127.0.0.1	c2listx.beauty
-127.0.0.1	service-hzdiypvm-1318122919.gz.apigw.tencentcs.com
-127.0.0.1	r89kq6esetljq7r.fun
-# Number of entries: 30612
+# Number of entries: 30609
