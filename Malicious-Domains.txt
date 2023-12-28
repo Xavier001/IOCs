@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-27 17:00:48 UTC                        #
+# Last updated: 2023-12-27 22:15:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cs.xcb.one
 127.0.0.1	3280678.com
 127.0.0.1	www.1215466.com
 127.0.0.1	1319551.cc
@@ -30617,5 +30618,4 @@
 127.0.0.1	c2listx.beauty
 127.0.0.1	service-hzdiypvm-1318122919.gz.apigw.tencentcs.com
 127.0.0.1	r89kq6esetljq7r.fun
-127.0.0.1	service-qke82nt8-1301348154.gz.apigw.tencentcs.com
 # Number of entries: 30612
