@@ -30606,13 +30606,4 @@
 127.0.0.1	pentester02.duckdns.org
 127.0.0.1	windowlight.org
 127.0.0.1	polkbrothers.com
-127.0.0.1	1private.pro
-127.0.0.1	service-eii49n6u-1256578115.gz.apigw.tencentcs.com
-127.0.0.1	c3.haopangnie.top
-127.0.0.1	c2.haopangnie.top
-127.0.0.1	c1.haopangnie.top
-127.0.0.1	ns2.wp9.cc
-127.0.0.1	ns1.wp9.cc
-127.0.0.1	logs.speech-microsoft.com
-127.0.0.1	log.speech-microsoft.com
-# Number of entries: 30609
+# Number of entries: 30600
