@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-28 19:56:03 UTC                        #
+# Last updated: 2023-12-28 22:08:16 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	d2ll6bzzm7brny.cloudfront.net
 127.0.0.1	www.736632.com
 127.0.0.1	w1.avenueconsulting.co
 127.0.0.1	cdn.aa.aeromexico.foundation
@@ -30748,12 +30749,4 @@
 127.0.0.1	yfive5ht.top
 127.0.0.1	wvw.dasauto.top
 127.0.0.1	cmbefalcljjblia.top
-127.0.0.1	nbnj.xyz
-127.0.0.1	ns2.metaethicsecurityltd.online
-127.0.0.1	ns1.metaethicsecurityltd.online
-127.0.0.1	zjgsedu.fyi
-127.0.0.1	staxonecommerce.com
-127.0.0.1	jquery.etalafer.eu.org
-127.0.0.1	www.atomscience.cn
-127.0.0.1	auto.safariupdate.net
-# Number of entries: 30750
+# Number of entries: 30743
