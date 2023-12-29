@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-28 22:08:16 UTC                        #
+# Last updated: 2023-12-29 04:20:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	t.customerportalverify.store
+127.0.0.1	ec2-54-92-206-177.compute-1.amazonaws.com
+127.0.0.1	tracktheway.shop
+127.0.0.1	achiversacademy.shop
+127.0.0.1	abonnement-ferroviaire.com
+127.0.0.1	e-paketverfolgung.com
 127.0.0.1	d2ll6bzzm7brny.cloudfront.net
 127.0.0.1	www.736632.com
 127.0.0.1	w1.avenueconsulting.co
@@ -30733,20 +30739,4 @@
 127.0.0.1	cosplay.univisuo.com
 127.0.0.1	brands.shopperstreets.com
 127.0.0.1	marathon.teachmemoney.net
-127.0.0.1	www.checkupdates50.com
-127.0.0.1	www.updategateway.com
-127.0.0.1	developersolutions.org
-127.0.0.1	www.axxnxx.xyz
-127.0.0.1	ilapset.com
-127.0.0.1	utokra.com
-127.0.0.1	weswtef.com
-127.0.0.1	wewesuga.com
-127.0.0.1	deracak.com
-127.0.0.1	fikqso.com
-127.0.0.1	antilopes.ru
-127.0.0.1	faithful.salary90.antilopes.ru
-127.0.0.1	daxiong.doraemon.homes
-127.0.0.1	yfive5ht.top
-127.0.0.1	wvw.dasauto.top
-127.0.0.1	cmbefalcljjblia.top
-# Number of entries: 30743
+# Number of entries: 30733
