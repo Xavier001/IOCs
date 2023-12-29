@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-29 04:20:13 UTC                        #
+# Last updated: 2023-12-29 10:11:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	list.xcb.one
 127.0.0.1	t.customerportalverify.store
 127.0.0.1	ec2-54-92-206-177.compute-1.amazonaws.com
 127.0.0.1	tracktheway.shop
@@ -30739,4 +30740,4 @@
 127.0.0.1	cosplay.univisuo.com
 127.0.0.1	brands.shopperstreets.com
 127.0.0.1	marathon.teachmemoney.net
-# Number of entries: 30733
+# Number of entries: 30734
