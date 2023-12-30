@@ -1,12 +1,27 @@
 ################################################################
 # MalwareBazaar recent malware samples (MD5 hashes)            #
-# Last updated: 2023-12-30 09:16:59 UTC                        #
+# Last updated: 2023-12-30 11:44:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://bazaar.abuse.ch/faq/#tos               #
 # For questions please contact bazaar [at] abuse.ch            #
 ################################################################
 #
 # md5_hash
+7c275d65b12c02d5a85176c5768a042f
+864fec7c56d3a3fd0de982a049dc247a
+402557ee206f7aacbd6f9ff6af734e38
+6dabcc4315aec87869a8f89f0207b9ec
+d7d3911e9323382a426c62b1c1bbd566
+82b237983c744cf8c87ecb771cb6712c
+483f032ab447b2eed7aa963f8c979ced
+3caeae4dfe8904ebcbc8ea0de5551130
+ea35b0859a343c66e692a216e3f64835
+41ab78eba18f74db196c3876f49179a8
+9fb32dc431fd70acfb7d1608c0535317
+d1ef80645129b4a30054f94e20071f3a
+4dde258c6dedbe9a3fad176dd61bd840
+53dbe0a319e288210154d3f3c9029453
+04e918374a777e166f4040d0fc5371aa
 0e8b083c7cfc5249213a80441c249587
 dd801c9810d646f04c1ebaa46784fbe9
 8beae521ffc5328ae64c9115c8b12f24
@@ -53,7 +68,6 @@ a5de07d67f943843e4918521dad16e7f
 e58471f8d1dcb70c1a8912d1bca30a3e
 a796251ffee9c25753eaabf7dc269716
 62d1ba0db3b0e7d6cc23aea6ec4144d7
-cc0fb5755659ca9e276e35a3921430e5
 ce724a2c6c409670e7b73a03da14fb82
 013b5c28c530eb8a6ab921131e0aeec2
 dd95b8d2c210c73626faeef562f33b50
@@ -109,7 +123,6 @@ ac10bebb9d19574b83e1c6c1ba998c8a
 9a1ed40e36becff911aeb9e72f12fa14
 bba9ef423da6888e51d3e83f21d1ef80
 87f30bb0049c854f9467812a15d0fc91
-1a21c8cf386dbbe03a629883a0f99e16
 b359e2f262ca2e0c66d5394a52b0eff5
 743f23967fa9dcee7b940b53d5bb73bf
 78cacdc4dcb91d88ca14927f37ab8b9c
@@ -288,7 +301,4 @@ a49c8e41e81db9a91f28b5e25c9215ed
 7af5ffd4a3e20904b14c148ccd2e20e1
 c327d8e3f19d0a87052119773bc22eb7
 71ea72641a9bc220ece6b1ebd65f2089
-b9550f6b0984fa4a8cdcc2d299b3e1da
-65a607da7d22cac2f15e2d8a184f46f7
-22552aa59f68564328ae3a0ecb3982c6
-# Number of entries: 284
+# Number of entries: 294
