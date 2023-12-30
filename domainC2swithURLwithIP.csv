@@ -7,7 +7,9 @@ api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,47.242.20
 apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html,47.92.67.152
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html,47.92.67.152
 as.regsvcast.com,Possible Cobalt Strike C2 Domain,/hr,147.78.47.178
+astra4512.startdedicated.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,62.138.6.20
 awsglobalaccelerator.awsliveec.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,206.71.149.42
+bac.acs551.top,Possible Cobalt Strike C2 Domain,/g.pixel,43.163.204.20
 bot.douosadgaadonline.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,156.245.19.127
 c1.ericleexx.com,Possible Cobalt Strike C2 Domain,/pixel,114.132.159.186
 cache.thorjane.com,Possible Cobalt Strike C2 Domain,/search,38.180.78.177
@@ -32,7 +34,6 @@ cs.mlcrosoft.fyi,Possible Cobalt Strike C2 Domain,/enable/v9.35/OTEIZVY9GDN,43.1
 cs.xcb.one,Possible Cobalt Strike C2 Domain,/Level/printenv/D2UDLM17,20.196.198.116
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Domain,/webhp/,107.21.35.95
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/push,194.135.17.31
-d2ll6bzzm7brny.cloudfront.net,Possible Cobalt Strike C2 Domain,/divide/carofthemonth/DOBACWL6PZ,62.138.6.20
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
