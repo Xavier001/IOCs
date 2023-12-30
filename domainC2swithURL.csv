@@ -56,7 +56,6 @@ exchange2.microsoftser.top,Possible Cobalt Strike C2 Domain,/www/handle/doc
 exchanges1.microsoftser.top,Possible Cobalt Strike C2 Domain,/pixel
 exchanges2.microsoftser.top,Possible Cobalt Strike C2 Domain,/pixel
 forcorpor.com,Possible Cobalt Strike C2 Domain,/dpixel
-gertefin.com,Possible Cobalt Strike C2 Domain,/compose/v2.85/CIEU4A5V4T5
 iane.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04009-29d082d
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 igo0gle.com,Possible Cobalt Strike C2 Domain,/accelerate/FAQ/VO9D46J8
@@ -145,7 +144,6 @@ nt1.227api.com,Possible Cobalt Strike C2 Domain,/push
 nt2.227api.com,Possible Cobalt Strike C2 Domain,/load
 nt3.227api.com,Possible Cobalt Strike C2 Domain,/dot.gif
 oa.cncb.info,Possible Cobalt Strike C2 Domain,/updates
-oary.10086.cn,Possible Cobalt Strike C2 Fronting Domain,/static/js/21.4ba2507c.js
 ok.ppctech.xyz,Possible Cobalt Strike C2 Domain,/Microsoft/owa/
 one.gxzf.site,Possible Cobalt Strike C2 Domain,/clemente/details
 osssss.huawei.com,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html
@@ -158,10 +156,8 @@ rano.initiativeus.com,Possible Cobalt Strike C2 Domain,/gecko-002209d43095321-04
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad
 redteam.tandemcyberops.co,Possible Cobalt Strike C2 Domain,/fwlink
-res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507c.js
 sanjianke.icu,Possible Cobalt Strike C2 Domain,/updates
 schumacherbar.com,Possible Cobalt Strike C2 Domain,/acquire/research/6XC6CUWV
-seeusdt.com,Possible Cobalt Strike C2 Domain,/activity
 septcntr.com,Possible Cobalt Strike C2 Domain,/annotate/project/48Q040IJC
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink
 service-00o1njdx-1317238936.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronted Domain,/api/3
@@ -178,7 +174,7 @@ service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-mewxt0rn-1251826339.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-oa25iv4d-1306428399.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/dpixel
 service-pgxnje5g-1307231181.gz.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x
-skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/j.ad
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 social.soft-update.services,Possible Cobalt Strike C2 Domain,/ca
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 solar.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/lib/v2/wcp-consent.js

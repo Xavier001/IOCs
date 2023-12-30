@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-30 11:33:25 UTC                        #
+# Last updated: 2023-12-30 17:07:10 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	still.topteamlife.com
+127.0.0.1	loop.topteamlife.com
+127.0.0.1	lang.topteamlife.com
+127.0.0.1	zen.topteamlife.com
 127.0.0.1	astra4512.startdedicated.com
 127.0.0.1	fvia.id.vn
 127.0.0.1	amotel.xyz
@@ -30850,15 +30854,4 @@
 127.0.0.1	mobile.opposrv.top
 127.0.0.1	apiv4.unemployment-compensation.org
 127.0.0.1	license.itekgroup.com
-127.0.0.1	chinaratings.getsec.cc
-127.0.0.1	prepare.dawarel3mda.com
-127.0.0.1	described.moraver.com
-127.0.0.1	books.friendsofthefolsomlibrary.org
-127.0.0.1	mentoring.yogayield.net
-127.0.0.1	round.macayafoundation.org
-127.0.0.1	background.bodyguardchicago.com
-127.0.0.1	ns.killbaidu.cn
-127.0.0.1	deploy.vanquicktech.com
-127.0.0.1	form.haysllc.net
-127.0.0.1	testinfo.top
-# Number of entries: 30855
+# Number of entries: 30848
