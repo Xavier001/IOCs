@@ -1,11 +1,26 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-30 17:07:10 UTC                        #
+# Last updated: 2023-12-31 20:58:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.4280678.com
+127.0.0.1	www.babyeona.cc
+127.0.0.1	736626.com
+127.0.0.1	736627.com
+127.0.0.1	trkkpxjzglxoqtrk.xyz
+127.0.0.1	slqypioqnivnxmyl.xyz
+127.0.0.1	hgxxfucdlxpzkvtk.xyz
+127.0.0.1	ec2-3-214-25-23.compute-1.amazonaws.com
+127.0.0.1	ec2-54-157-161-18.compute-1.amazonaws.com
+127.0.0.1	ec2-34-194-79-16.compute-1.amazonaws.com
+127.0.0.1	ec2-3-220-152-159.compute-1.amazonaws.com
+127.0.0.1	lastpass.passwordsecurity.cloud
+127.0.0.1	ec2-18-216-147-202.us-east-2.compute.amazonaws.com
+127.0.0.1	cpanel.agdetails.com
+127.0.0.1	db.harmlesskouprey-f4f67ad9.swizzle-test.com
 127.0.0.1	still.topteamlife.com
 127.0.0.1	loop.topteamlife.com
 127.0.0.1	lang.topteamlife.com
@@ -30854,15 +30869,4 @@
 127.0.0.1	mobile.opposrv.top
 127.0.0.1	apiv4.unemployment-compensation.org
 127.0.0.1	license.itekgroup.com
-127.0.0.1	chinaratings.getsec.cc
-127.0.0.1	prepare.dawarel3mda.com
-127.0.0.1	described.moraver.com
-127.0.0.1	books.friendsofthefolsomlibrary.org
-127.0.0.1	mentoring.yogayield.net
-127.0.0.1	round.macayafoundation.org
-127.0.0.1	background.bodyguardchicago.com
-127.0.0.1	ns.killbaidu.cn
-127.0.0.1	deploy.vanquicktech.com
-127.0.0.1	form.haysllc.net
-127.0.0.1	testinfo.top
-# Number of entries: 30859
+# Number of entries: 30863
