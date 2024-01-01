@@ -30870,8 +30870,4 @@
 127.0.0.1	dl.whatsong.ir
 127.0.0.1	msedgesupport.azureedge.net
 127.0.0.1	secureservices.fun
-127.0.0.1	vitagees.com
-127.0.0.1	cas.opposrv.top
-127.0.0.1	mobile.opposrv.top
-127.0.0.1	apiv4.unemployment-compensation.org
-# Number of entries: 30868
+# Number of entries: 30864
