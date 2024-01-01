@@ -30868,5 +30868,4 @@
 127.0.0.1	cas.opposrv.top
 127.0.0.1	mobile.opposrv.top
 127.0.0.1	apiv4.unemployment-compensation.org
-127.0.0.1	license.itekgroup.com
-# Number of entries: 30863
+# Number of entries: 30862
