@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2023-12-31 20:58:27 UTC                        #
+# Last updated: 2024-01-01 07:58:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	rico.gradingran.de
+127.0.0.1	ec2-15-188-15-165.eu-west-3.compute.amazonaws.com
+127.0.0.1	c-paketverfolgung.com
+127.0.0.1	aaaaaaa.linx.contact
+127.0.0.1	38.6.188.39.shuyingbaofu.com
+127.0.0.1	jcalli.cyberlnerv.com
 127.0.0.1	www.4280678.com
 127.0.0.1	www.babyeona.cc
 127.0.0.1	736626.com
@@ -30868,4 +30874,4 @@
 127.0.0.1	cas.opposrv.top
 127.0.0.1	mobile.opposrv.top
 127.0.0.1	apiv4.unemployment-compensation.org
-# Number of entries: 30862
+# Number of entries: 30868
