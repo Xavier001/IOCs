@@ -1,11 +1,28 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-02 10:23:51 UTC                        #
+# Last updated: 2024-01-02 18:16:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	technologgies.com
+127.0.0.1	jenshol.com
+127.0.0.1	simorten.com
+127.0.0.1	investmentgblog.net
+127.0.0.1	protectionek.com
+127.0.0.1	2.94.223.87.dynamic.jazztel.es
+127.0.0.1	www.recruitment61.com
+127.0.0.1	conferencecenters.org
+127.0.0.1	www.levellivingfield.org
+127.0.0.1	www.authenticateoffice.com
+127.0.0.1	cdn.authenticateoffice.com
+127.0.0.1	www.activelifes.shop
+127.0.0.1	conspiracynomad.fvds.ru
+127.0.0.1	www.undiny.ru
+127.0.0.1	s-paketverfolgung.com
+127.0.0.1	undiny.ru
+127.0.0.1	mail.137-184-80-125.cprapid.com
 127.0.0.1	nris-d.mqpslop.com
 127.0.0.1	botnet.bydgoszcz.pl
 127.0.0.1	us.notfound.my.id
@@ -30873,19 +30890,4 @@
 127.0.0.1	luckytradeone.com
 127.0.0.1	service-kiss7m2t-1305595184.bj.apigw.tencentcs.com
 127.0.0.1	service-6a4f07lw-1308639534.nj.apigw.tencentcs.com
-127.0.0.1	oyndr.com
-127.0.0.1	tthre3sb.top
-127.0.0.1	tone1vs.top
-127.0.0.1	teit8vs.top
-127.0.0.1	teit8sb.top
-127.0.0.1	tseven7sb.top
-127.0.0.1	tten10sb.top
-127.0.0.1	tsix6sb.top
-127.0.0.1	tone1sb.top
-127.0.0.1	globaldate.top
-127.0.0.1	oldhorse.info
-127.0.0.1	nn2.pw
-127.0.0.1	vipcloud-my.xyz
-127.0.0.1	f0837288.xsph.ru
-127.0.0.1	jjffhdjbjncsutyeiks.000webhostapp.com
-# Number of entries: 30882
+# Number of entries: 30884
