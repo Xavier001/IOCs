@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-01 22:17:26 UTC                        #
+# Last updated: 2024-01-02 07:23:41 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	botnet.bydgoszcz.pl
 127.0.0.1	us.notfound.my.id
 127.0.0.1	ffvpn.vip
 127.0.0.1	toblo3.balad.shop
@@ -30887,4 +30888,4 @@
 127.0.0.1	f0837288.xsph.ru
 127.0.0.1	jjffhdjbjncsutyeiks.000webhostapp.com
 127.0.0.1	niuliang.xyz
-# Number of entries: 30881
+# Number of entries: 30882
