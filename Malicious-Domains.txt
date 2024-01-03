@@ -30884,10 +30884,4 @@
 127.0.0.1	top1.banifabused1.xyz
 127.0.0.1	sub1.banifabused2.xyz
 127.0.0.1	randomlybackup.duckdns.org
-127.0.0.1	duniadekho.bar
-127.0.0.1	server14.duniadekho.bar
-127.0.0.1	server7.duniadekho.bar
-127.0.0.1	luckytradeone.com
-127.0.0.1	service-kiss7m2t-1305595184.bj.apigw.tencentcs.com
-127.0.0.1	service-6a4f07lw-1308639534.nj.apigw.tencentcs.com
-# Number of entries: 30884
+# Number of entries: 30878
