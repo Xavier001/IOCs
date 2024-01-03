@@ -30868,20 +30868,4 @@
 127.0.0.1	cdnsupply.com
 127.0.0.1	service-js8jhgzk-1302739990.gz.apigw.tencentcs.com
 127.0.0.1	fastly.dotnet6.zip.global.prod.fastly.net
-127.0.0.1	service-lxxw7ork-1301466801.gz.apigw.tencentcs.com
-127.0.0.1	hepinghealth365.top
-127.0.0.1	samiseto.ru
-127.0.0.1	encyclopedia83.samiseto.ru
-127.0.0.1	cnc.powerfull-skid.com
-127.0.0.1	powerfull-skid.com
-127.0.0.1	utilsdownloader.com
-127.0.0.1	techvibeo.com
-127.0.0.1	dev02.kagotsurube.org
-127.0.0.1	dev01.kagotsurube.org
-127.0.0.1	ns2.xn--mil-ixy.com
-127.0.0.1	ns1.xn--mil-ixy.com
-127.0.0.1	asfgze.fun
-127.0.0.1	top1.banifabused1.xyz
-127.0.0.1	sub1.banifabused2.xyz
-127.0.0.1	randomlybackup.duckdns.org
-# Number of entries: 30878
+# Number of entries: 30862
