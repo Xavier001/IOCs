@@ -1,11 +1,30 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-04 11:00:18 UTC                        #
+# Last updated: 2024-01-04 15:40:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.petrus4.com
+127.0.0.1	www.ritestowritemyword.org
+127.0.0.1	sessions.usaa.website
+127.0.0.1	lms.usaa.website
+127.0.0.1	sensors.usaa.website
+127.0.0.1	mobile2.usaa.website
+127.0.0.1	secure07c.usaa.website
+127.0.0.1	payandhay.online
+127.0.0.1	www.payandhay.online
+127.0.0.1	ip133.ip-51-195-83.eu
+127.0.0.1	3ps1l0n.life
+127.0.0.1	agniane.sbs
+127.0.0.1	darkeye.online
+127.0.0.1	vps-729780f6.vps.ovh.ca
+127.0.0.1	rastro.pages.dev
+127.0.0.1	z3us.online
+127.0.0.1	vectorstealer.com
+127.0.0.1	lightfull.shop
+127.0.0.1	reksiaeksinov.fvds.ru
 127.0.0.1	nsns1.container911.site
 127.0.0.1	service-18c6z8nb-1303896379.sh.tencentapigw.cn
 127.0.0.1	baykusdnamcaya.net
@@ -30959,13 +30978,4 @@
 127.0.0.1	elbendito.con-ip.com
 127.0.0.1	173-44-141-47.nip.io
 127.0.0.1	vnet.keshant.com
-127.0.0.1	info.gtjas.site
-127.0.0.1	give.acemindtechnology.com
-127.0.0.1	vegetable.readquotations.com
-127.0.0.1	service.jaguarlandroverglobalservice.com
-127.0.0.1	nameless.life
-127.0.0.1	a.yuyancloud.asia
-127.0.0.1	infovesty.ru
-127.0.0.1	itwicenice.com
-127.0.0.1	exeseria.com
-# Number of entries: 30962
+# Number of entries: 30972
