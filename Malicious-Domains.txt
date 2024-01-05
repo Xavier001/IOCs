@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-05 08:36:29 UTC                        #
+# Last updated: 2024-01-05 12:01:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	updates.adobe-soft.net
+127.0.0.1	ns0248.euskinc.com
+127.0.0.1	ns1.dmitolt.com
+127.0.0.1	cscs.luxiaofei.online
+127.0.0.1	ns1.kp1nm8ao.xyz
+127.0.0.1	ns2.kp1nm8ao.xyz
+127.0.0.1	ns3.simplence.cn
+127.0.0.1	ns2.simplence.cn
+127.0.0.1	ns1.simplence.cn
+127.0.0.1	ongmanibeimeihong.cdnaliyun.top
 127.0.0.1	dns.dracumi.com
 127.0.0.1	cnc.nekololis.ovh
 127.0.0.1	ratsakis.ddns.net
@@ -30978,6 +30988,4 @@
 127.0.0.1	mofagov.live
 127.0.0.1	mofagov.info
 127.0.0.1	service-cufhwy32-1317863896.gz.apigw.tencentcs.com
-127.0.0.1	service.coffeeplato.com
-127.0.0.1	delideta.com
-# Number of entries: 30974
+# Number of entries: 30982
