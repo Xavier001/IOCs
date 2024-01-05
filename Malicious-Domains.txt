@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-04 15:40:06 UTC                        #
+# Last updated: 2024-01-04 22:29:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	potomac-clickstream.usaa.website
+127.0.0.1	clix.usaa.website
+127.0.0.1	bfp.usaa.website
+127.0.0.1	objects.usaa.website
+127.0.0.1	paxful.usaa.website
+127.0.0.1	infallible-lichterman.45-141-215-173.plesk.page
+127.0.0.1	monitor.cll5.fact.solutions
 127.0.0.1	www.petrus4.com
 127.0.0.1	www.ritestowritemyword.org
 127.0.0.1	sessions.usaa.website
@@ -30977,5 +30984,4 @@
 127.0.0.1	bts.korpop.top
 127.0.0.1	elbendito.con-ip.com
 127.0.0.1	173-44-141-47.nip.io
-127.0.0.1	vnet.keshant.com
-# Number of entries: 30972
+# Number of entries: 30978
