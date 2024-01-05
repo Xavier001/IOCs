@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-04 22:29:17 UTC                        #
+# Last updated: 2024-01-05 08:36:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dns.dracumi.com
+127.0.0.1	cnc.nekololis.ovh
+127.0.0.1	ratsakis.ddns.net
+127.0.0.1	sfxn.ddns.net
+127.0.0.1	thietbiytebt.online
 127.0.0.1	potomac-clickstream.usaa.website
 127.0.0.1	clix.usaa.website
 127.0.0.1	bfp.usaa.website
@@ -30975,13 +30980,4 @@
 127.0.0.1	service-cufhwy32-1317863896.gz.apigw.tencentcs.com
 127.0.0.1	service.coffeeplato.com
 127.0.0.1	delideta.com
-127.0.0.1	guest.grovedentalpractice.com
-127.0.0.1	data.microsoft-cloud-upload.com
-127.0.0.1	peace.winexmarkets11.com
-127.0.0.1	ns2.dnslive.top
-127.0.0.1	ns1.dnslive.top
-127.0.0.1	www.muenchner-finanzhlife.com
-127.0.0.1	bts.korpop.top
-127.0.0.1	elbendito.con-ip.com
-127.0.0.1	173-44-141-47.nip.io
-# Number of entries: 30978
+# Number of entries: 30974
