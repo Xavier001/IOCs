@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-05 21:33:17 UTC                        #
+# Last updated: 2024-01-06 10:01:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ns.tqrjfru.cn
+127.0.0.1	locall.navybd-gov.info
 127.0.0.1	www.1319554.com
 127.0.0.1	jmccarth.net
 127.0.0.1	crypticgamings.com
@@ -31017,6 +31019,4 @@
 127.0.0.1	rinonizexa.com
 127.0.0.1	service-jvv5aomb-1305465584.sh.apigw.tencentcs.com
 127.0.0.1	dns.creditcarsca.com
-127.0.0.1	anscowerbrut.com
-127.0.0.1	ptcl-gov.info
 # Number of entries: 31013
