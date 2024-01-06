@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-06 10:01:58 UTC                        #
+# Last updated: 2024-01-06 12:08:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	yourself-catholic.gl.at.ply.gg
+127.0.0.1	hk-once.520226.xyz
+127.0.0.1	m.molang007.com
+127.0.0.1	msprojectserver.com
+127.0.0.1	wmpupdate.com
+127.0.0.1	micros0fti.com
+127.0.0.1	updataus.com
 127.0.0.1	ns.tqrjfru.cn
 127.0.0.1	locall.navybd-gov.info
 127.0.0.1	www.1319554.com
@@ -31019,4 +31026,4 @@
 127.0.0.1	rinonizexa.com
 127.0.0.1	service-jvv5aomb-1305465584.sh.apigw.tencentcs.com
 127.0.0.1	dns.creditcarsca.com
-# Number of entries: 31013
+# Number of entries: 31020
