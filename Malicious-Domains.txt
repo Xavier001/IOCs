@@ -31019,5 +31019,4 @@
 127.0.0.1	dns.creditcarsca.com
 127.0.0.1	anscowerbrut.com
 127.0.0.1	ptcl-gov.info
-127.0.0.1	www.windowupdates.one
-# Number of entries: 31014
+# Number of entries: 31013
