@@ -46,6 +46,7 @@ dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink
 dns1.engie.com,Possible Cobalt Strike C2 Domain,/api/v1/getLast
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+domline.online,Possible Cobalt Strike C2 Domain,/owa/
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm
 engie.red,Possible Cobalt Strike C2 Domain,/api/v1/getLast
 epsonupdate.uk,Possible Cobalt Strike C2 Domain,/match

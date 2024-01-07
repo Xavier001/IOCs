@@ -31082,6 +31082,4 @@
 127.0.0.1	update.optaneinteloss.com
 127.0.0.1	hoysechichonea.con-ip.com
 127.0.0.1	and-tim.at.ply.gg
-127.0.0.1	data.dnslive.top
-127.0.0.1	rinonizexa.com
-# Number of entries: 31078
+# Number of entries: 31076
