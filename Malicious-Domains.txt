@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-07 08:12:57 UTC                        #
+# Last updated: 2024-01-07 12:34:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	d8g.lol
+127.0.0.1	service-oca34jj9-1257331363.sh.tencentapigw.com
 127.0.0.1	kennynanobelintourismedleonline.dumb1.com
 127.0.0.1	alpacino.club
 127.0.0.1	bukkva.club
@@ -31077,7 +31079,4 @@
 127.0.0.1	publish-partner.nabtrade.com.au
 127.0.0.1	resource.sekretariatparti.org
 127.0.0.1	ss.rlfslie.cloud
-127.0.0.1	aaa.ad4min.com
-127.0.0.1	tsix.synology.me
-127.0.0.1	bigbrainhousewall.com
-# Number of entries: 31074
+# Number of entries: 31073
