@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-06 19:16:41 UTC                        #
+# Last updated: 2024-01-07 08:12:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	kennynanobelintourismedleonline.dumb1.com
+127.0.0.1	alpacino.club
+127.0.0.1	bukkva.club
+127.0.0.1	gavrik.club
+127.0.0.1	voiceaichanger.pro
+127.0.0.1	voice.k7pw.com
+127.0.0.1	cdn-delivery.fortaxen.com
+127.0.0.1	links-transition.gl.at.ply.gg
+127.0.0.1	fall-sustained.gl.at.ply.gg
 127.0.0.1	d2kb8sccbn3wgs.cloudfront.net
 127.0.0.1	hetooppentyir.com
 127.0.0.1	intros.top
@@ -13,7 +22,6 @@
 127.0.0.1	landoflegendstore.net
 127.0.0.1	linkappc.link
 127.0.0.1	linkappd.link
-127.0.0.1	lukkeze.clu
 127.0.0.1	malletmissile.ru
 127.0.0.1	mamkindomen.info
 127.0.0.1	menrere.top
@@ -26,7 +34,6 @@
 127.0.0.1	wejqwed.link
 127.0.0.1	grilledwings.top
 127.0.0.1	gzgbnserv639.xyz
-127.0.0.1	gavrik.clu
 127.0.0.1	goodideal.org
 127.0.0.1	databasecontrol.xyz
 127.0.0.1	functionalrejh.com
@@ -36,10 +43,8 @@
 127.0.0.1	adverting-cdn.com
 127.0.0.1	alogsme.link
 127.0.0.1	alpacino.best
-127.0.0.1	alpacino.clu
 127.0.0.1	bigpetsmall.ru
 127.0.0.1	blogsme.link
-127.0.0.1	bukkva.clu
 127.0.0.1	clogsme.link
 127.0.0.1	cozanostra.best
 127.0.0.1	deniedfight.com
@@ -51,7 +56,6 @@
 127.0.0.1	fickitc.link
 127.0.0.1	fickotstuk.space
 127.0.0.1	sdgserv29.xyz
-127.0.0.1	truzen.clu
 127.0.0.1	untouchablename.com
 127.0.0.1	venecia.best
 127.0.0.1	pics.d3fgg12.lol
@@ -31076,10 +31080,4 @@
 127.0.0.1	aaa.ad4min.com
 127.0.0.1	tsix.synology.me
 127.0.0.1	bigbrainhousewall.com
-127.0.0.1	www.nacosgov.xyz
-127.0.0.1	cs.aazurenet.xyz
-127.0.0.1	update.optelinteloss.com
-127.0.0.1	update.optaneinteloss.com
-127.0.0.1	hoysechichonea.con-ip.com
-127.0.0.1	and-tim.at.ply.gg
-# Number of entries: 31076
+# Number of entries: 31074
