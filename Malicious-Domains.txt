@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-07 12:34:28 UTC                        #
+# Last updated: 2024-01-07 22:12:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dftrqgmt6hzf2.cloudfront.net
 127.0.0.1	d8g.lol
 127.0.0.1	service-oca34jj9-1257331363.sh.tencentapigw.com
 127.0.0.1	kennynanobelintourismedleonline.dumb1.com
@@ -31075,8 +31076,4 @@
 127.0.0.1	deperekanuki1.com
 127.0.0.1	deperekanuki2.com
 127.0.0.1	bleu.rfc.zitoprohealth.com
-127.0.0.1	oldredtoolbox.com.global.prod.fastly.net
-127.0.0.1	publish-partner.nabtrade.com.au
-127.0.0.1	resource.sekretariatparti.org
-127.0.0.1	ss.rlfslie.cloud
-# Number of entries: 31073
+# Number of entries: 31070
