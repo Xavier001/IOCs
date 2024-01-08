@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-08 10:07:51 UTC                        #
+# Last updated: 2024-01-08 11:21:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cloudwebhub.pro
+127.0.0.1	nowordshere.org
+127.0.0.1	seruvadessigen.3utilities.com
 127.0.0.1	locall.miragov.info
 127.0.0.1	workday.us.org
 127.0.0.1	3se9ewodke339f0e83.connectivitytests.com
@@ -31168,7 +31171,4 @@
 127.0.0.1	timestop.online
 127.0.0.1	the.timestop.online
 127.0.0.1	lumswestnewyork.com
-127.0.0.1	service-nlta6hhr-1313209854.sh.apigw.tencentcs.com
-127.0.0.1	service-04nl8z8p-1300276284.bj.apigw.tencentcs.com
-127.0.0.1	service-ayurikha-1302461797.gz.apigw.tencentcs.com
 # Number of entries: 31165
