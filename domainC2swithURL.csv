@@ -36,8 +36,8 @@ cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js
 conectmeto.net,Possible Cobalt Strike C2 Domain,/reactivate/robotics/6JMNBRXRQKFK
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
-content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/push
-content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/push
+content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/g.pixel
+content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/g.pixel
 cscs.luxiaofei.online,Possible Cobalt Strike C2 Domain,/updates.rss
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Fronting Domain,/webhp/
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/push
@@ -76,6 +76,7 @@ graph.microsoft.com,Possible Cobalt Strike C2 Domain,/_
 helloone.accountants.monster,Possible Cobalt Strike C2 Domain,/users.jsp
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 igo0gle.com,Possible Cobalt Strike C2 Domain,/accelerate/FAQ/VO9D46J8
+jhueby.diskstation.me,Possible Cobalt Strike C2 Domain,/ca
 jhueby.diskstation.me,Possible Cobalt Strike C2 Domain,/push
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 leno.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
@@ -182,7 +183,7 @@ service-oca34jj9-1257331363.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-pgxnje5g-1307231181.gz.tencentapigw.com,Possible Cobalt Strike C2 Domain,/visit.js
 service-qnlzv1t8-1317142305.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/get
-skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/g.pixel
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 success.165gov.cyou,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
 summerevent2023.com,Possible Cobalt Strike C2 Domain,/tip.php
