@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-09 08:45:37 UTC                        #
+# Last updated: 2024-01-09 11:25:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	federalstudentaid-usdepartmentofeducation.tandemcyberops.co
 127.0.0.1	jhueby.diskstation.me
 127.0.0.1	hk-once.520226.xyz
 127.0.0.1	znwfb3.buzz
@@ -31371,11 +31372,4 @@
 127.0.0.1	patyneduchez3212.duckdns.org
 127.0.0.1	7c5xek1a1pe7nnn.top
 127.0.0.1	96roafw91vs3hqv.top
-127.0.0.1	hufoxapom.us
-127.0.0.1	jkda0aska11.freemyip.com
-127.0.0.1	bks.loginke.xyz
-127.0.0.1	ns1.gcloud-api.com
-127.0.0.1	c_2_s.flash-cn.top
-127.0.0.1	fishofgloster.pw
-127.0.0.1	newwildtuna.top
-# Number of entries: 31372
+# Number of entries: 31366

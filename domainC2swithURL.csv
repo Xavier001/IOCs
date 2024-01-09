@@ -38,7 +38,6 @@ conectmeto.net,Possible Cobalt Strike C2 Domain,/reactivate/robotics/6JMNBRXRQKF
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
 content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/push
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/push
-cs.xcb.one,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cscs.luxiaofei.online,Possible Cobalt Strike C2 Domain,/updates.rss
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Fronting Domain,/webhp/
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/push
@@ -77,7 +76,8 @@ graph.microsoft.com,Possible Cobalt Strike C2 Domain,/_
 helloone.accountants.monster,Possible Cobalt Strike C2 Domain,/users.jsp
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 igo0gle.com,Possible Cobalt Strike C2 Domain,/accelerate/FAQ/VO9D46J8
-js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/ca
+jhueby.diskstation.me,Possible Cobalt Strike C2 Domain,/push
+js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 leno.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 locall.miragov.info,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 locall.navybd-gov.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -91,8 +91,8 @@ miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1
 micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.php
 mricossoftmanager.info,Possible Cobalt Strike C2 Domain,/siteindex/c/
-myappsec.eu,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain,/push
+newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/j.ad
 nris-d.mqpslop.com,Possible Cobalt Strike C2 Domain,/jquery-3.5.0.min.js
 ns.b1ing.com,Possible Cobalt Strike C2 Domain,/cm
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
@@ -160,7 +160,6 @@ rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d3000002
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507c.js
 sanjianke.icu,Possible Cobalt Strike C2 Domain,/updates
-septcntr.com,Possible Cobalt Strike C2 Domain,/annotate/project/48Q040IJC
 seruvadessigen.3utilities.com,Possible Cobalt Strike C2 Domain,/apiv8/getStatus
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink
 service-18c6z8nb-1303896379.sh.tencentapigw.cn,Possible Cobalt Strike C2 Domain,/api/x
