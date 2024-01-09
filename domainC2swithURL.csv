@@ -42,6 +42,7 @@ cs.xcb.one,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cscs.luxiaofei.online,Possible Cobalt Strike C2 Domain,/updates.rss
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Fronting Domain,/webhp/
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain,/push
+d1railx6y20syj.cloudfront.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 d20pexcm9ot6hj.cloudfront.net,Possible PoshC2 Fronted Domain,/cisben/marketq/
 d20tk7ygz8ugsj.cloudfront.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 d2kb8sccbn3wgs.cloudfront.net,Possible Cobalt Strike C2 Domain,/favicon
@@ -70,6 +71,7 @@ epsonupdate.uk,Possible Cobalt Strike C2 Domain,/match
 erihudeg.com,Possible Cobalt Strike C2 Domain,/Validate/Account/KDIKPCOYWU
 exchange1.microsoftser.top,Possible Cobalt Strike C2 Domain,/www/handle/doc
 exchange2.microsoftser.top,Possible Cobalt Strike C2 Domain,/www/handle/doc
+federalstudentaid-usdepartmentofeducation.tandemcyberops.co,Possible Cobalt Strike C2 Domain,/updates.rss
 fk.n0reply.eu.org,Possible Cobalt Strike C2 Domain,/api-opt-2023-gfr/3
 graph.microsoft.com,Possible Cobalt Strike C2 Domain,/_
 helloone.accountants.monster,Possible Cobalt Strike C2 Domain,/users.jsp
@@ -156,7 +158,6 @@ po.vigorlabs.info,Possible PoshC2 Fronting Domain,/classroom/sharewidget/widget_
 qw.regsvcast.com,Possible Cobalt Strike C2 Domain,/hr
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad
-redteam.tandemcyberops.co,Possible Cobalt Strike C2 Domain,/fwlink
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507c.js
 sanjianke.icu,Possible Cobalt Strike C2 Domain,/updates
 septcntr.com,Possible Cobalt Strike C2 Domain,/annotate/project/48Q040IJC
