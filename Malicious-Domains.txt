@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-08 22:12:19 UTC                        #
+# Last updated: 2024-01-09 08:45:37 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	jhueby.diskstation.me
+127.0.0.1	hk-once.520226.xyz
+127.0.0.1	znwfb3.buzz
 127.0.0.1	d1railx6y20syj.cloudfront.net
 127.0.0.1	mss.supportflash.pics
 127.0.0.1	0.whitelinetosplit.com
@@ -31375,4 +31378,4 @@
 127.0.0.1	c_2_s.flash-cn.top
 127.0.0.1	fishofgloster.pw
 127.0.0.1	newwildtuna.top
-# Number of entries: 31369
+# Number of entries: 31372
