@@ -1,11 +1,37 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-10 11:49:51 UTC                        #
+# Last updated: 2024-01-10 19:29:19 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	t.10nf0x.com
+127.0.0.1	webtest.icbcbc.com.cn
+127.0.0.1	api.icbcbc.com.cn
+127.0.0.1	git.icbcbc.com.cn
+127.0.0.1	www.yop918kiss.com
+127.0.0.1	www.babyeonb.cc
+127.0.0.1	farmbilllawenterprise.org
+127.0.0.1	outlook.trabede.com
+127.0.0.1	elated-black.45-141-215-173.plesk.page
+127.0.0.1	thesirenmika.xyz
+127.0.0.1	hc.info-163.com
+127.0.0.1	microsoft-webservices.com
+127.0.0.1	www.lucarne-films.com
+127.0.0.1	kasm.cy-security.de
+127.0.0.1	vpn.cy-security.de
+127.0.0.1	dl.info-163.com
+127.0.0.1	festive-jemison.173-249-59-190.plesk.page
+127.0.0.1	mqrmtohl90.za.com
+127.0.0.1	www.festive-jemison.173-249-59-190.plesk.page
+127.0.0.1	hilfe-konto.com
+127.0.0.1	foxee5.cfd
+127.0.0.1	yiyifb4.cfd
+127.0.0.1	www.137-184-80-125.cprapid.com
+127.0.0.1	www.glouton.ca
+127.0.0.1	freiheit.co.kr
+127.0.0.1	41-216-183-115.cprapid.com
 127.0.0.1	service-2c8ubzu7-1257331363.sh.tencentapigw.com
 127.0.0.1	ns.emaratalyoum.me
 127.0.0.1	wealthyman.ddnsfree.com
@@ -31352,22 +31378,4 @@
 127.0.0.1	dolscapche.com
 127.0.0.1	mnt.tahtakale.top
 127.0.0.1	www.servicedesk-internal.com
-127.0.0.1	ns2.paaszoo.tk
-127.0.0.1	ns1.paaszoo.tk
-127.0.0.1	for30.procellarumbi.ru
-127.0.0.1	for71.procellarumbi.ru
-127.0.0.1	iraty.ru
-127.0.0.1	len61.procellarumbi.ru
-127.0.0.1	loop71.procellarumbi.ru
-127.0.0.1	marginisbi.ru
-127.0.0.1	opela.ru
-127.0.0.1	orientalebi.ru
-127.0.0.1	procellarumbi.ru
-127.0.0.1	to30.procellarumbi.ru
-127.0.0.1	uteroma.ru
-127.0.0.1	edge.microsoft.skyman.cloud
-127.0.0.1	frp-bar.top
-127.0.0.1	jquery.elf33ferr.eu.org
-127.0.0.1	xisowah.info
-127.0.0.1	prepayersolutions.com
-# Number of entries: 31364
+# Number of entries: 31372
