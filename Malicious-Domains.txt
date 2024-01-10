@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-09 14:55:20 UTC                        #
+# Last updated: 2024-01-10 07:26:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	telemetry-notification.azureedge.net
+127.0.0.1	heur-labs.com
+127.0.0.1	confident-blackwell.159-223-29-112.plesk.page
+127.0.0.1	sideindexfollowragelrew.pw
+127.0.0.1	service-fkkrrv8q-1307850644.gz.tencentapigw.com
 127.0.0.1	000197.xyz
 127.0.0.1	emailmigration.org
 127.0.0.1	weekendstartupshow.com
@@ -31362,27 +31367,4 @@
 127.0.0.1	jquery.elf33ferr.eu.org
 127.0.0.1	xisowah.info
 127.0.0.1	prepayersolutions.com
-127.0.0.1	badurka5hippo73.top
-127.0.0.1	www.muenchner-finanzhilfe.com
-127.0.0.1	ns1.tosohindiacdn.cloudns.ph
-127.0.0.1	ttnznxatnj23395.com
-127.0.0.1	ypdvqxh5qie08md.top
-127.0.0.1	aiys71ubj6cbeqg.com
-127.0.0.1	aiys71ubj6cbeqg.fun
-127.0.0.1	feooa21nl5o8j4o.com
-127.0.0.1	ttnznxatnj23395.top
-127.0.0.1	ttnznxatnj23395.fun
-127.0.0.1	r89kq6esetljq7r.fun
-127.0.0.1	aiys71ubj6cbeqg.top
-127.0.0.1	w4zgt6l5hrxgvlz.top
-127.0.0.1	feooa21nl5o8j4o.top
-127.0.0.1	feooa21nl5o8j4o.fun
-127.0.0.1	r89kq6esetljq7r.top
-127.0.0.1	o1gpxolsxcnfz4y.top
-127.0.0.1	efjcfmbnnmnhkdn.top
-127.0.0.1	9xkcaayaagvr1p2.top
-127.0.0.1	qnv5ufhs524zc6d.top
-127.0.0.1	patyneduchez3212.duckdns.org
-127.0.0.1	7c5xek1a1pe7nnn.top
-127.0.0.1	96roafw91vs3hqv.top
-# Number of entries: 31379
+# Number of entries: 31361
