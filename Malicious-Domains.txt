@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-10 07:26:59 UTC                        #
+# Last updated: 2024-01-10 11:49:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	service-2c8ubzu7-1257331363.sh.tencentapigw.com
+127.0.0.1	ns.emaratalyoum.me
+127.0.0.1	wealthyman.ddnsfree.com
 127.0.0.1	telemetry-notification.azureedge.net
 127.0.0.1	heur-labs.com
 127.0.0.1	confident-blackwell.159-223-29-112.plesk.page
@@ -31367,4 +31370,4 @@
 127.0.0.1	jquery.elf33ferr.eu.org
 127.0.0.1	xisowah.info
 127.0.0.1	prepayersolutions.com
-# Number of entries: 31361
+# Number of entries: 31364
