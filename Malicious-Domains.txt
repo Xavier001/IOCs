@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-11 15:26:54 UTC                        #
+# Last updated: 2024-01-11 21:18:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ns2.yuejinjianke.cn
+127.0.0.1	ns1.yuejinjianke.cn
+127.0.0.1	ec2-52-76-227-205.ap-southeast-1.compute.amazonaws.com
+127.0.0.1	havoc.redethics.online
+127.0.0.1	sc.zhanshizhan.top
+127.0.0.1	www.stupefied-banach.91-215-85-177.plesk.page
 127.0.0.1	make-hex-32332e39342e34302e3132-rr.1u.ms
 127.0.0.1	www.gtbidding.com
 127.0.0.1	dogs.graspthemes.com
@@ -31400,4 +31406,4 @@
 127.0.0.1	accorg.site
 127.0.0.1	arloapp.host
 127.0.0.1	fad.tosts.top
-# Number of entries: 31394
+# Number of entries: 31400
