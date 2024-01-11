@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-11 02:58:50 UTC                        #
+# Last updated: 2024-01-11 10:03:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	home.aliba-inc.com
+127.0.0.1	ns1.fiducaire.lu
+127.0.0.1	ns1.asurances.lu
+127.0.0.1	sagsblog.telinduslab.lu
+127.0.0.1	ns1.jocelynhealth.com
+127.0.0.1	a1b2c3.site
+127.0.0.1	www.5cce1d35e.com
+127.0.0.1	185azyn6606dec24rd13.ddns.net
 127.0.0.1	gamemodz.duckdns.org
 127.0.0.1	wealthyblessed.duckdns.org
 127.0.0.1	opendomain.lyamore-metal.com
@@ -31371,18 +31379,4 @@
 127.0.0.1	auto-gpt.pw
 127.0.0.1	outlook.maschinenbau-iutz.de
 127.0.0.1	mail.maschinenbau-iutz.de
-127.0.0.1	pay.unionpayinte.com
-127.0.0.1	unionpayinte.com
-127.0.0.1	eyc.rfc.zitoprohealth.com
-127.0.0.1	nbjhllilknbjldk.top
-127.0.0.1	salwanazeeze.ddns.net
-127.0.0.1	salwanazeeze.duckdns.org
-127.0.0.1	wqqkgzmrdwxl8j.duckdns.org
-127.0.0.1	tracautomatitspow.com
-127.0.0.1	nemchaprues.com
-127.0.0.1	amirkofeefour.com
-127.0.0.1	boomstortyil.com
-127.0.0.1	gualazaskanti.com
-127.0.0.1	dolscapche.com
-127.0.0.1	mnt.tahtakale.top
-# Number of entries: 31379
+# Number of entries: 31373
