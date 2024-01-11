@@ -1,11 +1,35 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-11 10:30:07 UTC                        #
+# Last updated: 2024-01-11 15:26:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	make-hex-32332e39342e34302e3132-rr.1u.ms
+127.0.0.1	www.gtbidding.com
+127.0.0.1	dogs.graspthemes.com
+127.0.0.1	45-56-105-235.ip.linodeusercontent.com
+127.0.0.1	make-hex-32332e39352e3139372e313934-rr.1u.ms
+127.0.0.1	hostapimgmt.com
+127.0.0.1	recruitment60.com
+127.0.0.1	4280678.com
+127.0.0.1	www.jmccarth.net
+127.0.0.1	foodpantrybestpractices.org
+127.0.0.1	great-golick.45-141-215-173.plesk.page
+127.0.0.1	namyonghospital.net
+127.0.0.1	nadon.net
+127.0.0.1	yiyidh21.sbs
+127.0.0.1	jino57.fvds.ru
+127.0.0.1	nanafb3.sbs
+127.0.0.1	karasergkaravaev4.fvds.ru
+127.0.0.1	nowseacoin.top
+127.0.0.1	vasvasniks5.fvds.ru
+127.0.0.1	www.practical-hawking.159-89-8-28.plesk.page
+127.0.0.1	nz-us.top
+127.0.0.1	www.onbuyhouses.xyz
+127.0.0.1	ns2.blueseaedu.com
+127.0.0.1	ns1.blueseaedu.com
 127.0.0.1	wcs.microsoftwindows.cloud
 127.0.0.1	home.aliba-inc.com
 127.0.0.1	ns1.fiducaire.lu
@@ -31376,8 +31400,4 @@
 127.0.0.1	accorg.site
 127.0.0.1	arloapp.host
 127.0.0.1	fad.tosts.top
-127.0.0.1	biubiu.qgodaxin.tk
-127.0.0.1	auto-gpt.pw
-127.0.0.1	outlook.maschinenbau-iutz.de
-127.0.0.1	mail.maschinenbau-iutz.de
-# Number of entries: 31374
+# Number of entries: 31394
