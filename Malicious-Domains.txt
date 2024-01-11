@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-10 19:29:19 UTC                        #
+# Last updated: 2024-01-11 02:58:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	gamemodz.duckdns.org
+127.0.0.1	wealthyblessed.duckdns.org
+127.0.0.1	opendomain.lyamore-metal.com
+127.0.0.1	open.lyamore-metal.com
+127.0.0.1	opendomain.taiwantradeglobal.com
+127.0.0.1	open.taiwantradeglobal.com
+127.0.0.1	moonvenom4449.duckdns.org
+127.0.0.1	cnc7.cremeonu.online
 127.0.0.1	t.10nf0x.com
 127.0.0.1	webtest.icbcbc.com.cn
 127.0.0.1	api.icbcbc.com.cn
@@ -31377,5 +31385,4 @@
 127.0.0.1	gualazaskanti.com
 127.0.0.1	dolscapche.com
 127.0.0.1	mnt.tahtakale.top
-127.0.0.1	www.servicedesk-internal.com
-# Number of entries: 31372
+# Number of entries: 31379
