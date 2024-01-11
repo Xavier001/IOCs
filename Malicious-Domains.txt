@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-11 10:03:17 UTC                        #
+# Last updated: 2024-01-11 10:30:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wcs.microsoftwindows.cloud
 127.0.0.1	home.aliba-inc.com
 127.0.0.1	ns1.fiducaire.lu
 127.0.0.1	ns1.asurances.lu
@@ -31379,4 +31380,4 @@
 127.0.0.1	auto-gpt.pw
 127.0.0.1	outlook.maschinenbau-iutz.de
 127.0.0.1	mail.maschinenbau-iutz.de
-# Number of entries: 31373
+# Number of entries: 31374
