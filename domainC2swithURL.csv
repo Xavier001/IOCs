@@ -185,7 +185,6 @@ res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507
 sanjianke.icu,Possible Cobalt Strike C2 Domain,/updates
 seruvadessigen.3utilities.com,Possible Cobalt Strike C2 Domain,/apiv8/getStatus
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink
-service-18c6z8nb-1303896379.sh.tencentapigw.cn,Possible Cobalt Strike C2 Domain,/api/x
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
 service-1scv7ngm-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user
 service-2c8ubzu7-1257331363.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -201,7 +200,6 @@ service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-hs6w7s26-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB
-service-oa25iv4d-1306428399.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/dpixel
 service-qnlzv1t8-1317142305.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/get
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/j.ad
@@ -222,7 +220,7 @@ v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 verify.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/cx
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js
 vm.updataus.com,Possible Cobalt Strike C2 Fronting Domain,/navigation
-wcs.microsoftwindows.cloud,Possible Cobalt Strike C2 Domain,/load
+wcs.microsoftwindows.cloud,Possible Cobalt Strike C2 Domain,/dot.gif
 webtest.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/feedapi/v1/newsserver/api/getusername
 windows.systeam.site,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 windows2.systeam.site,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js

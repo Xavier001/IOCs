@@ -201,7 +201,6 @@ res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/static/js/21.4ba2507
 sanjianke.icu,Possible Cobalt Strike C2 Domain,/updates,165.154.131.126
 seruvadessigen.3utilities.com,Possible Cobalt Strike C2 Domain,/apiv8/getStatus,5.181.80.82
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink,155.94.170.73
-service-18c6z8nb-1303896379.sh.tencentapigw.cn,Possible Cobalt Strike C2 Domain,/api/x,81.68.210.91
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,124.223.200.131
 service-1scv7ngm-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user,111.230.30.197
 service-2c8ubzu7-1257331363.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x,101.35.173.226
@@ -217,7 +216,6 @@ service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-hs6w7s26-1317863896.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.138.212.90
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,43.138.20.107
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,123.207.51.53
-service-oa25iv4d-1306428399.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/dpixel,49.232.24.38
 service-qnlzv1t8-1317142305.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,47.106.171.201
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/get,139.155.148.131
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/j.ad,85.175.101.203
@@ -241,7 +239,7 @@ vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,23.98.137.196
 vm.updataus.com,Possible Cobalt Strike C2 Fronting Domain,/navigation,149.40.62.54
 vm.updataus.com,Possible Cobalt Strike C2 Fronting Domain,/navigation,5.42.66.50
-wcs.microsoftwindows.cloud,Possible Cobalt Strike C2 Domain,/load,121.40.233.196
+wcs.microsoftwindows.cloud,Possible Cobalt Strike C2 Domain,/dot.gif,121.40.233.196
 webtest.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/feedapi/v1/newsserver/api/getusername,49.234.12.22
 windows.systeam.site,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.46.11.186
 windows2.systeam.site,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.46.11.186
