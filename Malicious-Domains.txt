@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-11 21:18:44 UTC                        #
+# Last updated: 2024-01-12 01:02:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dde7q711skl5j.cloudfront.net
+127.0.0.1	d1dg7ete2wkysb.cloudfront.net
 127.0.0.1	ns2.yuejinjianke.cn
 127.0.0.1	ns1.yuejinjianke.cn
 127.0.0.1	ec2-52-76-227-205.ap-southeast-1.compute.amazonaws.com
@@ -31406,4 +31408,4 @@
 127.0.0.1	accorg.site
 127.0.0.1	arloapp.host
 127.0.0.1	fad.tosts.top
-# Number of entries: 31400
+# Number of entries: 31402
