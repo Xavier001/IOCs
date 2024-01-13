@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-13 05:40:38 UTC                        #
+# Last updated: 2024-01-13 13:38:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ns543320.ip-144-217-252.net
+127.0.0.1	ns1.cbhhb.com.cn
 127.0.0.1	dashboard.renovationsruth.com
 127.0.0.1	service-hsyluctr-1252427727.bj.tencentapigw.com
 127.0.0.1	service-9sehd1r7-1252427727.bj.apigw.tencentcs.com
@@ -31411,6 +31413,4 @@
 127.0.0.1	skofilldrom.com
 127.0.0.1	service-nlajk04n-1255951368.sh.apigw.tencentcs.com
 127.0.0.1	service-4yorw5on-1310046338.bj.apigw.tencentcs.com
-127.0.0.1	tos.kentla.top
-127.0.0.1	iamupdate.com
 # Number of entries: 31407
