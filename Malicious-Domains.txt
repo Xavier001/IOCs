@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-12 18:36:27 UTC                        #
+# Last updated: 2024-01-13 05:40:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dashboard.renovationsruth.com
 127.0.0.1	service-hsyluctr-1252427727.bj.tencentapigw.com
 127.0.0.1	service-9sehd1r7-1252427727.bj.apigw.tencentcs.com
 127.0.0.1	service-oca34jj9-1257331363.sh.tencentapigw.com
@@ -31412,10 +31413,4 @@
 127.0.0.1	service-4yorw5on-1310046338.bj.apigw.tencentcs.com
 127.0.0.1	tos.kentla.top
 127.0.0.1	iamupdate.com
-127.0.0.1	editorimage.info
-127.0.0.1	heheimage.xyz
-127.0.0.1	avatarcloud.top
-127.0.0.1	webcarewellclinic.com
-127.0.0.1	www.webcarewellclinic.com
-127.0.0.1	zettafull2023.3utilities.com
-# Number of entries: 31412
+# Number of entries: 31407
