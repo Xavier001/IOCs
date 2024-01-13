@@ -31418,9 +31418,4 @@
 127.0.0.1	webcarewellclinic.com
 127.0.0.1	www.webcarewellclinic.com
 127.0.0.1	zettafull2023.3utilities.com
-127.0.0.1	mgty274.app
-127.0.0.1	d4zy82lzfuvln.cloudfront.net
-127.0.0.1	service-jbwf158v-1254460102.cd.apigw.tencentcs.com
-127.0.0.1	ns4.icbcbc.com.cn
-127.0.0.1	ns3.icbcbc.com.cn
-# Number of entries: 31417
+# Number of entries: 31412
