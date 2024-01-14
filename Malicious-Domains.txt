@@ -31399,6 +31399,4 @@
 127.0.0.1	tu.oksys.lol
 127.0.0.1	win-update.co
 127.0.0.1	poe.lame3.top
-127.0.0.1	comvest.azureedge.net
-127.0.0.1	static.tencentsbank.com
-# Number of entries: 31395
+# Number of entries: 31393
