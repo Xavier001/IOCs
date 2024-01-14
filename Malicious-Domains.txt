@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-13 13:38:58 UTC                        #
+# Last updated: 2024-01-14 07:18:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.bofeng.com.cn
+127.0.0.1	debasesingle.life
 127.0.0.1	ns543320.ip-144-217-252.net
 127.0.0.1	ns1.cbhhb.com.cn
 127.0.0.1	dashboard.renovationsruth.com
@@ -31399,15 +31401,4 @@
 127.0.0.1	poe.lame3.top
 127.0.0.1	comvest.azureedge.net
 127.0.0.1	static.tencentsbank.com
-127.0.0.1	admin2.icbcbc.com.cn
-127.0.0.1	admin1.icbcbc.com.cn
-127.0.0.1	dns.chenda.xyz
-127.0.0.1	ns1.scongog.com
-127.0.0.1	ns1.baidu12366.xyz
-127.0.0.1	ns1.bookworld-langchao.work
-127.0.0.1	er.sky.florist
-127.0.0.1	utcp.cc
-127.0.0.1	b6079658.sytes.net
-127.0.0.1	slurpslimes.org
-127.0.0.1	c3c73sqbsxtwssv.top
-# Number of entries: 31404
+# Number of entries: 31395
