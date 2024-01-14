@@ -1,11 +1,59 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-14 07:18:36 UTC                        #
+# Last updated: 2024-01-14 15:14:37 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	fooddrinks.cc
+127.0.0.1	thinkvncvbnxc.website
+127.0.0.1	uniquevncvbnxc.website
+127.0.0.1	suitevncvbnxc.website
+127.0.0.1	teamvncvbnxc.website
+127.0.0.1	smartvncvbnxc.website
+127.0.0.1	simplevncvbnxc.website
+127.0.0.1	paintvncvbnxc.website
+127.0.0.1	royalvncvbnxc.website
+127.0.0.1	nowvncvbnxc.website
+127.0.0.1	ourvncvbnxc.website
+127.0.0.1	nhasachlaocai.online
+127.0.0.1	fbdasfhdsfdshgiksd.shop
+127.0.0.1	ilikefggfdbvcbvcbc.online
+127.0.0.1	lodgevncvbnxc.website
+127.0.0.1	accuratevncvbnxc.website
+127.0.0.1	dichvuhp.online
+127.0.0.1	epicvncvbnxc.website
+127.0.0.1	bestofvncvbnxc.website
+127.0.0.1	clubvncvbnxc.website
+127.0.0.1	trustihkl.lol
+127.0.0.1	www.micrcscft-store.com
+127.0.0.1	virtualvncvbnxc.website
+127.0.0.1	vncvbnxcappeal.website
+127.0.0.1	vncvbnxcbox.website
+127.0.0.1	vncvbnxccafe.website
+127.0.0.1	vncvbnxcexpertise.website
+127.0.0.1	vncvbnxcfaq.website
+127.0.0.1	vncvbnxcfast.website
+127.0.0.1	vncvbnxcgenius.website
+127.0.0.1	vncvbnxcgiant.website
+127.0.0.1	vncvbnxchero.website
+127.0.0.1	vncvbnxcmd.website
+127.0.0.1	vncvbnxcnatural.website
+127.0.0.1	vncvbnxcoffer.website
+127.0.0.1	vncvbnxcpraise.website
+127.0.0.1	vncvbnxcright.website
+127.0.0.1	vncvbnxcsave.website
+127.0.0.1	vncvbnxcseeker.website
+127.0.0.1	vncvbnxcsizable.website
+127.0.0.1	vncvbnxcsoup.website
+127.0.0.1	vncvbnxcthrilling.website
+127.0.0.1	vncvbnxcvalue.website
+127.0.0.1	vncvbnxcwhiz.website
+127.0.0.1	vncvbnxcxchange.website
+127.0.0.1	wikivncvbnxc.website
+127.0.0.1	cookie.dichvuhp.online
+127.0.0.1	maixunkeji.com
 127.0.0.1	www.bofeng.com.cn
 127.0.0.1	debasesingle.life
 127.0.0.1	ns543320.ip-144-217-252.net
@@ -31392,11 +31440,4 @@
 127.0.0.1	www.gzjinyou.cn
 127.0.0.1	www.cnhile-hl.com
 127.0.0.1	xovohed.org
-127.0.0.1	op2.tiktocek.net
-127.0.0.1	op1.tiktocek.net
-127.0.0.1	appkasnofert.com
-127.0.0.1	ta.oksys.lol
-127.0.0.1	tu.oksys.lol
-127.0.0.1	win-update.co
-127.0.0.1	poe.lame3.top
-# Number of entries: 31393
+# Number of entries: 31434
