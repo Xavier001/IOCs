@@ -31435,9 +31435,4 @@
 127.0.0.1	softwaredw.com
 127.0.0.1	diwdjndsfnj.ru
 127.0.0.1	iwqdndomdn.su
-127.0.0.1	o.wps.pics
-127.0.0.1	l.wps.pics
-127.0.0.1	www.gzjinyou.cn
-127.0.0.1	www.cnhile-hl.com
-127.0.0.1	xovohed.org
-# Number of entries: 31434
+# Number of entries: 31429
