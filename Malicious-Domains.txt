@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-14 15:14:37 UTC                        #
+# Last updated: 2024-01-15 18:34:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	vortexlab.azure-api.net
+127.0.0.1	service-bauue492-1309306755.gz.tencentapigw.cn
+127.0.0.1	lz4.tiktok123.life
+127.0.0.1	colorschemeas.com
+127.0.0.1	call.colorschemeas.com
 127.0.0.1	fooddrinks.cc
 127.0.0.1	thinkvncvbnxc.website
 127.0.0.1	uniquevncvbnxc.website
@@ -31423,11 +31428,4 @@
 127.0.0.1	sanjianke.icu
 127.0.0.1	cs45.gamesmetaa.com
 127.0.0.1	edg.mdstech.com.tw
-127.0.0.1	service-115i4sx8-1318658931.nj.apigw.tencentcs.com
-127.0.0.1	download.baidumusic.cloud
-127.0.0.1	crazypictures.xyz
-127.0.0.1	dns1.plngan.co
-127.0.0.1	rw1.sentrysource.com
-127.0.0.1	service-2rki087f-1305465584.bj.apigw.tencentcs.com
-127.0.0.1	service-qzmgx5a9-1256327773.bj.apigw.tencentcs.com
-# Number of entries: 31424
+# Number of entries: 31422
