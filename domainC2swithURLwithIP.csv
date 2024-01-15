@@ -83,7 +83,6 @@ dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink,100.26.145.203
 dns1.engie.com,Possible Cobalt Strike C2 Domain,/api/v1/getLast,195.25.243.89
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search,159.203.60.8
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,8.218.129.91
-domline.online,Possible Cobalt Strike C2 Domain,/owa/,91.92.246.43
 download.updatebrowser.cn,Possible Cobalt Strike C2 Fronted Domain,/0RZDKXR/ADGJJ4B3VRSPAV9KC3MXI80OFD.css,8.222.154.119
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm,121.5.128.191
 engie.red,Possible Cobalt Strike C2 Domain,/api/v1/getLast,195.25.243.89
@@ -98,7 +97,6 @@ helloone.accountants.monster,Possible Cobalt Strike C2 Domain,/users.jsp,121.37.
 home.aliba-inc.com,Possible Cobalt Strike C2 Fronted Domain,/audiencemanager.js,47.92.110.61
 hostapimgmt.com,Possible Cobalt Strike C2 Domain,/posting.html,185.161.211.17
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d,172.105.192.139
-igo0gle.com,Possible Cobalt Strike C2 Domain,/accelerate/FAQ/VO9D46J8,5.188.87.54
 jhueby.diskstation.me,Possible Cobalt Strike C2 Domain,/ca,75.90.35.49
 jhueby.diskstation.me,Possible Cobalt Strike C2 Domain,/push,75.90.35.49
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,8.212.44.149
@@ -198,7 +196,6 @@ server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink,155.94.170.73
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,124.223.200.131
 service-1scv7ngm-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user,111.230.30.197
 service-2c8ubzu7-1257331363.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x,101.35.173.226
-service-5q4qdd0g-1317142305.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,47.106.171.201
 service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,81.70.29.244
 service-9sehd1r7-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,43.138.20.107
 service-b7g5qx9l-1318401771.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/stream,123.207.50.191
@@ -212,8 +209,9 @@ service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,123.207.51.53
 service-qnlzv1t8-1317142305.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,47.106.171.201
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/get,139.155.148.131
-skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/j.ad,85.175.101.203
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/updates.rss,85.175.101.203
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
+spf1.superpeggy.com,Possible Cobalt Strike C2 Domain,/search,68.170.2.60
 success.165gov.cyou,Possible Cobalt Strike C2 Domain,/mht_image/,47.254.233.5
 summerevent2023.com,Possible Cobalt Strike C2 Domain,/tip.php,20.120.177.99
 t.10nf0x.com,Possible Cobalt Strike C2 Domain,/owa/,134.209.92.85
@@ -223,7 +221,10 @@ updataus.com,Possible Cobalt Strike C2 Fronted Domain,/navigation,149.40.62.54
 updataus.com,Possible Cobalt Strike C2 Fronted Domain,/navigation,5.42.66.50
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.138.73.164
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/__utm.gif,103.97.177.106
+update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/cm,103.148.202.12
+update.microsofthk.com,Possible Cobalt Strike C2 Domain,/ca,103.148.202.10
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/load,149.127.215.132
+update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,103.148.202.10
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/pixel,149.127.215.132
 updates.adobe-soft.net,Possible Cobalt Strike C2 Domain,/dot.gif,101.33.33.237
 updates.imedicalhub.com,Possible Cobalt Strike C2 Domain,/ms-settings-power,138.197.127.231
