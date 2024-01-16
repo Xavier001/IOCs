@@ -31427,5 +31427,4 @@
 127.0.0.1	cdn.cdndbapp.top
 127.0.0.1	sanjianke.icu
 127.0.0.1	cs45.gamesmetaa.com
-127.0.0.1	edg.mdstech.com.tw
-# Number of entries: 31422
+# Number of entries: 31421
