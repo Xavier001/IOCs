@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-16 19:05:19 UTC                        #
+# Last updated: 2024-01-17 12:13:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	shomyo.secru.it
 127.0.0.1	multitraders.net
 127.0.0.1	thekostenfamilys.com
 127.0.0.1	thichgiban.com
@@ -31457,6 +31458,4 @@
 127.0.0.1	cnc.stress.wtf
 127.0.0.1	headsity.com
 127.0.0.1	stoppublick.xyz
-127.0.0.1	let.minimi.top
-127.0.0.1	service-q07ntsqs-1301775575.gz.apigw.tencentcs.com
-# Number of entries: 31453
+# Number of entries: 31452
