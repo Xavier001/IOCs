@@ -82,6 +82,7 @@ home.aliba-inc.com,Possible Cobalt Strike C2 Fronted Domain,/audiencemanager.js
 hostapimgmt.com,Possible Cobalt Strike C2 Domain,/posting.html
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
+kr.i110.fun,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 leno.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 locall.miragov.info,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 locall.navybd-gov.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -181,6 +182,7 @@ service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-1scv7ngm-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user
 service-2c8ubzu7-1257331363.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x
 service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+service-9cs9xxk6-1259711277.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x
 service-9sehd1r7-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-b7g5qx9l-1318401771.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/stream
 service-bauue492-1309306755.gz.tencentapigw.cn,Possible Cobalt Strike C2 Domain,/api/getit
@@ -194,6 +196,7 @@ service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB
 service-pgxnje5g-1307231181.gz.tencentapigw.com,Possible Cobalt Strike C2 Domain,/dot.gif
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/get
+shomyo.secru.it,Possible Cobalt Strike C2 Domain,/secure.html
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/updates.rss
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 spf1.superpeggy.com,Possible Cobalt Strike C2 Domain,/search
