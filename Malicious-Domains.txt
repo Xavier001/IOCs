@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-17 15:07:36 UTC                        #
+# Last updated: 2024-01-17 22:12:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	practical-goldwasser.2-58-113-220.plesk.page
+127.0.0.1	tradeplayz.com
+127.0.0.1	mail.spacestar.su
+127.0.0.1	hei.ttss66.co
+127.0.0.1	sacacaa.com
+127.0.0.1	1.ttss66.co
 127.0.0.1	cloud5.5-systems.ru
 127.0.0.1	hel.syscare.sk
 127.0.0.1	node103.5-systems.ru
@@ -31473,9 +31479,4 @@
 127.0.0.1	kellmda.click
 127.0.0.1	percolysrl2.ddns.net
 127.0.0.1	uilove.ddns.net
-127.0.0.1	windows-tech-support.su
-127.0.0.1	service-5q4qdd0g-1317142305.gz.apigw.tencentcs.com
-127.0.0.1	canadiancrafting.azureedge.net
-127.0.0.1	kufufeyu.org
-127.0.0.1	artwest35-dgeygpfqhxgqdeap.z01.azurefd.net
-# Number of entries: 31472
+# Number of entries: 31473
