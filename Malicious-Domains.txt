@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-17 22:12:56 UTC                        #
+# Last updated: 2024-01-18 06:11:41 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	broler.shop
+127.0.0.1	yadongrec.com
+127.0.0.1	api.broler.shop
 127.0.0.1	practical-goldwasser.2-58-113-220.plesk.page
 127.0.0.1	tradeplayz.com
 127.0.0.1	mail.spacestar.su
@@ -31472,11 +31475,4 @@
 127.0.0.1	eptrem.duckdns.org
 127.0.0.1	service-0odwwo2z-1256327773.bj.apigw.tencentcs.com
 127.0.0.1	drewgriess.com
-127.0.0.1	tosals.ink
-127.0.0.1	atusay.lat
-127.0.0.1	apikapatildi.net
-127.0.0.1	speedtestip.xyz
-127.0.0.1	kellmda.click
-127.0.0.1	percolysrl2.ddns.net
-127.0.0.1	uilove.ddns.net
-# Number of entries: 31473
+# Number of entries: 31469
