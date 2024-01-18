@@ -1,11 +1,41 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-18 10:50:12 UTC                        #
+# Last updated: 2024-01-18 20:49:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cs1-tulalip.azureedge.net
+127.0.0.1	ms-api-cs1.azureedge.net
+127.0.0.1	make-hex-32332e39352e39302e3633-rr.1u.ms
+127.0.0.1	45-56-105-235.ip.linodeusercontent.com
+127.0.0.1	d3l4l87i1ykapf.cloudfront.net
+127.0.0.1	www.maixunkeji.com
+127.0.0.1	service-bauue492-1309306755.gz.tencentapigw.cn
+127.0.0.1	www.wuxiaoyun.com
+127.0.0.1	vibrant-proskuriakova.185-228-234-171.plesk.page
+127.0.0.1	education.mccoe.org
+127.0.0.1	set.urlz.ws
+127.0.0.1	su.urlz.ws
+127.0.0.1	ad.urlz.ws
+127.0.0.1	dns.stoneco.network
+127.0.0.1	2280678.com
+127.0.0.1	team-speak.r2283.com
+127.0.0.1	78.lan-so2-1.static.rozabg.com
+127.0.0.1	nanasuuakiaa.host
+127.0.0.1	doobiefly.com
+127.0.0.1	ec2-52-23-33-245.compute-1.amazonaws.com
+127.0.0.1	primalbrainhacks.com
+127.0.0.1	vmi1561484.contaboserver.net
+127.0.0.1	ipmotinov.fvds.ru
+127.0.0.1	artre3.fvds.ru
+127.0.0.1	polina.to-kgb.ru
+127.0.0.1	ec2-3-26-24-38.ap-southeast-2.compute.amazonaws.com
+127.0.0.1	ad.ttss66.co
+127.0.0.1	ec2-15-207-223-7.ap-south-1.compute.amazonaws.com
+127.0.0.1	app.ttss66.co
+127.0.0.1	164-90-169-184.cprapid.com
 127.0.0.1	service-9cs9xxk6-1259711277.gz.tencentapigw.com.cn
 127.0.0.1	ns3.baidusec.top
 127.0.0.1	ns2.baidusec.top
@@ -31469,11 +31499,4 @@
 127.0.0.1	mycustomos-sa.com
 127.0.0.1	eterprx.net
 127.0.0.1	eternitypr.net
-127.0.0.1	aloowforest.xyz
-127.0.0.1	fpv.buyemlak.top
-127.0.0.1	testbots.maizhangyu.top
-127.0.0.1	maizhangyu.top
-127.0.0.1	luckynight.shop
-127.0.0.1	service-ehj0oavc-1258426110.gz.apigw.tencentcs.com
-127.0.0.1	xmkq08012g.top
-# Number of entries: 31470
+# Number of entries: 31493
