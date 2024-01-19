@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-19 07:37:18 UTC                        #
+# Last updated: 2024-01-19 10:41:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cloud.huawel.top
 127.0.0.1	abode-dashboard-media.s3.ap-south-1.amazonaws.com
 127.0.0.1	archivevalley-media.s3.amazonaws.com
 127.0.0.1	blooming.s3.amazonaws.com
@@ -31501,4 +31502,4 @@
 127.0.0.1	elokijjonaut.com
 127.0.0.1	demomoves.xyz
 127.0.0.1	mycustomos-sa.com
-# Number of entries: 31495
+# Number of entries: 31496
