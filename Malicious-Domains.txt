@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-20 06:16:06 UTC                        #
+# Last updated: 2024-01-20 10:13:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cloudflairly.com
 127.0.0.1	api.d-n-s.name
 127.0.0.1	dcgems.net
 127.0.0.1	cpanel.netbar.org
@@ -31490,10 +31491,4 @@
 127.0.0.1	priklosta.com
 127.0.0.1	confrue.z1m3s.xyz
 127.0.0.1	werewolves.su
-127.0.0.1	www.cy9nus.com
-127.0.0.1	unbreakable.live
-127.0.0.1	static.cgbchina.com.cn.cloud.360.net.cdn.dnsv1.com
-127.0.0.1	service-jmhic8q0-1306743016.gz.apigw.tencentcs.com
-127.0.0.1	service-j3lu1dcf-1259409518.bj.apigw.tencentcs.com
-127.0.0.1	service-n232999m-1258583189.nj.apigw.tencentcs.com
-# Number of entries: 31490
+# Number of entries: 31485
