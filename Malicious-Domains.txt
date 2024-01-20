@@ -31488,7 +31488,4 @@
 127.0.0.1	galandskiyher2.com
 127.0.0.1	gejevesd.beget.tech
 127.0.0.1	bell.dyndns-server.com
-127.0.0.1	priklosta.com
-127.0.0.1	confrue.z1m3s.xyz
-127.0.0.1	werewolves.su
-# Number of entries: 31485
+# Number of entries: 31482
