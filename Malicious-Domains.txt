@@ -31493,10 +31493,4 @@
 127.0.0.1	google-analytiks.com
 127.0.0.1	updateadobeflash.website
 127.0.0.1	googletagmanagar.com
-127.0.0.1	republicabolibariana.con-ip.com
-127.0.0.1	favor-grace-fax.home-webserver.de
-127.0.0.1	3df331cc64cdbb3097dc08c5e68b1ed06209dfc0f1eddf6570.crusherx1.sbs
-127.0.0.1	xianxiaobai.top
-127.0.0.1	service-h5j54wzu-1301910104.nj.apigw.tencentcs.com
-127.0.0.1	www.mycustomos-sa.com
-# Number of entries: 31493
+# Number of entries: 31487
