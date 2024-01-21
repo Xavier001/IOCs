@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-21 12:03:31 UTC                        #
+# Last updated: 2024-01-21 16:26:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sys.tcc-internal.com
+127.0.0.1	evil-pinky.com
 127.0.0.1	mcfupdservice.com
 127.0.0.1	mail-modp-gov-pk.ntc-telecomcorporation.workers.dev
 127.0.0.1	www.fl0ating.xyz
@@ -31506,9 +31508,4 @@
 127.0.0.1	updates.securitylab.io
 127.0.0.1	jonesleming.xyz
 127.0.0.1	hkmtdr.ddns.net
-127.0.0.1	traftech.pro
-127.0.0.1	vps.cpple.tk
-127.0.0.1	sales.yummycakes.online
-127.0.0.1	yummycakes.online
-127.0.0.1	web.kokorec.top
-# Number of entries: 31505
+# Number of entries: 31502
