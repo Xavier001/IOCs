@@ -31499,13 +31499,4 @@
 127.0.0.1	bjbbkp.msoffice2.com
 127.0.0.1	bjb.msoffice2.com
 127.0.0.1	ira.tatumi.top
-127.0.0.1	service-mxnrshfx-1300276284.sh.apigw.tencentcs.com
-127.0.0.1	cobaltstrike1877.duckdns.org
-127.0.0.1	license.werewolves.su
-127.0.0.1	ns3.sgcc.zip
-127.0.0.1	ns2.sgcc.zip
-127.0.0.1	ns1.sgcc.zip
-127.0.0.1	updates.securitylab.io
-127.0.0.1	jonesleming.xyz
-127.0.0.1	hkmtdr.ddns.net
-# Number of entries: 31502
+# Number of entries: 31493

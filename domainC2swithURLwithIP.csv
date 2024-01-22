@@ -89,8 +89,8 @@ fk.n0reply.eu.org,Possible Cobalt Strike C2 Domain,/api-opt-2023-gfr/3,42.236.91
 helloone.accountants.monster,Possible Cobalt Strike C2 Domain,/users.jsp,121.37.206.148
 home.aliba-inc.com,Possible Cobalt Strike C2 Fronted Domain,/audiencemanager.js,47.92.110.61
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d,172.105.192.139
-js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/pixel,8.212.44.149
-js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/pixel,8.212.49.116
+js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/dpixel,8.212.44.149
+js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/dpixel,8.212.49.116
 kr.i110.fun,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.141.136.133
 leno.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d,172.105.192.139
 locall.miragov.info,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,134.122.52.228
