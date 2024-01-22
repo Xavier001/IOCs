@@ -48,7 +48,6 @@ cloud.huawel.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,117.50.17
 cloudflairly.com,Possible Cobalt Strike C2 Domain,/devise/v7.13/DBE4YDCY84F,38.180.29.146
 cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3,101.35.4.152
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js,167.179.84.218
-conectmeto.net,Possible Cobalt Strike C2 Domain,/reactivate/robotics/6JMNBRXRQKFK,45.155.249.144
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM,18.184.17.94
 content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/g.pixel,8.140.135.23
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/g.pixel,8.140.135.23
@@ -94,7 +93,6 @@ js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/dpixel,8.212.49.116
 kr.i110.fun,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.141.136.133
 leno.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d,172.105.192.139
 locall.miragov.info,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,134.122.52.228
-locall.navybd-gov.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,188.166.39.71
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain,/api/3,101.35.198.64
 log.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2,206.237.30.76
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2,206.237.30.76
@@ -223,7 +221,6 @@ wcs.microsoftwindows.cloud,Possible Cobalt Strike C2 Domain,/dot.gif,121.40.233.
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 wrk5.eastus.cloudapp.azure.com,Possible PoshC2 Domain,/business/retail-business/insurance.asp/,172.206.251.179
 www.checkupdates50.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,74.48.162.145
-www.goodljlagfhss.live,Possible Cobalt Strike C2 Domain,/owa/,47.243.236.236
 www.goodljlagfhssss.live,Possible Cobalt Strike C2 Domain,/owa/,47.76.72.11
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/,115.159.50.50
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain,/bg,8.210.2.157
