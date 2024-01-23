@@ -1,11 +1,29 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-23 10:12:33 UTC                        #
+# Last updated: 2024-01-23 16:30:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cloud-dnssync.com
+127.0.0.1	expedia-realtime.expeida.net
+127.0.0.1	cpcontacts.dnl-l.ooguy.com
+127.0.0.1	account.deenpel.com
+127.0.0.1	login.deenpel.com
+127.0.0.1	onboarding.expeida.net
+127.0.0.1	2-58-113-172.cprapid.com
+127.0.0.1	f0867029.xsph.ru
+127.0.0.1	lmanage.net
+127.0.0.1	karasergkaravaev6.fvds.ru
+127.0.0.1	snf-893982.vm.okeanos.grnet.gr
+127.0.0.1	159.89.8.28.sslip.io
+127.0.0.1	ip-89-38-131-70-98573.vps.hosted-by-mvps.net
+127.0.0.1	107-172-89-198.nip.io
+127.0.0.1	www.idn15r69vh3fwhzclfoeuaoy.today
+127.0.0.1	macgains.duckdns.org
+127.0.0.1	buy-dnd.shop
+127.0.0.1	service-2o2bxyq2-1308102940.gz.apigw.tencentcs.com
 127.0.0.1	microsoftwindows.one
 127.0.0.1	jogard.duckdns.org
 127.0.0.1	de.zephyr.herominers.com
@@ -31537,19 +31555,4 @@
 127.0.0.1	saham.edalat.press
 127.0.0.1	eblaghonline.host
 127.0.0.1	jdklove.top
-127.0.0.1	cerpotionfe.com
-127.0.0.1	according-psp.at.ply.gg
-127.0.0.1	2343.hopto.org
-127.0.0.1	kbowlingslaw.com
-127.0.0.1	liouas.ddns.net
-127.0.0.1	mywormtwon.ddns.net
-127.0.0.1	notaire8081.duckdns.org
-127.0.0.1	su1d.nerdpol.ovh
-127.0.0.1	updateccdata.duckdns.org
-127.0.0.1	vcmkpl.duckdns.org
-127.0.0.1	wormsito.duckdns.org
-127.0.0.1	urlcallinghta6.blogspot.com
-127.0.0.1	wormxwar.ddns.net
-127.0.0.1	promocar.xyz
-127.0.0.1	team-x.work.gd
-# Number of entries: 31546
+# Number of entries: 31549
