@@ -59,7 +59,6 @@ dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dig.fuli-oa.cn,Possible Cobalt Strike C2 Domain
 dns.azurewinservice.com,Possible Cobalt Strike C2 Domain
-dns.check.support,Possible Cobalt Strike C2 Domain
 dns.checkavail.space,Possible Cobalt Strike C2 Domain
 dns.cityoall.com,Possible Cobalt Strike C2 Domain
 dns.nightmare.su,Possible Cobalt Strike C2 Domain
@@ -89,6 +88,7 @@ log.speech-microsoft.com,Possible Cobalt Strike C2 Domain
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain
 mail.cncb.info,Possible Cobalt Strike C2 Domain
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain
+microsoftwindows.one,Possible Cobalt Strike C2 Domain
 micrusroft.com,Possible Cobalt Strike C2 Domain
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 network-checkin.info,Possible Cobalt Strike C2 Domain
@@ -163,7 +163,6 @@ ok.ppctech.xyz,Possible Cobalt Strike C2 Domain
 one.gxzf.site,Possible Cobalt Strike C2 Domain
 ongmanibeimeihong.cdnaliyun.top,Possible Cobalt Strike C2 Domain
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain
-pic.micros0ft-security.org,Possible Cobalt Strike C2 Domain
 poop.ndgnetlabs.com,Possible Cobalt Strike C2 Domain
 primo.freshhema.com,Possible Cobalt Strike C2 Fronting Domain
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain
@@ -189,11 +188,9 @@ service-g1c0a353-1302650299.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-pgxnje5g-1307231181.gz.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 set.urlz.ws,Possible Cobalt Strike C2 Domain
 shomyo.secru.it,Possible Cobalt Strike C2 Domain
-skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain
 software.cncb.info,Possible Cobalt Strike C2 Domain
 spf1.superpeggy.com,Possible Cobalt Strike C2 Domain
 su.urlz.ws,Possible Cobalt Strike C2 Domain
