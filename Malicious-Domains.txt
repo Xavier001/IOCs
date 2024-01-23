@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-22 21:13:29 UTC                        #
+# Last updated: 2024-01-23 09:44:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	jogard.duckdns.org
+127.0.0.1	de.zephyr.herominers.com
+127.0.0.1	duorhytm.fun
+127.0.0.1	epsilon-spaceworld.com
 127.0.0.1	api.su57.fun
 127.0.0.1	service-8rv78e5d-1319481525.sh.apigw.tencentcs.com
 127.0.0.1	dig.fuli-oa.cn
@@ -31548,4 +31552,4 @@
 127.0.0.1	promocar.xyz
 127.0.0.1	team-x.work.gd
 127.0.0.1	service-jinjrw2r-1255936572.sh.apigw.tencentcs.com
-# Number of entries: 31542
+# Number of entries: 31546
