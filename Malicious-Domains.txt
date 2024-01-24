@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-23 16:30:52 UTC                        #
+# Last updated: 2024-01-23 22:12:55 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	zx.reg32.com
+127.0.0.1	as.reg32.com
+127.0.0.1	qw.reg32.com
 127.0.0.1	cloud-dnssync.com
 127.0.0.1	expedia-realtime.expeida.net
 127.0.0.1	cpcontacts.dnl-l.ooguy.com
@@ -31554,5 +31557,4 @@
 127.0.0.1	pixooriginal.org
 127.0.0.1	saham.edalat.press
 127.0.0.1	eblaghonline.host
-127.0.0.1	jdklove.top
-# Number of entries: 31549
+# Number of entries: 31551
