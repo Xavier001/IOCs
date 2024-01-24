@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-23 22:12:55 UTC                        #
+# Last updated: 2024-01-24 04:14:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	yop918kiss.com
+127.0.0.1	736632.com
+127.0.0.1	www.1319556.com
+127.0.0.1	stupefied-wing.37-220-86-100.plesk.page
+127.0.0.1	alexs404.fvds.ru
+127.0.0.1	nickbaseev5.fvds.ru
+127.0.0.1	mail.w33s1.xyz
 127.0.0.1	zx.reg32.com
 127.0.0.1	as.reg32.com
 127.0.0.1	qw.reg32.com
@@ -31544,17 +31551,4 @@
 127.0.0.1	2b594.danamoninternal.com
 127.0.0.1	one.bandi.tokyo
 127.0.0.1	6jxbmkpe.torontobotdns.com
-127.0.0.1	service-9scl1l0u-1257789504.nj.apigw.tencentcs.com
-127.0.0.1	oob.plazar.xyz
-127.0.0.1	ns1.proxyservice.shop
-127.0.0.1	gold.ccb.com.dsa.dnsv1.com.cn
-127.0.0.1	privategame.xyz
-127.0.0.1	onadeatcamside.sytes.net
-127.0.0.1	ronadeatcamside.sytes.net
-127.0.0.1	remote.impixo.site
-127.0.0.1	impixo.site
-127.0.0.1	edalat.press
-127.0.0.1	pixooriginal.org
-127.0.0.1	saham.edalat.press
-127.0.0.1	eblaghonline.host
-# Number of entries: 31551
+# Number of entries: 31545
