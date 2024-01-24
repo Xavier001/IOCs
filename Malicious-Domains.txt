@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-24 04:14:06 UTC                        #
+# Last updated: 2024-01-24 11:08:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	loja5.seugrupotodimo.com
+127.0.0.1	dev.dunedincasino.co.nz
+127.0.0.1	ns1.veriernano.com
 127.0.0.1	yop918kiss.com
 127.0.0.1	736632.com
 127.0.0.1	www.1319556.com
@@ -31549,6 +31552,4 @@
 127.0.0.1	buzubolup.online
 127.0.0.1	2b597.danamoninternal.com
 127.0.0.1	2b594.danamoninternal.com
-127.0.0.1	one.bandi.tokyo
-127.0.0.1	6jxbmkpe.torontobotdns.com
-# Number of entries: 31545
+# Number of entries: 31546
