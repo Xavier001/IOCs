@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-24 11:08:38 UTC                        #
+# Last updated: 2024-01-24 17:19:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	groannysoapblockedstiw.site
+127.0.0.1	copyrightspareddcitwew.site
+127.0.0.1	paperambiguonusphoterew.site
+127.0.0.1	expenditureddisumilarwo.site
+127.0.0.1	combinethemepiggerygoj.site
+127.0.0.1	weedpairfolkloredheryw.site
+127.0.0.1	qualifiedbehaviorrykej.site
+127.0.0.1	dragonporterloudjettyw.site
+127.0.0.1	fanklubziuta.pl
+127.0.0.1	karasergkaravaev2.fvds.ru
+127.0.0.1	dns.trackgroup.net
 127.0.0.1	loja5.seugrupotodimo.com
 127.0.0.1	dev.dunedincasino.co.nz
 127.0.0.1	ns1.veriernano.com
@@ -31543,13 +31554,4 @@
 127.0.0.1	villysnapsy.com
 127.0.0.1	cdn-cloude.extended-system.workers.dev
 127.0.0.1	cs.125nmlx-op125.top
-127.0.0.1	top.thisispw.com
-127.0.0.1	filtaferamoza.com
-127.0.0.1	documentation.azureedge.net
-127.0.0.1	drilledgas.org
-127.0.0.1	secur3.duckdns.org
-127.0.0.1	conluase62.com
-127.0.0.1	buzubolup.online
-127.0.0.1	2b597.danamoninternal.com
-127.0.0.1	2b594.danamoninternal.com
-# Number of entries: 31546
+# Number of entries: 31548

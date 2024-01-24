@@ -44,6 +44,7 @@ contact.mwam.support,Possible Cobalt Strike C2 Domain
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain
 cs.xcb.one,Possible Cobalt Strike C2 Domain
+cs1.dbgblack.com,Possible Cobalt Strike C2 Domain
 cscs.luxiaofei.online,Possible Cobalt Strike C2 Domain
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Domain
 d1am0nd.ddns.net,Possible Cobalt Strike C2 Domain
@@ -67,6 +68,7 @@ dns.cityoall.com,Possible Cobalt Strike C2 Domain
 dns.nightmare.su,Possible Cobalt Strike C2 Domain
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain
 dns.stoneco.network,Possible Cobalt Strike C2 Domain
+dns.trackgroup.net,Possible Cobalt Strike C2 Domain
 dns.veriernano.com,Possible Cobalt Strike C2 Domain
 dnsa.checkinfomation.tk,Possible Cobalt Strike C2 Domain
 dnsb.checkinfomation.tk,Possible Cobalt Strike C2 Domain
