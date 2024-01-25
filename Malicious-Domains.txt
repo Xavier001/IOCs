@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-24 17:19:30 UTC                        #
+# Last updated: 2024-01-25 09:36:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	newdomainfortesteenestle.com
+127.0.0.1	novlkyy.shop
 127.0.0.1	groannysoapblockedstiw.site
 127.0.0.1	copyrightspareddcitwew.site
 127.0.0.1	paperambiguonusphoterew.site
@@ -31514,43 +31516,4 @@
 127.0.0.1	service-ntfl1fj6-1300612713.gz.apigw.tencentcs.com
 127.0.0.1	creditcheck.ppdai.com
 127.0.0.1	tcessolution.com
-127.0.0.1	teste.mac4.eco.br
-127.0.0.1	service-a7n7217q-1258444660.gz.apigw.tencentcs.com
-127.0.0.1	41030m.dccr.ru
-127.0.0.1	48576m.dccr.ru
-127.0.0.1	60057m.dccr.ru
-127.0.0.1	60154m.dccr.ru
-127.0.0.1	60894m.dccr.ru
-127.0.0.1	61124m.dccr.ru
-127.0.0.1	84688m.dccr.ru
-127.0.0.1	61462m.dccr.ru
-127.0.0.1	10788m.dccr.ru
-127.0.0.1	21102m.dccr.ru
-127.0.0.1	company1.ccb.com.dsa.dnsv1.com.cn
-127.0.0.1	magizanqomo.com
-127.0.0.1	lohmotarufos.com
-127.0.0.1	autokamertos.com
-127.0.0.1	magiketchinn.com
-127.0.0.1	flarkonafaero.com
-127.0.0.1	childhauster.com
-127.0.0.1	lasergathe.com
-127.0.0.1	gravitoperka.com
-127.0.0.1	miniprukerw.com
-127.0.0.1	nechgoper.com
-127.0.0.1	neelrocap.com
-127.0.0.1	nimezidhalxa.com
-127.0.0.1	rinotrackingg.com
-127.0.0.1	silmofaid.com
-127.0.0.1	sucksonouch.com
-127.0.0.1	wgamershyh.com
-127.0.0.1	abigelofraj.com
-127.0.0.1	askamoshopsi.com
-127.0.0.1	erailopaf.com
-127.0.0.1	findertoues.com
-127.0.0.1	pleylqox.com
-127.0.0.1	lergochatep.com
-127.0.0.1	skazifrant.com
-127.0.0.1	spakernakurs.com
-127.0.0.1	villysnapsy.com
-127.0.0.1	cdn-cloude.extended-system.workers.dev
-# Number of entries: 31547
+# Number of entries: 31510
