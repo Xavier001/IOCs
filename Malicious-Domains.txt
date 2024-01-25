@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-25 09:36:51 UTC                        #
+# Last updated: 2024-01-25 11:35:26 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	xmr.index-gpt.pro
+127.0.0.1	ns1.inpex589.info
 127.0.0.1	newdomainfortesteenestle.com
 127.0.0.1	novlkyy.shop
 127.0.0.1	groannysoapblockedstiw.site
@@ -31512,8 +31514,4 @@
 127.0.0.1	atomaresto.com
 127.0.0.1	kechizlarey.com
 127.0.0.1	miao.xiaogoubi.top
-127.0.0.1	service-0gfsz81a-1306743016.gz.apigw.tencentcs.com
-127.0.0.1	service-ntfl1fj6-1300612713.gz.apigw.tencentcs.com
-127.0.0.1	creditcheck.ppdai.com
-127.0.0.1	tcessolution.com
-# Number of entries: 31510
+# Number of entries: 31508
