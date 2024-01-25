@@ -1,12 +1,13 @@
 ################################################################
 # abuse.ch Feodo Tracker Botnet C2 IP Blocklist (IPs only)     #
-# Last updated: 2024-01-22 20:33:29 UTC                        #
+# Last updated: 2024-01-25 20:38:33 UTC                        #
 #                                                              #
 # Terms Of Use: https://feodotracker.abuse.ch/blocklist/       #
 # For questions please contact feodotracker [at] abuse.ch      #
 ################################################################
 #
 # DstIP
+146.70.158.28
 154.211.12.126
 154.221.30.136
 185.117.90.142
@@ -17,4 +18,4 @@
 51.161.81.190
 91.215.85.154
 95.215.108.41
-# END 10 entries
+# END 11 entries

@@ -30,6 +30,7 @@ cdn.microsolt.top,Possible Cobalt Strike C2 Domain,/wp-admin
 cdn.ndgnetlabs.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain,/__utm.gif
 cdn.tgu-future.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+check.cloudupdateserver.cloudns.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 check.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 check.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/visit.js
 check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -75,7 +76,7 @@ dns.nightmare.su,Possible Cobalt Strike C2 Domain,/PZVM
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink
 dns.stoneco.network,Possible Cobalt Strike C2 Domain,/ca
 dns.trackgroup.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-dns.veriernano.com,Possible Cobalt Strike C2 Domain,/fwlink
+dns.veriernano.com,Possible Cobalt Strike C2 Domain,/activity
 dnsa.checkinfomation.tk,Possible Cobalt Strike C2 Domain,/GetHIP/GetHIPAMFE/HIPAMFE
 dnsb.checkinfomation.tk,Possible Cobalt Strike C2 Domain,/GetHIP/GetHIPAMFE/HIPAMFE
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search
@@ -99,6 +100,7 @@ log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain,/api/3
 log.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2
 mail.cncb.info,Possible Cobalt Strike C2 Domain,/updates
+mcfupdservice.com,Possible Cobalt Strike C2 Domain,/activity
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1
 microsoftwindows.one,Possible Cobalt Strike C2 Domain,/api/3
 micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3
@@ -124,6 +126,7 @@ ns1.dns-supports.online,Possible Cobalt Strike C2 Domain,/api/3
 ns1.dnsdnsdns.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.dnslogik.com,Possible Cobalt Strike C2 Domain,/mp/getapp/msgext
 ns1.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/fwlink
+ns1.inpex589.info,Possible Cobalt Strike C2 Domain,/5a8b3c9d1/sig_ver
 ns1.jd-1111.cn,Possible Cobalt Strike C2 Domain,/api/x
 ns1.kp1nm8ao.xyz,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_
 ns1.microsoft-update.one,Possible Cobalt Strike C2 Domain,/static/js/jquery-3.3.1.min.js
@@ -203,7 +206,6 @@ service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/get
 set.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-shomyo.secru.it,Possible Cobalt Strike C2 Domain,/secure.html
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 spf1.superpeggy.com,Possible Cobalt Strike C2 Domain,/search
 su.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -221,7 +223,7 @@ updates.adobe-soft.net,Possible Cobalt Strike C2 Domain,/dot.gif
 updates.imedicalhub.com,Possible Cobalt Strike C2 Domain,/ms-settings-power
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-veriernano.com,Possible Cobalt Strike C2 Domain,/dpixel
+veriernano.com,Possible Cobalt Strike C2 Domain,/updates.rss
 verify.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/cx
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js
 vm.updataus.com,Possible Cobalt Strike C2 Fronting Domain,/navigation
@@ -240,4 +242,5 @@ www1.allegiancefithealth.com,Possible Cobalt Strike C2 Domain,/async/ddljson
 www1.allegiancefithealth.com,Possible Cobalt Strike C2 Domain,/async/newtab_ogb
 www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/ddljson
 xgcs.ceshi897.cn,Possible Cobalt Strike C2 Domain,/cm
+xmr.index-gpt.pro,Possible Cobalt Strike C2 Domain,/cm
 zx.reg32.com,Possible Cobalt Strike C2 Domain,/remove
