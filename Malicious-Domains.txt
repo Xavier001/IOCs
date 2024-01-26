@@ -31599,6 +31599,4 @@
 127.0.0.1	fireplotcann.com
 127.0.0.1	vrondafarih.com
 127.0.0.1	jornesfree.xyz
-127.0.0.1	chibb.ydns.eu
-127.0.0.1	viemon.xyz
-# Number of entries: 31595
+# Number of entries: 31593
