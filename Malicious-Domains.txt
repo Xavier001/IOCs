@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-26 10:13:32 UTC                        #
+# Last updated: 2024-01-26 18:36:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	roof.spencerstuartllc.top
+127.0.0.1	lili19mainmasters.com
+127.0.0.1	logon.100pingissues.com
+127.0.0.1	37-72-168-178.static.hvvc.us
+127.0.0.1	beylikotomasyon.com
+127.0.0.1	mycontrolpanel29.com
+127.0.0.1	www.infallible-lichterman.45-141-215-173.plesk.page
+127.0.0.1	www.139-84-137-249.cprapid.com
+127.0.0.1	andaluciabeach.net
+127.0.0.1	ns.chrome-crash.com
 127.0.0.1	server1.updateservice.store
 127.0.0.1	strongdomainsercgerhhost.com
 127.0.0.1	cmytfvga.shop
@@ -31595,9 +31605,4 @@
 127.0.0.1	remcosamarre.duckdns.org
 127.0.0.1	dodgeavay.xyz
 127.0.0.1	hunanshengweibajgongshi.site
-127.0.0.1	home.yangguifeiyahoo.shop
-127.0.0.1	dentaldev.azureedge.net
-127.0.0.1	fireplotcann.com
-127.0.0.1	vrondafarih.com
-127.0.0.1	jornesfree.xyz
-# Number of entries: 31594
+# Number of entries: 31599
