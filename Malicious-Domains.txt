@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-25 16:15:34 UTC                        #
+# Last updated: 2024-01-26 10:13:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	server1.updateservice.store
 127.0.0.1	strongdomainsercgerhhost.com
 127.0.0.1	cmytfvga.shop
 127.0.0.1	civilarys.store
@@ -31599,4 +31600,4 @@
 127.0.0.1	fireplotcann.com
 127.0.0.1	vrondafarih.com
 127.0.0.1	jornesfree.xyz
-# Number of entries: 31593
+# Number of entries: 31594
