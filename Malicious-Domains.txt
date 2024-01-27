@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-26 22:13:23 UTC                        #
+# Last updated: 2024-01-27 07:51:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	fleury-dev-g8d5b7fhg8fghxcm.a03.azurefd.net
+127.0.0.1	places.creeksidehuntingpreserve.com
+127.0.0.1	colors.usajicgu.com
 127.0.0.1	mirrors.office356.shop
 127.0.0.1	roof.spencerstuartllc.top
 127.0.0.1	lili19mainmasters.com
@@ -31590,19 +31593,4 @@
 127.0.0.1	cftn6129.b-cdn.net
 127.0.0.1	nthb041.b-cdn.net
 127.0.0.1	johu91837.b-cdn.net
-127.0.0.1	ns1.wsusmicrsotf2012.com
-127.0.0.1	schedule.sport-program.com
-127.0.0.1	rttest7-dns-rdir.westeurope.cloudapp.azure.com
-127.0.0.1	eblaghviran.host
-127.0.0.1	edlt.art
-127.0.0.1	reza.nitrocpanel.xyz
-127.0.0.1	nitrocpanel.xyz
-127.0.0.1	eblagiyeonline.host
-127.0.0.1	sahamet.host
-127.0.0.1	sahm.host
-127.0.0.1	sahmd.host
-127.0.0.1	sahmi.host
-127.0.0.1	sahamirani.host
-127.0.0.1	remcosamarre.duckdns.org
-127.0.0.1	dodgeavay.xyz
-# Number of entries: 31599
+# Number of entries: 31587

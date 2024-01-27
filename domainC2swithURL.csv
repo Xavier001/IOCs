@@ -84,11 +84,12 @@ federalstudentaid-usdepartmentofeducation.tandemcyberops.co,Possible Cobalt Stri
 files.jslibc.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 fk.n0reply.eu.org,Possible Cobalt Strike C2 Domain,/api-opt-2023-gfr/3
 google.com,Possible Cobalt Strike C2 Fronting Domain,/owa/WShW-cLK-lkPu0xZBc81NV0IdQfWhFF
+google.com,Possible Cobalt Strike C2 Fronting Domain,/owa/nK6FEkkVNWLN1WRkLKS6hrb9MOMS13Q4VDUpalwM
 heiyejiang.tpddns.cn,Possible Cobalt Strike C2 Domain,/pixel
 helloone.accountants.monster,Possible Cobalt Strike C2 Domain,/users.jsp
 home.aliba-inc.com,Possible Cobalt Strike C2 Fronted Domain,/audiencemanager.js
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
-js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/dpixel
+js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/activity
 kr.i110.fun,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 leno.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
 locall.miragov.info,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
@@ -101,6 +102,7 @@ miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1
 microsoftwindows.one,Possible Cobalt Strike C2 Domain,/api/3
 micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3
 mirrors.office356.shop,Possible Cobalt Strike C2 Fronted Domain,/owa/WShW-cLK-lkPu0xZBc81NV0IdQfWhFF
+mirrors.office356.shop,Possible Cobalt Strike C2 Fronted Domain,/owa/nK6FEkkVNWLN1WRkLKS6hrb9MOMS13Q4VDUpalwM
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.php
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/ca
 ns.b1ing.com,Possible Cobalt Strike C2 Domain,/cm
