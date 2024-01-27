@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-27 07:51:29 UTC                        #
+# Last updated: 2024-01-27 11:02:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	success.165gov.icu
+127.0.0.1	beacon.evilginx2.bio
+127.0.0.1	bec.security-ssl.org
+127.0.0.1	dns.modernbeem.net
+127.0.0.1	dns.investmenttech.net
+127.0.0.1	dns.currentbee.net
+127.0.0.1	cc.youku.zip
 127.0.0.1	fleury-dev-g8d5b7fhg8fghxcm.a03.azurefd.net
 127.0.0.1	places.creeksidehuntingpreserve.com
 127.0.0.1	colors.usajicgu.com
@@ -31586,11 +31593,4 @@
 127.0.0.1	support.narlcolife.com
 127.0.0.1	makethumbmoney.com
 127.0.0.1	userla.de
-127.0.0.1	chatgenie.co.uk
-127.0.0.1	interface59.need.cryptonas.ru
-127.0.0.1	cryptonas.ru
-127.0.0.1	brorats32932.ddns.net
-127.0.0.1	cftn6129.b-cdn.net
-127.0.0.1	nthb041.b-cdn.net
-127.0.0.1	johu91837.b-cdn.net
 # Number of entries: 31587
