@@ -83,6 +83,7 @@ exchange2.microsoftser.top,Possible Cobalt Strike C2 Domain,/www/handle/doc
 federalstudentaid-usdepartmentofeducation.tandemcyberops.co,Possible Cobalt Strike C2 Domain,/pixel
 files.jslibc.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 fk.n0reply.eu.org,Possible Cobalt Strike C2 Domain,/api-opt-2023-gfr/3
+google.com,Possible Cobalt Strike C2 Fronting Domain,/owa/WShW-cLK-lkPu0xZBc81NV0IdQfWhFF
 heiyejiang.tpddns.cn,Possible Cobalt Strike C2 Domain,/pixel
 helloone.accountants.monster,Possible Cobalt Strike C2 Domain,/users.jsp
 home.aliba-inc.com,Possible Cobalt Strike C2 Fronted Domain,/audiencemanager.js
@@ -99,6 +100,7 @@ mcfupdservice.com,Possible Cobalt Strike C2 Domain,/activity
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1
 microsoftwindows.one,Possible Cobalt Strike C2 Domain,/api/3
 micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3
+mirrors.office356.shop,Possible Cobalt Strike C2 Fronted Domain,/owa/WShW-cLK-lkPu0xZBc81NV0IdQfWhFF
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.php
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/ca
 ns.b1ing.com,Possible Cobalt Strike C2 Domain,/cm
@@ -189,7 +191,7 @@ software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 spf1.superpeggy.com,Possible Cobalt Strike C2 Domain,/search
 sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain,/image/
 su.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-success.165gov.icu,Possible Cobalt Strike C2 Domain,/include/template/isx.php
+success.165gov.icu,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php
 summerevent2023.com,Possible Cobalt Strike C2 Domain,/tip.php
 sys.tcc-internal.com,Possible Cobalt Strike C2 Domain,/pixel
 t.10nf0x.com,Possible Cobalt Strike C2 Domain,/owa/

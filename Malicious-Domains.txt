@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-26 18:36:01 UTC                        #
+# Last updated: 2024-01-26 22:13:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mirrors.office356.shop
 127.0.0.1	roof.spencerstuartllc.top
 127.0.0.1	lili19mainmasters.com
 127.0.0.1	logon.100pingissues.com
@@ -31604,5 +31605,4 @@
 127.0.0.1	sahamirani.host
 127.0.0.1	remcosamarre.duckdns.org
 127.0.0.1	dodgeavay.xyz
-127.0.0.1	hunanshengweibajgongshi.site
 # Number of entries: 31599

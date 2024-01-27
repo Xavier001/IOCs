@@ -100,6 +100,7 @@ federalstudentaid-usdepartmentofeducation.tandemcyberops.co,Possible Cobalt Stri
 files.jslibc.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,18.167.180.192
 files.jslibc.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.243.44.84
 fk.n0reply.eu.org,Possible Cobalt Strike C2 Domain,/api-opt-2023-gfr/3,42.236.91.107
+google.com,Possible Cobalt Strike C2 Fronting Domain,/owa/WShW-cLK-lkPu0xZBc81NV0IdQfWhFF,46.17.46.226
 heiyejiang.tpddns.cn,Possible Cobalt Strike C2 Domain,/pixel,125.70.238.155
 helloone.accountants.monster,Possible Cobalt Strike C2 Domain,/users.jsp,121.37.206.148
 home.aliba-inc.com,Possible Cobalt Strike C2 Fronted Domain,/audiencemanager.js,47.92.110.61
@@ -117,6 +118,7 @@ mcfupdservice.com,Possible Cobalt Strike C2 Domain,/activity,162.221.204.234
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1,125.128.113.108
 microsoftwindows.one,Possible Cobalt Strike C2 Domain,/api/3,103.251.89.93
 micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3,43.133.57.170
+mirrors.office356.shop,Possible Cobalt Strike C2 Fronted Domain,/owa/WShW-cLK-lkPu0xZBc81NV0IdQfWhFF,46.17.46.226
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.php,20.120.177.99
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/ca,8.212.44.149
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/ca,8.212.49.116
@@ -211,7 +213,7 @@ software.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 spf1.superpeggy.com,Possible Cobalt Strike C2 Domain,/search,68.170.2.60
 sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain,/image/,111.229.187.190
 su.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.54.86.90
-success.165gov.icu,Possible Cobalt Strike C2 Domain,/include/template/isx.php,47.254.233.5
+success.165gov.icu,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php,47.254.233.5
 summerevent2023.com,Possible Cobalt Strike C2 Domain,/tip.php,20.120.177.99
 sys.tcc-internal.com,Possible Cobalt Strike C2 Domain,/pixel,138.124.180.159
 t.10nf0x.com,Possible Cobalt Strike C2 Domain,/owa/,134.209.92.85
