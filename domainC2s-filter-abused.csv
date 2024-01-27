@@ -11,6 +11,8 @@ apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain
 as.reg32.com,Possible Cobalt Strike C2 Domain
 awsglobalaccelerator.awsliveec.com,Possible Cobalt Strike C2 Domain
+beacon.evilginx2.bio,Possible Cobalt Strike C2 Domain
+bec.security-ssl.org,Possible Cobalt Strike C2 Domain
 bot.douosadgaadonline.org,Possible Cobalt Strike C2 Domain
 buy-dnd.shop,Possible Cobalt Strike C2 Domain
 c2.sangfor.com,Possible Cobalt Strike C2 Fronting Domain
@@ -61,6 +63,9 @@ dig.fuli-oa.cn,Possible Cobalt Strike C2 Domain
 dns.azurewinservice.com,Possible Cobalt Strike C2 Domain
 dns.checkavail.space,Possible Cobalt Strike C2 Domain
 dns.cityoall.com,Possible Cobalt Strike C2 Domain
+dns.currentbee.net,Possible Cobalt Strike C2 Domain
+dns.investmenttech.net,Possible Cobalt Strike C2 Domain
+dns.modernbeem.net,Possible Cobalt Strike C2 Domain
 dns.nightmare.su,Possible Cobalt Strike C2 Domain
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain
 dns.stoneco.network,Possible Cobalt Strike C2 Domain
@@ -95,7 +100,6 @@ microsoftwindows.one,Possible Cobalt Strike C2 Domain
 micrusroft.com,Possible Cobalt Strike C2 Domain
 mirrors.office356.shop,Possible Cobalt Strike C2 Fronted Domain
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
-newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain
 ns.b1ing.com,Possible Cobalt Strike C2 Domain
 ns.checkavail.space,Possible Cobalt Strike C2 Domain
 ns.chrome-crash.com,Possible Cobalt Strike C2 Domain
@@ -179,6 +183,7 @@ service-goqpel8p-1313519678.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 set.urlz.ws,Possible Cobalt Strike C2 Domain
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain
 software.cncb.info,Possible Cobalt Strike C2 Domain
 spf1.superpeggy.com,Possible Cobalt Strike C2 Domain
 sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain
@@ -203,11 +208,8 @@ vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain
 vm.updataus.com,Possible Cobalt Strike C2 Fronting Domain
 wcs.microsoftwindows.cloud,Possible Cobalt Strike C2 Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
-www.checkupdates50.com,Possible Cobalt Strike C2 Domain
-www.goodljlagfhssss.live,Possible Cobalt Strike C2 Domain
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain
 www.micrcscft-store.com,Possible Cobalt Strike C2 Domain
-www.updategateway.com,Possible Cobalt Strike C2 Domain
 www.upgrad3.cc,Possible Cobalt Strike C2 Domain
 www.weepstakes.com,Possible Cobalt Strike C2 Domain
 www.xiongge.space,Possible Cobalt Strike C2 Domain

@@ -31591,6 +31591,4 @@
 127.0.0.1	my-game.biz
 127.0.0.1	dsa7mkr3avu2g.cloudfront.net
 127.0.0.1	support.narlcolife.com
-127.0.0.1	makethumbmoney.com
-127.0.0.1	userla.de
-# Number of entries: 31587
+# Number of entries: 31585
