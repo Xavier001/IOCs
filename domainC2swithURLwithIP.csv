@@ -49,6 +49,7 @@ cdn.ndgnetlabs.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain,/__utm.gif,107.191.57.153
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain,/__utm.gif,45.76.125.214
 cdn.tgu-future.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,119.91.214.104
+check.cloudupdateserver.cloudns.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.154.2.102
 check.cloudupdateserver.cloudns.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,65.49.210.124
 check.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.145.228.117
 check.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/visit.js,45.76.90.103
@@ -56,7 +57,6 @@ check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.145
 cins.hin7lostvas.pro,Possible Cobalt Strike C2 Domain,/case.css,45.148.120.115
 cityoall.com,Possible Cobalt Strike C2 Domain,/ptj,104.223.121.37
 cloud-dnssync.com,Possible Cobalt Strike C2 Domain,/load,178.79.130.174
-cloudflairly.com,Possible Cobalt Strike C2 Domain,/devise/v7.13/DBE4YDCY84F,38.180.29.146
 cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3,101.35.4.152
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js,167.179.84.218
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM,18.184.17.94

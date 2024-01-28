@@ -31639,7 +31639,4 @@
 127.0.0.1	fullpower682.store
 127.0.0.1	tatmacerasi.com
 127.0.0.1	za-co-za.co.za
-127.0.0.1	www.fayevalentine.world
-127.0.0.1	farleysmxpph.com
-127.0.0.1	service-1925bm5o-1308639534.nj.apigw.tencentcs.com
-# Number of entries: 31636
+# Number of entries: 31633
