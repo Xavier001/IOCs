@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-28 06:37:29 UTC                        #
+# Last updated: 2024-01-28 10:34:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	update.westus3.cloudapp.azure.com
+127.0.0.1	rxjh.online
+127.0.0.1	js.rxjh.online
+127.0.0.1	www.rxjh.online
+127.0.0.1	caranthir.zapto.org
 127.0.0.1	nowordshere.org
 127.0.0.1	greedyclowns.org
 127.0.0.1	getquery.org
@@ -31637,4 +31642,4 @@
 127.0.0.1	www.fayevalentine.world
 127.0.0.1	farleysmxpph.com
 127.0.0.1	service-1925bm5o-1308639534.nj.apigw.tencentcs.com
-# Number of entries: 31631
+# Number of entries: 31636
