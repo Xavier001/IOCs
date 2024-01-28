@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-27 11:02:05 UTC                        #
+# Last updated: 2024-01-27 22:11:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	service.safaricom.workers.dev
 127.0.0.1	success.165gov.icu
 127.0.0.1	beacon.evilginx2.bio
 127.0.0.1	bec.security-ssl.org
@@ -31587,8 +31588,4 @@
 127.0.0.1	mineskateroff.com
 127.0.0.1	amhd2.live
 127.0.0.1	hd123.shop
-127.0.0.1	inerino.co.za
-127.0.0.1	my-game.biz
-127.0.0.1	dsa7mkr3avu2g.cloudfront.net
-127.0.0.1	support.narlcolife.com
-# Number of entries: 31585
+# Number of entries: 31582
