@@ -83,7 +83,6 @@ dnsb.checkinfomation.tk,Possible Cobalt Strike C2 Domain,/GetHIP/GetHIPAMFE/HIPA
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search
 doc.bluework.ink,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 download.updatebrowser.cn,Possible Cobalt Strike C2 Fronted Domain,/0RZDKXR/ADGJJ4B3VRSPAV9KC3MXI80OFD.css
-education.mccoe.org,Possible Cobalt Strike C2 Domain,/dot.gif
 exchange1.microsoftser.top,Possible Cobalt Strike C2 Domain,/www/handle/doc
 exchange2.microsoftser.top,Possible Cobalt Strike C2 Domain,/www/handle/doc
 federalstudentaid-usdepartmentofeducation.tandemcyberops.co,Possible Cobalt Strike C2 Domain,/pixel
@@ -197,7 +196,6 @@ service.safaricom.workers.dev,Possible Cobalt Strike C2 Domain,/VLeNAth
 set.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
-spf1.superpeggy.com,Possible Cobalt Strike C2 Domain,/search
 sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain,/image/
 su.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 success.165gov.icu,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php
@@ -227,7 +225,6 @@ www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/
 www.xiongge.space,Possible Cobalt Strike C2 Domain,/__utm.gif
 www.xss.mba,Possible Cobalt Strike C2 Domain,/updates.rss
 www1.allegiancefithealth.com,Possible Cobalt Strike C2 Domain,/async/ddljson
-www1.allegiancefithealth.com,Possible Cobalt Strike C2 Domain,/async/newtab_ogb
 www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/ddljson
 xgcs.ceshi897.cn,Possible Cobalt Strike C2 Domain,/cm
 xmr.index-gpt.pro,Possible Cobalt Strike C2 Domain,/cm

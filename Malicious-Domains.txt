@@ -31634,12 +31634,4 @@
 127.0.0.1	18866-32530.bacloud.info
 127.0.0.1	op.tomtoptom.top
 127.0.0.1	cdn.glgjssy.xyz
-127.0.0.1	ns2.emohack.xyz
-127.0.0.1	ns1.emohack.xyz
-127.0.0.1	ns3.oneipsoft.com
-127.0.0.1	ns2.oneipsoft.com
-127.0.0.1	ns1.oneipsoft.com
-127.0.0.1	dnslog.zhaoyr.online
-127.0.0.1	app.livcloud.info
-127.0.0.1	toddy.sytes.net
-# Number of entries: 31636
+# Number of entries: 31628
