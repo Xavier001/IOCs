@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-28 10:34:05 UTC                        #
+# Last updated: 2024-01-29 07:21:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	abixmaly.duckdns.org
+127.0.0.1	skscarsrjn.in
+127.0.0.1	rocheholding.top
+127.0.0.1	www.rnofinancial.com.au
+127.0.0.1	oracle-panel.online
+127.0.0.1	tunel.oracle-panel.online
 127.0.0.1	update.westus3.cloudapp.azure.com
 127.0.0.1	rxjh.online
 127.0.0.1	js.rxjh.online
@@ -31636,6 +31642,4 @@
 127.0.0.1	dnslog.zhaoyr.online
 127.0.0.1	app.livcloud.info
 127.0.0.1	toddy.sytes.net
-127.0.0.1	fullpower682.store
-127.0.0.1	tatmacerasi.com
-# Number of entries: 31632
+# Number of entries: 31636
