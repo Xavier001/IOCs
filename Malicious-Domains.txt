@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-29 07:21:09 UTC                        #
+# Last updated: 2024-01-29 18:15:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	callii.ydns.eu
+127.0.0.1	www.currencyandsecurity.com
+127.0.0.1	currencyandsecurity.com
+127.0.0.1	167-172-234-147.ipv4.staticdns2.io
+127.0.0.1	euunclaimedpymt.com
+127.0.0.1	stachmentsuprimeresult.com
+127.0.0.1	miner.eastestsite.com
 127.0.0.1	abixmaly.duckdns.org
 127.0.0.1	skscarsrjn.in
 127.0.0.1	rocheholding.top
@@ -31632,6 +31639,4 @@
 127.0.0.1	catnagulsk.com
 127.0.0.1	shalwolonzy.com
 127.0.0.1	18866-32530.bacloud.info
-127.0.0.1	op.tomtoptom.top
-127.0.0.1	cdn.glgjssy.xyz
-# Number of entries: 31628
+# Number of entries: 31633
