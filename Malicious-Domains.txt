@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-29 18:15:38 UTC                        #
+# Last updated: 2024-01-30 02:22:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	vpn752656009.softether.net
+127.0.0.1	ekfb.site
 127.0.0.1	callii.ydns.eu
 127.0.0.1	www.currencyandsecurity.com
 127.0.0.1	currencyandsecurity.com
@@ -31638,5 +31640,4 @@
 127.0.0.1	halifmagzoom.com
 127.0.0.1	catnagulsk.com
 127.0.0.1	shalwolonzy.com
-127.0.0.1	18866-32530.bacloud.info
-# Number of entries: 31633
+# Number of entries: 31634
