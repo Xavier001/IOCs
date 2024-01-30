@@ -1,11 +1,26 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-30 12:04:12 UTC                        #
+# Last updated: 2024-01-30 21:14:41 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mfreshbnrem.ddns.net
+127.0.0.1	klosherskymoneyd.com
+127.0.0.1	moon.spartabig.com
+127.0.0.1	ok.spartabig.com
+127.0.0.1	sell.spartabig.com
+127.0.0.1	count.spartabig.com
+127.0.0.1	spartabig.com
+127.0.0.1	ndbplus.rs
+127.0.0.1	nab.blueyonderllc.top
+127.0.0.1	bit-number.gl.at.ply.gg
+127.0.0.1	node115.5-systems.ru
+127.0.0.1	evgenytchurakin.fvds.ru
+127.0.0.1	ramzanlee.fvds.ru
+127.0.0.1	asp.keyshape.net
+127.0.0.1	allsmt.cam
 127.0.0.1	srryapi.store
 127.0.0.1	dns.t0nger.com
 127.0.0.1	ns3.gac-oa.com
@@ -31527,7 +31542,4 @@
 127.0.0.1	sambireact2.com
 127.0.0.1	mbkmoney604.duckdns.org
 127.0.0.1	managerparty.com
-127.0.0.1	triopahom.com
-127.0.0.1	illboardinj.com
-127.0.0.1	european.dnsgdn.com
-# Number of entries: 31524
+# Number of entries: 31536
