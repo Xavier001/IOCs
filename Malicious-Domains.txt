@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-30 06:21:01 UTC                        #
+# Last updated: 2024-01-30 12:04:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	srryapi.store
+127.0.0.1	dns.t0nger.com
+127.0.0.1	ns3.gac-oa.com
+127.0.0.1	ns2.gac-oa.com
+127.0.0.1	ns1.gac-oa.com
+127.0.0.1	dns.atchesonprint.com
+127.0.0.1	c1.tqrjfru.cn
 127.0.0.1	3psil0n.fr
 127.0.0.1	people-primarily.gl.at.ply.gg
 127.0.0.1	www.classicstandupcomedylive.com
@@ -31523,8 +31530,4 @@
 127.0.0.1	triopahom.com
 127.0.0.1	illboardinj.com
 127.0.0.1	european.dnsgdn.com
-127.0.0.1	thesheenterprise.com
-127.0.0.1	boxofficeseer.com
-127.0.0.1	aviditycellars.com
-127.0.0.1	severless-oss-1320564199.intlsdcn.com
-# Number of entries: 31521
+# Number of entries: 31524
