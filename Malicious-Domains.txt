@@ -31541,5 +31541,4 @@
 127.0.0.1	sambireact1.com
 127.0.0.1	sambireact2.com
 127.0.0.1	mbkmoney604.duckdns.org
-127.0.0.1	managerparty.com
-# Number of entries: 31536
+# Number of entries: 31535
