@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-30 21:14:41 UTC                        #
+# Last updated: 2024-01-31 10:59:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	css2.officeserver.at
+127.0.0.1	dns.unitedromtech.com
+127.0.0.1	dns.ibmxwork.com
+127.0.0.1	support.ibmxwork.com
 127.0.0.1	mfreshbnrem.ddns.net
 127.0.0.1	klosherskymoneyd.com
 127.0.0.1	moon.spartabig.com
@@ -31522,10 +31526,4 @@
 127.0.0.1	surelytheme.org
 127.0.0.1	linedloop.org
 127.0.0.1	lifeillus.securianretirementcenter.center
-127.0.0.1	cargo-novorossiysk.ru
-127.0.0.1	ekostroy33.ru
-127.0.0.1	gk-stst.ru
-127.0.0.1	macarty.ydns.eu
-127.0.0.1	caeser.ydns.eu
-127.0.0.1	lvluo.buzz
-# Number of entries: 31522
+# Number of entries: 31520
