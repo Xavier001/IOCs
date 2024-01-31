@@ -52,6 +52,7 @@ cs.xcb.one,Possible Cobalt Strike C2 Domain,/cm
 cs.xcb.one,Possible Cobalt Strike C2 Domain,/cx
 cs.xcb.one,Possible Cobalt Strike C2 Domain,/load
 cs1.dbgblack.com,Possible Cobalt Strike C2 Domain,/api/1.2/e4c954ae
+css2.officeserver.at,Possible Cobalt Strike C2 Domain,/cm
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Fronting Domain,/webhp/
 d1dg7ete2wkysb.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 d1dg7ete2wkysb.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
@@ -80,6 +81,7 @@ dns.nightmare.su,Possible Cobalt Strike C2 Domain,/PZVM
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink
 dns.t0nger.com,Possible Cobalt Strike C2 Domain,/pixel
 dns.trackgroup.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+dns.unitedromtech.com,Possible Cobalt Strike C2 Domain,/dev/coke/CQHL5IYQF
 dns.veriernano.com,Possible Cobalt Strike C2 Domain,/activity
 dnsa.checkinfomation.tk,Possible Cobalt Strike C2 Domain,/GetHIP/GetHIPAMFE/HIPAMFE
 dnsb.checkinfomation.tk,Possible Cobalt Strike C2 Domain,/GetHIP/GetHIPAMFE/HIPAMFE
@@ -113,6 +115,7 @@ mirrors.office356.shop,Possible Cobalt Strike C2 Fronted Domain,/owa/WShW-cLK-lk
 mirrors.office356.shop,Possible Cobalt Strike C2 Fronted Domain,/owa/nK6FEkkVNWLN1WRkLKS6hrb9MOMS13Q4VDUpalwM
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.php
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain,/push
+ns.365ub.cn,Possible Cobalt Strike C2 Domain,/ptj
 ns.b1ing.com,Possible Cobalt Strike C2 Domain,/cm
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 ns.chrome-crash.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
