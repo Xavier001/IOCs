@@ -31528,17 +31528,4 @@
 127.0.0.1	macarty.ydns.eu
 127.0.0.1	caeser.ydns.eu
 127.0.0.1	lvluo.buzz
-127.0.0.1	archivde.xyz
-127.0.0.1	sambireact1.com
-127.0.0.1	luckyday0728.org
-127.0.0.1	sambireact2.com
-127.0.0.1	unclesrug31.com
-127.0.0.1	unclesrug32.com
-127.0.0.1	yeah07.online
-127.0.0.1	groovetsan.com
-127.0.0.1	jiuzuzyew.com
-127.0.0.1	kimsoupg.com
-127.0.0.1	sambireact1.com
-127.0.0.1	sambireact2.com
-127.0.0.1	mbkmoney604.duckdns.org
-# Number of entries: 31535
+# Number of entries: 31522
