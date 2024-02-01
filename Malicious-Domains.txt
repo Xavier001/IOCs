@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-01-31 21:16:00 UTC                        #
+# Last updated: 2024-02-01 06:46:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tzitziklishop3.ddns.net
+127.0.0.1	wiund98272sb01jshbq.con-ip.com
 127.0.0.1	atedhilarlymcken.com
 127.0.0.1	eriegentsfsepara.com
 127.0.0.1	lacycuratedhila.com
@@ -31514,25 +31516,4 @@
 127.0.0.1	skeletoheltha.com
 127.0.0.1	www.yowell.pw
 127.0.0.1	mx.kortex-tech.com
-127.0.0.1	service-6wt8xswb-1307888624.sh.apigw.tencentcs.com
-127.0.0.1	service-36lexirn-1307026294.bj.apigw.tencentcs.com
-127.0.0.1	ghnas79.duckdns.org
-127.0.0.1	hopdhosjd.duckdns.org
-127.0.0.1	htoday476.duckdns.org
-127.0.0.1	jdfodl45.duckdns.org
-127.0.0.1	legendtime09.duckdns.org
-127.0.0.1	moneykope4.duckdns.org
-127.0.0.1	lopemoney8.duckdns.org
-127.0.0.1	nyanmoney02.duckdns.org
-127.0.0.1	nyantime66.duckdns.org
-127.0.0.1	opmejf.duckdns.org
-127.0.0.1	padnel2myajfeqniq.xyz
-127.0.0.1	cantdown.space
-127.0.0.1	skyline2006.xyz
-127.0.0.1	bato.cantdown.space
-127.0.0.1	bato.skyline2006.xyz
-127.0.0.1	skyljne2006.ddns.net
-127.0.0.1	cdn-dwnld.ru
-127.0.0.1	eventbox.com
-127.0.0.1	next-traf623.site
-# Number of entries: 31529
+# Number of entries: 31510

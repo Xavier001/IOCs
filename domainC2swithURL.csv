@@ -48,9 +48,9 @@ contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
 content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/g.pixel
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/g.pixel
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/activity
-cs.xcb.one,Possible Cobalt Strike C2 Domain,/cm
-cs.xcb.one,Possible Cobalt Strike C2 Domain,/cx
-cs.xcb.one,Possible Cobalt Strike C2 Domain,/load
+cs.xcb.one,Possible Cobalt Strike C2 Domain,/ca
+cs.xcb.one,Possible Cobalt Strike C2 Domain,/en_US/all.js
+cs.xcb.one,Possible Cobalt Strike C2 Domain,/pixel.gif
 cs1.dbgblack.com,Possible Cobalt Strike C2 Domain,/api/1.2/e4c954ae
 css2.officeserver.at,Possible Cobalt Strike C2 Domain,/cm
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Fronting Domain,/webhp/

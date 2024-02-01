@@ -62,9 +62,9 @@ contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM,18.184
 content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/g.pixel,8.140.135.23
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/g.pixel,8.140.135.23
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/activity,156.234.211.226
-cs.xcb.one,Possible Cobalt Strike C2 Domain,/cm,20.196.198.116
-cs.xcb.one,Possible Cobalt Strike C2 Domain,/cx,20.196.198.116
-cs.xcb.one,Possible Cobalt Strike C2 Domain,/load,20.196.198.116
+cs.xcb.one,Possible Cobalt Strike C2 Domain,/ca,20.196.198.116
+cs.xcb.one,Possible Cobalt Strike C2 Domain,/en_US/all.js,20.196.198.116
+cs.xcb.one,Possible Cobalt Strike C2 Domain,/pixel.gif,20.196.198.116
 cs1.dbgblack.com,Possible Cobalt Strike C2 Domain,/api/1.2/e4c954ae,24.137.215.159
 cs1.dbgblack.com,Possible Cobalt Strike C2 Domain,/api/1.2/e4c954ae,72.142.102.158
 css2.officeserver.at,Possible Cobalt Strike C2 Domain,/cm,20.170.42.196
