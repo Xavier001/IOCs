@@ -31535,6 +31535,4 @@
 127.0.0.1	cdn-dwnld.ru
 127.0.0.1	eventbox.com
 127.0.0.1	next-traf623.site
-127.0.0.1	service-04n5kmrn-1302014318.bj.apigw.tencentcs.com
-127.0.0.1	cc.hakc.link
-# Number of entries: 31531
+# Number of entries: 31529
