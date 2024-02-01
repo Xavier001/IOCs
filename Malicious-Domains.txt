@@ -31514,6 +31514,4 @@
 127.0.0.1	crew1.up.flysmart-piac-aero.site
 127.0.0.1	check.up.flysmart-piac-aero.site
 127.0.0.1	skeletoheltha.com
-127.0.0.1	www.yowell.pw
-127.0.0.1	mx.kortex-tech.com
-# Number of entries: 31510
+# Number of entries: 31508
