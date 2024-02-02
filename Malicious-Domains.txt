@@ -30755,5 +30755,4 @@
 127.0.0.1	vdscloud.net
 127.0.0.1	vrunabo.su
 127.0.0.1	vsimperial.com
-127.0.0.1	shopzandda.azureedge.net
-# Number of entries: 30750
+# Number of entries: 30749

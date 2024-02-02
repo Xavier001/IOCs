@@ -236,6 +236,7 @@ vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,
 vigorouseuclid.zscaler.skytapdns.com,Possible Cobalt Strike C2 Domain,/visit.js,23.98.137.196
 vm.updataus.com,Possible Cobalt Strike C2 Fronting Domain,/navigation,149.40.62.54
 vm.updataus.com,Possible Cobalt Strike C2 Fronting Domain,/navigation,5.42.66.50
+waltonfoods.com,Possible Cobalt Strike C2 Domain,/Make/apache/T0ZTSFR9U,47.76.56.64
 wcs.microsoftwindows.cloud,Possible Cobalt Strike C2 Domain,/dot.gif,121.40.233.196
 webtest.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/feedapi/v1/newsserver/api/getusername,150.158.34.235
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
