@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-01 16:14:22 UTC                        #
+# Last updated: 2024-02-02 10:13:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	okled.cc
+127.0.0.1	www.okled.cc
+127.0.0.1	cdns.casacam.net
+127.0.0.1	service-2kefhgzl-1316598603.bj.tencentapigw.com.cn
 127.0.0.1	0.tcp.sa.ngrok.io
 127.0.0.1	pjnbadfjandkadm3kd.com
 127.0.0.1	qcpanel.hackcrack.io
@@ -30705,13 +30709,4 @@
 127.0.0.1	microsoftteams.con-ip.com
 127.0.0.1	ghostboy.gotdns.ch
 127.0.0.1	service-hzdzk12c-1318485841.gz.apigw.tencentcs.com
-127.0.0.1	plazzasecretballeronline.onedumb.com
-127.0.0.1	updownloadrar.top
-127.0.0.1	leven11sr.top
-127.0.0.1	thenewmusictunes.com
-127.0.0.1	kaatsonlinesupport.com
-127.0.0.1	1574.hopto.org
-127.0.0.1	mkbkygbgwcdc.buzz
-127.0.0.1	service-c3i28tfw-1259711277.gz.apigw.tencentcs.com
-127.0.0.1	www.unbreakable.live
-# Number of entries: 30708
+# Number of entries: 30703
