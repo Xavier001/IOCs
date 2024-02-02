@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-02 10:13:56 UTC                        #
+# Last updated: 2024-02-02 15:05:53 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ec2-15-206-174-2.ap-south-1.compute.amazonaws.com
+127.0.0.1	mywestpac.com
+127.0.0.1	www.panitor.xyz
+127.0.0.1	panelbar.ct8.pl
+127.0.0.1	nickbaseev1.fvds.ru
+127.0.0.1	omgs.asia
+127.0.0.1	nickbaseev4.fvds.ru
+127.0.0.1	ec2-3-140-197-75.us-east-2.compute.amazonaws.com
+127.0.0.1	ec2-54-89-165-37.compute-1.amazonaws.com
+127.0.0.1	technoblade.ddns.net
 127.0.0.1	okled.cc
 127.0.0.1	www.okled.cc
 127.0.0.1	cdns.casacam.net
@@ -30706,7 +30716,4 @@
 127.0.0.1	mentalhealth.cghospital.org
 127.0.0.1	r1.dread-it.online
 127.0.0.1	microsoft-bank.com
-127.0.0.1	microsoftteams.con-ip.com
-127.0.0.1	ghostboy.gotdns.ch
-127.0.0.1	service-hzdzk12c-1318485841.gz.apigw.tencentcs.com
-# Number of entries: 30703
+# Number of entries: 30710

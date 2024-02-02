@@ -110,7 +110,7 @@ mirrors.office356.shop,Possible Cobalt Strike C2 Fronted Domain,/owa/WShW-cLK-lk
 mirrors.office356.shop,Possible Cobalt Strike C2 Fronted Domain,/owa/nK6FEkkVNWLN1WRkLKS6hrb9MOMS13Q4VDUpalwM
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.php
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain,/push
-ns.365ub.cn,Possible Cobalt Strike C2 Domain,/__utm.gif
+ns.365ub.cn,Possible Cobalt Strike C2 Domain,/en_US/all.js
 ns.b1ing.com,Possible Cobalt Strike C2 Domain,/cm
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 ns.chrome-crash.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -184,8 +184,7 @@ service-9sehd1r7-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-b7g5qx9l-1318401771.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/stream
 service-bauue492-1309306755.gz.tencentapigw.cn,Possible Cobalt Strike C2 Domain,/api/getit
 service-bvvdi136-1317500845.gz.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x
-service-bzbl2uq7-1312255927.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/activity
-service-bzbl2uq7-1312255927.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
+service-bzbl2uq7-1312255927.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cx
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Contact/v9.23/AODFY6X8UV
 service-dlrbbup7-1309697666.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/updates.rss
 service-eh2fyewb-1301153563.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -227,5 +226,5 @@ www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/
 www.xss.mba,Possible Cobalt Strike C2 Domain,/updates.rss
 www1.allegiancefithealth.com,Possible Cobalt Strike C2 Domain,/async/ddljson
 www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/ddljson
-xmr.index-gpt.pro,Possible Cobalt Strike C2 Domain,/cm
+xmr.index-gpt.pro,Possible Cobalt Strike C2 Domain,/ga.js
 zx.reg32.com,Possible Cobalt Strike C2 Domain,/remove
