@@ -32,7 +32,7 @@ cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain,/CloudGraph/Collection/v1
 cdn.microsolt.top,Possible Cobalt Strike C2 Domain,/wp-admin
 cdn.suiteb.io,Possible Cobalt Strike C2 Domain,/__utm.gif
 cdn.tgu-future.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-cdns.casacam.net,Possible Cobalt Strike C2 Domain,/api/v1/login
+cdns.casacam.net,Possible Cobalt Strike C2 Domain,/scripts/main.js
 check.cloudupdateserver.cloudns.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 check.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 check.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/visit.js
@@ -42,6 +42,7 @@ cityoall.com,Possible Cobalt Strike C2 Domain,/ptj
 cloudflairly.com,Possible Cobalt Strike C2 Domain,/Originate/temporal/YV3BJPO5BTV9
 cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js
+comewithme.info,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
 content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/g.pixel
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/g.pixel
@@ -189,6 +190,7 @@ service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-dlrbbup7-1309697666.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/updates.rss
 service-eh2fyewb-1301153563.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
+service-jnajkkdg-1318687485.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Forge/static/HULNWCWI
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/get
 service.safaricom.workers.dev,Possible Cobalt Strike C2 Domain,/VLeNAth
 set.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -219,6 +221,7 @@ waltonfoods.com,Possible Cobalt Strike C2 Domain,/Make/apache/T0ZTSFR9U
 wcs.microsoftwindows.cloud,Possible Cobalt Strike C2 Domain,/dot.gif
 webtest.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/feedapi/v1/newsserver/api/getusername
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
+www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/
 www.okled.cc,Possible Cobalt Strike C2 Fronted Domain,/api/3
 www.upgrad3.cc,Possible Cobalt Strike C2 Domain,/visit.js

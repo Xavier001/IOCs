@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-02 15:05:53 UTC                        #
+# Last updated: 2024-02-02 22:20:10 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www2.deenpel.com
+127.0.0.1	content.deenpel.com
+127.0.0.1	www.controlpanel29.com
+127.0.0.1	ec2-52-3-173-99.compute-1.amazonaws.com
+127.0.0.1	taobao7737.com
+127.0.0.1	service-jnajkkdg-1318687485.gz.apigw.tencentcs.com
+127.0.0.1	comewithme.info
 127.0.0.1	ec2-15-206-174-2.ap-south-1.compute.amazonaws.com
 127.0.0.1	mywestpac.com
 127.0.0.1	www.panitor.xyz
@@ -30710,10 +30717,4 @@
 127.0.0.1	acorusso.ru
 127.0.0.1	adiantumso.ru
 127.0.0.1	252525.con-ip.com
-127.0.0.1	service-bil0xhur-1310508408.sh.apigw.tencentcs.com
-127.0.0.1	tools.internalupdate.net
-127.0.0.1	apiv1.financialservicesnorthamerica.com
-127.0.0.1	mentalhealth.cghospital.org
-127.0.0.1	r1.dread-it.online
-127.0.0.1	microsoft-bank.com
-# Number of entries: 30710
+# Number of entries: 30711
