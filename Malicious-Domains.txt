@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-02 22:20:10 UTC                        #
+# Last updated: 2024-02-03 09:58:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	kami.magication.us
 127.0.0.1	www2.deenpel.com
 127.0.0.1	content.deenpel.com
 127.0.0.1	www.controlpanel29.com
@@ -30707,14 +30708,4 @@
 127.0.0.1	aa.hunanshengweibajgongshi.site
 127.0.0.1	api.office-updates.org
 127.0.0.1	akadns-02.net
-127.0.0.1	aethionemaso.ru
-127.0.0.1	alceaso.ru
-127.0.0.1	alismaso.ru
-127.0.0.1	acaenaso.ru
-127.0.0.1	acanthusso.ru
-127.0.0.1	achilleaso.ru
-127.0.0.1	aconitumso.ru
-127.0.0.1	acorusso.ru
-127.0.0.1	adiantumso.ru
-127.0.0.1	252525.con-ip.com
-# Number of entries: 30711
+# Number of entries: 30702
