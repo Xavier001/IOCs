@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-03 09:58:43 UTC                        #
+# Last updated: 2024-02-03 12:02:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	z.botnet.rocks
+127.0.0.1	statisticsong.com
+127.0.0.1	api.statisticsong.com
+127.0.0.1	panal.statisticsong.com
+127.0.0.1	panel.statisticsong.com
 127.0.0.1	kami.magication.us
 127.0.0.1	www2.deenpel.com
 127.0.0.1	content.deenpel.com
@@ -30704,8 +30709,4 @@
 127.0.0.1	kmstat355mx.xyz
 127.0.0.1	kmstat95dx.xyz
 127.0.0.1	service-94ia21hh-1310508408.sh.apigw.tencentcs.com
-127.0.0.1	harmonyshoused.com
-127.0.0.1	aa.hunanshengweibajgongshi.site
-127.0.0.1	api.office-updates.org
-127.0.0.1	akadns-02.net
-# Number of entries: 30702
+# Number of entries: 30703
