@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-03 19:40:11 UTC                        #
+# Last updated: 2024-02-03 22:11:55 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	invoce-social.com
 127.0.0.1	account.vitamedicajobccb.com
 127.0.0.1	outlook.vitamedicajobccb.com
 127.0.0.1	www.mywestpac.com
@@ -29273,4 +29274,4 @@
 127.0.0.1	onlinetechdesk.com
 127.0.0.1	d11xzcebh7lvkz.cloudfront.net
 127.0.0.1	gk.stst.ru
-# Number of entries: 29267
+# Number of entries: 29268
