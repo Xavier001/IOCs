@@ -11,12 +11,11 @@ apis.nodejs.cn,Possible Cobalt Strike C2 Fronting Domain
 apis.nodejs.cn.wswebpic.com,Possible Cobalt Strike C2 Fronted Domain
 as.reg32.com,Possible Cobalt Strike C2 Domain
 awsglobalaccelerator.awsliveec.com,Possible Cobalt Strike C2 Domain
-beacon.evilginx2.bio,Possible Cobalt Strike C2 Domain
 bec.security-ssl.org,Possible Cobalt Strike C2 Domain
 bot.douosadgaadonline.org,Possible Cobalt Strike C2 Domain
-buy-dnd.shop,Possible Cobalt Strike C2 Domain
 c1.tqrjfru.cn,Possible Cobalt Strike C2 Domain
 cache.thorjane.com,Possible Cobalt Strike C2 Domain
+can.comewithme.info,Possible Cobalt Strike C2 Domain
 caranthir.zapto.org,Possible Cobalt Strike C2 Domain
 carrefour-uat.sumikuma.tw,Possible Cobalt Strike C2 Domain
 cc.cert-ex.net,Possible Cobalt Strike C2 Domain
@@ -29,7 +28,6 @@ cdn.jscriptstore.com,Possible Cobalt Strike C2 Domain
 cdn.jscriptstore.com,Possible Cobalt Strike C2 Fronting Domain
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain
 cdn.microsolt.top,Possible Cobalt Strike C2 Domain
-cdn.suiteb.io,Possible Cobalt Strike C2 Domain
 cdn.tgu-future.cn,Possible Cobalt Strike C2 Domain
 cdns.casacam.net,Possible Cobalt Strike C2 Domain
 check.cloudupdateserver.cloudns.org,Possible Cobalt Strike C2 Domain
@@ -43,6 +41,7 @@ cloudflear.cf,Possible Cobalt Strike C2 Domain
 comewithme.info,Possible Cobalt Strike C2 Fronted Domain
 contact.mwam.support,Possible Cobalt Strike C2 Domain
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain
+copper-king.com,Possible Cobalt Strike C2 Domain
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain
 cs.xcb.one,Possible Cobalt Strike C2 Domain
 css2.officeserver.at,Possible Cobalt Strike C2 Domain
@@ -191,7 +190,6 @@ skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain
 software.cncb.info,Possible Cobalt Strike C2 Domain
 sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain
 su.urlz.ws,Possible Cobalt Strike C2 Domain
-success.165gov.icu,Possible Cobalt Strike C2 Domain
 summerevent2023.com,Possible Cobalt Strike C2 Domain
 support.ibmxwork.com,Possible Cobalt Strike C2 Domain
 sys.tcc-internal.com,Possible Cobalt Strike C2 Domain
@@ -199,9 +197,6 @@ t.10nf0x.com,Possible Cobalt Strike C2 Domain
 thursday.kfc4.icu,Possible Cobalt Strike C2 Fronting Domain
 updataus.com,Possible Cobalt Strike C2 Fronted Domain
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain
-update.microsoftapply.com,Possible Cobalt Strike C2 Domain
-update.microsofthk.com,Possible Cobalt Strike C2 Domain
-update.microsoftkernel.com,Possible Cobalt Strike C2 Domain
 update.windows-beta.info,Possible Cobalt Strike C2 Domain
 updates.imedicalhub.com,Possible Cobalt Strike C2 Domain
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain
