@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-04 16:03:54 UTC                        #
+# Last updated: 2024-02-05 06:08:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	telergraml.org
 127.0.0.1	updacon.hopto.org
 127.0.0.1	dmobd90auod5w.cloudfront.net
 127.0.0.1	d2zp39t2eezbsc.cloudfront.net
@@ -29247,61 +29248,4 @@
 127.0.0.1	acc.hello.ljjjkkklll.asia
 127.0.0.1	service-mxd9ixv3-1255936572.sh.apigw.tencentcs.com
 127.0.0.1	sfioa-express.intlsdcn.com
-127.0.0.1	ceit8vt.top
-127.0.0.1	cten10vt.top
-127.0.0.1	dfive5pt.top
-127.0.0.1	dfive5sb.top
-127.0.0.1	dleven11pt.top
-127.0.0.1	dleven11sb.top
-127.0.0.1	dnein9pt.top
-127.0.0.1	dnein9sb.top
-127.0.0.1	done1pt.top
-127.0.0.1	done1sb.top
-127.0.0.1	dseit8pt.top
-127.0.0.1	dseit8sb.top
-127.0.0.1	dseven7pt.top
-127.0.0.1	dseven7sb.top
-127.0.0.1	dsix6pt.top
-127.0.0.1	dsix6sb.top
-127.0.0.1	dten10pt.top
-127.0.0.1	dten10sb.top
-127.0.0.1	dthre3pt.top
-127.0.0.1	dthre3sb.top
-127.0.0.1	dtwelve12pt.top
-127.0.0.1	dtwelve12sb.top
-127.0.0.1	leven11ht.top
-127.0.0.1	leven11vt.top
-127.0.0.1	nein9ht.top
-127.0.0.1	nein9sr.top
-127.0.0.1	nein9vt.top
-127.0.0.1	one1ht.top
-127.0.0.1	one1sr.top
-127.0.0.1	one1vt.top
-127.0.0.1	seit8ht.top
-127.0.0.1	seit8sr.top
-127.0.0.1	seven7ht.top
-127.0.0.1	seven7sr.top
-127.0.0.1	seven7vt.top
-127.0.0.1	sfive5ht.top
-127.0.0.1	sfive5sr.top
-127.0.0.1	sfive5vt.top
-127.0.0.1	six6ht.top
-127.0.0.1	six6sr.top
-127.0.0.1	six6vt.top
-127.0.0.1	sten10ht.top
-127.0.0.1	sten10sr.top
-127.0.0.1	thre3ht.top
-127.0.0.1	thre3sr.top
-127.0.0.1	thre3vt.top
-127.0.0.1	twelve12ht.top
-127.0.0.1	twelve12sr.top
-127.0.0.1	twelve12vt.top
-127.0.0.1	archiboldon.com
-127.0.0.1	ultrafoks.com
-127.0.0.1	derhmajuzi.com
-127.0.0.1	perdimount.com
-127.0.0.1	tytsoftikor.com
-127.0.0.1	reraitper.com
-127.0.0.1	pireltotus.com
-127.0.0.1	ospertoolsbo.com
-# Number of entries: 29298
+# Number of entries: 29242
