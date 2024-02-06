@@ -1,11 +1,51 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-06 08:44:12 UTC                        #
+# Last updated: 2024-02-06 18:56:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	alma27.duckdns.org
+127.0.0.1	yaniqueque.sytes.net
+127.0.0.1	xmail.cfd
+127.0.0.1	apis.deenpel.com
+127.0.0.1	mine-panel.space
+127.0.0.1	www.mine-panel.space
+127.0.0.1	ec2-44-196-101-127.compute-1.amazonaws.com
+127.0.0.1	ec2-3-208-95-157.compute-1.amazonaws.com
+127.0.0.1	enter.showconfig.ru
+127.0.0.1	microsft-security.com
+127.0.0.1	ec2-52-76-234-184.ap-southeast-1.compute.amazonaws.com
+127.0.0.1	vps-zap1095765-1.zap-srv.com
+127.0.0.1	static.5.96.119.168.clients.your-server.de
+127.0.0.1	hookqd.tttseo.com
+127.0.0.1	pensive-shamir.45-134-26-33.plesk.page
+127.0.0.1	tsaojzuv225.com
+127.0.0.1	webmail.jettresponse.com
+127.0.0.1	evgenytchurakin4.fvds.ru
+127.0.0.1	www.164-90-169-184.cprapid.com
+127.0.0.1	30.210.31.34.bc.googleusercontent.com
+127.0.0.1	mosaicyoungoccasionnyej.site
+127.0.0.1	updaterootapplederjuios.site
+127.0.0.1	modestessayevenmilwek.shop
+127.0.0.1	triangleseasonbenchwj.shop
+127.0.0.1	secretionsuitcasenioise.shop
+127.0.0.1	circulatejobspontane.shop
+127.0.0.1	tonguehypnothesislan.shop
+127.0.0.1	nationalistvetecanve.shop
+127.0.0.1	inviteaccessiblesaltw.shop
+127.0.0.1	stamprollabbeymemberw.site
+127.0.0.1	donorwifeconfusionstronko.site
+127.0.0.1	essayinterventiondepof.site
+127.0.0.1	smilesnugglemonstouseo.site
+127.0.0.1	offsetundressdriveryjow.site
+127.0.0.1	publishfavorharbouroe.site
+127.0.0.1	banquetmasteryfailurw.site
+127.0.0.1	exemptatmospherestingw.site
+127.0.0.1	pavementpreferencewjiao.site
+127.0.0.1	benddiscoleideasbridrew.site
+127.0.0.1	hovermeatglacierrjuw.site
 127.0.0.1	ogind.drobpox.us
 127.0.0.1	frozenk.fr
 127.0.0.1	ftp.frozenk.fr
@@ -29280,5 +29320,4 @@
 127.0.0.1	charon2.corporate-helpdesk.de
 127.0.0.1	gstatick.com
 127.0.0.1	4.xianlaohu.com
-127.0.0.1	upadte-reviewer-online.live
-# Number of entries: 29275
+# Number of entries: 29314
