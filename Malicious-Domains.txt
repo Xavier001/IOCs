@@ -29281,6 +29281,4 @@
 127.0.0.1	gstatick.com
 127.0.0.1	4.xianlaohu.com
 127.0.0.1	upadte-reviewer-online.live
-127.0.0.1	d2042y8vbs9p7p.cloudfront.net
-127.0.0.1	io.cy789.ml
-# Number of entries: 29277
+# Number of entries: 29275
