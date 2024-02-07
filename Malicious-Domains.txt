@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-06 18:56:40 UTC                        #
+# Last updated: 2024-02-07 10:12:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	zx.regcssv.com
+127.0.0.1	as.regcssv.com
+127.0.0.1	qw.regcssv.com
 127.0.0.1	alma27.duckdns.org
 127.0.0.1	yaniqueque.sytes.net
 127.0.0.1	xmail.cfd
@@ -29320,4 +29323,4 @@
 127.0.0.1	charon2.corporate-helpdesk.de
 127.0.0.1	gstatick.com
 127.0.0.1	4.xianlaohu.com
-# Number of entries: 29314
+# Number of entries: 29317
