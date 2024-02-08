@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-07 17:51:40 UTC                        #
+# Last updated: 2024-02-08 07:05:16 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	kiwtreyy456rwty.duckdns.org
 127.0.0.1	du7wh8bicca0t.cloudfront.net
 127.0.0.1	mythic-slender.online
 127.0.0.1	1oneventos.com
@@ -29343,4 +29344,4 @@
 127.0.0.1	affiksmaali.com
 127.0.0.1	service-bvle58gz-1311190281.sh.apigw.tencentcs.com
 127.0.0.1	charon2.corporate-helpdesk.de
-# Number of entries: 29337
+# Number of entries: 29338
