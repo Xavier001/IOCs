@@ -29342,6 +29342,4 @@
 127.0.0.1	theonecorp.live
 127.0.0.1	kanomapsfuter.com
 127.0.0.1	affiksmaali.com
-127.0.0.1	service-bvle58gz-1311190281.sh.apigw.tencentcs.com
-127.0.0.1	charon2.corporate-helpdesk.de
-# Number of entries: 29338
+# Number of entries: 29336
