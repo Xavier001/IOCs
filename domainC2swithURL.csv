@@ -103,6 +103,8 @@ miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1
 microsoftwindows.one,Possible Cobalt Strike C2 Domain,/api/3
 micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.php
+msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/
+msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/
 ns.365ub.cn,Possible Cobalt Strike C2 Domain,/en_US/all.js
 ns.b1ing.com,Possible Cobalt Strike C2 Domain,/cm
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
@@ -178,7 +180,9 @@ thursday.kfc4.icu,Possible Cobalt Strike C2 Fronting Domain,/0RZDKXR/ADGJJ4B3VRS
 traincaster.net,Possible Cobalt Strike C2 Domain,/___utm.gif
 updataus.com,Possible Cobalt Strike C2 Fronted Domain,/navigation
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/
 update.windows-beta.info,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2023/10/29136388_
+update37.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/
 updates.imedicalhub.com,Possible Cobalt Strike C2 Domain,/ms-settings-power
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -188,6 +192,7 @@ vm.updataus.com,Possible Cobalt Strike C2 Fronting Domain,/navigation
 waltonfoods.com,Possible Cobalt Strike C2 Domain,/Make/apache/T0ZTSFR9U
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
+www.fucksec.buzz,Possible Cobalt Strike C2 Domain,/api/3
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/
 www.micros0fti.com,Possible Cobalt Strike C2 Domain,/api/methon/scan
 www.okled.cc,Possible Cobalt Strike C2 Fronted Domain,/api/3

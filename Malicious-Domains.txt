@@ -1,11 +1,35 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-08 07:05:16 UTC                        #
+# Last updated: 2024-02-08 20:43:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	update.westus.cloudapp.azure.com
+127.0.0.1	update37.eastus.cloudapp.azure.com
+127.0.0.1	msdn1357.centralus.cloudapp.azure.com
+127.0.0.1	msupdate.brazilsouth.cloudapp.azure.com
+127.0.0.1	keywordslive.com
+127.0.0.1	gardenplaid.com
+127.0.0.1	gibbselectrics.com
+127.0.0.1	gloverstech.com
+127.0.0.1	investechnical.com
+127.0.0.1	brookselectrics.com
+127.0.0.1	www.fucksec.buzz
+127.0.0.1	fonts.g-a.fun
+127.0.0.1	findajobforme.linkedin.loginfor.me
+127.0.0.1	ssl.g-a.fun
+127.0.0.1	content.g-a.fun
+127.0.0.1	clients5.g-a.fun
+127.0.0.1	xenodochial-austin.142-11-199-59.plesk.page
+127.0.0.1	vps-zap449572-1.zap-srv.com
+127.0.0.1	photopoiskvk.pro
+127.0.0.1	gifted-khayyam.104-168-102-175.plesk.page
+127.0.0.1	pensive-brattain.104-168-102-175.plesk.page
+127.0.0.1	lucid-albattani.104-168-102-175.plesk.page
+127.0.0.1	bold-clarke.104-168-102-175.plesk.page
+127.0.0.1	www.priceless-bose.104-168-102-175.plesk.page
 127.0.0.1	kiwtreyy456rwty.duckdns.org
 127.0.0.1	du7wh8bicca0t.cloudfront.net
 127.0.0.1	mythic-slender.online
@@ -29339,7 +29363,4 @@
 127.0.0.1	freedomly.top
 127.0.0.1	104.225.158.203.16clouds.com
 127.0.0.1	heishitanfan.online
-127.0.0.1	theonecorp.live
-127.0.0.1	kanomapsfuter.com
-127.0.0.1	affiksmaali.com
-# Number of entries: 29336
+# Number of entries: 29357

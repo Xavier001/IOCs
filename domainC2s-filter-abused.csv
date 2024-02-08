@@ -98,6 +98,8 @@ miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain
 microsoftwindows.one,Possible Cobalt Strike C2 Domain
 micrusroft.com,Possible Cobalt Strike C2 Domain
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
+msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
+msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 ns.365ub.cn,Possible Cobalt Strike C2 Domain
 ns.b1ing.com,Possible Cobalt Strike C2 Domain
 ns.checkavail.space,Possible Cobalt Strike C2 Domain
@@ -172,7 +174,9 @@ thursday.kfc4.icu,Possible Cobalt Strike C2 Fronting Domain
 traincaster.net,Possible Cobalt Strike C2 Domain
 updataus.com,Possible Cobalt Strike C2 Fronted Domain
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain
+update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 update.windows-beta.info,Possible Cobalt Strike C2 Domain
+update37.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 updates.imedicalhub.com,Possible Cobalt Strike C2 Domain
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain
@@ -181,6 +185,7 @@ verify.update.nadra-pk.org,Possible Cobalt Strike C2 Domain
 vm.updataus.com,Possible Cobalt Strike C2 Fronting Domain
 waltonfoods.com,Possible Cobalt Strike C2 Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
+www.fucksec.buzz,Possible Cobalt Strike C2 Domain
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain
 www.micros0fti.com,Possible Cobalt Strike C2 Domain
 www.okled.cc,Possible Cobalt Strike C2 Fronted Domain
