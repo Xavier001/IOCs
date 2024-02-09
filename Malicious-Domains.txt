@@ -29354,13 +29354,4 @@
 127.0.0.1	netdisk.780wow.com
 127.0.0.1	netdisk.ddnsgeek.com
 127.0.0.1	alexbp.ddns.net
-127.0.0.1	video01.dorila.top
-127.0.0.1	lapassover.site
-127.0.0.1	malai01.dorila.top
-127.0.0.1	csx22.top
-127.0.0.1	warwickyouth.com
-127.0.0.1	beautyforyou.top
-127.0.0.1	freedomly.top
-127.0.0.1	104.225.158.203.16clouds.com
-127.0.0.1	heishitanfan.online
-# Number of entries: 29357
+# Number of entries: 29348
