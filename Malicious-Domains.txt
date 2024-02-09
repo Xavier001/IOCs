@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-08 20:43:39 UTC                        #
+# Last updated: 2024-02-09 06:26:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	microbanafler.com
 127.0.0.1	update.westus.cloudapp.azure.com
 127.0.0.1	update37.eastus.cloudapp.azure.com
 127.0.0.1	msdn1357.centralus.cloudapp.azure.com
@@ -29351,7 +29352,4 @@
 127.0.0.1	moneymagnetjoe.duckdns.org
 127.0.0.1	us-central1-fluted-helper-362414.cloudfunctions.net
 127.0.0.1	www.upgrad3.cc
-127.0.0.1	netdisk.780wow.com
-127.0.0.1	netdisk.ddnsgeek.com
-127.0.0.1	alexbp.ddns.net
-# Number of entries: 29348
+# Number of entries: 29346
