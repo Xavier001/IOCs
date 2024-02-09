@@ -1,11 +1,37 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-09 06:26:24 UTC                        #
+# Last updated: 2024-02-09 18:29:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	serviceicloud.com
+127.0.0.1	maconlineoffice.com
+127.0.0.1	cdn-uk.widgetsfordeploy.com
+127.0.0.1	trans1ategooglecom.com
+127.0.0.1	saintelzearlava.com
+127.0.0.1	cdn-lnk-075.epsonupdate.uk
+127.0.0.1	aws-apps.net
+127.0.0.1	vpn.nsfocus.cn.com
+127.0.0.1	webdisk.dnl-l.ooguy.com
+127.0.0.1	notifications.deenpel.com
+127.0.0.1	x3qc.com
+127.0.0.1	ec2-52-200-22-116.compute-1.amazonaws.com
+127.0.0.1	moodle1.feja111.de
+127.0.0.1	static.129.149.13.49.clients.your-server.de
+127.0.0.1	mail.161-35-239-147.cprapid.com
+127.0.0.1	ec2-18-153-179-54.eu-central-1.compute.amazonaws.com
+127.0.0.1	qa-dhs.wavenet-solutions.com
+127.0.0.1	159-203-167-57.ipv4.staticdns2.io
+127.0.0.1	healthpips.com
+127.0.0.1	172-105-14-104.ip.linodeusercontent.com
+127.0.0.1	ec2-3-79-194-172.eu-central-1.compute.amazonaws.com
+127.0.0.1	android.l3harris.pro
+127.0.0.1	www.kitrknis.com
+127.0.0.1	21.157.72.34.bc.googleusercontent.com
+127.0.0.1	rw1.dbgblack.com
+127.0.0.1	merckllc.top
 127.0.0.1	microbanafler.com
 127.0.0.1	update.westus.cloudapp.azure.com
 127.0.0.1	update37.eastus.cloudapp.azure.com
@@ -29311,43 +29337,4 @@
 127.0.0.1	discordcdn8839248.com
 127.0.0.1	cnc.crow.ggm.pw
 127.0.0.1	jtexpress.life
-127.0.0.1	deliverr02.top
-127.0.0.1	deliverr03.top
-127.0.0.1	deliverr04.top
-127.0.0.1	dfive5pn.top
-127.0.0.1	dfive5vt.top
-127.0.0.1	dleven11pn.top
-127.0.0.1	dleven11vt.top
-127.0.0.1	dnein9pn.top
-127.0.0.1	dnein9vt.top
-127.0.0.1	done1pn.top
-127.0.0.1	done1vt.top
-127.0.0.1	dseit8pn.top
-127.0.0.1	dseit8vt.top
-127.0.0.1	dseven7pn.top
-127.0.0.1	dseven7vt.top
-127.0.0.1	dsix6pn.top
-127.0.0.1	dsix6vt.top
-127.0.0.1	dten10pn.top
-127.0.0.1	dten10vt.top
-127.0.0.1	dthre3pn.top
-127.0.0.1	dthre3vt.top
-127.0.0.1	dtwelve12pn.top
-127.0.0.1	dtwelve12vt.top
-127.0.0.1	usdeliver06.top
-127.0.0.1	usdeliver08.top
-127.0.0.1	usdeliver1.top
-127.0.0.1	usdeliver11.top
-127.0.0.1	usdeliver16.top
-127.0.0.1	usdeliver166.top
-127.0.0.1	usdeliver168.top
-127.0.0.1	usdeliver18.top
-127.0.0.1	usdeliver19.top
-127.0.0.1	usdeliver2.top
-127.0.0.1	usdeliver3.top
-127.0.0.1	usdeliver68.top
-127.0.0.1	usdeliver69.top
-127.0.0.1	99avip.online
-127.0.0.1	bluegaslamp.org
-127.0.0.1	moneymagnetjoe.duckdns.org
-# Number of entries: 29344
+# Number of entries: 29331

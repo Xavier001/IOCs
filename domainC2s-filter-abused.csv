@@ -9,6 +9,7 @@ api.speech-microsoft.com,Possible Cobalt Strike C2 Domain
 api.upgrad3.cc,Possible Cobalt Strike C2 Domain
 as.reg32.com,Possible Cobalt Strike C2 Domain
 as.regcssv.com,Possible Cobalt Strike C2 Domain
+aws-apps.net,Possible Cobalt Strike C2 Fronted Domain
 awsglobalaccelerator.awsliveec.com,Possible Cobalt Strike C2 Domain
 bec.security-ssl.org,Possible Cobalt Strike C2 Domain
 cache.thorjane.com,Possible Cobalt Strike C2 Domain
@@ -16,6 +17,7 @@ can.comewithme.info,Possible Cobalt Strike C2 Domain
 cc.cert-ex.net,Possible Cobalt Strike C2 Domain
 cc.youku.zip,Possible Cobalt Strike C2 Domain
 cdn-014.epsonupdate.uk,Possible Cobalt Strike C2 Domain
+cdn-lnk-075.epsonupdate.uk,Possible Cobalt Strike C2 Domain
 cdn.efstech.de,Possible Cobalt Strike C2 Domain
 cdn.jquerycodes.com,Possible Cobalt Strike C2 Fronted Domain
 cdn.jscriptstore.com,Possible Cobalt Strike C2 Domain
@@ -158,6 +160,7 @@ service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-jnajkkdg-1318687485.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 set.urlz.ws,Possible Cobalt Strike C2 Domain
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain
 software.cncb.info,Possible Cobalt Strike C2 Domain
 sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain
 su.urlz.ws,Possible Cobalt Strike C2 Domain
@@ -177,6 +180,7 @@ v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain
 veriernano.com,Possible Cobalt Strike C2 Domain
 verify.update.nadra-pk.org,Possible Cobalt Strike C2 Domain
 vm.updataus.com,Possible Cobalt Strike C2 Fronting Domain
+vpn.nsfocus.cn.com,Possible Cobalt Strike C2 Domain
 waltonfoods.com,Possible Cobalt Strike C2 Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
 www.fucksec.buzz,Possible Cobalt Strike C2 Domain
