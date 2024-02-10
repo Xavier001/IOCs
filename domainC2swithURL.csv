@@ -1,6 +1,5 @@
 #domain,ioc,uri_path
 360sec.online,Possible Cobalt Strike C2 Fronting Domain,/api/3
-3se9ewodke339f0e83.connectivitytests.com,Possible Cobalt Strike C2 Domain,/dot.gif
 ad.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 adibh.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js
 annualraises2023.zip,Possible Cobalt Strike C2 Domain,/visit.js
@@ -31,7 +30,6 @@ check.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/visit.js
 check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cins.hin7lostvas.pro,Possible Cobalt Strike C2 Domain,/case.css
 cityoall.com,Possible Cobalt Strike C2 Domain,/dpixel
-cityoall.com,Possible Cobalt Strike C2 Domain,/ptj
 cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js
 comewithme.info,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
@@ -40,7 +38,6 @@ content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/g.pixel
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/g.pixel
 copper-king.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/61279305_
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/activity
-cs.xcb.one,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 css2.officeserver.at,Possible Cobalt Strike C2 Domain,/cm
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Fronting Domain,/webhp/
 d2zp39t2eezbsc.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
@@ -61,7 +58,6 @@ dmobd90auod5w.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_
 dns.atchesonprint.com,Possible Cobalt Strike C2 Domain,/dev/coke/CQHL5IYQF
 dns.azurewinservice.com,Possible Cobalt Strike C2 Domain,/jquery-3.4.1.min.js
 dns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
-dns.cityoall.com,Possible Cobalt Strike C2 Domain,/dpixel
 dns.cityoall.com,Possible Cobalt Strike C2 Domain,/pixel.gif
 dns.currentbee.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 dns.investmenttech.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -102,10 +98,8 @@ micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.php
 msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/
-ns.365ub.cn,Possible Cobalt Strike C2 Domain,/en_US/all.js
 ns.b1ing.com,Possible Cobalt Strike C2 Domain,/cm
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
-ns.chrome-crash.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns.n0reply.eu.org,Possible Cobalt Strike C2 Domain,/api-opt-2023-gfr/3
 ns1.163microsoft.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
@@ -116,7 +110,6 @@ ns1.crnbchina.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.dns-supports.online,Possible Cobalt Strike C2 Domain,/api/3
 ns1.dnsdnsdns.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/fwlink
-ns1.inpex589.info,Possible Cobalt Strike C2 Domain,/5a8b3c9d1/sig_ver
 ns1.microsoft-update.one,Possible Cobalt Strike C2 Domain,/static/js/jquery-3.3.1.min.js
 ns1.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png
 ns2.163microsoft.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
@@ -169,7 +162,6 @@ set.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/match
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 solar.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
-sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain,/image/
 su.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 summerevent2023.com,Possible Cobalt Strike C2 Domain,/tip.php
 sys.tcc-internal.com,Possible Cobalt Strike C2 Domain,/pixel

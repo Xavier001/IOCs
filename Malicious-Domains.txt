@@ -1,11 +1,29 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-09 18:29:49 UTC                        #
+# Last updated: 2024-02-10 10:55:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dns.t0oger.com
+127.0.0.1	vpn.nsgocus.cn.com
+127.0.0.1	ns1.brd1ce.top
+127.0.0.1	cache.uhorjane.com
+127.0.0.1	dnsswaf.djn.blue
+127.0.0.1	v2ray1/mmsy.top
+127.0.0.1	v2ray2.mlsy.top
+127.0.0.1	ns1.dnrdnsdns.onlind
+127.0.0.1	ns2/dnsdnsdns.onmine
+127.0.0.1	check0.judicical.mm
+127.0.0.1	check.kudicical.ml
+127.0.0.1	ns2.0-2.pw
+127.0.0.1	update.theasiagroupai.com
+127.0.0.1	dns.startupmartec.net
+127.0.0.1	dns.thenewbees.org
+127.0.0.1	dns.sstr.com.br
+127.0.0.1	dns.pwd-reset.net
+127.0.0.1	cupdater.bbtecno.com
 127.0.0.1	serviceicloud.com
 127.0.0.1	maconlineoffice.com
 127.0.0.1	cdn-uk.widgetsfordeploy.com
@@ -29334,4 +29352,4 @@
 127.0.0.1	pokerstorstool.com
 127.0.0.1	smakizelkopp.com
 127.0.0.1	aqkm.timeline.transversallearning.com
-# Number of entries: 29328
+# Number of entries: 29346
