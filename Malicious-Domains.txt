@@ -29336,5 +29336,4 @@
 127.0.0.1	aqkm.timeline.transversallearning.com
 127.0.0.1	discordcdn8839248.com
 127.0.0.1	cnc.crow.ggm.pw
-127.0.0.1	jtexpress.life
-# Number of entries: 29331
+# Number of entries: 29330
