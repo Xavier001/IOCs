@@ -29334,6 +29334,4 @@
 127.0.0.1	pokerstorstool.com
 127.0.0.1	smakizelkopp.com
 127.0.0.1	aqkm.timeline.transversallearning.com
-127.0.0.1	discordcdn8839248.com
-127.0.0.1	cnc.crow.ggm.pw
-# Number of entries: 29330
+# Number of entries: 29328
