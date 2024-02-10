@@ -1,11 +1,23 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-10 10:55:00 UTC                        #
+# Last updated: 2024-02-10 16:52:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	blogger.deenpel.com
+127.0.0.1	eco-academy.virtualidevs.com
+127.0.0.1	www.nanasuuakiaa.host
+127.0.0.1	www.x3qc.com
+127.0.0.1	ec2-54-175-203-218.compute-1.amazonaws.com
+127.0.0.1	staging.recruitis.josefbenjac.cz
+127.0.0.1	panel.dalkson.com
+127.0.0.1	ec2-34-244-129-215.eu-west-1.compute.amazonaws.com
+127.0.0.1	zqpvr01.sandcats.io
+127.0.0.1	ec2-54-199-117-47.ap-northeast-1.compute.amazonaws.com
+127.0.0.1	056hg568786.f4r5t5y8hh8.click
+127.0.0.1	v2202305171327228750.powersrv.de
 127.0.0.1	dns.t0oger.com
 127.0.0.1	vpn.nsgocus.cn.com
 127.0.0.1	ns1.brd1ce.top
@@ -29344,12 +29356,4 @@
 127.0.0.1	rexsrupmoney979.ditchyourip.com
 127.0.0.1	skigoldmex.dvrcam.info
 127.0.0.1	zeedinfintymexbrock.geekgalaxy.com
-127.0.0.1	cs-go.btpanel.asia
-127.0.0.1	cs.dingjie.eu.org
-127.0.0.1	image.baiduu.org
-127.0.0.1	dmg.allwesoft.com
-127.0.0.1	podiumstrtss.com
-127.0.0.1	pokerstorstool.com
-127.0.0.1	smakizelkopp.com
-127.0.0.1	aqkm.timeline.transversallearning.com
-# Number of entries: 29346
+# Number of entries: 29350
