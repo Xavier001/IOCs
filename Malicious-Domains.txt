@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-11 11:55:46 UTC                        #
+# Last updated: 2024-02-11 21:12:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hom.cabul.bbtecno.com
+127.0.0.1	dev.cabul.bbtecno.com
+127.0.0.1	ns1.mb-testing.de
+127.0.0.1	ccuk.edenexit.com
+127.0.0.1	winkimedia.it
+127.0.0.1	53d5-66-154-102-195.ngrok-free.app
 127.0.0.1	sbdatabase.com
 127.0.0.1	teaigame.com
 127.0.0.1	support-ntc.servehttp.com
@@ -62,17 +68,7 @@
 127.0.0.1	ec2-54-199-117-47.ap-northeast-1.compute.amazonaws.com
 127.0.0.1	056hg568786.f4r5t5y8hh8.click
 127.0.0.1	v2202305171327228750.powersrv.de
-127.0.0.1	dns.t0oger.com
 127.0.0.1	vpn.nsgocus.cn.com
-127.0.0.1	ns1.brd1ce.top
-127.0.0.1	cache.uhorjane.com
-127.0.0.1	dnsswaf.djn.blue
-127.0.0.1	v2ray1/mmsy.top
-127.0.0.1	v2ray2.mlsy.top
-127.0.0.1	ns1.dnrdnsdns.onlind
-127.0.0.1	ns2/dnsdnsdns.onmine
-127.0.0.1	check0.judicical.mm
-127.0.0.1	check.kudicical.ml
 127.0.0.1	ns2.0-2.pw
 127.0.0.1	update.theasiagroupai.com
 127.0.0.1	dns.startupmartec.net
@@ -29368,36 +29364,4 @@
 127.0.0.1	1105181.com
 127.0.0.1	1213454.com
 127.0.0.1	farulig.us
-127.0.0.1	439mdxmex.damnserver.com
-127.0.0.1	897midasgold.ddns.me
-127.0.0.1	9mdxmex.damnserver.com
-127.0.0.1	aigodmoney009.access.ly
-127.0.0.1	askmrpc747bm.mymediapc.net
-127.0.0.1	cinfintymex.geekgalaxy.com
-127.0.0.1	cnt-blackrock.geekgalaxy.com
-127.0.0.1	brockmex57.golffan.us
-127.0.0.1	disrupmoney979.ditchyourip.com
-127.0.0.1	dmrpc77bm.myactivedirectory.com
-127.0.0.1	freelascdmx979.couchpotatofries.org
-127.0.0.1	hotdiamond777.loginto.me
-127.0.0.1	i89bydzi.dynns.com
-127.0.0.1	ikmidasgold.ddns.me
-127.0.0.1	imrpc7987bm.mmafan.biz
-127.0.0.1	infintymex747.geekgalaxy.com
-127.0.0.1	infintymexb.geekgalaxy.com
-127.0.0.1	irocketxmtm.hopto.me
-127.0.0.1	izt89bydzi.dynns.com
-127.0.0.1	infintymexbrock.geekgalaxy.com
-127.0.0.1	j1d3c3mex.homesecuritypc.com
-127.0.0.1	jinfintymexbr.geekgalaxy.com
-127.0.0.1	kktkarotomx.dnsfor.me
-127.0.0.1	jxjmrpc797bm.mydissent.net
-127.0.0.1	kakarotomx.dnsfor.me
-127.0.0.1	megaskigoldmex.dvrcam.info
-127.0.0.1	minfintymexbr.geekgalaxy.com
-127.0.0.1	myfunbmdablo99.hosthampster.com
-127.0.0.1	myinfintyme09.geekgalaxy.com
-127.0.0.1	rexsrupmoney979.ditchyourip.com
-127.0.0.1	skigoldmex.dvrcam.info
-127.0.0.1	zeedinfintymexbrock.geekgalaxy.com
-# Number of entries: 29394
+# Number of entries: 29358
