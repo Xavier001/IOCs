@@ -118,12 +118,14 @@ msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download
 msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,146.235.52.69
 msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,159.112.177.137
 msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,173.212.224.123
+msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,20.226.21.146
 msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,23.101.122.219
 msdn1357.centralus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,40.86.174.181
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,13.82.186.9
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,146.235.52.69
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,159.112.177.137
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,173.212.224.123
+msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,20.226.21.146
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,23.101.122.219
 msupdate.brazilsouth.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,40.86.174.181
 ns.b1ing.com,Possible Cobalt Strike C2 Domain,/cm,8.212.0.206
@@ -206,6 +208,7 @@ update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,13.
 update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,146.235.52.69
 update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,159.112.177.137
 update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,173.212.224.123
+update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,20.226.21.146
 update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,23.101.122.219
 update.westus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,40.86.174.181
 update.windows-beta.info,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2023/10/29136388_,185.179.216.11
@@ -213,6 +216,7 @@ update37.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,1
 update37.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,146.235.52.69
 update37.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,159.112.177.137
 update37.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,173.212.224.123
+update37.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,20.226.21.146
 update37.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,23.101.122.219
 update37.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/download/,40.86.174.181
 updates.imedicalhub.com,Possible Cobalt Strike C2 Domain,/ms-settings-power,138.197.127.231
