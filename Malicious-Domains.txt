@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-11 07:25:45 UTC                        #
+# Last updated: 2024-02-11 11:55:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sbdatabase.com
+127.0.0.1	teaigame.com
 127.0.0.1	support-ntc.servehttp.com
 127.0.0.1	sdmx-financegovpk.servehttp.com
 127.0.0.1	sharepakistan-mofa.viewdns.net
@@ -29398,4 +29400,4 @@
 127.0.0.1	rexsrupmoney979.ditchyourip.com
 127.0.0.1	skigoldmex.dvrcam.info
 127.0.0.1	zeedinfintymexbrock.geekgalaxy.com
-# Number of entries: 29392
+# Number of entries: 29394
