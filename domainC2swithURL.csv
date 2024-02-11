@@ -8,7 +8,6 @@ api.upgrad3.cc,Possible Cobalt Strike C2 Domain,/g.pixel
 as.reg32.com,Possible Cobalt Strike C2 Domain,/profile
 as.regcssv.com,Possible Cobalt Strike C2 Domain,/fam_calendar
 aws-apps.net,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2022/11/lvJH6WKebIxYOP5aqCjtB
-awsglobalaccelerator.awsliveec.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 baidu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 bec.security-ssl.org,Possible Cobalt Strike C2 Domain,/dpixel
 cache.thorjane.com,Possible Cobalt Strike C2 Domain,/search
@@ -189,7 +188,6 @@ wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 www.fucksec.buzz,Possible Cobalt Strike C2 Domain,/api/3
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/
 www.micros0fti.com,Possible Cobalt Strike C2 Domain,/api/methon/scan
-www.upgrad3.cc,Possible Cobalt Strike C2 Domain,/visit.js
 www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png
 www.xss.mba,Possible Cobalt Strike C2 Domain,/load
 www1.allegiancefithealth.com,Possible Cobalt Strike C2 Domain,/async/ddljson

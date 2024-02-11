@@ -1,11 +1,53 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-10 16:52:43 UTC                        #
+# Last updated: 2024-02-11 07:25:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	support-ntc.servehttp.com
+127.0.0.1	sdmx-financegovpk.servehttp.com
+127.0.0.1	sharepakistan-mofa.viewdns.net
+127.0.0.1	ogdcl.servehttp.com
+127.0.0.1	portal-ptclnetpk.servehttp.com
+127.0.0.1	piac-compk.servehttp.com
+127.0.0.1	offers-ptclnetpk.serveirc.com
+127.0.0.1	offers-ptclnetpk.serveblog.net
+127.0.0.1	offers-ptclnetpk.serveftp.com
+127.0.0.1	news-ptvcompk.servehttp.com
+127.0.0.1	offer-ptclnetpk.servehttp.com
+127.0.0.1	newmail-armymilbd.servehttp.com
+127.0.0.1	navy-govbd.servehttp.com
+127.0.0.1	mailhitgovpk.servehalflife.com
+127.0.0.1	nanfung.servehttp.com
+127.0.0.1	mail-scogovpk.servehalflife.com
+127.0.0.1	mail-mofagovpk.myddns.me
+127.0.0.1	mail-mofapk.servehttp.com
+127.0.0.1	mail-mofagovpk.ddns.net
+127.0.0.1	mail-mofagovpk.gotdns.ch
+127.0.0.1	mail-modgovpk.servehttp.com
+127.0.0.1	mail-depogovpk.servehttp.com
+127.0.0.1	mail-dgdpgovpk.servehalflife.com
+127.0.0.1	hrmis-financegovpk.serveftp.com
+127.0.0.1	mail-bafmilbd.servequake.com
+127.0.0.1	finance-govpk.serveblog.net
+127.0.0.1	finance-govpk.serveftp.com
+127.0.0.1	financegovpk.servehttp.com
+127.0.0.1	circular-financegov.servehalflife.com
+127.0.0.1	eservice-ptclnetpk.servehttp.com
+127.0.0.1	cap-mofapk.servehttp.com
+127.0.0.1	awards-piacaero.servehalflife.com
+127.0.0.1	awards-piacaero.servehttp.com
+127.0.0.1	cap-mofagovpk.servehttp.com
+127.0.0.1	advisory-cabinetgpk.servehttp.com
+127.0.0.1	peces.duckdns.org
+127.0.0.1	kami.shopkami.site
+127.0.0.1	vibe-ptclnetpk.servehttp.com
+127.0.0.1	win32avemaria.com
+127.0.0.1	serenys.xyz
+127.0.0.1	junio2023.duckdns.org
+127.0.0.1	vibe-ptclnetpk.viewdns.net
 127.0.0.1	blogger.deenpel.com
 127.0.0.1	eco-academy.virtualidevs.com
 127.0.0.1	www.nanasuuakiaa.host
@@ -29356,4 +29398,4 @@
 127.0.0.1	rexsrupmoney979.ditchyourip.com
 127.0.0.1	skigoldmex.dvrcam.info
 127.0.0.1	zeedinfintymexbrock.geekgalaxy.com
-# Number of entries: 29350
+# Number of entries: 29392
