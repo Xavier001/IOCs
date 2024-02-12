@@ -29363,5 +29363,4 @@
 127.0.0.1	1213455.com
 127.0.0.1	1105181.com
 127.0.0.1	1213454.com
-127.0.0.1	farulig.us
-# Number of entries: 29358
+# Number of entries: 29357
