@@ -1,11 +1,25 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-11 21:12:45 UTC                        #
+# Last updated: 2024-02-12 07:10:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mb-testing.azureedge.net
+127.0.0.1	berlyndnero.duckdns.org
+127.0.0.1	linkerjeki.fun
+127.0.0.1	ec2-54-86-17-63.compute-1.amazonaws.com
+127.0.0.1	reporttest.rubecon.co.za
+127.0.0.1	45-79-196-203.ip.linodeusercontent.com
+127.0.0.1	static.197.203.76.144.clients.your-server.de
+127.0.0.1	883217.cc
+127.0.0.1	dgaf.catboy.me
+127.0.0.1	grinevitchnicolas.fvds.ru
+127.0.0.1	ansible-tower-pocket-node1.validatorsheaven.network
+127.0.0.1	64-225-100-2.cprapid.com
+127.0.0.1	srxy123.is-a-geek.com
+127.0.0.1	smtp.pioneerprinters.co.uk
 127.0.0.1	hom.cabul.bbtecno.com
 127.0.0.1	dev.cabul.bbtecno.com
 127.0.0.1	ns1.mb-testing.de
@@ -29333,34 +29347,4 @@
 127.0.0.1	shchiswear.com
 127.0.0.1	rosevalleylimousine.com
 127.0.0.1	ys035.tv
-127.0.0.1	1215466.com
-127.0.0.1	1239988.com
-127.0.0.1	1319551.cc
-127.0.0.1	1319553.com
-127.0.0.1	1319554.com
-127.0.0.1	1319556.com
-127.0.0.1	1319557.com
-127.0.0.1	1319558.com
-127.0.0.1	1319559.cc
-127.0.0.1	1416233.com
-127.0.0.1	c6ih1t.com
-127.0.0.1	m10688.com
-127.0.0.1	m158663.com
-127.0.0.1	m18888.com
-127.0.0.1	mining8.cc
-127.0.0.1	peninsula3.com
-127.0.0.1	petrus4.com
-127.0.0.1	recruitment59.com
-127.0.0.1	recruitment60.com
-127.0.0.1	recruitment61.com
-127.0.0.1	recruitment62.com
-127.0.0.1	shangri3.com
-127.0.0.1	stripchat15.com
-127.0.0.1	stripchat70.com
-127.0.0.1	solopodvip-my.xyz
-127.0.0.1	1213457.com
-127.0.0.1	1213458.com
-127.0.0.1	1213455.com
-127.0.0.1	1105181.com
-127.0.0.1	1213454.com
-# Number of entries: 29357
+# Number of entries: 29341
