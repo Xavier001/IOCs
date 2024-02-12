@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-12 07:10:06 UTC                        #
+# Last updated: 2024-02-12 11:20:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	haha.skyljne.click
 127.0.0.1	mb-testing.azureedge.net
 127.0.0.1	berlyndnero.duckdns.org
 127.0.0.1	linkerjeki.fun
@@ -29347,4 +29348,4 @@
 127.0.0.1	shchiswear.com
 127.0.0.1	rosevalleylimousine.com
 127.0.0.1	ys035.tv
-# Number of entries: 29341
+# Number of entries: 29342
