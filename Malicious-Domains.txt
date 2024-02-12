@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-12 11:20:50 UTC                        #
+# Last updated: 2024-02-12 20:03:34 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	janxworm9090.duckdns.org
+127.0.0.1	file.fmwhat.download
+127.0.0.1	23-26-55-9.cprapid.com
+127.0.0.1	static.127.103.78.5.clients.your-server.de
+127.0.0.1	199.60.149.34.bc.googleusercontent.com
 127.0.0.1	haha.skyljne.click
 127.0.0.1	mb-testing.azureedge.net
 127.0.0.1	berlyndnero.duckdns.org
@@ -29348,4 +29353,4 @@
 127.0.0.1	shchiswear.com
 127.0.0.1	rosevalleylimousine.com
 127.0.0.1	ys035.tv
-# Number of entries: 29342
+# Number of entries: 29347
