@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-12 20:03:34 UTC                        #
+# Last updated: 2024-02-13 08:41:16 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.is-not-really-a.website
+127.0.0.1	tab.is-not-really-a.space
+127.0.0.1	dns.no-war-make.love
+127.0.0.1	bigballz.bounceme.net
+127.0.0.1	net-killer.servehttp.com
+127.0.0.1	cheatlab.live
 127.0.0.1	janxworm9090.duckdns.org
 127.0.0.1	file.fmwhat.download
 127.0.0.1	23-26-55-9.cprapid.com
@@ -29346,10 +29352,4 @@
 127.0.0.1	ojfoidjfoijdijlkjoosodkjjjdc.con-ip.com
 127.0.0.1	kizitodavina.duckdns.org
 127.0.0.1	stela-artua.xyz
-127.0.0.1	minlas.top
-127.0.0.1	motorrungoli.com
-127.0.0.1	x64.nvize.com
-127.0.0.1	macarenaluis.hopto.org
-127.0.0.1	shchiswear.com
-127.0.0.1	rosevalleylimousine.com
 # Number of entries: 29346
