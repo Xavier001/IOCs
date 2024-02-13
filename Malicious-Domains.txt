@@ -29351,5 +29351,4 @@
 127.0.0.1	6191.ddns.net
 127.0.0.1	ojfoidjfoijdijlkjoosodkjjjdc.con-ip.com
 127.0.0.1	kizitodavina.duckdns.org
-127.0.0.1	stela-artua.xyz
-# Number of entries: 29346
+# Number of entries: 29345
