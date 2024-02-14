@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-13 18:58:31 UTC                        #
+# Last updated: 2024-02-14 09:11:53 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dadadsadaccsoong.top
+127.0.0.1	botnet.nguyennghi.info
 127.0.0.1	prodomainnameeforappru.com
 127.0.0.1	www.cranky-easley.142-11-199-59.plesk.page
 127.0.0.1	static.156.235.21.65.clients.your-server.de
@@ -29344,22 +29346,4 @@
 127.0.0.1	service-d7elcuq0-1308639534.nj.apigw.tencentcs.com
 127.0.0.1	service-3j67aa2t-1259727864.sh.apigw.tencentcs.com
 127.0.0.1	www.alwy.live
-127.0.0.1	beedoris.top
-127.0.0.1	smz.sh
-127.0.0.1	asdawdwq1.xyz
-127.0.0.1	bapolinaw.top
-127.0.0.1	daaknotr.xyz
-127.0.0.1	fepilox.top
-127.0.0.1	morenolar.top
-127.0.0.1	santolk.xyz
-127.0.0.1	semubla.top
-127.0.0.1	subanugar.top
-127.0.0.1	sumokare.top
-127.0.0.1	surkokal.top
-127.0.0.1	vakistor.top
-127.0.0.1	vefilonas.top
-127.0.0.1	wehostol.xyz
-127.0.0.1	havoc718.ddns.net
-127.0.0.1	aimtech.ddns.net
-127.0.0.1	6191.ddns.net
-# Number of entries: 29356
+# Number of entries: 29340
