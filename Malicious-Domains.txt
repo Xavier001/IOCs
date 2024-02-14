@@ -29362,6 +29362,4 @@
 127.0.0.1	havoc718.ddns.net
 127.0.0.1	aimtech.ddns.net
 127.0.0.1	6191.ddns.net
-127.0.0.1	ojfoidjfoijdijlkjoosodkjjjdc.con-ip.com
-127.0.0.1	kizitodavina.duckdns.org
-# Number of entries: 29358
+# Number of entries: 29356
