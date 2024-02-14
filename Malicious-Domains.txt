@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-14 09:11:53 UTC                        #
+# Last updated: 2024-02-14 10:28:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	qrchq.vrhoeas.com
 127.0.0.1	dadadsadaccsoong.top
 127.0.0.1	botnet.nguyennghi.info
 127.0.0.1	prodomainnameeforappru.com
@@ -29345,5 +29346,4 @@
 127.0.0.1	instant-healthonline.com
 127.0.0.1	service-d7elcuq0-1308639534.nj.apigw.tencentcs.com
 127.0.0.1	service-3j67aa2t-1259727864.sh.apigw.tencentcs.com
-127.0.0.1	www.alwy.live
 # Number of entries: 29340
