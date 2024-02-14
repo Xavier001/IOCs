@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-14 10:28:18 UTC                        #
+# Last updated: 2024-02-14 17:49:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	saturnreviews.com
+127.0.0.1	ebnsina.top
+127.0.0.1	dns.artstrailman.com
+127.0.0.1	142-11-199-59.plesk.page
+127.0.0.1	wapt.dgcs.cloud
+127.0.0.1	imperiummalczyc.pl
+127.0.0.1	evgenytchurakin6.fvds.ru
+127.0.0.1	jovial-wescoff.45-138-16-161.plesk.page
+127.0.0.1	238.200.202.35.bc.googleusercontent.com
+127.0.0.1	eganet.linkpc.net
+127.0.0.1	api.hg23jh4gk234gjhk2j3g4h2kjh3g4.xyz
+127.0.0.1	77.198.208.35.bc.googleusercontent.com
+127.0.0.1	cdn.dadadsadaccsoong.top
 127.0.0.1	qrchq.vrhoeas.com
 127.0.0.1	dadadsadaccsoong.top
 127.0.0.1	botnet.nguyennghi.info
@@ -29333,17 +29346,4 @@
 127.0.0.1	creativesoftsolutions.com
 127.0.0.1	steamfix.site
 127.0.0.1	developmentgear.com
-127.0.0.1	ns1.dilidili.shop
-127.0.0.1	ns2.dilidili.shop
-127.0.0.1	ns2.wpspcdn.com
-127.0.0.1	ns1.wpspcdn.com
-127.0.0.1	auth.up.portcom-slpa.site
-127.0.0.1	port.up.portcom-slpa.site
-127.0.0.1	service-8wufk5et-1318401771.bj.apigw.tencentcs.com
-127.0.0.1	cs45up230808.iqiyia.com
-127.0.0.1	pctor.link
-127.0.0.1	tehomics.link
-127.0.0.1	instant-healthonline.com
-127.0.0.1	service-d7elcuq0-1308639534.nj.apigw.tencentcs.com
-127.0.0.1	service-3j67aa2t-1259727864.sh.apigw.tencentcs.com
 # Number of entries: 29340
