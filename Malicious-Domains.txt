@@ -29341,17 +29341,4 @@
 127.0.0.1	1319510.com
 127.0.0.1	jokosampbulid1.com
 127.0.0.1	jokosampbulid2.com
-127.0.0.1	update-regb-service.com
-127.0.0.1	bazsnal.com
-127.0.0.1	edalaata.xyz
-127.0.0.1	d.wps.pics
-127.0.0.1	ns3.zpepc.net
-127.0.0.1	ns2.zpepc.net
-127.0.0.1	ns1.zpepc.net
-127.0.0.1	cs1.dnsonlin.co
-127.0.0.1	stub.ignorelist.com
-127.0.0.1	cloudappsoftware.com
-127.0.0.1	a.wps.pics
-127.0.0.1	service-61zfv6yw-1310360203.hk.apigw.tencentcs.com
-127.0.0.1	creativesoftsolutions.com
-# Number of entries: 29348
+# Number of entries: 29335
