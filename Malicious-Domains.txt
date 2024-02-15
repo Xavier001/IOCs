@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-15 05:56:49 UTC                        #
+# Last updated: 2024-02-15 18:17:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	yuya0415.duckdns.org
+127.0.0.1	dns.freshstartupusa.org
+127.0.0.1	play.deenpel.com
+127.0.0.1	l3mon.emilemilchen.de
+127.0.0.1	static.181.200.107.91.clients.your-server.de
+127.0.0.1	www.qq00.cc
+127.0.0.1	ecs-124-71-158-221.compute.hwclouds-dns.com
+127.0.0.1	llllllllllllllllllllllllllll.site
 127.0.0.1	saturnexa.com
 127.0.0.1	snackfunp.com
 127.0.0.1	gspiceyl.com
@@ -29317,28 +29325,4 @@
 127.0.0.1	ns2.chat666.live
 127.0.0.1	ns1.chat666.live
 127.0.0.1	samabasa.us
-127.0.0.1	csd-govpk.servehttp.com
-127.0.0.1	finance-govpk.servehttp.com
-127.0.0.1	ntc-govpk.serveftp.com
-127.0.0.1	ntc-govpk.servehttp.com
-127.0.0.1	vpn-ptclnetpk.servehttp.com
-127.0.0.1	static.js.apps.webproxy.baidu.com.cn.cdn.dnsv1.com
-127.0.0.1	pics.bonplan.lu
-127.0.0.1	exchange2.microsoftser.top
-127.0.0.1	exchange1.microsoftser.top
-127.0.0.1	version.easthudsoninvestments.com
-127.0.0.1	machine.wizardsfinance.com
-127.0.0.1	policy.sso-epg.com
-127.0.0.1	solid.lionhealthpharmacy.com
-127.0.0.1	ns1.libai.monster
-127.0.0.1	newrqas1.duckdns.org
-127.0.0.1	tttmundo2022.eastus.cloudapp.azure.com
-127.0.0.1	dvdvalle123.duckdns.org
-127.0.0.1	procesjudicial2.duckdns.org
-127.0.0.1	dosremdos.duckdns.org
-127.0.0.1	servicios.disenospublici.info
-127.0.0.1	chidoriland.com
-127.0.0.1	1319510.com
-127.0.0.1	jokosampbulid1.com
-127.0.0.1	jokosampbulid2.com
-# Number of entries: 29335
+# Number of entries: 29319
