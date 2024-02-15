@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-14 17:49:57 UTC                        #
+# Last updated: 2024-02-14 22:52:15 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	teamsupd.azurewebsites.net
+127.0.0.1	www.itaberabanoticias.com
+127.0.0.1	www2.itaberabanoticias.com
+127.0.0.1	cb.1ancast3r.top
 127.0.0.1	saturnreviews.com
 127.0.0.1	ebnsina.top
 127.0.0.1	dns.artstrailman.com
@@ -29345,5 +29349,4 @@
 127.0.0.1	service-61zfv6yw-1310360203.hk.apigw.tencentcs.com
 127.0.0.1	creativesoftsolutions.com
 127.0.0.1	steamfix.site
-127.0.0.1	developmentgear.com
-# Number of entries: 29340
+# Number of entries: 29343
