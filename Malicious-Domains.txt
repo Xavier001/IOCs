@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-14 22:52:15 UTC                        #
+# Last updated: 2024-02-15 05:56:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	saturnexa.com
+127.0.0.1	snackfunp.com
+127.0.0.1	gspiceyl.com
+127.0.0.1	usaglobalnews.com
+127.0.0.1	topglobaltv.com
+127.0.0.1	startupmartec.net
 127.0.0.1	teamsupd.azurewebsites.net
 127.0.0.1	www.itaberabanoticias.com
 127.0.0.1	www2.itaberabanoticias.com
@@ -29348,5 +29354,4 @@
 127.0.0.1	a.wps.pics
 127.0.0.1	service-61zfv6yw-1310360203.hk.apigw.tencentcs.com
 127.0.0.1	creativesoftsolutions.com
-127.0.0.1	steamfix.site
-# Number of entries: 29343
+# Number of entries: 29348
