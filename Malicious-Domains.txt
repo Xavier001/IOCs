@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-16 06:12:12 UTC                        #
+# Last updated: 2024-02-16 10:19:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	qiefuwuqi.20242525.xyz
 127.0.0.1	basenetgear.world
 127.0.0.1	eeatgoodx.com
 127.0.0.1	frenchpies.org
@@ -29324,4 +29325,4 @@
 127.0.0.1	goldmex.merseine.com
 127.0.0.1	porsche2023.est-le-patron.com
 127.0.0.1	bratzen.duckdns.org
-# Number of entries: 29318
+# Number of entries: 29319
