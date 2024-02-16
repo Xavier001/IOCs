@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-15 18:17:50 UTC                        #
+# Last updated: 2024-02-16 06:12:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	basenetgear.world
+127.0.0.1	eeatgoodx.com
+127.0.0.1	frenchpies.org
+127.0.0.1	tnoodlezy.com
+127.0.0.1	persikmonkiey7drone.com
 127.0.0.1	yuya0415.duckdns.org
 127.0.0.1	dns.freshstartupusa.org
 127.0.0.1	play.deenpel.com
@@ -29319,8 +29324,4 @@
 127.0.0.1	goldmex.merseine.com
 127.0.0.1	porsche2023.est-le-patron.com
 127.0.0.1	bratzen.duckdns.org
-127.0.0.1	testdcxtadmin1.qianxinsecurity.com
-127.0.0.1	testdcxtadmin.qianxinsecurity.com
-127.0.0.1	ns2.chat666.live
-127.0.0.1	ns1.chat666.live
-# Number of entries: 29317
+# Number of entries: 29318
