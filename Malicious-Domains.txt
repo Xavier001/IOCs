@@ -29473,6 +29473,4 @@
 127.0.0.1	grekop.online
 127.0.0.1	steeringsvr.online
 127.0.0.1	update.ibaidu.buzz
-127.0.0.1	service-0wjkcltb-1317846665.bj.apigw.tencentcs.com
-127.0.0.1	freehish.xyz
-# Number of entries: 29469
+# Number of entries: 29467
