@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-17 08:23:02 UTC                        #
+# Last updated: 2024-02-17 17:03:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	software.dth.wtf
+127.0.0.1	cholin777.con-ip.com
+127.0.0.1	elgigante.con-ip.com
+127.0.0.1	elgrande.con-ip.com
+127.0.0.1	gomelo.con-ip.com
+127.0.0.1	hebreo.con-ip.com
+127.0.0.1	jerusalen.con-ip.com
+127.0.0.1	lesbiano.con-ip.com
+127.0.0.1	ruby.con-ip.com
+127.0.0.1	fucktheccp.top
 127.0.0.1	abundancia777.con-ip.com
 127.0.0.1	caramelo.con-ip.com
 127.0.0.1	mazaltov.con-ip.com
@@ -29461,16 +29471,4 @@
 127.0.0.1	biohealth.azurewebsites.net
 127.0.0.1	ns188.pdota.top
 127.0.0.1	yuiko.xyz
-127.0.0.1	eapdns.com
-127.0.0.1	peygiri-eblughie-ir.cloud
-127.0.0.1	peygiri-eblughie-ir.cloud
-127.0.0.1	newidbot.tk
-127.0.0.1	ed.eshms.click
-127.0.0.1	eshms.click
-127.0.0.1	volume-breeding.gl.at.ply.gg
-127.0.0.1	rr1337.ddns.net
-127.0.0.1	condi.network
-127.0.0.1	grekop.online
-127.0.0.1	steeringsvr.online
-127.0.0.1	update.ibaidu.buzz
-# Number of entries: 29467
+# Number of entries: 29465
