@@ -1,11 +1,42 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-18 09:44:11 UTC                        #
+# Last updated: 2024-02-18 18:52:42 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	aquabotnet.xyz
+127.0.0.1	botnet.zapto.org
+127.0.0.1	bulldognet.info
+127.0.0.1	discounts-ptclnetpk.servehttp.com
+127.0.0.1	offers-ptclnetpk.serveftp.com
+127.0.0.1	rewards-ptclnetpk.viewdns.net
+127.0.0.1	visualstudiomacupdate.com
+127.0.0.1	nanoudu30-31620.portmap.host
+127.0.0.1	plus-subcommittee.gl.at.ply.gg
+127.0.0.1	weilaibot.net
+127.0.0.1	zunbot.awuam.com
+127.0.0.1	mirailovers.ddns.net
+127.0.0.1	nw.awuam.com
+127.0.0.1	qwerty.awuam.com
+127.0.0.1	bots.awuam.com
+127.0.0.1	feckoffbr0.sbs
+127.0.0.1	ddns.awuam.com
+127.0.0.1	ddos.sdxpay.cn
+127.0.0.1	ackcm.awuam.com
+127.0.0.1	awuam.com
+127.0.0.1	botnet.awuam.com
+127.0.0.1	714745cm.nyashland.top
+127.0.0.1	finance-govnp.servehalflife.com
+127.0.0.1	mail-ntcgovpk.servehttp.com
+127.0.0.1	mail-scogovpk.servehttp.com
+127.0.0.1	mof-govnp.servehttp.com
+127.0.0.1	net-killer.online
+127.0.0.1	botnet.serveblog.net
+127.0.0.1	net-killer.servehttp.com
+127.0.0.1	mostnet.servegame.com
+127.0.0.1	net-killer.servehttp.com
 127.0.0.1	botnet.networkbotbet.top
 127.0.0.1	networkbotbet.top
 127.0.0.1	saicetyapy.space
@@ -29469,11 +29500,4 @@
 127.0.0.1	psmohmedhatx21.teaches-yoga.com
 127.0.0.1	xp3host.dynalias.com
 127.0.0.1	xp4flash.selfip.biz
-127.0.0.1	service-gnzojfcb-1302811215.sh.apigw.tencentcs.com
-127.0.0.1	bova.fyi
-127.0.0.1	envio2023junio.duckdns.org
-127.0.0.1	agent.servegame.com
-127.0.0.1	www.rainbow-industrie.com
-127.0.0.1	support.dnsgdn.com
-127.0.0.1	service-1scv7ngm-1318428097.gz.apigw.tencentcs.com
-# Number of entries: 29470
+# Number of entries: 29494
