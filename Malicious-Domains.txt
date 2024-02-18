@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-17 17:03:13 UTC                        #
+# Last updated: 2024-02-18 09:44:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	botnet.networkbotbet.top
+127.0.0.1	networkbotbet.top
+127.0.0.1	saicetyapy.space
+127.0.0.1	antyparkov.site
+127.0.0.1	content-royal.gl.at.ply.gg
+127.0.0.1	mary-cottage.gl.at.ply.gg
+127.0.0.1	gemcreedarticulateod.shop
+127.0.0.1	claimconcessionrebe.shop
+127.0.0.1	liabilityarrangemenyit.shop
 127.0.0.1	software.dth.wtf
 127.0.0.1	cholin777.con-ip.com
 127.0.0.1	elgigante.con-ip.com
@@ -29469,5 +29478,4 @@
 127.0.0.1	service-1scv7ngm-1318428097.gz.apigw.tencentcs.com
 127.0.0.1	qax.dbapp.eu.org
 127.0.0.1	biohealth.azurewebsites.net
-127.0.0.1	ns188.pdota.top
-# Number of entries: 29464
+# Number of entries: 29472
