@@ -29476,6 +29476,4 @@
 127.0.0.1	www.rainbow-industrie.com
 127.0.0.1	support.dnsgdn.com
 127.0.0.1	service-1scv7ngm-1318428097.gz.apigw.tencentcs.com
-127.0.0.1	qax.dbapp.eu.org
-127.0.0.1	biohealth.azurewebsites.net
-# Number of entries: 29472
+# Number of entries: 29470
