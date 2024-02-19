@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-18 18:52:42 UTC                        #
+# Last updated: 2024-02-19 07:51:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cn.bing.com
+127.0.0.1	botnet.layer4.bf
+127.0.0.1	elccorp-net.ntc-telecomcorporation.workers.dev
+127.0.0.1	gwadarportt.workers.dev
+127.0.0.1	gwadarport-gov-pk.gwadarportt.workers.dev
+127.0.0.1	mail-ecp-gov-pk.ntc-telecomcorporation.workers.dev
+127.0.0.1	mail-gwadarport-gov-pk.ntc-telecomcorporation.workers.dev
+127.0.0.1	mail-sco-gov-pk.ntc-telecomcorporation.workers.dev
+127.0.0.1	ihateciroparisi.serveminecraft.net
+127.0.0.1	foodmattkent.live
+127.0.0.1	day.50adayplan.com
+127.0.0.1	winvipbonus.life
+127.0.0.1	news.ntc-telecomcorporation.workers.dev
 127.0.0.1	aquabotnet.xyz
 127.0.0.1	botnet.zapto.org
 127.0.0.1	bulldognet.info
@@ -29488,16 +29501,4 @@
 127.0.0.1	iran-pspcoi.info
 127.0.0.1	tproject.cloud
 127.0.0.1	y1.changbaishanlab.top
-127.0.0.1	prx.pcr21t.com
-127.0.0.1	ns.matrika.cn
-127.0.0.1	flashnotederby.xyz
-127.0.0.1	sharelives.xyz
-127.0.0.1	storagedrive.buzz
-127.0.0.1	easy.sharelives.xyz
-127.0.0.1	gamz.flashnotederby.xyz
-127.0.0.1	lite.sharelives.xyz
-127.0.0.1	lite.storagedrive.buzz
-127.0.0.1	psmohmedhatx21.teaches-yoga.com
-127.0.0.1	xp3host.dynalias.com
-127.0.0.1	xp4flash.selfip.biz
-# Number of entries: 29494
+# Number of entries: 29495

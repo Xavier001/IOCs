@@ -1,4 +1,5 @@
 #domain,ioc,uri_path
+abillioncoin.com,Possible Cobalt Strike C2 Domain,/www/handle/doc
 ad.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 adibh.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js
 api.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2
@@ -22,6 +23,7 @@ check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cins.hin7lostvas.pro,Possible Cobalt Strike C2 Domain,/case.css
 cityoall.com,Possible Cobalt Strike C2 Domain,/dpixel
 cloudflear.cf,Possible Cobalt Strike C2 Domain,/api/3
+cn.bing.com,Possible Cobalt Strike C2 Domain,/www/handle/doc
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
 content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/g.pixel
