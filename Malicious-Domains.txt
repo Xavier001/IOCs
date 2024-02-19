@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-19 07:51:21 UTC                        #
+# Last updated: 2024-02-19 10:44:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	lkasjdfhsdag.servebeer.com
 127.0.0.1	cn.bing.com
 127.0.0.1	botnet.layer4.bf
 127.0.0.1	elccorp-net.ntc-telecomcorporation.workers.dev
@@ -29501,4 +29502,4 @@
 127.0.0.1	iran-pspcoi.info
 127.0.0.1	tproject.cloud
 127.0.0.1	y1.changbaishanlab.top
-# Number of entries: 29495
+# Number of entries: 29496
