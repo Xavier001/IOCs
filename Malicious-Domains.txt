@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-20 11:42:46 UTC                        #
+# Last updated: 2024-02-20 19:06:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	chrome-online.site
+127.0.0.1	sudarshanadisk.com
+127.0.0.1	webpanel.space
+127.0.0.1	kendraesparza.autos
+127.0.0.1	www.liceback.online
+127.0.0.1	ok.system-samsung.com
+127.0.0.1	evgenytchurakin1.fvds.ru
+127.0.0.1	mangaforme.cloud
+127.0.0.1	service-qzxfb4ay-1318428097.gz.tencentapigw.com.cn
 127.0.0.1	service-mlanbdgq-1301500665.gz.tencentapigw.com.cn
 127.0.0.1	service-3rca94g4-1319979259.hk.tencentapigw.cn
 127.0.0.1	bonet.networkbn.com
@@ -29504,5 +29513,4 @@
 127.0.0.1	brd.4cham.top
 127.0.0.1	service-7tnbn05f-1319135578.bj.apigw.tencentcs.com
 127.0.0.1	app.ethvseos.nl
-127.0.0.1	websystemdisk.com
-# Number of entries: 29499
+# Number of entries: 29507
