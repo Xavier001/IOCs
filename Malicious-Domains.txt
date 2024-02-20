@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-19 20:42:27 UTC                        #
+# Last updated: 2024-02-20 02:36:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cdn-analytic.com
 127.0.0.1	followcache.com
 127.0.0.1	02maill.com
 127.0.0.1	syn.02maill.com
@@ -29539,5 +29540,4 @@
 127.0.0.1	panel3.iran-pspcoi.info
 127.0.0.1	iran-pspcoi.info
 127.0.0.1	tproject.cloud
-127.0.0.1	y1.changbaishanlab.top
 # Number of entries: 29534
