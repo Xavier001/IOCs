@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-20 02:36:02 UTC                        #
+# Last updated: 2024-02-20 05:31:08 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bonet.networkbn.com
 127.0.0.1	cdn-analytic.com
 127.0.0.1	followcache.com
 127.0.0.1	02maill.com
@@ -46,7 +47,6 @@
 127.0.0.1	ecs-123-60-57-13.compute.hwclouds-dns.com
 127.0.0.1	ninhobaby.com.br
 127.0.0.1	lkasjdfhsdag.servebeer.com
-127.0.0.1	cn.bing.com
 127.0.0.1	botnet.layer4.bf
 127.0.0.1	elccorp-net.ntc-telecomcorporation.workers.dev
 127.0.0.1	gwadarportt.workers.dev
@@ -29504,40 +29504,4 @@
 127.0.0.1	app.ethvseos.nl
 127.0.0.1	websystemdisk.com
 127.0.0.1	service-rfzb8g23-1319095131.sh.apigw.tencentcs.com
-127.0.0.1	appnsure.com
-127.0.0.1	ikhfaavpn.com
-127.0.0.1	1518644.com
-127.0.0.1	ppzo3687.b-cdn.net
-127.0.0.1	lahuwf14.top
-127.0.0.1	xjudab64.top
-127.0.0.1	xjuwdm61.top
-127.0.0.1	xjuwir54.top
-127.0.0.1	site1.ebl-ir.org
-127.0.0.1	ebl-ir.org
-127.0.0.1	tuoi.site
-127.0.0.1	toapptosh.ebl-ir.org
-127.0.0.1	site2.ebl-ir.org
-127.0.0.1	site3.ebl-ir.org
-127.0.0.1	site4.ebl-ir.org
-127.0.0.1	site5.ebl-ir.org
-127.0.0.1	site6.ebl-ir.org
-127.0.0.1	site7.ebl-ir.org
-127.0.0.1	site8.ebl-ir.org
-127.0.0.1	site9.ebl-ir.org
-127.0.0.1	site10.ebl-ir.org
-127.0.0.1	site13.ebl-ir.org
-127.0.0.1	site11.ebl-ir.org
-127.0.0.1	site12.ebl-ir.org
-127.0.0.1	site14.ebl-ir.org
-127.0.0.1	site15.ebl-ir.org
-127.0.0.1	site16.ebl-ir.org
-127.0.0.1	site17.ebl-ir.org
-127.0.0.1	site19.ebl-ir.org
-127.0.0.1	site18.ebl-ir.org
-127.0.0.1	site20.ebl-ir.org
-127.0.0.1	panel1.iran-pspcoi.info
-127.0.0.1	panel2.iran-pspcoi.info
-127.0.0.1	panel3.iran-pspcoi.info
-127.0.0.1	iran-pspcoi.info
-127.0.0.1	tproject.cloud
-# Number of entries: 29534
+# Number of entries: 29498
