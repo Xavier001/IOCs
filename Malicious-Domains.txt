@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-20 19:06:39 UTC                        #
+# Last updated: 2024-02-21 10:03:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	germanclics.com
+127.0.0.1	stealit.onrender.com
+127.0.0.1	ronreznick.com
+127.0.0.1	db2017417b23.zapto.org
+127.0.0.1	jmoha66808.ddns.net
+127.0.0.1	rourtmanjsdadhfakja.com
+127.0.0.1	nanocore73.zapto.org
+127.0.0.1	elianisgalidon3020.duckdns.org
 127.0.0.1	chrome-online.site
 127.0.0.1	sudarshanadisk.com
 127.0.0.1	webpanel.space
@@ -29499,16 +29507,4 @@
 127.0.0.1	kyliansuperm92139124.sbs
 127.0.0.1	kyliansuperm92139124.world
 127.0.0.1	intrafi.azureedge.net
-127.0.0.1	edlir.cloud
-127.0.0.1	ebfaiur.org
-127.0.0.1	saham.charget.cloud
-127.0.0.1	sahamman.charget.cloud
-127.0.0.1	samane.edlir.cloud
-127.0.0.1	charget.cloud
-127.0.0.1	shm.charget.cloud
-127.0.0.1	sahamet.website
-127.0.0.1	portal.sahamet.website
-127.0.0.1	biguxcse.xyz
-127.0.0.1	navid.tproject.cloud
-127.0.0.1	brd.4cham.top
-# Number of entries: 29505
+# Number of entries: 29501
