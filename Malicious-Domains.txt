@@ -29511,6 +29511,4 @@
 127.0.0.1	biguxcse.xyz
 127.0.0.1	navid.tproject.cloud
 127.0.0.1	brd.4cham.top
-127.0.0.1	service-7tnbn05f-1319135578.bj.apigw.tencentcs.com
-127.0.0.1	app.ethvseos.nl
-# Number of entries: 29507
+# Number of entries: 29505
