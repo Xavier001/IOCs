@@ -25,9 +25,8 @@ contact.mwam.support,Possible Cobalt Strike C2 Domain
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain
 css2.officeserver.at,Possible Cobalt Strike C2 Domain
+csvs.ter.one,Possible Cobalt Strike C2 Fronting Domain
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Domain
-d2zp39t2eezbsc.cloudfront.net,Possible Cobalt Strike C2 Domain
-d2zp39t2eezbsc.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain
 d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain
 d3o8tsrpl5k6yb.cloudfront.net,Possible Cobalt Strike C2 Domain
 d3so0g2pxg0u5a.cloudfront.net,Possible Cobalt Strike C2 Domain
@@ -39,7 +38,6 @@ dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dig.fuli-oa.cn,Possible Cobalt Strike C2 Domain
-dmobd90auod5w.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain
 dns.artstrailman.com,Possible Cobalt Strike C2 Domain
 dns.atchesonprint.com,Possible Cobalt Strike C2 Domain
 dns.azurewinservice.com,Possible Cobalt Strike C2 Domain
@@ -63,6 +61,7 @@ download.updatebrowser.cn,Possible Cobalt Strike C2 Fronted Domain
 exchange1.microsoftser.top,Possible Cobalt Strike C2 Domain
 exchange2.microsoftser.top,Possible Cobalt Strike C2 Domain
 fk.n0reply.eu.org,Possible Cobalt Strike C2 Domain
+hathat.azureedge.net,Possible Cobalt Strike C2 Domain
 helloone.accountants.monster,Possible Cobalt Strike C2 Domain
 hom.cabul.bbtecno.com,Possible Cobalt Strike C2 Domain
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain
@@ -116,7 +115,6 @@ qw.regcssv.com,Possible Cobalt Strike C2 Domain
 rano.outlookonlines.com,Possible Cobalt Strike C2 Domain
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain
 resource.weixin.qq.com,Possible Cobalt Strike C2 Fronting Domain
-rw1.dbgblack.com,Possible Cobalt Strike C2 Domain
 sanjianke.icu,Possible Cobalt Strike C2 Domain
 saturnexa.com,Possible Cobalt Strike C2 Domain
 saturnreviews.com,Possible Cobalt Strike C2 Domain
@@ -173,9 +171,11 @@ www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain
 www.is-not-really-a.website,Possible Cobalt Strike C2 Domain
 www.itaberabanoticias.com,Possible Cobalt Strike C2 Domain
 www.nbcnews.site,Possible Cobalt Strike C2 Domain
+www.nkbiky.cn,Possible Cobalt Strike C2 Fronted Domain
 www.qichen.fun,Possible Cobalt Strike C2 Domain
 www.weepstakes.com,Possible Cobalt Strike C2 Domain
 www.xss.mba,Possible Cobalt Strike C2 Domain
+www.ynpuning.cn,Possible Cobalt Strike C2 Fronted Domain
 www1.allegiancefithealth.com,Possible Cobalt Strike C2 Domain
 www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 www2.itaberabanoticias.com,Possible Cobalt Strike C2 Domain

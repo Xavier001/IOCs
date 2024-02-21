@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-21 10:03:11 UTC                        #
+# Last updated: 2024-02-21 11:01:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	event.coachgreb.com
+127.0.0.1	hathat.azureedge.net
+127.0.0.1	www.nkbiky.cn
+127.0.0.1	www.ynpuning.cn
 127.0.0.1	germanclics.com
 127.0.0.1	stealit.onrender.com
 127.0.0.1	ronreznick.com
@@ -29506,5 +29510,4 @@
 127.0.0.1	apple.weathersin.com
 127.0.0.1	kyliansuperm92139124.sbs
 127.0.0.1	kyliansuperm92139124.world
-127.0.0.1	intrafi.azureedge.net
-# Number of entries: 29501
+# Number of entries: 29504
