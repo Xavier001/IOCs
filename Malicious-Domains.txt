@@ -1,11 +1,25 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-21 11:01:02 UTC                        #
+# Last updated: 2024-02-21 17:56:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dns.artstrailreviews.com
+127.0.0.1	aitcaid.com
+127.0.0.1	www.nbcnews.site
+127.0.0.1	ec2-52-20-229-84.compute-1.amazonaws.com
+127.0.0.1	ftp.huboftest.ir
+127.0.0.1	109.107.181.83.sslip.io
+127.0.0.1	www.maribelgould.autos
+127.0.0.1	www.kendraesparza.autos
+127.0.0.1	irenecameron.autos
+127.0.0.1	hg88654.cc
+127.0.0.1	ok.system111.top
+127.0.0.1	bistoxcrypto.com
+127.0.0.1	157.32.125.34.bc.googleusercontent.com
+127.0.0.1	93-33-203-219.ip46.fastwebnet.it
 127.0.0.1	event.coachgreb.com
 127.0.0.1	hathat.azureedge.net
 127.0.0.1	www.nkbiky.cn
@@ -29503,11 +29517,4 @@
 127.0.0.1	yelkafeelind.com
 127.0.0.1	adaisreal.ddns.net
 127.0.0.1	cs.fighter-team.xyz
-127.0.0.1	lack.protax123.com
-127.0.0.1	ns3.yahootk.tk
-127.0.0.1	ns2.yahootk.tk
-127.0.0.1	ns1.yahootk.tk
-127.0.0.1	apple.weathersin.com
-127.0.0.1	kyliansuperm92139124.sbs
-127.0.0.1	kyliansuperm92139124.world
-# Number of entries: 29504
+# Number of entries: 29511
