@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-22 06:11:08 UTC                        #
+# Last updated: 2024-02-22 10:18:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	realusatruck.com
 127.0.0.1	amma.myftp.biz
 127.0.0.1	dns.artstrailreviews.com
 127.0.0.1	aitcaid.com
@@ -29494,6 +29495,4 @@
 127.0.0.1	tronpafet.com
 127.0.0.1	payloads.one
 127.0.0.1	service-g1c0a353-1302650299.sh.apigw.tencentcs.com
-127.0.0.1	service-a85mcmy2-1259015174.gz.apigw.tencentcs.com
-127.0.0.1	service-rsb9hux9-1258128533.cd.apigw.tencentcs.com
-# Number of entries: 29490
+# Number of entries: 29489
