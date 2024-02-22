@@ -29516,5 +29516,4 @@
 127.0.0.1	wisthardem.wiki
 127.0.0.1	yelkafeelind.com
 127.0.0.1	adaisreal.ddns.net
-127.0.0.1	cs.fighter-team.xyz
-# Number of entries: 29511
+# Number of entries: 29510
