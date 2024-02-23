@@ -1,11 +1,25 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-23 11:54:15 UTC                        #
+# Last updated: 2024-02-23 20:12:55 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	epsilon7331.uk
+127.0.0.1	www.edgarmcneil.autos
+127.0.0.1	dbdfbd.xyz
+127.0.0.1	liceback.online
+127.0.0.1	ec2-13-214-93-225.ap-southeast-1.compute.amazonaws.com
+127.0.0.1	ovh.rfc.pp.ua
+127.0.0.1	ec2-54-152-184-1.compute-1.amazonaws.com
+127.0.0.1	cut-britney.gl.at.ply.gg
+127.0.0.1	jnchina.ydns.eu
+127.0.0.1	eu.webmailservice.at
+127.0.0.1	dns.byresolved.com
+127.0.0.1	ns1.ftoffice.com
+127.0.0.1	rd.0x3f34.dev
+127.0.0.1	rd.0x115c.click
 127.0.0.1	sluitionsbad.tech
 127.0.0.1	mezla.site
 127.0.0.1	cyprusvillahomes.com
@@ -29498,6 +29512,4 @@
 127.0.0.1	aliresulthostlogininc.duckdns.org
 127.0.0.1	service-dauzg94w-1258021343.gz.apigw.tencentcs.com
 127.0.0.1	gvlgq3xhw5-spot-sta1.b-cdn.net
-127.0.0.1	manderatapple.com
-127.0.0.1	5yvcn7n4sbqaxmu7d2qicdmfl5xcjgxwtptmqoozmwsio5zyp54noaqd.onion.ws
-# Number of entries: 29494
+# Number of entries: 29506
