@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-22 21:05:03 UTC                        #
+# Last updated: 2024-02-23 07:49:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	service-hlaqy0v7-1303081427.sh.tencentapigw.com
+127.0.0.1	lastaflirtely.me
 127.0.0.1	training-invasion.gl.at.ply.gg
 127.0.0.1	79-9-691.581-alps.qyhgroup.com
 127.0.0.1	hwsrv-1126965.hostwindsdns.com
@@ -29496,21 +29498,4 @@
 127.0.0.1	manderatapple.com
 127.0.0.1	5yvcn7n4sbqaxmu7d2qicdmfl5xcjgxwtptmqoozmwsio5zyp54noaqd.onion.ws
 127.0.0.1	blog.kagotsurube.org
-127.0.0.1	service-jugev9vr-1310499068.bj.apigw.tencentcs.com
-127.0.0.1	service-3vh2v3fp-1255284320.bj.apigw.tencentcs.com
-127.0.0.1	service-4ajq454x-1258772868.bj.apigw.tencentcs.com
-127.0.0.1	cardlogical.info
-127.0.0.1	instantcap.info
-127.0.0.1	manamagazano.com
-127.0.0.1	zillafrogss.com
-127.0.0.1	alishopelec.com
-127.0.0.1	carsmarcetwrld.com
-127.0.0.1	kefsocksmag.com
-127.0.0.1	liopalsdrom.com
-127.0.0.1	rpgmagglader.com
-127.0.0.1	ultrascihictur.com
-127.0.0.1	zonanullpoker.com
-127.0.0.1	skrechelres.com
-127.0.0.1	tramikora.com
-127.0.0.1	tronpafet.com
-# Number of entries: 29507
+# Number of entries: 29492
