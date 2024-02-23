@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-23 07:49:07 UTC                        #
+# Last updated: 2024-02-23 11:54:15 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sluitionsbad.tech
+127.0.0.1	mezla.site
+127.0.0.1	cyprusvillahomes.com
 127.0.0.1	service-hlaqy0v7-1303081427.sh.tencentapigw.com
 127.0.0.1	lastaflirtely.me
 127.0.0.1	training-invasion.gl.at.ply.gg
@@ -29497,5 +29500,4 @@
 127.0.0.1	gvlgq3xhw5-spot-sta1.b-cdn.net
 127.0.0.1	manderatapple.com
 127.0.0.1	5yvcn7n4sbqaxmu7d2qicdmfl5xcjgxwtptmqoozmwsio5zyp54noaqd.onion.ws
-127.0.0.1	blog.kagotsurube.org
-# Number of entries: 29492
+# Number of entries: 29494
