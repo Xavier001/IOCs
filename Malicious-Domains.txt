@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-23 20:12:55 UTC                        #
+# Last updated: 2024-02-24 10:02:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cdncloud.info
+127.0.0.1	ipadd.show
+127.0.0.1	than-electoral.gl.at.ply.gg
+127.0.0.1	pcpanel.hackcrack.io
+127.0.0.1	nature-dawn.gl.at.ply.gg
 127.0.0.1	epsilon7331.uk
 127.0.0.1	www.edgarmcneil.autos
 127.0.0.1	dbdfbd.xyz
@@ -29505,9 +29510,4 @@
 127.0.0.1	www.upadte-reviewer-online.live
 127.0.0.1	mint-stl.ru
 127.0.0.1	api.nextgpt.fun
-127.0.0.1	cs45up230823s.iqiyia.com
-127.0.0.1	beacon2.keremsarmis.com
-127.0.0.1	beacon.keremsarmis.com
-127.0.0.1	cdn.google-cloudflare-static.store
-127.0.0.1	aliresulthostlogininc.duckdns.org
 # Number of entries: 29504
