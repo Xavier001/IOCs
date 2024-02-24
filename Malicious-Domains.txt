@@ -1,11 +1,31 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-24 10:02:29 UTC                        #
+# Last updated: 2024-02-24 19:46:42 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	srv.tamatri.co
+127.0.0.1	tamatri.co
+127.0.0.1	dw.c4kdeliver.top
+127.0.0.1	male-stephen.gl.at.ply.gg
+127.0.0.1	fbi.su1001-2.top
+127.0.0.1	fbi.su1001-2.top
+127.0.0.1	dw.bpdeliver.ru
+127.0.0.1	jira.letmaker.top
+127.0.0.1	work.onlypirate.top
+127.0.0.1	a.oracleservice.top
+127.0.0.1	b.oracleservice.top
+127.0.0.1	pwn.oracleservice.top
+127.0.0.1	c4k-ircd.pwndns.pw
+127.0.0.1	kisel228.zapto.org
+127.0.0.1	stake.libertariancounterpoint.com
+127.0.0.1	manta.brasilia.me
+127.0.0.1	cloudieapp.net
+127.0.0.1	instantchatapp.com
+127.0.0.1	funcallback.com
+127.0.0.1	appserv.ddns.net
 127.0.0.1	cdncloud.info
 127.0.0.1	ipadd.show
 127.0.0.1	than-electoral.gl.at.ply.gg
@@ -29508,6 +29528,4 @@
 127.0.0.1	remot-crim.fun
 127.0.0.1	sena-ebla-gh.org
 127.0.0.1	www.upadte-reviewer-online.live
-127.0.0.1	mint-stl.ru
-127.0.0.1	api.nextgpt.fun
-# Number of entries: 29504
+# Number of entries: 29522
