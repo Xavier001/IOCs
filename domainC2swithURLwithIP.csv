@@ -54,6 +54,7 @@ dns.freshstartupusa.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,20
 dns.nightmare.su,Possible Cobalt Strike C2 Domain,/PZVM,94.228.118.45
 dns.no-war-make.love,Possible Cobalt Strike C2 Domain,/jquery-4.9.1.min.js,195.65.41.209
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/fwlink,100.26.145.203
+dns.ringatpstul.com,Possible Cobalt Strike C2 Domain,/cm,148.72.132.181
 dns.sstr.com.br,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,18.222.142.217
 dns.startupmartec.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.77.116.186
 dns.t0nger.com,Possible Cobalt Strike C2 Domain,/pixel,8.218.137.213
@@ -127,6 +128,7 @@ rd.0x3f34.dev,Possible Cobalt Strike C2 Domain,/activity,45.76.123.14
 realusatruck.com,Possible Cobalt Strike C2 Domain,/api/accounts/v1/basic-accounts/pinned,173.44.141.86
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad,54.226.3.99
 resource.weixin.qq.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,47.92.146.233
+ringatpstul.com,Possible Cobalt Strike C2 Domain,/push,148.72.132.181
 sanjianke.icu,Possible Cobalt Strike C2 Domain,/updates,165.154.131.126
 saturnexa.com,Possible Cobalt Strike C2 Domain,/produce/editorial/YDPOBKJG,179.60.149.220
 saturnreviews.com,Possible Cobalt Strike C2 Domain,/Alert/welcome/QJ81AIZ9QHK,179.60.149.231
@@ -181,7 +183,6 @@ www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/,115.159.50.50
 www.is-not-really-a.website,Possible Cobalt Strike C2 Domain,/jquery-4.9.1.min.js,195.65.41.209
 www.nbcnews.site,Possible Cobalt Strike C2 Domain,/sm.css,154.82.81.114
 www.nkbiky.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,94.156.71.76
-www.qichen.fun,Possible Cobalt Strike C2 Domain,/dot.gif,125.70.238.9
 www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png,185.32.126.51
 www.xss.mba,Possible Cobalt Strike C2 Domain,/updates.rss,58.51.152.18
 www.ynpuning.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,94.156.71.76
