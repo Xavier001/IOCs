@@ -29510,6 +29510,4 @@
 127.0.0.1	beacon.keremsarmis.com
 127.0.0.1	cdn.google-cloudflare-static.store
 127.0.0.1	aliresulthostlogininc.duckdns.org
-127.0.0.1	service-dauzg94w-1258021343.gz.apigw.tencentcs.com
-127.0.0.1	gvlgq3xhw5-spot-sta1.b-cdn.net
-# Number of entries: 29506
+# Number of entries: 29504
