@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-24 19:46:42 UTC                        #
+# Last updated: 2024-02-25 08:47:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	fewjfhwefhwegfgwey344.cfd
+127.0.0.1	fhfhreeruu334345432.cfd
+127.0.0.1	gftfttdrtdrrttgfderrt654.cfd
+127.0.0.1	htyfdsdghfr65443.cfd
+127.0.0.1	iefijweijfiwefiue9877.cfd
+127.0.0.1	woolyboolydoolykooly.com
+127.0.0.1	rebirthbot.icu
+127.0.0.1	botnet.loadbalance.click
+127.0.0.1	conference-cal.gl.at.ply.gg
 127.0.0.1	srv.tamatri.co
 127.0.0.1	tamatri.co
 127.0.0.1	dw.c4kdeliver.top
@@ -29524,7 +29533,4 @@
 127.0.0.1	ns1.unixkernelhelp.com
 127.0.0.1	bks.loginke.com
 127.0.0.1	hello-world-steep-glade-9514.ddosploit.workers.dev
-127.0.0.1	direct.safone.me
-127.0.0.1	remot-crim.fun
-127.0.0.1	sena-ebla-gh.org
-# Number of entries: 29521
+# Number of entries: 29527
