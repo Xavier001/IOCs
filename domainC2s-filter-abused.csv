@@ -1,6 +1,7 @@
 #domain,ioc
 3se9ewodke339f0e83.connectivitytests.com,Possible Cobalt Strike C2 Domain
 MicrosoftSyst3m.com,Possible Cobalt Strike C2 Domain
+a.pain.capetown,Possible Cobalt Strike C2 Domain
 abillioncoin.com,Possible Cobalt Strike C2 Domain
 ad.urlz.ws,Possible Cobalt Strike C2 Domain
 api.speech-microsoft.com,Possible Cobalt Strike C2 Domain
@@ -123,7 +124,6 @@ recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain
 resource.weixin.qq.com,Possible Cobalt Strike C2 Fronting Domain
 ringatpstul.com,Possible Cobalt Strike C2 Domain
 sanjianke.icu,Possible Cobalt Strike C2 Domain
-saturnexa.com,Possible Cobalt Strike C2 Domain
 sbdatabase.com,Possible Cobalt Strike C2 Fronted Domain
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain
 service-18c6z8nb-1303896379.sh.tencentapigw.cn,Possible Cobalt Strike C2 Domain
@@ -169,10 +169,12 @@ veriernano.com,Possible Cobalt Strike C2 Domain
 vpn.nsfocus.cn.com,Possible Cobalt Strike C2 Domain
 waltonfoods.com,Possible Cobalt Strike C2 Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
+www.baidu12366.xyz,Possible Cobalt Strike C2 Domain
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain
 www.is-not-really-a.website,Possible Cobalt Strike C2 Domain
 www.nbcnews.site,Possible Cobalt Strike C2 Domain
 www.nkbiky.cn,Possible Cobalt Strike C2 Fronted Domain
+www.sonystore.xyz,Possible Cobalt Strike C2 Domain
 www.weepstakes.com,Possible Cobalt Strike C2 Domain
 www.xss.mba,Possible Cobalt Strike C2 Domain
 www.ynpuning.cn,Possible Cobalt Strike C2 Fronted Domain

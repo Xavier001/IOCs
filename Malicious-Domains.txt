@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-25 10:49:26 UTC                        #
+# Last updated: 2024-02-25 12:52:41 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.baidu12366.xyz
+127.0.0.1	www.sonystore.xyz
+127.0.0.1	a.pain.capetown
 127.0.0.1	service-2kd9w0iu-1302672236.gz.tencentapigw.com.cn
 127.0.0.1	fewjfhwefhwegfgwey344.cfd
 127.0.0.1	fhfhreeruu334345432.cfd
@@ -29528,10 +29531,4 @@
 127.0.0.1	sseiatca.site
 127.0.0.1	fzthemes.site
 127.0.0.1	nakamurav.com
-127.0.0.1	qlvbsnv.binhphuoc.unixkernelhelp.com
-127.0.0.1	pics.autistan.lu
-127.0.0.1	ns1.ccadn.org
-127.0.0.1	ns1.unixkernelhelp.com
-127.0.0.1	bks.loginke.com
-127.0.0.1	hello-world-steep-glade-9514.ddosploit.workers.dev
-# Number of entries: 29528
+# Number of entries: 29525
