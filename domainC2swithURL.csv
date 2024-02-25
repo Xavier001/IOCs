@@ -1,5 +1,6 @@
 #domain,ioc,uri_path
 3se9ewodke339f0e83.connectivitytests.com,Possible Cobalt Strike C2 Domain,/cx
+MicrosoftSyst3m.com,Possible Cobalt Strike C2 Domain,/Enable/v9/WDOBLGWR0S
 abillioncoin.com,Possible Cobalt Strike C2 Domain,/www/handle/doc
 ad.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 adibh.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js
@@ -74,6 +75,7 @@ fk.n0reply.eu.org,Possible Cobalt Strike C2 Domain,/api-opt-2023-gfr/3
 hathat.azureedge.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 helloone.accountants.monster,Possible Cobalt Strike C2 Domain,/users.jsp
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d
+igo0gle.com,Possible Cobalt Strike C2 Domain,/Enable/v9/WDOBLGWR0S
 import.sbdatabase.com,Possible Cobalt Strike C2 Fronting Domain,/css
 invoce-social.com,Possible Cobalt Strike C2 Domain,/Latest/v2.36/MZ6PHZVYK
 ipadd.show,Possible Cobalt Strike C2 Domain,/mod/resellers/2E4WLR6U3UV

@@ -1,5 +1,6 @@
 #domain,ioc
 3se9ewodke339f0e83.connectivitytests.com,Possible Cobalt Strike C2 Domain
+MicrosoftSyst3m.com,Possible Cobalt Strike C2 Domain
 abillioncoin.com,Possible Cobalt Strike C2 Domain
 ad.urlz.ws,Possible Cobalt Strike C2 Domain
 adibh.azureedge.net,Possible Cobalt Strike C2 Domain
@@ -68,6 +69,7 @@ fk.n0reply.eu.org,Possible Cobalt Strike C2 Domain
 hathat.azureedge.net,Possible Cobalt Strike C2 Domain
 helloone.accountants.monster,Possible Cobalt Strike C2 Domain
 iane.outlookonlines.com,Possible Cobalt Strike C2 Domain
+igo0gle.com,Possible Cobalt Strike C2 Domain
 import.sbdatabase.com,Possible Cobalt Strike C2 Fronting Domain
 invoce-social.com,Possible Cobalt Strike C2 Domain
 ipadd.show,Possible Cobalt Strike C2 Domain
