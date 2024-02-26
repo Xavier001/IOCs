@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-25 12:52:41 UTC                        #
+# Last updated: 2024-02-26 10:38:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	o.cirt.pro
+127.0.0.1	firmwarefusion.com
 127.0.0.1	www.baidu12366.xyz
 127.0.0.1	www.sonystore.xyz
 127.0.0.1	a.pain.capetown
@@ -29527,5 +29529,4 @@
 127.0.0.1	amur-city.online
 127.0.0.1	tropius.hopto.org
 127.0.0.1	redlinestealer.pw
-127.0.0.1	aspmx5.clsr.ca
-# Number of entries: 29522
+# Number of entries: 29523
