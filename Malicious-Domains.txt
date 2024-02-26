@@ -29528,7 +29528,4 @@
 127.0.0.1	tropius.hopto.org
 127.0.0.1	redlinestealer.pw
 127.0.0.1	aspmx5.clsr.ca
-127.0.0.1	sseiatca.site
-127.0.0.1	fzthemes.site
-127.0.0.1	nakamurav.com
-# Number of entries: 29525
+# Number of entries: 29522
