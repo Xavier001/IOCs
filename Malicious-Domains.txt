@@ -29908,6 +29908,4 @@
 127.0.0.1	crypromo.com
 127.0.0.1	maddoxdevelopment.online
 127.0.0.1	look.oregonwomenshealthnetwork.com
-127.0.0.1	closen.kozow.com
-127.0.0.1	www.akbeyaztckstil.com
-# Number of entries: 29904
+# Number of entries: 29902

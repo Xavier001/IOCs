@@ -1,12 +1,33 @@
 ################################################################
 # MalwareBazaar recent malware samples (MD5 hashes)            #
-# Last updated: 2024-02-26 21:21:38 UTC                        #
+# Last updated: 2024-02-27 03:00:33 UTC                        #
 #                                                              #
 # Terms Of Use: https://bazaar.abuse.ch/faq/#tos               #
 # For questions please contact bazaar [at] abuse.ch            #
 ################################################################
 #
 # md5_hash
+0cdfca890d68427bf5434a5b14684dfc
+16c5cddd111ae2f2056c5cbb1135a143
+02b0a64fe2784c334a5a7d835b301c95
+5cddaacf9782c030db128e3ebfd8f301
+58b715eaa177a5efe92c5376f9a811d9
+1c7c7ce0c9474896c2d02f5232de8927
+6185d207f75a1f7c787d3571b4d1805c
+1da168ace0c7f63a43de8739a5f15ec4
+eddba7a7457a4e34e70adf8a992082ac
+149c0f12f7f9a909e2d29ac18dc63680
+790fe7c940ae77cf5e54100a1cd3403d
+49b643e2f7b397d4751c164a9b6bb950
+636c32103ef487d1c30df530296f014b
+fb641c905528cafcdd7dea2f6b418552
+068255adc227f9c1a00c7f6cb812682b
+12b4d7492563e5d3de3df4e2b9460486
+a0e3c17062c255bf67f254c74937e4ec
+1542d82b2413c15ae95e1dcf067d57a3
+8cb42078ff91bef4a3970df020d7b667
+021b477ace5e87113272fd8b16830051
+078d20693953bbe4e986e1f728e585e1
 8c3e6666d0c357de91d364231296c2ca
 7930506b3dd2387920330798f9ab92dc
 9263197aa58e0e5bce76cce8f6323a9c
@@ -389,18 +410,4 @@ edae004721f2ec13eb4bcbf2acf41078
 19046ffd0a7a3365ba8e5b464bba149b
 c72543aa96445d4203f9b860fbfed93e
 be665485c2eed1990e3fa7bcf26de106
-9fe5f5deb66b5752018c29526c756e0c
-4f4de1e4d0c68b0f4ed77b0c7367b164
-3907c8f27ee49e0faa4e53d1b01fbf93
-b5f59bdc52b72e8b7586dabe23246a2e
-d8d16b11f408a24d7f22e5dada7278a6
-5000834cbd4c0117262e0dbb169c4118
-40a8ec14bfe41d1b4372c0e169434011
-32801003b083fdef3d5b8db125da5601
-5212ecaf2c3880d92f371356d84105be
-f372fcbce87be20833fd4acfd293cef9
-74b0cc79808464e9946c8fb16d430173
-89c3cda04f09267660a1d7fcbf473387
-6297eb9ae38a43768792db2931afde99
-59277bdbce0f9709b8a919602929c45f
-# Number of entries: 396
+# Number of entries: 403
