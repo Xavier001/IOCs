@@ -130,7 +130,6 @@ rd.0x3f34.dev,Possible Cobalt Strike C2 Domain,/activity
 realusatruck.com,Possible Cobalt Strike C2 Domain,/api/accounts/v1/basic-accounts/pinned
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad
 releases.firmwarefusion.com,Possible Cobalt Strike C2 Fronting Domain,/244E7DA752DCA7A602D55EA79CB79681.html
-resource.weixin.qq.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 ringatpstul.com,Possible Cobalt Strike C2 Domain,/push
 sanjianke.icu,Possible Cobalt Strike C2 Domain,/updates
 sbdatabase.com,Possible Cobalt Strike C2 Fronted Domain,/css
@@ -158,10 +157,13 @@ service-mlanbdgq-1301500665.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Dom
 service-qzxfb4ay-1318428097.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/user
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/get
 set.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+sfzd.tianxuesong.com.w.kunlunpi.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/updates.rss
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 software.ftoffice.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
-solar.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
+ss.wfpay.xyz.w.kunlunpi.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
+ssjcw.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
+ssjcw.com.w.kunlunpi.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 su.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 summerevent2023.com,Possible Cobalt Strike C2 Domain,/tip.php
 sys.tcc-internal.com,Possible Cobalt Strike C2 Domain,/pixel
@@ -180,7 +182,9 @@ waltonfoods.com,Possible Cobalt Strike C2 Domain,/Make/apache/T0ZTSFR9U
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 www.baidu12366.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+www.cdnyychanlun.com.w.kunlunpi.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/
+www.hotzhuan.com.w.kunlunpi.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 www.is-not-really-a.website,Possible Cobalt Strike C2 Domain,/jquery-4.9.1.min.js
 www.nbcnews.site,Possible Cobalt Strike C2 Domain,/sm.css
 www.nkbiky.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books

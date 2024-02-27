@@ -123,7 +123,6 @@ rd.0x3f34.dev,Possible Cobalt Strike C2 Domain
 realusatruck.com,Possible Cobalt Strike C2 Domain
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain
 releases.firmwarefusion.com,Possible Cobalt Strike C2 Fronting Domain
-resource.weixin.qq.com,Possible Cobalt Strike C2 Fronting Domain
 ringatpstul.com,Possible Cobalt Strike C2 Domain
 sanjianke.icu,Possible Cobalt Strike C2 Domain
 sbdatabase.com,Possible Cobalt Strike C2 Fronted Domain
@@ -151,9 +150,13 @@ service-mlanbdgq-1301500665.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Dom
 service-qzxfb4ay-1318428097.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 set.urlz.ws,Possible Cobalt Strike C2 Domain
+sfzd.tianxuesong.com.w.kunlunpi.com,Possible Cobalt Strike C2 Fronted Domain
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain
 software.cncb.info,Possible Cobalt Strike C2 Domain
 software.ftoffice.com,Possible Cobalt Strike C2 Fronted Domain
+ss.wfpay.xyz.w.kunlunpi.com,Possible Cobalt Strike C2 Fronted Domain
+ssjcw.com,Possible Cobalt Strike C2 Fronting Domain
+ssjcw.com.w.kunlunpi.com,Possible Cobalt Strike C2 Fronted Domain
 su.urlz.ws,Possible Cobalt Strike C2 Domain
 summerevent2023.com,Possible Cobalt Strike C2 Domain
 sys.tcc-internal.com,Possible Cobalt Strike C2 Domain
@@ -171,7 +174,9 @@ vpn.nsfocus.cn.com,Possible Cobalt Strike C2 Domain
 waltonfoods.com,Possible Cobalt Strike C2 Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
 www.baidu12366.xyz,Possible Cobalt Strike C2 Domain
+www.cdnyychanlun.com.w.kunlunpi.com,Possible Cobalt Strike C2 Fronted Domain
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain
+www.hotzhuan.com.w.kunlunpi.com,Possible Cobalt Strike C2 Fronted Domain
 www.is-not-really-a.website,Possible Cobalt Strike C2 Domain
 www.nbcnews.site,Possible Cobalt Strike C2 Domain
 www.nkbiky.cn,Possible Cobalt Strike C2 Fronted Domain
