@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-27 10:27:46 UTC                        #
+# Last updated: 2024-02-27 15:01:15 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	asqrecruitment.com
+127.0.0.1	cenixcrypto.com
+127.0.0.1	bh8bwt.link
+127.0.0.1	was.hg23jh4gk234gjhk2j3g4h2kjh3g4.xyz
+127.0.0.1	clarosecurity-com.duckdns.org
+127.0.0.1	goalmikeas.live
+127.0.0.1	wedshotrag.live
 127.0.0.1	3gjanc04hk.execute-api.us-east-2.amazonaws.com
 127.0.0.1	blesblochem.com
 127.0.0.1	www.hotzhuan.com.w.kunlunpi.com
@@ -29911,6 +29918,4 @@
 127.0.0.1	myappforbqaxhtt.xyz
 127.0.0.1	t.vchtzo.com
 127.0.0.1	vchtzo.com
-127.0.0.1	crypromo.com
-127.0.0.1	maddoxdevelopment.online
-# Number of entries: 29907
+# Number of entries: 29912
