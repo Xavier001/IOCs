@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-27 15:01:15 UTC                        #
+# Last updated: 2024-02-28 08:50:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	berlyndinero.duckdns.org
+127.0.0.1	ronymahmoud.casacam.net
+127.0.0.1	brainyworkslogos.com
+127.0.0.1	asyncfunctionapi.com
 127.0.0.1	asqrecruitment.com
 127.0.0.1	cenixcrypto.com
 127.0.0.1	bh8bwt.link
@@ -29911,11 +29915,4 @@
 127.0.0.1	tutorecd.ufcfan.org
 127.0.0.1	loa.stamin.top
 127.0.0.1	1.sybercodesilver.lol
-127.0.0.1	fnfactura.cfd
-127.0.0.1	nu-confirmacaoemail.com
-127.0.0.1	meetlak.link
-127.0.0.1	cxzbn.com
-127.0.0.1	myappforbqaxhtt.xyz
-127.0.0.1	t.vchtzo.com
-127.0.0.1	vchtzo.com
-# Number of entries: 29912
+# Number of entries: 29909
