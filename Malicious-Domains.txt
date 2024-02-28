@@ -1,11 +1,35 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-28 11:18:27 UTC                        #
+# Last updated: 2024-02-28 14:20:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ssl.deenpel.com
+127.0.0.1	trustabletechsupport.com
+127.0.0.1	gfdjlgkdjfgkdfjgkml.top
+127.0.0.1	ec2-34-230-177-18.compute-1.amazonaws.com
+127.0.0.1	cpcalendars.inspirestudiosteam.com
+127.0.0.1	mg.inspirestudiosteam.com
+127.0.0.1	lemon.haryadi.my.id
+127.0.0.1	cardiochallenge.at
+127.0.0.1	bignas.shop
+127.0.0.1	23-227-193-214.static.hvvc.us
+127.0.0.1	ec2-3-84-126-255.compute-1.amazonaws.com
+127.0.0.1	cryptobetix.com
+127.0.0.1	212-70-149-199.cprapid.com
+127.0.0.1	rns.hg23jh4gk234gjhk2j3g4h2kjh3g4.xyz
+127.0.0.1	distracted-cannon.104-168-102-175.plesk.page
+127.0.0.1	www.practical-black.104-168-102-175.plesk.page
+127.0.0.1	167-71-186-178.ipv4.staticdns3.io
+127.0.0.1	fairyfoxgames.com
+127.0.0.1	www.dirapushka.com
+127.0.0.1	practical-black.104-168-102-175.plesk.page
+127.0.0.1	dyn.hg23jh4gk234gjhk2j3g4h2kjh3g4.xyz
+127.0.0.1	ec2-3-91-59-255.compute-1.amazonaws.com
+127.0.0.1	assets.samfund.co
+127.0.0.1	dns.trailcosolutions.com
 127.0.0.1	ssjcw.com.w.kunlunpi.com
 127.0.0.1	berlyndinero.duckdns.org
 127.0.0.1	ronymahmoud.casacam.net
@@ -29909,10 +29933,4 @@
 127.0.0.1	d3ondvpc6davvt.cloudfront.net
 127.0.0.1	rapidevolution.org
 127.0.0.1	sanibroadbandcommunicton.duckdns.org
-127.0.0.1	sviacloud.link
-127.0.0.1	rendnar.link
-127.0.0.1	sundayjs7250.duckdns.org
-127.0.0.1	aizedamanga.serveminecraft.net
-127.0.0.1	tutorecd.ufcfan.org
-127.0.0.1	loa.stamin.top
-# Number of entries: 29909
+# Number of entries: 29927
