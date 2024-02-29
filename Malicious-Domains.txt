@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-29 09:52:06 UTC                        #
+# Last updated: 2024-02-29 12:13:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	service-f8oy6qld-1322248009.sh.tencentapigw.com
+127.0.0.1	intl.ccb.com.w.cdngslb.com
+127.0.0.1	all.mbblitz.net.w.cdngslb.com
+127.0.0.1	udptestsh6062.ialicdn.com.w.cdngslb.com
 127.0.0.1	mrado.kozow.com
 127.0.0.1	pzfdmserv275.xyz
 127.0.0.1	pzlkxadvert475.xyz
@@ -29944,4 +29948,4 @@
 127.0.0.1	xopjirlcom.com
 127.0.0.1	mitaoapp.space
 127.0.0.1	amazonapp.space
-# Number of entries: 29938
+# Number of entries: 29942
