@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-29 12:13:11 UTC                        #
+# Last updated: 2024-02-29 13:51:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	d9msk9dy9tbnk.cloudfront.net
 127.0.0.1	service-f8oy6qld-1322248009.sh.tencentapigw.com
 127.0.0.1	intl.ccb.com.w.cdngslb.com
 127.0.0.1	all.mbblitz.net.w.cdngslb.com
@@ -29932,20 +29933,4 @@
 127.0.0.1	gobyhacking.online
 127.0.0.1	sentinelupdate.click
 127.0.0.1	xcaadoadw.store
-127.0.0.1	service-k797j4br-1318291330.bj.apigw.tencentcs.com
-127.0.0.1	v10.officaesmicrasftonline.com
-127.0.0.1	lucd.shop
-127.0.0.1	ru6r4inkaf4thlgflg4iqs5mhqwqubols5qagspvya4whp3dgbvmyhad.onion
-127.0.0.1	personmetal.com
-127.0.0.1	ivermectinorder.com
-127.0.0.1	vectorsandarrows.com
-127.0.0.1	d3a95mnixoebky.cloudfront.net
-127.0.0.1	apple.phruit.shop
-127.0.0.1	net.healthyalwayss.com
-127.0.0.1	front.healthxpr.com
-127.0.0.1	kurioworld.cf
-127.0.0.1	kurioworld.gq
-127.0.0.1	xopjirlcom.com
-127.0.0.1	mitaoapp.space
-127.0.0.1	amazonapp.space
-# Number of entries: 29942
+# Number of entries: 29927
