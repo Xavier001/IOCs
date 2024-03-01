@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-29 13:51:57 UTC                        #
+# Last updated: 2024-02-29 22:21:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	30ht.com.w.kunlunpi.com
 127.0.0.1	d9msk9dy9tbnk.cloudfront.net
 127.0.0.1	service-f8oy6qld-1322248009.sh.tencentapigw.com
 127.0.0.1	intl.ccb.com.w.cdngslb.com
@@ -29912,25 +29913,4 @@
 127.0.0.1	admin.alw536.com
 127.0.0.1	beacon2.keremsarmis.xyz
 127.0.0.1	beacon.keremsarmis.xyz
-127.0.0.1	www.association-financial.com
-127.0.0.1	oopscokir.com
-127.0.0.1	station.startupstorey.com
-127.0.0.1	ns.higogo.me
-127.0.0.1	www.emohack.xyz
-127.0.0.1	windacarmelita.pw
-127.0.0.1	signalplus.org
-127.0.0.1	flygram.org
-127.0.0.1	m2.icbcbc.com.cn
-127.0.0.1	m1.icbcbc.com.cn
-127.0.0.1	serviceset.net
-127.0.0.1	exbanebiec.duckdns.org
-127.0.0.1	ewacootili.com
-127.0.0.1	dyqlwc826gfy0.cloudfront.net
-127.0.0.1	awda.updatecode.xyz
-127.0.0.1	fibrodoorsbig.xyz
-127.0.0.1	anrun.kr
-127.0.0.1	harudake.com
-127.0.0.1	gobyhacking.online
-127.0.0.1	sentinelupdate.click
-127.0.0.1	xcaadoadw.store
-# Number of entries: 29927
+# Number of entries: 29907
