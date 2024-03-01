@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-02-29 22:21:05 UTC                        #
+# Last updated: 2024-03-01 09:40:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cdn043sc.azureedge.net
+127.0.0.1	varinspector.com
+127.0.0.1	888juantriana88.dynuddns.net
 127.0.0.1	30ht.com.w.kunlunpi.com
 127.0.0.1	d9msk9dy9tbnk.cloudfront.net
 127.0.0.1	service-f8oy6qld-1322248009.sh.tencentapigw.com
@@ -29908,9 +29911,4 @@
 127.0.0.1	patricammote.com
 127.0.0.1	fraktomaam.com
 127.0.0.1	driverstorage.firmware.keenetic.pro
-127.0.0.1	incitewebsolution.com
-127.0.0.1	service-rgfpp2kt-1307379765.sh.apigw.tencentcs.com
-127.0.0.1	admin.alw536.com
-127.0.0.1	beacon2.keremsarmis.xyz
-127.0.0.1	beacon.keremsarmis.xyz
-# Number of entries: 29907
+# Number of entries: 29905
