@@ -29910,5 +29910,4 @@
 127.0.0.1	jiggaboojones.tech
 127.0.0.1	patricammote.com
 127.0.0.1	fraktomaam.com
-127.0.0.1	driverstorage.firmware.keenetic.pro
-# Number of entries: 29905
+# Number of entries: 29904
