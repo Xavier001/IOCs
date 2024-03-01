@@ -1,11 +1,46 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-01 09:40:54 UTC                        #
+# Last updated: 2024-03-01 20:50:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	louiseanderson.top
+127.0.0.1	webmail.afld.afld.email
+127.0.0.1	mehdi.fargan.fun
+127.0.0.1	www.telefonemusk.ru
+127.0.0.1	static.55.253.216.95.clients.your-server.de
+127.0.0.1	fsdjkhfkjsdhfkjdhfgg.cfd
+127.0.0.1	dqspduqsfjksdfhgjks.com
+127.0.0.1	ec2-54-234-189-192.compute-1.amazonaws.com
+127.0.0.1	www.onceuponatimeiwent.online
+127.0.0.1	89-73-53-34.dynamic.chello.pl
+127.0.0.1	kcrn.sk
+127.0.0.1	test-control.rnb-team.com
+127.0.0.1	211.20.97.83.ro.ovo.sc
+127.0.0.1	coinprime.net
+127.0.0.1	grinevitchnicolas3.fvds.ru
+127.0.0.1	ip181.ip-51-81-90.us
+127.0.0.1	nebula-cdn.hg23jh4gk234gjhk2j3g4h2kjh3g4.xyz
+127.0.0.1	odoo.tendadaalma.com
+127.0.0.1	www.distracted-cannon.104-168-102-175.plesk.page
+127.0.0.1	pensive-cerf.104-168-102-175.plesk.page
+127.0.0.1	www.hungry-dijkstra.104-168-102-175.plesk.page
+127.0.0.1	www.adoring-hellman.104-168-102-175.plesk.page
+127.0.0.1	ec2-18-116-36-101.us-east-2.compute.amazonaws.com
+127.0.0.1	www.confident-bouman.104-168-102-175.plesk.page
+127.0.0.1	www.friendly-dirac.104-168-102-175.plesk.page
+127.0.0.1	fra-col.hg23jh4gk234gjhk2j3g4h2kjh3g4.xyz
+127.0.0.1	optimistic-rubin.104-168-102-175.plesk.page
+127.0.0.1	nice-torvalds.104-168-102-175.plesk.page
+127.0.0.1	ec2-3-75-210-134.eu-central-1.compute.amazonaws.com
+127.0.0.1	www.vigilant-kare.104-168-102-175.plesk.page
+127.0.0.1	friendly-dirac.104-168-102-175.plesk.page
+127.0.0.1	srophuchung.com
+127.0.0.1	qq.qqweixinzhuce.top
+127.0.0.1	www.micshcnds.top
+127.0.0.1	test.qqweixinzhuce.top
 127.0.0.1	cdn043sc.azureedge.net
 127.0.0.1	varinspector.com
 127.0.0.1	888juantriana88.dynuddns.net
@@ -29868,46 +29903,4 @@
 127.0.0.1	cannabishang.com
 127.0.0.1	ns4.10010.buzz
 127.0.0.1	ns3.10010.buzz
-127.0.0.1	ewkekezmwzfevwvwvvmmmmmmwfwf.site
-127.0.0.1	storage.webfiledata.com
-127.0.0.1	webfiledata.com
-127.0.0.1	bekiza.shop
-127.0.0.1	bortasy.click
-127.0.0.1	gopposa.click
-127.0.0.1	haneri.shop
-127.0.0.1	nertun.shop
-127.0.0.1	periza.click
-127.0.0.1	tarezmi.shop
-127.0.0.1	emv1.nertun.shop
-127.0.0.1	mta-sts.haneri.shop
-127.0.0.1	mta-sts.periza.click
-127.0.0.1	postreq.net
-127.0.0.1	www.postreq.net
-127.0.0.1	falafelgoo1.com
-127.0.0.1	brasil.ddns.com.br
-127.0.0.1	temp.sh
-127.0.0.1	eovze.fun
-127.0.0.1	euuvua3.top
-127.0.0.1	eyftze.top
-127.0.0.1	fahzza.fun
-127.0.0.1	fiauta.top
-127.0.0.1	fuzuci.top
-127.0.0.1	lvuse.top
-127.0.0.1	prizba.top
-127.0.0.1	rigjz.fun
-127.0.0.1	rubize.top
-127.0.0.1	saifozi.fun
-127.0.0.1	sdfuzien.top
-127.0.0.1	sdifiv.top
-127.0.0.1	secdoct.top
-127.0.0.1	sevyr.top
-127.0.0.1	asuxtp.fun
-127.0.0.1	docusec.top
-127.0.0.1	easdiv.top
-127.0.0.1	eividsy.top
-127.0.0.1	zpeifujz.top
-127.0.0.1	www.qtencent.life
-127.0.0.1	jiggaboojones.tech
-127.0.0.1	patricammote.com
-127.0.0.1	fraktomaam.com
-# Number of entries: 29904
+# Number of entries: 29897
