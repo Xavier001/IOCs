@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-02 11:16:04 UTC                        #
+# Last updated: 2024-03-02 18:36:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	metis-info.com
+127.0.0.1	who.juniorfoxy.ooo
+127.0.0.1	juniorfoxy.ooo
+127.0.0.1	ravec2.xyz
+127.0.0.1	what.ravec2.xyz
+127.0.0.1	heihuo8.top
+127.0.0.1	botce.heihuo8.top
+127.0.0.1	remasterprodelherskjs.com
+127.0.0.1	cayennesxque.boo
+127.0.0.1	porsherses.com
+127.0.0.1	aerh.azureedge.net
 127.0.0.1	www.shelter-paws.com
 127.0.0.1	louiseanderson.top
 127.0.0.1	webmail.afld.afld.email
@@ -29901,4 +29912,4 @@
 127.0.0.1	znqjdnqzdqzfqmfqmkfq.site
 127.0.0.1	lpsserversonlene.xyz
 127.0.0.1	happy1sept.tuktuk.ug
-# Number of entries: 29895
+# Number of entries: 29906

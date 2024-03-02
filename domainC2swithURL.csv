@@ -5,6 +5,7 @@
 3se9ewodke339f0e83.connectivitytests.com,Possible Cobalt Strike C2 Domain,/cx
 MicrosoftSyst3m.com,Possible Cobalt Strike C2 Domain,/Enable/v9/WDOBLGWR0S
 a.pain.capetown,Possible Cobalt Strike C2 Domain,/ga.js
+aerh.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js
 all.mbblitz.net.w.cdngslb.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 as.regcssv.com,Possible Cobalt Strike C2 Domain,/fam_calendar
 assets.samfund.co,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -113,10 +114,8 @@ ns88.nanyafpg.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 nt1.227api.com,Possible Cobalt Strike C2 Domain,/push
 nt2.227api.com,Possible Cobalt Strike C2 Domain,/load
 nt3.227api.com,Possible Cobalt Strike C2 Domain,/dot.gif
-o.cirt.pro,Possible Cobalt Strike C2 Fronted Domain,/owa/
 oa.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 one.gxzf.site,Possible Cobalt Strike C2 Domain,/clemente/details
-outlook.live.com,Possible Cobalt Strike C2 Fronting Domain,/owa/
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/ptj
 qq.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/include/template/isx.php
 qw.regcssv.com,Possible Cobalt Strike C2 Domain,/fam_calendar
