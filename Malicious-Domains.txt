@@ -29900,7 +29900,4 @@
 127.0.0.1	znqjdnqzdqzfqmfqmkfq.site
 127.0.0.1	lpsserversonlene.xyz
 127.0.0.1	happy1sept.tuktuk.ug
-127.0.0.1	cannabishang.com
-127.0.0.1	ns4.10010.buzz
-127.0.0.1	ns3.10010.buzz
-# Number of entries: 29897
+# Number of entries: 29894
