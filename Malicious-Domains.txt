@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-03 06:36:02 UTC                        #
+# Last updated: 2024-03-03 11:27:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	jdkgradle.com
 127.0.0.1	pushkinorigin.ydns.eu
 127.0.0.1	realzoogroup.com
 127.0.0.1	metis-info.com
@@ -29909,5 +29910,4 @@
 127.0.0.1	xinchaoabcdjc.net
 127.0.0.1	rc30.tuktuk.ug
 127.0.0.1	tableditermanaging.pro
-127.0.0.1	service-n8rz74li-1301267584.hk.apigw.tencentcs.com
 # Number of entries: 29904
