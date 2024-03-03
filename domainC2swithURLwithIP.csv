@@ -77,8 +77,8 @@ intl.ccb.com.w.cdngslb.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 invoce-social.com,Possible Cobalt Strike C2 Domain,/Latest/v2.36/MZ6PHZVYK,88.214.25.253
 ipadd.show,Possible Cobalt Strike C2 Domain,/mod/resellers/2E4WLR6U3UV,172.200.160.7
 jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-2.8.4.min.js,4.158.105.167
-js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/activity,8.212.44.149
-js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/activity,8.212.49.116
+js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/pixel.gif,8.212.44.149
+js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/pixel.gif,8.212.49.116
 leno.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d30000022ii0921071812d,172.105.192.139
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain,/api/3,101.35.198.64
 log.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2,206.237.30.76
@@ -88,6 +88,8 @@ miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1,125.128.1
 microsoftwindows.one,Possible Cobalt Strike C2 Domain,/api/3,124.70.140.36
 micrusroft.com,Possible Cobalt Strike C2 Domain,/api/3,43.133.57.170
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.php,20.120.177.99
+newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/dot.gif,8.212.44.149
+newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/dot.gif,8.212.49.116
 ns.b1ing.com,Possible Cobalt Strike C2 Domain,/cm,8.212.0.206
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,191.101.44.35
 ns.n0reply.eu.org,Possible Cobalt Strike C2 Domain,/api-opt-2023-gfr/3,167.86.127.180
