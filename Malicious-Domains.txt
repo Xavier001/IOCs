@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-02 18:36:23 UTC                        #
+# Last updated: 2024-03-02 22:10:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	realzoogroup.com
 127.0.0.1	metis-info.com
 127.0.0.1	who.juniorfoxy.ooo
 127.0.0.1	juniorfoxy.ooo
@@ -29912,4 +29913,4 @@
 127.0.0.1	znqjdnqzdqzfqmfqmkfq.site
 127.0.0.1	lpsserversonlene.xyz
 127.0.0.1	happy1sept.tuktuk.ug
-# Number of entries: 29906
+# Number of entries: 29907
