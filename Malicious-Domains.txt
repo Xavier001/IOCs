@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-03 15:00:48 UTC                        #
+# Last updated: 2024-03-04 00:36:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	originwealth.ydns.eu
 127.0.0.1	gdfjkghndfjkghdfjkghdf.com
 127.0.0.1	jdkgradle.com
 127.0.0.1	pushkinorigin.ydns.eu
@@ -28465,7 +28466,4 @@
 127.0.0.1	googlestates.com
 127.0.0.1	ed-se-na-ir.org
 127.0.0.1	eb-la-gh-ie-se-na.org
-127.0.0.1	chinabar821994.com
-127.0.0.1	mxstat215dm.xyz
-127.0.0.1	mxstex725dm.xyz
-# Number of entries: 28462
+# Number of entries: 28460
