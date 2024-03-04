@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-04 00:36:02 UTC                        #
+# Last updated: 2024-03-04 10:38:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dns.recentbeelive.com
+127.0.0.1	ns1.netiapp.org
+127.0.0.1	ns2.netiapp.org
 127.0.0.1	originwealth.ydns.eu
 127.0.0.1	gdfjkghndfjkghdfjkghdf.com
 127.0.0.1	jdkgradle.com
@@ -28458,12 +28461,4 @@
 127.0.0.1	googlestates.com
 127.0.0.1	gctatick.com
 127.0.0.1	google-analytiks.com
-127.0.0.1	xreyz.com
-127.0.0.1	pelsotin.buzz
-127.0.0.1	ceryew2ir.com
-127.0.0.1	dashonlineclub.com
-127.0.0.1	fiorentcamcycle.redirectme.net
-127.0.0.1	googlestates.com
-127.0.0.1	ed-se-na-ir.org
-127.0.0.1	eb-la-gh-ie-se-na.org
-# Number of entries: 28460
+# Number of entries: 28455
