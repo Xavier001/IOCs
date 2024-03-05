@@ -55,6 +55,7 @@ dns.ringatpstul.com,Possible Cobalt Strike C2 Domain,/cm,148.72.132.181
 dns.sstr.com.br,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,18.222.142.217
 dns.t0nger.com,Possible Cobalt Strike C2 Domain,/pixel,8.218.137.213
 dns.thenewbees.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,199.247.30.209
+dns.trailcocompany.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,137.220.55.94
 dns.trailcosolutions.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,78.141.217.186
 dns.unitedromtech.com,Possible Cobalt Strike C2 Domain,/dev/coke/CQHL5IYQF,8.212.183.173
 dns.veriernano.com,Possible Cobalt Strike C2 Domain,/activity,5.101.0.245
@@ -148,7 +149,7 @@ service-mlanbdgq-1301500665.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Dom
 service-qzxfb4ay-1318428097.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/user,43.142.191.38
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/get,139.155.148.131
 sfzd.tianxuesong.com.w.kunlunpi.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,39.100.103.225
-skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,85.175.101.203
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/ga.js,85.175.101.203
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 software.ftoffice.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,46.101.147.204
 ss.wfpay.xyz.w.kunlunpi.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,39.100.103.225
@@ -168,6 +169,7 @@ veriernano.com,Possible Cobalt Strike C2 Domain,/updates.rss,5.101.0.245
 verify.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/visit.js,45.76.90.103
 vpn.nsfocus.cn.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,107.148.1.41
 waltonfoods.com,Possible Cobalt Strike C2 Domain,/Make/apache/T0ZTSFR9U,47.76.56.64
+wiZjqPI1.azureedge.net,Possible Cobalt Strike C2 Domain,/filesystem.htm,159.203.67.15
 wps.cncb.info,Possible Cobalt Strike C2 Domain,/updates,35.78.175.21
 www.amazon.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,46.101.147.204
 www.baidu12366.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,106.54.228.198
