@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-04 18:26:36 UTC                        #
+# Last updated: 2024-03-05 10:09:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wizjqpi1.azureedge.net
+127.0.0.1	dns.trailcocompany.com
+127.0.0.1	electric-guest.gl.at.ply.gg
+127.0.0.1	points-detect.gl.at.ply.gg
+127.0.0.1	artist-shared.gl.at.ply.gg
+127.0.0.1	stories-boulevard.gl.at.ply.gg
 127.0.0.1	onedogsclub.com
 127.0.0.1	wipresolutions.com
 127.0.0.1	recentbeelive.com
@@ -28491,10 +28497,4 @@
 127.0.0.1	sept5amd.tuktuk.ug
 127.0.0.1	www.leakeddata.site
 127.0.0.1	www.sitennews.com
-127.0.0.1	ttzcloud.com
-127.0.0.1	sept4ama.tuktuk.ug
-127.0.0.1	6141.ddns.net
-127.0.0.1	majzolimka.com
-127.0.0.1	plastcmoont.com
-127.0.0.1	eh-ra-z-eed.org
 # Number of entries: 28491
