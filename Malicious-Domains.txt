@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-05 10:09:54 UTC                        #
+# Last updated: 2024-03-05 16:24:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	afdhf198jfadafdkfad.com
 127.0.0.1	wizjqpi1.azureedge.net
 127.0.0.1	dns.trailcocompany.com
 127.0.0.1	electric-guest.gl.at.ply.gg
@@ -28495,6 +28496,4 @@
 127.0.0.1	rstp.adb007.top
 127.0.0.1	socket.adb007.top
 127.0.0.1	sept5amd.tuktuk.ug
-127.0.0.1	www.leakeddata.site
-127.0.0.1	www.sitennews.com
-# Number of entries: 28491
+# Number of entries: 28490
