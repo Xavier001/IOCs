@@ -28481,21 +28481,4 @@
 127.0.0.1	trustdwnl.site
 127.0.0.1	xjytw.workout.oystergardener.net
 127.0.0.1	justdoitboy.xyz
-127.0.0.1	zx.svchostsreg.com
-127.0.0.1	as.svchostsreg.com
-127.0.0.1	qw.svchostsreg.com
-127.0.0.1	draggedline.org
-127.0.0.1	7689.ddns.net
-127.0.0.1	fustindor.com
-127.0.0.1	feekstokandy.com
-127.0.0.1	carsruitkan.com
-127.0.0.1	discojockeylight.duckdns.org
-127.0.0.1	analytics-google-x91.com
-127.0.0.1	sept5rcn.tuktuk.ug
-127.0.0.1	love4u.space
-127.0.0.1	adb007.top
-127.0.0.1	api.adb007.top
-127.0.0.1	rstp.adb007.top
-127.0.0.1	socket.adb007.top
-127.0.0.1	sept5amd.tuktuk.ug
-# Number of entries: 28492
+# Number of entries: 28475
