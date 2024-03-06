@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-05 22:19:53 UTC                        #
+# Last updated: 2024-03-06 10:13:10 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	i-wallet.net
+127.0.0.1	googlesupportacc.top
 127.0.0.1	hzp02itt0a.com
 127.0.0.1	security-socks.expert
 127.0.0.1	afdhf198jfadafdkfad.com
@@ -28480,5 +28482,4 @@
 127.0.0.1	oekofkkfkoeefkefbnhgtrq.space
 127.0.0.1	trustdwnl.site
 127.0.0.1	xjytw.workout.oystergardener.net
-127.0.0.1	justdoitboy.xyz
-# Number of entries: 28475
+# Number of entries: 28476
