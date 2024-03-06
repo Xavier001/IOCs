@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-06 10:13:10 UTC                        #
+# Last updated: 2024-03-06 20:55:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	shopmoneyweb.com
+127.0.0.1	distributors.commdistinc.com
+127.0.0.1	www.cloudflarecache.top
+127.0.0.1	55.18.131.34.bc.googleusercontent.com
+127.0.0.1	ns2.msn-microsoft.co
+127.0.0.1	ns1.msn-microsoft.co
 127.0.0.1	i-wallet.net
 127.0.0.1	googlesupportacc.top
 127.0.0.1	hzp02itt0a.com
@@ -28469,17 +28475,4 @@
 127.0.0.1	servxblog79.xyz
 127.0.0.1	sept6amd.tuktuk.ug
 127.0.0.1	chandler.megared.buzz
-127.0.0.1	d3a4778vul2s2h.cloudfront.net
-127.0.0.1	maskarbloom.com
-127.0.0.1	gerkablop.com
-127.0.0.1	dionaolesjob.com
-127.0.0.1	magiraptoy.com
-127.0.0.1	snapservarior.com
-127.0.0.1	plesbrilllian.com
-127.0.0.1	mmaymsoffrter.com
-127.0.0.1	shoopsihas.com
-127.0.0.1	feeltravelstok.com
-127.0.0.1	oekofkkfkoeefkefbnhgtrq.space
-127.0.0.1	trustdwnl.site
-127.0.0.1	xjytw.workout.oystergardener.net
-# Number of entries: 28476
+# Number of entries: 28469
