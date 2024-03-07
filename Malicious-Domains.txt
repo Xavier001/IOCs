@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-07 07:38:40 UTC                        #
+# Last updated: 2024-03-07 10:42:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	securecloudmanage.com
+127.0.0.1	oneblackwood.com
+127.0.0.1	buygreenstudio.com
+127.0.0.1	startupbuss.com
+127.0.0.1	topgamecheats.dev
+127.0.0.1	galaxybotnet.site
+127.0.0.1	cnc.shakeit.biz
+127.0.0.1	botnet.freetube.me
+127.0.0.1	security-socks777.com
 127.0.0.1	livinglearning.info
 127.0.0.1	xunleicloud.com
 127.0.0.1	rverde.duckdns.org
@@ -28467,4 +28476,4 @@
 127.0.0.1	fxe12.danamoninternal.com
 127.0.0.1	fwe43.danamoninternal.com
 127.0.0.1	fresh1.oracover.buzz
-# Number of entries: 28461
+# Number of entries: 28470
