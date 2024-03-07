@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-06 20:55:56 UTC                        #
+# Last updated: 2024-03-06 22:53:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	xunleicloud.com
+127.0.0.1	rverde.duckdns.org
 127.0.0.1	shopmoneyweb.com
 127.0.0.1	distributors.commdistinc.com
 127.0.0.1	www.cloudflarecache.top
@@ -28474,5 +28476,4 @@
 127.0.0.1	serverxlogs21.xyz
 127.0.0.1	servxblog79.xyz
 127.0.0.1	sept6amd.tuktuk.ug
-127.0.0.1	chandler.megared.buzz
-# Number of entries: 28469
+# Number of entries: 28470
