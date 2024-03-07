@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-07 10:42:59 UTC                        #
+# Last updated: 2024-03-07 15:11:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	windows11.loseyourip.com
+127.0.0.1	ns1.bwork.online
+127.0.0.1	static.chat5188.top
 127.0.0.1	securecloudmanage.com
 127.0.0.1	oneblackwood.com
 127.0.0.1	buygreenstudio.com
@@ -28468,12 +28471,4 @@
 127.0.0.1	kik.taybo.top
 127.0.0.1	taybo.top
 127.0.0.1	srk.stracer.top
-127.0.0.1	listen.appstored.store
-127.0.0.1	cs.sharksbaby.pro
-127.0.0.1	service-oshdwnr7-1306743016.bj.apigw.tencentcs.com
-127.0.0.1	dns.elsewhens.org
-127.0.0.1	piac.elsewhens.org
-127.0.0.1	fxe12.danamoninternal.com
-127.0.0.1	fwe43.danamoninternal.com
-127.0.0.1	fresh1.oracover.buzz
-# Number of entries: 28470
+# Number of entries: 28465
