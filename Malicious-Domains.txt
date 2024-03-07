@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-06 22:53:21 UTC                        #
+# Last updated: 2024-03-07 07:38:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	livinglearning.info
 127.0.0.1	xunleicloud.com
 127.0.0.1	rverde.duckdns.org
 127.0.0.1	shopmoneyweb.com
@@ -28466,14 +28467,4 @@
 127.0.0.1	fxe12.danamoninternal.com
 127.0.0.1	fwe43.danamoninternal.com
 127.0.0.1	fresh1.oracover.buzz
-127.0.0.1	qianxin.edr-down.uk
-127.0.0.1	menufreith.sytes.net
-127.0.0.1	vvooowkdqddcqcqcdqggggl.site
-127.0.0.1	admlogs77x.online
-127.0.0.1	blogxstat25.xyz
-127.0.0.1	blogxstat38.xyz
-127.0.0.1	demblog289.xyz
-127.0.0.1	serverxlogs21.xyz
-127.0.0.1	servxblog79.xyz
-127.0.0.1	sept6amd.tuktuk.ug
-# Number of entries: 28470
+# Number of entries: 28461
