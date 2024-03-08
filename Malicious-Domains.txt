@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-08 07:56:24 UTC                        #
+# Last updated: 2024-03-08 12:10:37 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dnsrv.prdcdn.com
+127.0.0.1	cdn.prdcdn.com
+127.0.0.1	updates.prdcdn.com
+127.0.0.1	citrix.prdcdn.com
 127.0.0.1	vip.z886888.top
 127.0.0.1	peacecheese.com
 127.0.0.1	pipelinning.com
@@ -28509,4 +28513,4 @@
 127.0.0.1	kik.taybo.top
 127.0.0.1	taybo.top
 127.0.0.1	srk.stracer.top
-# Number of entries: 28503
+# Number of entries: 28507
