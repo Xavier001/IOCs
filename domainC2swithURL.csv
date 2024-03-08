@@ -134,6 +134,7 @@ nt2.227api.com,Possible Cobalt Strike C2 Domain,/load
 nt3.227api.com,Possible Cobalt Strike C2 Domain,/dot.gif
 oa.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/ptj
+posh.dreads.io,Possible PoshC2 Fronting Domain,/utag/lbg/main/prod/utag.15.js/
 qq.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/include/template/isx.php
 qq.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
 qw.regcssv.com,Possible Cobalt Strike C2 Domain,/fam_calendar
