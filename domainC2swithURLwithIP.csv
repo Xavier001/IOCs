@@ -4,7 +4,6 @@
 3gjanc04hk.execute-api.us-east-2.amazonaws.com,Possible Cobalt Strike C2 Domain,/v1/get,167.99.112.140
 3se9ewodke339f0e83.connectivitytests.com,Possible Cobalt Strike C2 Domain,/cx,8.222.206.196
 55.18.131.34.bc.googleusercontent.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,34.131.18.55
-MicrosoftSyst3m.com,Possible Cobalt Strike C2 Domain,/Enable/v9/WDOBLGWR0S,88.214.25.235
 a.pain.capetown,Possible Cobalt Strike C2 Domain,/updates.rss,88.214.25.36
 aerh.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js,159.89.187.246
 as.regcssv.com,Possible Cobalt Strike C2 Domain,/fam_calendar,179.60.147.175
@@ -148,6 +147,7 @@ recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad,54.22
 releases.firmwarefusion.com,Possible Cobalt Strike C2 Fronting Domain,/dam.html,5.42.66.14
 ringatpstul.com,Possible Cobalt Strike C2 Domain,/push,148.72.132.181
 sanjianke.icu,Possible Cobalt Strike C2 Domain,/updates,165.154.131.126
+security-socks.expert,Possible Cobalt Strike C2 Domain,/Understand/v2.61/RYLQUPM8LL,194.165.16.55
 security-socks777.com,Possible Cobalt Strike C2 Domain,/Understand/v2.61/RYLQUPM8LL,194.165.16.55
 server1.bre1ce.top,Possible Cobalt Strike C2 Domain,/fwlink,155.94.170.73
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,124.223.200.131
