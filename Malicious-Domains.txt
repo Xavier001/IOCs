@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-09 11:30:05 UTC                        #
+# Last updated: 2024-03-09 17:06:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hi.vani.ovh
+127.0.0.1	www.87-119-220-245.cprapid.com
+127.0.0.1	www.fzmovies.space
+127.0.0.1	fzmovies.space
+127.0.0.1	mail.87-119-220-245.cprapid.com
 127.0.0.1	api.bestresulttostart.com
 127.0.0.1	find.bestresulttostart.com
 127.0.0.1	follow.bestresulttostart.com
@@ -28729,18 +28734,4 @@
 127.0.0.1	delup.top
 127.0.0.1	server.aztecvds.com
 127.0.0.1	creativity.kinchcorp.com
-127.0.0.1	csxv.sec.cm
-127.0.0.1	cdnoss.sec.cm
-127.0.0.1	sunshine.nicetrue.one
-127.0.0.1	db.dbzjk.top
-127.0.0.1	update.livcloud.info
-127.0.0.1	service-59k52o32-1313164119.gz.apigw.tencentcs.com
-127.0.0.1	local.cnbcheadlines.com
-127.0.0.1	blog.awscustomersupport.com
-127.0.0.1	service-6xtzl44u-1252551592.gz.apigw.tencentcs.com
-127.0.0.1	service-c3p2vbb6-1313164119.gz.apigw.tencentcs.com
-127.0.0.1	safebulkers.northeurope.cloudapp.azure.com
-127.0.0.1	openaico.ir
-127.0.0.1	gamerdet.tk
-127.0.0.1	d1t18p67ia2cnc.cloudfront.net
-# Number of entries: 28737
+# Number of entries: 28728
