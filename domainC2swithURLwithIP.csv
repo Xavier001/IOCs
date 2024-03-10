@@ -2,6 +2,7 @@
 3gjanc04hk.execute-api.us-east-2.amazonaws.com,Possible Cobalt Strike C2 Domain,/v1/get,167.99.112.140
 3se9ewodke339f0e83.connectivitytests.com,Possible Cobalt Strike C2 Domain,/cx,8.222.206.196
 55.18.131.34.bc.googleusercontent.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,34.131.18.55
+69uiu06es5.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/search/,34.243.217.50
 a.pain.capetown,Possible Cobalt Strike C2 Domain,/updates.rss,88.214.25.36
 aerh.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js,159.89.187.246
 arpa.giodnews.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,45.74.36.78
