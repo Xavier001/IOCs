@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-10 07:20:51 UTC                        #
+# Last updated: 2024-03-10 11:59:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	69uiu06es5.execute-api.us-east-1.amazonaws.com
+127.0.0.1	arpa.indiadreamdestinations.com
+127.0.0.1	arpa.giodnews.com
 127.0.0.1	zakifail.hopto.org
 127.0.0.1	hi.vani.ovh
 127.0.0.1	www.87-119-220-245.cprapid.com
@@ -28727,4 +28730,4 @@
 127.0.0.1	nostra23770.thaieasydns.com
 127.0.0.1	presh147osidufhj.ddns.net
 127.0.0.1	privia.keremsarmis.com
-# Number of entries: 28721
+# Number of entries: 28724
