@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-09 17:06:48 UTC                        #
+# Last updated: 2024-03-10 07:20:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	zakifail.hopto.org
 127.0.0.1	hi.vani.ovh
 127.0.0.1	www.87-119-220-245.cprapid.com
 127.0.0.1	www.fzmovies.space
@@ -28726,12 +28727,4 @@
 127.0.0.1	nostra23770.thaieasydns.com
 127.0.0.1	presh147osidufhj.ddns.net
 127.0.0.1	privia.keremsarmis.com
-127.0.0.1	pkvithtosh17.com
-127.0.0.1	pkvithtosh11.com
-127.0.0.1	ristret.top
-127.0.0.1	kah.ristret.top
-127.0.0.1	zop.delup.top
-127.0.0.1	delup.top
-127.0.0.1	server.aztecvds.com
-127.0.0.1	creativity.kinchcorp.com
-# Number of entries: 28728
+# Number of entries: 28721
