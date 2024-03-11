@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-11 06:29:26 UTC                        #
+# Last updated: 2024-03-11 10:16:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	jango-pulse.com
+127.0.0.1	blm-wiki.com
+127.0.0.1	ns2.dice1018.top
+127.0.0.1	ns1.dice1018.top
 127.0.0.1	mexico2020.duckdns.org
 127.0.0.1	umfi.live
 127.0.0.1	octopanel.cc
@@ -24202,21 +24206,4 @@
 127.0.0.1	kaspimension.com
 127.0.0.1	trentimarsop.com
 127.0.0.1	allienhasiwert.com
-127.0.0.1	depz.top
-127.0.0.1	joh.depz.top
-127.0.0.1	fwefwefwerfwewsdsacs.xyz
-127.0.0.1	fsfsfwefwfwfw.pro
-127.0.0.1	shehwhwhhe.xyz
-127.0.0.1	gayridmeykules.net
-127.0.0.1	cimcimcanibenci.net
-127.0.0.1	cayhengabinezbolemezdemes.net
-127.0.0.1	gezlibolibonserben.com
-127.0.0.1	kaybetmezlerkolezsos.net
-127.0.0.1	remsikemsibircenlenco.net
-127.0.0.1	sabrinezcombirezdomize.net
-127.0.0.1	saygehyolezkoleynere.net
-127.0.0.1	saygobrineztoporezne.net
-127.0.0.1	tahtelezgolezdolez.net
-127.0.0.1	tapmobezkoleksiyonez.net
-127.0.0.1	taypoleznorelzez.net
-# Number of entries: 24213
+# Number of entries: 24200
