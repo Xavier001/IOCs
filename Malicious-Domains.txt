@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-10 22:57:39 UTC                        #
+# Last updated: 2024-03-11 06:29:26 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mexico2020.duckdns.org
 127.0.0.1	umfi.live
 127.0.0.1	octopanel.cc
 127.0.0.1	ipolastationplasma1bmx.net
@@ -24218,13 +24219,4 @@
 127.0.0.1	tahtelezgolezdolez.net
 127.0.0.1	tapmobezkoleksiyonez.net
 127.0.0.1	taypoleznorelzez.net
-127.0.0.1	credomched.ru
-127.0.0.1	lestemps.ru
-127.0.0.1	files-gate.com
-127.0.0.1	xyz.x10.bz
-127.0.0.1	x10.bz
-127.0.0.1	sahamedalat.x10.bz
-127.0.0.1	x10.bz
-127.0.0.1	quanxx.site
-127.0.0.1	cnc.quanxx.site
-# Number of entries: 24221
+# Number of entries: 24213
