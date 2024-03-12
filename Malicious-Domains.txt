@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-11 18:06:26 UTC                        #
+# Last updated: 2024-03-12 09:33:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nekololis.ovh
+127.0.0.1	catgirls.network
+127.0.0.1	rx.neko.ltd
+127.0.0.1	neko.ltd
+127.0.0.1	asyncawaitapi.com
+127.0.0.1	apifunctioncall.com
 127.0.0.1	wcjwcj.cn
 127.0.0.1	hex.lumosora.us
 127.0.0.1	jango-pulse.com
@@ -24091,10 +24097,4 @@
 127.0.0.1	access.samp-loader.ru
 127.0.0.1	bot.samp-loader.ru
 127.0.0.1	api.samp-loader.ru
-127.0.0.1	devopszone.org
-127.0.0.1	detectportalupdate.ru
-127.0.0.1	mozk.top
-127.0.0.1	net.mozk.top
-127.0.0.1	cristinaamaro.com
-127.0.0.1	lintingdaun.com
 # Number of entries: 24091
