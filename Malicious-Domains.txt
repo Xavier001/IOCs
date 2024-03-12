@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-12 09:33:17 UTC                        #
+# Last updated: 2024-03-12 16:04:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	7t.nz
+127.0.0.1	dns.tecbanis.com
+127.0.0.1	oob.microsoft360.xyz
+127.0.0.1	bbo.microsoft360.xyz
 127.0.0.1	nekololis.ovh
 127.0.0.1	catgirls.network
 127.0.0.1	rx.neko.ltd
@@ -24089,12 +24093,4 @@
 127.0.0.1	clouds.localhost-microsoft.com
 127.0.0.1	t.takaelot.com
 127.0.0.1	sirr.tiscali.buzz
-127.0.0.1	criminalaffair.com
-127.0.0.1	www.criminalaffair.com
-127.0.0.1	collins.solariseng.icu
-127.0.0.1	baldu.wiki
-127.0.0.1	cdn.jscriptstore.com
-127.0.0.1	access.samp-loader.ru
-127.0.0.1	bot.samp-loader.ru
-127.0.0.1	api.samp-loader.ru
-# Number of entries: 24091
+# Number of entries: 24087
