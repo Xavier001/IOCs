@@ -13,7 +13,6 @@ assets.samfund.co,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 baidu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 blm-wiki.com,Possible Cobalt Strike C2 Domain,/Validate/v8.18/84LE6PSOHS
 buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/0aB7zTvqL7n68TmoDJMicD
-buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/4ZT2Say1WKoheml0X8bBfa
 buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/4xcGQyhFKT0Cmh8kMDtZRH
 buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/q9dyQU9X6RjWVCdQhUmRMY
 cc.cert-ex.net,Possible Cobalt Strike C2 Domain,/__utm.gif
@@ -34,7 +33,6 @@ code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min
 contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
 content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/g.pixel
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/g.pixel
-cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/activity
 d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Fronting Domain,/webhp/
 d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h
 d3o8tsrpl5k6yb.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h
@@ -166,6 +164,7 @@ service-hlaqy0v7-1303081427.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB
 service-jnajkkdg-1318687485.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Forge/static/HULNWCWI
+service-lhtzt3wh-1319979259.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-mlanbdgq-1301500665.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x
 service-qzxfb4ay-1318428097.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/user
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/get
