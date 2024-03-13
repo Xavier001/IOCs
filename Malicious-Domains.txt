@@ -24090,7 +24090,4 @@
 127.0.0.1	casualscorner.com
 127.0.0.1	silentlegion.duckdns.org
 127.0.0.1	service-lqymkqhs-1306655841.gz.apigw.tencentcs.com
-127.0.0.1	clouds.localhost-microsoft.com
-127.0.0.1	t.takaelot.com
-127.0.0.1	sirr.tiscali.buzz
-# Number of entries: 24087
+# Number of entries: 24084
