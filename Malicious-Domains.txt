@@ -24074,18 +24074,4 @@
 127.0.0.1	wmnwserviceadsmark.com
 127.0.0.1	gctatick.com
 127.0.0.1	pic.micros0ft-security.org
-127.0.0.1	service-fdlpxzmu-1258021343.gz.apigw.tencentcs.com
-127.0.0.1	www.5cq.com
-127.0.0.1	service-d1yss7wi-1314780031.nj.apigw.tencentcs.com
-127.0.0.1	download.updatebrowser.cn
-127.0.0.1	app.baidu-soft.com
-127.0.0.1	d1qzl7xiwymjyn.cloudfront.net
-127.0.0.1	sectorzerosecurity.com
-127.0.0.1	bikeontop.shop
-127.0.0.1	dreamteamup.shop
-127.0.0.1	positivereview.cloud
-127.0.0.1	whatup.cloud
-127.0.0.1	gurdubigoma.com
-127.0.0.1	gapi-alpha.io
-127.0.0.1	xdanetnow.duckdns.org
-# Number of entries: 24082
+# Number of entries: 24068
