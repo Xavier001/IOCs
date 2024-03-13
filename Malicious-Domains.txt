@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-13 09:06:40 UTC                        #
+# Last updated: 2024-03-13 11:07:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bachlong-sro.com
 127.0.0.1	service-lhtzt3wh-1319979259.sh.tencentapigw.com
 127.0.0.1	7t.nz
 127.0.0.1	dns.tecbanis.com
@@ -24087,5 +24088,4 @@
 127.0.0.1	gurdubigoma.com
 127.0.0.1	gapi-alpha.io
 127.0.0.1	xdanetnow.duckdns.org
-127.0.0.1	restohalto.site
 # Number of entries: 24082
