@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-13 11:07:25 UTC                        #
+# Last updated: 2024-03-13 22:11:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	newcleos.com
 127.0.0.1	bachlong-sro.com
 127.0.0.1	service-lhtzt3wh-1319979259.sh.tencentapigw.com
 127.0.0.1	7t.nz
@@ -24073,5 +24074,4 @@
 127.0.0.1	msteamseyeappstore.com
 127.0.0.1	wmnwserviceadsmark.com
 127.0.0.1	gctatick.com
-127.0.0.1	pic.micros0ft-security.org
 # Number of entries: 24068

@@ -66,6 +66,7 @@ dnsb.checkinfomation.tk,Possible Cobalt Strike C2 Domain,/GetHIP/GetHIPAMFE/HIPA
 dnsrv.prdcdn.com,Possible Cobalt Strike C2 Domain,/hcp.php,20.104.183.199
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain,/search,159.203.60.8
 docloudstorage.com,Possible Cobalt Strike C2 Fronted Domain,/content/hot/y/liveupdate/,164.92.116.94
+download.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/,43.129.28.136
 download.updatebrowser.cn,Possible Cobalt Strike C2 Fronted Domain,/0RZDKXR/ADGJJ4B3VRSPAV9KC3MXI80OFD.css,8.222.154.119
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm,121.5.128.191
 eu.webmailservice.at,Possible Cobalt Strike C2 Domain,/en_US/all.js,20.170.19.248
@@ -90,6 +91,7 @@ miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1,125.128.1
 microsoftwindows.one,Possible Cobalt Strike C2 Domain,/api/3,124.70.140.36
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.php,20.120.177.99
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain,/push,43.139.189.54
+newcleos.com,Possible Cobalt Strike C2 Domain,/appdata.aspx,142.93.97.142
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/j.ad,8.212.44.149
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/j.ad,8.212.49.116
 ns.b1ing.com,Possible Cobalt Strike C2 Domain,/cm,8.212.0.206

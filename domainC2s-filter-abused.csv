@@ -61,6 +61,7 @@ dnsb.checkinfomation.tk,Possible Cobalt Strike C2 Domain
 dnsrv.prdcdn.com,Possible Cobalt Strike C2 Domain
 dnsswag.djn.blue,Possible Cobalt Strike C2 Domain
 docloudstorage.com,Possible Cobalt Strike C2 Fronted Domain
+download.localhost-microsoft.com,Possible Cobalt Strike C2 Domain
 download.updatebrowser.cn,Possible Cobalt Strike C2 Fronted Domain
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain
 eu.webmailservice.at,Possible Cobalt Strike C2 Domain
@@ -83,6 +84,7 @@ miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain
 microsoftwindows.one,Possible Cobalt Strike C2 Domain
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain
+newcleos.com,Possible Cobalt Strike C2 Domain
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain
 ns.b1ing.com,Possible Cobalt Strike C2 Domain
 ns.checkavail.space,Possible Cobalt Strike C2 Domain
