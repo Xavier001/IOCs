@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-14 09:09:01 UTC                        #
+# Last updated: 2024-03-14 13:53:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dns.otxcarecosmetics.com
+127.0.0.1	dns.otxcosmeticscare.com
+127.0.0.1	kumbaraan.com
+127.0.0.1	cdn-1488.winstate.cc
+127.0.0.1	jspassport.ssl.qhimg.com.dsa.dnsv1.com
 127.0.0.1	docloudstorage.com
 127.0.0.1	newcleos.com
 127.0.0.1	bachlong-sro.com
@@ -24048,14 +24053,4 @@
 127.0.0.1	eblaghshekayatname.hyperphp.com
 127.0.0.1	drepwer-phontestmans.sbs
 127.0.0.1	suchitanandanmahavidyalaya.org
-127.0.0.1	cs45upb230906a.iqiyid.com
-127.0.0.1	upbetanetworks.org
-127.0.0.1	awsglobalaccelerator.awsliveec.com
-127.0.0.1	www.baidusec.top
-127.0.0.1	ms-endpoint.com
-127.0.0.1	cdn.ms-endpoint.com
-127.0.0.1	505406lm.nyashkoon.top
-127.0.0.1	secure-online.site
-127.0.0.1	e9f0dkd.c1.biz
-127.0.0.1	ske9dhn.c1.biz
-# Number of entries: 24052
+# Number of entries: 24047
