@@ -12,7 +12,6 @@ baidu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 bbo.microsoft360.xyz,Possible Cobalt Strike C2 Domain,/image/
 blm-wiki.com,Possible Cobalt Strike C2 Domain,/Validate/v8.18/84LE6PSOHS
 buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/0aB7zTvqL7n68TmoDJMicD
-buy-dnd.shop,Possible Cobalt Strike C2 Domain,/owa/4xcGQyhFKT0Cmh8kMDtZRH
 c2.marfei.zone,Possible Cobalt Strike C2 Domain,/activity
 cc.cert-ex.net,Possible Cobalt Strike C2 Domain,/__utm.gif
 cc.youku.zip,Possible Cobalt Strike C2 Domain,/functionalStatus/
@@ -160,6 +159,7 @@ rano.outlookonlines.com,Possible Cobalt Strike C2 Domain,/web-sinf002209d3000002
 realzoogroup.com,Possible Cobalt Strike C2 Domain,/api/accounts/v1/basic-accounts/pinned
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad
 releases.firmwarefusion.com,Possible Cobalt Strike C2 Fronting Domain,/dam.html
+res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html
 ringatpstul.com,Possible Cobalt Strike C2 Domain,/push
 sanjianke.icu,Possible Cobalt Strike C2 Domain,/updates
 security-socks.expert,Possible Cobalt Strike C2 Domain,/Understand/v2.61/RYLQUPM8LL
@@ -186,6 +186,7 @@ shopmoneyweb.com,Possible Cobalt Strike C2 Domain,/api/accounts/v1/basic-account
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/dpixel
 software.cncb.info,Possible Cobalt Strike C2 Domain,/updates
 software.ftoffice.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
+stads.10086.cn,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html
 static.chat5188.top,Possible Cobalt Strike C2 Domain,/api/v3/s25FogL
 summerevent2023.com,Possible Cobalt Strike C2 Domain,/tip.php
 support.ibmxwork.com,Possible Cobalt Strike C2 Domain,/ml.js

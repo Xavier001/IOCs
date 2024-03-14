@@ -24058,9 +24058,4 @@
 127.0.0.1	secure-online.site
 127.0.0.1	e9f0dkd.c1.biz
 127.0.0.1	ske9dhn.c1.biz
-127.0.0.1	thecookieisthere.duckdns.org
-127.0.0.1	doorspa.shop
-127.0.0.1	slucasanderson.ddns.net
-127.0.0.1	doorbackup.sbs
-127.0.0.1	sparaback.com
-# Number of entries: 24057
+# Number of entries: 24052
