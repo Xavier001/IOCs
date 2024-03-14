@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-13 22:11:17 UTC                        #
+# Last updated: 2024-03-14 09:09:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	docloudstorage.com
 127.0.0.1	newcleos.com
 127.0.0.1	bachlong-sro.com
 127.0.0.1	service-lhtzt3wh-1319979259.sh.tencentapigw.com
@@ -24062,16 +24063,4 @@
 127.0.0.1	slucasanderson.ddns.net
 127.0.0.1	doorbackup.sbs
 127.0.0.1	sparaback.com
-127.0.0.1	easywinscp.xyz
-127.0.0.1	winscphub.com
-127.0.0.1	cdromcsc.com
-127.0.0.1	minutozhart.online
-127.0.0.1	antmanspshopsman.com
-127.0.0.1	antmanspshopsman.life
-127.0.0.1	coocooncookiedpo.com
-127.0.0.1	drkgatevservicceoffice.net
-127.0.0.1	naserviceebaysmman.shop
-127.0.0.1	msteamseyeappstore.com
-127.0.0.1	wmnwserviceadsmark.com
-127.0.0.1	gctatick.com
-# Number of entries: 24068
+# Number of entries: 24057
