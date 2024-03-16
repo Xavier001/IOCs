@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-15 16:58:48 UTC                        #
+# Last updated: 2024-03-16 10:09:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	update.mozilia-tm.org
+127.0.0.1	z886888.top
 127.0.0.1	reoer.canecaobjeto.ru.com
 127.0.0.1	rgar0.padelixoobjeto.sa.com
 127.0.0.1	t2uehw.etiquetaadesivaobjeto.ru.com
@@ -24016,56 +24018,4 @@
 127.0.0.1	dejiwive.org
 127.0.0.1	tourist.healthgradespro.com
 127.0.0.1	official.oilrig.sbs
-127.0.0.1	samuelelena.co
-127.0.0.1	12301230.co
-127.0.0.1	40031.co
-127.0.0.1	abccba.co
-127.0.0.1	adaytriana.co
-127.0.0.1	almaliam.co
-127.0.0.1	chloemario.co
-127.0.0.1	helenaasier.co
-127.0.0.1	danielamanuela.co
-127.0.0.1	laiamia.co
-127.0.0.1	isabelmartin.co
-127.0.0.1	martaafrica.co
-127.0.0.1	martinpol.co
-127.0.0.1	ola007.co
-127.0.0.1	santiagocarlos.co
-127.0.0.1	terms2023.co
-127.0.0.1	uno230.co
-127.0.0.1	updated-2023.co
-127.0.0.1	updated-terms.co
-127.0.0.1	updatedterms2023.co
-127.0.0.1	violetavera.co
-127.0.0.1	glinkgik-7.com
-127.0.0.1	hinkli-5.com
-127.0.0.1	jlinkjk-6.com
-127.0.0.1	link234-33.com
-127.0.0.1	link43897.com
-127.0.0.1	link5467.com
-127.0.0.1	link76h.com
-127.0.0.1	linked-42.com
-127.0.0.1	linked-66.com
-127.0.0.1	linked-88.com
-127.0.0.1	linkers-92.com
-127.0.0.1	linkhj764.com
-127.0.0.1	linkjshw-4.com
-127.0.0.1	linkll-11.com
-127.0.0.1	linkll-2.com
-127.0.0.1	linko8457y.com
-127.0.0.1	linkqksi-3.com
-127.0.0.1	notions-download.com
-127.0.0.1	webex-download.com
-127.0.0.1	notion-download.pro
-127.0.0.1	dmforinenam17.com
-127.0.0.1	dmforinenam18.com
-127.0.0.1	oiuytyfvq621mb.org
-127.0.0.1	wordpress-1076759-3767880.cloudwaysapps.com
-127.0.0.1	921hapudyqwdvy.com
-127.0.0.1	vcrwtttywuuidqioppn1.com
-127.0.0.1	ytntf5hvtn2vgcxxq.com
-127.0.0.1	ziucsugcbfyfbyccbasy.com
-127.0.0.1	mnnoiuiuyttczchgv265d.com
-127.0.0.1	ojiwojdiuuywdnbhcby.com
-127.0.0.1	uygftdrvtygnyuhi8.com
-# Number of entries: 24062
+# Number of entries: 24012
