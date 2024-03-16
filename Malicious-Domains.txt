@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-16 10:09:47 UTC                        #
+# Last updated: 2024-03-16 14:56:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bad.bois.sh
+127.0.0.1	scoring.bois.sh
+127.0.0.1	good.bois.sh
+127.0.0.1	onlinetraveler.net
 127.0.0.1	update.mozilia-tm.org
 127.0.0.1	z886888.top
 127.0.0.1	reoer.canecaobjeto.ru.com
@@ -24009,13 +24013,4 @@
 127.0.0.1	msmartl.com
 127.0.0.1	ext.cdninternal.cloud
 127.0.0.1	proxy.cdninternal.cloud
-127.0.0.1	devopspdx.com
-127.0.0.1	mortgagetf.com
-127.0.0.1	windowsupdate.viewdns.net
-127.0.0.1	zx.regsvrsvc.com
-127.0.0.1	as.regsvrsvc.com
-127.0.0.1	qw.regsvrsvc.com
-127.0.0.1	dejiwive.org
-127.0.0.1	tourist.healthgradespro.com
-127.0.0.1	official.oilrig.sbs
-# Number of entries: 24012
+# Number of entries: 24007
