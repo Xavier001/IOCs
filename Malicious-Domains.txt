@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-17 11:49:37 UTC                        #
+# Last updated: 2024-03-17 17:26:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	pidorgeio-48079.portmap.host
+127.0.0.1	managevvb.com
+127.0.0.1	having-jackson.gl.at.ply.gg
+127.0.0.1	beuces.cool
+127.0.0.1	cdn.3qweraa.beauty
+127.0.0.1	redir-s49f828c.eastus.cloudapp.azure.com
+127.0.0.1	service-d1ssjklq-1306655841.gz.tencentapigw.com.cn
 127.0.0.1	planetstherapy.org
 127.0.0.1	www.planetstherapy.org
 127.0.0.1	service-89u0y7ij-1305550121.sh.tencentapigw.com
@@ -23978,47 +23985,4 @@
 127.0.0.1	uploads.dachhost.top
 127.0.0.1	greedyclowns.org
 127.0.0.1	cpp.fastde.top
-127.0.0.1	1398747042169696.cn-hangzhou.fc.aliyuncs.com
-127.0.0.1	c1.flashjick.top
-127.0.0.1	service-p54klbhi-1300810596.gz.apigw.tencentcs.com
-127.0.0.1	stackpath-analytics-gpvlqzqeda-uc.a.run.app
-127.0.0.1	nuzzar.click
-127.0.0.1	playprotect.click
-127.0.0.1	ramzartey.click
-127.0.0.1	tappose.click
-127.0.0.1	taviroza.click
-127.0.0.1	torhamisa.click
-127.0.0.1	wannertop.click
-127.0.0.1	zoppara.click
-127.0.0.1	a-1bcdn.com
-127.0.0.1	avayacloud.com.global.prod.fastly.net
-127.0.0.1	intranet.mcasavaya.com
-127.0.0.1	onlysportsfitnessam.com
-127.0.0.1	reactervnamnat.com
-127.0.0.1	xfirecovery.pro
-127.0.0.1	juzzako.click
-127.0.0.1	hertanza.click
-127.0.0.1	hunazora.click
-127.0.0.1	fazzare.click
-127.0.0.1	fimyare.click
-127.0.0.1	dacazara.click
-127.0.0.1	facratnu.click
-127.0.0.1	cunnate.click
-127.0.0.1	curizpa.click
-127.0.0.1	burimak.click
-127.0.0.1	cafirran.click
-127.0.0.1	baruzatek.click
-127.0.0.1	arezo.click
-127.0.0.1	katiklan.tech
-127.0.0.1	kjniuby621edoo.com
-127.0.0.1	msmartb.com
-127.0.0.1	msmartd.com
-127.0.0.1	msmartc.com
-127.0.0.1	msmartf.com
-127.0.0.1	msmartg.com
-127.0.0.1	msmarti.com
-127.0.0.1	msmartj.com
-127.0.0.1	msmartm.com
-127.0.0.1	msmartk.com
-127.0.0.1	msmartl.com
-# Number of entries: 24015
+# Number of entries: 23979
