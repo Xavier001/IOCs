@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-17 09:36:58 UTC                        #
+# Last updated: 2024-03-17 11:49:37 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	planetstherapy.org
+127.0.0.1	www.planetstherapy.org
+127.0.0.1	service-89u0y7ij-1305550121.sh.tencentapigw.com
+127.0.0.1	www.10086cn.xyz
+127.0.0.1	prod-ireland.arkoselabs.com
+127.0.0.1	epic-games-api.arkoselabs.com
+127.0.0.1	client-api.arkoselabs.com
 127.0.0.1	4qvvg9ud51lxa5te.gta5.eu.org
 127.0.0.1	rebirthltd.com
 127.0.0.1	huot.ltd
@@ -24014,6 +24021,4 @@
 127.0.0.1	msmartm.com
 127.0.0.1	msmartk.com
 127.0.0.1	msmartl.com
-127.0.0.1	ext.cdninternal.cloud
-127.0.0.1	proxy.cdninternal.cloud
-# Number of entries: 24010
+# Number of entries: 24015
