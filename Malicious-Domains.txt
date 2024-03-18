@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-18 08:22:24 UTC                        #
+# Last updated: 2024-03-18 10:13:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	service-akqr4y12-1300243308.hk.tencentapigw.cn
 127.0.0.1	firmware.fucktheccp.top
 127.0.0.1	qgeight8pn.top
 127.0.0.1	qftwo2vs.top
@@ -24009,4 +24010,4 @@
 127.0.0.1	kopping.duckdns.org
 127.0.0.1	newsbizshow.net
 127.0.0.1	shareboxs.net
-# Number of entries: 24003
+# Number of entries: 24004

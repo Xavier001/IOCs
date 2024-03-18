@@ -160,6 +160,7 @@ service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-89u0y7ij-1305550121.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 service-8rv78e5d-1319481525.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/index.jsp
 service-9sehd1r7-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
+service-akqr4y12-1300243308.hk.tencentapigw.cn,Possible Cobalt Strike C2 Domain,/ca
 service-b7g5qx9l-1318401771.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/stream
 service-bvvdi136-1317500845.gz.tencentapigw.com,Possible Cobalt Strike C2 Domain,/ga.js
 service-d1ssjklq-1306655841.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/pixel
@@ -168,7 +169,6 @@ service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-eh2fyewb-1301153563.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB
-service-jnajkkdg-1318687485.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Forge/static/HULNWCWI
 service-lhtzt3wh-1319979259.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-mlanbdgq-1301500665.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x
 service-mx77zdhn-1303081427.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
