@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-18 12:59:09 UTC                        #
+# Last updated: 2024-03-19 07:12:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	aireynvuw.homeunix.com
+127.0.0.1	gjhfhgdg.insane.wang
+127.0.0.1	buassinnndm.net
+127.0.0.1	17.ip.gl.ply.gg
+127.0.0.1	cf-protected-l7.com
+127.0.0.1	xmr.2miners.com
+127.0.0.1	aptcorp.us
 127.0.0.1	tgsk.xyz
 127.0.0.1	ns2.fwmtest.cn
 127.0.0.1	ns1.fwmtest.cn
@@ -78,7 +85,6 @@
 127.0.0.1	www.10086cn.xyz
 127.0.0.1	prod-ireland.arkoselabs.com
 127.0.0.1	epic-games-api.arkoselabs.com
-127.0.0.1	client-api.arkoselabs.com
 127.0.0.1	4qvvg9ud51lxa5te.gta5.eu.org
 127.0.0.1	rebirthltd.com
 127.0.0.1	huot.ltd
@@ -24001,10 +24007,4 @@
 127.0.0.1	ns3.vpn.baidusec.top
 127.0.0.1	ns2.vpn.baidusec.top
 127.0.0.1	ns1.vpn.baidusec.top
-127.0.0.1	dasautoco.top
-127.0.0.1	fastde.top
-127.0.0.1	car.dasautoco.top
-127.0.0.1	bax-teko.com
-127.0.0.1	navid.inthenameofnull.site
-127.0.0.1	inthenameofnull.site
 # Number of entries: 24001
