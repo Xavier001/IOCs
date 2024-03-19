@@ -1,14 +1,11 @@
 #domain,ioc
 3gjanc04hk.execute-api.us-east-2.amazonaws.com,Possible Cobalt Strike C2 Domain
-55.18.131.34.bc.googleusercontent.com,Possible Cobalt Strike C2 Domain
 69uiu06es5.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Domain
 Jango-pulse.com,Possible Cobalt Strike C2 Domain
 a.pain.capetown,Possible Cobalt Strike C2 Domain
 ad.urlz.ws,Possible Cobalt Strike C2 Domain
 aerh.azureedge.net,Possible Cobalt Strike C2 Domain
 apps.nbcnews.site,Possible Cobalt Strike C2 Fronted Domain
-arpa.giodnews.com,Possible Cobalt Strike C2 Domain
-arpa.indiadreamdestinations.com,Possible Cobalt Strike C2 Domain
 bad.bois.sh,Possible Cobalt Strike C2 Domain
 bbo.microsoft360.xyz,Possible Cobalt Strike C2 Domain
 blm-wiki.com,Possible Cobalt Strike C2 Domain
@@ -180,7 +177,6 @@ t.10nf0x.com,Possible Cobalt Strike C2 Domain
 test.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain
 tgsk.xyz,Possible Cobalt Strike C2 Domain
 thursday.kfc4.icu,Possible Cobalt Strike C2 Fronting Domain
-umfi.live,Possible Cobalt Strike C2 Domain
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain
 update.microsofthk.com,Possible Cobalt Strike C2 Domain

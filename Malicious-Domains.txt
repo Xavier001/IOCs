@@ -23994,17 +23994,4 @@
 127.0.0.1	lthre3vt.top
 127.0.0.1	ltvelv12pn.top
 127.0.0.1	ltvelv12vt.top
-127.0.0.1	realitygaming.us
-127.0.0.1	sellygg.tk
-127.0.0.1	ab.realitygaming.us
-127.0.0.1	blog.sellygg.tk
-127.0.0.1	citacionadjunta2.from-oh.com
-127.0.0.1	mbvcmv-qfsbndl4da-tl.a.run.app
-127.0.0.1	cityco.top
-127.0.0.1	bik.cityco.top
-127.0.0.1	ehtemu.click
-127.0.0.1	upload.flash-update.info
-127.0.0.1	ns3.vpn.baidusec.top
-127.0.0.1	ns2.vpn.baidusec.top
-127.0.0.1	ns1.vpn.baidusec.top
-# Number of entries: 24001
+# Number of entries: 23988
