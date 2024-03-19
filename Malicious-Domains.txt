@@ -24007,5 +24007,4 @@
 127.0.0.1	bax-teko.com
 127.0.0.1	navid.inthenameofnull.site
 127.0.0.1	inthenameofnull.site
-127.0.0.1	nexgenemi.com
-# Number of entries: 24002
+# Number of entries: 24001
