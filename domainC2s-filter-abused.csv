@@ -8,6 +8,7 @@ aerh.azureedge.net,Possible Cobalt Strike C2 Domain
 apps.nbcnews.site,Possible Cobalt Strike C2 Fronted Domain
 bad.bois.sh,Possible Cobalt Strike C2 Domain
 bbo.microsoft360.xyz,Possible Cobalt Strike C2 Domain
+beacon.etallyall.com,Possible Cobalt Strike C2 Domain
 blm-wiki.com,Possible Cobalt Strike C2 Domain
 c1.tqrjfru.cn,Possible Cobalt Strike C2 Domain
 c2.marfei.zone,Possible Cobalt Strike C2 Domain
@@ -20,6 +21,7 @@ cdn.3qweraa.beauty,Possible Cobalt Strike C2 Domain
 cdn.efstech.de,Possible Cobalt Strike C2 Domain
 cdn.microsoft-hk.com,Possible Cobalt Strike C2 Domain
 cdn.tgu-future.cn,Possible Cobalt Strike C2 Domain
+cdncloud.info,Possible Cobalt Strike C2 Domain
 check.judicical.ml,Possible Cobalt Strike C2 Domain
 check.update.nadra-pk.org,Possible Cobalt Strike C2 Domain
 check1.judicical.ml,Possible Cobalt Strike C2 Domain
@@ -66,6 +68,7 @@ files.jslibc.com,Possible Cobalt Strike C2 Domain
 firmwarefusion.com,Possible Cobalt Strike C2 Fronted Domain
 fk.n0reply.eu.org,Possible Cobalt Strike C2 Domain
 good.bois.sh,Possible Cobalt Strike C2 Domain
+ipadd.show,Possible Cobalt Strike C2 Domain
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain
 jspassport.ssl.qhimg.com.dsa.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain
@@ -158,6 +161,7 @@ service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-eh2fyewb-1301153563.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-jby1ivts-1324864909.hk.tencentapigw.cn,Possible Cobalt Strike C2 Domain
 service-lhtzt3wh-1319979259.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-mlanbdgq-1301500665.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain
 service-mx77zdhn-1303081427.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain

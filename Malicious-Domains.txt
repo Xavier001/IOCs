@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-19 07:12:54 UTC                        #
+# Last updated: 2024-03-19 20:20:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	microsoftdell1.duckdns.org
+127.0.0.1	beacon.etallyall.com
+127.0.0.1	stealit.online
+127.0.0.1	blendy-game.com
+127.0.0.1	service-jby1ivts-1324864909.hk.tencentapigw.cn
 127.0.0.1	aireynvuw.homeunix.com
 127.0.0.1	gjhfhgdg.insane.wang
 127.0.0.1	buassinnndm.net
@@ -23970,28 +23975,4 @@
 127.0.0.1	ed-irs.instanthq.com
 127.0.0.1	ir.otzo.com
 127.0.0.1	zochao.com
-127.0.0.1	service-kvmc8be7-1304892907.bj.apigw.tencentcs.com
-127.0.0.1	adlirhs.otzo.com
-127.0.0.1	rimote.dns2.us
-127.0.0.1	adl-iran.mrbasic.com
-127.0.0.1	strastkamenhoop.com
-127.0.0.1	leit8pn.top
-127.0.0.1	leit8vt.top
-127.0.0.1	lfive5pn.top
-127.0.0.1	lleven11pn.top
-127.0.0.1	lleven11vt.top
-127.0.0.1	lnein9pn.top
-127.0.0.1	lnein9vt.top
-127.0.0.1	lone1pn.top
-127.0.0.1	lone1vt.top
-127.0.0.1	lseven7pn.top
-127.0.0.1	lseven7vt.top
-127.0.0.1	lsix6vt.top
-127.0.0.1	lsix6pn.top
-127.0.0.1	lten10pn.top
-127.0.0.1	lten10vt.top
-127.0.0.1	lthre3pn.top
-127.0.0.1	lthre3vt.top
-127.0.0.1	ltvelv12pn.top
-127.0.0.1	ltvelv12vt.top
-# Number of entries: 23988
+# Number of entries: 23969
