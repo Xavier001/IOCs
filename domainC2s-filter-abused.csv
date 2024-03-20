@@ -1,6 +1,5 @@
 #domain,ioc
 3gjanc04hk.execute-api.us-east-2.amazonaws.com,Possible Cobalt Strike C2 Domain
-69uiu06es5.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Domain
 Jango-pulse.com,Possible Cobalt Strike C2 Domain
 a.pain.capetown,Possible Cobalt Strike C2 Domain
 ad.urlz.ws,Possible Cobalt Strike C2 Domain
@@ -135,7 +134,6 @@ oa.cncb.info,Possible Cobalt Strike C2 Domain
 onlinetraveler.net,Possible Cobalt Strike C2 Fronted Domain
 oob.microsoft360.xyz,Possible Cobalt Strike C2 Domain
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain
-payloads.one,Possible Cobalt Strike C2 Domain
 primo.freshhema.com,Possible Cobalt Strike C2 Fronting Domain
 qq.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain

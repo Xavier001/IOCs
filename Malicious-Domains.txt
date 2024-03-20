@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-20 06:08:56 UTC                        #
+# Last updated: 2024-03-20 11:54:55 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nanomarch8100.duckdns.org
 127.0.0.1	ameerpplus.ddns.net
 127.0.0.1	badbutperfect.com
 127.0.0.1	microsoftdell1.duckdns.org
@@ -23868,5 +23869,4 @@
 127.0.0.1	threatest.com
 127.0.0.1	app.threatest.com
 127.0.0.1	down.threatest.com
-127.0.0.1	babaface.duckdns.org
 # Number of entries: 23863
