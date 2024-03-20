@@ -1,4 +1,5 @@
 #domain,ioc,uri_path
+21hjgt71f.sharedomain.top,Possible Cobalt Strike C2 Domain,/api/3
 3gjanc04hk.execute-api.us-east-2.amazonaws.com,Possible Cobalt Strike C2 Domain,/v1/get
 Jango-pulse.com,Possible Cobalt Strike C2 Domain,/Validate/v8.18/84LE6PSOHS
 a.pain.capetown,Possible Cobalt Strike C2 Domain,/j.ad
@@ -10,7 +11,7 @@ baidu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 bbo.microsoft360.xyz,Possible Cobalt Strike C2 Domain,/image/
 beacon.etallyall.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 blm-wiki.com,Possible Cobalt Strike C2 Domain,/Validate/v8.18/84LE6PSOHS
-c1.tqrjfru.cn,Possible Cobalt Strike C2 Domain,/load
+c1.tqrjfru.cn,Possible Cobalt Strike C2 Domain,/j.ad
 c2.marfei.zone,Possible Cobalt Strike C2 Domain,/activity
 cc.cert-ex.net,Possible Cobalt Strike C2 Domain,/__utm.gif
 cc.youku.zip,Possible Cobalt Strike C2 Domain,/functionalStatus/
@@ -88,7 +89,7 @@ mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.ph
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain,/push
 newcleos.com,Possible Cobalt Strike C2 Domain,/appdata.aspx
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/j.ad
-ns.b1ing.com,Possible Cobalt Strike C2 Domain,/cm
+ns.b1ing.com,Possible Cobalt Strike C2 Domain,/dot.gif
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 ns.n0reply.eu.org,Possible Cobalt Strike C2 Domain,/api-opt-2023-gfr/3
 ns1.623866.xyz,Possible Cobalt Strike C2 Domain,/__utm.gif

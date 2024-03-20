@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-20 11:54:55 UTC                        #
+# Last updated: 2024-03-20 16:24:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	luisro2158.duckdns.org
+127.0.0.1	gamerforyou.com
+127.0.0.1	sky-beta.com
+127.0.0.1	net-killer.work.gd
+127.0.0.1	21hjgt71f.sharedomain.top
 127.0.0.1	nanomarch8100.duckdns.org
 127.0.0.1	ameerpplus.ddns.net
 127.0.0.1	badbutperfect.com
@@ -23824,49 +23829,4 @@
 127.0.0.1	kelly.chinacarbonfiber.buzz
 127.0.0.1	zang2.areen.top
 127.0.0.1	evil2.simcoes.top
-127.0.0.1	api-prod.davantaged.com
-127.0.0.1	service-npr00e01-1300810596.sh.apigw.tencentcs.com
-127.0.0.1	egg.healthcareexpertsllc.com
-127.0.0.1	high.ehealthnutrition.com
-127.0.0.1	income.greenlandpharmacy.org
-127.0.0.1	sah-sq.itsaol.com
-127.0.0.1	ed-irb.instanthq.com
-127.0.0.1	sahwz.itsaol.com
-127.0.0.1	sah-dq.itsaol.com
-127.0.0.1	adl-sahm.my03.com
-127.0.0.1	sah-dq.jkub.com
-127.0.0.1	sahmn.jkub.com
-127.0.0.1	saham.dns05.com
-127.0.0.1	adl.instanthq.com
-127.0.0.1	test1.itsaol.com
-127.0.0.1	adl-in.fartit.com
-127.0.0.1	saham-ir.fartit.com
-127.0.0.1	sahl.jkub.com
-127.0.0.1	saham.jkub.com
-127.0.0.1	saha-m.fartit.com
-127.0.0.1	adlipp.jkub.com
-127.0.0.1	saham-ir.https443.org
-127.0.0.1	ed-irp.instanthq.com
-127.0.0.1	adlqw.mefound.com
-127.0.0.1	sah-tp.itsaol.com
-127.0.0.1	adlaq.toythieves.com
-127.0.0.1	sahqam.jkub.com
-127.0.0.1	arl.jkub.com
-127.0.0.1	adlioj.my03.com
-127.0.0.1	adl-irb.instanthq.com
-127.0.0.1	oiuugyfytvgb22h.com
-127.0.0.1	maxpatrol.net
-127.0.0.1	nsdps.cc
-127.0.0.1	rcmsf100.net
-127.0.0.1	ads-tm-glb.click
-127.0.0.1	cbox4.ignorelist.com
-127.0.0.1	j2update.cc
-127.0.0.1	dob.boggy.top
-127.0.0.1	betshopkipstri.com
-127.0.0.1	bb.makkgg.fyi
-127.0.0.1	treechop.top
-127.0.0.1	tuk.treechop.top
-127.0.0.1	threatest.com
-127.0.0.1	app.threatest.com
-127.0.0.1	down.threatest.com
-# Number of entries: 23863
+# Number of entries: 23823
