@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-21 05:29:56 UTC                        #
+# Last updated: 2024-03-21 11:12:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	alltorq-net.oncallservices.ca
+127.0.0.1	service-cedqvyh7-1322145958.sh.tencentapigw.com
 127.0.0.1	gtldgtld.store
 127.0.0.1	softupdate.xyz
 127.0.0.1	tfirstdaily.store
@@ -23732,67 +23734,4 @@
 127.0.0.1	vrezvrez.com
 127.0.0.1	ryandeby.com
 127.0.0.1	alienzouks.com
-127.0.0.1	sah-dx.itsaol.com
-127.0.0.1	adlgha.yourtrap.com
-127.0.0.1	adliran.dns05.com
-127.0.0.1	sah-md.faqserv.com
-127.0.0.1	irn.jkub.com
-127.0.0.1	adlebl.jkub.com
-127.0.0.1	irib.my03.com
-127.0.0.1	ib-ir.jkub.com
-127.0.0.1	adlir.2waky.com
-127.0.0.1	iran-tn.itsaol.com
-127.0.0.1	adlgh.2waky.com
-127.0.0.1	sah-m.jkub.com
-127.0.0.1	adledal.otzo.com
-127.0.0.1	adlsgq.mefound.com
-127.0.0.1	sah-ire.itsaol.com
-127.0.0.1	sah-vq.jkub.com
-127.0.0.1	sahev.itsaol.com
-127.0.0.1	edlaat.2waky.com
-127.0.0.1	adlirakjd.jkub.com
-127.0.0.1	ir-ir.fartit.com
-127.0.0.1	sah-cq.itsaol.com
-127.0.0.1	adl-ib.fartit.com
-127.0.0.1	sah-ig.jkub.com
-127.0.0.1	adl-ir1.fartit.com
-127.0.0.1	irsahm.jkub.com
-127.0.0.1	sah-ms.jkub.com
-127.0.0.1	sa-qa.itsaol.com
-127.0.0.1	adlioru.jkub.com
-127.0.0.1	adl-sah.dnsrd.com
-127.0.0.1	iran-tb.instanthq.com
-127.0.0.1	sah-iri.itsaol.com
-127.0.0.1	iran-tf.itsaol.com
-127.0.0.1	sa-cx.itsaol.com
-127.0.0.1	adl-irib.fartit.com
-127.0.0.1	sahef.itsaol.com
-127.0.0.1	adg-ir.fartit.com
-127.0.0.1	ir-ib.fartit.com
-127.0.0.1	aaaas.authorizeddns.us
-127.0.0.1	adlsan.https443.org
-127.0.0.1	sah-sd.itsaol.com
-127.0.0.1	sah-fq.itsaol.com
-127.0.0.1	iran-ta.faqserv.com
-127.0.0.1	adlgh.mefound.com
-127.0.0.1	iran-tq.faqserv.com
-127.0.0.1	adlirns.itsaol.com
-127.0.0.1	adliro.2waky.com
-127.0.0.1	irsa.fartit.com
-127.0.0.1	adliorl.jkub.com
-127.0.0.1	adl1.dns04.com
-127.0.0.1	sah-fq.jkub.com
-127.0.0.1	adl-ti.mrbasic.com
-127.0.0.1	iran-td.faqserv.com
-127.0.0.1	iran-tr.itsaol.com
-127.0.0.1	adliran.dns04.com
-127.0.0.1	adledel.otzo.com
-127.0.0.1	iran-tb.fartit.com
-127.0.0.1	sahmnl.jkub.com
-127.0.0.1	adl-sahn.itsaol.com
-127.0.0.1	sah-ca.faqserv.com
-127.0.0.1	adl-irna.my03.com
-127.0.0.1	adlzc.2waky.com
-127.0.0.1	microsoftapi.net
-127.0.0.1	diagnostics.microsoftapi.net
-# Number of entries: 23789
+# Number of entries: 23728
