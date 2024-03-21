@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-21 11:12:02 UTC                        #
+# Last updated: 2024-03-21 18:45:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	meridianresourcellc.top
+127.0.0.1	ns2.kogyoung.com
+127.0.0.1	ns1.kogyoung.com
+127.0.0.1	ns9.bpibank.org
+127.0.0.1	ns8.bpibank.org
+127.0.0.1	lokolojazz.club
+127.0.0.1	knueoh22.top
+127.0.0.1	kypersau25.top
+127.0.0.1	lysmer21.top
+127.0.0.1	morluw04.top
+127.0.0.1	jenb128hiuedfhajduihfa.com
 127.0.0.1	alltorq-net.oncallservices.ca
 127.0.0.1	service-cedqvyh7-1322145958.sh.tencentapigw.com
 127.0.0.1	gtldgtld.store
@@ -23730,8 +23741,4 @@
 127.0.0.1	uilscvnzdds.shop
 127.0.0.1	cczqyvuy812jdy.com
 127.0.0.1	qocmkassa.store
-127.0.0.1	directdefense.consulting
-127.0.0.1	vrezvrez.com
-127.0.0.1	ryandeby.com
-127.0.0.1	alienzouks.com
-# Number of entries: 23728
+# Number of entries: 23735
