@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-20 16:24:40 UTC                        #
+# Last updated: 2024-03-21 05:29:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	gtldgtld.store
+127.0.0.1	softupdate.xyz
+127.0.0.1	tfirstdaily.store
+127.0.0.1	cdn-dev.helpkaspersky.top
+127.0.0.1	data-dev.helpkaspersky.top
+127.0.0.1	happy.gitweb.cloudns.nz
+127.0.0.1	support.helpkaspersky.top
+127.0.0.1	update.microsoft-setting.com
+127.0.0.1	update.windows.server-microsoft.com
+127.0.0.1	www.security-microsoft.net
+127.0.0.1	update.centos-yum.com
 127.0.0.1	luisro2158.duckdns.org
 127.0.0.1	gamerforyou.com
 127.0.0.1	sky-beta.com
@@ -23784,49 +23795,4 @@
 127.0.0.1	adlzc.2waky.com
 127.0.0.1	microsoftapi.net
 127.0.0.1	diagnostics.microsoftapi.net
-127.0.0.1	cleanworld.sytes.net
-127.0.0.1	ns2.tosohindia.cloudns.nz
-127.0.0.1	ns2.95555cmbchina.com
-127.0.0.1	ns1.95555cmbchina.com
-127.0.0.1	cs.sangfor911.top
-127.0.0.1	ns1.sangfor911.top
-127.0.0.1	ns2.sangfor911.top
-127.0.0.1	ns3.sangfor911.top
-127.0.0.1	upcloudser.online
-127.0.0.1	igo0gle.com
-127.0.0.1	sudorat.top
-127.0.0.1	lseven7sr.top
-127.0.0.1	lnein9sr.top
-127.0.0.1	lone1sr.top
-127.0.0.1	lleven11sr.top
-127.0.0.1	lsix6sr.top
-127.0.0.1	lthre3sr.top
-127.0.0.1	rendinfo.shop
-127.0.0.1	archivos.homelinux.net
-127.0.0.1	danfe.is-certified.com
-127.0.0.1	flymedlink.rendinfo.shop
-127.0.0.1	jalisco.is-a-socialist.com
-127.0.0.1	supplier.est-le-patron.com
-127.0.0.1	supplier.serveftp.net
-127.0.0.1	mexico.jalisco.is-a-socialist.com
-127.0.0.1	sodkvsodkv.supplier.serveftp.net
-127.0.0.1	tornoturn01.supplier.est-le-patron.com
-127.0.0.1	ed-ir.instanthq.com
-127.0.0.1	sah-xp.itsaol.com
-127.0.0.1	ir-ib.my03.com
-127.0.0.1	adlsahm.my03.com
-127.0.0.1	sah-irb.jkub.com
-127.0.0.1	sah-yx.faqserv.com
-127.0.0.1	a-dl.itsaol.com
-127.0.0.1	sah-irw.jkub.com
-127.0.0.1	sah.jkub.com
-127.0.0.1	adlirr.jkub.com
-127.0.0.1	sah-ta.jkub.com
-127.0.0.1	sah-me.faqserv.com
-127.0.0.1	zsin2.ebnsina.top
-127.0.0.1	hncelectric.cf
-127.0.0.1	mous.midlandpaper.icu
-127.0.0.1	kelly.chinacarbonfiber.buzz
-127.0.0.1	zang2.areen.top
-127.0.0.1	evil2.simcoes.top
-# Number of entries: 23823
+# Number of entries: 23789
