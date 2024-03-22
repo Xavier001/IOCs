@@ -34,7 +34,6 @@ contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM
 content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/g.pixel
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/g.pixel
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/ga.js
-d11zd6hrtvyf1p.cloudfront.net,Possible PoshC2 Fronting Domain,/webhp/
 d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h
 d3o8tsrpl5k6yb.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h
 d3so0g2pxg0u5a.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h
@@ -146,6 +145,7 @@ pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/ptj
 primo.freshhema.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 prod-ireland.arkoselabs.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 qq.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/include/template/isx.php
+qq.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain,/j.ad
 redir-s49f828c.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/visit.js
 releases.firmwarefusion.com,Possible Cobalt Strike C2 Fronting Domain,/dam.html
