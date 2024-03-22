@@ -1,11 +1,27 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-22 11:33:56 UTC                        #
+# Last updated: 2024-03-22 15:35:42 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	consulheartinc.com
+127.0.0.1	support.zodo.tech
+127.0.0.1	view.msedge.live
+127.0.0.1	update.winget-east.us
+127.0.0.1	aka.akadns.us
+127.0.0.1	abc.anti-ddos.io.vn
+127.0.0.1	fw.anti-ddos.io.vn
+127.0.0.1	shop.amazon-aws.fr
+127.0.0.1	newssssssssssssss.duckdns.org
+127.0.0.1	akamaicute.online
+127.0.0.1	pboc.online
+127.0.0.1	www.srryontop.xyz
+127.0.0.1	srryontop.xyz
+127.0.0.1	sdfsdfhhps.online
+127.0.0.1	hailnet.online
+127.0.0.1	dgsf.cat
 127.0.0.1	admin.usaid2.org
 127.0.0.1	delabfactory.com
 127.0.0.1	my.nimade.top
@@ -23864,13 +23880,4 @@
 127.0.0.1	chat-support.support
 127.0.0.1	almal-news.com
 127.0.0.1	adl-stt.otzo.com
-127.0.0.1	tsvsnjv.com
-127.0.0.1	dns1.noreply-alert.cloud
-127.0.0.1	service-oocpa72a-1305610678.gz.apigw.tencentcs.com
-127.0.0.1	cdn.apiadmin.live
-127.0.0.1	whitedrill.org
-127.0.0.1	sevenpunches.org
-127.0.0.1	throatpills.org
-127.0.0.1	machinetext.org
-127.0.0.1	ioiubby73b1n.com
-# Number of entries: 23867
+# Number of entries: 23874
