@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-22 09:36:41 UTC                        #
+# Last updated: 2024-03-22 11:33:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	admin.usaid2.org
+127.0.0.1	delabfactory.com
 127.0.0.1	my.nimade.top
 127.0.0.1	ck.aj05.top
 127.0.0.1	sjdkghsdughpowieugh8932.griefcube.cc
@@ -23871,13 +23873,4 @@
 127.0.0.1	throatpills.org
 127.0.0.1	machinetext.org
 127.0.0.1	ioiubby73b1n.com
-127.0.0.1	service-2rm5s5ep-1304892907.bj.apigw.tencentcs.com
-127.0.0.1	ns1.microsoft2888.top
-127.0.0.1	upd.cndlogstics.com
-127.0.0.1	india.tosoh.cloudns.ph
-127.0.0.1	ns.iloveflag.com
-127.0.0.1	ns12.clsr.ca
-127.0.0.1	ns2.jd-1111.cn
-127.0.0.1	ns1.jd-1111.cn
-127.0.0.1	miira.live
-# Number of entries: 23874
+# Number of entries: 23867
