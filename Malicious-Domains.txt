@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-22 15:35:42 UTC                        #
+# Last updated: 2024-03-23 07:12:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sharkagency.store
+127.0.0.1	apiframeworknode.com
+127.0.0.1	apistoragecache.com
 127.0.0.1	consulheartinc.com
 127.0.0.1	support.zodo.tech
 127.0.0.1	view.msedge.live
@@ -23852,32 +23855,4 @@
 127.0.0.1	bul.fishboa.top
 127.0.0.1	web.miira.live
 127.0.0.1	www.mylinkedln.com
-127.0.0.1	sts.tencentopenapi.xyz
-127.0.0.1	ttxxx.club
-127.0.0.1	service-qnlzv1t8-1317142305.gz.apigw.tencentcs.com
-127.0.0.1	rokllofrold29.com
-127.0.0.1	rokllold279.com
-127.0.0.1	hiro.nulling.to
-127.0.0.1	ductai.xyz
-127.0.0.1	vulinh.online
-127.0.0.1	nbvyrxry216vy.com
-127.0.0.1	standard.architech3.com
-127.0.0.1	betly.me
-127.0.0.1	cibeg.online
-127.0.0.1	notifications-sec.com
-127.0.0.1	sec-flare.com
-127.0.0.1	t-bit.me
-127.0.0.1	verifyurl.me
-127.0.0.1	wa-info.com
-127.0.0.1	wts-app.info
-127.0.0.1	whatssapp.co
-127.0.0.1	c.betly.me
-127.0.0.1	g.sec-flare.com
-127.0.0.1	notifications.wa-info.com
-127.0.0.1	whatspp.wa-info.com
-127.0.0.1	web.whatssapp.co
-127.0.0.1	whatssap.whatssapp.co
-127.0.0.1	chat-support.support
-127.0.0.1	almal-news.com
-127.0.0.1	adl-stt.otzo.com
-# Number of entries: 23874
+# Number of entries: 23849
