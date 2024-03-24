@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-23 16:32:27 UTC                        #
+# Last updated: 2024-03-24 00:24:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.guerrilladefense.com
 127.0.0.1	mariyeltherapy.xyz
 127.0.0.1	linnisgood.site
 127.0.0.1	mail.cliniquecomputer.com
@@ -23850,6 +23851,4 @@
 127.0.0.1	hello.zlc.ir
 127.0.0.1	zlc.ir
 127.0.0.1	market.x10.bz
-127.0.0.1	servicedesk-solutions.net
-127.0.0.1	video.baiduu.online
-# Number of entries: 23846
+# Number of entries: 23845
