@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-24 00:24:02 UTC                        #
+# Last updated: 2024-03-24 10:18:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	service-75oa09db-1317471892.cd.tencentapigw.com
 127.0.0.1	www.guerrilladefense.com
 127.0.0.1	mariyeltherapy.xyz
 127.0.0.1	linnisgood.site
@@ -23828,6 +23829,4 @@
 127.0.0.1	puyejqj.ml
 127.0.0.1	mowuqn.ga
 127.0.0.1	mowuqn.ml
-127.0.0.1	www.porkchopsandwich.net
-127.0.0.1	porkchopsandwich.net
-# Number of entries: 23824
+# Number of entries: 23823
