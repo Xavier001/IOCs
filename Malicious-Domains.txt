@@ -1,11 +1,49 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-24 10:18:56 UTC                        #
+# Last updated: 2024-03-24 15:12:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	himalware.cn
+127.0.0.1	sketchcolor.shop
+127.0.0.1	nblcc.co
+127.0.0.1	thpataa.chat
+127.0.0.1	aane.xyz
+127.0.0.1	azmmhh.tech
+127.0.0.1	eyedr.art
+127.0.0.1	fboadbns.shop
+127.0.0.1	hygxq.xyz
+127.0.0.1	us17.xyz
+127.0.0.1	js-min.site
+127.0.0.1	stickloader.info
+127.0.0.1	api.localadswidget.com
+127.0.0.1	assets.watchasync.com
+127.0.0.1	cdn.jsdevlvr.info
+127.0.0.1	cdn.wt-api.top
+127.0.0.1	js.abc-cdn.online
+127.0.0.1	js.opttracker.online
+127.0.0.1	js.schema-forms.org
+127.0.0.1	l.js-assets.cloud
+127.0.0.1	load.365analytics.xyz
+127.0.0.1	page.24supportkit.com
+127.0.0.1	spf.js-min.site
+127.0.0.1	stat.counter247.live
+127.0.0.1	streaming.jsonmediapacks.com
+127.0.0.1	stylesheet.webstaticcdn.com
+127.0.0.1	tags.stickloader.info
+127.0.0.1	flonea.live
+127.0.0.1	grasping.oss-me-east-1.aliyuncs.com
+127.0.0.1	360sec.online
+127.0.0.1	vviill.com
+127.0.0.1	mosc.vviill.com
+127.0.0.1	mos4.vviill.com
+127.0.0.1	mos2.vviill.com
+127.0.0.1	mos1.vviill.com
+127.0.0.1	mos5.vviill.com
+127.0.0.1	find-ball.com
+127.0.0.1	service-lidgmacv-1317471912.cd.tencentapigw.com
 127.0.0.1	service-75oa09db-1317471892.cd.tencentapigw.com
 127.0.0.1	www.guerrilladefense.com
 127.0.0.1	mariyeltherapy.xyz
@@ -23816,17 +23854,4 @@
 127.0.0.1	buy-positioning.at.ply.gg
 127.0.0.1	eain-63347.portmap.io
 127.0.0.1	short-rough.gl.at.ply.gg
-127.0.0.1	sirr2.pearlgroup.icu
-127.0.0.1	investor.entracollc.top
-127.0.0.1	collins.ironoreprod.top
-127.0.0.1	moore.meyervanderwalt.top
-127.0.0.1	mom.pain.capetown
-127.0.0.1	c1.dudu365.club
-127.0.0.1	failover.ns.0692994.trip2health.com
-127.0.0.1	ns.0692994.trip2health.com
-127.0.0.1	jsouywoq.tk
-127.0.0.1	jwuygwk.cf
-127.0.0.1	puyejqj.ml
-127.0.0.1	mowuqn.ga
-127.0.0.1	mowuqn.ml
-# Number of entries: 23823
+# Number of entries: 23848
