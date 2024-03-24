@@ -23830,25 +23830,4 @@
 127.0.0.1	mowuqn.ml
 127.0.0.1	www.porkchopsandwich.net
 127.0.0.1	porkchopsandwich.net
-127.0.0.1	galiso.top
-127.0.0.1	www.jtitraining.com
-127.0.0.1	dns.zonstdns.xyz
-127.0.0.1	hey.galiso.top
-127.0.0.1	blue.theinternetsupply.com
-127.0.0.1	log.4.4fun.wiki
-127.0.0.1	log.3.4fun.wiki
-127.0.0.1	log.2.4fun.wiki
-127.0.0.1	log.1.4fun.wiki
-127.0.0.1	servgameslupi.hopto.org
-127.0.0.1	citacionadjunta2.from-oh.com
-127.0.0.1	dfgy.shop
-127.0.0.1	comprobante20234.isa-geek.com
-127.0.0.1	dfvzfvd.help
-127.0.0.1	opewu.homes
-127.0.0.1	pqahzam.ink
-127.0.0.1	whi.ir
-127.0.0.1	sahamedalat.whi.ir
-127.0.0.1	hello.zlc.ir
-127.0.0.1	zlc.ir
-127.0.0.1	market.x10.bz
-# Number of entries: 23845
+# Number of entries: 23824
