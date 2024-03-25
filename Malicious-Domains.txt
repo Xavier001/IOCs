@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-25 06:06:32 UTC                        #
+# Last updated: 2024-03-25 16:26:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cdn.next2.cx
+127.0.0.1	cf907cd9e8f94a93937a6360363420b2.apig.cn-east-3.huaweicloudapis.com
+127.0.0.1	d69b6834b7eb46fcb7bbcaa60f9f0f2d.apig.cn-east-3.huaweicloudapis.com
+127.0.0.1	f6d2b014a8664ddd8d859ce64f3741ad.apig.cn-east-3.huaweicloudapis.com
+127.0.0.1	billions.ooguy.com
 127.0.0.1	share-introduced.gl.at.ply.gg
 127.0.0.1	h2cker.ddns.net
 127.0.0.1	low-feeding.gl.at.ply.gg
@@ -23750,27 +23755,4 @@
 127.0.0.1	clk-brood.top
 127.0.0.1	fresh-prok.ru
 127.0.0.1	lovebaongoc.ddns.net
-127.0.0.1	dlx.ti-instruments.com
-127.0.0.1	claudiabetancurlora09.con-ip.com
-127.0.0.1	wedhstinwell.online
-127.0.0.1	comico.con-ip.com
-127.0.0.1	cascada.con-ip.com
-127.0.0.1	vanidad.con-ip.com
-127.0.0.1	remsmart.hopto.org
-127.0.0.1	fgndibsvisdviree.con-ip.com
-127.0.0.1	remcostest.ddns.net
-127.0.0.1	dsoiuhvciosdjncoshvibd.con-ip.com
-127.0.0.1	wwwwwwwwww.duckdns.org
-127.0.0.1	puerta1.con-ip.com
-127.0.0.1	bliv.duckdns.org
-127.0.0.1	ifdhbodfijvoidsjvpfdpfijh.con-ip.com
-127.0.0.1	alvaritospamlamu.con-ip.com
-127.0.0.1	brian0627.duckdns.org
-127.0.0.1	remote.helloworld.market
-127.0.0.1	helloworld.market
-127.0.0.1	chestedband.org
-127.0.0.1	alimatata.topendpower.top
-127.0.0.1	office.aluminprodu.top
-127.0.0.1	zsin1.andrebadi.top
-127.0.0.1	china.dhabigroup.top
-# Number of entries: 23767
+# Number of entries: 23749
