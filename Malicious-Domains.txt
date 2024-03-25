@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-24 15:12:36 UTC                        #
+# Last updated: 2024-03-25 06:06:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	share-introduced.gl.at.ply.gg
+127.0.0.1	h2cker.ddns.net
+127.0.0.1	low-feeding.gl.at.ply.gg
+127.0.0.1	limited-architect.gl.at.ply.gg
+127.0.0.1	eclipseofmasters.com
 127.0.0.1	himalware.cn
 127.0.0.1	sketchcolor.shop
 127.0.0.1	nblcc.co
@@ -23798,60 +23803,4 @@
 127.0.0.1	iroexjds.work.gd
 127.0.0.1	popo01.mywire.org
 127.0.0.1	riewoti.work.gd
-127.0.0.1	fcmbroker.info
-127.0.0.1	featchaddress.lat
-127.0.0.1	remotemake.xyz
-127.0.0.1	iran-sahm.vizvaz.com
-127.0.0.1	adl.authorizeddns.net
-127.0.0.1	sadl.fartit.com
-127.0.0.1	sa-iran.fartit.com
-127.0.0.1	ed-sa.faqserv.com
-127.0.0.1	adlut.faqserv.com
-127.0.0.1	iran.fartit.com
-127.0.0.1	ir-ed.otzo.com
-127.0.0.1	sah-ir.fartit.com
-127.0.0.1	rimoteu.dns2.us
-127.0.0.1	adl-it.otzo.com
-127.0.0.1	sahammn.iownyour.org
-127.0.0.1	adlirn.otzo.com
-127.0.0.1	adliiu.mynetav.org
-127.0.0.1	adliraq.qpoe.com
-127.0.0.1	adliolj.jkub.com
-127.0.0.1	ea.dns04.com
-127.0.0.1	rimotet.wwwhost.biz
-127.0.0.1	adla.dns05.com
-127.0.0.1	adlelk.mynetav.org
-127.0.0.1	llllllige.zzux.com
-127.0.0.1	ir-sahm.jetos.com
-127.0.0.1	adlio.got-game.org
-127.0.0.1	ad-tsm.vizvaz.com
-127.0.0.1	adloio.iownyour.org
-127.0.0.1	saham.instanthq.com
-127.0.0.1	adleha.iownyour.org
-127.0.0.1	es.dnsrd.com
-127.0.0.1	adlilr.qhigh.com
-127.0.0.1	adlirjh.instanthq.com
-127.0.0.1	adlhds.wikaba.com
-127.0.0.1	adlel.trickip.org
-127.0.0.1	eblagh.wikaba.com
-127.0.0.1	adlirn.dnsrd.com
-127.0.0.1	ad-te.faqserv.com
-127.0.0.1	ea.gettrials.com
-127.0.0.1	iran-sah.fartit.com
-127.0.0.1	iran-sahm.fartit.com
-127.0.0.1	ed-iran.faqserv.com
-127.0.0.1	ir-sahm.fartit.com
-127.0.0.1	ed-ir.faqserv.com
-127.0.0.1	ir-saham.faqserv.com
-127.0.0.1	sahm-ir.faqserv.com
-127.0.0.1	iran-sa.faqserv.com
-127.0.0.1	homesafe1000.duckdns.org
-127.0.0.1	web.sunvn.net
-127.0.0.1	casino-within.at.ply.gg
-127.0.0.1	go-bean.at.ply.gg
-127.0.0.1	weeks-nine.gl.at.ply.gg
-127.0.0.1	supply-dressing.gl.at.ply.gg
-127.0.0.1	buy-positioning.at.ply.gg
-127.0.0.1	eain-63347.portmap.io
-127.0.0.1	short-rough.gl.at.ply.gg
-# Number of entries: 23848
+# Number of entries: 23797
