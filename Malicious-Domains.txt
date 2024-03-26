@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-25 16:26:24 UTC                        #
+# Last updated: 2024-03-26 07:17:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nonlinearcomms.info
+127.0.0.1	goingupdate.com
+127.0.0.1	froggysnow.org
+127.0.0.1	apiasyncpromise.com
+127.0.0.1	apieventemitter.com
+127.0.0.1	apifetchmethod.com
+127.0.0.1	incachespace.com
+127.0.0.1	lyddemper.com
+127.0.0.1	xjp.xinjiangworker.shop
 127.0.0.1	cdn.next2.cx
 127.0.0.1	cf907cd9e8f94a93937a6360363420b2.apig.cn-east-3.huaweicloudapis.com
 127.0.0.1	d69b6834b7eb46fcb7bbcaa60f9f0f2d.apig.cn-east-3.huaweicloudapis.com
@@ -23755,4 +23764,4 @@
 127.0.0.1	clk-brood.top
 127.0.0.1	fresh-prok.ru
 127.0.0.1	lovebaongoc.ddns.net
-# Number of entries: 23749
+# Number of entries: 23758
