@@ -1,11 +1,28 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-26 07:17:03 UTC                        #
+# Last updated: 2024-03-26 20:46:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	g.fyss888.com
+127.0.0.1	mythictherapy.org
+127.0.0.1	www.srryontop.fr
+127.0.0.1	srryontop.fr
+127.0.0.1	lionos.xyz
+127.0.0.1	axz.lionos.xyz
+127.0.0.1	pda.lionos.xyz
+127.0.0.1	ml.lionos.xyz
+127.0.0.1	goweqmcsa.xyz
+127.0.0.1	wwea.goweqmcsa.xyz
+127.0.0.1	xza.goweqmcsa.xyz
+127.0.0.1	api.virtue.ltd
+127.0.0.1	networkbn.com
+127.0.0.1	net-killer.work.gd
+127.0.0.1	bot.layer4.bf
+127.0.0.1	hiyl7.hilariocolche.com
+127.0.0.1	metis-info.com
 127.0.0.1	nonlinearcomms.info
 127.0.0.1	goingupdate.com
 127.0.0.1	froggysnow.org
@@ -23712,12 +23729,4 @@
 127.0.0.1	vnh.wtf
 127.0.0.1	1368.vnh.wtf
 127.0.0.1	buyredblog.com
-127.0.0.1	ns1.mysqlnet.org
-127.0.0.1	c2.marfei.zone
-127.0.0.1	nsss.chtcom.tw
-127.0.0.1	zzerxc.com
-127.0.0.1	bot.hamsterrace.space
-127.0.0.1	sah-get.fartit.com
-127.0.0.1	sah-art.fartit.com
-127.0.0.1	evil22.aerostarmodel.buzz
-# Number of entries: 23714
+# Number of entries: 23723
