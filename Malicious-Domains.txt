@@ -23728,5 +23728,4 @@
 127.0.0.1	funpet.uk
 127.0.0.1	vnh.wtf
 127.0.0.1	1368.vnh.wtf
-127.0.0.1	buyredblog.com
-# Number of entries: 23723
+# Number of entries: 23722
