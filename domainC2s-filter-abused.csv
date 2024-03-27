@@ -6,7 +6,6 @@ a.pain.capetown,Possible Cobalt Strike C2 Domain
 ad.urlz.ws,Possible Cobalt Strike C2 Domain
 admin.usaid2.org,Possible Cobalt Strike C2 Domain
 aka.akadns.us,Possible Cobalt Strike C2 Domain
-apps.nbcnews.site,Possible Cobalt Strike C2 Fronted Domain
 bb.makkgg.fyi,Possible Cobalt Strike C2 Domain
 beacon.etallyall.com,Possible Cobalt Strike C2 Domain
 blm-wiki.com,Possible Cobalt Strike C2 Domain
@@ -44,7 +43,6 @@ dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dmobd90auod5w.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain
 dns.byresolved.com,Possible Cobalt Strike C2 Domain
-dns.checkavail.space,Possible Cobalt Strike C2 Domain
 dns.cityoall.com,Possible Cobalt Strike C2 Domain
 dns.ns1.akingump.cloud,Possible Cobalt Strike C2 Domain
 dns.ontexcare.com,Possible Cobalt Strike C2 Domain
@@ -62,7 +60,6 @@ f6d2b014a8664ddd8d859ce64f3741ad.apig.cn-east-3.huaweicloudapis.com,Possible Cob
 files.jslibc.com,Possible Cobalt Strike C2 Domain
 find-ball.com,Possible Cobalt Strike C2 Fronted Domain
 firmwarefusion.com,Possible Cobalt Strike C2 Fronted Domain
-fk.n0reply.eu.org,Possible Cobalt Strike C2 Domain
 g.fyss888.com,Possible Cobalt Strike C2 Domain
 ipadd.show,Possible Cobalt Strike C2 Domain
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain
@@ -77,7 +74,6 @@ mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain
 nocomp.freeboxos.fr,Possible Cobalt Strike C2 Domain
 ns.b1ing.com,Possible Cobalt Strike C2 Domain
-ns.checkavail.space,Possible Cobalt Strike C2 Domain
 ns.n0reply.eu.org,Possible Cobalt Strike C2 Domain
 ns1.akingump.cloud,Possible Cobalt Strike C2 Domain
 ns1.aliyunn.com.cn,Possible Cobalt Strike C2 Domain
@@ -124,6 +120,7 @@ security-socks777.com,Possible Cobalt Strike C2 Domain
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-1scv7ngm-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-20ww8i3o-1300612713.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain
+service-2saemj0p-1319375115.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-75oa09db-1317471892.cd.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-8rv78e5d-1319481525.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -167,10 +164,8 @@ www.10086cn.xyz,Possible Cobalt Strike C2 Domain
 www.flash-update.info,Possible Cobalt Strike C2 Domain
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain
 www.micshcnds.top,Possible Cobalt Strike C2 Domain
-www.nbcnews.site,Possible Cobalt Strike C2 Fronting Domain
 www.sonystore.xyz,Possible Cobalt Strike C2 Domain
 www.test9977.tk,Possible Cobalt Strike C2 Domain
 www.weepstakes.com,Possible Cobalt Strike C2 Domain
 www.xss.mba,Possible Cobalt Strike C2 Domain
 www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
-xunleicloud.com,Possible Cobalt Strike C2 Domain

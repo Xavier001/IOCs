@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-27 08:55:37 UTC                        #
+# Last updated: 2024-03-27 10:13:16 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	service-2saemj0p-1319375115.bj.apigw.tencentcs.com
+127.0.0.1	service-20ww8i3o-1300612713.gz.tencentapigw.com.cn
 127.0.0.1	voidc2.xyz
 127.0.0.1	www.flash-update.info
 127.0.0.1	apijsonparserkit.com
@@ -23713,5 +23715,4 @@
 127.0.0.1	forcema002.duckdns.org
 127.0.0.1	meeti.hopto.org
 127.0.0.1	bowepavij.info
-127.0.0.1	reedx51mut.com
-# Number of entries: 23708
+# Number of entries: 23709
