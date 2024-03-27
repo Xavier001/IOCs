@@ -123,6 +123,7 @@ security-socks.expert,Possible Cobalt Strike C2 Domain
 security-socks777.com,Possible Cobalt Strike C2 Domain
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-1scv7ngm-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-20ww8i3o-1300612713.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain
 service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-75oa09db-1317471892.cd.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-8rv78e5d-1319481525.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -132,6 +133,7 @@ service-bvvdi136-1317500845.gz.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-cedqvyh7-1322145958.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-d1yss7wi-1314780031.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-eh2fyewb-1301153563.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-jby1ivts-1324864909.hk.tencentapigw.cn,Possible Cobalt Strike C2 Domain
@@ -162,6 +164,7 @@ verify.update.nadra-pk.org,Possible Cobalt Strike C2 Domain
 view.msedge.live,Possible Cobalt Strike C2 Domain
 wps.cncb.info,Possible Cobalt Strike C2 Domain
 www.10086cn.xyz,Possible Cobalt Strike C2 Domain
+www.flash-update.info,Possible Cobalt Strike C2 Domain
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain
 www.micshcnds.top,Possible Cobalt Strike C2 Domain
 www.nbcnews.site,Possible Cobalt Strike C2 Fronting Domain

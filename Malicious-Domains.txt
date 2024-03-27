@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-26 20:46:56 UTC                        #
+# Last updated: 2024-03-27 08:55:37 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	voidc2.xyz
+127.0.0.1	www.flash-update.info
+127.0.0.1	apijsonparserkit.com
+127.0.0.1	backupitfirst.com
+127.0.0.1	withupdate.com
+127.0.0.1	arku.xyz
+127.0.0.1	usersync.tiqcdn.net
 127.0.0.1	g.fyss888.com
 127.0.0.1	mythictherapy.org
 127.0.0.1	www.srryontop.fr
@@ -23707,25 +23714,4 @@
 127.0.0.1	meeti.hopto.org
 127.0.0.1	bowepavij.info
 127.0.0.1	reedx51mut.com
-127.0.0.1	www.microdotoffice.shop
-127.0.0.1	microdotoffice.shop
-127.0.0.1	zx.svcregsvr.com
-127.0.0.1	as.svcregsvr.com
-127.0.0.1	qw.svcregsvr.com
-127.0.0.1	www.chtcom.tw
-127.0.0.1	www.mysqlnet.org
-127.0.0.1	adl-vb.vizvaz.com
-127.0.0.1	r-ir.jkub.com
-127.0.0.1	adl-vm.instanthq.com
-127.0.0.1	adl-cv.my03.com
-127.0.0.1	adl-mn.my03.com
-127.0.0.1	adl-mn.jkub.com
-127.0.0.1	adl-xc.faqserv.com
-127.0.0.1	adl-bn.itsaol.com
-127.0.0.1	adl-nm.faqserv.com
-127.0.0.1	adl-zx.fartit.com
-127.0.0.1	dcrat.vnh.wtf
-127.0.0.1	funpet.uk
-127.0.0.1	vnh.wtf
-127.0.0.1	1368.vnh.wtf
-# Number of entries: 23722
+# Number of entries: 23708
