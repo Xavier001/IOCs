@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-27 21:05:50 UTC                        #
+# Last updated: 2024-03-28 06:48:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	gammaproject.dev
+127.0.0.1	results-outdoors.gl.at.ply.gg
 127.0.0.1	alexanderarthur.xyz
 127.0.0.1	pvasms.top
 127.0.0.1	hepialid.xyz
@@ -15605,5 +15607,4 @@
 127.0.0.1	98ygdjhdvuhj.com
 127.0.0.1	cnc.n1gger.ru
 127.0.0.1	cdn.n1gger.ru
-127.0.0.1	notdns1.noreply-alert.cloud
-# Number of entries: 15600
+# Number of entries: 15601
