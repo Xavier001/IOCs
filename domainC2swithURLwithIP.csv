@@ -76,6 +76,7 @@ f6d2b014a8664ddd8d859ce64f3741ad.apig.cn-east-3.huaweicloudapis.com,Possible Cob
 f6d2b014a8664ddd8d859ce64f3741ad.apig.cn-east-3.huaweicloudapis.com,Possible Cobalt Strike C2 Domain,/static/askbob,152.32.131.118
 files.jslibc.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.76.78.183
 find-ball.com,Possible Cobalt Strike C2 Fronted Domain,/ch,45.149.172.87
+g.fyss888.com,Possible Cobalt Strike C2 Domain,/ca,154.219.154.67
 g.fyss888.com,Possible Cobalt Strike C2 Domain,/ca,154.219.163.67
 g.fyss888.com,Possible Cobalt Strike C2 Domain,/ca,154.219.163.69
 g.fyss888.com,Possible Cobalt Strike C2 Domain,/ca,154.219.163.70
@@ -198,6 +199,7 @@ service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,123.207.51.53
 service-jby1ivts-1324864909.hk.tencentapigw.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,103.27.109.33
 service-lidgmacv-1317471912.cd.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/SendMsg,43.143.184.128
+service-ps16whvt-1304800271.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x,122.51.7.163
 service-qzxfb4ay-1318428097.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/user,43.142.191.38
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/get,139.155.148.131
 set.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.54.86.90
@@ -237,5 +239,5 @@ www.sonystore.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,39.98.19
 www.test9977.tk,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,47.99.177.59
 www.test9977.tk,Possible Cobalt Strike C2 Domain,/cx,47.99.177.59
 www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png,185.32.126.51
-www.xss.mba,Possible Cobalt Strike C2 Domain,/activity,58.51.152.18
+www.xss.mba,Possible Cobalt Strike C2 Domain,/dpixel,58.51.152.18
 www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/newtab_promos,20.104.172.62

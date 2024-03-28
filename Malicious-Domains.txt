@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-28 06:48:02 UTC                        #
+# Last updated: 2024-03-28 16:20:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cowspidzu.pro
+127.0.0.1	muratinue.com
+127.0.0.1	certifacto.com
+127.0.0.1	bladisuka.red
+127.0.0.1	service-ps16whvt-1304800271.sh.tencentapigw.com
 127.0.0.1	gammaproject.dev
 127.0.0.1	results-outdoors.gl.at.ply.gg
 127.0.0.1	alexanderarthur.xyz
@@ -15553,58 +15558,4 @@
 127.0.0.1	newnanpeople.duckdns.org
 127.0.0.1	ghost.blueecho88.com
 127.0.0.1	redsnowynose.org
-127.0.0.1	rarefood.fun
-127.0.0.1	rosaryconbo.fun
-127.0.0.1	royalpantss.fun
-127.0.0.1	satanakop.fun
-127.0.0.1	sausagerollraisin.fun
-127.0.0.1	scruffymapleflat.fun
-127.0.0.1	sendcyniaforeign.fun
-127.0.0.1	socialmadness.fun
-127.0.0.1	sodafountainpr.fun
-127.0.0.1	startablekor.fun
-127.0.0.1	superyupp.fun
-127.0.0.1	talkinwhitepod.fun
-127.0.0.1	tuberoseprod.fun
-127.0.0.1	valleydod.fun
-127.0.0.1	veinsmoter.fun
-127.0.0.1	waterparkedone.fun
-127.0.0.1	withdrawlecterns.fun
-127.0.0.1	wolffunny.fun
-127.0.0.1	yachtracingopt.fun
-127.0.0.1	ojhggnfbcy62.com
-127.0.0.1	pregnantflowers.fun
-127.0.0.1	potatomeatball.fun
-127.0.0.1	portlandcor.fun
-127.0.0.1	lackbasinmu.fun
-127.0.0.1	pearlbarleyhit.fun
-127.0.0.1	politicuseles.fun
-127.0.0.1	glaziercarde.fun
-127.0.0.1	housegrommy.fun
-127.0.0.1	jumperstad.fun
-127.0.0.1	ducklingibises.fun
-127.0.0.1	dropfiles-my.xyz
-127.0.0.1	downloadfiles-my.xyz
-127.0.0.1	dromautocar.xyz
-127.0.0.1	culturalevenings.xyz
-127.0.0.1	deeppoetry.xyz
-127.0.0.1	diavellipromo-my.xyz
-127.0.0.1	dogshanter.xyz
-127.0.0.1	downloaddedattre.fun
-127.0.0.1	cosmosvr3d.xyz
-127.0.0.1	coolworkss.xyz
-127.0.0.1	coinflore-my.xyz
-127.0.0.1	boxclod.xyz
-127.0.0.1	catfoodbio.xyz
-127.0.0.1	chocomeat.fun
-127.0.0.1	cloudsnike-my.xyz
-127.0.0.1	bondappeal.xyz
-127.0.0.1	blockall-my.xyz
-127.0.0.1	blockspam-my.xyz
-127.0.0.1	awindakizend.com
-127.0.0.1	2flowers-my.xyz
-127.0.0.1	xavfgrtgrg.com
-127.0.0.1	98ygdjhdvuhj.com
-127.0.0.1	cnc.n1gger.ru
-127.0.0.1	cdn.n1gger.ru
-# Number of entries: 15601
+# Number of entries: 15552

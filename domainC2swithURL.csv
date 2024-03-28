@@ -148,6 +148,7 @@ service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB
 service-jby1ivts-1324864909.hk.tencentapigw.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 service-lidgmacv-1317471912.cd.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/SendMsg
+service-ps16whvt-1304800271.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x
 service-qzxfb4ay-1318428097.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/user
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/get
 set.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -185,5 +186,5 @@ www.sonystore.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.test9977.tk,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 www.test9977.tk,Possible Cobalt Strike C2 Domain,/cx
 www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png
-www.xss.mba,Possible Cobalt Strike C2 Domain,/activity
+www.xss.mba,Possible Cobalt Strike C2 Domain,/dpixel
 www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/newtab_promos
