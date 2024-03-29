@@ -1,11 +1,35 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-29 09:33:10 UTC                        #
+# Last updated: 2024-03-29 12:04:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	averatechsolutions.com
+127.0.0.1	gays.egorvlasov.ru
+127.0.0.1	z.hxhk.cc
+127.0.0.1	rawapi.nekololis.ovh
+127.0.0.1	v.hxhk.cc
+127.0.0.1	x.hxhk.cc
+127.0.0.1	t.hxhk.cc
+127.0.0.1	tomhxhk.cc
+127.0.0.1	cnc.hxhk.cc
+127.0.0.1	hxhk.cc
+127.0.0.1	b.hxhk.cc
+127.0.0.1	c.hxhk.cc
+127.0.0.1	a.hxhk.cc
+127.0.0.1	jhbaghjbasdg.shop
+127.0.0.1	cnc.nekololis.ovh
+127.0.0.1	subphattai.online
+127.0.0.1	nt.zua6.com
+127.0.0.1	bt.zoml.cc
+127.0.0.1	abc.anti-ddos.io.vn
+127.0.0.1	fw1.anti-ddos.io.vn
+127.0.0.1	fw.anti-ddos.io.vn
+127.0.0.1	anti-ddos.io.vn
+127.0.0.1	mainnetwork.sysromeu.eu.org
+127.0.0.1	fdh32fsdfhs.shop
 127.0.0.1	sares.xyz
 127.0.0.1	somakop.app
 127.0.0.1	dumingas.com
@@ -15027,16 +15051,4 @@
 127.0.0.1	jmvummtu333.com
 127.0.0.1	fresh1.ironoreprod.top
 127.0.0.1	kelly.spencerstuartllc.top
-127.0.0.1	cs.vegaking.xyz
-127.0.0.1	d7vhem8q6rjhp.cloudfront.net
-127.0.0.1	jsquery.cloud
-127.0.0.1	files.jslibc.com
-127.0.0.1	cusihunej.info
-127.0.0.1	service.opposrv.top
-127.0.0.1	app.opposrv.top
-127.0.0.1	permit.peerscash.com
-127.0.0.1	equal.fairtaxcolorado.org
-127.0.0.1	dns.codeacademytraining.com
-127.0.0.1	erorblackday.xyz
-127.0.0.1	sisadmin-my.xyz
-# Number of entries: 15033
+# Number of entries: 15045
