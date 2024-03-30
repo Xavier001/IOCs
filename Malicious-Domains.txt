@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-29 16:59:04 UTC                        #
+# Last updated: 2024-03-30 08:58:10 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	service-b7okr3qc-1300276284.nj.tencentapigw.com
+127.0.0.1	dd.nnmm234.com
+127.0.0.1	dd.xxcc789.com
+127.0.0.1	dd.jjkk567.com
+127.0.0.1	dd.vvbb321.com
+127.0.0.1	anbu.bond
+127.0.0.1	89.213.140.115.nerozix.ovh
+127.0.0.1	onsttuiona.com
+127.0.0.1	bitonecore.com
 127.0.0.1	widur.xyz
 127.0.0.1	registration-nil.gl.at.ply.gg
 127.0.0.1	betaproxy.herios-stresser.space
@@ -15090,8 +15099,4 @@
 127.0.0.1	svartalfheim.top
 127.0.0.1	rgtryhbgddtyh.biz
 127.0.0.1	neelsmagofter.com
-127.0.0.1	ns0.api-azure.com
-127.0.0.1	ns3.api-azure.com
-127.0.0.1	ns2.api-azure.com
-127.0.0.1	ns1.api-azure.com
-# Number of entries: 15088
+# Number of entries: 15093
