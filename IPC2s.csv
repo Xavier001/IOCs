@@ -1,7 +1,6 @@
 #ip,ioc
 1.117.79.251,Possible Cobaltstrike C2 IP
 1.117.93.65,Possible Cobaltstrike C2 IP
-1.12.36.65,Possible Cobaltstrike C2 IP
 1.13.17.185,Possible Cobaltstrike C2 IP
 1.14.205.73,Possible Cobaltstrike C2 IP
 1.14.206.72,Possible Cobaltstrike C2 IP
@@ -183,6 +182,7 @@
 124.70.140.36,Possible Cobaltstrike C2 IP
 124.70.180.22,Possible Cobaltstrike C2 IP
 124.71.130.71,Possible Cobaltstrike C2 IP
+124.71.136.141,Possible Cobaltstrike C2 IP
 124.71.158.221,Possible Cobaltstrike C2 IP
 124.71.222.33,Possible Cobaltstrike C2 IP
 124.71.38.170,Possible Cobaltstrike C2 IP
