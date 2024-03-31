@@ -1,12 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-30 19:45:56 UTC                        #
+# Last updated: 2024-03-31 07:17:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	a.iruko.top
+127.0.0.1	www.nocapsrt.site
+127.0.0.1	nocapsrt.site
 127.0.0.1	service-bjb5aex0-1318428097.gz.tencentapigw.com.cn
+127.0.0.1	cleaninghouseinc.com
 127.0.0.1	service-b7okr3qc-1300276284.nj.tencentapigw.com
 127.0.0.1	dd.nnmm234.com
 127.0.0.1	dd.xxcc789.com
@@ -15100,8 +15104,4 @@
 127.0.0.1	svartalfheim.top
 127.0.0.1	rgtryhbgddtyh.biz
 127.0.0.1	neelsmagofter.com
-127.0.0.1	ns0.api-azure.com
-127.0.0.1	ns3.api-azure.com
-127.0.0.1	ns2.api-azure.com
-127.0.0.1	ns1.api-azure.com
 # Number of entries: 15098
