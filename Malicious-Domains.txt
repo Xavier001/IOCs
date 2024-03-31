@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-31 07:17:43 UTC                        #
+# Last updated: 2024-03-31 12:12:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bnd-servers.komakhazine.com
+127.0.0.1	giga.giganoob.ru
+127.0.0.1	giga.giganoob.xyz
+127.0.0.1	3g.ali213.net
+127.0.0.1	m.old.gxjczx.gov.cn
 127.0.0.1	a.iruko.top
 127.0.0.1	www.nocapsrt.site
 127.0.0.1	nocapsrt.site
@@ -15104,4 +15109,4 @@
 127.0.0.1	svartalfheim.top
 127.0.0.1	rgtryhbgddtyh.biz
 127.0.0.1	neelsmagofter.com
-# Number of entries: 15098
+# Number of entries: 15103
