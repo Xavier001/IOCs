@@ -1,11 +1,23 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-01 08:51:54 UTC                        #
+# Last updated: 2024-04-01 20:59:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	lesserafine.site
+127.0.0.1	umo3uuoo57.execute-api.us-east-1.amazonaws.com
+127.0.0.1	api.updateservices.org
+127.0.0.1	gostatts.com
+127.0.0.1	applereports.ddns.net
+127.0.0.1	c.bywe.xyz
+127.0.0.1	ns2.googletagmauager.com
+127.0.0.1	ns1.googletagmauager.com
+127.0.0.1	mogor.xyz
+127.0.0.1	stviw.xyz
+127.0.0.1	heicehjuisyq.bond
+127.0.0.1	goliathms.azureedge.net
 127.0.0.1	rdtest.static.hao123-wise.otp.baidu.com.cn.cdn.dnsv1.com
 127.0.0.1	dockerupdate.xyz
 127.0.0.1	chniabank.com
@@ -14860,52 +14872,4 @@
 127.0.0.1	adl-e.vizvaz.com
 127.0.0.1	mestorycallin.com
 127.0.0.1	www.connecteds.online
-127.0.0.1	api.tcprestt.top
-127.0.0.1	gog.shopapi.top
-127.0.0.1	ley.domest.top
-127.0.0.1	tapoq.top
-127.0.0.1	cay.nooblu.top
-127.0.0.1	shopapi.top
-127.0.0.1	swisskn.top
-127.0.0.1	producti.top
-127.0.0.1	sanasoz.top
-127.0.0.1	nooblu.top
-127.0.0.1	domest.top
-127.0.0.1	itadesig.top
-127.0.0.1	datastor.top
-127.0.0.1	izocraft.com
-127.0.0.1	sahmnq.fartit.com
-127.0.0.1	sahm-as.vizvaz.com
-127.0.0.1	adl-ib.faqserv.com
-127.0.0.1	adl-ir.faqserv.com
-127.0.0.1	adl-ir.mrface.com
-127.0.0.1	adl-gq.mynetav.org
-127.0.0.1	bam.vizvaz.com
-127.0.0.1	sahm-mo.fartit.com
-127.0.0.1	adl-hh.vizvaz.com
-127.0.0.1	bam-meli.otzo.com
-127.0.0.1	bam.mynetav.org
-127.0.0.1	osi.producti.top
-127.0.0.1	moy.tapoq.top
-127.0.0.1	pak.swisskn.top
-127.0.0.1	ray.itadesig.top
-127.0.0.1	sup.sanasoz.top
-127.0.0.1	woo.datastor.top
-127.0.0.1	oiouhvtybh291.com
-127.0.0.1	xstarv2.store
-127.0.0.1	edalatsod-ir.tk
-127.0.0.1	irsaham1402.site
-127.0.0.1	mko.tinh73.shop
-127.0.0.1	bic.xdk03.fun
-127.0.0.1	zasexdrc13ftvg.com
-127.0.0.1	a-ir.vizvaz.com
-127.0.0.1	l-ir.faqserv.com
-127.0.0.1	irr.fartit.com
-127.0.0.1	z-ir.fartit.com
-127.0.0.1	ir.mrface.com
-127.0.0.1	sa-bi.otzo.com
-127.0.0.1	a-ir.fartit.com
-127.0.0.1	bookchrono8273.com
-127.0.0.1	dns.5itk.cn
-127.0.0.1	easycard-t.sumikuma.tw
-# Number of entries: 14902
+# Number of entries: 14866

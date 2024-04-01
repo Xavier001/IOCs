@@ -9,6 +9,7 @@ admin.usaid2.org,Possible Cobalt Strike C2 Domain
 averatechsolutions.com,Possible Cobalt Strike C2 Fronted Domain
 bb.makkgg.fyi,Possible Cobalt Strike C2 Domain
 beacon.etallyall.com,Possible Cobalt Strike C2 Domain
+big-walls.com,Possible Cobalt Strike C2 Fronted Domain
 blm-wiki.com,Possible Cobalt Strike C2 Domain
 c1.tqrjfru.cn,Possible Cobalt Strike C2 Domain
 c2.marfei.zone,Possible Cobalt Strike C2 Domain
@@ -39,7 +40,6 @@ d69b6834b7eb46fcb7bbcaa60f9f0f2d.apig.cn-east-3.huaweicloudapis.com,Possible Cob
 d8g.lol,Possible Cobalt Strike C2 Domain
 d9msk9dy9tbnk.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain
 dctrvi.azureedge.net,Possible Cobalt Strike C2 Domain
-delabfactory.com,Possible Cobalt Strike C2 Fronted Domain
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
@@ -63,6 +63,8 @@ files.jslibc.com,Possible Cobalt Strike C2 Domain
 find-ball.com,Possible Cobalt Strike C2 Fronted Domain
 g.fyss888.com,Possible Cobalt Strike C2 Domain
 gays.egorvlasov.ru,Possible Cobalt Strike C2 Domain
+goliathms.azureedge.net,Possible Cobalt Strike C2 Domain
+heicehjuisyq.bond,Possible Cobalt Strike C2 Domain
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain
 jspassport.ssl.qhimg.com.dsa.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain
@@ -84,6 +86,7 @@ ns1.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain
 ns1.chongfan1990.xyz,Possible Cobalt Strike C2 Domain
 ns1.crnbchina.top,Possible Cobalt Strike C2 Domain
 ns1.dice1018.top,Possible Cobalt Strike C2 Domain
+ns1.googletagmauager.com,Possible Cobalt Strike C2 Domain
 ns1.h1ll0.cs.in,Possible Cobalt Strike C2 Domain
 ns1.weepstakes.com,Possible Cobalt Strike C2 Domain
 ns1.zpepc.net,Possible Cobalt Strike C2 Domain
@@ -93,6 +96,7 @@ ns2.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain
 ns2.chongfan1990.xyz,Possible Cobalt Strike C2 Domain
 ns2.crnbchina.top,Possible Cobalt Strike C2 Domain
 ns2.dice1018.top,Possible Cobalt Strike C2 Domain
+ns2.googletagmauager.com,Possible Cobalt Strike C2 Domain
 ns2.h1ll0.cs.in,Possible Cobalt Strike C2 Domain
 ns2.zpepc.net,Possible Cobalt Strike C2 Domain
 ns3.aliyunn.com.cn,Possible Cobalt Strike C2 Domain
@@ -146,6 +150,7 @@ skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain
 software.cncb.info,Possible Cobalt Strike C2 Domain
 stads.10086.cn,Possible Cobalt Strike C2 Fronting Domain
 static.chat5188.top,Possible Cobalt Strike C2 Domain
+sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain
 su.urlz.ws,Possible Cobalt Strike C2 Domain
 summerevent2023.com,Possible Cobalt Strike C2 Domain
 t.10nf0x.com,Possible Cobalt Strike C2 Domain
