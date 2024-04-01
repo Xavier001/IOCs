@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-01 02:57:32 UTC                        #
+# Last updated: 2024-04-01 08:51:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	rdtest.static.hao123-wise.otp.baidu.com.cn.cdn.dnsv1.com
 127.0.0.1	dockerupdate.xyz
 127.0.0.1	chniabank.com
 127.0.0.1	serenitytherapy.xyz
@@ -14907,7 +14908,4 @@
 127.0.0.1	bookchrono8273.com
 127.0.0.1	dns.5itk.cn
 127.0.0.1	easycard-t.sumikuma.tw
-127.0.0.1	cdnjscripts.com
-127.0.0.1	ns2.microsoeft.com.cn
-127.0.0.1	ns1.microsoeft.com.cn
-# Number of entries: 14904
+# Number of entries: 14902
