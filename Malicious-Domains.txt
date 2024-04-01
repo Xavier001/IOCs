@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-03-31 17:56:45 UTC                        #
+# Last updated: 2024-04-01 02:57:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dockerupdate.xyz
 127.0.0.1	chniabank.com
 127.0.0.1	serenitytherapy.xyz
 127.0.0.1	illitmagnetic.site
@@ -14909,4 +14910,4 @@
 127.0.0.1	cdnjscripts.com
 127.0.0.1	ns2.microsoeft.com.cn
 127.0.0.1	ns1.microsoeft.com.cn
-# Number of entries: 14903
+# Number of entries: 14904
