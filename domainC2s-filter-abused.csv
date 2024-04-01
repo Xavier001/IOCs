@@ -19,7 +19,6 @@ cdn-aws-amazon.nbcnews.site,Possible Cobalt Strike C2 Fronted Domain
 cdn-lnk-075.epsonupdate.uk,Possible Cobalt Strike C2 Domain
 cdn.3qweraa.beauty,Possible Cobalt Strike C2 Domain
 cdn.efstech.de,Possible Cobalt Strike C2 Domain
-cdncloud.info,Possible Cobalt Strike C2 Domain
 cf907cd9e8f94a93937a6360363420b2.apig.cn-east-3.huaweicloudapis.com,Possible Cobalt Strike C2 Domain
 check.judicical.ml,Possible Cobalt Strike C2 Domain
 check.update.nadra-pk.org,Possible Cobalt Strike C2 Domain
@@ -64,7 +63,6 @@ files.jslibc.com,Possible Cobalt Strike C2 Domain
 find-ball.com,Possible Cobalt Strike C2 Fronted Domain
 g.fyss888.com,Possible Cobalt Strike C2 Domain
 gays.egorvlasov.ru,Possible Cobalt Strike C2 Domain
-ipadd.show,Possible Cobalt Strike C2 Domain
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain
 jspassport.ssl.qhimg.com.dsa.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain
@@ -87,7 +85,6 @@ ns1.chongfan1990.xyz,Possible Cobalt Strike C2 Domain
 ns1.crnbchina.top,Possible Cobalt Strike C2 Domain
 ns1.dice1018.top,Possible Cobalt Strike C2 Domain
 ns1.h1ll0.cs.in,Possible Cobalt Strike C2 Domain
-ns1.kogyoung.com,Possible Cobalt Strike C2 Domain
 ns1.weepstakes.com,Possible Cobalt Strike C2 Domain
 ns1.zpepc.net,Possible Cobalt Strike C2 Domain
 ns2.0-2.pw,Possible Cobalt Strike C2 Domain
@@ -97,7 +94,6 @@ ns2.chongfan1990.xyz,Possible Cobalt Strike C2 Domain
 ns2.crnbchina.top,Possible Cobalt Strike C2 Domain
 ns2.dice1018.top,Possible Cobalt Strike C2 Domain
 ns2.h1ll0.cs.in,Possible Cobalt Strike C2 Domain
-ns2.kogyoung.com,Possible Cobalt Strike C2 Domain
 ns2.zpepc.net,Possible Cobalt Strike C2 Domain
 ns3.aliyunn.com.cn,Possible Cobalt Strike C2 Domain
 ns3.chongfan1990.xyz,Possible Cobalt Strike C2 Domain
@@ -115,6 +111,8 @@ ok.ppctech.xyz,Possible Cobalt Strike C2 Domain
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain
 po.vigorlabs.info,Possible PoshC2 Domain
 qq.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain
+rdtest.static.hao123-wise.otp.baidu.com.cn,Possible Cobalt Strike C2 Fronting Domain
+rdtest.static.hao123-wise.otp.baidu.com.cn.cdn.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain
 recommendation.digihealthlocker.com,Possible Cobalt Strike C2 Domain
 redir-s49f828c.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain
 res.mall.10010.cn,Possible Cobalt Strike C2 Fronted Domain
@@ -139,7 +137,6 @@ service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-eh2fyewb-1301153563.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-jby1ivts-1324864909.hk.tencentapigw.cn,Possible Cobalt Strike C2 Domain
 service-lidgmacv-1317471912.cd.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-ps16whvt-1304800271.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
