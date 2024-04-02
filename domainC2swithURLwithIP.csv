@@ -41,6 +41,8 @@ content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/u
 cs.buidu.site,Possible Cobalt Strike C2 Domain,/load,106.38.201.196
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/cx,134.122.129.173
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/visit.js,134.122.129.173
+cs.xfdaili.com,Possible Cobalt Strike C2 Domain,/ga.js,103.116.247.207
+cs.xfdaili.com,Possible Cobalt Strike C2 Domain,/push,103.116.247.207
 d2zp39t2eezbsc.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,107.23.38.171
 d2zp39t2eezbsc.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,107.23.38.171
 d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h,137.184.237.252
@@ -313,7 +315,7 @@ goliathms.azureedge.net,Possible Cobalt Strike C2 Domain,/ldap.htm,52.235.59.107
 heicehjuisyq.bond,Possible Cobalt Strike C2 Domain,/OmentGET,109.199.108.92
 jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-2.8.4.min.js,4.158.105.167
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/ca,8.212.44.149
-js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/ca,8.212.49.116
+js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/visit.js,8.212.49.116
 jspassport.ssl.qhimg.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,74.48.19.146
 jspassport.ssl.qhimg.com.dsa.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,74.48.19.146
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain,/api/3,101.35.198.64

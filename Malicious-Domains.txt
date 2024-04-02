@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-01 20:59:58 UTC                        #
+# Last updated: 2024-04-02 08:03:16 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bind.bestresulttostart.com
+127.0.0.1	cs.xfdaili.com
 127.0.0.1	lesserafine.site
 127.0.0.1	umo3uuoo57.execute-api.us-east-1.amazonaws.com
 127.0.0.1	api.updateservices.org
@@ -14855,21 +14857,4 @@
 127.0.0.1	globalbaido.site
 127.0.0.1	www.taxresource-strategy.org
 127.0.0.1	yakiguj.co
-127.0.0.1	mynoisestory.com
-127.0.0.1	lastmorgoth.com
-127.0.0.1	t1.misu.se
-127.0.0.1	klndrahb.duckdns.org
-127.0.0.1	web.danger.net
-127.0.0.1	adl-hsh.faqserv.com
-127.0.0.1	adl-sahm.vizvaz.com
-127.0.0.1	ed-rs.vizvaz.com
-127.0.0.1	saham-gh.faqserv.com
-127.0.0.1	adl-q.faqserv.com
-127.0.0.1	adl-q.vizvaz.com
-127.0.0.1	ed-cs.vizvaz.com
-127.0.0.1	adl-qq.vizvaz.com
-127.0.0.1	sahmn-b.vizvaz.com
-127.0.0.1	adl-e.vizvaz.com
-127.0.0.1	mestorycallin.com
-127.0.0.1	www.connecteds.online
-# Number of entries: 14866
+# Number of entries: 14851
