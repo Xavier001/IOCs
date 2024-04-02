@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-02 08:03:16 UTC                        #
+# Last updated: 2024-04-02 18:28:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	galvaoministerio.com
+127.0.0.1	brigadafraternidade.com
+127.0.0.1	twiceoohah.uk
+127.0.0.1	healitytherapy.xyz
+127.0.0.1	trembolone.duckdns.org
 127.0.0.1	bind.bestresulttostart.com
 127.0.0.1	cs.xfdaili.com
 127.0.0.1	lesserafine.site
@@ -14825,36 +14830,4 @@
 127.0.0.1	titus.casacam.net
 127.0.0.1	zikrammo.tech
 127.0.0.1	cry.nulling.to
-127.0.0.1	lolibong.xyz
-127.0.0.1	jerryposter.com
-127.0.0.1	jkbarmossen.com
-127.0.0.1	hofsaalos.com
-127.0.0.1	fliskmanon.com
-127.0.0.1	hellowwwday.co
-127.0.0.1	everynght.org
-127.0.0.1	evinakortu.com
-127.0.0.1	fanclubsdcomics.com
-127.0.0.1	borkatrostys.com
-127.0.0.1	baskamioitali.com
-127.0.0.1	bronxadoskep.com
-127.0.0.1	aeloderton.com
-127.0.0.1	alomegodarks.com
-127.0.0.1	cfgy8uj.click
-127.0.0.1	mintatrizza.com
-127.0.0.1	nbastione.org
-127.0.0.1	ed-ird.vizvaz.com
-127.0.0.1	sa-de.vizvaz.com
-127.0.0.1	sa-da.vizvaz.com
-127.0.0.1	ed-sa.vizvaz.com
-127.0.0.1	ed-ra.vizvaz.com
-127.0.0.1	ed-dl.vizvaz.com
-127.0.0.1	ed-rd.otzo.com
-127.0.0.1	ed-sd.vizvaz.com
-127.0.0.1	d2p814x3j1exqz.cloudfront.net
-127.0.0.1	shoeapi.azureedge.net
-127.0.0.1	cdnet-web.com
-127.0.0.1	appreciation-hub.azureedge.net
-127.0.0.1	globalbaido.site
-127.0.0.1	www.taxresource-strategy.org
-127.0.0.1	yakiguj.co
-# Number of entries: 14851
+# Number of entries: 14824
