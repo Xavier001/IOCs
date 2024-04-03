@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-03 10:23:03 UTC                        #
+# Last updated: 2024-04-03 15:34:19 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	healitytherapy.pro
+127.0.0.1	service-qwflcy7c-1305872204.gz.tencentapigw.com.cn
 127.0.0.1	service-kjjaddjc-1309114380.gz.tencentapigw.com.cn
 127.0.0.1	drive-east-us-fahybddhebhxejbb.z02.azurefd.net
 127.0.0.1	service-n14rot1h-1303081427.sh.tencentapigw.com
@@ -14808,30 +14810,4 @@
 127.0.0.1	onlinesalesjerek.com
 127.0.0.1	herbolikcsoonstreedj.com
 127.0.0.1	greadeaoptimalle.com
-127.0.0.1	rakishev.net
-127.0.0.1	pro.gamorastudio.com
-127.0.0.1	gazeraftop.com
-127.0.0.1	joekairbos.com
-127.0.0.1	trizdriama.com
-127.0.0.1	adl-1.faqserv.com
-127.0.0.1	sahmn.duia.ro
-127.0.0.1	ed-fr.vizvaz.com
-127.0.0.1	adl-iri.vizvaz.com
-127.0.0.1	bame.my03.com
-127.0.0.1	saham.duia.us
-127.0.0.1	adl-irn.mynetav.org
-127.0.0.1	adliran.duia.ro
-127.0.0.1	sexu.duia.us
-127.0.0.1	adlirn.faqserv.com
-127.0.0.1	adl-irnh.fartit.com
-127.0.0.1	adl-saham.faqserv.com
-127.0.0.1	adlkj.vizvaz.com
-127.0.0.1	adl-il.vizvaz.com
-127.0.0.1	adl.duia.ro
-127.0.0.1	bam-meli.my03.com
-127.0.0.1	adl-sahm.faqserv.com
-127.0.0.1	ed-sb.vizvaz.com
-127.0.0.1	adlhh.fartit.com
-127.0.0.1	abk.toh.info
-127.0.0.1	qdl-inm.faqserv.com
-# Number of entries: 14828
+# Number of entries: 14804
