@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-02 18:28:24 UTC                        #
+# Last updated: 2024-04-03 08:12:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	service-n14rot1h-1303081427.sh.tencentapigw.com
+127.0.0.1	chu-healthcare-infra.org
+127.0.0.1	comigoninguempodes.shop
+127.0.0.1	limpandoacasa.store
+127.0.0.1	saldaolegal.shop
+127.0.0.1	cinemaeuquero.cloud
+127.0.0.1	31yc.com
 127.0.0.1	galvaoministerio.com
 127.0.0.1	brigadafraternidade.com
 127.0.0.1	twiceoohah.uk
@@ -14827,7 +14834,4 @@
 127.0.0.1	qdl-inm.faqserv.com
 127.0.0.1	ns4.hardlims.com
 127.0.0.1	ns3.hardlims.com
-127.0.0.1	titus.casacam.net
-127.0.0.1	zikrammo.tech
-127.0.0.1	cry.nulling.to
-# Number of entries: 14824
+# Number of entries: 14828
