@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-03 15:34:19 UTC                        #
+# Last updated: 2024-04-04 06:29:37 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	chu-healthcare-infra.org
 127.0.0.1	healitytherapy.pro
 127.0.0.1	service-qwflcy7c-1305872204.gz.tencentapigw.com.cn
 127.0.0.1	service-kjjaddjc-1309114380.gz.tencentapigw.com.cn
@@ -14799,9 +14800,4 @@
 127.0.0.1	getldrrgoodgame.com
 127.0.0.1	cncdevelopment.boo
 127.0.0.1	poituox.fr
-127.0.0.1	backupcraft.ddns.net
-127.0.0.1	supercraft123.serveminecraft.net
-127.0.0.1	mynameissupp.site
-127.0.0.1	amazonascash.com
-127.0.0.1	content.garretttrails.org
-# Number of entries: 14798
+# Number of entries: 14794
