@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-04 06:29:37 UTC                        #
+# Last updated: 2024-04-04 16:03:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	lesserafimeasy.site
+127.0.0.1	nt-stealer.com
+127.0.0.1	nt-stealer.online
+127.0.0.1	bbystealer.com.tr
+127.0.0.1	nt-stealer.xyz
+127.0.0.1	bbystealer.online
+127.0.0.1	bbystealer.com
+127.0.0.1	bbystealer.xyz
+127.0.0.1	ipv6.beijing-qax.top
+127.0.0.1	canarapay-f5agf9ccgteqbpg2.z03.azurefd.net
 127.0.0.1	chu-healthcare-infra.org
 127.0.0.1	healitytherapy.pro
 127.0.0.1	service-qwflcy7c-1305872204.gz.tencentapigw.com.cn
@@ -14777,26 +14787,4 @@
 127.0.0.1	superrrdental.com
 127.0.0.1	public.clickstat360.com
 127.0.0.1	nxdtr.tk
-127.0.0.1	father.eatdeliciousfood.com
-127.0.0.1	game.server.redlan.it
-127.0.0.1	freepics.server.redlan.it
-127.0.0.1	profiles.server.redlan.it
-127.0.0.1	adl-c.fartit.com
-127.0.0.1	adl-mm.fartit.com
-127.0.0.1	sa-db.vizvaz.com
-127.0.0.1	adl-aq.mrface.com
-127.0.0.1	ry.wwwhost.biz
-127.0.0.1	bame.vizvaz.com
-127.0.0.1	ed-sr.vizvaz.com
-127.0.0.1	ed-rt.fartit.com
-127.0.0.1	adl-cc.faqserv.com
-127.0.0.1	evesaed.site
-127.0.0.1	adl-sah.mynetav.org
-127.0.0.1	adl-ff.fartit.com
-127.0.0.1	adl-jv.my03.com
-127.0.0.1	adl-qq.my03.com
-127.0.0.1	shamdi.cfd
-127.0.0.1	edlat.shamdi.cfd
-127.0.0.1	getldrrgoodgame.com
-127.0.0.1	cncdevelopment.boo
-# Number of entries: 14793
+# Number of entries: 14781
