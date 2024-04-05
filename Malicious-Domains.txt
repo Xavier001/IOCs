@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-04 16:03:09 UTC                        #
+# Last updated: 2024-04-04 22:17:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	oraclecloudsig.com
 127.0.0.1	lesserafimeasy.site
 127.0.0.1	nt-stealer.com
 127.0.0.1	nt-stealer.online
@@ -14787,4 +14788,4 @@
 127.0.0.1	superrrdental.com
 127.0.0.1	public.clickstat360.com
 127.0.0.1	nxdtr.tk
-# Number of entries: 14781
+# Number of entries: 14782
