@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-05 08:30:57 UTC                        #
+# Last updated: 2024-04-05 20:45:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dcnlaleanae8.com
+127.0.0.1	dcnlaleanae9.com
+127.0.0.1	promesasalvaro1.duckdns.org
+127.0.0.1	jyiikm.xyz
 127.0.0.1	update.winservers-network.com
 127.0.0.1	platformforcreateinterest.com
 127.0.0.1	cdnforbusiness.com
@@ -14781,18 +14785,4 @@
 127.0.0.1	sahame.symen.ir
 127.0.0.1	symen.ir
 127.0.0.1	nmbvcxzasedrt.com
-127.0.0.1	remote.mynameisking.site
-127.0.0.1	mynameisking.site
-127.0.0.1	tc.icnsh.pro
-127.0.0.1	icnsh.pro
-127.0.0.1	remote.mynameissheykh.site
-127.0.0.1	mynameissheykh.site
-127.0.0.1	sahamedalat.seatech.ir
-127.0.0.1	seatech.ir
-127.0.0.1	remote.mynameismamad.site
-127.0.0.1	mynameismamad.site
-127.0.0.1	orthodentrics.com
-127.0.0.1	oloplentex.com
-127.0.0.1	loan.huddlemarketinsights.com
-127.0.0.1	superrrdental.com
-# Number of entries: 14789
+# Number of entries: 14779
