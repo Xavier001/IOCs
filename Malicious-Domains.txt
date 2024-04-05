@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-04 22:17:30 UTC                        #
+# Last updated: 2024-04-05 08:30:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	update.winservers-network.com
+127.0.0.1	platformforcreateinterest.com
+127.0.0.1	cdnforbusiness.com
+127.0.0.1	creationofprogress.com
+127.0.0.1	fastestfreecdn.com
+127.0.0.1	bestofthebesttraining.com
+127.0.0.1	newnano-shel.duckdns.org
+127.0.0.1	kingjoker420.ddnsking.com
+127.0.0.1	njpantalla.4cloud.click
 127.0.0.1	oraclecloudsig.com
 127.0.0.1	lesserafimeasy.site
 127.0.0.1	nt-stealer.com
@@ -14787,5 +14796,4 @@
 127.0.0.1	loan.huddlemarketinsights.com
 127.0.0.1	superrrdental.com
 127.0.0.1	public.clickstat360.com
-127.0.0.1	nxdtr.tk
-# Number of entries: 14782
+# Number of entries: 14790
