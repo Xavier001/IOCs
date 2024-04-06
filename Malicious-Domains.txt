@@ -14774,7 +14774,4 @@
 127.0.0.1	goodpanel.ncpanel.xyz
 127.0.0.1	ncpanel.xyz
 127.0.0.1	babyeona.cc
-127.0.0.1	cache.thorjane.com
-127.0.0.1	fgudhiiugiufgifufgihdhuidfxgd.duckdns.org
-127.0.0.1	wsexdrcftgyy191.com
-# Number of entries: 14771
+# Number of entries: 14768
