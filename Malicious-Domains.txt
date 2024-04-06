@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-06 08:10:08 UTC                        #
+# Last updated: 2024-04-06 12:02:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	altaskifer.sbs
+127.0.0.1	ezz.ust.cx
 127.0.0.1	nodejsmysql.com
 127.0.0.1	i.xlei.cc
 127.0.0.1	asegurar1s.duckdns.org
@@ -14775,10 +14777,4 @@
 127.0.0.1	cache.thorjane.com
 127.0.0.1	fgudhiiugiufgifufgihdhuidfxgd.duckdns.org
 127.0.0.1	wsexdrcftgyy191.com
-127.0.0.1	service-n0tf95ic-1305872204.gz.apigw.tencentcs.com
-127.0.0.1	d2cpd93ebiah9g.cloudfront.net
-127.0.0.1	pbfenergy.azurewebsites.net
-127.0.0.1	acornservices.org
-127.0.0.1	helloone.accountants.monster
-127.0.0.1	upcls.online
-# Number of entries: 14775
+# Number of entries: 14771
