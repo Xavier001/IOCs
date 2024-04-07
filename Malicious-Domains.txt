@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-06 12:02:24 UTC                        #
+# Last updated: 2024-04-07 06:44:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wave-assistant.com
 127.0.0.1	altaskifer.sbs
 127.0.0.1	ezz.ust.cx
 127.0.0.1	nodejsmysql.com
@@ -14763,15 +14764,4 @@
 127.0.0.1	remote.mynameiszeus.site
 127.0.0.1	lmao.zelenskyj.ru
 127.0.0.1	mynameiszeus.site
-127.0.0.1	exchange.thestarl.com
-127.0.0.1	submit-data.com
-127.0.0.1	www.wlndows.net
-127.0.0.1	saham-b.skcarriages.com
-127.0.0.1	edalat-shan.com
-127.0.0.1	saham-cs.skcarriages.com
-127.0.0.1	sbijanr.xyz
-127.0.0.1	hamyar-mahak.site
-127.0.0.1	goodpanel.ncpanel.xyz
-127.0.0.1	ncpanel.xyz
-127.0.0.1	babyeona.cc
-# Number of entries: 14768
+# Number of entries: 14758
