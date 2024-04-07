@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-07 06:44:49 UTC                        #
+# Last updated: 2024-04-07 17:58:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cd.qqweixinzhuce.top
+127.0.0.1	marinion.online
+127.0.0.1	rooty.cc
+127.0.0.1	net-killer.ddns.net
+127.0.0.1	net-killer.ddns.net
+127.0.0.1	sex.secure-cyber-security-rebirthltd.su
+127.0.0.1	secure-network-rebirthltd.ru
 127.0.0.1	wave-assistant.com
 127.0.0.1	altaskifer.sbs
 127.0.0.1	ezz.ust.cx
@@ -14749,19 +14756,4 @@
 127.0.0.1	wxd5cxqklilifh0m4pv8tg.dekma-gay.ru
 127.0.0.1	service-lmc8vqi0-1321023074.gz.apigw.tencentcs.com
 127.0.0.1	vip22gr.ru
-127.0.0.1	calamity9.ddns.net
-127.0.0.1	horse4horse.ddns.net
-127.0.0.1	703a0668e1be.sn.mynetname.net
-127.0.0.1	enc.cdnjscripts.com
-127.0.0.1	scripts.cdnjscripts.com
-127.0.0.1	code.cdnjscripts.com
-127.0.0.1	saham-vn.skcarriages.com
-127.0.0.1	saham-pa.skcarriages.com
-127.0.0.1	saham-d.skcarriages.com
-127.0.0.1	skcarriages.com
-127.0.0.1	sahamiru.hair
-127.0.0.1	ed.sahamiru.hair
-127.0.0.1	remote.mynameiszeus.site
-127.0.0.1	lmao.zelenskyj.ru
-127.0.0.1	mynameiszeus.site
-# Number of entries: 14758
+# Number of entries: 14750
