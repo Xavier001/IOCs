@@ -1,11 +1,45 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-08 10:24:46 UTC                        #
+# Last updated: 2024-04-08 16:10:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	kibagendi.org
+127.0.0.1	karmaandfate.com
+127.0.0.1	playfulyogi.org
+127.0.0.1	christmascookie.org
+127.0.0.1	salesoftskills.com
+127.0.0.1	whattotext.net
+127.0.0.1	beaulieuhome.com
+127.0.0.1	gteairfone.com
+127.0.0.1	pillowscrawler.xyz
+127.0.0.1	000111.org
+127.0.0.1	stodia.fun
+127.0.0.1	cytuns.xyz
+127.0.0.1	galvins.xyz
+127.0.0.1	disear.xyz
+127.0.0.1	yetties.xyz
+127.0.0.1	zopz-api.com
+127.0.0.1	nuclear.mom
+127.0.0.1	ninja-cnc.xyz
+127.0.0.1	poggo-proxy.lol
+127.0.0.1	cdnet-web.com
+127.0.0.1	leanc2.xyz
+127.0.0.1	poggo-proxy.online
+127.0.0.1	naucosi.cfd
+127.0.0.1	proxy-voidc2.xyz
+127.0.0.1	cumshot.vip
+127.0.0.1	nuclear.baby
+127.0.0.1	lydiari.mrbonus.com
+127.0.0.1	pf7.prsv.ch
+127.0.0.1	fuzzyproxy.cc
+127.0.0.1	tcpsyn.xyz
+127.0.0.1	tcpfin.xyz
+127.0.0.1	api.mypowerzip.com
+127.0.0.1	defender.us.org
+127.0.0.1	taek.cp-redteam.com
 127.0.0.1	peurnick24.bumbleshrimp.com
 127.0.0.1	packetinfo.com
 127.0.0.1	bot.ddosvps.cc
@@ -14745,26 +14779,4 @@
 127.0.0.1	cmakeapp.com
 127.0.0.1	boskajean.com
 127.0.0.1	cncdevelopment.org
-127.0.0.1	peersneaps.fun
-127.0.0.1	servkitchin.fun
-127.0.0.1	spreadbytile.fun
-127.0.0.1	teleportfilmona.online
-127.0.0.1	tellindeedcurt.fun
-127.0.0.1	thuspulllig.fun
-127.0.0.1	tipsydulljaui.website
-127.0.0.1	toastmastone.fun
-127.0.0.1	allcentrlizeqweq.fun
-127.0.0.1	archipelagocelly.fun
-127.0.0.1	blingaspireojhau.online
-127.0.0.1	bytecloudasa.website
-127.0.0.1	cameponceowa.site
-127.0.0.1	decorhighsa.pw
-127.0.0.1	destroyevensusp.fun
-127.0.0.1	feedsuudenli.fun
-127.0.0.1	hawsteamjoak.fun
-127.0.0.1	nursepridespan.fun
-127.0.0.1	paintpeasmou.fun
-127.0.0.1	paratositologis.fun
-127.0.0.1	wxd5cxqklilifh0m4pv8tg.dekma-gay.ru
-127.0.0.1	service-lmc8vqi0-1321023074.gz.apigw.tencentcs.com
-# Number of entries: 14761
+# Number of entries: 14773

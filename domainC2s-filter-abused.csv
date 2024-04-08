@@ -39,6 +39,7 @@ d3so0g2pxg0u5a.cloudfront.net,Possible Cobalt Strike C2 Domain
 d69b6834b7eb46fcb7bbcaa60f9f0f2d.apig.cn-east-3.huaweicloudapis.com,Possible Cobalt Strike C2 Domain
 d8g.lol,Possible Cobalt Strike C2 Domain
 d9msk9dy9tbnk.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain
+defender.us.org,Possible Cobalt Strike C2 Domain
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
@@ -50,7 +51,6 @@ dns.otxcarecosmetics.com,Possible Cobalt Strike C2 Domain
 dns.otxcosmeticscare.com,Possible Cobalt Strike C2 Domain
 dns.t0nger.com,Possible Cobalt Strike C2 Domain
 dns.trailcosolutions.com,Possible Cobalt Strike C2 Domain
-dnsswag.djn.blue,Possible Cobalt Strike C2 Domain
 dockerupdate.xyz,Possible Cobalt Strike C2 Domain
 download.localhost-microsoft.com,Possible Cobalt Strike C2 Domain
 download.updatebrowser.cn,Possible Cobalt Strike C2 Fronted Domain
@@ -115,7 +115,6 @@ nt3.227api.com,Possible Cobalt Strike C2 Domain
 ok.ppctech.xyz,Possible Cobalt Strike C2 Domain
 oraclecloudsig.com,Possible Cobalt Strike C2 Fronted Domain
 pak.update.nadra-pk.org,Possible Cobalt Strike C2 Domain
-po.vigorlabs.info,Possible PoshC2 Domain
 pycharm-edu.us,Possible Cobalt Strike C2 Domain
 qq.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain
 rdtest.static.hao123-wise.otp.baidu.com.cn,Possible Cobalt Strike C2 Fronting Domain
@@ -154,6 +153,7 @@ static.chat5188.top,Possible Cobalt Strike C2 Domain
 sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain
 su.urlz.ws,Possible Cobalt Strike C2 Domain
 summerevent2023.com,Possible Cobalt Strike C2 Domain
+taek.cp-redteam.com,Possible Cobalt Strike C2 Domain
 test.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain
 thursday.kfc4.icu,Possible Cobalt Strike C2 Fronting Domain
 umo3uuoo57.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Domain
