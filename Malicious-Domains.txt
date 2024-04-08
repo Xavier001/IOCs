@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-08 08:39:39 UTC                        #
+# Last updated: 2024-04-08 10:24:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	peurnick24.bumbleshrimp.com
 127.0.0.1	packetinfo.com
 127.0.0.1	bot.ddosvps.cc
 127.0.0.1	ddosvps.cc
@@ -14766,4 +14767,4 @@
 127.0.0.1	paratositologis.fun
 127.0.0.1	wxd5cxqklilifh0m4pv8tg.dekma-gay.ru
 127.0.0.1	service-lmc8vqi0-1321023074.gz.apigw.tencentcs.com
-# Number of entries: 14760
+# Number of entries: 14761
