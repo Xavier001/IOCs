@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-07 17:58:51 UTC                        #
+# Last updated: 2024-04-08 08:39:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	packetinfo.com
+127.0.0.1	bot.ddosvps.cc
+127.0.0.1	ddosvps.cc
+127.0.0.1	botnet.przsc.cn
+127.0.0.1	net.przsc.cn
+127.0.0.1	api.przsc.cn
+127.0.0.1	przsc.cn
+127.0.0.1	wcjwcj.lol
+127.0.0.1	irreceiver.com
+127.0.0.1	hk.luckyu.icu
+127.0.0.1	alipan.lol
 127.0.0.1	cd.qqweixinzhuce.top
 127.0.0.1	marinion.online
 127.0.0.1	rooty.cc
@@ -14755,5 +14766,4 @@
 127.0.0.1	paratositologis.fun
 127.0.0.1	wxd5cxqklilifh0m4pv8tg.dekma-gay.ru
 127.0.0.1	service-lmc8vqi0-1321023074.gz.apigw.tencentcs.com
-127.0.0.1	vip22gr.ru
-# Number of entries: 14750
+# Number of entries: 14760
