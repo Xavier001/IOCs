@@ -332,7 +332,7 @@ ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,100.2
 ns1.aliyunn.com.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,121.43.55.149
 ns1.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.5.1.slim.min.js,167.179.84.218
 ns1.crnbchina.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.242.37.176
-ns1.dice1018.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.181.70.201
+ns1.dice1018.top,Possible Cobalt Strike C2 Domain,/quint/1.9.0/qunit.js,38.181.70.201
 ns1.googletagmauager.com,Possible Cobalt Strike C2 Domain,/js/jquery-3.3.1.min.js,146.70.113.136
 ns1.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/ptj,134.122.129.173
 ns1.vip404.eu.org,Possible Cobalt Strike C2 Domain,/updates.rss,114.115.157.144
@@ -342,7 +342,7 @@ ns2.0-2.pw,Possible Cobalt Strike C2 Domain,/__utm.gif,178.128.229.91
 ns2.aliyunn.com.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,121.43.55.149
 ns2.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.5.1.slim.min.js,167.179.84.218
 ns2.crnbchina.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.242.37.176
-ns2.dice1018.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.181.70.201
+ns2.dice1018.top,Possible Cobalt Strike C2 Domain,/quint/1.9.0/qunit.js,38.181.70.201
 ns2.googletagmauager.com,Possible Cobalt Strike C2 Domain,/js/jquery-3.3.1.min.js,146.70.113.136
 ns2.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/__utm.gif,134.122.129.173
 ns2.vip404.eu.org,Possible Cobalt Strike C2 Domain,/cx,114.115.157.144

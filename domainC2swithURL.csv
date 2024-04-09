@@ -94,7 +94,7 @@ ns1.akingump.cloud,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 ns1.aliyunn.com.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.5.1.slim.min.js
 ns1.crnbchina.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-ns1.dice1018.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+ns1.dice1018.top,Possible Cobalt Strike C2 Domain,/quint/1.9.0/qunit.js
 ns1.googletagmauager.com,Possible Cobalt Strike C2 Domain,/js/jquery-3.3.1.min.js
 ns1.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/ptj
 ns1.vip404.eu.org,Possible Cobalt Strike C2 Domain,/updates.rss
@@ -104,7 +104,7 @@ ns2.0-2.pw,Possible Cobalt Strike C2 Domain,/__utm.gif
 ns2.aliyunn.com.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns2.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.5.1.slim.min.js
 ns2.crnbchina.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-ns2.dice1018.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+ns2.dice1018.top,Possible Cobalt Strike C2 Domain,/quint/1.9.0/qunit.js
 ns2.googletagmauager.com,Possible Cobalt Strike C2 Domain,/js/jquery-3.3.1.min.js
 ns2.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/__utm.gif
 ns2.vip404.eu.org,Possible Cobalt Strike C2 Domain,/cx
