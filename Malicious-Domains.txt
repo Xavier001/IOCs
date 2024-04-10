@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-09 18:17:05 UTC                        #
+# Last updated: 2024-04-10 02:55:34 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	boom.baiduboomboom.tk
 127.0.0.1	vchaonlyone.com
 127.0.0.1	senpalia.org
 127.0.0.1	tencentweb.online
@@ -14438,4 +14439,4 @@
 127.0.0.1	thefortivpn.com
 127.0.0.1	trondisaup.com
 127.0.0.1	transautomanf.com
-# Number of entries: 14432
+# Number of entries: 14433
