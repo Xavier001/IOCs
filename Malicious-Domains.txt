@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-10 07:59:32 UTC                        #
+# Last updated: 2024-04-10 10:32:37 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dsbr.cam
+127.0.0.1	jswl.vipsf888.com
 127.0.0.1	emv1.ib-comm-gateway.com
 127.0.0.1	zhudaji.com
 127.0.0.1	rubiconviewer.buzz
@@ -14437,5 +14439,4 @@
 127.0.0.1	betradingway.com
 127.0.0.1	goto.betradingway.com
 127.0.0.1	startup.betradingway.com
-127.0.0.1	prestige-castom.com
-# Number of entries: 14432
+# Number of entries: 14433
