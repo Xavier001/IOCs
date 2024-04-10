@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-10 02:55:34 UTC                        #
+# Last updated: 2024-04-10 07:59:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	emv1.ib-comm-gateway.com
+127.0.0.1	zhudaji.com
+127.0.0.1	rubiconviewer.buzz
+127.0.0.1	hatsune.network
+127.0.0.1	int.hatsune.network
+127.0.0.1	kuailianv.com
+127.0.0.1	winarkamaps.com
+127.0.0.1	stratimasesstr.com
 127.0.0.1	boom.baiduboomboom.tk
 127.0.0.1	vchaonlyone.com
 127.0.0.1	senpalia.org
@@ -14430,13 +14438,4 @@
 127.0.0.1	goto.betradingway.com
 127.0.0.1	startup.betradingway.com
 127.0.0.1	prestige-castom.com
-127.0.0.1	prestigiousdentistry.com
-127.0.0.1	41delicious.aquariusso.ru
-127.0.0.1	aquariusso.ru
-127.0.0.1	prestigiousdentistry.com
-127.0.0.1	fredlomberhfile.com
-127.0.0.1	cdn-ext.net
-127.0.0.1	thefortivpn.com
-127.0.0.1	trondisaup.com
-127.0.0.1	transautomanf.com
-# Number of entries: 14433
+# Number of entries: 14432
