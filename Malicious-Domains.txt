@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-10 10:32:37 UTC                        #
+# Last updated: 2024-04-10 15:05:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.microsoftonline.info
+127.0.0.1	7b7cd24ea6f08b711cf4053beac43cc5.melonhack.top
+127.0.0.1	baidu.freemetb.top
+127.0.0.1	ns1.fdsagwagfdsba.xyz
 127.0.0.1	dsbr.cam
 127.0.0.1	jswl.vipsf888.com
 127.0.0.1	emv1.ib-comm-gateway.com
@@ -14424,19 +14428,4 @@
 127.0.0.1	api.cert-ex.net
 127.0.0.1	carepassmedservices.com
 127.0.0.1	tysers-evadc4f2eaa4a5fs.z01.azurefd.net
-127.0.0.1	cc.cert-ex.net
-127.0.0.1	deimosc2.com
-127.0.0.1	ag.run
-127.0.0.1	etcs.ydzh.ltd
-127.0.0.1	nebularemote.ydzh.ltd
-127.0.0.1	67.234.146.34.bc.googleusercontent.com
-127.0.0.1	etapi.ydzh.ltd
-127.0.0.1	host-5.180.106.151.saga.net.tr
-127.0.0.1	151.164.197.35.bc.googleusercontent.com
-127.0.0.1	cs.h1ll0.cs.in
-127.0.0.1	vintagecarsforlife.com
-127.0.0.1	service-q79zqijz-1259125056.bj.apigw.tencentcs.com
-127.0.0.1	betradingway.com
-127.0.0.1	goto.betradingway.com
-127.0.0.1	startup.betradingway.com
-# Number of entries: 14433
+# Number of entries: 14422
