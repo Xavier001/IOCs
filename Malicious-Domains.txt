@@ -14414,5 +14414,4 @@
 127.0.0.1	enc.jsdel1vr.com
 127.0.0.1	scripts.jsdel1vr.com
 127.0.0.1	code.jsdel1vr.com
-127.0.0.1	push-gnb.azureedge.net
-# Number of entries: 14409
+# Number of entries: 14408
