@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-11 06:08:18 UTC                        #
+# Last updated: 2024-04-11 15:06:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	estesidiosplat.duckdns.org
+127.0.0.1	liverpool777.duckdns.org
 127.0.0.1	wassonite.com
 127.0.0.1	puttyy.ca
 127.0.0.1	pputy.com
@@ -14371,47 +14373,4 @@
 127.0.0.1	www.rakishevkenes.com
 127.0.0.1	e2e-dbaas-mongodb-xsc6d-be1f65a1.mongo.ondigitalocean.com
 127.0.0.1	larrymarket.com
-127.0.0.1	air-canadaa.com
-127.0.0.1	ns2.623866.xyz
-127.0.0.1	ns1.623866.xyz
-127.0.0.1	service-qsbfdyq7-1318430534.sh.apigw.tencentcs.com
-127.0.0.1	egogol.top
-127.0.0.1	soydet.top
-127.0.0.1	toppe.top
-127.0.0.1	tak.soydet.top
-127.0.0.1	top.toppe.top
-127.0.0.1	spf.lemeridie-fiji.com
-127.0.0.1	reward.itipit.com
-127.0.0.1	ns2.baidu-cdn.cloud
-127.0.0.1	ns1.baidu-cdn.cloud
-127.0.0.1	file.baidu-cdn.cloud
-127.0.0.1	pointsdomer.com
-127.0.0.1	gertretans.com
-127.0.0.1	eugelens.com
-127.0.0.1	utphenter.com
-127.0.0.1	wiinvestmentsmart.com
-127.0.0.1	investmentlineup.com
-127.0.0.1	starupsysteme.com
-127.0.0.1	utefu6gkhb.com
-127.0.0.1	gertaret.com
-127.0.0.1	piret-wismann.com
-127.0.0.1	prestige-castom.com
-127.0.0.1	trewisdert.com
-127.0.0.1	wilenters.com
-127.0.0.1	eugelens.com
-127.0.0.1	saham-w.itsaol.com
-127.0.0.1	asaham.itsaol.com
-127.0.0.1	uran-adl.fartit.com
-127.0.0.1	adl-sa.fartit.com
-127.0.0.1	adlh-sn.fartit.com
-127.0.0.1	adloi.mrbasic.com
-127.0.0.1	adl-ur.itsaol.com
-127.0.0.1	adl-irn.itsaol.com
-127.0.0.1	adir.faqserv.com
-127.0.0.1	adl-irna.fartit.com
-127.0.0.1	adk-iran.mrface.com
-127.0.0.1	www.jsdel1vr.com
-127.0.0.1	enc.jsdel1vr.com
-127.0.0.1	scripts.jsdel1vr.com
-127.0.0.1	code.jsdel1vr.com
-# Number of entries: 14408
+# Number of entries: 14367
