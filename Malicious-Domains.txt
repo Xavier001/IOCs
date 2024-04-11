@@ -14425,7 +14425,4 @@
 127.0.0.1	sahamw.itsaol.com
 127.0.0.1	scismmw.com
 127.0.0.1	noo.egogol.top
-127.0.0.1	api.cert-ex.net
-127.0.0.1	carepassmedservices.com
-127.0.0.1	tysers-evadc4f2eaa4a5fs.z01.azurefd.net
-# Number of entries: 14422
+# Number of entries: 14419
