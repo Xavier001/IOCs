@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-11 15:06:43 UTC                        #
+# Last updated: 2024-04-11 16:34:26 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wpseed.com
 127.0.0.1	estesidiosplat.duckdns.org
 127.0.0.1	liverpool777.duckdns.org
 127.0.0.1	wassonite.com
@@ -14337,38 +14338,4 @@
 127.0.0.1	dhlmissed.com
 127.0.0.1	www.siriusxm.online
 127.0.0.1	cmtscbt.bsnl.wiki
-127.0.0.1	bakedmatela.fun
-127.0.0.1	cystnovor.fun
-127.0.0.1	feathspacesaf.fun
-127.0.0.1	fiancejiveimp.fun
-127.0.0.1	hovelpubtrav.fun
-127.0.0.1	manguvorpmi.pw
-127.0.0.1	oxygendwelli.fun
-127.0.0.1	pedigreeprotone.fun
-127.0.0.1	statehaller.fun
-127.0.0.1	darkie.org
-127.0.0.1	lmao.boutique
-127.0.0.1	10.2026.life
-127.0.0.1	3.2026.life
-127.0.0.1	signalknockrio.site
-127.0.0.1	sdjfnvnbbz.pw
-127.0.0.1	vntricker.abcxzy.com
-127.0.0.1	abcxzy.com
-127.0.0.1	vn.abcxzy.com
-127.0.0.1	msktk.ru
-127.0.0.1	soetegem.com
-127.0.0.1	talesofpirates.net
-127.0.0.1	wirtshauspost.at
-127.0.0.1	gromograd.ru
-127.0.0.1	servermlogs27.xyz
-127.0.0.1	servmblog45.xyz
-127.0.0.1	admlogs85x.xyz
-127.0.0.1	blogmstat255.xyz
-127.0.0.1	blogmstat389.xyz
-127.0.0.1	demblog575.xyz
-127.0.0.1	kenesrakishev.net
-127.0.0.1	bax.eliyahost.ir
-127.0.0.1	eliyahost.ir
-127.0.0.1	rakishevkenes.com
-127.0.0.1	www.rakishevkenes.com
-# Number of entries: 14365
+# Number of entries: 14332
