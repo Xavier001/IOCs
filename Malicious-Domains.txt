@@ -14371,6 +14371,4 @@
 127.0.0.1	eliyahost.ir
 127.0.0.1	rakishevkenes.com
 127.0.0.1	www.rakishevkenes.com
-127.0.0.1	e2e-dbaas-mongodb-xsc6d-be1f65a1.mongo.ondigitalocean.com
-127.0.0.1	larrymarket.com
-# Number of entries: 14367
+# Number of entries: 14365
