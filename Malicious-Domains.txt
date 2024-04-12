@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-11 16:34:26 UTC                        #
+# Last updated: 2024-04-12 11:49:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nebraska-lawyers.com
+127.0.0.1	antfinancial.tech
 127.0.0.1	wpseed.com
 127.0.0.1	estesidiosplat.duckdns.org
 127.0.0.1	liverpool777.duckdns.org
@@ -14336,6 +14338,4 @@
 127.0.0.1	hta4lyfeohyea.duckdns.org
 127.0.0.1	frankmullers.duckdns.org
 127.0.0.1	dhlmissed.com
-127.0.0.1	www.siriusxm.online
-127.0.0.1	cmtscbt.bsnl.wiki
 # Number of entries: 14332
