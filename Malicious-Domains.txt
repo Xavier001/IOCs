@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-12 11:49:46 UTC                        #
+# Last updated: 2024-04-12 12:52:15 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	yourserenahelpcustom.uk
 127.0.0.1	nebraska-lawyers.com
 127.0.0.1	antfinancial.tech
 127.0.0.1	wpseed.com
@@ -14328,14 +14329,4 @@
 127.0.0.1	www.xss.mba
 127.0.0.1	cambiardinero.com
 127.0.0.1	hgfdytrywq.com
-127.0.0.1	en.voice-ai.store
-127.0.0.1	aaronestebancoaching.com
-127.0.0.1	voiceai.aaronestebancoaching.com
-127.0.0.1	chromiumtxt.space
-127.0.0.1	192-53-171-76.ip.linodeusercontent.com
-127.0.0.1	fotexion.com
-127.0.0.1	usacupid.org
-127.0.0.1	hta4lyfeohyea.duckdns.org
-127.0.0.1	frankmullers.duckdns.org
-127.0.0.1	dhlmissed.com
-# Number of entries: 14332
+# Number of entries: 14323
