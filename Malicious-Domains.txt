@@ -14327,8 +14327,4 @@
 127.0.0.1	pepe-trust.online
 127.0.0.1	plus.hhhnee.top
 127.0.0.1	wapprod.stellantis-service.com
-127.0.0.1	whoernet.co.com
-127.0.0.1	mycomeone.net
-127.0.0.1	drententech.net
-127.0.0.1	www.xss.mba
-# Number of entries: 14325
+# Number of entries: 14321
