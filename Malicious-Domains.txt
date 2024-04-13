@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-12 12:52:15 UTC                        #
+# Last updated: 2024-04-13 08:35:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	qingfengddos.x3322.net
+127.0.0.1	mcnodes.zapto.org
+127.0.0.1	samsunguniverse.com
+127.0.0.1	auyametemplanza.duckdns.org
 127.0.0.1	yourserenahelpcustom.uk
 127.0.0.1	nebraska-lawyers.com
 127.0.0.1	antfinancial.tech
@@ -14327,6 +14331,4 @@
 127.0.0.1	mycomeone.net
 127.0.0.1	drententech.net
 127.0.0.1	www.xss.mba
-127.0.0.1	cambiardinero.com
-127.0.0.1	hgfdytrywq.com
-# Number of entries: 14323
+# Number of entries: 14325
