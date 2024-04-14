@@ -14176,5 +14176,4 @@
 127.0.0.1	casc.polytechit.org
 127.0.0.1	nc1.downsexv.com
 127.0.0.1	ns1.downsexv.com
-127.0.0.1	idpm.stellantis-invite.com
-# Number of entries: 14171
+# Number of entries: 14170
