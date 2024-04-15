@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-15 05:11:47 UTC                        #
+# Last updated: 2024-04-15 15:33:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sonic-gif.com
+127.0.0.1	sonic-gif3332.com
 127.0.0.1	bordersoarmanusjuw.shop
 127.0.0.1	entitlementappwo.shop
 127.0.0.1	economicscreateojsu.shop
@@ -14155,16 +14157,4 @@
 127.0.0.1	adl-sam.mrbasic.com
 127.0.0.1	iran-as.fartit.com
 127.0.0.1	golds-touch.com
-127.0.0.1	ns3.ga0.co
-127.0.0.1	ns2.ga0.co
-127.0.0.1	ns1.ga0.co
-127.0.0.1	nzul13-3-23.duckdns.org
-127.0.0.1	nzul13-3-23.duckdns.org
-127.0.0.1	1.tcp.sa.ngrok.io
-127.0.0.1	discord-gg.duckdns.org
-127.0.0.1	discord-gg.duckdns.org
-127.0.0.1	updater-discord.duckdns.org
-127.0.0.1	estreno1-caso.duckdns.org
-127.0.0.1	discord-gg.duckdns.org
-127.0.0.1	discord-gg.duckdns.org
-# Number of entries: 14161
+# Number of entries: 14151
