@@ -14167,7 +14167,4 @@
 127.0.0.1	estreno1-caso.duckdns.org
 127.0.0.1	discord-gg.duckdns.org
 127.0.0.1	discord-gg.duckdns.org
-127.0.0.1	bismillahsolutions.com
-127.0.0.1	comeonlogistics.com
-127.0.0.1	service-iord9vog-1317136909.gz.apigw.tencentcs.com
-# Number of entries: 14164
+# Number of entries: 14161
