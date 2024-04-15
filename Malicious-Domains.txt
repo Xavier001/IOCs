@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-14 11:32:02 UTC                        #
+# Last updated: 2024-04-15 05:11:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bordersoarmanusjuw.shop
+127.0.0.1	entitlementappwo.shop
+127.0.0.1	economicscreateojsu.shop
+127.0.0.1	pushjellysingeywus.shop
+127.0.0.1	absentconvicsjawun.shop
+127.0.0.1	suitcaseacanehalk.shop
+127.0.0.1	mealplayerpreceodsju.shop
+127.0.0.1	wifeplasterbakewis.shop
 127.0.0.1	salaamt.top
 127.0.0.1	mzile.com
 127.0.0.1	inspirestudiosteam.com
@@ -14162,18 +14170,4 @@
 127.0.0.1	bismillahsolutions.com
 127.0.0.1	comeonlogistics.com
 127.0.0.1	service-iord9vog-1317136909.gz.apigw.tencentcs.com
-127.0.0.1	www.edittns.com
-127.0.0.1	www.iii-service.com
-127.0.0.1	service-euf0eusq-1317136909.gz.apigw.tencentcs.com
-127.0.0.1	www.micorsoft.pro
-127.0.0.1	service-00o1njdx-1317238936.sh.apigw.tencentcs.com
-127.0.0.1	www.consumershop.lenovo.com.cn.d4e97cc6.cdnhwcggk22.com
-127.0.0.1	service-gw6u6362-1318524606.gz.apigw.tencentcs.com
-127.0.0.1	a.verbinding-voor-cobalt.nl
-127.0.0.1	dc.sunsetwxllc.com
-127.0.0.1	ns2.jieinchangan.cn
-127.0.0.1	ns1.jieinchangan.cn
-127.0.0.1	casc.polytechit.org
-127.0.0.1	nc1.downsexv.com
-127.0.0.1	ns1.downsexv.com
-# Number of entries: 14170
+# Number of entries: 14164
