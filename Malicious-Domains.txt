@@ -14130,31 +14130,4 @@
 127.0.0.1	treeauwin.net
 127.0.0.1	steamteamdev.net
 127.0.0.1	audsystemecll.net
-127.0.0.1	adl-ljh.faqserv.com
-127.0.0.1	adl-itn.itsaol.com
-127.0.0.1	adl-oi.fartit.com
-127.0.0.1	iran-lah.mrface.com
-127.0.0.1	asf.mrbasic.com
-127.0.0.1	afs.faqserv.com
-127.0.0.1	adl-ap.faqserv.com
-127.0.0.1	adli-ir.mrface.com
-127.0.0.1	sahmnl.vizvaz.com
-127.0.0.1	adl-sam.itsaol.com
-127.0.0.1	sahamlj.fartit.com
-127.0.0.1	adl-io.vizvaz.com
-127.0.0.1	adl-ggs.vizvaz.com
-127.0.0.1	adl-zw.mrface.com
-127.0.0.1	adl-hg.faqserv.com
-127.0.0.1	afs.mrbasic.com
-127.0.0.1	dsa.faqserv.com
-127.0.0.1	adl-shd.mrface.com
-127.0.0.1	adl-irn.vizvaz.com
-127.0.0.1	saf.faqserv.com
-127.0.0.1	eds.mrbasic.com
-127.0.0.1	sahamiran.itsaol.com
-127.0.0.1	adl-nw.itsaol.com
-127.0.0.1	afli-ir.faqserv.com
-127.0.0.1	adl-sam.mrbasic.com
-127.0.0.1	iran-as.fartit.com
-127.0.0.1	golds-touch.com
-# Number of entries: 14151
+# Number of entries: 14124
