@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-15 15:33:32 UTC                        #
+# Last updated: 2024-04-16 07:18:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	artist-composed.gl.at.ply.gg
+127.0.0.1	tequilacofradiamx.com
+127.0.0.1	boatnet.dogzsec.org
+127.0.0.1	green-morrison.gl.at.ply.gg
 127.0.0.1	sonic-gif.com
 127.0.0.1	sonic-gif3332.com
 127.0.0.1	bordersoarmanusjuw.shop
@@ -14113,21 +14117,4 @@
 127.0.0.1	www.air-canadaa.com
 127.0.0.1	ed.saeara.rest
 127.0.0.1	saeara.rest
-127.0.0.1	service-ltwr9lk5-1319740527.sh.apigw.tencentcs.com
-127.0.0.1	airlinesapp.net
-127.0.0.1	service-7sl14ich-1321035809.sh.apigw.tencentcs.com
-127.0.0.1	mazagondoc.com
-127.0.0.1	komaru.awouig92p74y213fg54.top
-127.0.0.1	buzzybeet.net
-127.0.0.1	wellsystemte.net
-127.0.0.1	welausystem.net
-127.0.0.1	reelsysmoona.net
-127.0.0.1	investmendvisor.net
-127.0.0.1	clearsystemwo.net
-127.0.0.1	building4business.net
-127.0.0.1	startupbizaud.net
-127.0.0.1	mynewbee.net
-127.0.0.1	treeauwin.net
-127.0.0.1	steamteamdev.net
-127.0.0.1	audsystemecll.net
-# Number of entries: 14124
+# Number of entries: 14111
