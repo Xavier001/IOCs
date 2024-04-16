@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-16 07:18:43 UTC                        #
+# Last updated: 2024-04-16 12:07:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tue-jake.gl.at.ply.gg
+127.0.0.1	report-dust.gl.at.ply.gg
+127.0.0.1	service-lj3klqg6-1308639534.gz.tencentapigw.com.cn
+127.0.0.1	microsoft-net.com
 127.0.0.1	artist-composed.gl.at.ply.gg
 127.0.0.1	tequilacofradiamx.com
 127.0.0.1	boatnet.dogzsec.org
@@ -14115,6 +14119,4 @@
 127.0.0.1	azukielement.site
 127.0.0.1	www.search-online.workers.dev
 127.0.0.1	www.air-canadaa.com
-127.0.0.1	ed.saeara.rest
-127.0.0.1	saeara.rest
-# Number of entries: 14111
+# Number of entries: 14113

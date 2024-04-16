@@ -83,6 +83,7 @@ login.processus.network,Possible Cobalt Strike C2 Fronted Domain,/Collector/2.0/
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2,206.237.30.76
 m.old.gxjczx.gov.cn,Possible Cobalt Strike C2 Fronted Domain,/info,124.223.220.143
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1,125.128.113.108
+microsoft-net.com,Possible Cobalt Strike C2 Domain,/ki,101.99.75.132
 microsoftwindows.one,Possible Cobalt Strike C2 Domain,/api/3,124.70.140.36
 mpr23-421-c2.westus2.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/tip.php,20.120.177.99
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/updates.rss,8.212.44.149
@@ -135,6 +136,7 @@ service-d1yss7wi-1314780031.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Contact/v9.23/AODFY6X8UV,142.93.2.25
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,43.138.20.107
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,123.207.51.53
+service-lj3klqg6-1308639534.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/getit,111.230.25.167
 service-pgxnje5g-1307231181.gz.tencentapigw.com,Possible Cobalt Strike C2 Domain,/pixel.gif,1.15.189.30
 service-ps16whvt-1304800271.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x,122.51.7.163
 service-qwflcy7c-1305872204.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/bootstrap-5.3.1.min.js,124.223.52.82
@@ -142,7 +144,6 @@ service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 shop.amazon-aws.fr,Possible Cobalt Strike C2 Domain,/visit.js,87.98.228.243
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,85.175.101.203
 static.chat5188.top,Possible Cobalt Strike C2 Domain,/api/v3/s25FogL,47.243.108.86
-sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain,/image/,111.229.187.190
 summerevent2023.com,Possible Cobalt Strike C2 Domain,/tip.php,20.120.177.99
 test.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php,43.153.228.97
 thursday.kfc4.icu,Possible Cobalt Strike C2 Fronting Domain,/0RZDKXR/ADGJJ4B3VRSPAV9KC3MXI80OFD.css,8.222.154.119
