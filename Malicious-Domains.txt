@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-16 12:07:59 UTC                        #
+# Last updated: 2024-04-16 17:22:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	camps.topgunnbaseball.com
+127.0.0.1	b.doxbin.top
+127.0.0.1	returns-vary.gl.at.ply.gg
 127.0.0.1	tue-jake.gl.at.ply.gg
 127.0.0.1	report-dust.gl.at.ply.gg
 127.0.0.1	service-lj3klqg6-1308639534.gz.tencentapigw.com.cn
@@ -14097,26 +14100,4 @@
 127.0.0.1	kaminnekretninemail.com
 127.0.0.1	saerveradf.lol
 127.0.0.1	alrma.lat
-127.0.0.1	ns.b1ing.com
-127.0.0.1	ns2.micorsoft.pro
-127.0.0.1	ns1.micorsoft.pro
-127.0.0.1	mail-mofagovpk.servehalflife.com
-127.0.0.1	mail-mofagovpk.serveirc.com
-127.0.0.1	mail-pmogovpk.servehttp.com
-127.0.0.1	ntc-govpk.servehttp.com
-127.0.0.1	ntdc-govpk.viewdns.net
-127.0.0.1	sharepakistanmofa.servehttp.com
-127.0.0.1	vibe-ptclnetpk.servehalflife.com
-127.0.0.1	complaints-ntcgovpk.viewdns.net
-127.0.0.1	mail-mofagovpk.viewdns.net
-127.0.0.1	cloud-ptclnetpk.servehttp.com
-127.0.0.1	29122021.sytes.net
-127.0.0.1	seedkraproboy.com
-127.0.0.1	aptekoagraliy.com
-127.0.0.1	aptekoagraliy.com
-127.0.0.1	supervisexxl.xmainc.com
-127.0.0.1	ec2-3-26-15-248.ap-southeast-2.compute.amazonaws.com
-127.0.0.1	azukielement.site
-127.0.0.1	www.search-online.workers.dev
-127.0.0.1	www.air-canadaa.com
-# Number of entries: 14113
+# Number of entries: 14094
