@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-16 22:18:33 UTC                        #
+# Last updated: 2024-04-17 08:42:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	require-spa.gl.at.ply.gg
+127.0.0.1	4-hitler.publicvm.com
+127.0.0.1	net-killer.ddns.net
+127.0.0.1	emv1.ib-comm-gateway.com
+127.0.0.1	spotslfy.com
+127.0.0.1	cars-fraction.gl.at.ply.gg
+127.0.0.1	pnauco5.ddns.net
+127.0.0.1	backupssupport.com
 127.0.0.1	service-e1idmqlj-1259321672.bj.tencentapigw.com.cn
 127.0.0.1	camps.topgunnbaseball.com
 127.0.0.1	b.doxbin.top
@@ -14067,11 +14075,4 @@
 127.0.0.1	sgt.becth.com
 127.0.0.1	atmosferiktarq.myddns.me
 127.0.0.1	wordstt182.com
-127.0.0.1	nbvcdrtyup584wd.com
-127.0.0.1	www.himalware.cn
-127.0.0.1	h4ck3r.ml
-127.0.0.1	qaq.social
-127.0.0.1	service-9sehd1r7-1252427727.bj.apigw.tencentcs.com
-127.0.0.1	dash.dbzjk.top
-127.0.0.1	uilovee.ddns.net
-# Number of entries: 14068
+# Number of entries: 14069
