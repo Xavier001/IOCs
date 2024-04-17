@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-17 08:42:27 UTC                        #
+# Last updated: 2024-04-17 11:22:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mark1234567.ddns.net
+127.0.0.1	xiaokkk.02maill.com
+127.0.0.1	ss.02maill.com
+127.0.0.1	cve.02maill.com
+127.0.0.1	utilityreport.azureedge.net
 127.0.0.1	require-spa.gl.at.ply.gg
 127.0.0.1	4-hitler.publicvm.com
 127.0.0.1	net-killer.ddns.net
@@ -14073,6 +14078,4 @@
 127.0.0.1	r.rewdio.fun
 127.0.0.1	rewdio.fun
 127.0.0.1	sgt.becth.com
-127.0.0.1	atmosferiktarq.myddns.me
-127.0.0.1	wordstt182.com
-# Number of entries: 14069
+# Number of entries: 14072
