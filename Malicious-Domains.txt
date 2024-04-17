@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-17 11:22:54 UTC                        #
+# Last updated: 2024-04-17 18:42:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dzn.ddns.net
+127.0.0.1	service-o62eztd3-1259321672.bj.tencentapigw.com.cn
+127.0.0.1	cncboatnetonlvu.apimomo.pro
+127.0.0.1	npcodaas.xyz
+127.0.0.1	botnettajima.ddns.net
+127.0.0.1	net-killer.verminteam.link
+127.0.0.1	legendsworld.in
+127.0.0.1	nextoneup.shop
+127.0.0.1	afterksmelipandmahdiimadss.ddns.net
 127.0.0.1	mark1234567.ddns.net
 127.0.0.1	xiaokkk.02maill.com
 127.0.0.1	ss.02maill.com
@@ -14013,69 +14022,4 @@
 127.0.0.1	appfinez.hair
 127.0.0.1	nwsee.bond
 127.0.0.1	tadkadfads.beauty
-127.0.0.1	supervisebt.xmainc.com
-127.0.0.1	www.1213454.com
-127.0.0.1	www.1319557.com
-127.0.0.1	1319554.com
-127.0.0.1	www.recruitment60.com
-127.0.0.1	www.1319558.com
-127.0.0.1	www.1213455.com
-127.0.0.1	1319556.com
-127.0.0.1	c6ih1t.com
-127.0.0.1	1319558.com
-127.0.0.1	www.1416233.com
-127.0.0.1	1215466.com
-127.0.0.1	recruitment59.com
-127.0.0.1	1213454.com
-127.0.0.1	www.m10688.com
-127.0.0.1	www.c6ih1t.com
-127.0.0.1	1213455.com
-127.0.0.1	www.stripchat15.com
-127.0.0.1	stripchat15.com
-127.0.0.1	1319559.cc
-127.0.0.1	www.shangri3.com
-127.0.0.1	recruitment62.com
-127.0.0.1	babyeonb.cc
-127.0.0.1	www.recruitment62.com
-127.0.0.1	www.recruitment59.com
-127.0.0.1	babyeona.cc
-127.0.0.1	1416233.com
-127.0.0.1	1319557.com
-127.0.0.1	www.auth08-verify3.dynamic-dns.net
-127.0.0.1	auth08-verify3.dynamic-dns.net
-127.0.0.1	p.kcchann.com
-127.0.0.1	bot.gsmgit.com
-127.0.0.1	whywishyouweredead.us
-127.0.0.1	bopun.fun
-127.0.0.1	remote.mynameisnavid.site
-127.0.0.1	mynameisnavid.site
-127.0.0.1	hw.chintelecom.com.cn
-127.0.0.1	spf1.superpeggy.com
-127.0.0.1	ns2.gsafc.co
-127.0.0.1	ns3.gsafc.co
-127.0.0.1	ns1.gsafc.co
-127.0.0.1	gothamcommunity.com
-127.0.0.1	gothamcommunity.online
-127.0.0.1	officemobsync.com
-127.0.0.1	www.topmoonstart.cloud
-127.0.0.1	epidine.com
-127.0.0.1	www.admarseb.click
-127.0.0.1	mail.45-93-139-24.cprapid.com
-127.0.0.1	adoring-driscoll.31-214-157-11.plesk.page
-127.0.0.1	www.csmakrjet.pw
-127.0.0.1	mail.fabsolution.net
-127.0.0.1	expirew.com
-127.0.0.1	t3.irconnect.online
-127.0.0.1	extrawebty.com
-127.0.0.1	45-93-139-24.cprapid.com
-127.0.0.1	grovdow.com
-127.0.0.1	cpanel.fabsolution.net
-127.0.0.1	vwm.fvds.ru
-127.0.0.1	topmoonstart.cloud
-127.0.0.1	www.fabsolution.net
-127.0.0.1	cpcalendars.fabsolution.net
-127.0.0.1	careers.dnkfinance.com
-127.0.0.1	r.rewdio.fun
-127.0.0.1	rewdio.fun
-127.0.0.1	sgt.becth.com
-# Number of entries: 14072
+# Number of entries: 14016
