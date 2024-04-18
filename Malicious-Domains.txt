@@ -1,11 +1,29 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-17 22:24:31 UTC                        #
+# Last updated: 2024-04-18 09:02:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	jswl.bzwl888.sbs
+127.0.0.1	bzwl888.sbs
+127.0.0.1	owo.p3pr00t.com
+127.0.0.1	hi.p3pr00t.com
+127.0.0.1	p3pr00t.com
+127.0.0.1	doxbin.top
+127.0.0.1	kayomirai.kro.kr
+127.0.0.1	cnc.atlasapi.co
+127.0.0.1	api.atlasapi.co
+127.0.0.1	superdomain.africa
+127.0.0.1	vivki.epiddserica.com
+127.0.0.1	epiddserica.com
+127.0.0.1	santc.epiddserica.com
+127.0.0.1	ust.cx
+127.0.0.1	botnet2.vani.ovh
+127.0.0.1	graph.vani.ovh
+127.0.0.1	mirai.vani.ovh
+127.0.0.1	kovey.mezo-api.xyz
 127.0.0.1	european.pornvideo.mynetav.org
 127.0.0.1	dzn.ddns.net
 127.0.0.1	service-o62eztd3-1259321672.bj.tencentapigw.com.cn
@@ -13997,7 +14015,4 @@
 127.0.0.1	poqwjoemqzmemzgqegzqzf.online
 127.0.0.1	gophish.securityjoes.com
 127.0.0.1	login.sharepointoneline.com
-127.0.0.1	imoneymy.com
-127.0.0.1	babyeonb.cc
-127.0.0.1	rockwellroyalhomes.com
-# Number of entries: 13994
+# Number of entries: 14009
