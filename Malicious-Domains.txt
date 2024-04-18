@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-17 18:42:59 UTC                        #
+# Last updated: 2024-04-17 22:24:31 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	european.pornvideo.mynetav.org
 127.0.0.1	dzn.ddns.net
 127.0.0.1	service-o62eztd3-1259321672.bj.tencentapigw.com.cn
 127.0.0.1	cncboatnetonlvu.apimomo.pro
@@ -13999,27 +14000,4 @@
 127.0.0.1	imoneymy.com
 127.0.0.1	babyeonb.cc
 127.0.0.1	rockwellroyalhomes.com
-127.0.0.1	adl-qow.mrface.com
-127.0.0.1	adl-qsh.itsaol.com
-127.0.0.1	adl-qps.fartit.com
-127.0.0.1	adlirtq.mrface.com
-127.0.0.1	adl-ue.faqserv.com
-127.0.0.1	adl-awh.vizvaz.com
-127.0.0.1	sahjsg.mrface.com
-127.0.0.1	adl-fot.faqserv.com
-127.0.0.1	adl-qda.fartit.com
-127.0.0.1	adl-qp.fartit.com
-127.0.0.1	adi.isasecret.com
-127.0.0.1	adl-iro.vizvaz.com
-127.0.0.1	adlf-ir.mrface.com
-127.0.0.1	adloir.vizvaz.com
-127.0.0.1	adl-gsq.faqserv.com
-127.0.0.1	adl-aqw.itsaol.com
-127.0.0.1	www.adblockext.ru
-127.0.0.1	edsahamir.com
-127.0.0.1	nima.alureza0021.xyz
-127.0.0.1	alureza0021.xyz
-127.0.0.1	appfinez.hair
-127.0.0.1	nwsee.bond
-127.0.0.1	tadkadfads.beauty
-# Number of entries: 14016
+# Number of entries: 13994
