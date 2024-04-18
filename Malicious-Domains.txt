@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-18 12:10:14 UTC                        #
+# Last updated: 2024-04-18 17:06:31 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	theatergenerationju.shop
+127.0.0.1	15731.org
+127.0.0.1	www.slationo.com
+127.0.0.1	slationo.com
 127.0.0.1	chotsolo2nhay.info
 127.0.0.1	countdownx.info
 127.0.0.1	dfyaudiobookprofits.info
@@ -14054,55 +14058,4 @@
 127.0.0.1	www.gpt-use.com
 127.0.0.1	ip-2-56-212-66-82743.vps.hosted-by-mvps.net
 127.0.0.1	epsonupdate.uk
-127.0.0.1	api.microsoft-service.workers.dev
-127.0.0.1	68-183-124-131.ipv4.staticdns2.io
-127.0.0.1	adl-aka.itsaol.com
-127.0.0.1	adl-ape.mrface.com
-127.0.0.1	adl-gga.faqserv.com
-127.0.0.1	adl-aff.vizvaz.com
-127.0.0.1	adl-gqs.vizvaz.com
-127.0.0.1	adlsg-qha.vizvaz.com
-127.0.0.1	adl-qqu.fartit.com
-127.0.0.1	sahame.fartit.com
-127.0.0.1	adllhs.itsaol.com
-127.0.0.1	explanation.cuphandles.com
-127.0.0.1	display.iha-medical.com
-127.0.0.1	mambergame.fun
-127.0.0.1	dannyleagy.fun
-127.0.0.1	piret-wismann.com
-127.0.0.1	prestige-castom.com
-127.0.0.1	ns1.freedomsepter.com
-127.0.0.1	ns1.investmentlineup.com
-127.0.0.1	ns1.starupsysteme.com
-127.0.0.1	ns1.wiinvestmentsmart.com
-127.0.0.1	ocmtancmi2c5t.live
-127.0.0.1	base2.getmygateway.com
-127.0.0.1	cdn.lightsteper.com
-127.0.0.1	comgate.getmygateway.com
-127.0.0.1	get.getmygateway.com
-127.0.0.1	get.lightsteper.com
-127.0.0.1	haishirokuma.comgate.getmygateway.com
-127.0.0.1	lightsteper.com
-127.0.0.1	pwwqkppwqkezqer.site
-127.0.0.1	sioaiuhsdguywqgyuhuiqw.org
-127.0.0.1	ug62r67uiijo2.com
-127.0.0.1	weomfewnfnu.site
-127.0.0.1	wffewiuofegwumzowefmgwezfzew.site
-127.0.0.1	wnimodmoiejn.site
-127.0.0.1	adqdqqewqewplzoqmzq.site
-127.0.0.1	bgobgogimrihehmxerreg.site
-127.0.0.1	boiibzqmk12j.com
-127.0.0.1	borbrbmrtxtrbxrq.site
-127.0.0.1	brewasigfi1978.workers.dev
-127.0.0.1	gkrokbmrkmrxtmxrxr.space
-127.0.0.1	komomjinndqndqwf.store
-127.0.0.1	lminoeubybyvq.com
-127.0.0.1	ocmtancmi2c5t.live
-127.0.0.1	oiqwbuwbwqznjqsdfsfqhf.site
-127.0.0.1	omdowqind.site
-127.0.0.1	opkfijuifbuyynyny.com
-127.0.0.1	opmowmokmwczmwecmef.site
-127.0.0.1	poqwjoemqzmemzgqegzqzf.online
-127.0.0.1	gophish.securityjoes.com
-127.0.0.1	login.sharepointoneline.com
-# Number of entries: 14099
+# Number of entries: 14052
