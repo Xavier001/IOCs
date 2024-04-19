@@ -14054,8 +14054,4 @@
 127.0.0.1	browserengine.online
 127.0.0.1	adfgs-l.mrface.com
 127.0.0.1	evil22.dhabigroup.top
-127.0.0.1	sebvasring.hair
-127.0.0.1	www.gpt-use.com
-127.0.0.1	ip-2-56-212-66-82743.vps.hosted-by-mvps.net
-127.0.0.1	epsonupdate.uk
-# Number of entries: 14052
+# Number of entries: 14048
