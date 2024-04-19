@@ -1,11 +1,27 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-18 17:06:31 UTC                        #
+# Last updated: 2024-04-19 09:47:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.installbootstrap.com
+127.0.0.1	test.ravec2.xyz
+127.0.0.1	visit.startfinishthis.com
+127.0.0.1	net-killer.ddns.net
+127.0.0.1	net-killler.store
+127.0.0.1	proxy.heleh.vn
+127.0.0.1	bot.vptmedia.click
+127.0.0.1	botnet.paintmc.net
+127.0.0.1	yeuemvcl.cltxhot.fun
+127.0.0.1	xd.ubnutu.cyou
+127.0.0.1	lon.vani.ovh
+127.0.0.1	loz.vani.ovh
+127.0.0.1	net-killler.store
+127.0.0.1	aomacamada.ddns.net
+127.0.0.1	rootme.xyz
+127.0.0.1	rooty.shop
 127.0.0.1	theatergenerationju.shop
 127.0.0.1	15731.org
 127.0.0.1	www.slationo.com
@@ -14046,12 +14062,4 @@
 127.0.0.1	ns2.sangforssl.xyz
 127.0.0.1	ns1.sangforssl.xyz
 127.0.0.1	sec.sangforssl.xyz
-127.0.0.1	fabbavshopsafabs.com
-127.0.0.1	gargoilsmansge.shop
-127.0.0.1	0280678.com
-127.0.0.1	service-2qsqz5c6-1316687452.gz.apigw.tencentcs.com
-127.0.0.1	mail.amtechcards.com
-127.0.0.1	browserengine.online
-127.0.0.1	adfgs-l.mrface.com
-127.0.0.1	evil22.dhabigroup.top
-# Number of entries: 14048
+# Number of entries: 14056
