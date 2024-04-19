@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-19 09:47:59 UTC                        #
+# Last updated: 2024-04-19 16:06:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.tyaer.com
+127.0.0.1	www.megabet303.lol
+127.0.0.1	www.oyoing.com
+127.0.0.1	megabet303.lol
+127.0.0.1	tyaer.com
+127.0.0.1	oyoing.com
+127.0.0.1	jemyy.theworkpc.com
+127.0.0.1	gardeniasupplies.com
+127.0.0.1	service-33y2vp0r-1303081427.sh.tencentapigw.com
 127.0.0.1	www.installbootstrap.com
 127.0.0.1	test.ravec2.xyz
 127.0.0.1	visit.startfinishthis.com
@@ -14047,12 +14056,4 @@
 127.0.0.1	anservusa.com
 127.0.0.1	wordst7512.net
 127.0.0.1	appsoftwareupdate.com
-127.0.0.1	securitytest.lat
-127.0.0.1	uche.blueyonderllc.top
-127.0.0.1	ify.ironoreprod.top
-127.0.0.1	mociyijame.us
-127.0.0.1	a.dbapps.top
-127.0.0.1	drignyaffk.com
-127.0.0.1	lazirusairnaf.com
-127.0.0.1	mistulinno.com
-# Number of entries: 14049
+# Number of entries: 14050
