@@ -14055,11 +14055,4 @@
 127.0.0.1	drignyaffk.com
 127.0.0.1	lazirusairnaf.com
 127.0.0.1	mistulinno.com
-127.0.0.1	bgxhost.servegame.com
-127.0.0.1	eliminatorhost.servegame.com
-127.0.0.1	rss.controlcavi.com
-127.0.0.1	ns3.sangforssl.xyz
-127.0.0.1	ns2.sangforssl.xyz
-127.0.0.1	ns1.sangforssl.xyz
-127.0.0.1	sec.sangforssl.xyz
-# Number of entries: 14056
+# Number of entries: 14049
