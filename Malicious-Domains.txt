@@ -1,11 +1,26 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-19 22:14:21 UTC                        #
+# Last updated: 2024-04-20 09:18:41 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	harassretunrstiwo.shop
+127.0.0.1	productivelookewr.shop
+127.0.0.1	tolerateilusidjukl.shop
+127.0.0.1	shatterbreathepsw.shop
+127.0.0.1	shortsvelventysjo.shop
+127.0.0.1	incredibleextedwj.shop
+127.0.0.1	alcojoldwograpciw.shop
+127.0.0.1	liabilitynighstjsko.shop
+127.0.0.1	demonstationfukewko.shop
+127.0.0.1	www.collegeclubapparel.com
+127.0.0.1	collegeclubapparel.com
+127.0.0.1	www.blueberry-breeze.com
+127.0.0.1	blueberry-breeze.com
+127.0.0.1	go8et.lol
+127.0.0.1	uf.tispy.me
 127.0.0.1	zj.court.cn.com
 127.0.0.1	jxvtcm.cn
 127.0.0.1	www.tyaer.com
@@ -14027,19 +14042,4 @@
 127.0.0.1	2280678.com
 127.0.0.1	4280678.com
 127.0.0.1	caiccolapololoman.info
-127.0.0.1	service-p1lbi0ix-1317238936.sh.apigw.tencentcs.com
-127.0.0.1	kscupdate.com
-127.0.0.1	sebasticookhospital.org
-127.0.0.1	cdn.microsolt.top
-127.0.0.1	service-3zj6tohw-1259689902.gz.apigw.tencentcs.com
-127.0.0.1	c.shpdzf.top
-127.0.0.1	baltlifeapp.com
-127.0.0.1	salamkhb.s70.xyz
-127.0.0.1	s70.xyz
-127.0.0.1	kameltarinyek.monster
-127.0.0.1	ts.ibuilder360.com
-127.0.0.1	eblaguwonmir.cfd
-127.0.0.1	000000.hopto.org
-127.0.0.1	02w65ijjohr1frm.com
-127.0.0.1	naninakadyll.site
 # Number of entries: 14036
