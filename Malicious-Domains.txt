@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-20 09:18:41 UTC                        #
+# Last updated: 2024-04-20 13:48:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	public-ftp.com
 127.0.0.1	harassretunrstiwo.shop
 127.0.0.1	productivelookewr.shop
 127.0.0.1	tolerateilusidjukl.shop
@@ -14030,11 +14031,4 @@
 127.0.0.1	iran-sh.fartit.com
 127.0.0.1	dsm.faqserv.com
 127.0.0.1	adq.fartit.com
-127.0.0.1	ecs-114-115-185-41.compute.hwclouds-dns.com
-127.0.0.1	www.goocoinorg.com
-127.0.0.1	ecs-122-112-252-8.compute.hwclouds-dns.com
-127.0.0.1	120.19.188.35.bc.googleusercontent.com
-127.0.0.1	104.224.176.35.nip.io
-127.0.0.1	ecs-124-70-19-189.compute.hwclouds-dns.com
-127.0.0.1	172-233-192-25.ip.linodeusercontent.com
-# Number of entries: 14031
+# Number of entries: 14025
