@@ -14037,9 +14037,4 @@
 127.0.0.1	104.224.176.35.nip.io
 127.0.0.1	ecs-124-70-19-189.compute.hwclouds-dns.com
 127.0.0.1	172-233-192-25.ip.linodeusercontent.com
-127.0.0.1	1280678.com
-127.0.0.1	3280678.com
-127.0.0.1	2280678.com
-127.0.0.1	4280678.com
-127.0.0.1	caiccolapololoman.info
-# Number of entries: 14036
+# Number of entries: 14031
