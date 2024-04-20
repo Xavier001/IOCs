@@ -57,6 +57,7 @@ js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/visit.js,8.212.44.149
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/visit.js,8.212.49.116
 jspassport.ssl.qhimg.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,74.48.19.146
 jspassport.ssl.qhimg.com.dsa.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,74.48.19.146
+jxvtcm.cn,Possible Cobalt Strike C2 Domain,/Complete/pr/H6TCQRWR,175.178.160.155
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain,/api/3,101.35.198.64
 m.old.gxjczx.gov.cn,Possible Cobalt Strike C2 Fronted Domain,/info,124.223.220.143
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1,125.128.113.108
@@ -104,3 +105,4 @@ www.myhuaweicloud.com,Possible Cobalt Strike C2 Fronting Domain,/info,124.223.22
 www.sonystore.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,39.98.192.104
 www.test9977.tk,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,47.99.177.59
 www.test9977.tk,Possible Cobalt Strike C2 Domain,/cx,47.99.177.59
+zj.court.cn.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,149.104.24.217

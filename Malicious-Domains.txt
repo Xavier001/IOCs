@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-19 16:06:36 UTC                        #
+# Last updated: 2024-04-19 22:14:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	zj.court.cn.com
+127.0.0.1	jxvtcm.cn
 127.0.0.1	www.tyaer.com
 127.0.0.1	www.megabet303.lol
 127.0.0.1	www.oyoing.com
@@ -14040,20 +14042,4 @@
 127.0.0.1	000000.hopto.org
 127.0.0.1	02w65ijjohr1frm.com
 127.0.0.1	naninakadyll.site
-127.0.0.1	serveroneil.lol
-127.0.0.1	auto-service.store
-127.0.0.1	cyerosishere.site
-127.0.0.1	daf.faqserv.com
-127.0.0.1	iran-vz.dns05.com
-127.0.0.1	iran-qa.faqserv.com
-127.0.0.1	iran-gz.vizvaz.com
-127.0.0.1	iran-hz.mrface.com
-127.0.0.1	iran-qe.fartit.com
-127.0.0.1	tes.mrbasic.com
-127.0.0.1	ref.faqserv.com
-127.0.0.1	des.mrbasic.com
-127.0.0.1	ves.faqserv.com
-127.0.0.1	anservusa.com
-127.0.0.1	wordst7512.net
-127.0.0.1	appsoftwareupdate.com
-# Number of entries: 14050
+# Number of entries: 14036
