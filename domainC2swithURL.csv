@@ -32,7 +32,6 @@ d9msk9dy9tbnk.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/jquery-2.
 dir.cdn-delivery-xyz.com,Possible Cobalt Strike C2 Domain,/imagenes/58417/barra.jpg
 dir.cdn-delivery-xyz.com,Possible Cobalt Strike C2 Domain,/ki
 download.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/
-download.updatebrowser.cn,Possible Cobalt Strike C2 Fronted Domain,/0RZDKXR/ADGJJ4B3VRSPAV9KC3MXI80OFD.css
 european.pornvideo.mynetav.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 f6d2b014a8664ddd8d859ce64f3741ad.apig.cn-east-3.huaweicloudapis.com,Possible Cobalt Strike C2 Domain,/static/askbob
 files.jslibc.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -45,8 +44,10 @@ js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/visit.js
 jspassport.ssl.qhimg.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 jspassport.ssl.qhimg.com.dsa.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 jxvtcm.cn,Possible Cobalt Strike C2 Domain,/Complete/pr/H6TCQRWR
+kizima.cct-logistics.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain,/api/3
 login.processus.network,Possible Cobalt Strike C2 Fronted Domain,/Collector/2.0/settings/
+logist.cct-logistics.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 m.old.gxjczx.gov.cn,Possible Cobalt Strike C2 Fronted Domain,/info
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1
 microsoftwindows.one,Possible Cobalt Strike C2 Domain,/api/3
@@ -79,7 +80,6 @@ shop.amazon-aws.fr,Possible Cobalt Strike C2 Domain,/visit.js
 static.chat5188.top,Possible Cobalt Strike C2 Domain,/api/v3/s25FogL
 sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain,/image/
 test.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/include/template/isx.php
-thursday.kfc4.icu,Possible Cobalt Strike C2 Fronting Domain,/0RZDKXR/ADGJJ4B3VRSPAV9KC3MXI80OFD.css
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 update.winservers-network.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 utilityreport.azureedge.net,Possible Cobalt Strike C2 Domain,/ms-settings

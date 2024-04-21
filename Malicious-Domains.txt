@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-21 07:30:47 UTC                        #
+# Last updated: 2024-04-21 17:49:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sonicglyder.com
+127.0.0.1	illitluckygirl.com
+127.0.0.1	under-wars.com
+127.0.0.1	ecurs.ro
+127.0.0.1	stylejason.com
+127.0.0.1	service-hcy5bcw8-1317301829.gz.tencentapigw.com.cn
+127.0.0.1	b.citriix.org
 127.0.0.1	quotes-nl.gl.at.ply.gg
 127.0.0.1	other-tours.gl.at.ply.gg
 127.0.0.1	basic-values.gl.at.ply.gg
@@ -14019,5 +14026,4 @@
 127.0.0.1	mx.carrent.business
 127.0.0.1	renew-certificate.azureedge.net
 127.0.0.1	update-services.azureedge.net
-127.0.0.1	service-e699j3k6-1259689902.gz.apigw.tencentcs.com
-# Number of entries: 14014
+# Number of entries: 14020
