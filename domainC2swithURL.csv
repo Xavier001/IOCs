@@ -46,6 +46,7 @@ jspassport.ssl.qhimg.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_
 jspassport.ssl.qhimg.com.dsa.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 jxvtcm.cn,Possible Cobalt Strike C2 Domain,/Complete/pr/H6TCQRWR
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain,/api/3
+login.processus.network,Possible Cobalt Strike C2 Fronted Domain,/Collector/2.0/settings/
 m.old.gxjczx.gov.cn,Possible Cobalt Strike C2 Fronted Domain,/info
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1
 microsoftwindows.one,Possible Cobalt Strike C2 Domain,/api/3
