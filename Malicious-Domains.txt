@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-20 13:48:48 UTC                        #
+# Last updated: 2024-04-21 07:30:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	quotes-nl.gl.at.ply.gg
+127.0.0.1	other-tours.gl.at.ply.gg
+127.0.0.1	basic-values.gl.at.ply.gg
 127.0.0.1	public-ftp.com
 127.0.0.1	harassretunrstiwo.shop
 127.0.0.1	productivelookewr.shop
@@ -14017,18 +14020,4 @@
 127.0.0.1	renew-certificate.azureedge.net
 127.0.0.1	update-services.azureedge.net
 127.0.0.1	service-e699j3k6-1259689902.gz.apigw.tencentcs.com
-127.0.0.1	tedalat.hair
-127.0.0.1	dms.mrface.com
-127.0.0.1	asq.dns05.com
-127.0.0.1	sahmn.fartit.com
-127.0.0.1	asd.isasecret.com
-127.0.0.1	adf.faqserv.com
-127.0.0.1	als.mrbasic.com
-127.0.0.1	asc.itsaol.com
-127.0.0.1	sxsigami2021.cf
-127.0.0.1	irhg.fartit.com
-127.0.0.1	dsm.mrbasic.com
-127.0.0.1	iran-sh.fartit.com
-127.0.0.1	dsm.faqserv.com
-127.0.0.1	adq.fartit.com
-# Number of entries: 14025
+# Number of entries: 14014
