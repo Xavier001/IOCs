@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-22 10:14:14 UTC                        #
+# Last updated: 2024-04-22 18:03:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mypony.nl
+127.0.0.1	flashl.tw
+127.0.0.1	dist2118.duckdns.org
+127.0.0.1	webpoint.micromoto.fun
+127.0.0.1	hathawaya.xyz
+127.0.0.1	spagetti.openproxylist.info
+127.0.0.1	kh1.userjoy.com
+127.0.0.1	yamaxun.blog
 127.0.0.1	1488.winstate.cc
 127.0.0.1	6b789950.sjys66.me
 127.0.0.1	6437cf8a.sjys66.me
@@ -14032,9 +14040,4 @@
 127.0.0.1	vip.cesig8.online
 127.0.0.1	alexis-dasilva.pro
 127.0.0.1	adlriran.com
-127.0.0.1	carrent.business
-127.0.0.1	qstories.today
-127.0.0.1	trainlove.monster
-127.0.0.1	api.qstories.today
-127.0.0.1	tu.trainlove.monster
-# Number of entries: 14031
+# Number of entries: 14034
