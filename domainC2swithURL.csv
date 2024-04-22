@@ -1,4 +1,5 @@
 #domain,ioc,uri_path
+1488.winstate.cc,Possible Cobalt Strike C2 Domain,/fwlink
 21hjgt71f.sharedomain.top,Possible Cobalt Strike C2 Domain,/api/3
 3g.ali213.net,Possible Cobalt Strike C2 Fronted Domain,/info
 3gjanc04hk.execute-api.us-east-2.amazonaws.com,Possible Cobalt Strike C2 Domain,/v1/get
@@ -74,6 +75,7 @@ service-e22kp8jz-1259321672.bj.tencentapigw.com.cn,Possible Cobalt Strike C2 Dom
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB
 service-ibyz0l1g-1312758067.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/cm
+service-k43f6rw9-1308954353.kr.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-lj3klqg6-1308639534.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/getit
 service-ps16whvt-1304800271.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x
 service-qwflcy7c-1305872204.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/bootstrap-5.3.1.min.js
