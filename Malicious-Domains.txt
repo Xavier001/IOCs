@@ -14024,6 +14024,4 @@
 127.0.0.1	special.beatifulllhistory.com
 127.0.0.1	service-8d9lr7ah-1318291330.sh.apigw.tencentcs.com
 127.0.0.1	mx.carrent.business
-127.0.0.1	renew-certificate.azureedge.net
-127.0.0.1	update-services.azureedge.net
-# Number of entries: 14020
+# Number of entries: 14018
