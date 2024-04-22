@@ -1,11 +1,28 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-21 17:49:04 UTC                        #
+# Last updated: 2024-04-22 10:00:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	6b789950.sjys66.me
+127.0.0.1	6437cf8a.sjys66.me
+127.0.0.1	ccc.sjys6.top
+127.0.0.1	idc.sjys66.me
+127.0.0.1	pay.sjys6.top
+127.0.0.1	sjys6.de
+127.0.0.1	cdn.sjys6.top
+127.0.0.1	744fbc05.sjys66.me
+127.0.0.1	sjys6.top
+127.0.0.1	www.sjys6.sbs
+127.0.0.1	sjys6.sbs
+127.0.0.1	whcdn.sjys66.me
+127.0.0.1	ppa.sjys66.me
+127.0.0.1	bbd9d414.sjys66.me
+127.0.0.1	2762da3f.sjys6.top
+127.0.0.1	cecilioisbetter.dyn
+127.0.0.1	thisisnotabotnet.pirate
 127.0.0.1	sonicglyder.com
 127.0.0.1	illitluckygirl.com
 127.0.0.1	under-wars.com
@@ -14023,5 +14040,4 @@
 127.0.0.1	beatifulllhistory.com
 127.0.0.1	special.beatifulllhistory.com
 127.0.0.1	service-8d9lr7ah-1318291330.sh.apigw.tencentcs.com
-127.0.0.1	mx.carrent.business
-# Number of entries: 14018
+# Number of entries: 14034

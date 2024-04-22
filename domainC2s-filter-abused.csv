@@ -6,6 +6,7 @@
 Jango-pulse.com,Possible Cobalt Strike C2 Domain
 admin.usaid2.org,Possible Cobalt Strike C2 Domain
 aerh.azureedge.net,Possible Cobalt Strike C2 Domain
+apiv2.huya.com,Possible Cobalt Strike C2 Fronting Domain
 baidu.freemetb.top,Possible Cobalt Strike C2 Domain
 bb.makkgg.fyi,Possible Cobalt Strike C2 Domain
 big-walls.com,Possible Cobalt Strike C2 Fronted Domain
@@ -26,10 +27,11 @@ d8g.lol,Possible Cobalt Strike C2 Domain
 d9msk9dy9tbnk.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain
 dir.cdn-delivery-xyz.com,Possible Cobalt Strike C2 Domain
 download.localhost-microsoft.com,Possible Cobalt Strike C2 Domain
+download.micknow.com,Possible Cobalt Strike C2 Fronted Domain
+eas.cqiv.com,Possible Cobalt Strike C2 Fronted Domain
 european.pornvideo.mynetav.org,Possible Cobalt Strike C2 Domain
 f6d2b014a8664ddd8d859ce64f3741ad.apig.cn-east-3.huaweicloudapis.com,Possible Cobalt Strike C2 Domain
 files.jslibc.com,Possible Cobalt Strike C2 Domain
-find-ball.com,Possible Cobalt Strike C2 Fronted Domain
 goldensoftware.co.uk,Possible Cobalt Strike C2 Domain
 i.xlei.cc,Possible Cobalt Strike C2 Domain
 ipv6.beijing-qax.top,Possible Cobalt Strike C2 Domain
@@ -56,10 +58,10 @@ service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-8rv78e5d-1319481525.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-9sehd1r7-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-b7g5qx9l-1318401771.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-cedqvyh7-1322145958.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-d1yss7wi-1314780031.nj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-e1idmqlj-1259321672.bj.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain
+service-e22kp8jz-1259321672.bj.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-ibyz0l1g-1312758067.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
@@ -67,7 +69,6 @@ service-lj3klqg6-1308639534.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Dom
 service-ps16whvt-1304800271.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-qwflcy7c-1305872204.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
-service-rv8zxcr1-1259321672.bj.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain
 shop.amazon-aws.fr,Possible Cobalt Strike C2 Domain
 static.chat5188.top,Possible Cobalt Strike C2 Domain
 sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain
@@ -76,6 +77,7 @@ update.aliyunupdate.work,Possible Cobalt Strike C2 Domain
 update.winservers-network.com,Possible Cobalt Strike C2 Domain
 utilityreport.azureedge.net,Possible Cobalt Strike C2 Domain
 www.flash-update.info,Possible Cobalt Strike C2 Domain
+www.flashl.tw,Possible Cobalt Strike C2 Domain
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain
 www.installbootstrap.com,Possible Cobalt Strike C2 Domain
 www.microsoftonline.info,Possible Cobalt Strike C2 Domain
