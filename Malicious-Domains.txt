@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-22 18:03:40 UTC                        #
+# Last updated: 2024-04-22 22:12:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tdinsuranceapply-a0guehftc6fzegca.a03.azurefd.net
 127.0.0.1	mypony.nl
 127.0.0.1	flashl.tw
 127.0.0.1	dist2118.duckdns.org
@@ -14029,15 +14030,4 @@
 127.0.0.1	sagro.b0t.me
 127.0.0.1	update.windows-push.com
 127.0.0.1	ama23.amlbot.ug
-127.0.0.1	ecs-114-115-210-125.compute.hwclouds-dns.com
-127.0.0.1	ts.appliedrc.com
-127.0.0.1	www.159-203-95-49.cprapid.com
-127.0.0.1	vpn500541278.softether.net
-127.0.0.1	www.unruffled-heyrovsky.68-183-220-248.plesk.page
-127.0.0.1	cert.casacam.net
-127.0.0.1	914095669.box.freepro.com
-127.0.0.1	bitwarden-server.payloads.online
-127.0.0.1	vip.cesig8.online
-127.0.0.1	alexis-dasilva.pro
-127.0.0.1	adlriran.com
-# Number of entries: 14034
+# Number of entries: 14024
