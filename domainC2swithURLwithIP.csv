@@ -9,7 +9,6 @@ aerh.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js,159.89.187.246
 apiv2.huya.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,43.138.10.232
 baidu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,164.155.128.124
 baidu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,60.204.187.184
-baidu.freemetb.top,Possible Cobalt Strike C2 Domain,/azure/api/v2/userinfo/get,107.173.144.77
 bb.makkgg.fyi,Possible Cobalt Strike C2 Domain,/pixel.gif,116.205.189.199
 bb.makkgg.fyi,Possible Cobalt Strike C2 Domain,/push,116.205.189.199
 big-walls.com,Possible Cobalt Strike C2 Fronted Domain,/ch,195.137.220.121
@@ -21,6 +20,7 @@ cf907cd9e8f94a93937a6360363420b2.apig.cn-east-3.huaweicloudapis.com,Possible Cob
 cf907cd9e8f94a93937a6360363420b2.apig.cn-east-3.huaweicloudapis.com,Possible Cobalt Strike C2 Domain,/static/askbob,101.36.126.189
 cf907cd9e8f94a93937a6360363420b2.apig.cn-east-3.huaweicloudapis.com,Possible Cobalt Strike C2 Domain,/static/askbob,152.32.131.118
 cins.hin7lostvas.pro,Possible Cobalt Strike C2 Domain,/case.css,45.148.120.115
+click.buys.ru,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,92.63.193.141
 cloud.tencent-cs.com,Possible Cobalt Strike C2 Fronting Domain,/ca,43.134.233.227
 content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/updates.rss,8.140.135.23
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/updates.rss,8.140.135.23
@@ -60,7 +60,6 @@ jspassport.ssl.qhimg.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_
 jspassport.ssl.qhimg.com.dsa.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,74.48.19.146
 jxvtcm.cn,Possible Cobalt Strike C2 Domain,/Complete/pr/H6TCQRWR,175.178.160.155
 kh1.userjoy.com,Possible Cobalt Strike C2 Fronted Domain,/ca,43.134.233.227
-kizima.cct-logistics.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,92.63.193.141
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain,/api/3,101.35.198.64
 login.processus.network,Possible Cobalt Strike C2 Fronted Domain,/Collector/2.0/settings/,20.19.35.117
 logist.cct-logistics.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,92.63.193.141

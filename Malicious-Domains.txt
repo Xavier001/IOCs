@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-22 22:12:01 UTC                        #
+# Last updated: 2024-04-23 06:42:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bimbro.xyz
+127.0.0.1	bohot.xyz
+127.0.0.1	karl3on.xyz
+127.0.0.1	neuengi.top
+127.0.0.1	ndearn.xyz
+127.0.0.1	almatac.top
+127.0.0.1	kartogra.top
+127.0.0.1	aktayho.top
+127.0.0.1	redddog.xyz
+127.0.0.1	eralaunch.xyz
+127.0.0.1	soka101.xyz
+127.0.0.1	tenens.xyz
+127.0.0.1	wscript.ddns.net
 127.0.0.1	tdinsuranceapply-a0guehftc6fzegca.a03.azurefd.net
 127.0.0.1	mypony.nl
 127.0.0.1	flashl.tw
@@ -14028,6 +14041,4 @@
 127.0.0.1	ns0.luccycatch.tech
 127.0.0.1	172-105-234-48.ip.linodeusercontent.com
 127.0.0.1	sagro.b0t.me
-127.0.0.1	update.windows-push.com
-127.0.0.1	ama23.amlbot.ug
-# Number of entries: 14024
+# Number of entries: 14035
