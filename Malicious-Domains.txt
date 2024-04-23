@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-23 06:42:21 UTC                        #
+# Last updated: 2024-04-23 11:42:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	elastsolek21.duckdns.org
 127.0.0.1	bimbro.xyz
 127.0.0.1	bohot.xyz
 127.0.0.1	karl3on.xyz
@@ -14041,4 +14042,4 @@
 127.0.0.1	ns0.luccycatch.tech
 127.0.0.1	172-105-234-48.ip.linodeusercontent.com
 127.0.0.1	sagro.b0t.me
-# Number of entries: 14035
+# Number of entries: 14036
