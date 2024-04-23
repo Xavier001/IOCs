@@ -1,11 +1,34 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-23 11:42:07 UTC                        #
+# Last updated: 2024-04-23 19:10:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	symposiumos.com
+127.0.0.1	www.614110.xyz
+127.0.0.1	img.creativemedia.top
+127.0.0.1	keolisgroup.azureedge.net
+127.0.0.1	api.rayob2.shop
+127.0.0.1	service-ldzftvcf-1252123187.sh.tencentapigw.com
+127.0.0.1	service-ku7vp6lj-1253504731.sh.tencentapigw.com
+127.0.0.1	facelove.life
+127.0.0.1	oa.dahuatec.xyz
+127.0.0.1	office365.homes
+127.0.0.1	service-r3og53uv-1303913364.sh.tencentapigw.com
+127.0.0.1	dr-hoefler.de
+127.0.0.1	zx.scsvcreg.com
+127.0.0.1	as.scsvcreg.com
+127.0.0.1	qw.scsvcreg.com
+127.0.0.1	www.xahoithongtins.com
+127.0.0.1	cnc.voidnet.click
+127.0.0.1	ipscanadvsf.com
+127.0.0.1	notionso.online
+127.0.0.1	pdftoconvert.online
+127.0.0.1	toppdfconverter.org
+127.0.0.1	zoomis.pro
+127.0.0.1	neger.icu
 127.0.0.1	elastsolek21.duckdns.org
 127.0.0.1	bimbro.xyz
 127.0.0.1	bohot.xyz
@@ -14029,17 +14052,4 @@
 127.0.0.1	adlg.dns05.com
 127.0.0.1	adl-vv.mrface.com
 127.0.0.1	ecs-119-3-253-250.compute.hwclouds-dns.com
-127.0.0.1	cdn.amazon-shopping.nl
-127.0.0.1	ns.365ub.cn
-127.0.0.1	ns2.h1ll0.cs.in
-127.0.0.1	ns1.h1ll0.cs.in
-127.0.0.1	placengine.site
-127.0.0.1	chromiumengine.space
-127.0.0.1	basechromium.space
-127.0.0.1	dot.healthtricks101.com
-127.0.0.1	ns5.luccycatch.tech
-127.0.0.1	ns4.luccycatch.tech
-127.0.0.1	ns0.luccycatch.tech
-127.0.0.1	172-105-234-48.ip.linodeusercontent.com
-127.0.0.1	sagro.b0t.me
-# Number of entries: 14036
+# Number of entries: 14046
