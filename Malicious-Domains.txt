@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-24 09:09:11 UTC                        #
+# Last updated: 2024-04-24 21:04:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	aboft7e.ddns.net
+127.0.0.1	wavebysudryez.fr
+127.0.0.1	dttao.net
+127.0.0.1	service-6qlmfr7s-1312562872.gz.tencentapigw.com.cn
+127.0.0.1	www.alipan.lol
+127.0.0.1	bliblyuvblfds.work.gd
+127.0.0.1	service-j78tszan-1319584009.sh.apigw.tencentcs.com
+127.0.0.1	berita-timur.kumbaraan.biz.id
+127.0.0.1	www.fiash.info
 127.0.0.1	botnet.goelites.cc
 127.0.0.1	putin.zelenskyj.ru
 127.0.0.1	zelenskyj.ru
@@ -14011,37 +14020,4 @@
 127.0.0.1	11go.gocatgo.top
 127.0.0.1	msonline-security.com
 127.0.0.1	analytics.prfectr.xyz
-127.0.0.1	ns2.mikrokredit.shop
-127.0.0.1	ns1.mikrokredit.shop
-127.0.0.1	quit.industrybankingllc.com
-127.0.0.1	updalo-1942638394.cos.ap-hongkong.tencent.lat
-127.0.0.1	trustednovusbanks.com
-127.0.0.1	ec2-52-56-179-139.eu-west-2.compute.amazonaws.com
-127.0.0.1	mail.pinheroneto.com.br
-127.0.0.1	busbuctomorrrw.ddns.net
-127.0.0.1	empireboss.ydns.eu
-127.0.0.1	myfrontmannysix.ddns.net
-127.0.0.1	remcoss2023.duckdns.org
-127.0.0.1	mancuso.con-ip.com
-127.0.0.1	econd.gybritanalytsesystem.com
-127.0.0.1	emv1.selectofmychoices.com
-127.0.0.1	debest.playerofsunshine.com
-127.0.0.1	prueba.selectofmychoices.com
-127.0.0.1	exelent.playerofsunshine.com
-127.0.0.1	mejor.playerofsunshine.com
-127.0.0.1	root.selectofmychoices.com
-127.0.0.1	excellent.playerofsunshine.com
-127.0.0.1	call.getsmallcount.com
-127.0.0.1	trry.selectofmychoices.com
-127.0.0.1	b1omodh51hw6g3d.com
-127.0.0.1	zoomadvertisingofferr.com
-127.0.0.1	zoomadvertisingooffer.com
-127.0.0.1	markazpay.com
-127.0.0.1	yours-app.xyz
-127.0.0.1	jdiejhdjej.online
-127.0.0.1	vpn-v2rynge-ir.tk
-127.0.0.1	azure-content-cdn.com
-127.0.0.1	www.great-merkle.68-183-220-248.plesk.page
-127.0.0.1	mail.viviendasalternativas.com
-127.0.0.1	ec2-52-15-200-151.us-east-2.compute.amazonaws.com
-# Number of entries: 14038
+# Number of entries: 14014
