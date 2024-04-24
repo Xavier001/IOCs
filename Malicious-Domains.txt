@@ -14044,6 +14044,4 @@
 127.0.0.1	www.great-merkle.68-183-220-248.plesk.page
 127.0.0.1	mail.viviendasalternativas.com
 127.0.0.1	ec2-52-15-200-151.us-east-2.compute.amazonaws.com
-127.0.0.1	jay.ransomproducts.top
-127.0.0.1	cs1.accountsync.net
-# Number of entries: 14040
+# Number of entries: 14038

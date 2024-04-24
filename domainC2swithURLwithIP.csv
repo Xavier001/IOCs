@@ -120,6 +120,7 @@ nt3.227api.com,Possible Cobalt Strike C2 Domain,/dot.gif,154.92.16.150
 oa.dahuatec.xyz,Possible Cobalt Strike C2 Domain,/www/handle/doc,43.136.38.59
 office365.homes,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,104.248.6.246
 qw.scsvcreg.com,Possible Cobalt Strike C2 Domain,/tab_shop_active,5.188.86.28
+resource.weixin.qq.com,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html,39.100.109.229
 search.zfly.fun,Possible Cobalt Strike C2 Domain,/jquery-3.6.0.min.js,8.137.117.105
 security-socks.expert,Possible Cobalt Strike C2 Domain,/Understand/v2.61/RYLQUPM8LL,194.165.16.55
 security-socks777.com,Possible Cobalt Strike C2 Domain,/Understand/v2.61/RYLQUPM8LL,194.165.16.55
@@ -160,6 +161,7 @@ www.flash-update.info,Possible Cobalt Strike C2 Domain,/pixel,47.105.69.34
 www.flashl.tw,Possible Cobalt Strike C2 Domain,/jsbhn.js,23.94.169.124
 www.flashl.tw,Possible Cobalt Strike C2 Fronting Domain,/mylibs.js,23.94.169.124
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/,115.159.50.50
+www.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html,39.100.109.229
 www.installbootstrap.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,52.37.96.65
 www.microsoftonline.info,Possible Cobalt Strike C2 Domain,/j.ad,47.236.185.166
 www.myhuaweicloud.com,Possible Cobalt Strike C2 Fronting Domain,/info,124.223.220.143
