@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-24 03:27:39 UTC                        #
+# Last updated: 2024-04-24 09:09:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	botnet.goelites.cc
+127.0.0.1	putin.zelenskyj.ru
+127.0.0.1	zelenskyj.ru
+127.0.0.1	firmware-yrs-conflicts-favorites.trycloudflare.com
+127.0.0.1	net-killer.ooguy.com
+127.0.0.1	xd.netsyn.online
+127.0.0.1	xd.nodefunction.vip
+127.0.0.1	eclp8oz0m8mxouv96hc9p7k2btydt3iv.click
 127.0.0.1	nano.anygreaterways.tech
 127.0.0.1	symposiumos.com
 127.0.0.1	www.614110.xyz
@@ -14038,18 +14046,4 @@
 127.0.0.1	ec2-52-15-200-151.us-east-2.compute.amazonaws.com
 127.0.0.1	jay.ransomproducts.top
 127.0.0.1	cs1.accountsync.net
-127.0.0.1	google.luccycatch.tech
-127.0.0.1	senpaireek.fun
-127.0.0.1	adls.dns05.com
-127.0.0.1	irhs.faqserv.com
-127.0.0.1	dsa.itsaol.com
-127.0.0.1	dmns.itsaol.com
-127.0.0.1	dgfh.dns05.com
-127.0.0.1	shm.faqserv.com
-127.0.0.1	adls.vizvaz.com
-127.0.0.1	adla.faqserv.com
-127.0.0.1	ads.fartit.com
-127.0.0.1	adq.dns05.com
-127.0.0.1	adlg.dns05.com
-127.0.0.1	adl-vv.mrface.com
-# Number of entries: 14046
+# Number of entries: 14040
