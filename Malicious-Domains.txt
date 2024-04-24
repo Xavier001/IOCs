@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-23 19:10:54 UTC                        #
+# Last updated: 2024-04-24 03:27:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nano.anygreaterways.tech
 127.0.0.1	symposiumos.com
 127.0.0.1	www.614110.xyz
 127.0.0.1	img.creativemedia.top
@@ -14051,5 +14052,4 @@
 127.0.0.1	adq.dns05.com
 127.0.0.1	adlg.dns05.com
 127.0.0.1	adl-vv.mrface.com
-127.0.0.1	ecs-119-3-253-250.compute.hwclouds-dns.com
 # Number of entries: 14046

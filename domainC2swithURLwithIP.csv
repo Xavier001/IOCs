@@ -19,7 +19,7 @@ big-walls.com,Possible Cobalt Strike C2 Fronted Domain,/ch,195.137.220.121
 bing.com,Possible Cobalt Strike C2 Fronting Domain,/ch,195.137.220.121
 blm-wiki.com,Possible Cobalt Strike C2 Domain,/Validate/v8.18/84LE6PSOHS,194.165.16.59
 c1.tqrjfru.cn,Possible Cobalt Strike C2 Domain,/dpixel,114.115.210.125
-canarapay-f5agf9ccgteqbpg2.z03.azurefd.net,Possible Cobalt Strike C2 Domain,/safebrowsing/I7F9L/s0Rm6WOzIDfYrB6YAi2d,68.183.92.175
+canarapay-f5hghmdjd7eddbb4.z02.azurefd.net,Possible Cobalt Strike C2 Domain,/safebrowsing/I7F9L/s0Rm6WOzIDfYrB6YAi2d,68.183.92.175
 cc.cert-ex.net,Possible Cobalt Strike C2 Domain,/__utm.gif,89.116.44.121
 cc.youku.zip,Possible Cobalt Strike C2 Domain,/functionalStatus/,104.143.47.137
 cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v2/q,213.61.251.56
@@ -73,7 +73,7 @@ f6d2b014a8664ddd8d859ce64f3741ad.apig.cn-east-3.huaweicloudapis.com,Possible Cob
 facelove.life,Possible Cobalt Strike C2 Domain,/functionalStatus/0CMp4E8sk1rGRjHC2NcNQf2u,80.66.75.53
 facelove.life,Possible Cobalt Strike C2 Domain,/functionalStatus/0CMp4E8sk1rGRjHC2NcNQf2u,80.66.75.9
 files.jslibc.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.76.78.183
-flashl.tw,Possible Cobalt Strike C2 Fronted Domain,/loginin.html,23.94.169.124
+flashl.tw,Possible Cobalt Strike C2 Fronted Domain,/mylibs.js,23.94.169.124
 goldensoftware.co.uk,Possible Cobalt Strike C2 Domain,/visit.js,5.188.87.50
 i.xlei.cc,Possible Cobalt Strike C2 Domain,/ca,42.192.53.52
 io.cy789.ml,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,42.193.252.92
@@ -158,7 +158,7 @@ v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,52.253.108
 webpoint.micromoto.fun,Possible Cobalt Strike C2 Domain,/api/3,64.227.107.166
 www.flash-update.info,Possible Cobalt Strike C2 Domain,/pixel,47.105.69.34
 www.flashl.tw,Possible Cobalt Strike C2 Domain,/jsbhn.js,23.94.169.124
-www.flashl.tw,Possible Cobalt Strike C2 Fronting Domain,/loginin.html,23.94.169.124
+www.flashl.tw,Possible Cobalt Strike C2 Fronting Domain,/mylibs.js,23.94.169.124
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/,115.159.50.50
 www.installbootstrap.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,52.37.96.65
 www.microsoftonline.info,Possible Cobalt Strike C2 Domain,/j.ad,47.236.185.166
