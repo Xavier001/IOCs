@@ -67,6 +67,8 @@ dns.otxcosmeticscare.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,1
 download.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/,43.129.28.136
 download.micknow.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,43.138.10.232
 dr-hoefler.de,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,46.101.137.168
+dvbtools.com,Possible Cobalt Strike C2 Domain,/DocumentId,185.172.128.6
+dvbtools.com,Possible Cobalt Strike C2 Domain,/DocumentId,185.42.14.185
 eas.cqiv.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,43.138.10.232
 edu.hicomputing.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,43.138.10.232
 f6d2b014a8664ddd8d859ce64f3741ad.apig.cn-east-3.huaweicloudapis.com,Possible Cobalt Strike C2 Domain,/static/askbob,101.36.121.188
@@ -132,6 +134,7 @@ nt2.227api.com,Possible Cobalt Strike C2 Domain,/load,154.92.16.150
 nt3.227api.com,Possible Cobalt Strike C2 Domain,/dot.gif,154.92.16.150
 oa.dahuatec.xyz,Possible Cobalt Strike C2 Domain,/www/handle/doc,43.136.38.59
 office365.homes,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,104.248.6.246
+qax.gsldedie.sbs,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,170.106.169.138
 qw.scsvcreg.com,Possible Cobalt Strike C2 Domain,/tab_shop_active,5.188.86.28
 resource.weixin.qq.com,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html,39.100.109.229
 search.zfly.fun,Possible Cobalt Strike C2 Domain,/jquery-3.6.0.min.js,8.137.117.105

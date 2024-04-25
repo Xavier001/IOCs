@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-25 09:47:11 UTC                        #
+# Last updated: 2024-04-25 11:19:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	service-dduj2otc-1303958398.gz.tencentapigw.com.cn
+127.0.0.1	www.stylejason.com
+127.0.0.1	qax.gsldedie.sbs
+127.0.0.1	dvbtools.com
+127.0.0.1	youlovemedontyou.bounceme.net
 127.0.0.1	nocrynetworking.duckdns.org
 127.0.0.1	s.sushiking.world
 127.0.0.1	lsagjogu8ztaueghasdjsdigh.cc
@@ -14032,7 +14037,4 @@
 127.0.0.1	goldmineonline.co.uk
 127.0.0.1	mail.abaadoffice.net
 127.0.0.1	jinodoplacecam.viewdns.net
-127.0.0.1	redteam.tandemcyberops.co
-127.0.0.1	recharge-fr.myddns.me
-127.0.0.1	onlyfor.pro
-# Number of entries: 14029
+# Number of entries: 14031
