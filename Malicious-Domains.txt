@@ -14014,10 +14014,4 @@
 127.0.0.1	recharge-fr.myddns.me
 127.0.0.1	onlyfor.pro
 127.0.0.1	www.wenweng.shop
-127.0.0.1	ec2-107-21-217-80.compute-1.amazonaws.com
-127.0.0.1	68-183-124-131.ipv4.staticdns3.io
-127.0.0.1	bacon.danger-zone.net
-127.0.0.1	11go.gocatgo.top
-127.0.0.1	msonline-security.com
-127.0.0.1	analytics.prfectr.xyz
-# Number of entries: 14014
+# Number of entries: 14008
