@@ -1,11 +1,33 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-24 21:04:49 UTC                        #
+# Last updated: 2024-04-25 09:47:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nocrynetworking.duckdns.org
+127.0.0.1	s.sushiking.world
+127.0.0.1	lsagjogu8ztaueghasdjsdigh.cc
+127.0.0.1	hitler.su
+127.0.0.1	kz.hitler.su
+127.0.0.1	pve.rebirthltd.com
+127.0.0.1	rebirthltd.top
+127.0.0.1	scan.rebirthltd.top
+127.0.0.1	secure-network-rebirthltd.ru
+127.0.0.1	bot.secure-network-rebirthltd.ru
+127.0.0.1	rebirthltd.dev
+127.0.0.1	scan.rebirthltd.dev
+127.0.0.1	secure-cyber-security-rebirthltd.su
+127.0.0.1	sex.secure-cyber-security-rebirthltd.su
+127.0.0.1	rebirth-network.su
+127.0.0.1	security.rebirth-network.su
+127.0.0.1	vps.rebirth-network.su
+127.0.0.1	adolfhitler.su
+127.0.0.1	kz.adolfhitler.su
+127.0.0.1	secure-core-rebirthltd.su
+127.0.0.1	security.secure-core-rebirthltd.su
+127.0.0.1	fuck-niggers.xyz
 127.0.0.1	aboft7e.ddns.net
 127.0.0.1	wavebysudryez.fr
 127.0.0.1	dttao.net
@@ -14013,5 +14035,4 @@
 127.0.0.1	redteam.tandemcyberops.co
 127.0.0.1	recharge-fr.myddns.me
 127.0.0.1	onlyfor.pro
-127.0.0.1	www.wenweng.shop
-# Number of entries: 14008
+# Number of entries: 14029
