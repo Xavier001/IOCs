@@ -178,7 +178,6 @@ service-ku7vp6lj-1253504731.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-ldzftvcf-1252123187.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/getit,43.136.176.207
 service-lj3klqg6-1308639534.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/getit,111.230.25.167
 service-ps16whvt-1304800271.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x,122.51.7.163
-service-qwflcy7c-1305872204.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/bootstrap-5.3.1.min.js,124.223.52.82
 service-r3og53uv-1303913364.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x,122.51.85.143
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/get,139.155.148.131
 set.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.54.86.90
@@ -215,7 +214,8 @@ www.test9977.tk,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,47.99.17
 www.test9977.tk,Possible Cobalt Strike C2 Domain,/cx,47.99.177.59
 www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png,185.32.126.51
 www.xahoithongtins.com,Possible Cobalt Strike C2 Domain,/jquery-3.5.6.min.js,103.143.208.215
+www.yamaxun.blog,Possible Cobalt Strike C2 Fronted Domain,/Originate/v4.01/QGQTNORA,38.147.171.36
 www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/newtab_promos,20.104.172.62
-yamaxun.blog,Possible Cobalt Strike C2 Domain,/Originate/v4.01/QGQTNORA,38.147.171.36
+yamaxun.blog,Possible Cobalt Strike C2 Fronting Domain,/Originate/v4.01/QGQTNORA,38.147.171.36
 zj.court.cn.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,149.104.24.217
 zx.scsvcreg.com,Possible Cobalt Strike C2 Domain,/tab_shop_active,5.188.86.28

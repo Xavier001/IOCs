@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-25 22:13:17 UTC                        #
+# Last updated: 2024-04-26 09:33:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tondex.finance
+127.0.0.1	langzzzblog.online
+127.0.0.1	www.langzzzblog.online
+127.0.0.1	craftedfollowing.duckdns.org
 127.0.0.1	dct4jph3as9lp.cloudfront.net
 127.0.0.1	flypadi.com
 127.0.0.1	svif-venezuela.com
@@ -12504,25 +12508,4 @@
 127.0.0.1	www.alexis-dasilva.com
 127.0.0.1	atisgst.fit
 127.0.0.1	wapprod.stellantis-invite.com
-127.0.0.1	fooddeliviringgg.net
-127.0.0.1	service-oa25iv4d-1306428399.bj.apigw.tencentcs.com
-127.0.0.1	cdn.qq2s.com
-127.0.0.1	cdn.mww2.com
-127.0.0.1	salam.monster
-127.0.0.1	hi.salam.monster
-127.0.0.1	www.a-white.vn
-127.0.0.1	cahayashop.shop
-127.0.0.1	google-inc.ltd
-127.0.0.1	img.cdn.jsdblog.com
-127.0.0.1	public.liveonlin.com
-127.0.0.1	npgsql.liveonlin.com
-127.0.0.1	cctv.liveonlin.com
-127.0.0.1	main.liveonlin.com
-127.0.0.1	tech.liveonlin.com
-127.0.0.1	americafirst3d.com
-127.0.0.1	webmail.psd2.info.87-121-52-23.cprapid.com
-127.0.0.1	cdn.imango.ink
-127.0.0.1	api.imango.ink
-127.0.0.1	webdisk.psd2.info.87-121-52-23.cprapid.com
-127.0.0.1	windows-sns2.dns-microsoft.com
-# Number of entries: 12519
+# Number of entries: 12502
