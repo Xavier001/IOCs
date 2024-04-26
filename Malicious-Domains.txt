@@ -1,14 +1,34 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-26 09:33:58 UTC                        #
+# Last updated: 2024-04-26 19:49:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
-127.0.0.1	tondex.finance
-127.0.0.1	langzzzblog.online
-127.0.0.1	www.langzzzblog.online
+127.0.0.1	webcamcn.xyz
+127.0.0.1	nitio.com
+127.0.0.1	tampabayllc.top
+127.0.0.1	moranhq.duckdns.org
+127.0.0.1	156.248.54.11.webcamcn.xyz
+127.0.0.1	hm2.webcamcn.xyz
+127.0.0.1	pronethellas.com
+127.0.0.1	www.theertyuiergthjk.homes
+127.0.0.1	theertyuiergthjk.homes
+127.0.0.1	riptode.xyz
+127.0.0.1	oktes.xyz
+127.0.0.1	hypaton.xyz
+127.0.0.1	vances.xyz
+127.0.0.1	meday.xyz
+127.0.0.1	woo2tech.xyz
+127.0.0.1	yestohe.xyz
+127.0.0.1	vtlintro.xyz
+127.0.0.1	sol.ethvseos.nl
+127.0.0.1	www.nickelviper.com
+127.0.0.1	srothanhlong.vn
+127.0.0.1	ns1.anonymouskids.uk
+127.0.0.1	mail.metadate.services
+127.0.0.1	service-qyygkf1k-1307679590.gz.tencentapigw.com.cn
 127.0.0.1	craftedfollowing.duckdns.org
 127.0.0.1	dct4jph3as9lp.cloudfront.net
 127.0.0.1	flypadi.com
@@ -12483,17 +12503,4 @@
 127.0.0.1	abaadoffice.net
 127.0.0.1	ugopounds.ironoreprod.top
 127.0.0.1	davinci.kalnet.top
-127.0.0.1	c2.cache.ubernet.info
-127.0.0.1	ecs-116-204-77-75.compute.hwclouds-dns.com
-127.0.0.1	www.alkiuwu.one
-127.0.0.1	ecs-123-249-101-92.compute.hwclouds-dns.com
-127.0.0.1	ckqk89116vcb1iqatisgt6yyix55uhkxn.oast.online
-127.0.0.1	shop.jlsecurity.org
-127.0.0.1	aspidaprotection.com
-127.0.0.1	ticketbox23.com
-127.0.0.1	ns1.weepstakes.com
-127.0.0.1	www.weepstakes.com
-127.0.0.1	estafetagoappa.cyou
-127.0.0.1	estafetagoappb.cyou
-127.0.0.1	wuxay.top
-# Number of entries: 12490
+# Number of entries: 12497
