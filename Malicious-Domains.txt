@@ -12496,16 +12496,4 @@
 127.0.0.1	estafetagoappa.cyou
 127.0.0.1	estafetagoappb.cyou
 127.0.0.1	wuxay.top
-127.0.0.1	www.bisongdamall.com
-127.0.0.1	mail.desarrolloycrecimiento.com
-127.0.0.1	gpt-use.com
-127.0.0.1	monitor.theodonal.me
-127.0.0.1	ombi.theodonal.me
-127.0.0.1	ch97jc4esnial34gvgeggndubmfswjmhc.oast.online
-127.0.0.1	drive-myaccount.com
-127.0.0.1	connect.servrweb.com
-127.0.0.1	login.msonline-security.com
-127.0.0.1	www.alexis-dasilva.com
-127.0.0.1	atisgst.fit
-127.0.0.1	wapprod.stellantis-invite.com
-# Number of entries: 12502
+# Number of entries: 12490
