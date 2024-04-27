@@ -12488,11 +12488,4 @@
 127.0.0.1	e.faqserv.com
 127.0.0.1	ebc.faqserv.com
 127.0.0.1	bamd.faqserv.com
-127.0.0.1	ns1.pebrord.com
-127.0.0.1	moodelstore.tel
-127.0.0.1	bot.pvp-rivals.com
-127.0.0.1	taochinashowwers.com
-127.0.0.1	modalefastnow.com
-127.0.0.1	qwer.gybritanalytsesystem.com
-127.0.0.1	meilleur.playerofsunshine.com
-# Number of entries: 12489
+# Number of entries: 12482
