@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-26 22:14:44 UTC                        #
+# Last updated: 2024-04-27 11:27:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	c.hcgos.com
+127.0.0.1	www.yamaxun.blog
+127.0.0.1	click.buys.ru
+127.0.0.1	service-e22kp8jz-1259321672.bj.tencentapigw.com.cn
+127.0.0.1	canarapay-f5hghmdjd7eddbb4.z02.azurefd.net
+127.0.0.1	logist.cct-logistics.com
 127.0.0.1	www.gfyl.fun
 127.0.0.1	webcamcn.xyz
 127.0.0.1	nitio.com
@@ -12438,54 +12444,4 @@
 127.0.0.1	runyanmgysmanaskklasgindtezya.space
 127.0.0.1	onlinepoints.online
 127.0.0.1	skumrmgysmanaskihglassdzya.website
-127.0.0.1	tes.faqserv.com
-127.0.0.1	sda.faqserv.com
-127.0.0.1	sde.faqserv.com
-127.0.0.1	sef.faqserv.com
-127.0.0.1	des.faqserv.com
-127.0.0.1	ceb.faqserv.com
-127.0.0.1	smt.faqserv.com
-127.0.0.1	tsa.faqserv.com
-127.0.0.1	sta.faqserv.com
-127.0.0.1	efs.faqserv.com
-127.0.0.1	srm.faqserv.com
-127.0.0.1	bams.faqserv.com
-127.0.0.1	tbs.faqserv.com
-127.0.0.1	sba.faqserv.com
-127.0.0.1	esb.faqserv.com
-127.0.0.1	sexb.faqserv.com
-127.0.0.1	seb.faqserv.com
-127.0.0.1	efa.faqserv.com
-127.0.0.1	sah.faqserv.com
-127.0.0.1	dem.faqserv.com
-127.0.0.1	sds.faqserv.com
-127.0.0.1	edb.faqserv.com
-127.0.0.1	eds.faqserv.com
-127.0.0.1	fsa.faqserv.com
-127.0.0.1	res.faqserv.com
-127.0.0.1	fed.faqserv.com
-127.0.0.1	ebd.faqserv.com
-127.0.0.1	edm.mrbasic.com
-127.0.0.1	sel.faqserv.com
-127.0.0.1	deb.faqserv.com
-127.0.0.1	tsm.faqserv.com
-127.0.0.1	sev.faqserv.com
-127.0.0.1	srd.faqserv.com
-127.0.0.1	fda.faqserv.com
-127.0.0.1	esd.faqserv.com
-127.0.0.1	das.faqserv.com
-127.0.0.1	sdm.faqserv.com
-127.0.0.1	sed.faqserv.com
-127.0.0.1	tdm.faqserv.com
-127.0.0.1	eba.faqserv.com
-127.0.0.1	sra.faqserv.com
-127.0.0.1	ebf.faqserv.com
-127.0.0.1	sat.faqserv.com
-127.0.0.1	sexi.faqserv.com
-127.0.0.1	sem.faqserv.com
-127.0.0.1	srb.faqserv.com
-127.0.0.1	stm.faqserv.com
-127.0.0.1	e.faqserv.com
-127.0.0.1	ebc.faqserv.com
-127.0.0.1	bamd.faqserv.com
-# Number of entries: 12482
+# Number of entries: 12438

@@ -1,12 +1,14 @@
 ################################################################
 # MalwareBazaar recent malware samples (MD5 hashes)            #
-# Last updated: 2024-04-27 09:13:52 UTC                        #
+# Last updated: 2024-04-27 11:24:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://bazaar.abuse.ch/faq/#tos               #
 # For questions please contact bazaar [at] abuse.ch            #
 ################################################################
 #
 # md5_hash
+24dd75b0a7bb9a0e0918ee0dd84a581a
+42c32b8ee377ce3bcf36f51fb7bc93a8
 d13c910c1ad81d53b8c4ad321dc01fe3
 9801a5daeb6ffaf3771a5b57686e9d77
 c10d209871d0561cd870e933eeded9ee
@@ -369,29 +371,4 @@ aeee41fcd4a3875eee78dc08f5b8395c
 a7b36a97c0b37ebe41a473a480ad8a97
 e85890ad328cc1f1a17ebba9b6757978
 c91f9c9ffa73cd9d586d34f73beee0cd
-b8a51009c3b6ed621e6c50c49b2e6269
-b121a204d1da912895072b38471e6165
-365526e3609e29a309f253eb2de5fbdc
-484617c0e2a1d6f7e95f121717e11768
-a74514a8689c48fdd73fe4a340802ed0
-5638409c5aed265b586a43c86b8c2a17
-ae88072b3a34f52af18b1f67ebb8a123
-d3ccea4baebe97ae4b7adf2c95ce4e20
-94ba115f3f3c595ca802ab67259a1a46
-18fe386c851824a33e76da1f57610e18
-5b82437da0e8c0bbdc98c975b7bdb8d9
-361a83aefc89417473a317e9f7fedddd
-4e24ccf1737fe5c7549856a442e14a6d
-a648e3916f191a59f47d07a49702d0eb
-1e3db0836cdb18fde7ce5073c7ffd7a7
-637080ee9ea2fba9fd525e87aa2e2e4d
-f0727b7a099641e8b72c55b887d8f5f7
-d0511015ef5a3ed82eb09778bf9f42cb
-e3ee8920014e7a180000673f94c5a347
-74e9f3ba74c619021b87520b083c6a1d
-a6f1fcb28b62910849c5e17699401097
-717ec46d474a5b5ab7d90ce92ffd3215
-2212e086551552532c3da53d857167a4
-46d06b32a50fd0c1a1981695e6504aa5
-cd6222a478ab6d10ad8580a791d311c2
-# Number of entries: 387
+# Number of entries: 364
