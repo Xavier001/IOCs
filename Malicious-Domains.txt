@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-27 11:27:49 UTC                        #
+# Last updated: 2024-04-27 18:36:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	greatnessappreviews.com
+127.0.0.1	www.chinamobile.live
 127.0.0.1	c.hcgos.com
 127.0.0.1	www.yamaxun.blog
 127.0.0.1	click.buys.ru
@@ -12395,53 +12397,4 @@
 127.0.0.1	adsh.vizvaz.com
 127.0.0.1	rbm.faqserv.com
 127.0.0.1	vmd119000.contaboserver.net
-127.0.0.1	rahaishere.site
-127.0.0.1	apuyhh.xyz
-127.0.0.1	mrcomishere.site
-127.0.0.1	ehduhehudhedhu.site
-127.0.0.1	mekerishere.site
-127.0.0.1	xdpanel.cloud
-127.0.0.1	stableconn.online
-127.0.0.1	safe.fogreir.fun
-127.0.0.1	fogreir.fun
-127.0.0.1	hfastt.com
-127.0.0.1	ap.ronappig.xyz
-127.0.0.1	ronappig.xyz
-127.0.0.1	log.bisongdamall.com
-127.0.0.1	microsoftoutlook.sytes.net
-127.0.0.1	cms.credsera.org
-127.0.0.1	rubalasksigysmanlkavayssstezya.website
-127.0.0.1	monbruusr2aqr.com
-127.0.0.1	ldrglobal.casa
-127.0.0.1	trackingg2-protectioon.cdn4.mozilla.net
-127.0.0.1	trackingg1-protectioon.cdn5.mozilla.net
-127.0.0.1	pssiofrotms1q.com
-127.0.0.1	dgokmertli23q.com
-127.0.0.1	onlinepoints.top
-127.0.0.1	nalgysmanurmaskmikluhasya.website
-127.0.0.1	mifrutty.com
-127.0.0.1	gnalmgysmanask4ermanderezya.website
-127.0.0.1	rutramagysmanskkmoderatordstezya.website
-127.0.0.1	glamrgysmanaskdkambibatstezya.space
-127.0.0.1	rramaskkmigysmanleronurzya.website
-127.0.0.1	rubymgysmanmaskrufinurtdrfezya.website
-127.0.0.1	sramrmaskgysmanproteploszya.space
-127.0.0.1	rufgysmanymrmaskbteyryeuliliezya.website
-127.0.0.1	rbabamrgysmanmaskriserdfnstezya.space
-127.0.0.1	rusitmgysmanaskpikabyatezya.website
-127.0.0.1	rurprgysmanamskprikchinhdncstezya.space
-127.0.0.1	rmonaasgysmankktxubastaezya.live
-127.0.0.1	rzipaurgysmanmaskssmastaezya.abkhazia.su
-127.0.0.1	systemcheck.top
-127.0.0.1	rsiskmasgysmankbzfdrosterzya.com
-127.0.0.1	rrakomaskpgysmancdakirgitushkanchikzya.adygeya.su
-127.0.0.1	slammagysmanskkapsulrttezya.website
-127.0.0.1	rutichhdaskgysmanoltogorovidsnstezya.space
-127.0.0.1	incontroler.com
-127.0.0.1	whofos.com
-127.0.0.1	rurparagysmanmaskstreptokokusstezya.space
-127.0.0.1	rkovkagysmanmasksemyanastezya.adygeya.su
-127.0.0.1	runyanmgysmanaskklasgindtezya.space
-127.0.0.1	onlinepoints.online
-127.0.0.1	skumrmgysmanaskihglassdzya.website
-# Number of entries: 12438
+# Number of entries: 12391
