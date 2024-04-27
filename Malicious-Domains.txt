@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-26 19:49:50 UTC                        #
+# Last updated: 2024-04-26 22:14:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.gfyl.fun
 127.0.0.1	webcamcn.xyz
 127.0.0.1	nitio.com
 127.0.0.1	tampabayllc.top
@@ -12494,13 +12495,4 @@
 127.0.0.1	modalefastnow.com
 127.0.0.1	qwer.gybritanalytsesystem.com
 127.0.0.1	meilleur.playerofsunshine.com
-127.0.0.1	68.183.220.248.sslip.io
-127.0.0.1	gruposermesa.com
-127.0.0.1	hasbulla.su
-127.0.0.1	theodonal.ddns.me
-127.0.0.1	crwalho.top
-127.0.0.1	v2r-cn2.lifeisff.fun
-127.0.0.1	abaadoffice.net
-127.0.0.1	ugopounds.ironoreprod.top
-127.0.0.1	davinci.kalnet.top
-# Number of entries: 12497
+# Number of entries: 12489
