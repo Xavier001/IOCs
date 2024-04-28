@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-28 09:02:16 UTC                        #
+# Last updated: 2024-04-28 10:36:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	kindofwelcomeperspective.com
+127.0.0.1	powerbi3-dffqb3gfbudugyas.z03.azurefd.net
 127.0.0.1	street.letmeshine.xyz
 127.0.0.1	cleartotalfisherwo.shop
 127.0.0.1	worryfillvolcawoi.shop
@@ -12413,10 +12415,4 @@
 127.0.0.1	nuevo2gameslop.xyz
 127.0.0.1	nuevoconceti.xyz
 127.0.0.1	repicdominic.xyz
-127.0.0.1	service-m2easdvn-1303971391.bj.apigw.tencentcs.com
-127.0.0.1	sdl.faqserv.com
-127.0.0.1	cdm.faqserv.com
-127.0.0.1	cfb.faqserv.com
-127.0.0.1	adsh.vizvaz.com
-127.0.0.1	rbm.faqserv.com
-# Number of entries: 12413
+# Number of entries: 12409
