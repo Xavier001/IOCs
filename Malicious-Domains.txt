@@ -1,11 +1,28 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-27 22:09:00 UTC                        #
+# Last updated: 2024-04-28 09:02:16 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	street.letmeshine.xyz
+127.0.0.1	cleartotalfisherwo.shop
+127.0.0.1	worryfillvolcawoi.shop
+127.0.0.1	enthusiasimtitleow.shop
+127.0.0.1	dismissalcylinderhostw.shop
+127.0.0.1	affordcharmcropwo.shop
+127.0.0.1	diskretainvigorousiw.shop
+127.0.0.1	communicationgenerwo.shop
+127.0.0.1	pillowbrocccolipe.shop
+127.0.0.1	palmeventeryjusk.shop
+127.0.0.1	strollheavengwu.shop
+127.0.0.1	peanuearthflaxes.shop
+127.0.0.1	auctiongutollyjkui.shop
+127.0.0.1	democraticseekysiwo.shop
+127.0.0.1	p.doxbin.uno
+127.0.0.1	phentermine-partial.gl.at.ply.gg
+127.0.0.1	legendsworld.cloud
 127.0.0.1	surgical-farming-ca.com
 127.0.0.1	hjdsasync.duckdns.org
 127.0.0.1	undjsj.duckdns.org
@@ -12402,4 +12419,4 @@
 127.0.0.1	cfb.faqserv.com
 127.0.0.1	adsh.vizvaz.com
 127.0.0.1	rbm.faqserv.com
-# Number of entries: 12396
+# Number of entries: 12413

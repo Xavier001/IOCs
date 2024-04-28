@@ -179,7 +179,7 @@ service-dduj2otc-1303958398.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Dom
 service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Contact/v9.23/AODFY6X8UV,142.93.2.25
 service-e22kp8jz-1259321672.bj.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/jquerys-6.3.5.max.js,43.143.168.206
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,43.138.20.107
-service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/g.pixel,123.207.51.53
+service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,123.207.51.53
 service-j78tszan-1319584009.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronted Domain,/product,47.104.213.26
 service-k43f6rw9-1308954353.kr.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,101.33.77.74
 service-ku7vp6lj-1253504731.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x,124.222.98.112
@@ -227,5 +227,4 @@ www.xahoithongtins.com,Possible Cobalt Strike C2 Domain,/jquery-3.5.6.min.js,103
 www.yamaxun.blog,Possible Cobalt Strike C2 Fronted Domain,/Originate/v4.01/QGQTNORA,38.147.171.36
 www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/newtab_promos,20.104.172.62
 yamaxun.blog,Possible Cobalt Strike C2 Fronting Domain,/Originate/v4.01/QGQTNORA,38.147.171.36
-zj.court.cn.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,149.104.24.217
 zx.scsvcreg.com,Possible Cobalt Strike C2 Domain,/tab_shop_active,5.188.86.28
