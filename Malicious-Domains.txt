@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-28 10:36:02 UTC                        #
+# Last updated: 2024-04-28 13:00:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	c.qqwhoami.org
+127.0.0.1	saveclinetsforme68465454711991.publicvm.com
+127.0.0.1	elamoto.com
+127.0.0.1	kongtuke.com
 127.0.0.1	kindofwelcomeperspective.com
 127.0.0.1	powerbi3-dffqb3gfbudugyas.z03.azurefd.net
 127.0.0.1	street.letmeshine.xyz
@@ -12404,15 +12408,4 @@
 127.0.0.1	si.servet.site
 127.0.0.1	bitnow7005.duckdns.org
 127.0.0.1	service-cia1auek-1314775489.gz.apigw.tencentcs.com
-127.0.0.1	en.voiceaipro.com
-127.0.0.1	en.voice-ai.store
-127.0.0.1	voice.2005thavenue.com
-127.0.0.1	havoc.riggcorp.com
-127.0.0.1	ec2-54-94-98-53.sa-east-1.compute.amazonaws.com
-127.0.0.1	www.buesem2021.com
-127.0.0.1	1.jangholi.info
-127.0.0.1	gamesstartf.xyz
-127.0.0.1	nuevo2gameslop.xyz
-127.0.0.1	nuevoconceti.xyz
-127.0.0.1	repicdominic.xyz
-# Number of entries: 12409
+# Number of entries: 12402

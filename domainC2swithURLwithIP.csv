@@ -21,6 +21,7 @@ bliblyuvblfds.work.gd,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,
 blm-wiki.com,Possible Cobalt Strike C2 Domain,/Validate/v8.18/84LE6PSOHS,194.165.16.59
 breakingnews.kumbaraan.biz.id,Possible Cobalt Strike C2 Domain,/metro91/admin/1/ppptp.jpg,128.199.141.212
 c.hcgos.com,Possible Cobalt Strike C2 Domain,/ca,43.159.58.81
+c.qqwhoami.org,Possible Cobalt Strike C2 Domain,/updates,43.159.58.81
 c1.tqrjfru.cn,Possible Cobalt Strike C2 Domain,/ga.js,114.115.210.125
 c2.marfei.zone,Possible Cobalt Strike C2 Domain,/activity,121.40.119.94
 canarapay-f5hghmdjd7eddbb4.z02.azurefd.net,Possible Cobalt Strike C2 Domain,/safebrowsing/I7F9L/s0Rm6WOzIDfYrB6YAi2d,68.183.92.175
@@ -43,12 +44,12 @@ contact.mwam.support,Possible Cobalt Strike C2 Domain,/messages/C0527B0NM,18.184
 content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/updates.rss,8.140.135.23
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/updates.rss,8.140.135.23
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/updates.rss,134.122.129.173
-cs.xfdaili.com,Possible Cobalt Strike C2 Domain,/j.ad,154.204.176.13
-cs.xfdaili.com,Possible Cobalt Strike C2 Domain,/j.ad,154.204.177.133
-cs.xfdaili.com,Possible Cobalt Strike C2 Domain,/j.ad,154.204.177.22
-cs.xfdaili.com,Possible Cobalt Strike C2 Domain,/load,154.204.176.13
-cs.xfdaili.com,Possible Cobalt Strike C2 Domain,/load,154.204.177.133
-cs.xfdaili.com,Possible Cobalt Strike C2 Domain,/load,154.204.177.22
+cs.xfdaili.com,Possible Cobalt Strike C2 Domain,/activity,154.204.176.13
+cs.xfdaili.com,Possible Cobalt Strike C2 Domain,/activity,154.204.177.133
+cs.xfdaili.com,Possible Cobalt Strike C2 Domain,/activity,154.204.177.22
+cs.xfdaili.com,Possible Cobalt Strike C2 Domain,/updates.rss,154.204.176.13
+cs.xfdaili.com,Possible Cobalt Strike C2 Domain,/updates.rss,154.204.177.133
+cs.xfdaili.com,Possible Cobalt Strike C2 Domain,/updates.rss,154.204.177.22
 d3c0hjeoqmryl5.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h,137.184.237.252
 d3o8tsrpl5k6yb.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h,137.184.237.252
 d3so0g2pxg0u5a.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/8q98pYJ/V16gfsYQQuKzweZW4ysIJrtWB-h,137.184.237.252
@@ -217,6 +218,7 @@ www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/,115.159.50.50
 www.installbootstrap.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,52.37.96.65
 www.microsoftonline.info,Possible Cobalt Strike C2 Domain,/j.ad,47.236.185.166
 www.myhuaweicloud.com,Possible Cobalt Strike C2 Fronting Domain,/info,124.223.220.143
+www.qichen.fun,Possible Cobalt Strike C2 Domain,/ca,61.139.24.20
 www.sonystore.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,39.98.192.104
 www.stylejason.com,Possible Cobalt Strike C2 Domain,/push,188.114.97.3
 www.test9977.tk,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,47.99.177.59
