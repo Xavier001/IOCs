@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-27 18:36:02 UTC                        #
+# Last updated: 2024-04-27 22:09:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	surgical-farming-ca.com
+127.0.0.1	hjdsasync.duckdns.org
+127.0.0.1	undjsj.duckdns.org
+127.0.0.1	hjxwrm5.duckdns.org
+127.0.0.1	vbdsg.duckdns.org
+127.0.0.1	nmds.duckdns.org
 127.0.0.1	greatnessappreviews.com
 127.0.0.1	www.chinamobile.live
 127.0.0.1	c.hcgos.com
@@ -12396,5 +12402,4 @@
 127.0.0.1	cfb.faqserv.com
 127.0.0.1	adsh.vizvaz.com
 127.0.0.1	rbm.faqserv.com
-127.0.0.1	vmd119000.contaboserver.net
-# Number of entries: 12391
+# Number of entries: 12396
