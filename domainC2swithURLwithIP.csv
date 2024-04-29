@@ -206,6 +206,8 @@ update.winservers-network.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,52.253.108.7
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,52.253.108.7
 verify.update.nadra-pk.org,Possible Cobalt Strike C2 Domain,/visit.js,45.76.90.103
+visualstudio.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html,39.100.109.229
+visualstudio.microsoft.com.volcgslb-mlt.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html,39.100.109.229
 webpoint.micromoto.fun,Possible Cobalt Strike C2 Domain,/api/3,64.227.107.166
 www.614110.xyz,Possible Cobalt Strike C2 Domain,/milu_image/,18.166.113.176
 www.alipan.lol,Possible Cobalt Strike C2 Domain,/api/3,152.42.188.132
