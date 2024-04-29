@@ -1,11 +1,26 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-28 22:15:30 UTC                        #
+# Last updated: 2024-04-29 09:49:34 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	apolovapers.com
+127.0.0.1	24kawys.onflashdrive.app
+127.0.0.1	cms.nawwan.xyz
+127.0.0.1	faceboy.shop
+127.0.0.1	www.prsix.xyz
+127.0.0.1	service-rkcvh0tf-1252325407.cd.tencentapigw.com
+127.0.0.1	cuitikun.onflashdrive.app
+127.0.0.1	asero23.ddns.net
+127.0.0.1	deltaexploits.org
+127.0.0.1	roexec.org
+127.0.0.1	legendsworld.top
+127.0.0.1	cecilio.network
+127.0.0.1	retardedclassmate.dyn
+127.0.0.1	whitepeopleonly.dyn
+127.0.0.1	servernoworky.geek
 127.0.0.1	service-jj4sc5n0-1325804472.gz.tencentapigw.com.cn
 127.0.0.1	www.rollupdate.com
 127.0.0.1	c.qqwhoami.org
@@ -12410,4 +12425,4 @@
 127.0.0.1	si.servet.site
 127.0.0.1	bitnow7005.duckdns.org
 127.0.0.1	service-cia1auek-1314775489.gz.apigw.tencentcs.com
-# Number of entries: 12404
+# Number of entries: 12419
