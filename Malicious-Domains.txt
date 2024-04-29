@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-29 10:14:18 UTC                        #
+# Last updated: 2024-04-29 21:35:53 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	graims.xyz
+127.0.0.1	lebondogicoin.com
+127.0.0.1	ikea0.com
+127.0.0.1	mirai-nro.space
+127.0.0.1	cecilio.pro
+127.0.0.1	service-hh4fmtad-1321953982.sh.tencentapigw.com/
+127.0.0.1	premium.davidabostic.com
 127.0.0.1	visualstudio.microsoft.com.volcgslb-mlt.com
 127.0.0.1	apolovapers.com
 127.0.0.1	24kawys.onflashdrive.app
@@ -12425,5 +12432,4 @@
 127.0.0.1	qpurrybeatmecamtest.ddns.net
 127.0.0.1	si.servet.site
 127.0.0.1	bitnow7005.duckdns.org
-127.0.0.1	service-cia1auek-1314775489.gz.apigw.tencentcs.com
-# Number of entries: 12420
+# Number of entries: 12426
