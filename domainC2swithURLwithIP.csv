@@ -102,7 +102,6 @@ keolisgroup.azureedge.net,Possible Cobalt Strike C2 Domain,/onedrive,138.68.87.1
 kh1.userjoy.com,Possible Cobalt Strike C2 Fronted Domain,/ca,43.134.233.227
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain,/api/3,101.35.198.64
 log.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2,206.237.30.76
-login.processus.network,Possible Cobalt Strike C2 Fronted Domain,/Collector/2.0/settings/,20.19.35.117
 logist.cct-logistics.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,92.63.193.141
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2,206.237.30.76
 m.old.gxjczx.gov.cn,Possible Cobalt Strike C2 Fronted Domain,/info,124.223.220.143
@@ -182,6 +181,7 @@ service-e22kp8jz-1259321672.bj.tencentapigw.com.cn,Possible Cobalt Strike C2 Dom
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,43.138.20.107
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,123.207.51.53
 service-j78tszan-1319584009.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronted Domain,/product,47.104.213.26
+service-jj4sc5n0-1325804472.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x,43.140.37.49
 service-k43f6rw9-1308954353.kr.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit,101.33.77.74
 service-ku7vp6lj-1253504731.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x,124.222.98.112
 service-ldzftvcf-1252123187.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/getit,43.136.176.207
@@ -219,6 +219,7 @@ www.installbootstrap.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/16
 www.microsoftonline.info,Possible Cobalt Strike C2 Domain,/j.ad,47.236.185.166
 www.myhuaweicloud.com,Possible Cobalt Strike C2 Fronting Domain,/info,124.223.220.143
 www.qichen.fun,Possible Cobalt Strike C2 Domain,/ca,61.139.24.20
+www.rollupdate.com,Possible Cobalt Strike C2 Domain,/rn.js,45.125.67.49
 www.sonystore.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,39.98.192.104
 www.stylejason.com,Possible Cobalt Strike C2 Domain,/push,188.114.97.3
 www.test9977.tk,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,47.99.177.59

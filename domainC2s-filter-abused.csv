@@ -77,7 +77,6 @@ keolisgroup.azureedge.net,Possible Cobalt Strike C2 Domain
 kh1.userjoy.com,Possible Cobalt Strike C2 Fronted Domain
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain
 log.speech-microsoft.com,Possible Cobalt Strike C2 Domain
-login.processus.network,Possible Cobalt Strike C2 Fronted Domain
 logist.cct-logistics.com,Possible Cobalt Strike C2 Domain
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain
 m.old.gxjczx.gov.cn,Possible Cobalt Strike C2 Fronted Domain
@@ -154,6 +153,7 @@ service-e22kp8jz-1259321672.bj.tencentapigw.com.cn,Possible Cobalt Strike C2 Dom
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-j78tszan-1319584009.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
+service-jj4sc5n0-1325804472.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain
 service-k43f6rw9-1308954353.kr.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-ku7vp6lj-1253504731.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-ldzftvcf-1252123187.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain
@@ -191,6 +191,7 @@ www.installbootstrap.com,Possible Cobalt Strike C2 Domain
 www.microsoftonline.info,Possible Cobalt Strike C2 Domain
 www.myhuaweicloud.com,Possible Cobalt Strike C2 Fronting Domain
 www.qichen.fun,Possible Cobalt Strike C2 Domain
+www.rollupdate.com,Possible Cobalt Strike C2 Domain
 www.sonystore.xyz,Possible Cobalt Strike C2 Domain
 www.stylejason.com,Possible Cobalt Strike C2 Domain
 www.test9977.tk,Possible Cobalt Strike C2 Domain
