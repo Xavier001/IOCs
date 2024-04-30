@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-30 09:42:08 UTC                        #
+# Last updated: 2024-04-30 10:51:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ns4.tencentupdate.buzz
+127.0.0.1	ns2.tencentupdate.buzz
+127.0.0.1	ns3.tencentupdate.buzz
+127.0.0.1	ns1.tencentupdate.buzz
+127.0.0.1	chat.icbcbc.com.cn
+127.0.0.1	oss.icbcbc.com.cn
+127.0.0.1	vpn.icbcbc.com.cn
+127.0.0.1	mailtest.icbcbc.com.cn
 127.0.0.1	finance.kumbaraan.biz.id
 127.0.0.1	breakingnews.kumbaraan.biz.id
 127.0.0.1	ns2.crnbchina.buzz
@@ -12388,4 +12396,4 @@
 127.0.0.1	contacto25.stafsolutions.com
 127.0.0.1	ec2-44-202-151-94.compute-1.amazonaws.com
 127.0.0.1	vmd119001.contaboserver.net
-# Number of entries: 12382
+# Number of entries: 12390
