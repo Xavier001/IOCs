@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-30 10:51:12 UTC                        #
+# Last updated: 2024-04-30 16:27:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	racess.xyz
+127.0.0.1	hobobo.xyz
+127.0.0.1	zoomus.pro
+127.0.0.1	fibersee.com
+127.0.0.1	shaffatta.com
+127.0.0.1	apidevwa.com
+127.0.0.1	returnofspace.com
+127.0.0.1	apidevst.com
 127.0.0.1	ns4.tencentupdate.buzz
 127.0.0.1	ns2.tencentupdate.buzz
 127.0.0.1	ns3.tencentupdate.buzz
@@ -12381,19 +12389,4 @@
 127.0.0.1	test.gpt-use.com
 127.0.0.1	viapaths.co.uk
 127.0.0.1	cs.10011.fun
-127.0.0.1	foxgazafreego.mypsx.net
-127.0.0.1	webdataspace.com
-127.0.0.1	poibvyctm21e.com
-127.0.0.1	festive-jones.68-183-220-248.plesk.page
-127.0.0.1	alpha.kehulaile.cn
-127.0.0.1	mysqlrunner-ha-4dbbd03e.mysql.database.azure.com
-127.0.0.1	great-merkle.68-183-220-248.plesk.page
-127.0.0.1	vicoin.cc
-127.0.0.1	clubpro.space
-127.0.0.1	distracted-perlman.57-128-165-239.plesk.page
-127.0.0.1	hasbulla.site
-127.0.0.1	c2.yihuan.cc
-127.0.0.1	contacto25.stafsolutions.com
-127.0.0.1	ec2-44-202-151-94.compute-1.amazonaws.com
-127.0.0.1	vmd119001.contaboserver.net
-# Number of entries: 12390
+# Number of entries: 12383
