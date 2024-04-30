@@ -10,7 +10,6 @@ ad.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.54.86.90
 admin.usaid2.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,154.81.35.71
 aerh.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js,159.89.187.246
 api.rayob2.shop,Possible Cobalt Strike C2 Domain,/Content,43.153.202.176
-apiv2.huya.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,43.138.10.232
 as.scsvcreg.com,Possible Cobalt Strike C2 Domain,/eo,5.188.86.28
 baidu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,164.155.128.124
 baidu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,60.204.187.184
@@ -71,13 +70,10 @@ dns.otxcosmeticscare.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,1
 dns.t0nger.com,Possible Cobalt Strike C2 Domain,/pixel,8.218.137.213
 dns.trailcosolutions.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,78.141.217.186
 download.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/,43.129.28.136
-download.micknow.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,43.138.10.232
 dr-hoefler.de,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,46.101.137.168
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm,121.5.128.191
 dvbtools.com,Possible Cobalt Strike C2 Domain,/DocumentId,185.172.128.6
 dvbtools.com,Possible Cobalt Strike C2 Domain,/DocumentId,185.42.14.185
-eas.cqiv.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,43.138.10.232
-edu.hicomputing.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,43.138.10.232
 f6d2b014a8664ddd8d859ce64f3741ad.apig.cn-east-3.huaweicloudapis.com,Possible Cobalt Strike C2 Domain,/static/askbob,101.36.121.188
 f6d2b014a8664ddd8d859ce64f3741ad.apig.cn-east-3.huaweicloudapis.com,Possible Cobalt Strike C2 Domain,/static/askbob,101.36.126.189
 f6d2b014a8664ddd8d859ce64f3741ad.apig.cn-east-3.huaweicloudapis.com,Possible Cobalt Strike C2 Domain,/static/askbob,152.32.131.118

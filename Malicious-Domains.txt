@@ -1,11 +1,29 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-29 21:35:53 UTC                        #
+# Last updated: 2024-04-30 09:42:08 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	finance.kumbaraan.biz.id
+127.0.0.1	breakingnews.kumbaraan.biz.id
+127.0.0.1	ns2.crnbchina.buzz
+127.0.0.1	ns1.crnbchina.buzz
+127.0.0.1	arilyfarlico.ru
+127.0.0.1	www.arilyfarlico.ru
+127.0.0.1	herioscheats.xyz
+127.0.0.1	xkoic3y.dekma-gay.ru
+127.0.0.1	bot.secure-network-rebirthltd.ru
+127.0.0.1	security.secure-core-rebirthltd.su
+127.0.0.1	vps.rebirth-network.su
+127.0.0.1	security.rebirth-network.su
+127.0.0.1	sex.secure-cyber-security-rebirthltd.su
+127.0.0.1	xysk5eeyj0j5n.xyz
+127.0.0.1	vps.rebirth-network.su
+127.0.0.1	berlyn777.con-ip.com
+127.0.0.1	analysis-minolta.gl.at.ply.gg
+127.0.0.1	xkoic3y.dekma-gay.ru
 127.0.0.1	graims.xyz
 127.0.0.1	lebondogicoin.com
 127.0.0.1	ikea0.com
@@ -12370,66 +12388,4 @@
 127.0.0.1	contacto25.stafsolutions.com
 127.0.0.1	ec2-44-202-151-94.compute-1.amazonaws.com
 127.0.0.1	vmd119001.contaboserver.net
-127.0.0.1	databasewebdevelopment.com
-127.0.0.1	setrester.com
-127.0.0.1	erikskite.fun
-127.0.0.1	nasaprodu.fun
-127.0.0.1	gcdnbabl3png.erikskite.fun
-127.0.0.1	gfkodssnvosdjvlksnvldkj.con-ip.com
-127.0.0.1	donpapii.duckdns.org
-127.0.0.1	spm23.casacam.net
-127.0.0.1	rdpown.ydns.eu
-127.0.0.1	apples.con-ip.com
-127.0.0.1	lestfuckinggoon.broke-it.net
-127.0.0.1	sdvjhdibvcksdnvisdhvsds.con-ip.com
-127.0.0.1	war.bumbleshrimp.com
-127.0.0.1	danielitopt.con-ip.com
-127.0.0.1	sxvcddhcbdjcbixg.con-ip.com
-127.0.0.1	dsojvhocnvlkvokcvond.con-ip.com
-127.0.0.1	haroldmoscotelora09.con-ip.com
-127.0.0.1	whitecat.space
-127.0.0.1	asegurar100.4cloud.click
-127.0.0.1	grantadistciaret.com
-127.0.0.1	filwelreg.pw
-127.0.0.1	blackrockxp.dyndns.org
-127.0.0.1	somto.ydns.eu
-127.0.0.1	drivebackupupdate.com
-127.0.0.1	miradores.con-ip.com
-127.0.0.1	kashrteletts.giize.com
-127.0.0.1	secure.cloudproxyserv.com
-127.0.0.1	sheddy1122.ddns.net
-127.0.0.1	frostycheats-30646.portmap.host
-127.0.0.1	lee44.kozow.com
-127.0.0.1	adult-purchased.gl.at.ply.gg
-127.0.0.1	rules-views.at.ply.gg
-127.0.0.1	jameshde18.duckdns.org
-127.0.0.1	testarosa.duckdns.org
-127.0.0.1	mike09-55168.portmap.host
-127.0.0.1	mode-apollo.gl.at.ply.gg
-127.0.0.1	face-kissing.gl.at.ply.gg
-127.0.0.1	serverwindor.duckdns.org
-127.0.0.1	xmsh.publicvm.com
-127.0.0.1	androidmedallo.duckdns.org
-127.0.0.1	brightle.ddns.net
-127.0.0.1	windowsmanagerhost.ddns.net
-127.0.0.1	friend-deer.gl.at.ply.gg
-127.0.0.1	www.quochoice.com
-127.0.0.1	www.systeminfor.com
-127.0.0.1	rainydaysweb.com
-127.0.0.1	www.manager2013.com
-127.0.0.1	www.apple-net.com
-127.0.0.1	detail.misecure.com
-127.0.0.1	hdviet.tv-vn.com
-127.0.0.1	cameraunitsdtock.sytes.net
-127.0.0.1	cherrywoods-29890.portmap.host
-127.0.0.1	go-bean.at.ply.gg
-127.0.0.1	msi.servet.site
-127.0.0.1	nancyagoatron.sytes.net
-127.0.0.1	neko10.tplinkdns.com
-127.0.0.1	overheaven.ddns.net
-127.0.0.1	prnt.dedyn.io
-127.0.0.1	prtsc.kozow.com
-127.0.0.1	qpurrybeatmecamtest.ddns.net
-127.0.0.1	si.servet.site
-127.0.0.1	bitnow7005.duckdns.org
-# Number of entries: 12426
+# Number of entries: 12382

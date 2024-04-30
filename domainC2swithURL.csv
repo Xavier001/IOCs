@@ -10,7 +10,6 @@ ad.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 admin.usaid2.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 aerh.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js
 api.rayob2.shop,Possible Cobalt Strike C2 Domain,/Content
-apiv2.huya.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 as.scsvcreg.com,Possible Cobalt Strike C2 Domain,/eo
 baidu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 baidu.freemetb.top,Possible Cobalt Strike C2 Domain,/azure/api/v2/userinfo/get
@@ -62,12 +61,9 @@ dns.otxcosmeticscare.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 dns.t0nger.com,Possible Cobalt Strike C2 Domain,/pixel
 dns.trailcosolutions.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 download.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/
-download.micknow.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 dr-hoefler.de,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm
 dvbtools.com,Possible Cobalt Strike C2 Domain,/DocumentId
-eas.cqiv.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
-edu.hicomputing.huawei.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 f6d2b014a8664ddd8d859ce64f3741ad.apig.cn-east-3.huaweicloudapis.com,Possible Cobalt Strike C2 Domain,/static/askbob
 faceboy.shop,Possible Cobalt Strike C2 Domain,/functionalStatus/UdV4kcIWNYksdzob3mbtIBDhLViCeeVlP
 files.jslibc.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
