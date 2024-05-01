@@ -1,5 +1,5 @@
 #domain,ioc,uri_path,ip
-1488.winstate.cc,Possible Cobalt Strike C2 Domain,/dot.gif,185.196.9.234
+1488.winstate.cc,Possible Cobalt Strike C2 Domain,/push,185.196.9.234
 21hjgt71f.sharedomain.top,Possible Cobalt Strike C2 Domain,/api/3,142.171.229.46
 3g.ali213.net,Possible Cobalt Strike C2 Fronted Domain,/info,124.223.220.143
 3gjanc04hk.execute-api.us-east-2.amazonaws.com,Possible Cobalt Strike C2 Domain,/v1/get,167.99.112.140
