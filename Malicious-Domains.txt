@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-04-30 16:27:36 UTC                        #
+# Last updated: 2024-05-01 10:12:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	update.micromain.cfd
+127.0.0.1	justloki.com
 127.0.0.1	racess.xyz
 127.0.0.1	hobobo.xyz
 127.0.0.1	zoomus.pro
@@ -12271,94 +12273,4 @@
 127.0.0.1	msftonline.org
 127.0.0.1	ns2.we-bank.icu
 127.0.0.1	ns1.we-bank.icu
-127.0.0.1	modcenturiongoldlabel.dyndns-at-home.com
-127.0.0.1	d2m9vnw3tqtaju.cloudfront.net
-127.0.0.1	cdnjsdelivr.xyz
-127.0.0.1	d22h19icfueroa.cloudfront.net
-127.0.0.1	openxmegaeur97.serveblog.net
-127.0.0.1	orionprimexgold1.ddns.net
-127.0.0.1	orionprimexgold10.myftp.biz
-127.0.0.1	orionprimexgold11.myftp.org
-127.0.0.1	orionprimexgold12.myvnc.com
-127.0.0.1	orionprimexgold13.onthewifi.com
-127.0.0.1	orionprimexgold15.servebeer.com
-127.0.0.1	orionprimexgold16.serveblog.net
-127.0.0.1	orionprimexgold18.serveftp.com
-127.0.0.1	orionprimexgold19.servegame.com
-127.0.0.1	orionprimexgold2.ddnsking.com
-127.0.0.1	orionprimexgold23.serveminecraft.net
-127.0.0.1	orionprimexgold25.servepics.com
-127.0.0.1	orionprimexgold26.servequake.com
-127.0.0.1	orionprimexgold28.viewdns.net
-127.0.0.1	orionprimexgold29.webhop.me
-127.0.0.1	orionprimexgold3.3utilities.com
-127.0.0.1	orionprimexgold31.serveblog.net
-127.0.0.1	orionprimexgold4.bounceme.net
-127.0.0.1	orionprimexgold5.freedynamicdns.net
-127.0.0.1	orionprimexgold8.hopto.org
-127.0.0.1	orionprimexgold6.freedynamicdns.org
-127.0.0.1	orionprimexgold7.gotdns.ch
-127.0.0.1	orionprimexgold9.myddns.me
-127.0.0.1	orogold22cstrike.myddns.me
-127.0.0.1	pkdelasexgold24.servepics.com
-127.0.0.1	plataplatamygold9x9.bounceme.net
-127.0.0.1	privgold20x10.servegame.com
-127.0.0.1	vemmoneyxgold27.viewdns.net
-127.0.0.1	axeroldcapitalx9x.onthewifi.com
-127.0.0.1	diamond9x.getmyip.com
-127.0.0.1	hx9bemmexgold21.serveblog.net
-127.0.0.1	arcadaaliancamex.dyndns-wiki.com
-127.0.0.1	babyeona.icu
-127.0.0.1	babyeonb.icu
-127.0.0.1	3012.qmananan.com
-127.0.0.1	3013.qmananan.com
-127.0.0.1	3010.qmananan.com
-127.0.0.1	3011.qmananan.com
-127.0.0.1	3009.qmananan.com
-127.0.0.1	17.cmananan.com
-127.0.0.1	3005.qmananan.com
-127.0.0.1	10.cmananan.com
-127.0.0.1	15.cmananan.com
-127.0.0.1	30.cmananan.com
-127.0.0.1	aivoicechanger.cc
-127.0.0.1	10-10.telecgram.com
-127.0.0.1	4.cmananan.com
-127.0.0.1	3015.qmananan.com
-127.0.0.1	3016.qmananan.com
-127.0.0.1	482e6192z0.goho.co
-127.0.0.1	6.cmananan.com
-127.0.0.1	6x514937w5.goho.co
-127.0.0.1	6xj.telegramh.net
-127.0.0.1	7001.aadaa1.cc
-127.0.0.1	7002.aadaa1.cc
-127.0.0.1	7003.aadaa1.cc
-127.0.0.1	792c682w73.goho.co
-127.0.0.1	a2.aadaa1.cc
-127.0.0.1	chao1323301.e1.luyouxia.net
-127.0.0.1	hei.xjbtv.com
-127.0.0.1	hk.yunpingbao.com
-127.0.0.1	kekn.asselst.com
-127.0.0.1	knight114.e1.luyouxia.net
-127.0.0.1	kyy1010.e1.luyouxia.net
-127.0.0.1	lfh520.e1.luyouxia.net
-127.0.0.1	lfh521.e1.luyouxia.net
-127.0.0.1	lyh111.e3.luyouxia.net
-127.0.0.1	nmslcnmsb1.e2.luyouxia.net
-127.0.0.1	nzh995188.e2.luyouxia.net
-127.0.0.1	op114514.e1.luyouxia.net
-127.0.0.1	player1.e3.luyouxia.net
-127.0.0.1	qq.honker.info
-127.0.0.1	rere.e3.luyouxia.net
-127.0.0.1	sccwangluo.asselst.com
-127.0.0.1	shaoshuai3.top
-127.0.0.1	shengfutong-pay.com
-127.0.0.1	t1492261251.e1.luyouxia.net
-127.0.0.1	vb147258.e1.luyouxia.net
-127.0.0.1	wangchenchao.e1.luyouxia.net
-127.0.0.1	www.lqwljs.top
-127.0.0.1	xy1.youjucan.com
-127.0.0.1	zhj08.e2.luyouxia.net
-127.0.0.1	zhodaji.com
-127.0.0.1	6.tcp.us-cal-1.ngrok.io
-127.0.0.1	telemetry.africa
-# Number of entries: 12355
+# Number of entries: 12267
