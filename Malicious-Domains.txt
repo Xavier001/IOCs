@@ -12361,32 +12361,4 @@
 127.0.0.1	zhodaji.com
 127.0.0.1	6.tcp.us-cal-1.ngrok.io
 127.0.0.1	telemetry.africa
-127.0.0.1	bisongdamall.com
-127.0.0.1	jangholi.info
-127.0.0.1	clients.doubleclickad.net
-127.0.0.1	88-99-71-225.cprapid.com
-127.0.0.1	www.testsite.uno
-127.0.0.1	eofjdo3zwxvbi57.com
-127.0.0.1	voice.aktivewebsitedesign.com
-127.0.0.1	us.voiceaipro.com
-127.0.0.1	aivoicechanger.xyz
-127.0.0.1	baakbfe6kaj8.s.u00.ca
-127.0.0.1	s.u00.ca
-127.0.0.1	baakbmyvkaba.s.u00.ca
-127.0.0.1	apps.hongsheng6898.vip
-127.0.0.1	clients.adobe-research.net
-127.0.0.1	clients.msexplorer.net
-127.0.0.1	clients.loadbalance-akadns.net
-127.0.0.1	idpm.stellantis-service.com
-127.0.0.1	dns2.4399tv.net
-127.0.0.1	dns.4399tv.net
-127.0.0.1	dns1.4399tv.net
-127.0.0.1	activity.quicksmartmoney.com
-127.0.0.1	metallife.org
-127.0.0.1	frightysever.org
-127.0.0.1	bigbricks.org
-127.0.0.1	climedballon.org
-127.0.0.1	test.gpt-use.com
-127.0.0.1	viapaths.co.uk
-127.0.0.1	cs.10011.fun
-# Number of entries: 12383
+# Number of entries: 12355
