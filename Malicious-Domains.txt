@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-01 10:12:32 UTC                        #
+# Last updated: 2024-05-01 10:34:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dbgrw1.azurefd.net
+127.0.0.1	sz-sourcetail-v4.volcmlt.com
+127.0.0.1	service-8lop3tot-1321953982.sh.tencentapigw.com
 127.0.0.1	update.micromain.cfd
 127.0.0.1	justloki.com
 127.0.0.1	racess.xyz
@@ -12271,6 +12274,4 @@
 127.0.0.1	heylele.com
 127.0.0.1	www.abaadoffice.net
 127.0.0.1	msftonline.org
-127.0.0.1	ns2.we-bank.icu
-127.0.0.1	ns1.we-bank.icu
-# Number of entries: 12267
+# Number of entries: 12268
