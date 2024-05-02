@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-02 02:49:05 UTC                        #
+# Last updated: 2024-05-02 08:32:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	service-inqt462u-1314366639.hk.tencentapigw.cn
+127.0.0.1	fbmarket-place.info
+127.0.0.1	www.fbmarket-place.info
 127.0.0.1	28489294.xyz
 127.0.0.1	abscete.info
 127.0.0.1	apibnng.servehttp.com
@@ -12254,5 +12257,4 @@
 127.0.0.1	card.union-pay.vip
 127.0.0.1	life.union-pay.vip
 127.0.0.1	info.union-pay.vip
-127.0.0.1	webmail.gpuxdrv.com
-# Number of entries: 12249
+# Number of entries: 12251

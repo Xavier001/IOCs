@@ -1,6 +1,7 @@
 #domain,ioc,uri_path,ip
 1488.winstate.cc,Possible Cobalt Strike C2 Domain,/push,185.196.9.234
 21hjgt71f.sharedomain.top,Possible Cobalt Strike C2 Domain,/api/3,142.171.229.46
+28489294.xyz,Possible Cobalt Strike C2 Domain,/activity,154.9.246.151
 3g.ali213.net,Possible Cobalt Strike C2 Fronted Domain,/info,124.223.220.143
 3gjanc04hk.execute-api.us-east-2.amazonaws.com,Possible Cobalt Strike C2 Domain,/v1/get,167.99.112.140
 Jango-pulse.com,Possible Cobalt Strike C2 Domain,/Validate/v8.18/84LE6PSOHS,194.165.16.59
