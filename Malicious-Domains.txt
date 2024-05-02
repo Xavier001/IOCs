@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-02 08:32:46 UTC                        #
+# Last updated: 2024-05-02 11:13:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.dahuatec.xyz
 127.0.0.1	service-inqt462u-1314366639.hk.tencentapigw.cn
 127.0.0.1	fbmarket-place.info
 127.0.0.1	www.fbmarket-place.info
@@ -12253,8 +12254,4 @@
 127.0.0.1	updates.imedicalhub.com
 127.0.0.1	ec2-16-170-143-138.eu-north-1.compute.amazonaws.com
 127.0.0.1	s.svmp.eu.org
-127.0.0.1	up.union-pay.vip
-127.0.0.1	card.union-pay.vip
-127.0.0.1	life.union-pay.vip
-127.0.0.1	info.union-pay.vip
-# Number of entries: 12251
+# Number of entries: 12248

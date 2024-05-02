@@ -16,7 +16,6 @@ bb.makkgg.fyi,Possible Cobalt Strike C2 Domain,/pixel.gif,116.205.189.199
 bb.makkgg.fyi,Possible Cobalt Strike C2 Domain,/push,116.205.189.199
 bing.com,Possible Cobalt Strike C2 Fronting Domain,/ch,45.149.172.101
 bing.com,Possible Cobalt Strike C2 Fronting Domain,/ch,5.161.191.120
-bliblyuvblfds.work.gd,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,89.208.247.75
 blm-wiki.com,Possible Cobalt Strike C2 Domain,/Validate/v8.18/84LE6PSOHS,194.165.16.59
 breakingnews.kumbaraan.biz.id,Possible Cobalt Strike C2 Fronted Domain,/ee,128.199.141.212
 c.hcgos.com,Possible Cobalt Strike C2 Domain,/ca,43.159.58.81
@@ -186,6 +185,8 @@ service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-e22kp8jz-1259321672.bj.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/jquerys-6.3.5.max.js,43.143.168.206
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,43.138.20.107
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,123.207.51.53
+service-inqt462u-1314366639.hk.tencentapigw.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,107.174.254.9
+service-inqt462u-1314366639.hk.tencentapigw.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,154.12.31.24
 service-j78tszan-1319584009.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronted Domain,/product,47.104.213.26
 service-jj4sc5n0-1325804472.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x,43.140.37.49
 service-jnajkkdg-1318687485.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Forge/static/HULNWCWI,157.245.222.152
@@ -216,13 +217,11 @@ visualstudio.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/mall_100_1
 visualstudio.microsoft.com.volcgslb-mlt.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html,39.100.109.229
 vpn.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/omp/api/get_page_config,111.229.214.58
 www.614110.xyz,Possible Cobalt Strike C2 Domain,/milu_image/,18.166.113.176
-www.alipan.lol,Possible Cobalt Strike C2 Domain,/api/3,152.42.188.132
 www.chinamobile.live,Possible Cobalt Strike C2 Domain,/api/3,35.224.58.250
 www.fiash.info,Possible Cobalt Strike C2 Domain,/api/3,101.36.111.175
 www.flashl.tw,Possible Cobalt Strike C2 Fronting Domain,/mylibs.js,23.94.169.124
 www.gfyl.fun,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.120.17.76
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/,115.159.50.50
-www.microsoftonline.info,Possible Cobalt Strike C2 Domain,/j.ad,47.236.185.166
 www.myhuaweicloud.com,Possible Cobalt Strike C2 Fronting Domain,/info,124.223.220.143
 www.qichen.fun,Possible Cobalt Strike C2 Domain,/ca,61.139.24.20
 www.rollupdate.com,Possible Cobalt Strike C2 Domain,/rn.js,45.125.67.49
