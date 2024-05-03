@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-03 08:26:42 UTC                        #
+# Last updated: 2024-05-03 10:39:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cecilio.one
+127.0.0.1	bobs.kraken11op.ru
 127.0.0.1	investment.kumbaraan.biz.id
 127.0.0.1	quickdatenight.duckdns.org
 127.0.0.1	laitheliar.duckdns.org
@@ -12335,6 +12337,4 @@
 127.0.0.1	cnswg1vzx6heh0f.com
 127.0.0.1	stats-tracked.com
 127.0.0.1	3ol33lgbrvyjk3d.com
-127.0.0.1	4m9q0m87vnmx0d1.com
-127.0.0.1	richusaprod.azurewebsites.net
 # Number of entries: 12331
