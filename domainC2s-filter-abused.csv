@@ -5,6 +5,7 @@
 3g.ali213.net,Possible Cobalt Strike C2 Fronted Domain
 3gjanc04hk.execute-api.us-east-2.amazonaws.com,Possible Cobalt Strike C2 Domain
 aawwn.azureedge.net,Possible Cobalt Strike C2 Domain
+ad.urlz.ws,Possible Cobalt Strike C2 Domain
 aerh.azureedge.net,Possible Cobalt Strike C2 Domain
 api.rayob2.shop,Possible Cobalt Strike C2 Domain
 as.scsvcreg.com,Possible Cobalt Strike C2 Domain
@@ -61,11 +62,9 @@ investment.kumbaraan.biz.id,Possible Cobalt Strike C2 Fronted Domain
 io.cy789.ml,Possible Cobalt Strike C2 Domain
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain
 jspassport.ssl.qhimg.com.dsa.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain
-keolisgroup.azureedge.net,Possible Cobalt Strike C2 Domain
 lebondogicoin.com,Possible Cobalt Strike C2 Domain
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain
 log.speech-microsoft.com,Possible Cobalt Strike C2 Domain
-logist.cct-logistics.com,Possible Cobalt Strike C2 Domain
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain
 m.old.gxjczx.gov.cn,Possible Cobalt Strike C2 Fronted Domain
 mailtest.icbcbc.com.cn,Possible Cobalt Strike C2 Domain
@@ -123,6 +122,7 @@ qw.scsvcreg.com,Possible Cobalt Strike C2 Domain
 search.zfly.fun,Possible Cobalt Strike C2 Domain
 security-socks.expert,Possible Cobalt Strike C2 Domain
 security-socks777.com,Possible Cobalt Strike C2 Domain
+senkiv.ru,Possible Cobalt Strike C2 Domain
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-1scv7ngm-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-6qlmfr7s-1312562872.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain
@@ -146,9 +146,12 @@ service-lj3klqg6-1308639534.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Dom
 service-r3og53uv-1303913364.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-rkcvh0tf-1252325407.cd.tencentapigw.com,Possible Cobalt Strike C2 Domain
+set.urlz.ws,Possible Cobalt Strike C2 Domain
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain
 static.chat5188.top,Possible Cobalt Strike C2 Domain
 sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain
+su.urlz.ws,Possible Cobalt Strike C2 Domain
+support.popuiarenlinea.com,Possible Cobalt Strike C2 Fronted Domain
 sz-sourcetail-v4.volcmlt.com,Possible Cobalt Strike C2 Fronted Domain
 test.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain

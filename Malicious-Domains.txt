@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-03 10:39:07 UTC                        #
+# Last updated: 2024-05-03 12:49:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	support.popuiarenlinea.com
 127.0.0.1	cecilio.one
 127.0.0.1	bobs.kraken11op.ru
 127.0.0.1	investment.kumbaraan.biz.id
@@ -12298,43 +12299,4 @@
 127.0.0.1	383f7cf1ffda442d90690ef402bfda02.apig.cn-east-3.huaweicloudapis.com
 127.0.0.1	www.ymmxc.top
 127.0.0.1	zhsq.ppctech.xyz
-127.0.0.1	howtofixit.pw
-127.0.0.1	a-y.website
-127.0.0.1	victorishere.site
-127.0.0.1	polandishere.site
-127.0.0.1	ap.sarpkyo.xyz
-127.0.0.1	sarpkyo.xyz
-127.0.0.1	l0yolufbw5yeabs.com
-127.0.0.1	test5-18b.timoni.dev
-127.0.0.1	clients.idnslookup.net
-127.0.0.1	177.lan-vg2-1.static.rozabg.com
-127.0.0.1	www.makaa.work.gd
-127.0.0.1	bedlinnenoutlet.nl
-127.0.0.1	vps-f9d37633.vps.ovh.net
-127.0.0.1	toroz.nl
-127.0.0.1	daanzeegersdesign.nl
-127.0.0.1	bsc.faqserv.com
-127.0.0.1	bsd.faqserv.com
-127.0.0.1	bse.faqserv.com
-127.0.0.1	sdc.mrbonus.com
-127.0.0.1	bsr.faqserv.com
-127.0.0.1	sdc.faqserv.com
-127.0.0.1	dsc.faqserv.com
-127.0.0.1	ir.adf-za.fartit.com
-127.0.0.1	adfq-a.vizvaz.com
-127.0.0.1	ad-irt.vizvaz.com
-127.0.0.1	bsm.faqserv.com
-127.0.0.1	sdhm.fartit.com
-127.0.0.1	bsf.faqserv.com
-127.0.0.1	bsa.faqserv.com
-127.0.0.1	dst.faqserv.com
-127.0.0.1	rsc.faqserv.com
-127.0.0.1	dsf.faqserv.com
-127.0.0.1	adf-za.fartit.com
-127.0.0.1	esc.fartit.com
-127.0.0.1	sdc.fartit.com
-127.0.0.1	dsb.mrbasic.com
-127.0.0.1	cnswg1vzx6heh0f.com
-127.0.0.1	stats-tracked.com
-127.0.0.1	3ol33lgbrvyjk3d.com
-# Number of entries: 12331
+# Number of entries: 12293
