@@ -12298,5 +12298,4 @@
 127.0.0.1	service-b7g5qx9l-1318401771.bj.apigw.tencentcs.com
 127.0.0.1	383f7cf1ffda442d90690ef402bfda02.apig.cn-east-3.huaweicloudapis.com
 127.0.0.1	www.ymmxc.top
-127.0.0.1	zhsq.ppctech.xyz
-# Number of entries: 12293
+# Number of entries: 12292
