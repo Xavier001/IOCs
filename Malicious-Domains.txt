@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-04 09:00:48 UTC                        #
+# Last updated: 2024-05-04 11:13:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	beshomandotestbesnd.run.place
+127.0.0.1	strekhost2085.con-ip.com
 127.0.0.1	senkiv.ru
 127.0.0.1	8996djnv.top
 127.0.0.1	www.8996djnv.top
@@ -12402,7 +12404,4 @@
 127.0.0.1	asd.fartit.com
 127.0.0.1	variz.fartit.com
 127.0.0.1	ad-ir.dns05.com
-127.0.0.1	service-b7g5qx9l-1318401771.bj.apigw.tencentcs.com
-127.0.0.1	383f7cf1ffda442d90690ef402bfda02.apig.cn-east-3.huaweicloudapis.com
-127.0.0.1	www.ymmxc.top
-# Number of entries: 12399
+# Number of entries: 12398
