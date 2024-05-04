@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-04 11:13:44 UTC                        #
+# Last updated: 2024-05-04 14:39:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	chatgpt-app.cloud
 127.0.0.1	beshomandotestbesnd.run.place
 127.0.0.1	strekhost2085.con-ip.com
 127.0.0.1	senkiv.ru
@@ -12312,96 +12313,4 @@
 127.0.0.1	sdt.faqserv.com
 127.0.0.1	iran-hh.dns05.com
 127.0.0.1	iran-hk.mrface.com
-127.0.0.1	uran.fartit.com
-127.0.0.1	iran-hj.fartit.com
-127.0.0.1	iran-ha.isasecret.com
-127.0.0.1	remember-and.forgot.her.name
-127.0.0.1	iran-hg.itsaol.com
-127.0.0.1	cfv.faqserv.com
-127.0.0.1	cvm.faqserv.com
-127.0.0.1	cdf.faqserv.com
-127.0.0.1	ced.faqserv.com
-127.0.0.1	efc.faqserv.com
-127.0.0.1	sahdm.fartit.com
-127.0.0.1	bec.faqserv.com
-127.0.0.1	sahgs.faqserv.com
-127.0.0.1	dnc.faqserv.com
-127.0.0.1	adsqq.vizvaz.com
-127.0.0.1	richprodusa.com
-127.0.0.1	www.ts.bagelswap.site
-127.0.0.1	172-232-123-21.ip.linodeusercontent.com
-127.0.0.1	35.178.199.73.c.hossted.com
-127.0.0.1	smb.faqserv.com
-127.0.0.1	sahmbe.fartit.com
-127.0.0.1	smc.faqserv.com
-127.0.0.1	smv.faqserv.com
-127.0.0.1	cbt.faqserv.com
-127.0.0.1	csn.faqserv.com
-127.0.0.1	zds.faqserv.com
-127.0.0.1	asl.fartit.com
-127.0.0.1	www.tfs.faqserv.com
-127.0.0.1	adldfs.isasecret.com
-127.0.0.1	adqq.fartit.com
-127.0.0.1	adfq-a.vizvaz.com
-127.0.0.1	sahaam.faqserv.com
-127.0.0.1	tfs.faqserv.com
-127.0.0.1	sahmk.mrface.com
-127.0.0.1	sah.vizvaz.com
-127.0.0.1	dsm.itsaol.com
-127.0.0.1	adl-a.vizvaz.com
-127.0.0.1	ladl.isasecret.com
-127.0.0.1	adlr.mrbasic.com
-127.0.0.1	e-h-r-a-z-i-61.mynetav.org
-127.0.0.1	azxs.vizvaz.com
-127.0.0.1	asdz.fartit.com
-127.0.0.1	adf-za.fartit.com
-127.0.0.1	asdz.faqserv.com
-127.0.0.1	dhh.faqserv.com
-127.0.0.1	adq.mrbasic.com
-127.0.0.1	adfs.dns05.com
-127.0.0.1	asqs.itsaol.com
-127.0.0.1	adg.vizvaz.com
-127.0.0.1	sghdaa.dns2.us
-127.0.0.1	adlgs.vizvaz.com
-127.0.0.1	cas.faqserv.com
-127.0.0.1	402.isasecret.com
-127.0.0.1	asl.mrface.com
-127.0.0.1	asdw.mynetav.org
-127.0.0.1	adlsg.mrface.com
-127.0.0.1	ad-cx.mrface.com
-127.0.0.1	sahmsa.dns05.com
-127.0.0.1	adffs.faqserv.com
-127.0.0.1	adl-shm.faqserv.com
-127.0.0.1	asw.faqserv.com
-127.0.0.1	adlsfa.mynetav.org
-127.0.0.1	adlsh.fartit.com
-127.0.0.1	dsa.fartit.com
-127.0.0.1	dsg.dns05.com
-127.0.0.1	aslqqq.fartit.com
-127.0.0.1	ad-ird.itsaol.com
-127.0.0.1	adfs.mrface.com
-127.0.0.1	sahmanb.dns05.com
-127.0.0.1	adsqe.mrbasic.com
-127.0.0.1	adls.mrface.com
-127.0.0.1	sahmn.faqserv.com
-127.0.0.1	adlshq.mynetav.org
-127.0.0.1	asahm.itsaol.com
-127.0.0.1	ad-irt.vizvaz.com
-127.0.0.1	sahm.mrface.com
-127.0.0.1	adlsf.vizvaz.com
-127.0.0.1	adsfs.fartit.com
-127.0.0.1	asn.faqserv.com
-127.0.0.1	adle.fartit.com
-127.0.0.1	asldg.mrbasic.com
-127.0.0.1	sahmns.mrbonus.com
-127.0.0.1	csa.itsaol.com
-127.0.0.1	sahg.itsaol.com
-127.0.0.1	ir-az.fartit.com
-127.0.0.1	cpq.mrface.com
-127.0.0.1	adlss.dns05.com
-127.0.0.1	adlsj.dns05.com
-127.0.0.1	irhsh.faqserv.com
-127.0.0.1	asd.fartit.com
-127.0.0.1	variz.fartit.com
-127.0.0.1	ad-ir.dns05.com
-# Number of entries: 12398
+# Number of entries: 12307
