@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-04 14:39:14 UTC                        #
+# Last updated: 2024-05-05 08:57:55 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	eve.now-dns.net
+127.0.0.1	linux-treatment.gl.at.ply.gg
+127.0.0.1	custom-packaging-products.com
 127.0.0.1	chatgpt-app.cloud
 127.0.0.1	beshomandotestbesnd.run.place
 127.0.0.1	strekhost2085.con-ip.com
@@ -12305,12 +12308,4 @@
 127.0.0.1	extreme.enove-dental.com
 127.0.0.1	alureza.nl
 127.0.0.1	drnull.ngrok.dev
-127.0.0.1	gr1.apkyrm.pro
-127.0.0.1	apkyrm.pro
-127.0.0.1	remotiss.online
-127.0.0.1	cvtuiox.cloud
-127.0.0.1	sfc.faqserv.com
-127.0.0.1	sdt.faqserv.com
-127.0.0.1	iran-hh.dns05.com
-127.0.0.1	iran-hk.mrface.com
-# Number of entries: 12307
+# Number of entries: 12302
