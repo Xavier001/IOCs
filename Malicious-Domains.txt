@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-05 08:57:55 UTC                        #
+# Last updated: 2024-05-05 11:50:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	july-pty.at.ply.gg
 127.0.0.1	eve.now-dns.net
 127.0.0.1	linux-treatment.gl.at.ply.gg
 127.0.0.1	custom-packaging-products.com
@@ -12306,6 +12307,4 @@
 127.0.0.1	ns2.beta-microsoft.com
 127.0.0.1	ns1.beta-microsoft.com
 127.0.0.1	extreme.enove-dental.com
-127.0.0.1	alureza.nl
-127.0.0.1	drnull.ngrok.dev
-# Number of entries: 12302
+# Number of entries: 12301
