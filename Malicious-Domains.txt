@@ -12267,6 +12267,4 @@
 127.0.0.1	flow.baidu666.pw
 127.0.0.1	efmdwkmwkq.xyz
 127.0.0.1	yop918kiss.com
-127.0.0.1	prometheus.clubpro.space
-127.0.0.1	pwn.safetygarden.ru
-# Number of entries: 12263
+# Number of entries: 12261
