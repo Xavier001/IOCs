@@ -3,6 +3,7 @@
 21hjgt71f.sharedomain.top,Possible Cobalt Strike C2 Domain,/api/3
 28489294.xyz,Possible Cobalt Strike C2 Domain,/activity
 3gjanc04hk.execute-api.us-east-2.amazonaws.com,Possible Cobalt Strike C2 Domain,/v1/get
+3se9ewodke339f0e83.connectivitytests.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 Microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/lv
 aawwn.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js
 ad.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -14,6 +15,7 @@ bb.makkgg.fyi,Possible Cobalt Strike C2 Domain,/pixel.gif
 bb.makkgg.fyi,Possible Cobalt Strike C2 Domain,/push
 beacon.etallyall.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 bing.com,Possible Cobalt Strike C2 Fronting Domain,/ch
+bola.kumbaraan.biz.id,Possible Cobalt Strike C2 Fronted Domain,/ee
 breakingnews.kumbaraan.biz.id,Possible Cobalt Strike C2 Fronted Domain,/ee
 c.qqwhoami.org,Possible Cobalt Strike C2 Domain,/updates
 c1.tqrjfru.cn,Possible Cobalt Strike C2 Domain,/dpixel
@@ -61,7 +63,6 @@ firmware-yrs-conflicts-favorites.trycloudflare.com,Possible Cobalt Strike C2 Dom
 flashl.tw,Possible Cobalt Strike C2 Fronted Domain,/mylibs.js
 i.xlei.cc,Possible Cobalt Strike C2 Domain,/ca
 ikea0.com,Possible Cobalt Strike C2 Domain,/Dequeue/mqseries/D7W0GTJFY
-investment.kumbaraan.biz.id,Possible Cobalt Strike C2 Fronted Domain,/dhl
 io.cy789.ml,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-2.8.4.min.js
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/visit.js
