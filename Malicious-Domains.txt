@@ -12285,11 +12285,4 @@
 127.0.0.1	markuami.com
 127.0.0.1	hfdhdfgrre.ru
 127.0.0.1	hfdhfdhdfhdfa.ru
-127.0.0.1	dsfa.fartit.com
-127.0.0.1	acb.faqserv.com
-127.0.0.1	afc.faqserv.com
-127.0.0.1	afe.faqserv.com
-127.0.0.1	atc.faqserv.com
-127.0.0.1	eds.ydns.eu
-127.0.0.1	adt.faqserv.com
-# Number of entries: 12286
+# Number of entries: 12279
