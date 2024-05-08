@@ -1,11 +1,42 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-07 12:50:50 UTC                        #
+# Last updated: 2024-05-08 10:06:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cn1.cdngw.com
+127.0.0.1	waytowealth.org
+127.0.0.1	seadrill.top
+127.0.0.1	currentsilverprice.com
+127.0.0.1	dev.operationanonrecoil.ru
+127.0.0.1	trailshop.net
+127.0.0.1	realbumblebee.net
+127.0.0.1	recentbee.net
+127.0.0.1	investrealtydom.net
+127.0.0.1	webnubee.com
+127.0.0.1	artspathgroup.net
+127.0.0.1	buyblocknow.com
+127.0.0.1	currentbee.net
+127.0.0.1	modernbeem.net
+127.0.0.1	startupbusiness24.net
+127.0.0.1	magentoengineers.com
+127.0.0.1	childrensdolls.com
+127.0.0.1	myfinancialexperts.com
+127.0.0.1	limitedtoday.com
+127.0.0.1	kekeoamigo.com
+127.0.0.1	nebraska-lawyers.com
+127.0.0.1	tomlawcenter.com
+127.0.0.1	thesmartcloudusa.com
+127.0.0.1	bot.heleh.com.vn
+127.0.0.1	rasapool.net
+127.0.0.1	artspathgroupe.net
+127.0.0.1	specialdrills.com
+127.0.0.1	thetrailbig.net
+127.0.0.1	itemsdostawa.com
+127.0.0.1	masterokrwh.duckdns.org
+127.0.0.1	valentinedaycard.com
 127.0.0.1	proya.cyou
 127.0.0.1	www.testtttt.com
 127.0.0.1	tstarks.xyz
@@ -12266,4 +12297,4 @@
 127.0.0.1	siliconerumble.com
 127.0.0.1	adfincolniclo.com
 127.0.0.1	botnet.ngocronglau.xyz
-# Number of entries: 12260
+# Number of entries: 12291
