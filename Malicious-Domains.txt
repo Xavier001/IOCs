@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-09 11:48:49 UTC                        #
+# Last updated: 2024-05-09 12:52:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.hathawaya.xyz
+127.0.0.1	www.dq.sched.vip-dk.tdnsvod1.cn
 127.0.0.1	consultantinsurance.net
 127.0.0.1	minuoddos.top
 127.0.0.1	53473cm.easyswap.space
@@ -12217,35 +12219,4 @@
 127.0.0.1	service-bzbl2uq7-1312255927.bj.apigw.tencentcs.com
 127.0.0.1	marmitariasaobernado.com
 127.0.0.1	contabilidade3irmaos.com
-127.0.0.1	sermon.pastorbriantubbs.com
-127.0.0.1	modification.grebcocontractors.com
-127.0.0.1	jordanmikejeforse.com
-127.0.0.1	host-195-2-79-117.hosted-by-vdsina.ru
-127.0.0.1	v2144905.hosted-by-vdsina.ru
-127.0.0.1	www.videolan.pw
-127.0.0.1	videolan.pw
-127.0.0.1	host-88-218-62-219.hosted-by-vdsina.ru
-127.0.0.1	estafetagoappd.cyou
-127.0.0.1	estafetagoappc.cyou
-127.0.0.1	www.estafetagoappd.cyou
-127.0.0.1	estafetagoappa.cyou
-127.0.0.1	estafetagoappb.cyou
-127.0.0.1	www.estafetagoappb.cyou
-127.0.0.1	www.estafetagoappa.cyou
-127.0.0.1	www.estafetagoappc.cyou
-127.0.0.1	ec2-18-233-30-106.compute-1.amazonaws.com
-127.0.0.1	ec2-44-194-84-95.compute-1.amazonaws.com
-127.0.0.1	ec2-52-73-117-241.compute-1.amazonaws.com
-127.0.0.1	ec2-107-22-57-188.compute-1.amazonaws.com
-127.0.0.1	ec2-3-230-101-130.compute-1.amazonaws.com
-127.0.0.1	ec2-52-202-66-46.compute-1.amazonaws.com
-127.0.0.1	ec2-34-197-198-218.compute-1.amazonaws.com
-127.0.0.1	ec2-34-197-124-207.compute-1.amazonaws.com
-127.0.0.1	ec2-52-200-215-250.compute-1.amazonaws.com
-127.0.0.1	http-inputs-triad.splunkcloud.com
-127.0.0.1	ec2-3-225-154-79.compute-1.amazonaws.com
-127.0.0.1	ec2-54-236-216-39.compute-1.amazonaws.com
-127.0.0.1	ec2-3-86-72-244.compute-1.amazonaws.com
-127.0.0.1	jonathanbonnici.com
-127.0.0.1	rxalp.direct.quickconnect.to
-# Number of entries: 12242
+# Number of entries: 12213

@@ -147,7 +147,6 @@ service-dj3eqgq2-1316113086.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-e22kp8jz-1259321672.bj.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/jquerys-6.3.5.max.js,43.143.168.206
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,43.138.20.107
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,123.207.51.53
-service-inqt462u-1314366639.hk.tencentapigw.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,154.12.31.24
 service-j78tszan-1319584009.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronted Domain,/product,47.104.213.26
 service-jnajkkdg-1318687485.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Forge/static/HULNWCWI,157.245.222.152
 service-ku7vp6lj-1253504731.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x,124.222.98.112
@@ -159,6 +158,7 @@ service-rkcvh0tf-1252325407.cd.tencentapigw.com,Possible Cobalt Strike C2 Domain
 set.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.54.86.90
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/ga.js,85.175.101.203
 static.chat5188.top,Possible Cobalt Strike C2 Domain,/api/v3/s25FogL,47.243.108.86
+static.uat.html5.webdisk.media.baidu.com.cn,Possible Cobalt Strike C2 Fronting Domain,/compute/cd/K7BA6V385V,49.232.90.121
 su.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.54.86.90
 support.popuiarenlinea.com,Possible Cobalt Strike C2 Fronted Domain,/lv,142.171.104.108
 sz-sourcetail-v4.volcmlt.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html,39.100.109.229
@@ -174,8 +174,10 @@ v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,52.253.108
 visualstudio.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html,39.100.109.229
 visualstudio.microsoft.com.volcgslb-mlt.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html,39.100.109.229
 www.dahuatec.xyz,Possible Cobalt Strike C2 Domain,/www/handle/doc,43.136.38.59
+www.dq.sched.vip-dk.tdnsvod1.cn,Possible Cobalt Strike C2 Fronted Domain,/compute/cd/K7BA6V385V,49.232.90.121
 www.fiash.info,Possible Cobalt Strike C2 Domain,/api/3,101.36.111.175
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/,115.159.50.50
+www.hathawaya.xyz,Possible Cobalt Strike C2 Fronted Domain,/about,154.205.138.72
 www.microsoftsendtime.shop,Possible Cobalt Strike C2 Domain,/promote/static/XV4SPLMOG,193.149.185.14
 www.sonystore.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,39.98.192.104
 www.test9977.tk,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,47.99.177.59
