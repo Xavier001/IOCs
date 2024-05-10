@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-09 12:52:24 UTC                        #
+# Last updated: 2024-05-10 08:17:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	workspacin.cloud
+127.0.0.1	qaliharsit.tech
+127.0.0.1	levantain.ddns.net
+127.0.0.1	asra1.ddns.net
+127.0.0.1	y9f6z0q1w2.xyz
 127.0.0.1	www.hathawaya.xyz
 127.0.0.1	www.dq.sched.vip-dk.tdnsvod1.cn
 127.0.0.1	consultantinsurance.net
@@ -12217,6 +12222,4 @@
 127.0.0.1	ns2.siegemachine.cn
 127.0.0.1	dnslog.twittermisc.com
 127.0.0.1	service-bzbl2uq7-1312255927.bj.apigw.tencentcs.com
-127.0.0.1	marmitariasaobernado.com
-127.0.0.1	contabilidade3irmaos.com
-# Number of entries: 12213
+# Number of entries: 12216
