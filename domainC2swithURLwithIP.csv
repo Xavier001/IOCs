@@ -1,10 +1,12 @@
 #domain,ioc,uri_path,ip
+1c-marketing.top,Possible Cobalt Strike C2 Domain,/v1,185.196.8.18
 21hjgt71f.sharedomain.top,Possible Cobalt Strike C2 Domain,/api/3,142.171.229.46
 3gjanc04hk.execute-api.us-east-2.amazonaws.com,Possible Cobalt Strike C2 Domain,/v1/get,167.99.112.140
 3se9ewodke339f0e83.connectivitytests.com,Possible Cobalt Strike C2 Domain,/pixel.gif,47.237.82.113
 Microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/lv,142.171.104.108
 a2ef406e2c2351e0b9e80029c909242d.melonhack.top,Possible Cobalt Strike C2 Domain,/api/get,89.213.184.158
 aawwn.azureedge.net,Possible Cobalt Strike C2 Domain,/w3c.js,64.23.165.12
+action-winds.cfd,Possible Cobalt Strike C2 Domain,/data,185.196.8.18
 ad.urlz.ws,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.54.86.90
 api.hsbc.com,Possible PoshC2 Fronting Domain,/wpaas/load.php/,13.48.77.144
 api.rayob2.shop,Possible Cobalt Strike C2 Domain,/Content,43.153.202.176
@@ -87,6 +89,7 @@ log.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/o
 logs.speech-microsoft.com,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2017/12/29132a9e7a0e9a9e2,206.237.30.76
 miao.xiaogoubi.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1,125.128.113.108
 microsoftwindows.one,Possible Cobalt Strike C2 Domain,/api/3,124.70.140.36
+microstar.cfd,Possible Cobalt Strike C2 Domain,/task,185.196.8.18
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain,/push,43.139.189.54
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/activity,8.212.44.149
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/activity,8.212.49.116
@@ -139,6 +142,7 @@ search.zfly.fun,Possible Cobalt Strike C2 Domain,/jquery-3.6.0.min.js,8.137.117.
 security-socks.expert,Possible Cobalt Strike C2 Domain,/Understand/v2.61/RYLQUPM8LL,194.165.16.55
 security-socks777.com,Possible Cobalt Strike C2 Domain,/Understand/v2.61/RYLQUPM8LL,194.165.16.55
 senkiv.ru,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,92.63.193.141
+service-1bsjckga-1252578700.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x,113.31.105.33
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,124.223.200.131
 service-1scv7ngm-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user,111.230.30.197
 service-3vkzoky0-1312172028.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x,116.198.34.83
