@@ -35,7 +35,7 @@ cityoall.com,Possible Cobalt Strike C2 Domain,/activity,94.20.88.63
 clouds.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/,43.129.28.136
 cn1.cdngw.com,Possible Cobalt Strike C2 Domain,/TealeafTarget.php,20.170.19.248
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js,167.179.84.218
-cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/updates.rss,134.122.129.173
+cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/match,134.122.129.173
 cs.xfdaili.com,Possible Cobalt Strike C2 Domain,/activity,154.204.176.13
 cs.xfdaili.com,Possible Cobalt Strike C2 Domain,/activity,154.204.177.133
 cs.xfdaili.com,Possible Cobalt Strike C2 Domain,/activity,154.204.177.22
@@ -81,6 +81,7 @@ images-oss-1318291330.cos.ap-beijing.myqcloud.com,Possible Cobalt Strike C2 Doma
 investment.kumbaraan.biz.id,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,159.223.86.73
 io.cy789.ml,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,42.193.252.92
 jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-2.8.4.min.js,4.158.105.167
+js.mitigize.com,Possible Cobalt Strike C2 Domain,/dot.gif,164.92.249.209
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/push,8.212.44.149
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/push,8.212.49.116
 jspassport.ssl.qhimg.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,74.48.19.146
@@ -190,6 +191,7 @@ v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,52.253.108
 vpn.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/omp/api/get_page_config,111.229.214.58
 wpscheckmembers.vip,Possible Cobalt Strike C2 Domain,/api/v3/CorporationLimited,8.210.81.151
 wraimey.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,44.221.39.41
+www.chiante1ecom.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.143.193.228
 www.dahuatec.xyz,Possible Cobalt Strike C2 Domain,/www/handle/doc,43.136.38.59
 www.dq.sched.vip-dk.tdnsvod1.cn,Possible Cobalt Strike C2 Fronted Domain,/compute/cd/K7BA6V385V,49.232.90.121
 www.fiash.info,Possible Cobalt Strike C2 Domain,/api/3,101.36.111.175

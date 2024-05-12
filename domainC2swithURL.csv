@@ -33,7 +33,7 @@ cityoall.com,Possible Cobalt Strike C2 Domain,/activity
 clouds.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/
 cn1.cdngw.com,Possible Cobalt Strike C2 Domain,/TealeafTarget.php
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js
-cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/updates.rss
+cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/match
 cs.xfdaili.com,Possible Cobalt Strike C2 Domain,/activity
 cs.xfdaili.com,Possible Cobalt Strike C2 Domain,/updates.rss
 d1v4b6pbk0kwvw.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
@@ -69,6 +69,7 @@ images-oss-1318291330.cos.ap-beijing.myqcloud.com,Possible Cobalt Strike C2 Doma
 investment.kumbaraan.biz.id,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 io.cy789.ml,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-2.8.4.min.js
+js.mitigize.com,Possible Cobalt Strike C2 Domain,/dot.gif
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/push
 jspassport.ssl.qhimg.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 jspassport.ssl.qhimg.com.dsa.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
@@ -174,6 +175,7 @@ v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 vpn.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/omp/api/get_page_config
 wpscheckmembers.vip,Possible Cobalt Strike C2 Domain,/api/v3/CorporationLimited
 wraimey.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
+www.chiante1ecom.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.dahuatec.xyz,Possible Cobalt Strike C2 Domain,/www/handle/doc
 www.dq.sched.vip-dk.tdnsvod1.cn,Possible Cobalt Strike C2 Fronted Domain,/compute/cd/K7BA6V385V
 www.fiash.info,Possible Cobalt Strike C2 Domain,/api/3

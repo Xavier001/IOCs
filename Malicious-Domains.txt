@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-12 10:34:25 UTC                        #
+# Last updated: 2024-05-12 18:37:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	homebrew.cx
+127.0.0.1	kindupdates.com
+127.0.0.1	js.mitigize.com
+127.0.0.1	www.chiante1ecom.com
 127.0.0.1	prideconstituiiosjk.shop
 127.0.0.1	smallelementyjdui.shop
 127.0.0.1	appetitesallooonsj.shop
@@ -12167,30 +12171,4 @@
 127.0.0.1	longlakeweb.com
 127.0.0.1	download.windowsupdate.mom
 127.0.0.1	jedi.piupiu.top
-127.0.0.1	moskhoods.pw
-127.0.0.1	cembec.pics
-127.0.0.1	ed.sarltma.rest
-127.0.0.1	sarltma.rest
-127.0.0.1	asq-ir.fartit.com
-127.0.0.1	afm.faqserv.com
-127.0.0.1	ir-sahq.fartit.com
-127.0.0.1	tfa.faqserv.com
-127.0.0.1	cfm.fartit.com
-127.0.0.1	ebs.faqserv.com
-127.0.0.1	moonsterd.pw
-127.0.0.1	htl502.tech
-127.0.0.1	clients.ad-tracker.org
-127.0.0.1	eye.huyanbao.xyz
-127.0.0.1	clients.cloud-onedrive.net
-127.0.0.1	static.173.251.201.195.clients.your-server.de
-127.0.0.1	ec2-52-44-101-45.compute-1.amazonaws.com
-127.0.0.1	ec2-23-20-237-225.compute-1.amazonaws.com
-127.0.0.1	www.kamssa.com
-127.0.0.1	ec2-18-166-249-66.ap-east-1.compute.amazonaws.com
-127.0.0.1	chromewebkit.com
-127.0.0.1	www.qdttcm.com
-127.0.0.1	franc.naservpn.cf
-127.0.0.1	mail.159-65-168-135.cprapid.com
-127.0.0.1	ec2-18-198-246-147.eu-central-1.compute.amazonaws.com
-127.0.0.1	showmoreresultonliner.com
-# Number of entries: 12187
+# Number of entries: 12165
