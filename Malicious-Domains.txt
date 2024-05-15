@@ -1,11 +1,37 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-15 07:26:59 UTC                        #
+# Last updated: 2024-05-15 21:47:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	utd-corts.com
+127.0.0.1	utd-forts.com
+127.0.0.1	utm-adrooz.com
+127.0.0.1	utm-adschuk.com
+127.0.0.1	utm-advrez.com
+127.0.0.1	utm-drmka.com
+127.0.0.1	utm-fukap.com
+127.0.0.1	utm-msh.com
+127.0.0.1	utm-adsname.com
+127.0.0.1	utm-adschuk.com
+127.0.0.1	utm-adsgoogle.com
+127.0.0.1	utm-advrez.com
+127.0.0.1	cdn-inform.com
+127.0.0.1	ace.cmicro.xyz
+127.0.0.1	arista-onelogein.com
+127.0.0.1	character-acquisitions.gl.at.ply.gg
+127.0.0.1	bestshawls.com
+127.0.0.1	support.meedicalabc.com
+127.0.0.1	news.maomwxb.top
+127.0.0.1	hell.hydracenter.xyz
+127.0.0.1	xqp.loveyoueverytime.xyz
+127.0.0.1	service-f9dx5hom-1305082597.gz.tencentapigw.com.cn
+127.0.0.1	service-lu8tgeea-1305082597.gz.tencentapigw.com.cn
+127.0.0.1	service-k2snyjb7-1326503875.bj.tencentapigw.com.cn
+127.0.0.1	service-a7h4x98o-1257783886.gz.tencentapigw.com.cn
+127.0.0.1	dns.beenewsdream.net
 127.0.0.1	forgreatestgoal.site
 127.0.0.1	cnc.zaloweb.ink
 127.0.0.1	venomm.ddns.net
@@ -12149,26 +12175,4 @@
 127.0.0.1	8sjimonstersboonkonline.com
 127.0.0.1	campaign.dchalegal.com
 127.0.0.1	hardcorearrpa.viewdns.net
-127.0.0.1	ns.manager.moonlighter.space
-127.0.0.1	iirir.com
-127.0.0.1	ed.sarltma.rest
-127.0.0.1	sarltma.rest
-127.0.0.1	aledlsa.sbs
-127.0.0.1	er.aledlsa.sbs
-127.0.0.1	ec2-3-68-111-52.eu-central-1.compute.amazonaws.com
-127.0.0.1	clients.dnsportal.org
-127.0.0.1	panel.freeddns.org
-127.0.0.1	drnull.pkmqazreza.workers.dev
-127.0.0.1	pkmqazreza.workers.dev
-127.0.0.1	ctrdfg.cloud
-127.0.0.1	ec2-54-237-14-58.compute-1.amazonaws.com
-127.0.0.1	ms17-010.win-x86.zip
-127.0.0.1	192-46-232-181.ip.linodeusercontent.com
-127.0.0.1	ec2-44-200-80-224.compute-1.amazonaws.com
-127.0.0.1	vpn.manuelsterner.de
-127.0.0.1	ip-89-38-135-11-82867.vps.hosted-by-mvps.net
-127.0.0.1	lamp.manuelsterner.de
-127.0.0.1	33095-2.whserv.de
-127.0.0.1	autoconfig.33095-2.whserv.de
-127.0.0.1	7desktop.com
-# Number of entries: 12165
+# Number of entries: 12169
