@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-17 12:51:00 UTC                        #
+# Last updated: 2024-05-18 08:56:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.weather.pm
 127.0.0.1	service-pw5pdob2-1301751349.gz.tencentapigw.com.cn
 127.0.0.1	service-g9r06izm-1320366142.gz.tencentapigw.com.cn
 127.0.0.1	upload.windowscdn.cn
@@ -12154,8 +12155,4 @@
 127.0.0.1	fmc.dns05.com
 127.0.0.1	fcb.dns05.com
 127.0.0.1	htc.dns05.com
-127.0.0.1	mricossoftmanager.info
-127.0.0.1	acutbank.com
-127.0.0.1	www.6innovations.com
-127.0.0.1	miners-gold.com
-# Number of entries: 12152
+# Number of entries: 12149
