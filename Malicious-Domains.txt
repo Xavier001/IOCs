@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-21 20:30:42 UTC                        #
+# Last updated: 2024-05-21 22:16:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	aiphiex9ae.ptsupport.tech
 127.0.0.1	jelelaiyegba.duckdns.org
 127.0.0.1	service-i50ggjoo-1253504731.gz.tencentapigw.com.cn
 127.0.0.1	ezikidei.ddns.net
@@ -11961,9 +11962,4 @@
 127.0.0.1	risenpeaches.org
 127.0.0.1	service-aizhwq2o-1255155815.gz.apigw.tencentcs.com
 127.0.0.1	googlecloudns.com
-127.0.0.1	ahoram-appphp.tech
-127.0.0.1	revivalsecularas.pw
-127.0.0.1	xpencildiscussiio.pw
-127.0.0.1	barbecueappledos.pw
-127.0.0.1	qoone1sr.top
-# Number of entries: 11960
+# Number of entries: 11956
