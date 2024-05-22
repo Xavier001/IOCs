@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-22 06:26:59 UTC                        #
+# Last updated: 2024-05-22 10:56:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	merckllc.top
+127.0.0.1	infres.in
+127.0.0.1	alliancebbs.com
 127.0.0.1	production-reservation.gl.at.ply.gg
 127.0.0.1	aiphiex9ae.ptsupport.tech
 127.0.0.1	jelelaiyegba.duckdns.org
@@ -11961,5 +11964,4 @@
 127.0.0.1	midatlanticlabel.com
 127.0.0.1	limeerror.org
 127.0.0.1	risenpeaches.org
-127.0.0.1	service-aizhwq2o-1255155815.gz.apigw.tencentcs.com
-# Number of entries: 11956
+# Number of entries: 11958
