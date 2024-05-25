@@ -178,6 +178,7 @@ update.micromain.cfd,Possible Cobalt Strike C2 Domain,/462c30d592f23b18/jquery/3
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/g.pixel,103.186.215.56
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/__utm.gif,154.12.84.6
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/__utm.gif,154.12.84.6
+updates.sublimetext.workers.dev,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,8.222.130.235
 upload.windowscdn.cn,Possible Cobalt Strike C2 Domain,/feedapi/v1/newsserver/api/getpassword,139.159.192.61
 v2ray1.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,52.253.108.7
 v2ray2.mmsy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,52.253.108.7
@@ -191,7 +192,6 @@ www.fiash.info,Possible Cobalt Strike C2 Domain,/api/3,101.36.111.175
 www.flash-update.info,Possible Cobalt Strike C2 Domain,/pixel,47.105.69.34
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/,115.159.50.50
 www.jumpsrever.top,Possible Cobalt Strike C2 Domain,/__utm.gif,64.7.198.58
-www.notepadplugin.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,8.222.130.235
 www.sonystore.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,39.98.192.104
 www.test9977.tk,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,47.99.177.59
 www.test9977.tk,Possible Cobalt Strike C2 Domain,/cx,47.99.177.59
