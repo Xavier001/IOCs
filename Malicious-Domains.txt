@@ -1,11 +1,33 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-05-26 06:25:09 UTC                        #
+# Last updated: 2024-05-26 18:00:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	host-89-110-74-77.hosted-by-vdsina.com
+127.0.0.1	service-ir8o1y75-1324325235.cd.tencentapigw.com
+127.0.0.1	free2.iwaf.cn
+127.0.0.1	s2-charterschools.securportal.com
+127.0.0.1	www.loginmicrosoftadmin.shop
+127.0.0.1	service-5ba7yjpl-1303971391.bj.tencentapigw.com.cn
+127.0.0.1	auth.familysafty.com
+127.0.0.1	familysafty.com
+127.0.0.1	babycandidateoswp.shop
+127.0.0.1	museumtespaceorsp.shop
+127.0.0.1	buttockdecarderwiso.shop
+127.0.0.1	averageaattractiionsl.shop
+127.0.0.1	femininiespywageg.shop
+127.0.0.1	employhabragaomlsp.shop
+127.0.0.1	stalfbaclcalorieeis.shop
+127.0.0.1	civilianurinedtsraov.shop
+127.0.0.1	roomabolishsnifftwk.shop
+127.0.0.1	employeedscratshj.shop
+127.0.0.1	netwire2021.duckdns.org
+127.0.0.1	729231cm.n9shteam1.top
+127.0.0.1	86t7b9br9.ddns.net
+127.0.0.1	njratnew.duckdns.org
 127.0.0.1	ec2-65-2-129-159.ap-south-1.compute.amazonaws.com
 127.0.0.1	botuser0.duckdns.org
 127.0.0.1	botusesr472.duckdns.org
@@ -11798,31 +11820,4 @@
 127.0.0.1	hawkish.eu
 127.0.0.1	do.wtsserv.com
 127.0.0.1	wtsserv.com
-127.0.0.1	wylns.matrika.cn
-127.0.0.1	panel.ceo-reputation.ru
-127.0.0.1	ceo-reputation.ru
-127.0.0.1	tools.3utilities.com
-127.0.0.1	tokyonights.pdns.stream
-127.0.0.1	texeshserver.ddns.net
-127.0.0.1	serverguedin.ddns.net
-127.0.0.1	slava3257.ddns.net
-127.0.0.1	s7vety-47169.portmap.host
-127.0.0.1	s7vety-64001.portmap.io
-127.0.0.1	richhost.ddns.net
-127.0.0.1	orcusratanondomain.sytes.net
-127.0.0.1	island-households.gl.at.ply.gg
-127.0.0.1	icontrolyou.servepics.com
-127.0.0.1	dailyupdates.theworkpc.com
-127.0.0.1	distance-deutsche.at.ply.gg
-127.0.0.1	gerkadas.ddns.net
-127.0.0.1	gethack.ddns.net
-127.0.0.1	cedricklegends.ddns.net
-127.0.0.1	colorfuldreams.hopto.org
-127.0.0.1	applications-tri.at.ply.gg
-127.0.0.1	cbm.adenz.top
-127.0.0.1	yy3088429300.e2.luyouxia.net
-127.0.0.1	q3472884397.e2.luyouxia.net
-127.0.0.1	ec2-44-204-120-159.compute-1.amazonaws.com
-127.0.0.1	painelbs22.lbss23.website
-127.0.0.1	niuwxt.haowusong.com.cname.yunjiasu-cdn.net
-# Number of entries: 11819
+# Number of entries: 11814
