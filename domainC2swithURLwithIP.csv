@@ -15,6 +15,7 @@ alliancebbs.com,Possible Cobalt Strike C2 Domain,/damage/v9.19/M3ZW19MK,64.7.198
 anphealthcenter.com,Possible Cobalt Strike C2 Domain,/Fashion/v3.62/9CPWZFXYO,45.61.136.79
 api.rayob2.shop,Possible Cobalt Strike C2 Domain,/Content,43.153.202.176
 api.ziekte.news,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,54.242.72.155
+arcade.shinjiku.xyz,Possible Cobalt Strike C2 Domain,/activity,101.99.75.164
 asd.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/search/,39.100.103.167
 baidu.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,60.204.187.184
 baznas.dompetdhuaafa.biz.id,Possible Cobalt Strike C2 Fronted Domain,/ee,159.223.86.73
@@ -151,7 +152,7 @@ service-eh2fyewb-1301153563.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-f9dx5hom-1305082597.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x,47.92.174.226
 service-hjsbgio3-1324325235.cd.tencentapigw.com,Possible Cobalt Strike C2 Domain,/prod/api/debug,43.139.248.193
 service-hsyluctr-1252427727.bj.tencentapigw.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,43.138.20.107
-service-hvcrn7y8-1257783886.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/omp/api/micro_app/get_org_app,111.230.112.171
+service-hvcrn7y8-1257783886.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/cm,111.230.112.171
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,123.207.51.53
 service-i50ggjoo-1253504731.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x,124.222.98.112
 service-ifupx5k9-1253438913.bj.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x,121.36.23.25
