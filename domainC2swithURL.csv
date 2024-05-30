@@ -123,6 +123,7 @@ onedrive.live.com,Possible Cobalt Strike C2 Fronting Domain,/preload
 oss.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/omp/api/micro_app/get_org_app
 owa.lieamwalls.com,Possible Cobalt Strike C2 Domain,/dhl
 poopy.aarkhipov.ru,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+powerbi3-dffqb3gfbudugyas.z03.azurefd.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 primo.freshhema.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 profile.lieamwalls.com,Possible Cobalt Strike C2 Domain,/dhl
 pt-security.ru,Possible Cobalt Strike C2 Domain,/owa/I5y78CwpVBerrzcQw9mLRb8T8WLU
@@ -164,6 +165,7 @@ service-lj3klqg6-1308639534.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Dom
 service-ltwr9lk5-1319740527.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/match
 service-pw5pdob2-1301751349.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x
 service-qwflcy7c-1305872204.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/bootstrap-5.3.1.min.js
+service-r3og53uv-1303913364.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-r3og53uv-1303913364.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/get
 shellmanaggggger.com,Possible Cobalt Strike C2 Domain,/cx

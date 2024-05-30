@@ -134,6 +134,7 @@ onedrive.live.com,Possible Cobalt Strike C2 Fronting Domain,/preload,52.14.9.202
 oss.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/omp/api/micro_app/get_org_app,111.229.214.58
 owa.lieamwalls.com,Possible Cobalt Strike C2 Domain,/dhl,180.131.145.85
 poopy.aarkhipov.ru,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,92.63.193.141
+powerbi3-dffqb3gfbudugyas.z03.azurefd.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,157.230.232.41
 primo.freshhema.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,47.94.43.210
 profile.lieamwalls.com,Possible Cobalt Strike C2 Domain,/dhl,180.131.145.85
 pt-security.ru,Possible Cobalt Strike C2 Domain,/owa/I5y78CwpVBerrzcQw9mLRb8T8WLU,45.142.36.64
@@ -175,6 +176,7 @@ service-lj3klqg6-1308639534.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Dom
 service-ltwr9lk5-1319740527.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/match,111.231.21.154
 service-pw5pdob2-1301751349.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x,121.40.213.116
 service-qwflcy7c-1305872204.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/bootstrap-5.3.1.min.js,124.223.52.82
+service-r3og53uv-1303913364.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/getit,101.52.247.105
 service-r3og53uv-1303913364.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x,122.51.85.143
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/get,139.155.148.131
 shellmanaggggger.com,Possible Cobalt Strike C2 Domain,/cx,118.31.164.133
