@@ -91,6 +91,7 @@ newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/activity
 ns.b1ing.com,Possible Cobalt Strike C2 Domain,/dot.gif
 ns.n0reply.eu.org,Possible Cobalt Strike C2 Domain,/api-opt-2023-gfr/3
 ns1.163microsoft.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
+ns1.bimnall.com,Possible Cobalt Strike C2 Domain,/btn_bg.html
 ns1.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.5.1.slim.min.js
 ns1.dingtaIk.tk,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 ns1.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/__utm.gif
@@ -113,6 +114,7 @@ nt1.227api.com,Possible Cobalt Strike C2 Domain,/push
 nt2.227api.com,Possible Cobalt Strike C2 Domain,/load
 nt3.227api.com,Possible Cobalt Strike C2 Domain,/dot.gif
 oa.dahuatec.xyz,Possible Cobalt Strike C2 Domain,/www/handle/doc
+offices365.org,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 oss.icbcbc.com.cn,Possible Cobalt Strike C2 Domain,/analytics/v1_upload
 owa.lieamwalls.com,Possible Cobalt Strike C2 Domain,/dhl
 poopy.aarkhipov.ru,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
