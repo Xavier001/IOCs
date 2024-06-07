@@ -34,8 +34,8 @@ cityoall.com,Possible Cobalt Strike C2 Domain,/activity,94.20.88.63
 clouds.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/image/,43.129.28.136
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js,167.179.84.218
 colet.capsmono.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.13.199.69
-content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/ga.js,8.140.135.23
-content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/ga.js,8.140.135.23
+content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/pixel.gif,8.140.135.23
+content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/pixel.gif,8.140.135.23
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/match,134.122.129.173
 d18j3cpsvifpk9.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/btn_bg.html,52.70.77.94
 d1v4b6pbk0kwvw.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,44.221.39.41
@@ -68,7 +68,7 @@ ghs.lidajun.lol,Possible Cobalt Strike C2 Domain,/__utm.gif,154.92.18.140
 google.com,Possible Cobalt Strike C2 Fronting Domain,/btn_bg.html,52.70.77.94
 google.com,Possible PoshC2 Fronted Domain,/TOS/,15.235.193.3
 i.xlei.cc,Possible Cobalt Strike C2 Domain,/ca,42.192.53.52
-iheartredteams.com,Possible Cobalt Strike C2 Domain,/match,118.70.125.152
+iheartredteams.com,Possible Cobalt Strike C2 Domain,/fwlink,118.70.125.152
 ikea0.com,Possible Cobalt Strike C2 Domain,/Dequeue/mqseries/D7W0GTJFY,91.238.181.230
 io.cy789.ml,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,42.193.252.92
 io.cy789.ml,Possible Cobalt Strike C2 Domain,/updates.rss,42.193.252.92
@@ -169,7 +169,6 @@ static.chat5188.top,Possible Cobalt Strike C2 Domain,/api/v3/s25FogL,47.243.108.
 static.nvidiadrives.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.92.158.20
 store.lieamwalls.com,Possible Cobalt Strike C2 Domain,/dhl,180.131.145.85
 sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain,/image/,111.229.187.190
-support.meedicalabc.com,Possible Cobalt Strike C2 Domain,/adsid/google/ui,82.180.133.120
 support.popuiarenlinea.com,Possible Cobalt Strike C2 Fronted Domain,/lv,142.171.104.108
 test.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/wp08/wp-includes/dtcla.php,43.153.228.97
 time.api.chinabm.cn,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,8.217.222.41
@@ -205,4 +204,5 @@ www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/
 www.xahoithongtins.com,Possible Cobalt Strike C2 Domain,/jquery-3.5.6.min.js,103.143.208.215
 www.youtube.com,Possible Cobalt Strike C2 Fronting Domain,/watch,154.83.13.161
 www2.eastus.cloudapp.azure.com,Possible Cobalt Strike C2 Domain,/async/newtab_promos,20.104.172.62
+xxydncg.xyz,Possible Cobalt Strike C2 Domain,/faq,121.36.105.186
 zakat.dompetdhuaafa.biz.id,Possible Cobalt Strike C2 Fronted Domain,/dhl,159.223.86.73
