@@ -5,6 +5,7 @@
 Microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/lv
 action-winds.cfd,Possible Cobalt Strike C2 Domain,/transaction
 api.vnaillslivns.shop,Possible Cobalt Strike C2 Domain,/lv
+api.vnaillslivns.shop,Possible Cobalt Strike C2 Domain,/media
 asterchildrenshoes.com,Possible Cobalt Strike C2 Domain,/show/miscellaneous/YG435FS33KC
 atlanticshoresresort.com,Possible Cobalt Strike C2 Domain,/alert/v6.04/WWUF3E1D
 bad-week-gw.aws-usw2.cloud-ara.tyk.io,Possible Cobalt Strike C2 Domain,/api/v2/login
@@ -59,6 +60,7 @@ dropper.bilibili360.xyz,Possible Cobalt Strike C2 Domain,/cm
 email.lieamwalls.com,Possible Cobalt Strike C2 Domain,/dhl
 f6d2b014a8664ddd8d859ce64f3741ad.apig.cn-east-3.huaweicloudapis.com,Possible Cobalt Strike C2 Domain,/static/askbob
 files.jslibc.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+fk.n0reply.eu.org,Possible Cobalt Strike C2 Domain,/api-opt-2023-gfr/3
 ghs.lidajun.lol,Possible Cobalt Strike C2 Domain,/__utm.gif
 google.com,Possible Cobalt Strike C2 Fronting Domain,/btn_bg.html
 gpsuser.net,Possible Cobalt Strike C2 Domain,/push
@@ -66,6 +68,7 @@ hospitalstorage.azureedge.net,Possible Cobalt Strike C2 Domain,/git.asp
 i.xlei.cc,Possible Cobalt Strike C2 Domain,/ca
 iheartredteams.com,Possible Cobalt Strike C2 Domain,/fwlink
 ikea0.com,Possible Cobalt Strike C2 Domain,/Dequeue/mqseries/D7W0GTJFY
+img.vdtuconsole.online,Possible Cobalt Strike C2 Domain,/abc/def/
 io.cy789.ml,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 io.cy789.ml,Possible Cobalt Strike C2 Domain,/updates.rss
 jqueryupdate1.housereynoldsfaust.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
