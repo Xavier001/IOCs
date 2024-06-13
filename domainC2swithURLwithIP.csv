@@ -90,6 +90,8 @@ ghs.lidajun.lol,Possible Cobalt Strike C2 Domain,/__utm.gif,154.92.18.140
 google.com,Possible Cobalt Strike C2 Fronting Domain,/btn_bg.html,52.70.77.94
 gpsuser.net,Possible Cobalt Strike C2 Domain,/push,20.85.220.100
 hospitalstorage.azureedge.net,Possible Cobalt Strike C2 Domain,/git.asp,159.89.46.205
+hw.chintelecom.com.cn,Possible Cobalt Strike C2 Domain,/updates,43.138.20.240
+hw2.chintelecom.com.cn,Possible Cobalt Strike C2 Domain,/updates,43.138.20.240
 i.xlei.cc,Possible Cobalt Strike C2 Domain,/ca,42.192.53.52
 iheartredteams.com,Possible Cobalt Strike C2 Domain,/fwlink,118.70.125.152
 ikea0.com,Possible Cobalt Strike C2 Domain,/Dequeue/mqseries/D7W0GTJFY,91.238.181.230
@@ -169,6 +171,7 @@ service-6wso9e3t-1257357125.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Dom
 service-6y22lbhj-1318289497.bj.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/jquery/2.0.1/jquery.min.js,81.70.163.57
 service-9sehd1r7-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,43.138.20.107
 service-b0kt7bkd-1307485220.cd.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x,47.109.178.63
+service-b0kt7bkd-1307485220.cd.tencentapigw.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.109.178.63
 service-b7g5qx9l-1318401771.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/stream,123.207.50.191
 service-b8dmmmy2-1318428097.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/visit.js,43.142.191.38
 service-bzbl2uq7-1312255927.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/ga.js,43.143.241.241
@@ -216,7 +219,6 @@ web.windowsupdate.shop,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,34.
 wpscheckmembers.vip,Possible Cobalt Strike C2 Domain,/api/v3/CorporationLimited,8.210.81.151
 wraimey.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,44.221.39.41
 www.040.red,Possible Cobalt Strike C2 Domain,/updates,206.119.171.91
-www.163microsoft.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,165.154.58.22
 www.baidusec.top,Possible Cobalt Strike C2 Domain,/lu.js,81.68.152.129
 www.baidusec.top,Possible Cobalt Strike C2 Fronting Domain,/lu.js,81.68.152.129
 www.bitdefenders.shop,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,192.153.57.73
