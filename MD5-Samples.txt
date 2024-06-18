@@ -10,7 +10,7 @@
     <h1>Error 503 Backend unavailable, connection timeout</h1>
     <p>Backend unavailable, connection timeout</p>
     <h3>Error 54113</h3>
-    <p>Details: cache-bur-kbur8200111-BUR 1718662394 3191131348</p>
+    <p>Details: cache-iad-kcgs7200091-IAD 1718683879 3140878271</p>
     <hr>
     <p>Varnish cache server</p>
   </body>
