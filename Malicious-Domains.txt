@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-18 09:00:43 UTC                        #
+# Last updated: 2024-06-18 22:03:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	teleshow.space
+127.0.0.1	fastsecurityup.com
+127.0.0.1	kwqislxk.xyz
+127.0.0.1	service-rfgb6jer-1257331363.sh.tencentapigw.com
 127.0.0.1	www.xincyun.com
 127.0.0.1	magnitogorsk.nl
 127.0.0.1	flynotion.com
@@ -7990,13 +7994,4 @@
 127.0.0.1	la-box-de-ginette.fr
 127.0.0.1	verdemanzana.com.bo
 127.0.0.1	www.crash-it.it
-127.0.0.1	shakyastatuestrade.com
-127.0.0.1	buildmateindia.com
-127.0.0.1	seovdetech.com
-127.0.0.1	seohomee.com
-127.0.0.1	metersphere.zenmen.cloud
-127.0.0.1	ritualaccidentrepu.fun
-127.0.0.1	testifypiecefarst.fun
-127.0.0.1	coastperfumeoslan.fun
-127.0.0.1	feedbackspidermate.fun
-# Number of entries: 7993
+# Number of entries: 7988
