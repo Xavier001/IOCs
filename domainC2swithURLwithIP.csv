@@ -61,6 +61,7 @@ fix.sougou87.top,Possible Cobalt Strike C2 Domain,/image/,45.150.65.209
 fk.n0reply.eu.org,Possible Cobalt Strike C2 Domain,/api-opt-2023-gfr/3,42.236.91.107
 flynotion.com,Possible Cobalt Strike C2 Domain,/___utm.gif,54.226.186.244
 ghs.lidajun.lol,Possible Cobalt Strike C2 Domain,/__utm.gif,154.92.18.140
+gosuslugi.zilab.ru,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,92.63.193.141
 gpsuser.net,Possible Cobalt Strike C2 Domain,/push,20.85.220.100
 hw.chintelecom.com.cn,Possible Cobalt Strike C2 Domain,/updates,43.138.20.240
 hw2.chintelecom.com.cn,Possible Cobalt Strike C2 Domain,/updates,43.138.20.240
@@ -147,6 +148,7 @@ service-80zid8ci-1317810329.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Dom
 service-9sehd1r7-1252427727.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x,43.138.20.107
 service-b0kt7bkd-1307485220.cd.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x,47.109.178.63
 service-d27o3nmv-1324720265.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/getit,159.75.110.16
+service-e5obcthn-1301549065.bj.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x,49.232.185.51
 service-f9dx5hom-1305082597.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x,47.92.174.226
 service-g0t0y6tj-1324325324.cd.tencentapigw.com,Possible Cobalt Strike C2 Domain,/prod/api/debug,101.43.32.212
 service-hcwhjzdb-1316933071.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x,118.25.173.248
