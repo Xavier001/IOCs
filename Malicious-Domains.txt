@@ -1,11 +1,27 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-06-20 18:47:23 UTC                        #
+# Last updated: 2024-06-21 10:10:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ms-update-cs1.azureedge.net
+127.0.0.1	admin.eneroco.com
+127.0.0.1	smtp2.servicebio.com
+127.0.0.1	mailgate.servicebio.com
+127.0.0.1	authsmtp.servicebio.com
+127.0.0.1	www2.servicebio.com
+127.0.0.1	www.kuromipg.im
+127.0.0.1	china-yqs.com
+127.0.0.1	past-dryer-gw.aws-apse2.cloud-ara.tyk.io
+127.0.0.1	scam.cuntcloud.com
+127.0.0.1	ndas8m92.shop
+127.0.0.1	wizarr.manate.ch
+127.0.0.1	go-sw6-02.adventos.de
+127.0.0.1	deadsecc-34880.portmap.host
+127.0.0.1	lake-french.gl.at.ply.gg
+127.0.0.1	grade-excellence.gl.at.ply.gg
 127.0.0.1	onecapitalresidences.com
 127.0.0.1	pirkomagar.com
 127.0.0.1	ggrastyal.live
@@ -7655,53 +7671,4 @@
 127.0.0.1	as.regsvcast.com
 127.0.0.1	qw.regsvcast.com
 127.0.0.1	service-lqsfxdz9-1307700818.sh.tencentapigw.com
-127.0.0.1	advancedlpscanner.com
-127.0.0.1	advanceds-ip-scan.net
-127.0.0.1	advanceds-ip-scanner.net
-127.0.0.1	advanceds-lp-scanner.net
-127.0.0.1	advnced-ip-scan.com
-127.0.0.1	advnced-ip-scanner.com
-127.0.0.1	advnced-lp-scanner.com
-127.0.0.1	inductiveautomatlon.com
-127.0.0.1	inductiveoutomation.com
-127.0.0.1	inductlveautomation.com
-127.0.0.1	mycaase.com
-127.0.0.1	mycaase.net
-127.0.0.1	oldsfaq.com
-127.0.0.1	technorobo-life.com
-127.0.0.1	adsvanced-ip-scanner.com
-127.0.0.1	advancd-ip-scanner.com
-127.0.0.1	advancd-ip-scanner.net
-127.0.0.1	advancd-lp-scanner.net
-127.0.0.1	advanced-ip-scan.net
-127.0.0.1	advanced-ip-scanned.com
-127.0.0.1	advanced-ip-scanning.com
-127.0.0.1	advanced-ip-scanning.net
-127.0.0.1	advanced-ipscan.com
-127.0.0.1	advanced-ipscanning.com
-127.0.0.1	advanced-lp-scan.com
-127.0.0.1	advanced-lp-scaners.com
-127.0.0.1	advanced-lp-scaners.net
-127.0.0.1	advanced-lp-scanned.com
-127.0.0.1	advanced-lp-scanned.net
-127.0.0.1	advanced-lp-scanner.com
-127.0.0.1	advanced-lp-scanners.com
-127.0.0.1	advanced-port-scanner.net
-127.0.0.1	advancede-ip-scanner.com
-127.0.0.1	advancedes-ip-scan.com
-127.0.0.1	advancedes-ip-scan.net
-127.0.0.1	advancedes-ip-scanner.com
-127.0.0.1	advancedes-ip-scanner.net
-127.0.0.1	advancedes-lp-scan.net
-127.0.0.1	advancedes-lp-scanner.com
-127.0.0.1	advancedes-lp-scanner.net
-127.0.0.1	advancedip-scanner.net
-127.0.0.1	adavanced-ip-scaner.com
-127.0.0.1	adavanced-ip-scanner.com
-127.0.0.1	adevancd-lp-scanner.com
-127.0.0.1	adevanced-ip-scans.com
-127.0.0.1	adevanced-lp-scaners.com
-127.0.0.1	adevanced-lp-scanner.net
-127.0.0.1	adevanced-lp-scanners.com
-127.0.0.1	adsvancd-lp-scanner.net
-# Number of entries: 7698
+# Number of entries: 7665
