@@ -7671,8 +7671,4 @@
 127.0.0.1	annualraises2023.zip
 127.0.0.1	windows.dns-supports.online
 127.0.0.1	biggerfun.org
-127.0.0.1	seemeseeyou.duckdns.org
-127.0.0.1	www.view.nuvaringsideffectslawsuit.com
-127.0.0.1	mail.newearth-superfoods.com
-127.0.0.1	cdn-014.epsonupdate.uk
-# Number of entries: 7669
+# Number of entries: 7665
