@@ -10,7 +10,7 @@
     <h1>Error 503 Backend unavailable, connection timeout</h1>
     <p>Backend unavailable, connection timeout</p>
     <h3>Error 54113</h3>
-    <p>Details: cache-dfw-kdfw8210171-DFW 1719526421 3484214724</p>
+    <p>Details: cache-chi-kigq8000036-CHI 1719547860 3434096506</p>
     <hr>
     <p>Varnish cache server</p>
   </body>
