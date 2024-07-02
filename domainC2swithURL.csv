@@ -27,6 +27,7 @@ cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v1c
 cdn.winservers-network.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 check.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+ci-wiki.cn,Possible Cobalt Strike C2 Fronted Domain,/js/jquery-3.4.1.min.js
 cityoall.com,Possible Cobalt Strike C2 Domain,/activity
 clever-steadily-duckling.ngrok-free.app,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 code.jquery.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.5.1.slim.min.js
@@ -62,6 +63,7 @@ funny-sam.online,Possible Cobalt Strike C2 Domain,/ga.js
 google-logs.top,Possible Cobalt Strike C2 Domain,/js/jquery-3.4.1.min.js
 gosuslugi.zilab.ru,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 gpsuser.net,Possible Cobalt Strike C2 Domain,/push
+heart-direct.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 hw.chintelecom.com.cn,Possible Cobalt Strike C2 Domain,/updates
 hw2.chintelecom.com.cn,Possible Cobalt Strike C2 Domain,/updates
 i76rb7b659.nl,Possible Cobalt Strike C2 Domain,/questions/32251816/c-sharp-directives-compilation-error
