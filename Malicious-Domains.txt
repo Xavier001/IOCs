@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-03 11:24:02 UTC                        #
+# Last updated: 2024-07-03 15:00:42 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	adobefallshomes.com
+127.0.0.1	1307777787-7caouzfrdq-bj.scf.tencentcs.com
 127.0.0.1	downloaddining.com
 127.0.0.1	qianxinnbplus.xyz
 127.0.0.1	abc.nbch1na.com
@@ -7749,80 +7751,4 @@
 127.0.0.1	vigilant-elbakyan.159-89-8-28.plesk.page
 127.0.0.1	dracumi.com
 127.0.0.1	ecs-116-205-161-207.compute.hwclouds-dns.com
-127.0.0.1	gayretoploforeztolezkoz.net
-127.0.0.1	tayhonkolimbinesos.net
-127.0.0.1	raygovalizrobinezcomez.net
-127.0.0.1	rayrovelemanze.com
-127.0.0.1	sevcikconcikdomilezdolerez.com
-127.0.0.1	sevdalimdolemezdidos.com
-127.0.0.1	teygolfaygoldoleriz.com
-127.0.0.1	zaryedtormentosco.net
-127.0.0.1	www.736631.com
-127.0.0.1	1518644.com
-127.0.0.1	bigscreenthrills.org
-127.0.0.1	logs.customerportalverify.store
-127.0.0.1	smetrics.customerportalverify.store
-127.0.0.1	ads.customerportalverify.store
-127.0.0.1	xmrpool.shop
-127.0.0.1	ec2-54-224-145-107.compute-1.amazonaws.com
-127.0.0.1	walbuschgruppe.com
-127.0.0.1	www.achiversacademy.shop
-127.0.0.1	activelifes.shop
-127.0.0.1	v2202311142188246753.nicesrv.de
-127.0.0.1	vistc.com
-127.0.0.1	174.151.189.35.bc.googleusercontent.com
-127.0.0.1	static.123.87.21.65.clients.your-server.de
-127.0.0.1	avtokuba.ru
-127.0.0.1	ladyrai.site
-127.0.0.1	ceifador.benzetacil.com
-127.0.0.1	invadersec.com
-127.0.0.1	139-162-33-94.ip.linodeusercontent.com
-127.0.0.1	mail.159-89-8-28.cprapid.com
-127.0.0.1	137-184-80-125.cprapid.com
-127.0.0.1	www.linxun.xyz
-127.0.0.1	asalamakolemezdoes.net
-127.0.0.1	rahlokezdolepizdomer.com
-127.0.0.1	rahmetdolezdolirmolipdom.com
-127.0.0.1	saygabolemezdomenezcom.net
-127.0.0.1	saygoodfoledopel.com
-127.0.0.1	taytoplopidolep.com
-127.0.0.1	ceptolezcominezcoydez.com
-127.0.0.1	cevapveremezdolemereszoes2.net
-127.0.0.1	cevapveremezdolemezdolirezdoremifadso.net
-127.0.0.1	domlezcomlezdomdenyomegdo.com
-127.0.0.1	haygodfolmoldol.net
-127.0.0.1	haytoplokezdolezdominec.net
-127.0.0.1	hepgeldomkelzdomezforez.net
-127.0.0.1	nededlokezdolerezsos3.net
-127.0.0.1	raceptoplumdemezdey.net
-127.0.0.1	saydornolicezdome.net
-127.0.0.1	sayfedkolyegelme.net
-127.0.0.1	saygakolbalabana.com
-127.0.0.1	saygaydolezlomiedco.com
-127.0.0.1	saygolezdolemeze.com
-127.0.0.1	tahriyedsolemezdolerede2.com
-127.0.0.1	tahtalidoleredominezdolez.com
-127.0.0.1	caygadholemerezdolez.com
-127.0.0.1	capcanboylokemez.com
-127.0.0.1	cayferelokimizedolem.net
-127.0.0.1	tahridyolezdolemez.com
-127.0.0.1	saygedyolezdomezdominez.net
-127.0.0.1	tahtalokezdolemrezced5.net
-127.0.0.1	tahtalidyolezdoliezdominez.com
-127.0.0.1	tahtalimcominezdoles.net
-127.0.0.1	tahtaravilazdolerez.com
-127.0.0.1	tahtatgoblindomlin.com
-127.0.0.1	tahtaydomlokezdoleriz.net
-127.0.0.1	tahyolezdolemezdo.com
-127.0.0.1	tarafdalimezdolemezdolerez.com
-127.0.0.1	tarhanelokezdol.net
-127.0.0.1	tayfederlokizdolerizne.net
-127.0.0.1	tayfundolemezdo.com
-127.0.0.1	tayhadlokezdolereme.net
-127.0.0.1	tayrepcanogelmezo.net
-127.0.0.1	taytoreztoleztomelez.net
-127.0.0.1	tufankolfodemolezdor.net
-127.0.0.1	tuftoflokezdoriez.com
-127.0.0.1	yathohkolfaledtosun.net
-127.0.0.1	yayfolezdolemenegidiyo.net
-# Number of entries: 7819
+# Number of entries: 7745
