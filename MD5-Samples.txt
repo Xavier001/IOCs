@@ -1,12 +1,33 @@
 ################################################################
 # MalwareBazaar recent malware samples (MD5 hashes)            #
-# Last updated: 2024-07-05 21:27:10 UTC                        #
+# Last updated: 2024-07-06 02:56:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://bazaar.abuse.ch/faq/#tos               #
 # For questions please contact bazaar [at] abuse.ch            #
 ################################################################
 #
 # md5_hash
+05be2cbe945ebb1f4db5c1fa09a75079
+5251794e42d5d9e95309ebe4f6ea9151
+a4a9a726093bcdc7c7b4223632e30363
+19e7819eb886414b6bcab23db00541ec
+0d9aae98b5a6cde157457c2c9cb1a8af
+bfb492749cc769c10808d63903ef2128
+84309cbf31386d1d4899eb7886c2377a
+67bcc208605f7ecbb797af220b96c4f7
+f6e4e64f9419799f2112721c0ffa2e9d
+f7f6eb480fe715733e509d0489171c18
+acc0d5c1460b87386e1e1789c9626aa3
+4ac5de9d55c788c81412dcf74816b202
+48aea6148ce264983c6b21ed5a052d97
+1eca8e2ba8d4939400ef3b6f315a68f2
+d222ba49a76264d97a90135f206e46c0
+d58abc4baac8aa6a3f52a81a127e4d4c
+36045d94d4141eb4bc330be1aad039be
+ea89c70429cc19f3057b9b13f7ccacf7
+0bc47124c27aa631d1566f3aea722e0a
+edc8c4834d73ffd820e9ef6fb7dffcbb
+00b909a2163ad106da84767522ba9426
 62f1460b0af5107e41d99f4ca89ebf4c
 ebfeb52ca8329ec9700ef33c7b5ff39a
 bab3006ac455452bcf3fe66e61d7a806
@@ -577,22 +598,4 @@ f19adb4ea42ab4e1cfe99d50a00956e3
 990159d65a7268e9f9da50e115e7fcec
 b05203ce620abcf84ff7acb68ce49e8e
 aa61b4a6c138bc9470efb83297c3ba86
-11ec2263423a6c9c8ca33fe4c021e9a4
-137382c82ac181b541271baf79055eba
-15f3e81483b60f863813297ad84390a7
-6c10bc159358093f6e827b170bcddeda
-bb389a943f133605637a7f4ef169a536
-4aebbd6365a4bef8513ff49baa114b25
-02aa30de158b4846bbc16f9c6809dd5b
-1154cd3205e7e1226b03b1ee15278e0a
-7438c50d98f5aae7b96c19562f6b4c8c
-08adf93a86b983edaee843e01f85fddb
-f920245903cc3b13b891c2be9e76e318
-c8fe2e7043d030cf93cdab759d44f5e4
-1323616c7b4228edd3735c144d4632c2
-509c110ee54d73c3398140a5eb78c45a
-a6811199672d0cae053f475a52b1c74c
-64b2f12c07091c97a05adb0dd7946470
-18e51a9ea1c46ff208964b6ce2c800fe
-f193bb5eea79af7e478455631cf17527
-# Number of entries: 588
+# Number of entries: 591
