@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-06 10:09:45 UTC                        #
+# Last updated: 2024-07-06 10:44:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	113.125.179.13
 127.0.0.1	itechnetworkbd.com
 127.0.0.1	rejgroups.com
 127.0.0.1	br.suicide2024.xyz
@@ -7668,11 +7669,4 @@
 127.0.0.1	qimen.top
 127.0.0.1	49.atk.im
 127.0.0.1	iiilll1.com
-127.0.0.1	yourself-catholic.gl.at.ply.gg
-127.0.0.1	hk-once.520226.xyz
-127.0.0.1	m.molang007.com
-127.0.0.1	msprojectserver.com
-127.0.0.1	wmpupdate.com
-127.0.0.1	micros0fti.com
-127.0.0.1	updataus.com
-# Number of entries: 7669
+# Number of entries: 7663
