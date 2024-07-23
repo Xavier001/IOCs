@@ -9,6 +9,7 @@ Microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/lv
 account.viettimez.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 api.chinacec.top,Possible Cobalt Strike C2 Domain,/admin-apis/
 api.frameeservicere.live,Possible Cobalt Strike C2 Domain,/RELEASE_NOTES
+api.rayob2.shop,Possible Cobalt Strike C2 Domain,/Content
 apibaidu-cjklerlcfx.cn-hangzhou.fcapp.run,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ata.360.net,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 baznas.dompetdhuaafa.biz.id,Possible Cobalt Strike C2 Fronted Domain,/ee
@@ -82,6 +83,7 @@ liolio.cn,Possible Cobalt Strike C2 Domain,/__utm.gif
 log.lihaimaoyi.com,Possible Cobalt Strike C2 Domain,/api/3
 look.163.com,Possible Cobalt Strike C2 Fronted Domain,/maps/overlaybfpr
 mail.cliquedong.com,Possible Cobalt Strike C2 Domain,/Forums
+manager.moonlighter.space,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_
 me.xiaojukeji.com,Possible Cobalt Strike C2 Fronting Domain,/static/js/jquery-3.fca2a8c137.10.1.slim.min.js
 microsoftsoftwave.com,Possible Cobalt Strike C2 Domain,/cx
 ms.quens.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -91,6 +93,7 @@ news.163.com,Possible Cobalt Strike C2 Fronted Domain,/maps/overlaybfpr
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain,/cm
 ns.b1ing.com,Possible Cobalt Strike C2 Domain,/dot.gif
 ns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
+ns.manager.moonlighter.space,Possible Cobalt Strike C2 Domain,/c/msdownload/update/others/2016/12/29136388_
 ns.n0reply.eu.org,Possible Cobalt Strike C2 Domain,/api-opt-2023-gfr/3
 ns1.163microsoft.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 ns1.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.5.1.slim.min.js
@@ -127,6 +130,7 @@ red.ysyla168888.com,Possible Cobalt Strike C2 Domain,/match
 rendnar.link,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 renjian.163.com,Possible Cobalt Strike C2 Fronted Domain,/maps/overlaybfpr
 san-xun.top,Possible Cobalt Strike C2 Domain,/api/3
+san-xun.top,Possible Cobalt Strike C2 Domain,/ga.js
 search.zxcvqqo.com,Possible Cobalt Strike C2 Domain,/api/3
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
 service-1scv7ngm-1318428097.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/user
@@ -147,7 +151,6 @@ service-i4ipkrwm-1317712796.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Dom
 service-k43f6rw9-1308954353.kr.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/getit
 service-l24muftx-1251354025.bj.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/index.php/Public/login
 service-lj3klqg6-1308639534.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/getit
-service-opql05nu-1253504731.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/api/x
 service-qwflcy7c-1305872204.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/bootstrap-5.3.1.min.js
 service-rbr85ft5-1259685312.cd.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/get
 service-tencentcloud-1319709886.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronting Domain,/csdn.2.2.js
@@ -179,6 +182,7 @@ whatmy.nslookup.vip,Possible Cobalt Strike C2 Domain,/pixel.gif
 whatmy.nslookup.vip,Possible Cobalt Strike C2 Domain,/visit.js
 ww2.cliquedong.com,Possible Cobalt Strike C2 Domain,/Forums
 ww2.jji.cz,Possible Cobalt Strike C2 Domain,/googleapis/33
+www.040.red,Possible Cobalt Strike C2 Domain,/updates
 www.51ape.cc,Possible Cobalt Strike C2 Fronted Domain,/csdn.2.2.js
 www.52mxd.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.SentinelOnebit.com,Possible Cobalt Strike C2 Domain,/promote/static/XV4SPLMOG
