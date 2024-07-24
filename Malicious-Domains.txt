@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-24 10:30:22 UTC                        #
+# Last updated: 2024-07-24 14:44:10 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	denaumtz.com
 127.0.0.1	sticky.oystergardening.name
 127.0.0.1	insurance-helmet.gl.at.ply.gg
 127.0.0.1	knoxvillevideoproductions.com
@@ -7170,15 +7171,4 @@
 127.0.0.1	ns1.inpex589.info
 127.0.0.1	newdomainfortesteenestle.com
 127.0.0.1	novlkyy.shop
-127.0.0.1	groannysoapblockedstiw.site
-127.0.0.1	copyrightspareddcitwew.site
-127.0.0.1	paperambiguonusphoterew.site
-127.0.0.1	expenditureddisumilarwo.site
-127.0.0.1	combinethemepiggerygoj.site
-127.0.0.1	weedpairfolkloredheryw.site
-127.0.0.1	qualifiedbehaviorrykej.site
-127.0.0.1	dragonporterloudjettyw.site
-127.0.0.1	fanklubziuta.pl
-127.0.0.1	karasergkaravaev2.fvds.ru
-127.0.0.1	dns.trackgroup.net
-# Number of entries: 7175
+# Number of entries: 7165
