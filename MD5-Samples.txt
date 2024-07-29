@@ -1,12 +1,27 @@
 ################################################################
 # MalwareBazaar recent malware samples (MD5 hashes)            #
-# Last updated: 2024-07-29 09:53:02 UTC                        #
+# Last updated: 2024-07-29 11:59:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://bazaar.abuse.ch/faq/#tos               #
 # For questions please contact bazaar [at] abuse.ch            #
 ################################################################
 #
 # md5_hash
+dc8d2014d4390805b87f49f5531b3478
+64fafd3369956375e0ac1c9ef85c2002
+fc51476aef1c6e09809ce64319e4fdc4
+ec6cefdec13ba5a7922c280a24549b82
+33dfd6120e9dd0ed60e7561b7f5ab309
+9f28eef343b1a1c3639446b98b365cc9
+d67ea3b362d4e9b633216e85ac643d1f
+216b3a40ff0e9680e0ca49d53e828b94
+d2604c76a8653aa177adce9c77319700
+e88e210b95fed71af19bc7416d8e5f12
+07b941d5e8b7f3f214cf54e47c05af54
+ad557ccbde010d0b02ab9233eca8e2f8
+0610189e95dbee895c8f710b7abf0bb2
+c57740f48b30f9c166aaa4637245a744
+54733d7adc07fecd991321b387e8d0f8
 3bd819440fbc91a530c3c659d99564e3
 2982ac131e49354ec51e645f9db53b40
 1c34280a2228793aad681089179ec0b3
@@ -96,7 +111,6 @@ fe42a6e718e135f5f6e9ed17c362f9cf
 55e6cc81525f58cf81496b1f13f555b3
 7e5292c80a3ca4921b547e9dc1e20695
 0bf3c5d3a37325c3cc85a891083a9730
-21e8b9223e156d4f89210837a4d8c46d
 d241262b0dc82ad267fe31fde37afc14
 399c91caedfbc08bab3e69e2d6080330
 b1230a7256b43489c3d84c88edfb8fbe
@@ -302,17 +316,4 @@ c326fe916e749d691caedbc7851f984c
 5710e8153d3061cb80c0a4c8d1d59fec
 9541c3b55a84a206b3b980b3d7152ca4
 caff2aa5fc48537cf4c0197036a2f7dd
-350b3eb583ff66e534ad9280f26e6080
-190e4ed7759276e78d16398673996b2b
-753df56b82850430b8c7e25aaa93ea66
-f810808f657d8cd4dffd0374c126cd90
-f99a8f1184817474711cebfb1be09519
-1a9c19cd373f9ce0642f18f6965521b3
-0984ff97384b441aea3fb03b45dab142
-f0cd89bb35e3cce47f193faea320e883
-01e059b3901bd579fb8ea4ebc34009f9
-ef4af5ea8b80cf002900bab6dc1dd4b4
-e59e66a0212320182715dc9aa7790b00
-b078d31fc894b91a32e1c40c596fe1ec
-7e43d787c0813212855c05d5cc4b1752
-# Number of entries: 308
+# Number of entries: 309
