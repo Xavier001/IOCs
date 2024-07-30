@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-07-30 07:19:58 UTC                        #
+# Last updated: 2024-07-30 18:03:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	imtokcn.org
+127.0.0.1	megabahis664.com
+127.0.0.1	losttwister.com
+127.0.0.1	velellablue.com
+127.0.0.1	blacksaltys.com
+127.0.0.1	brickedpack.com
+127.0.0.1	bymett.com
+127.0.0.1	bluetreewater.com
 127.0.0.1	portal.sharjahconnect.online
 127.0.0.1	02radiantquagmire.buzz
 127.0.0.1	03rhapsodyeclipse.buzz
@@ -7021,19 +7029,4 @@
 127.0.0.1	dns.unitedromtech.com
 127.0.0.1	dns.ibmxwork.com
 127.0.0.1	support.ibmxwork.com
-127.0.0.1	mfreshbnrem.ddns.net
-127.0.0.1	klosherskymoneyd.com
-127.0.0.1	moon.spartabig.com
-127.0.0.1	ok.spartabig.com
-127.0.0.1	sell.spartabig.com
-127.0.0.1	count.spartabig.com
-127.0.0.1	spartabig.com
-127.0.0.1	ndbplus.rs
-127.0.0.1	nab.blueyonderllc.top
-127.0.0.1	bit-number.gl.at.ply.gg
-127.0.0.1	node115.5-systems.ru
-127.0.0.1	evgenytchurakin.fvds.ru
-127.0.0.1	ramzanlee.fvds.ru
-127.0.0.1	asp.keyshape.net
-127.0.0.1	allsmt.cam
-# Number of entries: 7030
+# Number of entries: 7023
