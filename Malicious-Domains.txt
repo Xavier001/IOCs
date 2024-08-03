@@ -7112,9 +7112,4 @@
 127.0.0.1	ec2-3-22-66-152.us-east-2.compute.amazonaws.com
 127.0.0.1	vbatallafinal23.duckdns.org
 127.0.0.1	www.micros0fti.com
-127.0.0.1	z.botnet.rocks
-127.0.0.1	statisticsong.com
-127.0.0.1	api.statisticsong.com
-127.0.0.1	panal.statisticsong.com
-127.0.0.1	panel.statisticsong.com
-# Number of entries: 7111
+# Number of entries: 7106
