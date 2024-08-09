@@ -31,6 +31,7 @@ cc.cert-ex.net,Possible Cobalt Strike C2 Domain,/__utm.gif
 cc.youku.zip,Possible Cobalt Strike C2 Domain,/functionalStatus/
 cdn.cuntcloud.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/
 cdn.winservers-network.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
+cdn.wnaz.shop,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cdnpwjymtmkeg.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 check.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -190,6 +191,7 @@ www.chinamobile.live,Possible Cobalt Strike C2 Fronted Domain,/api/3
 www.dnf404.com,Possible Cobalt Strike C2 Fronted Domain,/Discord.1.2.js
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/
 www.igk66.com,Possible Cobalt Strike C2 Fronted Domain,/csdn.2.2.js
+www.ihcihy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.jzj.cn,Possible Cobalt Strike C2 Fronted Domain,/csdn.2.2.js
 www.jzzl.com,Possible Cobalt Strike C2 Fronted Domain,/csdn.2.2.js
 www.kar98k.icu,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
