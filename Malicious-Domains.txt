@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-11 06:28:24 UTC                        #
+# Last updated: 2024-08-12 06:47:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.ritcophysiotherapy.com.au
+127.0.0.1	pretty-dressed.gl.at.ply.gg
+127.0.0.1	viewifydocs.com
+127.0.0.1	teamsconnect.com
+127.0.0.1	informupdate.uno
 127.0.0.1	k1gkl25as.top
 127.0.0.1	aeroflightparts.com
 127.0.0.1	s7.canada.wiretun.com
@@ -6874,18 +6879,4 @@
 127.0.0.1	static.127.103.78.5.clients.your-server.de
 127.0.0.1	199.60.149.34.bc.googleusercontent.com
 127.0.0.1	haha.skyljne.click
-127.0.0.1	mb-testing.azureedge.net
-127.0.0.1	berlyndnero.duckdns.org
-127.0.0.1	linkerjeki.fun
-127.0.0.1	ec2-54-86-17-63.compute-1.amazonaws.com
-127.0.0.1	reporttest.rubecon.co.za
-127.0.0.1	45-79-196-203.ip.linodeusercontent.com
-127.0.0.1	static.197.203.76.144.clients.your-server.de
-127.0.0.1	883217.cc
-127.0.0.1	dgaf.catboy.me
-127.0.0.1	grinevitchnicolas.fvds.ru
-127.0.0.1	ansible-tower-pocket-node1.validatorsheaven.network
-127.0.0.1	64-225-100-2.cprapid.com
-127.0.0.1	srxy123.is-a-geek.com
-127.0.0.1	smtp.pioneerprinters.co.uk
-# Number of entries: 6882
+# Number of entries: 6873
