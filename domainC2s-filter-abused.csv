@@ -92,7 +92,6 @@ mckinsey-help.com,Possible Cobalt Strike C2 Domain
 mckinsey-help.com,Possible Cobalt Strike C2 Fronting Domain
 me.xiaojukeji.com,Possible Cobalt Strike C2 Fronting Domain
 msappoffice.online,Possible Cobalt Strike C2 Fronted Domain
-mscrl1.azureedge.net,Possible Cobalt Strike C2 Fronting Domain
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain
 networkhealth.azureedge.net,Possible Cobalt Strike C2 Domain
 newstatisc.googleinfo.se,Possible Cobalt Strike C2 Domain
@@ -126,6 +125,13 @@ nt3.227api.com,Possible Cobalt Strike C2 Domain
 one.cloudfleras.com,Possible Cobalt Strike C2 Domain
 open-microsoft.com,Possible Cobalt Strike C2 Domain
 pachealthonline.com,Possible Cobalt Strike C2 Fronted Domain
+portal.edge-akadns.net,Possible Cobalt Strike C2 Fronted Domain
+portal.edge-akamai.net,Possible Cobalt Strike C2 Fronted Domain
+portal.idnslookup.net,Possible Cobalt Strike C2 Fronted Domain
+portal.loadbalance-akadns.net,Possible Cobalt Strike C2 Fronted Domain
+portal.loadbalance-akamai.net,Possible Cobalt Strike C2 Fronted Domain
+portal.msexplorer.net,Possible Cobalt Strike C2 Fronted Domain
+portal.trafficmannager.net,Possible Cobalt Strike C2 Fronted Domain
 primo.freshhema.com,Possible Cobalt Strike C2 Fronting Domain
 prod.wimscp.net,Possible Cobalt Strike C2 Domain
 qianxinnbplus.xyz,Possible Cobalt Strike C2 Domain
@@ -208,7 +214,6 @@ www.xiaoluoli.com,Possible Cobalt Strike C2 Fronted Domain
 www.xincyun.com,Possible Cobalt Strike C2 Domain
 www.xxzxzz.com,Possible Cobalt Strike C2 Fronted Domain
 www.ye0kr1n.top,Possible Cobalt Strike C2 Domain
-www1.c6bank.cloud,Possible Cobalt Strike C2 Fronted Domain
 yanzu.top,Possible Cobalt Strike C2 Domain
 your-adversary.com,Possible Cobalt Strike C2 Fronted Domain
 zakat.dompetdhuaafa.biz.id,Possible Cobalt Strike C2 Fronted Domain
