@@ -37,7 +37,7 @@ cloudvideo.news.gov.hk,Possible Cobalt Strike C2 Fronted Domain,/activity,42.193
 cnn.org,Possible Cobalt Strike C2 Fronting Domain,/css3/index2.shtml,3.93.67.17
 content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/fwlink,8.140.135.23
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/fwlink,8.140.135.23
-cs.cloudflar.top,Possible Cobalt Strike C2 Domain,/pixel.gif,47.242.52.42
+cs.cloudflar.top,Possible Cobalt Strike C2 Domain,/j.ad,47.242.52.42
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/ptj,134.122.129.173
 cscs.beauty,Possible Cobalt Strike C2 Domain,/develop/messaging/W5JK7INLQ,107.173.140.2
 csssssswdsaawsssdwqeqw.1008611.cfd,Possible Cobalt Strike C2 Domain,/match,149.104.31.36
@@ -224,6 +224,7 @@ www.qtvnews.com,Possible Cobalt Strike C2 Fronted Domain,/static/js/jquery-3.fca
 www.sdzy.com,Possible Cobalt Strike C2 Fronted Domain,/Discord.1.2.js,106.52.5.128
 www.sonystore.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,39.98.192.104
 www.tencead.top,Possible Cobalt Strike C2 Domain,/visit.js,39.105.161.32
+www.uaaa.cloudns.be,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,106.15.237.96
 www.weepstakes.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png,185.32.126.51
 www.windowsuserapi.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/z,119.8.162.77
 www.xahoithongtins.com,Possible Cobalt Strike C2 Domain,/jquery-3.5.6.min.js,103.143.208.215
