@@ -39,6 +39,7 @@ cloudvideo.news.gov.hk,Possible Cobalt Strike C2 Fronted Domain,/activity,42.193
 cnn.org,Possible Cobalt Strike C2 Fronting Domain,/css3/index2.shtml,3.93.67.17
 content.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/fwlink,8.140.135.23
 content.microsoft.com.w.kunlunca.com,Possible Cobalt Strike C2 Fronted Domain,/fwlink,8.140.135.23
+cs.catdogcs.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,199.167.138.132
 cs.cloudflar.top,Possible Cobalt Strike C2 Domain,/j.ad,47.242.52.42
 cs.h1ll0.cs.in,Possible Cobalt Strike C2 Domain,/ptj,134.122.129.173
 cscs.beauty,Possible Cobalt Strike C2 Domain,/develop/messaging/W5JK7INLQ,107.173.140.2
@@ -90,7 +91,6 @@ heart-direct.ru,Possible Cobalt Strike C2 Domain,/consolidate/wallpapers/UXBZIT1
 help.mckinsey-help.com,Possible Cobalt Strike C2 Fronted Domain,/api/3,38.55.193.98
 hsvodcdn.cc.netease.com,Possible Cobalt Strike C2 Fronted Domain,/updates.rss,47.100.168.11
 ihcihy.top,Possible Cobalt Strike C2 Domain,/push,47.242.123.11
-ihcihy.top,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,47.242.123.11
 imangoimxx-2.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.61.139.104
 imgs.statics.baidu.com,Possible Cobalt Strike C2 Fronting Domain,/IE9CompatViewList.xml,59.110.13.53
 imgs.statics.baidu.com,Possible Cobalt Strike C2 Fronting Domain,/updates.rss,47.100.168.11
@@ -220,7 +220,6 @@ www.dnf404.com,Possible Cobalt Strike C2 Fronted Domain,/Discord.1.2.js,106.52.5
 www.hainanwctvme.xyz,Possible Cobalt Strike C2 Domain,/image/,115.159.50.50
 www.igk66.com,Possible Cobalt Strike C2 Fronted Domain,/csdn.2.2.js,81.70.34.148
 www.ihcihy.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.242.123.11
-www.ihcihy.top,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,47.242.123.11
 www.jzj.cn,Possible Cobalt Strike C2 Fronted Domain,/csdn.2.2.js,81.70.34.148
 www.jzzl.com,Possible Cobalt Strike C2 Fronted Domain,/csdn.2.2.js,81.70.34.148
 www.kar98k.icu,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,8.219.241.76
