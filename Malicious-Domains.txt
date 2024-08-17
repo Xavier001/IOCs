@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-17 06:48:28 UTC                        #
+# Last updated: 2024-08-17 18:36:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.sodiumlaurethsulfatedesyroyer.com
+127.0.0.1	ailurophilestealer.com
+127.0.0.1	ailurophilestealer.shop
+127.0.0.1	agosto14.con-ip.com
+127.0.0.1	method8888.ddns.net
+127.0.0.1	mrlagoon.club
+127.0.0.1	sungito2.ddns.net
+127.0.0.1	tochisglobal.ddns.net
 127.0.0.1	vowquybcw.org
 127.0.0.1	cnc.mamma.su
 127.0.0.1	belvedereparkway.site
@@ -6846,14 +6854,4 @@
 127.0.0.1	gemcreedarticulateod.shop
 127.0.0.1	claimconcessionrebe.shop
 127.0.0.1	liabilityarrangemenyit.shop
-127.0.0.1	software.dth.wtf
-127.0.0.1	cholin777.con-ip.com
-127.0.0.1	elgigante.con-ip.com
-127.0.0.1	elgrande.con-ip.com
-127.0.0.1	gomelo.con-ip.com
-127.0.0.1	hebreo.con-ip.com
-127.0.0.1	jerusalen.con-ip.com
-127.0.0.1	lesbiano.con-ip.com
-127.0.0.1	ruby.con-ip.com
-127.0.0.1	fucktheccp.top
-# Number of entries: 6850
+# Number of entries: 6848
