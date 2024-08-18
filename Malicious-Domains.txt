@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-18 11:40:23 UTC                        #
+# Last updated: 2024-08-18 15:44:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	meannypaintipp.shop
+127.0.0.1	hema2024.from-ut.com
 127.0.0.1	version6dkgate.duckdns.org
 127.0.0.1	public-ftp.com
 127.0.0.1	builaos.fun
@@ -7321,35 +7323,4 @@
 127.0.0.1	day.50adayplan.com
 127.0.0.1	winvipbonus.life
 127.0.0.1	news.ntc-telecomcorporation.workers.dev
-127.0.0.1	aquabotnet.xyz
-127.0.0.1	botnet.zapto.org
-127.0.0.1	bulldognet.info
-127.0.0.1	discounts-ptclnetpk.servehttp.com
-127.0.0.1	offers-ptclnetpk.serveftp.com
-127.0.0.1	rewards-ptclnetpk.viewdns.net
-127.0.0.1	visualstudiomacupdate.com
-127.0.0.1	nanoudu30-31620.portmap.host
-127.0.0.1	plus-subcommittee.gl.at.ply.gg
-127.0.0.1	weilaibot.net
-127.0.0.1	zunbot.awuam.com
-127.0.0.1	mirailovers.ddns.net
-127.0.0.1	nw.awuam.com
-127.0.0.1	qwerty.awuam.com
-127.0.0.1	bots.awuam.com
-127.0.0.1	feckoffbr0.sbs
-127.0.0.1	ddns.awuam.com
-127.0.0.1	ddos.sdxpay.cn
-127.0.0.1	ackcm.awuam.com
-127.0.0.1	awuam.com
-127.0.0.1	botnet.awuam.com
-127.0.0.1	714745cm.nyashland.top
-127.0.0.1	finance-govnp.servehalflife.com
-127.0.0.1	mail-ntcgovpk.servehttp.com
-127.0.0.1	mail-scogovpk.servehttp.com
-127.0.0.1	mof-govnp.servehttp.com
-127.0.0.1	net-killer.online
-127.0.0.1	botnet.serveblog.net
-127.0.0.1	net-killer.servehttp.com
-127.0.0.1	mostnet.servegame.com
-127.0.0.1	net-killer.servehttp.com
-# Number of entries: 7346
+# Number of entries: 7317
