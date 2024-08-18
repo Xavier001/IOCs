@@ -1,12 +1,26 @@
 ################################################################
 # MalwareBazaar recent malware samples (MD5 hashes)            #
-# Last updated: 2024-08-17 22:06:44 UTC                        #
+# Last updated: 2024-08-18 03:50:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://bazaar.abuse.ch/faq/#tos               #
 # For questions please contact bazaar [at] abuse.ch            #
 ################################################################
 #
 # md5_hash
+c66a964fe460a10d78d61d14db000ce7
+78ec5f9c31afbe9cb3642372fa225eae
+4486db5e198feb8e49775ad317f8ed2d
+df78dc9f4bb9659a26e8f9b21be32bd5
+0825404394ab2ff375c9b7f54c584da0
+12cae571e64492458fb8c8bad13a6625
+23369d98b7922f616bca2dabac2dc5a1
+01c49f92e5128a6ccb5afddadc5f17d7
+66f18bfaa520572e7c3c4b13c4fd70eb
+181f0fb86c8626e83a8e8c83f7e45e9f
+c55d88759619cc94143a7b6ead07ea98
+b7df5fdcfdc3f46b0b4f28c1ffb82937
+a49dbe9cfd3a90e6bc3d0a23635a0787
+7809e177584176e9def925007146cc5c
 bdc539c6056ca1e6f6f0427f44591b1a
 cc5be4e36eec1b0c1248d6fa623c1d74
 caf7b3bec63585b1a92bcf5eac5429c0
@@ -30,12 +44,8 @@ b3c5b916be3112aa9b5e9158660ad743
 73e38ae68bcb3190e9f512ff97762960
 c0b1bacf44892b96abd3564716a2b4ee
 8629ebe8dbace8eed8e8a50314e4622b
-4375f32f0f47e89502f6e88c650e5dd6
-13bd261d520bb421a7c6e825c511b482
-664d2199ce137423c6b8fa18d28133dd
 f8ee8e7439e2d2d3b349bef5a1c8d336
 a0885162dd411305f4157612c04370ca
-805761ef7834bfa6015198edc4888485
 cc1582ca08498560a84fdf4e795fb63f
 3660df12dab70c6ebcbff84a365db703
 ad870dd21a186fc585af53fb6a1f3081
@@ -321,22 +331,4 @@ fea498cb8d15962b7cde55e0553a5735
 28ec30fecf999cf505c8ce027c5ba816
 444c2b2c686a094c08a0287ce3405fd4
 878a39b1a17ad10ed89c87508db353c0
-b2ed31d82898f46aa1a3b0eb1e0fb2ce
-25357bc8b2bd5b4f00b449b3c28b6b88
-c8e68060bdb78c623565ebc580d732e4
-0eef59fa1aed10b91b7c7307779d6a18
-4448a3c2ddfdda45009b440faa39a5fe
-3a4d965c91769bba49f67417db6ed0db
-f3340ac55787c6174f21a2917ee604d0
-32879d7693981163bcb9306c4c120035
-4dc2f707cc033b426d8cf2eab5930913
-0afd0c95c4799ac82596a8aac76de9ee
-f1753d5082fd6ea2dadfe39d27eb6e5c
-20077dab06704e62a0a6ce636fefb812
-21af70f383f4901827de33857471bbc1
-4ce1ddec964bc1cdd37c81baacd86b69
-c0f36c24957ffd0e45a70255079e6a78
-ab0d1183ddabae1f0f842023eb0a3e1b
-810dcf6387c16acc4496d5c61b582681
-acd50da7436621368061abc2ca6193fe
-# Number of entries: 332
+# Number of entries: 324
