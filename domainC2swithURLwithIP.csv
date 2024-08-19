@@ -51,7 +51,6 @@ dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
-disposal-causing-late-royalty.trycloudflare.com,Possible Cobalt Strike C2 Domain,/updates.rss,167.88.164.166
 dns.byresolved.com,Possible Cobalt Strike C2 Domain,/acct.php,18.219.198.202
 dns.checkavail.space,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr,191.101.44.35
 dns.cityoall.com,Possible Cobalt Strike C2 Domain,/pixel,94.20.88.63
@@ -171,7 +170,6 @@ update.microsofthk.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,1
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/j.ad,154.12.84.6
 update.mirrorss.top,Possible Cobalt Strike C2 Domain,/www/handle/doc,23.95.44.80
 update.wztgyh.com,Possible Cobalt Strike C2 Fronting Domain,/mall_100_100.html,47.93.166.228
-upgrade.mirrorss.top,Possible Cobalt Strike C2 Domain,/push,23.95.44.80
 vsj888.shop,Possible Cobalt Strike C2 Domain,/www/handle/doc,165.140.240.126
 w2481.com,Possible Cobalt Strike C2 Domain,/ca,193.42.25.7
 web.windowsupdate.shop,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,34.146.210.28
