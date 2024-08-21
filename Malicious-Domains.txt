@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-21 06:10:53 UTC                        #
+# Last updated: 2024-08-21 18:25:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	miracledzmnqwui.shop
+127.0.0.1	usedstuf.com
+127.0.0.1	totemcontent.com
+127.0.0.1	gadgetised.com
+127.0.0.1	expertcloud.lol
+127.0.0.1	expertcloud.xyz
+127.0.0.1	abomenaa.duckdns.org
+127.0.0.1	iprotosample.com
 127.0.0.1	bhhdhhj.com
 127.0.0.1	geekcs2.top
 127.0.0.1	bot.geekcs2.top
@@ -7247,18 +7255,4 @@
 127.0.0.1	ecuaecua.duckdns.org
 127.0.0.1	realusatruck.com
 127.0.0.1	amma.myftp.biz
-127.0.0.1	dns.artstrailreviews.com
-127.0.0.1	aitcaid.com
-127.0.0.1	www.nbcnews.site
-127.0.0.1	ec2-52-20-229-84.compute-1.amazonaws.com
-127.0.0.1	ftp.huboftest.ir
-127.0.0.1	109.107.181.83.sslip.io
-127.0.0.1	www.maribelgould.autos
-127.0.0.1	www.kendraesparza.autos
-127.0.0.1	irenecameron.autos
-127.0.0.1	hg88654.cc
-127.0.0.1	ok.system111.top
-127.0.0.1	bistoxcrypto.com
-127.0.0.1	157.32.125.34.bc.googleusercontent.com
-127.0.0.1	93-33-203-219.ip46.fastwebnet.it
-# Number of entries: 7255
+# Number of entries: 7249
