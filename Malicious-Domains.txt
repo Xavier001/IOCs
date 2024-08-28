@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-27 19:21:41 UTC                        #
+# Last updated: 2024-08-28 04:32:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	beesco.net
+127.0.0.1	loadingboats.dyn
+127.0.0.1	industry-detective.gl.at.ply.gg
 127.0.0.1	sevxc17vs.top
 127.0.0.1	sixxc16vs.top
 127.0.0.1	sevxc17pt.top
@@ -7088,8 +7091,4 @@
 127.0.0.1	assets.samfund.co
 127.0.0.1	dns.trailcosolutions.com
 127.0.0.1	ssjcw.com.w.kunlunpi.com
-127.0.0.1	berlyndinero.duckdns.org
-127.0.0.1	ronymahmoud.casacam.net
-127.0.0.1	brainyworkslogos.com
-127.0.0.1	asyncfunctionapi.com
-# Number of entries: 7086
+# Number of entries: 7085
