@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-08-30 09:07:50 UTC                        #
+# Last updated: 2024-08-30 14:10:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	villasara974.com
+127.0.0.1	hardshippdiv.shop
+127.0.0.1	locatedblsoqp.shop
+127.0.0.1	sofinefitness.com
 127.0.0.1	odontologiaintegra.com.br
 127.0.0.1	remcosco222.duckdns.org
 127.0.0.1	bibikyky16.top
@@ -7150,5 +7154,4 @@
 127.0.0.1	varinspector.com
 127.0.0.1	888juantriana88.dynuddns.net
 127.0.0.1	30ht.com.w.kunlunpi.com
-127.0.0.1	d9msk9dy9tbnk.cloudfront.net
-# Number of entries: 7145
+# Number of entries: 7148
