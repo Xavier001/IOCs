@@ -1,11 +1,74 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-06 10:44:24 UTC                        #
+# Last updated: 2024-09-06 17:11:33 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	fivev5ht.top
+127.0.0.1	sevtv17ht.top
+127.0.0.1	tventyv20pt.top
+127.0.0.1	twov2pt.top
+127.0.0.1	thirtv13pt.top
+127.0.0.1	uk1.localto.net
+127.0.0.1	korkos.now-dns.net
+127.0.0.1	tr3.localto.net
+127.0.0.1	session-chief.gl.at.ply.gg
+127.0.0.1	approach-stability.gl.at.ply.gg
+127.0.0.1	sample-sperm.gl.at.ply.gg
+127.0.0.1	dvd-ons.gl.at.ply.gg
+127.0.0.1	he-tower.gl.at.ply.gg
+127.0.0.1	paris-disciplinary.gl.at.ply.gg
+127.0.0.1	outside-sand.gl.at.ply.gg
+127.0.0.1	watch-ship.at.ply.gg
+127.0.0.1	since-searching.gl.at.ply.gg
+127.0.0.1	status-stack.gl.at.ply.gg
+127.0.0.1	browse-brokers.gl.at.ply.gg
+127.0.0.1	network-info.gl.at.ply.gg
+127.0.0.1	stop-largely.gl.at.ply.gg
+127.0.0.1	agency-lottery.gl.at.ply.gg
+127.0.0.1	done-declared.gl.at.ply.gg
+127.0.0.1	offers-perspectives.gl.at.ply.gg
+127.0.0.1	a-temple.gl.at.ply.gg
+127.0.0.1	offers-perspectives.gl.at.ply.gg
+127.0.0.1	super-nearest.gl.at.ply.gg
+127.0.0.1	running-locks.gl.at.ply.gg
+127.0.0.1	richard-environmental.gl.at.ply.gg
+127.0.0.1	comeback.ddnsgeek.com
+127.0.0.1	orounderandudai.ddnsgeek.com
+127.0.0.1	e-businessloader.mywire.org
+127.0.0.1	italy-exhibitions.gl.at.ply.gg
+127.0.0.1	silver-bowl.gl.at.ply.gg
+127.0.0.1	modsmasync.duckdns.org
+127.0.0.1	nanarchym.duckdns.org
+127.0.0.1	momekxwrm.duckdns.org
+127.0.0.1	xwrmmone.duckdns.org
+127.0.0.1	x5wo9402sep.duckdns.org
+127.0.0.1	momehvenom.duckdns.org
+127.0.0.1	grand-navigator.gl.at.ply.gg
+127.0.0.1	item-suggesting.gl.at.ply.gg
+127.0.0.1	super-nearest.gl.at.ply.gg
+127.0.0.1	restoreviner.com
+127.0.0.1	peronikilinfer.com
+127.0.0.1	character-acquisitions.gl.at.ply.gg
+127.0.0.1	44recipe.buzz
+127.0.0.1	www.49relation.buzz
+127.0.0.1	www.48reality.buzz
+127.0.0.1	www.42recognition.buzz
+127.0.0.1	www.47revolution.buzz
+127.0.0.1	www.46restaurant.buzz
+127.0.0.1	www.40republic.buzz
+127.0.0.1	49relation.buzz
+127.0.0.1	45ratio.buzz
+127.0.0.1	47revolution.buzz
+127.0.0.1	42recognition.buzz
+127.0.0.1	41reaction.buzz
+127.0.0.1	40republic.buzz
+127.0.0.1	www.45ratio.buzz
+127.0.0.1	www.44recipe.buzz
+127.0.0.1	www.43replacement.buzz
+127.0.0.1	menucore.com
 127.0.0.1	vabercoach.com
 127.0.0.1	lokjopppkuimlpo.shop
 127.0.0.1	politics-mortgages.gl.at.ply.gg
@@ -7721,10 +7784,4 @@
 127.0.0.1	livinglearning.info
 127.0.0.1	xunleicloud.com
 127.0.0.1	rverde.duckdns.org
-127.0.0.1	shopmoneyweb.com
-127.0.0.1	distributors.commdistinc.com
-127.0.0.1	www.cloudflarecache.top
-127.0.0.1	55.18.131.34.bc.googleusercontent.com
-127.0.0.1	ns2.msn-microsoft.co
-127.0.0.1	ns1.msn-microsoft.co
-# Number of entries: 7721
+# Number of entries: 7778
