@@ -1,11 +1,26 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-08 04:01:33 UTC                        #
+# Last updated: 2024-09-08 09:02:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	trabajo25.duckdns.org
+127.0.0.1	post-43.shop
+127.0.0.1	www.ultrapowermac.com
+127.0.0.1	fulfillirite.com
+127.0.0.1	cpcalendars.fulfillirite.com
+127.0.0.1	www.germ-ac.com
+127.0.0.1	balfuorcare.com
+127.0.0.1	www.jan2401-services.com
+127.0.0.1	webdisk.fulfillirite.com
+127.0.0.1	cpanel.fulfillirite.com
+127.0.0.1	cpcontacts.fulfillirite.com
+127.0.0.1	jan2401-services.com
+127.0.0.1	mail.fulfillirite.com
+127.0.0.1	voidsystems.duckdns.org
+127.0.0.1	webcachespace.net
 127.0.0.1	hukumdarcraft.com
 127.0.0.1	correospanama-gov.shop
 127.0.0.1	test.ellava66.beget.tech
@@ -8071,42 +8086,4 @@
 127.0.0.1	cdn.prdcdn.com
 127.0.0.1	updates.prdcdn.com
 127.0.0.1	citrix.prdcdn.com
-127.0.0.1	vip.z886888.top
-127.0.0.1	peacecheese.com
-127.0.0.1	pipelinning.com
-127.0.0.1	pixgraphie.com
-127.0.0.1	redactweb.com
-127.0.0.1	sdlsd.com
-127.0.0.1	shinemarksystems.com
-127.0.0.1	sms-atc.com
-127.0.0.1	strokestownlearningzone.com
-127.0.0.1	thebestoftenerife.com
-127.0.0.1	thesolutionmatrix.com
-127.0.0.1	a1photoprinting.com
-127.0.0.1	americanhomeservicesllc.com
-127.0.0.1	anambrabasiceducation.com
-127.0.0.1	audiolabelectronics.com
-127.0.0.1	b2bsupermarkets.com
-127.0.0.1	b2bturkishtextile.com
-127.0.0.1	chryatech.com
-127.0.0.1	cmfgsi.com
-127.0.0.1	colortreeva.com
-127.0.0.1	computerfeuerwehr.com
-127.0.0.1	crabonchips.com
-127.0.0.1	cristinastanciu.com
-127.0.0.1	daffigallery.com
-127.0.0.1	dallassutherland.com
-127.0.0.1	detectiveman.com
-127.0.0.1	etsprayfoam.com
-127.0.0.1	freeautotalk.com
-127.0.0.1	happeelearning.com
-127.0.0.1	hostel99.com
-127.0.0.1	insproscp.com
-127.0.0.1	jobmalta.com
-127.0.0.1	kingtonyamerica.com
-127.0.0.1	mello-roos.com
-127.0.0.1	michaelcaneconsultants.com
-127.0.0.1	mowilderness.com
-127.0.0.1	mtgimports.com
-127.0.0.1	netdognetworks.com
-# Number of entries: 8103
+# Number of entries: 8080
