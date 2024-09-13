@@ -1,12 +1,23 @@
 ################################################################
 # MalwareBazaar recent malware samples (MD5 hashes)            #
-# Last updated: 2024-09-12 21:42:37 UTC                        #
+# Last updated: 2024-09-13 03:33:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://bazaar.abuse.ch/faq/#tos               #
 # For questions please contact bazaar [at] abuse.ch            #
 ################################################################
 #
 # md5_hash
+a24d6db76c00491f9386c3af7155ec85
+846323268cb0a9ba8260ff62acbaa5d0
+c9d77c591e284d81a87f54e086515333
+39f6e5a464fea69e8911004119a89a15
+32ae51ec5c2a5b248bafe9cbd3db5d85
+50f3f2766c704399745f68056e6d19e3
+1d9867f060ccc14263204c633b36968f
+ab7caff90a8347576988a104a322a916
+4dada1c43d8218485ddb6a4ae1fd8fa1
+eceaf68e766e67119c7ae2af631ee6a3
+7696fd52645fd5bde71ca7eb4b2fa935
 d837ad36634f190e8a37e7b17c341c3d
 4c26cdc007fdaf1f9b1d00fc8dabf918
 3a7af8198a80e2c90488ac8353a5cbd1
@@ -486,30 +497,4 @@ aa0a30ce34c493a8f1cc6f010a3dd592
 0ffee13ff36c1cd606d032450deb5ac1
 16578a3626fb9d163c54a1ee42b70359
 c86bfa59db258e777196709f7ca36774
-193aa03492c9c88924e2ba266ed28d69
-bfcedc9d95269f2df75616f997c46197
-3fa81e871c7055c3835fa907ac4b6219
-5c975df3d5a557e85a06676463ad0654
-46d031c71e21880a7c817a23b2b60eaf
-3bcdaf8aa8a6f0ca2f613c8c14bc5a6e
-6ec533d4b68b9b65f45160ba3bfc9422
-9577e48285b66a841485df16c155628f
-d91d3dba1e492cdc999cd2f7d8a22c2e
-2744f4e925cf07ad3e1efe749336139c
-5bac332642f907ed254f85c6b60fa79d
-c7efdfd52513d3fabd446804e5db31f5
-682f982545b3a5f4ef90b5a0221dec74
-672c32be863161574f79e6b396ef5358
-02f4523544f486e93c7b90400845a5ee
-4e9cf11c79ebcfac2f4b998380b4b0e0
-099f74d729c997bb2d226ee35d381ea9
-92023582b172c2c23e237f483909f4de
-02cefbda3396f784034e71616e52d67e
-e1cd8eebef245fca526d6e909446c536
-62a81cd0a889e0c4c01f8fb47cdb71f0
-99cb518afddbdf8245fd389aac169f3b
-3ecc2ae03348c949f3f84cd5091af245
-0feebe85e6413561e738588cad1076a3
-ce4bfa9c358165bde9bb408a2cb57b89
-fec5f5173699440105c851a9c20d1523
-# Number of entries: 505
+# Number of entries: 490
