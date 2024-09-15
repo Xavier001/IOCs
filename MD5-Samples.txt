@@ -1,12 +1,38 @@
 ################################################################
 # MalwareBazaar recent malware samples (MD5 hashes)            #
-# Last updated: 2024-09-14 21:29:54 UTC                        #
+# Last updated: 2024-09-15 03:31:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://bazaar.abuse.ch/faq/#tos               #
 # For questions please contact bazaar [at] abuse.ch            #
 ################################################################
 #
 # md5_hash
+1e39b990e69c6409caa588de8caba8d0
+9c04354736846f4d88e252e247ff7bd9
+e39f671730721ed363563fbe9acf2de0
+4135fe39c7a56d4d4e6a3a86d7ee3f77
+0d92d183ad23d6c0b9a03f58be74d7ce
+7bcdcf7ed9c955659348a72e65773185
+9ebbceea028a733359b8891f732f9184
+22b981d619a5a0697cf825e4cce8d216
+a249bc303953d92fd444d5d08b22e026
+8001931134c7dc984dbdb88a6bc31b8d
+24afa74ba73fff6d839b501b7f5070d2
+a3d1a07902307a82c55445e99f1eebb0
+3209584e16cbf83839ecb12438b5a4a1
+70a6722a9e7c4cb456d6ee62e4dee842
+a237561b462678b4aa71ac77b63af358
+f86198bf0446a64ac9aa4d26ee28970d
+f2c4fef3c2428a1bebd59a5efc9fdcc9
+7fdd394495ab802beed483a8ba8ff4c2
+bb4ed36fd7f8aa313eccec2320f077b1
+2d4cc9fb4daaf0b049934bb1906a313c
+16763e94d5e01a0d5eefd99760f7193e
+d935207b2383ed500c55ddf033d07b6d
+7c997ffc86229575e4c6ac84632059b6
+5ebfe778f3ce4565a576384202562eb9
+5d91654e434d738d19d7d1c5cc68d45c
+ec546f83bfa166e70f67934a0d841d66
 21669ff8a249e167b542a42b534fe117
 033477fa4b3a54a1d1b63f0e1348d349
 e8646d95415bda27c1d962a2b9a5dd15
@@ -342,14 +368,4 @@ aef48935a52e050c0e9d6393382aeb79
 a991933b29e1203af5c3df1d62d0b247
 257eb69581fd80827932ed434d32470f
 3b70f595f8cfd880ef64aff3d20a6bb2
-a24d6db76c00491f9386c3af7155ec85
-846323268cb0a9ba8260ff62acbaa5d0
-c9d77c591e284d81a87f54e086515333
-39f6e5a464fea69e8911004119a89a15
-32ae51ec5c2a5b248bafe9cbd3db5d85
-50f3f2766c704399745f68056e6d19e3
-1d9867f060ccc14263204c633b36968f
-ab7caff90a8347576988a104a322a916
-4dada1c43d8218485ddb6a4ae1fd8fa1
-eceaf68e766e67119c7ae2af631ee6a3
-# Number of entries: 345
+# Number of entries: 361
