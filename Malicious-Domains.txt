@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-17 04:01:06 UTC                        #
+# Last updated: 2024-09-17 05:28:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	deburg.duckdns.org
+127.0.0.1	casino-cst.gl.at.ply.gg
+127.0.0.1	mohmoh002.ddns.net
+127.0.0.1	e2systems.se
 127.0.0.1	103-61-224-217.cprapid.com
 127.0.0.1	wwwwwwadmin.ethergases.org
 127.0.0.1	hou.fffazzfhggs.top
@@ -8450,11 +8454,4 @@
 127.0.0.1	service-d1ssjklq-1306655841.gz.tencentapigw.com.cn
 127.0.0.1	planetstherapy.org
 127.0.0.1	www.planetstherapy.org
-127.0.0.1	service-89u0y7ij-1305550121.sh.tencentapigw.com
-127.0.0.1	www.10086cn.xyz
-127.0.0.1	prod-ireland.arkoselabs.com
-127.0.0.1	epic-games-api.arkoselabs.com
-127.0.0.1	4qvvg9ud51lxa5te.gta5.eu.org
-127.0.0.1	rebirthltd.com
-127.0.0.1	huot.ltd
-# Number of entries: 8451
+# Number of entries: 8448
