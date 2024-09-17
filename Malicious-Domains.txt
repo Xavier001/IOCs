@@ -1,11 +1,49 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-17 05:28:47 UTC                        #
+# Last updated: 2024-09-17 20:01:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	5.42.102.43.sslip.io
+127.0.0.1	www.remote.pythr.net
+127.0.0.1	www.wwwwwwwwwapp.pythr.net
+127.0.0.1	forum.pythr.net
+127.0.0.1	www.wwwvirtualapps.pythr.net
+127.0.0.1	www.wwwwwwcloudapp.pythr.net
+127.0.0.1	wwwmail.ethergases.org
+127.0.0.1	www.wwwwwwwwwrds.pythr.net
+127.0.0.1	www.www1.pythr.net
+127.0.0.1	kfhgwwwwebmail.pythr.net
+127.0.0.1	dashboard.pythr.net
+127.0.0.1	wwwgateway.pythr.net
+127.0.0.1	www.wwwwwwwww.ethergases.org
+127.0.0.1	vpn.pythr.net
+127.0.0.1	wwwapi.ethergases.app
+127.0.0.1	wwwwwwbackend.ethergases.org
+127.0.0.1	sslvpn.pythr.net
+127.0.0.1	www.ssl.pythr.net
+127.0.0.1	wwwwwwvpn.pythr.net
+127.0.0.1	cevgwwwwsowgoowa.ethergases.app
+127.0.0.1	www.wwwwwwgatewayvpn.pythr.net
+127.0.0.1	wwwstaging.ethergases.app
+127.0.0.1	www.rds1.pythr.net
+127.0.0.1	www.wwwrds.pythr.net
+127.0.0.1	wwwsitemaps.ethergases.app
+127.0.0.1	www.online.pythr.net
+127.0.0.1	www.superset.ethergases.org
+127.0.0.1	demo.ethergases.app
+127.0.0.1	www.chart.ethergases.app
+127.0.0.1	www.wwwportalvpn.pythr.net
+127.0.0.1	www.wwwwwwvpn.pythr.net
+127.0.0.1	wwwportal.pythr.net
+127.0.0.1	gryhazardowe.us
+127.0.0.1	wwwanalytics.ethergases.app
+127.0.0.1	supersets.pythr.net
+127.0.0.1	www.intel.ethergases.app
+127.0.0.1	krs-kr.co
+127.0.0.1	uniquetouniquetechnicalservices.com
 127.0.0.1	deburg.duckdns.org
 127.0.0.1	casino-cst.gl.at.ply.gg
 127.0.0.1	mohmoh002.ddns.net
@@ -8445,8 +8483,4 @@
 127.0.0.1	6lpc.online
 127.0.0.1	4url312.vip
 127.0.0.1	4url.vip
-127.0.0.1	pidorgeio-48079.portmap.host
-127.0.0.1	managevvb.com
-127.0.0.1	having-jackson.gl.at.ply.gg
-127.0.0.1	beuces.cool
-# Number of entries: 8443
+# Number of entries: 8477
