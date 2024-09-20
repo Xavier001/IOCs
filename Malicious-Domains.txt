@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-20 04:32:04 UTC                        #
+# Last updated: 2024-09-20 20:01:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	events.api.georgicaautoholding.com
+127.0.0.1	outlook.mailsession.com
+127.0.0.1	www.evail.pw
+127.0.0.1	flfprlkgpppg.shop
+127.0.0.1	vanessalove.com
+127.0.0.1	myynzl.com
+127.0.0.1	hacker.eliron-networks369.org
+127.0.0.1	virtual.urban-orthodontics.com
+127.0.0.1	levels-plane.gl.at.ply.gg
+127.0.0.1	mtpolice2030.com
 127.0.0.1	taillymodwp.shop
 127.0.0.1	dumpliportiwo.shop
 127.0.0.1	nationattwllwqm.shop
@@ -8494,9 +8504,4 @@
 127.0.0.1	update.windows.server-microsoft.com
 127.0.0.1	www.security-microsoft.net
 127.0.0.1	update.centos-yum.com
-127.0.0.1	luisro2158.duckdns.org
-127.0.0.1	gamerforyou.com
-127.0.0.1	sky-beta.com
-127.0.0.1	net-killer.work.gd
-127.0.0.1	21hjgt71f.sharedomain.top
-# Number of entries: 8493
+# Number of entries: 8498
