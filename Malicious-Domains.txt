@@ -1,11 +1,35 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-09-25 12:02:07 UTC                        #
+# Last updated: 2024-09-25 20:02:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	103.230.121.12.sslip.io
+127.0.0.1	www.portal.pythr.net
+127.0.0.1	www.visual.pythr.net
+127.0.0.1	www.analytic.pythr.net
+127.0.0.1	xspeed.freemyip.com
+127.0.0.1	oca.pics
+127.0.0.1	mazurax.com
+127.0.0.1	nor-reg.com
+127.0.0.1	m.outlook.adminstream.org
+127.0.0.1	staging.ethergases.app
+127.0.0.1	www.tthvlgatewaycitrix.pythr.net
+127.0.0.1	www.wwwremoto.pythr.net
+127.0.0.1	www.wwwwebmail.ethergases.app
+127.0.0.1	www.wwwwp.ethergases.org
+127.0.0.1	www.secure.ethergases.org
+127.0.0.1	www.virtualapps.pythr.net
+127.0.0.1	metis-launchpad.org
+127.0.0.1	www.sitemaps.ethergases.org
+127.0.0.1	www.admin.ethergases.org
+127.0.0.1	wwwwww.pythr.net
+127.0.0.1	newlumm.fun
+127.0.0.1	younngpresseo.shop
+127.0.0.1	candleduseiwo.shop
+127.0.0.1	roadrunnersell.com
 127.0.0.1	kapilapiii.com
 127.0.0.1	lumnew.fun
 127.0.0.1	meet.google.us-join.com
@@ -8732,9 +8756,4 @@
 127.0.0.1	incachespace.com
 127.0.0.1	lyddemper.com
 127.0.0.1	xjp.xinjiangworker.shop
-127.0.0.1	cdn.next2.cx
-127.0.0.1	cf907cd9e8f94a93937a6360363420b2.apig.cn-east-3.huaweicloudapis.com
-127.0.0.1	d69b6834b7eb46fcb7bbcaa60f9f0f2d.apig.cn-east-3.huaweicloudapis.com
-127.0.0.1	f6d2b014a8664ddd8d859ce64f3741ad.apig.cn-east-3.huaweicloudapis.com
-127.0.0.1	billions.ooguy.com
-# Number of entries: 8731
+# Number of entries: 8750
