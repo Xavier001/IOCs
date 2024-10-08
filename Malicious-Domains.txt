@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-08 11:54:58 UTC                        #
+# Last updated: 2024-10-08 20:36:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	c-cdns.top
+127.0.0.1	fid-66dibi.com
+127.0.0.1	kasm.zubairgul.com
+127.0.0.1	cloudworkers.store
+127.0.0.1	www.nf-account.com
+127.0.0.1	nf-account.com
+127.0.0.1	ggoryo.com
 127.0.0.1	vhsuprimentos.online
 127.0.0.1	rrcontr.online
 127.0.0.1	rhsp.online
@@ -9240,38 +9247,4 @@
 127.0.0.1	psolver827.ddns.net
 127.0.0.1	appdiscordgg.duckdns.org
 127.0.0.1	firmes777.duckdns.org
-127.0.0.1	kibagendi.org
-127.0.0.1	karmaandfate.com
-127.0.0.1	playfulyogi.org
-127.0.0.1	christmascookie.org
-127.0.0.1	salesoftskills.com
-127.0.0.1	whattotext.net
-127.0.0.1	beaulieuhome.com
-127.0.0.1	gteairfone.com
-127.0.0.1	pillowscrawler.xyz
-127.0.0.1	000111.org
-127.0.0.1	stodia.fun
-127.0.0.1	cytuns.xyz
-127.0.0.1	galvins.xyz
-127.0.0.1	disear.xyz
-127.0.0.1	yetties.xyz
-127.0.0.1	zopz-api.com
-127.0.0.1	nuclear.mom
-127.0.0.1	ninja-cnc.xyz
-127.0.0.1	poggo-proxy.lol
-127.0.0.1	cdnet-web.com
-127.0.0.1	leanc2.xyz
-127.0.0.1	poggo-proxy.online
-127.0.0.1	naucosi.cfd
-127.0.0.1	proxy-voidc2.xyz
-127.0.0.1	cumshot.vip
-127.0.0.1	nuclear.baby
-127.0.0.1	lydiari.mrbonus.com
-127.0.0.1	pf7.prsv.ch
-127.0.0.1	fuzzyproxy.cc
-127.0.0.1	tcpsyn.xyz
-127.0.0.1	tcpfin.xyz
-127.0.0.1	api.mypowerzip.com
-127.0.0.1	defender.us.org
-127.0.0.1	taek.cp-redteam.com
-# Number of entries: 9268
+# Number of entries: 9241
