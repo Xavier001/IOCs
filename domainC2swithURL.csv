@@ -18,6 +18,7 @@ aselzan.com.tr,Possible Cobalt Strike C2 Domain,/asel
 autodiscover.irmg.fr,Possible Cobalt Strike C2 Domain,/get
 azureupdate.germanywestcentral.cloudapp.azure.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.2.2.min.js
 bb.zmjjkk.shop,Possible Cobalt Strike C2 Fronted Domain,/api/3
+bk1cm59ddrtqb.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 blog.schweizersport.ch,Possible Cobalt Strike C2 Domain,/jquery-3.2.2.min.js
 boom.baiduboomboom.tk,Possible Cobalt Strike C2 Domain,/pixel.gif
 bzn.pentest.rocks.financesoft.kg,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
@@ -64,7 +65,8 @@ imgs.statics.baidu.com,Possible Cobalt Strike C2 Fronting Domain,/ga.js
 imgs.statics.baidu.com.volcgslb-mlt.com,Possible Cobalt Strike C2 Fronted Domain,/ga.js
 jmurrell6291.netspi-bas.com,Possible Cobalt Strike C2 Fronted Domain,/c/msdownload/update/others/2021/10/nNTaRXTvVxF2jPsRtA5bspGCpfl
 js.msedgeupdate.com,Possible Cobalt Strike C2 Domain,/push
-kyyds.zcscdvda.xyz,Possible Cobalt Strike C2 Domain,/sugrec
+kyyds.zcscdvda.xyz,Possible Cobalt Strike C2 Domain,/profile
+kyyds.zcscdvda.xyz,Possible Cobalt Strike C2 Domain,/profile.css
 l.x-ai.win,Possible Cobalt Strike C2 Domain,/maps/overlaybfpr
 liolio.cn,Possible Cobalt Strike C2 Domain,/__utm.gif
 login.schweizersport.ch,Possible Cobalt Strike C2 Domain,/jquery-3.2.2.min.js
@@ -94,6 +96,7 @@ ns1.hostwps.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.kengolimit.com,Possible Cobalt Strike C2 Domain,/lv
 ns1.longk.icu,Possible Cobalt Strike C2 Domain,/match
 ns1.lookwhat.me,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+ns1.pinp0intfund.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.python.dog,Possible Cobalt Strike C2 Domain,/quint/1.9.0/qunit.js
 ns1.sangfor.sbs,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.uabsbattary.cyou,Possible Cobalt Strike C2 Domain,/introduction/edr
@@ -159,6 +162,7 @@ test.qqweixinzhuce.top,Possible Cobalt Strike C2 Domain,/wp06/wp-includes/po.php
 testgk.oss-cn-beijing.aliyuncs.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 twitchstreamerspro.com,Possible Cobalt Strike C2 Domain,/calculate/v10.50/9GEG4W0P33
 update.aliyunupdate.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/cx
 update.microsofthk.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/ca
 virginia.ns.cloudflare.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
