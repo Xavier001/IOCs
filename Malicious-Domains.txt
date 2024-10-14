@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-14 11:13:45 UTC                        #
+# Last updated: 2024-10-14 20:04:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.mhc-e1mas.altsolve.com
+127.0.0.1	23-227-199-46.static.hvvc.us
+127.0.0.1	manestvli.shop
+127.0.0.1	forvl14pn.top
+127.0.0.1	tenvu10pn.top
+127.0.0.1	twelvevb12pn.top
+127.0.0.1	neinbb9pn.top
+127.0.0.1	elevenbb11pn.top
+127.0.0.1	thirtvu13pn.top
+127.0.0.1	elevenvb11pn.top
+127.0.0.1	jsgd.us-tv.top
+127.0.0.1	us-tv.top
+127.0.0.1	assignetmwj.buzz
 127.0.0.1	overcomedenh.biz
 127.0.0.1	persuaddetwj.biz
 127.0.0.1	pinlaunchhut.biz
@@ -9338,4 +9351,4 @@
 127.0.0.1	suitcaseacanehalk.shop
 127.0.0.1	mealplayerpreceodsju.shop
 127.0.0.1	wifeplasterbakewis.shop
-# Number of entries: 9332
+# Number of entries: 9345
