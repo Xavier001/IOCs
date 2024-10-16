@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-16 06:25:18 UTC                        #
+# Last updated: 2024-10-16 12:18:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	starnow.cn.com
+127.0.0.1	oldlumm.fun
+127.0.0.1	lum-new.fun
+127.0.0.1	www.lum-new.fun
 127.0.0.1	onebb1sr.top
 127.0.0.1	sivbb6sr.top
 127.0.0.1	twobb2sr.top
@@ -9573,8 +9577,4 @@
 127.0.0.1	camps.topgunnbaseball.com
 127.0.0.1	b.doxbin.top
 127.0.0.1	returns-vary.gl.at.ply.gg
-127.0.0.1	tue-jake.gl.at.ply.gg
-127.0.0.1	report-dust.gl.at.ply.gg
-127.0.0.1	service-lj3klqg6-1308639534.gz.tencentapigw.com.cn
-127.0.0.1	microsoft-net.com
 # Number of entries: 9571
