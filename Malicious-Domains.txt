@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-16 20:59:52 UTC                        #
+# Last updated: 2024-10-17 04:05:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.cachorrosquentesdeliciosos.com
+127.0.0.1	cachorrosquentesdeliciosos.com
+127.0.0.1	www.209-222-98-197.cprapid.com
 127.0.0.1	microsoft-analyse.com
 127.0.0.1	forbb14sr.top
 127.0.0.1	thirtbb13sr.top
@@ -9630,5 +9633,4 @@
 127.0.0.1	cars-fraction.gl.at.ply.gg
 127.0.0.1	pnauco5.ddns.net
 127.0.0.1	backupssupport.com
-127.0.0.1	service-e1idmqlj-1259321672.bj.tencentapigw.com.cn
-# Number of entries: 9625
+# Number of entries: 9627
