@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-17 06:41:10 UTC                        #
+# Last updated: 2024-10-17 12:03:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	a.mx.pqpw.com
+127.0.0.1	thelocaltribe.com
 127.0.0.1	volisc.biz
 127.0.0.1	tnc-corp.ru
 127.0.0.1	liverds.at
@@ -9629,9 +9631,4 @@
 127.0.0.1	legendsworld.in
 127.0.0.1	nextoneup.shop
 127.0.0.1	afterksmelipandmahdiimadss.ddns.net
-127.0.0.1	mark1234567.ddns.net
-127.0.0.1	xiaokkk.02maill.com
-127.0.0.1	ss.02maill.com
-127.0.0.1	cve.02maill.com
-127.0.0.1	utilityreport.azureedge.net
-# Number of entries: 9628
+# Number of entries: 9625
