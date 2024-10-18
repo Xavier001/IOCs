@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-17 20:14:44 UTC                        #
+# Last updated: 2024-10-18 04:01:55 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.instagrms.com
+127.0.0.1	www.beatverse.shop
+127.0.0.1	209-222-98-197.cprapid.com
+127.0.0.1	m.instagrms.com
 127.0.0.1	lum-fun.fun
 127.0.0.1	lummc2.fun
 127.0.0.1	wshsoft.company
@@ -9626,5 +9630,4 @@
 127.0.0.1	graph.vani.ovh
 127.0.0.1	mirai.vani.ovh
 127.0.0.1	kovey.mezo-api.xyz
-127.0.0.1	european.pornvideo.mynetav.org
-# Number of entries: 9621
+# Number of entries: 9624
