@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-18 10:02:59 UTC                        #
+# Last updated: 2024-10-18 12:16:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	2c8b3f19-0325-4acc-a3dd-31a918e4dbf5.random.ironstarkkair.xyz
+127.0.0.1	usdtpooldrop.com
+127.0.0.1	passimovrt.cfd
+127.0.0.1	imageforg.cfd
+127.0.0.1	deserveiu.cfd
+127.0.0.1	squaredow.buzz
+127.0.0.1	shallowbreray.shop
 127.0.0.1	deportyowm.sbs
 127.0.0.1	captivaterz.cfd
 127.0.0.1	supportnows.cfd
@@ -9619,94 +9626,4 @@
 127.0.0.1	15731.org
 127.0.0.1	www.slationo.com
 127.0.0.1	slationo.com
-127.0.0.1	chotsolo2nhay.info
-127.0.0.1	countdownx.info
-127.0.0.1	dfyaudiobookprofits.info
-127.0.0.1	difik.info
-127.0.0.1	exchangezone.info
-127.0.0.1	fins.info
-127.0.0.1	gcoat.info
-127.0.0.1	glowchamps.info
-127.0.0.1	impressionzone.info
-127.0.0.1	islandbooking.info
-127.0.0.1	istanbook.info
-127.0.0.1	lightmecha.info
-127.0.0.1	maramoja.info
-127.0.0.1	mesdemarches.info
-127.0.0.1	mezcallero.info
-127.0.0.1	mlmcompensationplanpdf.info
-127.0.0.1	monambulanceprivee.info
-127.0.0.1	njnlcompany.info
-127.0.0.1	oradifitness.info
-127.0.0.1	progastrin.info
-127.0.0.1	szekrekedes.info
-127.0.0.1	techhooks.info
-127.0.0.1	transystem.info
-127.0.0.1	vetownedhomeinspections.info
-127.0.0.1	wobilya.info
-127.0.0.1	womansmedia.info
-127.0.0.1	yellowbooks.info
-127.0.0.1	cabobao3.org
-127.0.0.1	durete.org
-127.0.0.1	fuwer.org
-127.0.0.1	gyjyhyo8.org
-127.0.0.1	hofaty.org
-127.0.0.1	intellipowerinc.com
-127.0.0.1	jurofye.org
-127.0.0.1	lyzupoy.org
-127.0.0.1	labljas.org
-127.0.0.1	mebumau.org
-127.0.0.1	mimerou.org
-127.0.0.1	nevujo.org
-127.0.0.1	pubmass.info
-127.0.0.1	pucak.org
-127.0.0.1	qeqady.org
-127.0.0.1	riwesi.org
-127.0.0.1	simanay.org
-127.0.0.1	suzabyu.org
-127.0.0.1	sytukoe8.org
-127.0.0.1	vajosoo.org
-127.0.0.1	vizewye.org
-127.0.0.1	vopytei.org
-127.0.0.1	vpdpkli.org
-127.0.0.1	xirygiy.org
-127.0.0.1	xmgpsmi.org
-127.0.0.1	xuhyjoe5.org
-127.0.0.1	zefos.org
-127.0.0.1	bezizeo9.org
-127.0.0.1	cemiwyi7.org
-127.0.0.1	cuxu.org
-127.0.0.1	deqytuu9.org
-127.0.0.1	fazadoe.org
-127.0.0.1	fokeqi.org
-127.0.0.1	gejyg.org
-127.0.0.1	gihibml.org
-127.0.0.1	gmsmwil.org
-127.0.0.1	hejoweo.org
-127.0.0.1	jesebyy.org
-127.0.0.1	lmfpbpm.org
-127.0.0.1	luhuhu.org
-127.0.0.1	mmqsrsl.org
-127.0.0.1	mmtixmm.org
-127.0.0.1	mnsmsla.org
-127.0.0.1	moxiroo.org
-127.0.0.1	nurunia.org
-127.0.0.1	pisuxy.org
-127.0.0.1	poxof.org
-127.0.0.1	ppmpqii.org
-127.0.0.1	pydypu.org
-127.0.0.1	pubonao.org
-127.0.0.1	qazoryy.org
-127.0.0.1	qogmjlm.org
-127.0.0.1	qoroh.org
-127.0.0.1	sobopnm.org
-127.0.0.1	sumuta.org
-127.0.0.1	tapyjya.org
-127.0.0.1	usprivatemoneylender.com
-127.0.0.1	vlbmqpm.org
-127.0.0.1	vnfmnmo.org
-127.0.0.1	wireoneinternet.info
-127.0.0.1	wpmlvii.org
-127.0.0.1	zixirml.org
-127.0.0.1	dead-cheap-doma.in
-# Number of entries: 9703
+# Number of entries: 9620
