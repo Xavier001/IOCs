@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-18 21:57:51 UTC                        #
+# Last updated: 2024-10-19 00:02:26 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	x1337.ooguy.com
+127.0.0.1	poisonx.net
 127.0.0.1	cdn-gravitiumgame.xyz
 127.0.0.1	gw84.nanosystems.it
 127.0.0.1	gw85.nanosystems.it
@@ -9754,4 +9756,4 @@
 127.0.0.1	aomacamada.ddns.net
 127.0.0.1	rootme.xyz
 127.0.0.1	rooty.shop
-# Number of entries: 9748
+# Number of entries: 9750
