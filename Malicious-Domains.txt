@@ -9982,5 +9982,4 @@
 127.0.0.1	toppdfconverter.org
 127.0.0.1	zoomis.pro
 127.0.0.1	neger.icu
-127.0.0.1	elastsolek21.duckdns.org
-# Number of entries: 9977
+# Number of entries: 9976
