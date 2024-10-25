@@ -10006,6 +10006,4 @@
 127.0.0.1	cdn43.space
 127.0.0.1	bot.qngxgw.eu.org
 127.0.0.1	dcxwq1.duckdns.org
-127.0.0.1	service-dduj2otc-1303958398.gz.tencentapigw.com.cn
-127.0.0.1	www.stylejason.com
-# Number of entries: 10002
+# Number of entries: 10000
