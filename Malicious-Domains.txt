@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-26 05:39:09 UTC                        #
+# Last updated: 2024-10-26 12:03:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	js1.search-st1.com
+127.0.0.1	search-dl1.com
+127.0.0.1	webmail.mg-plant.com
+127.0.0.1	cpcalendars.bmzbaumaschinen.com
 127.0.0.1	js.liveya.org
 127.0.0.1	explorationmsn.store
 127.0.0.1	cemeteryun.cyou
@@ -10018,4 +10022,4 @@
 127.0.0.1	ns1.anonymouskids.uk
 127.0.0.1	mail.metadate.services
 127.0.0.1	service-qyygkf1k-1307679590.gz.tencentapigw.com.cn
-# Number of entries: 10012
+# Number of entries: 10016
