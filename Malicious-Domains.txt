@@ -10042,5 +10042,4 @@
 127.0.0.1	saveclinetsforme68465454711991.publicvm.com
 127.0.0.1	elamoto.com
 127.0.0.1	kongtuke.com
-127.0.0.1	kindofwelcomeperspective.com
-# Number of entries: 10037
+# Number of entries: 10036
