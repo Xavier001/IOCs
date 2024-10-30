@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-30 09:57:57 UTC                        #
+# Last updated: 2024-10-30 10:26:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	variablescopetool.com
 127.0.0.1	hneinjo9vt.top
 127.0.0.1	neinjo9vt.top
 127.0.0.1	tenjo10vt.top
@@ -10037,12 +10038,4 @@
 127.0.0.1	apidevwa.com
 127.0.0.1	returnofspace.com
 127.0.0.1	apidevst.com
-127.0.0.1	ns4.tencentupdate.buzz
-127.0.0.1	ns2.tencentupdate.buzz
-127.0.0.1	ns3.tencentupdate.buzz
-127.0.0.1	ns1.tencentupdate.buzz
-127.0.0.1	chat.icbcbc.com.cn
-127.0.0.1	oss.icbcbc.com.cn
-127.0.0.1	vpn.icbcbc.com.cn
-127.0.0.1	mailtest.icbcbc.com.cn
-# Number of entries: 10039
+# Number of entries: 10032
