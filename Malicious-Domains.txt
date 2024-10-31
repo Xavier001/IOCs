@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-10-31 08:02:40 UTC                        #
+# Last updated: 2024-10-31 11:14:26 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sivjo6sr.top
+127.0.0.1	eightjo8sr.top
+127.0.0.1	twojo2vt.top
+127.0.0.1	threjo3vt.top
+127.0.0.1	fivejo5vt.top
+127.0.0.1	onejo1vt.top
+127.0.0.1	tventjo20vt.top
+127.0.0.1	xxmodkiufnsw.shop
+127.0.0.1	lifeyomi.com
 127.0.0.1	doladowanie.app-tools.info
 127.0.0.1	sost.duckdns.org
 127.0.0.1	parapetos1.duckdns.org
@@ -10082,12 +10091,4 @@
 127.0.0.1	apidevwa.com
 127.0.0.1	returnofspace.com
 127.0.0.1	apidevst.com
-127.0.0.1	ns4.tencentupdate.buzz
-127.0.0.1	ns2.tencentupdate.buzz
-127.0.0.1	ns3.tencentupdate.buzz
-127.0.0.1	ns1.tencentupdate.buzz
-127.0.0.1	chat.icbcbc.com.cn
-127.0.0.1	oss.icbcbc.com.cn
-127.0.0.1	vpn.icbcbc.com.cn
-127.0.0.1	mailtest.icbcbc.com.cn
-# Number of entries: 10084
+# Number of entries: 10085
