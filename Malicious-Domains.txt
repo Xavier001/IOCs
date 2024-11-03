@@ -10036,6 +10036,4 @@
 127.0.0.1	brownselocalsz.duckdns.org
 127.0.0.1	klikkancontrolsx.ddnsfree.com
 127.0.0.1	support.popuiarenlinea.com
-127.0.0.1	cecilio.one
-127.0.0.1	bobs.kraken11op.ru
-# Number of entries: 10032
+# Number of entries: 10030
