@@ -1,11 +1,37 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-04 08:41:12 UTC                        #
+# Last updated: 2024-11-04 12:19:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	svch0st.ru
+127.0.0.1	web4067.craft-host.ru
+127.0.0.1	drenow.atwebpages.com
+127.0.0.1	cd44549.tw1.ru
+127.0.0.1	a1048688.xsph.ru
+127.0.0.1	a1048400.xsph.ru
+127.0.0.1	pw267.castledev.ru
+127.0.0.1	s1004864.smrtp.ru
+127.0.0.1	a1048372.xsph.ru
+127.0.0.1	withcwallet.com
+127.0.0.1	a1048697.xsph.ru
+127.0.0.1	a1044603.xsph.ru
+127.0.0.1	a1044520.xsph.ru
+127.0.0.1	a1045065.xsph.ru
+127.0.0.1	a1044352.xsph.ru
+127.0.0.1	a1043943.xsph.ru
+127.0.0.1	a1045237.xsph.ru
+127.0.0.1	a1043540.xsph.ru
+127.0.0.1	a1045626.xsph.ru
+127.0.0.1	cc96011.tw1.ru
+127.0.0.1	cz68521.tw1.ru
+127.0.0.1	deeplo4f.beget.tech
+127.0.0.1	f1045855.xsph.ru
+127.0.0.1	a1047148.xsph.ru
+127.0.0.1	reebokfm.beget.tech
+127.0.0.1	cs40967.tw1.ru
 127.0.0.1	tougn.website
 127.0.0.1	fdute32sdajfsda.hopto.org
 127.0.0.1	api-flowerc2.online
@@ -9951,6 +9977,4 @@
 127.0.0.1	linux-treatment.gl.at.ply.gg
 127.0.0.1	custom-packaging-products.com
 127.0.0.1	chatgpt-app.cloud
-127.0.0.1	beshomandotestbesnd.run.place
-127.0.0.1	strekhost2085.con-ip.com
-# Number of entries: 9947
+# Number of entries: 9971
