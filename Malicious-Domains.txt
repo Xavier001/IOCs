@@ -10055,5 +10055,4 @@
 127.0.0.1	service-cycxnhe5-1302650299.sh.tencentapigw.com
 127.0.0.1	microsoftsoftwave.com
 127.0.0.1	azure.microsoftsoftwave.com
-127.0.0.1	july-pty.at.ply.gg
-# Number of entries: 10050
+# Number of entries: 10049
