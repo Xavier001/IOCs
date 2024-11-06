@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-06 10:04:11 UTC                        #
+# Last updated: 2024-11-06 12:06:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	gardenhub-fitlife2.com
+127.0.0.1	gardenhub-fitlife.com
+127.0.0.1	gardenhub-fitlife3.com
+127.0.0.1	moviecentral-petparade3.com
+127.0.0.1	moviecentral-petparade2.com
+127.0.0.1	moviecentral-petparade.com
 127.0.0.1	tventjp20vt.top
 127.0.0.1	painttfel.fun
 127.0.0.1	votae.top
@@ -10071,10 +10077,4 @@
 127.0.0.1	trxh.xyz
 127.0.0.1	trxq.xyz
 127.0.0.1	trxu.xyz
-127.0.0.1	poopy.aarkhipov.ru
-127.0.0.1	comm.sells-it.net
-127.0.0.1	coms.sells-it.net
-127.0.0.1	comss.sells-it.net
-127.0.0.1	comas.sells-it.net
-127.0.0.1	nerakar.duckdns.org
 # Number of entries: 10071
