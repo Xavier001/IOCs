@@ -1,11 +1,43 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-09 08:38:09 UTC                        #
+# Last updated: 2024-11-09 11:30:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	thirtjo13ht.top
+127.0.0.1	eightjo8ht.top
+127.0.0.1	elejoi11ht.top
+127.0.0.1	fiftjp15ht.top
+127.0.0.1	fivejo5ht.top
+127.0.0.1	forjo14ht.top
+127.0.0.1	neinjo9ht.top
+127.0.0.1	tventjp20sr.top
+127.0.0.1	forjp14ht.top
+127.0.0.1	sixjp16ht.top
+127.0.0.1	thirp13vt.top
+127.0.0.1	sevjp17sr.top
+127.0.0.1	elejpi11vt.top
+127.0.0.1	forjp14vt.top
+127.0.0.1	neinjp9vt.top
+127.0.0.1	tenjp10vt.top
+127.0.0.1	thirp13sr.top
+127.0.0.1	tweljp12sr.top
+127.0.0.1	forjp14sr.top
+127.0.0.1	elejpi11sr.top
+127.0.0.1	fivet15vs.top
+127.0.0.1	thirt13vs.top
+127.0.0.1	eightja8ht.top
+127.0.0.1	tenja10ht.top
+127.0.0.1	tweljp12ht.top
+127.0.0.1	fivetjp15sr.top
+127.0.0.1	sixft6vs.top
+127.0.0.1	sixjp16sr.top
+127.0.0.1	tenjp10sr.top
+127.0.0.1	neinja9ht.top
+127.0.0.1	onejp1ht.top
+127.0.0.1	fivetjp15ht.top
 127.0.0.1	dksu.top
 127.0.0.1	mixcom.one
 127.0.0.1	fgta.lol
@@ -10511,5 +10543,4 @@
 127.0.0.1	y9f6z0q1w2.xyz
 127.0.0.1	www.hathawaya.xyz
 127.0.0.1	www.dq.sched.vip-dk.tdnsvod1.cn
-127.0.0.1	consultantinsurance.net
-# Number of entries: 10506
+# Number of entries: 10537
