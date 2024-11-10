@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-10 05:46:23 UTC                        #
+# Last updated: 2024-11-10 12:03:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	adp-login.com
+127.0.0.1	adp-auth.com
 127.0.0.1	rottieud.sbs
 127.0.0.1	thinkyyokej.sbs
 127.0.0.1	slippyhost.cfd
@@ -10544,9 +10546,4 @@
 127.0.0.1	service-ac5ca85o-1314199502.gz.tencentapigw.com.cn
 127.0.0.1	wpscheckmembers.vip
 127.0.0.1	service-3vkzoky0-1312172028.gz.tencentapigw.com.cn
-127.0.0.1	goupbuy.com
-127.0.0.1	madamwebb.duckdns.org
-127.0.0.1	kammies.co.za
-127.0.0.1	dhgnegociosinmobiliarios.com
-127.0.0.1	cdn-carbonat.kimcuonghoanmy.shop
-# Number of entries: 10543
+# Number of entries: 10540
