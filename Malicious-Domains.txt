@@ -10557,16 +10557,4 @@
 127.0.0.1	kindupdates.com
 127.0.0.1	js.mitigize.com
 127.0.0.1	www.chiante1ecom.com
-127.0.0.1	prideconstituiiosjk.shop
-127.0.0.1	smallelementyjdui.shop
-127.0.0.1	appetitesallooonsj.shop
-127.0.0.1	minorittyeffeoos.shop
-127.0.0.1	tendencyportionjsuk.shop
-127.0.0.1	headraisepresidensu.shop
-127.0.0.1	sloganprogrevidefkso.shop
-127.0.0.1	sofaprivateawarderysj.shop
-127.0.0.1	lineagelasserytailsd.shop
-127.0.0.1	trad-einmyus.com
-127.0.0.1	tradein-myus.com
-127.0.0.1	trade-inmyus.com
-# Number of entries: 10563
+# Number of entries: 10551
