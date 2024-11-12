@@ -10564,8 +10564,4 @@
 127.0.0.1	tradein-myus.com
 127.0.0.1	trade-inmyus.com
 127.0.0.1	study-window.gl.at.ply.gg
-127.0.0.1	service-1bsjckga-1252578700.gz.tencentapigw.com.cn
-127.0.0.1	action-winds.cfd
-127.0.0.1	microstar.cfd
-127.0.0.1	1c-marketing.top
-# Number of entries: 10562
+# Number of entries: 10558
