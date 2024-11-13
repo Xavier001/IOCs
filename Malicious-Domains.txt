@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-13 10:08:55 UTC                        #
+# Last updated: 2024-11-13 11:27:34 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	leehoi02.ddns.net
+127.0.0.1	areabill.duckdns.org
 127.0.0.1	rolefenik.com
 127.0.0.1	ergiholim.com
 127.0.0.1	dlm1.kro.kr
@@ -10566,5 +10568,4 @@
 127.0.0.1	voip.analytics-edges.com
 127.0.0.1	newsarena.sbs
 127.0.0.1	chinamobilie.com
-127.0.0.1	edgeupdate.office365update.cn
-# Number of entries: 10561
+# Number of entries: 10562
