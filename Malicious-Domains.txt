@@ -10555,5 +10555,4 @@
 127.0.0.1	frpk.xyz
 127.0.0.1	frsk.xyz
 127.0.0.1	frgk.xyz
-127.0.0.1	service-5xpqvjqk-1320366142.gz.tencentapigw.com.cn
-# Number of entries: 10550
+# Number of entries: 10549
