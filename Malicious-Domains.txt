@@ -10582,5 +10582,4 @@
 127.0.0.1	nikt0x.duckdns.org
 127.0.0.1	wae54.duckdns.org
 127.0.0.1	wave54.duckdns.org
-127.0.0.1	eas.cqiv.com
-# Number of entries: 10577
+# Number of entries: 10576
