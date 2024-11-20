@@ -10652,5 +10652,4 @@
 127.0.0.1	klgbb.com
 127.0.0.1	anphealthcenter.com
 127.0.0.1	bqrg123.com
-127.0.0.1	manxzas12.duckdns.org
-# Number of entries: 10647
+# Number of entries: 10646
