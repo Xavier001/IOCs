@@ -10941,5 +10941,4 @@
 127.0.0.1	infres.in
 127.0.0.1	alliancebbs.com
 127.0.0.1	production-reservation.gl.at.ply.gg
-127.0.0.1	aiphiex9ae.ptsupport.tech
-# Number of entries: 10936
+# Number of entries: 10935
