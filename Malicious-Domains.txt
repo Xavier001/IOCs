@@ -1,11 +1,33 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-11-23 07:25:02 UTC                        #
+# Last updated: 2024-11-23 12:06:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	vietsuncorp-vn.com
+127.0.0.1	empoximwave245768.shop
+127.0.0.1	toxrfusion19156.shop
+127.0.0.1	unxevibe123459.shop
+127.0.0.1	eoiumdlight987656.shop
+127.0.0.1	topcularaktaricisisedat.shop
+127.0.0.1	evcilkusbesleme.shop
+127.0.0.1	verdilerbizeikiadam.shop
+127.0.0.1	tokatmotorcukuryesi.top
+127.0.0.1	arackiralamacankiri.com
+127.0.0.1	ahaber.com
+127.0.0.1	trendyshop57899.shop
+127.0.0.1	techhubshop24578.shop
+127.0.0.1	organicshop89105.shop
+127.0.0.1	vibrantlifeshop12345.shop
+127.0.0.1	artgalleryxshop98765.shop
+127.0.0.1	thopris578993215.shop
+127.0.0.1	filomarinakiraci.top
+127.0.0.1	cannakliyat.top
+127.0.0.1	uzaktasimaatasehir.xyz
+127.0.0.1	kopekuyuztedavicisi.xyz
+127.0.0.1	hayvanyemekveriyoruz.top
 127.0.0.1	1a70e6fe4e08336387e794885881140f.website
 127.0.0.1	6dcff87d268c945d0f057d9905a89a65.org
 127.0.0.1	825e40ca742b6038e1f546d70c1b22c5.com
@@ -11112,4 +11134,4 @@
 127.0.0.1	hydeoutent.com
 127.0.0.1	spygate.myftp.biz
 127.0.0.1	www.bitdefenders.shop
-# Number of entries: 11106
+# Number of entries: 11128
