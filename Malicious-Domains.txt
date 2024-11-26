@@ -11144,5 +11144,4 @@
 127.0.0.1	ec2-65-2-129-159.ap-south-1.compute.amazonaws.com
 127.0.0.1	botuser0.duckdns.org
 127.0.0.1	botusesr472.duckdns.org
-127.0.0.1	pt-security.ru
-# Number of entries: 11139
+# Number of entries: 11138
