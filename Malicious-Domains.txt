@@ -11124,6 +11124,4 @@
 127.0.0.1	main.cloudfronts.net
 127.0.0.1	dash.cloudflare.ovh
 127.0.0.1	control-road.gl.at.ply.gg
-127.0.0.1	www.dnacharting.com
-127.0.0.1	dzjs.ceshi.ink
-# Number of entries: 11120
+# Number of entries: 11118
