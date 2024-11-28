@@ -8,6 +8,7 @@
 55yjbp57423mh.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/image/,111.229.82.156
 57f3r1b1-33333.asse.devtunnels.ms,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,175.178.226.246
 7.tcp.cpolar.top,Possible Cobalt Strike C2 Domain,/s/58462514417,8.149.128.131
+7d6zcdxt-443.euw.devtunnels.ms,Possible Cobalt Strike C2 Domain,/weep/number_t_UZBVY4ZM,172.232.132.65
 aaa-bbb-xnibhcfkew.cn-shanghai.fcapp.run,Possible Cobalt Strike C2 Domain,/img/logo.jpg,60.204.134.21
 aaa.cdn.iris-consulting.de,Possible Cobalt Strike C2 Domain,/jquery.min.js,18.197.102.82
 aaa.cdn.iris-consulting.de,Possible Cobalt Strike C2 Domain,/jquery.min.js,3.72.24.250
@@ -30,6 +31,7 @@ cc.youku.zip,Possible Cobalt Strike C2 Domain,/functionalStatus/,104.143.47.137
 cdn-img.ludashi.com,Possible Cobalt Strike C2 Fronted Domain,/static/js/jquery-3.fca2a8c137.10.1.slim.min.js,1.12.227.144
 cdn-jquery.us,Possible Cobalt Strike C2 Domain,/Forge/static/HULNWCWI,174.138.50.62
 cdn.efstech.de,Possible Cobalt Strike C2 Domain,/adstats/v1c,212.48.107.109
+cdn.ipv6ipts.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,18.142.246.61
 cdn.ipv6ipts.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,34.238.38.19
 cdn.iris-consulting.de,Possible Cobalt Strike C2 Domain,/jquery.min.js,18.197.102.82
 cdn.iris-consulting.de,Possible Cobalt Strike C2 Domain,/jquery.min.js,3.72.24.250
@@ -101,8 +103,10 @@ ns1.cc0820.asia,Possible Cobalt Strike C2 Domain,/visit.js,47.237.118.17
 ns1.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.5.1.slim.min.js,167.179.84.218
 ns1.cioudfiear.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,18.222.126.236
 ns1.dingtaIk.tk,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,47.94.43.210
+ns1.enderman.top,Possible Cobalt Strike C2 Domain,/load,112.126.94.134
 ns1.exat-uz.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png,86.106.102.107
 ns1.glthub.icu,Possible Cobalt Strike C2 Domain,/__utm.gif,139.180.141.50
+ns1.gonamph.com,Possible Cobalt Strike C2 Domain,/functionalStatus/SJIv1XK0o3BRMBCcIDn3,54.156.183.83
 ns1.googleapimaps.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,206.237.16.117
 ns1.googleapiss.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,202.144.192.25
 ns1.grpsdelay.xyz,Possible Cobalt Strike C2 Domain,/load,47.92.140.25
@@ -133,6 +137,7 @@ ns2.c6bank.cloud,Possible Cobalt Strike C2 Domain,/services/data/v36.0/sobjects/
 ns2.cc0820.asia,Possible Cobalt Strike C2 Domain,/visit.js,47.237.118.17
 ns2.centos-yum.xyz,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.5.1.slim.min.js,167.179.84.218
 ns2.dingtaIk.tk,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,47.94.43.210
+ns2.enderman.top,Possible Cobalt Strike C2 Domain,/fwlink,112.126.94.134
 ns2.glthub.icu,Possible Cobalt Strike C2 Domain,/__utm.gif,139.180.141.50
 ns2.googleapimaps.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,206.237.16.117
 ns2.googleapiss.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,202.144.192.25
