@@ -11366,5 +11366,4 @@
 127.0.0.1	asterchildrenshoes.com
 127.0.0.1	microsoft.kasperzky.xyz
 127.0.0.1	responsiveuikit.com
-127.0.0.1	burdurpastane.com
-# Number of entries: 11361
+# Number of entries: 11360
