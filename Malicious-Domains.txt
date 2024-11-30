@@ -11349,7 +11349,4 @@
 127.0.0.1	poivyzeaa.top
 127.0.0.1	free.iwaf.cn
 127.0.0.1	bestcdnforfree.site
-127.0.0.1	gotthebestoffer.site
-127.0.0.1	accountasifkwosov.shop
-127.0.0.1	p4wq3e5r6t.xyz
-# Number of entries: 11346
+# Number of entries: 11343
