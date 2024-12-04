@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-04 10:00:20 UTC                        #
+# Last updated: 2024-12-04 11:55:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	secure1-imnotionshosting.com
+127.0.0.1	load.webdatahoster.com
+127.0.0.1	dr0id.best
+127.0.0.1	k358a192.ala.dedicated.aws.emqxcloud.com
+127.0.0.1	ie721f2d.ala.dedicated.aws.emqxcloud.com
 127.0.0.1	blackshelter.org
 127.0.0.1	fileoutput.pro
 127.0.0.1	flagsair.com
@@ -11926,8 +11931,4 @@
 127.0.0.1	service-owedaeao-1304783326.gz.tencentapigw.com.cn
 127.0.0.1	service-6xro0ifb-1253442149.bj.tencentapigw.com.cn
 127.0.0.1	dns.163microsoft.com
-127.0.0.1	goudieelectric.shop
-127.0.0.1	simonandschuster.shop
-127.0.0.1	ulysse-cazabonne.cam
-127.0.0.1	service-nshpe3hn-1303962289.sh.tencentapigw.com
-# Number of entries: 11924
+# Number of entries: 11925
