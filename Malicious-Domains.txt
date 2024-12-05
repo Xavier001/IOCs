@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-05 02:56:49 UTC                        #
+# Last updated: 2024-12-05 05:41:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.friendly-curie.193-239-86-216.plesk.page
+127.0.0.1	gallant-pike.193-239-86-216.plesk.page
+127.0.0.1	103-152-255-69.cprapid.com
 127.0.0.1	www.lqwpl.fun
 127.0.0.1	visit.statclick.net
 127.0.0.1	share.clickstat360.com
@@ -11935,21 +11938,4 @@
 127.0.0.1	hbv01.info
 127.0.0.1	modernwebframework.com
 127.0.0.1	webapidevelopment.com
-127.0.0.1	service-hcwhjzdb-1316933071.sh.tencentapigw.com
-127.0.0.1	damousese.xyz
-127.0.0.1	an-taxi.gl.at.ply.gg
-127.0.0.1	llxl.xyz
-127.0.0.1	llpl.xyz
-127.0.0.1	llml.xyz
-127.0.0.1	llnl.xyz
-127.0.0.1	zakat.dompetdhuaafa.biz.id
-127.0.0.1	jqueryupdate1.housereynoldsfaust.com
-127.0.0.1	progressivewebappsdev.com
-127.0.0.1	alphadex.io
-127.0.0.1	labs.plutonians.tech
-127.0.0.1	remcoss2024feb.duckdns.org
-127.0.0.1	mamajekisrecording.com
-127.0.0.1	fufug.enterprisedownloads.ltd
-127.0.0.1	giampaolidolciaria.cfd
-127.0.0.1	mtuogioanis.com
-# Number of entries: 11946
+# Number of entries: 11932
