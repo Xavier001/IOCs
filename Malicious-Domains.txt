@@ -1,11 +1,36 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-06 19:57:50 UTC                        #
+# Last updated: 2024-12-07 10:06:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	novac2.fun
+127.0.0.1	66-245-194-159.ipv4.staticdns3.io
+127.0.0.1	www.172-96-161-26.cprapid.com
+127.0.0.1	167-172-29-103.ipv4.staticdns3.io
+127.0.0.1	host-77-238-233-217.hosted-by-vdsina.com
+127.0.0.1	www.icicidiirect.com
+127.0.0.1	restoindia.me
+127.0.0.1	goneflower.org
+127.0.0.1	musicians-forestry-operation-angels.trycloudflare.com
+127.0.0.1	peter-secrets-diana-yukon.trycloudflare.com
+127.0.0.1	name-kw-papua-booking.trycloudflare.com
+127.0.0.1	bristol-weed-martin-know.trycloudflare.com
+127.0.0.1	bidder-horizontal-wildlife-invoice.trycloudflare.com
+127.0.0.1	two-besides.gl.at.ply.gg
+127.0.0.1	zoloft-indianapolis-riders-convinced.trycloudflare.com
+127.0.0.1	foundedbrounded.org
+127.0.0.1	digdonger.org
+127.0.0.1	groundrats.org
+127.0.0.1	until-delivering.gl.at.ply.gg
+127.0.0.1	dreasd.xyz
+127.0.0.1	lostremendosdel.gotdns.ch
+127.0.0.1	sonar.inndata.xyz
+127.0.0.1	ert43w221.ydns.eu
+127.0.0.1	www.gallant-pike.193-239-86-216.plesk.page
+127.0.0.1	ultimatesocial.shop
 127.0.0.1	yunboguan.net
 127.0.0.1	wcsczx.com
 127.0.0.1	8090mp4.com
@@ -10536,5 +10561,4 @@
 127.0.0.1	retdirectyourman.eu
 127.0.0.1	ebaoffice.com.br
 127.0.0.1	atlanticshoresresort.com
-127.0.0.1	moderncssframeworks.com
-# Number of entries: 10531
+# Number of entries: 10555
