@@ -10725,5 +10725,4 @@
 127.0.0.1	www.navver.o-r.kr
 127.0.0.1	w3.navver.o-r.kr
 127.0.0.1	www.kepir.p-e.kr
-127.0.0.1	dr-networks.com
-# Number of entries: 10720
+# Number of entries: 10719
