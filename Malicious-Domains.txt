@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-12 08:58:55 UTC                        #
+# Last updated: 2024-12-12 12:03:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	kac0t.springpoitn.xyz
+127.0.0.1	fdy0p.springpoitn.xyz
+127.0.0.1	digitech99.com
 127.0.0.1	modernfirewall.ru
 127.0.0.1	riders.50kfor50years.com
 127.0.0.1	ffmikjcfenjanii.top
@@ -10891,4 +10894,4 @@
 127.0.0.1	service-i4ipkrwm-1317712796.gz.tencentapigw.com.cn
 127.0.0.1	www.qtvnews.com
 127.0.0.1	api.sftech.one
-# Number of entries: 10885
+# Number of entries: 10888
