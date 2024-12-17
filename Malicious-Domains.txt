@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-17 08:50:41 UTC                        #
+# Last updated: 2024-12-17 10:57:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	thirtgt13pn.top
+127.0.0.1	home.fivetk5pn.top
+127.0.0.1	home.thirtgt13pn.top
+127.0.0.1	tentk10pn.top
 127.0.0.1	www.electrum.la
 127.0.0.1	electrum.la
 127.0.0.1	elektrum.sbs
@@ -11109,4 +11113,4 @@
 127.0.0.1	icarusairlines.com
 127.0.0.1	businessdownloads.ltd
 127.0.0.1	x99y.xyz
-# Number of entries: 11103
+# Number of entries: 11107
