@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-18 22:07:58 UTC                        #
+# Last updated: 2024-12-18 22:12:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	45-79-221-12.ip.linodeusercontent.com
+127.0.0.1	potatopetal.com
+127.0.0.1	wp1.woocloud.vip
 127.0.0.1	home.twentytk20pn.top
 127.0.0.1	aspava-yachting.com
 127.0.0.1	lastic6p.beget.tech
@@ -11156,16 +11159,4 @@
 127.0.0.1	loolsena.shop
 127.0.0.1	riscoarchez.com
 127.0.0.1	alvinclayman.com
-127.0.0.1	ahaamthuc.com
-127.0.0.1	barusake.com
-127.0.0.1	aberzing.com
-127.0.0.1	marusto.com
-127.0.0.1	sekubar.com
-127.0.0.1	rebusand.com
-127.0.0.1	lameruka.com
-127.0.0.1	reliseti.com
-127.0.0.1	pentefaith.com
-127.0.0.1	chubcharm.com
-127.0.0.1	ahazko.com
-127.0.0.1	ricoshea.com
-# Number of entries: 11162
+# Number of entries: 11153
