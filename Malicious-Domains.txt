@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-21 20:01:43 UTC                        #
+# Last updated: 2024-12-22 12:01:37 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	heuristic-gould.45-77-46-13.plesk.page
 127.0.0.1	genghiskhanof21century.online
 127.0.0.1	toptek.sbs
 127.0.0.1	ecs-189-1-242-182.compute.hwclouds-dns.com
@@ -11134,4 +11135,4 @@
 127.0.0.1	bar-fri.gl.at.ply.gg
 127.0.0.1	service-1w88bdif-1300276284.cd.tencentapigw.com
 127.0.0.1	service-nsxtuf5s-1252551592.gz.tencentapigw.com.cn
-# Number of entries: 11128
+# Number of entries: 11129
