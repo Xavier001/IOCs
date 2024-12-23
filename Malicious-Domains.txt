@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-22 20:36:09 UTC                        #
+# Last updated: 2024-12-23 00:02:15 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.exciting-goldberg.193-239-86-216.plesk.page
+127.0.0.1	mail.coinhako.us
+127.0.0.1	gracefulcallou.click
+127.0.0.1	brendon-sharjen.biz
+127.0.0.1	sweepyribs.lat
+127.0.0.1	lev-tolstoi.com
+127.0.0.1	icyidentifysu.click
 127.0.0.1	thirtkt13sb.top
 127.0.0.1	twentytk20vt.top
 127.0.0.1	home.twentytk20pt.top
@@ -11181,5 +11188,4 @@
 127.0.0.1	chemsentinel.com
 127.0.0.1	christian-printed.gl.at.ply.gg
 127.0.0.1	antfly50.sytes.net
-127.0.0.1	asevn.com
-# Number of entries: 11176
+# Number of entries: 11182
