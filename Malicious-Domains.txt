@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-24 07:31:13 UTC                        #
+# Last updated: 2024-12-24 12:11:37 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	thirtth13pn.top
+127.0.0.1	observerfry.lat
+127.0.0.1	lev-tolstoi.com
 127.0.0.1	denimcard.com
 127.0.0.1	lev-tolstoi.com
 127.0.0.1	moanungsnake.click
@@ -11230,5 +11233,4 @@
 127.0.0.1	mdasidy72.shop
 127.0.0.1	test-1627838.shop
 127.0.0.1	cdn.biliblli.team
-127.0.0.1	mdasidy72.lol
-# Number of entries: 11225
+# Number of entries: 11227
