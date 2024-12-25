@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-24 20:02:13 UTC                        #
+# Last updated: 2024-12-25 08:01:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	aa.charming-feistel.194-26-192-29.plesk.page
+127.0.0.1	ncuahsd.top
+127.0.0.1	www.sapress.help
+127.0.0.1	haimasher.xyz
+127.0.0.1	suclub.xyz
+127.0.0.1	ecs-119-3-154-143.compute.hwclouds-dns.com
 127.0.0.1	cryp-domedows.com
 127.0.0.1	egypt2.camdvr.org
 127.0.0.1	sasaa.kozow.com
@@ -11209,25 +11215,4 @@
 127.0.0.1	known-girls.gl.at.ply.gg
 127.0.0.1	park-curve.gl.at.ply.gg
 127.0.0.1	securenetwork.azureedge.net
-127.0.0.1	filomeranta.com
-127.0.0.1	divyjai2.xyz
-127.0.0.1	loskawist.pics
-127.0.0.1	tristgodfert.com
-127.0.0.1	d1m4ettuq4ezj0.cloudfront.net
-127.0.0.1	apistudio.xyz
-127.0.0.1	gg.jjkk567.com
-127.0.0.1	gg.nnmm234.com
-127.0.0.1	gg.aass654.com
-127.0.0.1	gg.vvbb321.com
-127.0.0.1	gg.xxcc789.com
-127.0.0.1	xortoproject.online
-127.0.0.1	rightwaycleaninginc.com
-127.0.0.1	www.778981.com
-127.0.0.1	778981.com
-127.0.0.1	finjuiceer.com
-127.0.0.1	jucemaster.space
-127.0.0.1	meakdgahup.com
-127.0.0.1	moprewaldon.com
-127.0.0.1	oswalfeen.com
-127.0.0.1	speedohasti.shop
-# Number of entries: 11224
+# Number of entries: 11209
