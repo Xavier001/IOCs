@@ -1,11 +1,28 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-26 09:37:43 UTC                        #
+# Last updated: 2024-12-26 12:19:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	justyffyr.click
+127.0.0.1	awake-weaves.cyou
+127.0.0.1	sordid-snaked.cyou
+127.0.0.1	wrathful-jammy.cyou
+127.0.0.1	slimmybearz.click
+127.0.0.1	klipsyzogey.shop
+127.0.0.1	locketplyxx.click
+127.0.0.1	panelmaideus.click
+127.0.0.1	lev-tolstoi.com
+127.0.0.1	notebookgi.click
+127.0.0.1	senc1.melody-wave.shop
+127.0.0.1	triptrip.melody-wave.shop
+127.0.0.1	awake-weaves.cyou
+127.0.0.1	fantassyzwi.click
+127.0.0.1	sordid-snaked.cyou
+127.0.0.1	wrathful-jammy.cyou
+127.0.0.1	treehoneyi.click
 127.0.0.1	stock.letsgoautomotive.com
 127.0.0.1	165-22-250-3.cprapid.com
 127.0.0.1	google-br.duckdns.org
@@ -11204,5 +11221,4 @@
 127.0.0.1	jbfrost.live
 127.0.0.1	vauxhall.top
 127.0.0.1	performanscore.com
-127.0.0.1	applylawofattraction.com
-# Number of entries: 11199
+# Number of entries: 11215
