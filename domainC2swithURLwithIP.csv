@@ -18,9 +18,9 @@ api.freeresolver.online,Possible Cobalt Strike C2 Domain,/portes-ouvertes/fiche/
 api.googleshop.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,198.98.57.26
 api.nbcbcheck.xyz,Possible Cobalt Strike C2 Domain,/index.html,101.126.21.197
 api.netseeker.top,Possible Cobalt Strike C2 Domain,/owa/,124.220.180.112
-api.toptoptop6.top,Possible Cobalt Strike C2 Domain,/jp,101.32.37.92
 artefakt.network,Possible Cobalt Strike C2 Domain,/safebrowsing/webpack/component/page-data.json,82.67.60.21
 artefakt.uk,Possible Cobalt Strike C2 Domain,/safebrowsing/webpack/component/page-data.json,82.67.60.21
+aselzan.com.tr,Possible Cobalt Strike C2 Domain,/cx,185.17.115.238
 baidu.611110.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,158.180.74.142
 bbb.cdn.iris-consulting.de,Possible Cobalt Strike C2 Domain,/jquery.min.js,18.197.102.82
 bbb.cdn.iris-consulting.de,Possible Cobalt Strike C2 Domain,/jquery.min.js,3.72.24.250
@@ -85,6 +85,7 @@ jux2xu.xyz,Possible Cobalt Strike C2 Domain,/microsoftupdate/v6/wsus/clientwebse
 jux2xu.xyz,Possible Cobalt Strike C2 Domain,/microsoftupdate/v6/wsus/reporting.asmx,13.127.114.160
 kzhjcax2.yt.lcycdn.xyz,Possible Cobalt Strike C2 Fronted Domain,/en_US/all.js,81.70.49.19
 lanovo.xyz,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,43.143.206.225
+lexapp.Iextar.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,35.79.20.13
 liolio.cn,Possible Cobalt Strike C2 Domain,/__utm.gif,47.120.60.201
 login.localtechplus.com,Possible Cobalt Strike C2 Domain,/static/2126.f2lv21.chunk.js,147.45.47.88
 mail.exat-uz.com,Possible Cobalt Strike C2 Domain,/images/branding/googlelogo/1x/googlelogo_color_150x54Dp.png,86.106.102.107
@@ -179,6 +180,7 @@ wiki.byt3x.top,Possible Cobalt Strike C2 Domain,/dpixel,43.153.158.146
 wkixam.it.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,113.31.113.77
 www.163microsoft.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,165.154.33.10
 www.a1iyun.xyz,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,175.27.160.188
+www.chinamobile.top,Possible Cobalt Strike C2 Domain,/api/v1/get,121.36.63.137
 www.cioudfiear.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,18.222.126.236
 www.kualfan.co,Possible Cobalt Strike C2 Domain,/api/3,1.94.204.34
 www.mcirosoft.xyz,Possible Cobalt Strike C2 Fronted Domain,/image/,148.135.77.103
