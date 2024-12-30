@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-30 08:22:31 UTC                        #
+# Last updated: 2024-12-30 12:03:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	5-154-181-87.cprapid.com
+127.0.0.1	autodiscover.pe.194-59-30-152.cprapid.com
+127.0.0.1	cpanel.pf.194-59-30-152.cprapid.com
+127.0.0.1	sdoout.lol
+127.0.0.1	klipzyroloo.shop
+127.0.0.1	learningypr.click
+127.0.0.1	deduhko.klipzyroloo.shop
 127.0.0.1	chain.buyclosersonline.com
 127.0.0.1	hvc.adc-aero.online
 127.0.0.1	2c8b3f19-0325-4acc-a3dd-31a918e4dbf5.random.2-okta.com
@@ -10980,4 +10987,4 @@
 127.0.0.1	77-220-212-71.netherlands-2.vps.ac
 127.0.0.1	82-147-85-159.networktube.net
 127.0.0.1	boats.cloudboats.vip
-# Number of entries: 10974
+# Number of entries: 10981
