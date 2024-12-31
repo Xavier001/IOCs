@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2024-12-31 10:02:23 UTC                        #
+# Last updated: 2024-12-31 12:03:19 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.quantumcrisp.com
+127.0.0.1	sharp-driscoll.194-26-192-101.plesk.page
 127.0.0.1	webhorizon.icu
 127.0.0.1	augoiaummyquegki.xyz
 127.0.0.1	wswiukusmsicegiy.xyz
@@ -17996,6 +17998,4 @@
 127.0.0.1	77-220-212-71.netherlands-2.vps.ac
 127.0.0.1	82-147-85-159.networktube.net
 127.0.0.1	boats.cloudboats.vip
-127.0.0.1	c2.yuyake.top
-127.0.0.1	www.qianxinnbplus.xyz
 # Number of entries: 17992
