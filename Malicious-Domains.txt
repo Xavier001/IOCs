@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-03 08:03:19 UTC                        #
+# Last updated: 2025-01-03 12:17:55 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	keramiccircle.net
+127.0.0.1	digitalarmor.cyou
+127.0.0.1	solve.jrqr.org
+127.0.0.1	maguagency.site
 127.0.0.1	webdisk.p2.194-59-31-47.cprapid.com
 127.0.0.1	cdn.withrental.com
 127.0.0.1	patbunn.co
@@ -17901,6 +17905,4 @@
 127.0.0.1	wnaz.shop
 127.0.0.1	adobefallshomes.com
 127.0.0.1	1307777787-7caouzfrdq-bj.scf.tencentcs.com
-127.0.0.1	downloaddining.com
-127.0.0.1	qianxinnbplus.xyz
-# Number of entries: 17897
+# Number of entries: 17899
