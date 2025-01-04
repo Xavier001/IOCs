@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-03 16:03:19 UTC                        #
+# Last updated: 2025-01-04 00:03:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	usps-online.com
+127.0.0.1	apm.vpce.gdw55e.upgrade1.zip
 127.0.0.1	sso.microsoft.upgrade1.zip
 127.0.0.1	trufai.website
 127.0.0.1	markydinnt.lat
@@ -17960,6 +17962,4 @@
 127.0.0.1	aa.yukklzwo.vip
 127.0.0.1	qq.yukklzwo.vip
 127.0.0.1	api.yukklzwo.vip
-127.0.0.1	51ape.cc
-127.0.0.1	wnaz.shop
 # Number of entries: 17956
