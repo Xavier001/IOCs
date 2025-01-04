@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-04 08:12:55 UTC                        #
+# Last updated: 2025-01-04 12:03:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	gui.mllcrosoft.com
+127.0.0.1	www.globalsystemsupport.com
+127.0.0.1	account.upgrade1.zip
+127.0.0.1	sumup.live
 127.0.0.1	cloudewahsj.shop
 127.0.0.1	wholersorie.shop
 127.0.0.1	tirepublicerj.shop
@@ -17979,7 +17983,4 @@
 127.0.0.1	arbiankroos.com
 127.0.0.1	d2kw3fh12wz47k.cloudfront.net
 127.0.0.1	testgk.oss-cn-beijing.aliyuncs.com
-127.0.0.1	aa.yukklzwo.vip
-127.0.0.1	qq.yukklzwo.vip
-127.0.0.1	api.yukklzwo.vip
-# Number of entries: 17976
+# Number of entries: 17977
