@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-04 12:03:52 UTC                        #
+# Last updated: 2025-01-04 20:03:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	events.api.upgrade1.zip
+127.0.0.1	sso.microsoft-onedrive.upgrade1.zip
+127.0.0.1	pixelize.cloud
+127.0.0.1	between-youth.gl.at.ply.gg
+127.0.0.1	broworker5s.com
+127.0.0.1	browork2er.cc
+127.0.0.1	lemonsmp.work.gd
+127.0.0.1	qq.ouyang7770.com
+127.0.0.1	ddosme.twilight.zip
 127.0.0.1	gui.mllcrosoft.com
 127.0.0.1	www.globalsystemsupport.com
 127.0.0.1	account.upgrade1.zip
@@ -17970,17 +17979,4 @@
 127.0.0.1	publicitttyps.shop
 127.0.0.1	benchillppwo.shop
 127.0.0.1	five-sequences.gl.at.ply.gg
-127.0.0.1	cdn.wnza.shop
-127.0.0.1	trusted-updates.germanywestcentral.cloudapp.azure.com
-127.0.0.1	temp.sftech.shop
-127.0.0.1	www.dpm-sael.com
-127.0.0.1	juderule.africa
-127.0.0.1	pcapi-server.com
-127.0.0.1	solutionhub.cc
-127.0.0.1	c3.redteam.club
-127.0.0.1	c2.redteam.club
-127.0.0.1	c1.redteam.club
-127.0.0.1	arbiankroos.com
-127.0.0.1	d2kw3fh12wz47k.cloudfront.net
-127.0.0.1	testgk.oss-cn-beijing.aliyuncs.com
-# Number of entries: 17977
+# Number of entries: 17973
