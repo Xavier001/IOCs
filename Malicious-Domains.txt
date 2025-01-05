@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-05 09:45:09 UTC                        #
+# Last updated: 2025-01-05 12:17:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	alondrabowmanjake.com
+127.0.0.1	rodgersluciecassy.com
+127.0.0.1	events.api.mllcrosoft.com
 127.0.0.1	both-foundations.gl.at.ply.gg
 127.0.0.1	quils.shop
 127.0.0.1	login.microsoft-onedrive.trunetkings.xyz.trunetkings.xyz
@@ -17975,4 +17978,4 @@
 127.0.0.1	osgnhr9zv.top
 127.0.0.1	tempesolarcompany.com
 127.0.0.1	s1mpl3.simple-url.com
-# Number of entries: 17969
+# Number of entries: 17972
