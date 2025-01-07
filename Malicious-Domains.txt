@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-07 08:02:57 UTC                        #
+# Last updated: 2025-01-07 12:04:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	myguyjeremy.x10.mx
+127.0.0.1	quils.live
+127.0.0.1	booking.billchchkoutrequst.com
 127.0.0.1	www.microsoft.upgrade1.zip
 127.0.0.1	grutt.click
 127.0.0.1	ip-89-38-128-94-106854.vps.hosted-by-mvps.net
@@ -18239,11 +18242,4 @@
 127.0.0.1	anyone-blogging.gl.at.ply.gg
 127.0.0.1	www.dpm-sael.com
 127.0.0.1	9507c272a51ce8cefc8761591b2c50e6.fit
-127.0.0.1	infodigitalbusiness.com
-127.0.0.1	itconsultoriayseguridad.com
-127.0.0.1	anchondrica.info
-127.0.0.1	mybadsite.com
-127.0.0.1	strykercp.com
-127.0.0.1	seetoo.ossadmin.site
-127.0.0.1	senesolde.com
-# Number of entries: 18240
+# Number of entries: 18236
