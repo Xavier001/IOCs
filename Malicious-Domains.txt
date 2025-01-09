@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-09 08:59:07 UTC                        #
+# Last updated: 2025-01-09 12:03:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	okta.mllcrosoft.com
+127.0.0.1	csp.mllcrosoft.com
 127.0.0.1	relivonline.com
 127.0.0.1	frillsforspills.com
 127.0.0.1	static.buyweatherstriponline.com
@@ -18351,7 +18353,4 @@
 127.0.0.1	ns2.crowdstrikebit.com
 127.0.0.1	ns1.crowdstrikebit.com
 127.0.0.1	gitak.top
-127.0.0.1	openshift.echase.cn.cdn.dnsv1.com
-127.0.0.1	bflow-musico.fun
-127.0.0.1	stationacutwo.shop
-# Number of entries: 18348
+# Number of entries: 18347
