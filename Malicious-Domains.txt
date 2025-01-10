@@ -1,11 +1,27 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-10 09:14:45 UTC                        #
+# Last updated: 2025-01-10 11:04:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mailg-id.one
+127.0.0.1	marzorevenger.duckdns.org
+127.0.0.1	client.fahrerscheinonlineholen.de
+127.0.0.1	xclient.fahrerscheinonlineholen.de
+127.0.0.1	serverlumen.ddns.net
+127.0.0.1	alshamtech.nl
+127.0.0.1	versyasist.guru
+127.0.0.1	versyasist.cfd
+127.0.0.1	versyasist.site
+127.0.0.1	versyasist.website
+127.0.0.1	versyasist.shop
+127.0.0.1	versyasist.live
+127.0.0.1	versyasist.online
+127.0.0.1	versyasist.pics
+127.0.0.1	versyasist.space
+127.0.0.1	versyasist.click
 127.0.0.1	yxtdssx5f3t9.cfc-execute.bj.baidubce.com
 127.0.0.1	zako.da1suki.com
 127.0.0.1	www.votass.com
@@ -18624,4 +18640,4 @@
 127.0.0.1	jswebcloud.com
 127.0.0.1	hqt3.shop
 127.0.0.1	sherwoodhomeshow.com
-# Number of entries: 18618
+# Number of entries: 18634
