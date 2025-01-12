@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-12 08:10:00 UTC                        #
+# Last updated: 2025-01-12 12:03:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	drrugs.xyz
+127.0.0.1	img6.microsoft.upgrade1.zip
 127.0.0.1	leechon.hackcrack.io
 127.0.0.1	zcbcpapp.com
 127.0.0.1	ecs-121-36-222-101.compute.hwclouds-dns.com
@@ -18720,5 +18722,4 @@
 127.0.0.1	daslkjfhi2.homes
 127.0.0.1	daslkjfhi2.pics
 127.0.0.1	dtolnhd.info
-127.0.0.1	domaplc.top
-# Number of entries: 18715
+# Number of entries: 18716
