@@ -1,11 +1,39 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-13 09:31:23 UTC                        #
+# Last updated: 2025-01-13 11:59:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	accommodation-necessity.gl.at.ply.gg
+127.0.0.1	adilfgilitter-43126.portmap.host
+127.0.0.1	around-surprise.gl.at.ply.gg
+127.0.0.1	edit-beats.gl.at.ply.gg
+127.0.0.1	right-cleared.gl.at.ply.gg
+127.0.0.1	likejunk-40343.portmap.host
+127.0.0.1	dwell-exclaim.biz
+127.0.0.1	formy-spill.biz
+127.0.0.1	covery-mover.biz
+127.0.0.1	dare-curbys.biz
+127.0.0.1	vpsdns.casacam.net
+127.0.0.1	email.gov.in.ministryofdefenceindia.link
+127.0.0.1	awake-weaves.cyou
+127.0.0.1	fixxyplanterv.click
+127.0.0.1	se-blurry.biz
+127.0.0.1	mutterunurse.click
+127.0.0.1	impend-differ.biz
+127.0.0.1	print-vexer.biz
+127.0.0.1	sordid-snaked.cyou
+127.0.0.1	wrathful-jammy.cyou
+127.0.0.1	zinc-sneark.biz
+127.0.0.1	fqbe23.xyz
+127.0.0.1	prpages.com
+127.0.0.1	valhafather.xyz
+127.0.0.1	offerszone.click
+127.0.0.1	sharethewebs.cfd
+127.0.0.1	wordpress-redirect.biz
+127.0.0.1	alshamtech.nl
 127.0.0.1	ados.fyicompsol.xyz
 127.0.0.1	kens.fyicompsol.xyz
 127.0.0.1	kila.fyicompsol.xyz
@@ -19149,4 +19177,4 @@
 127.0.0.1	njas.duckdns.org
 127.0.0.1	le-pencil.gl.at.ply.gg
 127.0.0.1	areaseguras.con-ip.com
-# Number of entries: 19143
+# Number of entries: 19171
