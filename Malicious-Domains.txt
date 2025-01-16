@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-15 22:07:56 UTC                        #
+# Last updated: 2025-01-16 04:03:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cf.r8.lc
+127.0.0.1	kvxnvbdvv.com
+127.0.0.1	cf.r8.lc
+127.0.0.1	cf.r8.lc
+127.0.0.1	cf.r8.lc
 127.0.0.1	cf.r8.lc
 127.0.0.1	cf.r8.lc
 127.0.0.1	cf.r8.lc
@@ -19077,4 +19082,4 @@
 127.0.0.1	hippieblissprovising.com
 127.0.0.1	verose.top
 127.0.0.1	away-displays.gl.at.ply.gg
-# Number of entries: 19071
+# Number of entries: 19076
