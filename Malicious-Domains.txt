@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-17 10:09:49 UTC                        #
+# Last updated: 2025-01-17 12:13:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	eur-agriculture.gl.at.ply.gg
+127.0.0.1	elevenuu11th.top
+127.0.0.1	reporting.mllcrosoft.com
+127.0.0.1	cf.r8.lc
+127.0.0.1	cf.r8.lc
 127.0.0.1	republicadominica2025.ip-ddns.com
 127.0.0.1	edealselite.shop
 127.0.0.1	rosettahome.cn
@@ -19158,7 +19163,4 @@
 127.0.0.1	isomicrotich.com
 127.0.0.1	oakgrovetraining.com
 127.0.0.1	ccrhs.shop
-127.0.0.1	othergate.site
-127.0.0.1	australiaivf.com
-127.0.0.1	eventgrids.online
-# Number of entries: 19155
+# Number of entries: 19157
