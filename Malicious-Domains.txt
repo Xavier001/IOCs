@@ -1,11 +1,55 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-20 09:46:47 UTC                        #
+# Last updated: 2025-01-20 11:46:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cf.r8.lc
+127.0.0.1	cf.r8.lc
+127.0.0.1	twentytj20vs.top
+127.0.0.1	nineff9pn.top
+127.0.0.1	nineuu9th.top
+127.0.0.1	oneff1pn.top
+127.0.0.1	onevv1fr.top
+127.0.0.1	sixff6pn.top
+127.0.0.1	sixuu6th.top
+127.0.0.1	sixb6vs.top
+127.0.0.1	oneb1vs.top
+127.0.0.1	eitb8vs.top
+127.0.0.1	fiveb5vs.top
+127.0.0.1	eightff8pn.top
+127.0.0.1	nineqq9vt.top
+127.0.0.1	oneqq1vt.top
+127.0.0.1	oneuu1th.top
+127.0.0.1	twentyss20sb.top
+127.0.0.1	fortyss14sb.top
+127.0.0.1	eightvv8fr.top
+127.0.0.1	eightuu8th.top
+127.0.0.1	fourqq4vt.top
+127.0.0.1	joyoushammen.cyou
+127.0.0.1	keenrustiz.cyou
+127.0.0.1	mushyomittel.cyou
+127.0.0.1	politicafausx.shop
+127.0.0.1	celeryddepende.shop
+127.0.0.1	quitgirlek.shop
+127.0.0.1	shapeguidecaz.shop
+127.0.0.1	avoidspaderik.shop
+127.0.0.1	abaft-taboo.bond
+127.0.0.1	conquemappe.bond
+127.0.0.1	noxiuos-utopi.bond
+127.0.0.1	cowertbabei.bond
+127.0.0.1	learnyprocce.bond
+127.0.0.1	f1076005.xsph.ru
+127.0.0.1	a1075950.xsph.ru
+127.0.0.1	a1076044.xsph.ru
+127.0.0.1	a1076034.xsph.ru
+127.0.0.1	a1075974.xsph.ru
+127.0.0.1	artemcy5.beget.tech
+127.0.0.1	artemccf.beget.tech
+127.0.0.1	fivepp5vs.top
+127.0.0.1	sixvv6fr.top
 127.0.0.1	cf.r8.lc
 127.0.0.1	adidya354-21806.portmap.host
 127.0.0.1	ghecbjcmdfghfkg.top
@@ -19483,4 +19527,4 @@
 127.0.0.1	multipleonlinegahiddenzonline.organiccrap.com
 127.0.0.1	welovebadge.com
 127.0.0.1	jesusgabrielahumadalora09.con-ip.com
-# Number of entries: 19477
+# Number of entries: 19521
