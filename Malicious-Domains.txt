@@ -1,11 +1,44 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-21 04:03:38 UTC                        #
+# Last updated: 2025-01-21 09:46:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cf.r8.lc
+127.0.0.1	solve.pvsu.org
+127.0.0.1	cf.r8.lc
+127.0.0.1	awake-weaves.cyou
+127.0.0.1	sordid-snaked.cyou
+127.0.0.1	demeijer.cfd
+127.0.0.1	praanic.cfd
+127.0.0.1	floratechnology.live
+127.0.0.1	bitcoin4u.store
+127.0.0.1	alibababet.space
+127.0.0.1	rtpneraca69.site
+127.0.0.1	firstcoltd.com
+127.0.0.1	dirtysocks.phd
+127.0.0.1	cpcalendars.firstcoltd.com
+127.0.0.1	mail.firstcoltd.com
+127.0.0.1	floratechnology.live
+127.0.0.1	entrarviaverde.com
+127.0.0.1	pitchbookfinance.co
+127.0.0.1	floratrans.live
+127.0.0.1	lfissrtg.rest
+127.0.0.1	ijthear.cyou
+127.0.0.1	cf.r8.lc
+127.0.0.1	cf.r8.lc
+127.0.0.1	ec2-18-183-60-128.ap-northeast-1.compute.amazonaws.com
+127.0.0.1	www.receive.llc
+127.0.0.1	solve.xtxy.org
+127.0.0.1	craveinjuur.shop
+127.0.0.1	contractsmell.cyou
+127.0.0.1	yokecarvekio.cyou
+127.0.0.1	youngsweays.my
+127.0.0.1	cf.r8.lc
+127.0.0.1	letsago.freemyip.com
+127.0.0.1	cf.r8.lc
 127.0.0.1	online-veiligdoorverbinden.com
 127.0.0.1	indiana317.com
 127.0.0.1	ledger-manage.com
@@ -20596,4 +20629,4 @@
 127.0.0.1	vector.mineheaven.org
 127.0.0.1	multipleonlinegahiddenzonline.organiccrap.com
 127.0.0.1	welovebadge.com
-# Number of entries: 20590
+# Number of entries: 20623
