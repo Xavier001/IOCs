@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-21 09:46:39 UTC                        #
+# Last updated: 2025-01-21 11:46:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cf.r8.lc
+127.0.0.1	cf.r8.lc
 127.0.0.1	cf.r8.lc
 127.0.0.1	solve.pvsu.org
 127.0.0.1	cf.r8.lc
@@ -20629,4 +20631,4 @@
 127.0.0.1	vector.mineheaven.org
 127.0.0.1	multipleonlinegahiddenzonline.organiccrap.com
 127.0.0.1	welovebadge.com
-# Number of entries: 20623
+# Number of entries: 20625
