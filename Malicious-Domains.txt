@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-22 09:48:00 UTC                        #
+# Last updated: 2025-01-22 12:03:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	kdjdajdijijff.com
+127.0.0.1	skatteverkett.com
+127.0.0.1	cf.r8.lc
+127.0.0.1	kosha.cbu.net
+127.0.0.1	sendandendco.dynu.net
+127.0.0.1	cf.r8.lc
 127.0.0.1	cf.r8.lc
 127.0.0.1	app.andredenault.com
 127.0.0.1	impolitewearr.biz
@@ -20784,4 +20790,4 @@
 127.0.0.1	cisadhsgov.org
 127.0.0.1	berrebyre.com
 127.0.0.1	filesoftdownload.shop
-# Number of entries: 20778
+# Number of entries: 20784
