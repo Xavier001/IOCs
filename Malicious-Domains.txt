@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-21 21:46:12 UTC                        #
+# Last updated: 2025-01-22 03:46:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cf.r8.lc
+127.0.0.1	cf.r8.lc
+127.0.0.1	cf.r8.lc
+127.0.0.1	cf.r8.lc
+127.0.0.1	cf.r8.lc
+127.0.0.1	cf.r8.lc
 127.0.0.1	cf.r8.lc
 127.0.0.1	cf.r8.lc
 127.0.0.1	tripolexxx.duckdns.org
@@ -20736,5 +20742,4 @@
 127.0.0.1	lihtgyimm.com
 127.0.0.1	c.cnc.gay
 127.0.0.1	xjp.cyberspeed.baby
-127.0.0.1	kennyremcosbelintourismedleonline.gleeze.com
-# Number of entries: 20731
+# Number of entries: 20736
