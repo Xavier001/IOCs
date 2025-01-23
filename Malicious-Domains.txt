@@ -1,11 +1,83 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-23 09:36:59 UTC                        #
+# Last updated: 2025-01-23 11:19:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	chadhrs.no-ip.biz
+127.0.0.1	trickycore.no-ip.org
+127.0.0.1	adnaninhoo.dyndns.biz
+127.0.0.1	philmanutd.zapto.org
+127.0.0.1	wwo.no-ip.info
+127.0.0.1	pknetwork.no-ip.org
+127.0.0.1	owned.icm-bot.com
+127.0.0.1	darkcomet997.no-ip.biz
+127.0.0.1	cool.viruzmafia.info
+127.0.0.1	kees-me.no-ip.org
+127.0.0.1	windows-client.no-ip.info
+127.0.0.1	flooder16.no-ip.biz
+127.0.0.1	thubi45.no-ip.biz
+127.0.0.1	mattrat.no-ip.info
+127.0.0.1	sa3eka.no-ip.info
+127.0.0.1	ssd8769.duckdns.org
+127.0.0.1	clement02.no-ip.info
+127.0.0.1	httpx.serveblog.net
+127.0.0.1	rhysisboss.no-ip.biz
+127.0.0.1	xro.mine.nu
+127.0.0.1	testingman123.zapto.org
+127.0.0.1	ziwaa.no-ip.biz
+127.0.0.1	tizi.no-ip.biz
+127.0.0.1	login1.homeip.net
+127.0.0.1	lancewashere.zapto.org
+127.0.0.1	cuentanoip1.zapto.org
+127.0.0.1	gamehost123.no-ip.biz
+127.0.0.1	jayrat.no-ip.org
+127.0.0.1	hackerdefrance.no-ip.biz
+127.0.0.1	mafia7k.no-ip.info
+127.0.0.1	hftw-srv0.no-ip.biz
+127.0.0.1	aaanoir.no-ip.biz
+127.0.0.1	letmehacku.no-ip.biz
+127.0.0.1	mefroozen.no-ip.biz
+127.0.0.1	sohailsb.no-ip.info
+127.0.0.1	hacker79.no-ip.biz
+127.0.0.1	swagcity.zapto.org
+127.0.0.1	yuotube.brasillojasfisicas.com
+127.0.0.1	virod2.xyz
+127.0.0.1	qjdyugisselle.club
+127.0.0.1	joker-by.no-ip.org
+127.0.0.1	iammb15.no-ip.org
+127.0.0.1	diewcwe.serveirc.com
+127.0.0.1	zoroviejo.no-ip.org
+127.0.0.1	xxxxx6.no-ip.info
+127.0.0.1	bazi1.np-ip.biz
+127.0.0.1	skulaxoinfecty.no-ip.org
+127.0.0.1	silvarizla.zapto.org
+127.0.0.1	djazayer14.no-ip.org
+127.0.0.1	panizahost.no-ip.biz
+127.0.0.1	med0812929.ddns.net
+127.0.0.1	micho.ddns.info
+127.0.0.1	meroelbob213.ddns.net
+127.0.0.1	microsoft.bnctechnology.space
+127.0.0.1	rem.oceanchemexport.co
+127.0.0.1	pst-billion.gl.at.ply.gg
+127.0.0.1	xweb.ddns.net
+127.0.0.1	borc.gleeze.com
+127.0.0.1	haleleeh8iuoty4.duckdns.org
+127.0.0.1	haleleeh8iuoty1.duckdns.org
+127.0.0.1	haleleeh8iuoty3.duckdns.org
+127.0.0.1	haleleeh8iuoty2.duckdns.org
+127.0.0.1	memoki.gleeze.com
+127.0.0.1	recoxxx.work.gd
+127.0.0.1	judicial.con-ip.com
+127.0.0.1	yellow-parts.gl.at.ply.gg
+127.0.0.1	x75tjpwatl2uyunijiq6jwqhlar3j5fkpi5optv7tfreijbpylwnnbqd.onion
+127.0.0.1	rayanneaa-47070.portmap.host
+127.0.0.1	notthesigma-40903.portmap.host
+127.0.0.1	webidir878-46130.portmap.io
+127.0.0.1	feb-arrested.gl.at.ply.gg
+127.0.0.1	hxp7-48924.portmap.host
 127.0.0.1	sinobz.com
 127.0.0.1	rystrom.com
 127.0.0.1	viagrapillerpris.top
@@ -20895,5 +20967,4 @@
 127.0.0.1	insurance-helmet.gl.at.ply.gg
 127.0.0.1	knoxvillevideoproductions.com
 127.0.0.1	peleinufele.kozow.com
-127.0.0.1	components-resort.gl.at.ply.gg
-# Number of entries: 20890
+# Number of entries: 20961
