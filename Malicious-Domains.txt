@@ -1,11 +1,31 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-22 22:09:51 UTC                        #
+# Last updated: 2025-01-23 04:04:26 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	market-streams.com
+127.0.0.1	video.on-demand.market-streams.com
+127.0.0.1	cloud.services.market-streams.com
+127.0.0.1	static.nowdealtech.online
+127.0.0.1	m.nowdealtech.online
+127.0.0.1	thirtyss13sb.top
+127.0.0.1	twelvpp12vs.top
+127.0.0.1	twenss20sb.top
+127.0.0.1	elevenqq11vt.top
+127.0.0.1	tenvv10fr.top
+127.0.0.1	elevenpp11vs.top
+127.0.0.1	tenii10vt.top
+127.0.0.1	niness9sb.top
+127.0.0.1	ninevv9fr.top
+127.0.0.1	oness1sb.top
+127.0.0.1	tenpp10vs.top
+127.0.0.1	tenuu10th.top
+127.0.0.1	thirteuu12th.top
+127.0.0.1	twelvii12vt.top
+127.0.0.1	versedkinfe.sbs
 127.0.0.1	reflecpolit.shop
 127.0.0.1	markedgroud.shop
 127.0.0.1	it-ords.ru
@@ -20833,4 +20853,4 @@
 127.0.0.1	overclockingmachines.info
 127.0.0.1	jdd.nimade.top
 127.0.0.1	trinnodolart.com
-# Number of entries: 20827
+# Number of entries: 20847
