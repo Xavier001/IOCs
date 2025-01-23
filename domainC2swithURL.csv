@@ -1,5 +1,4 @@
 #domain,ioc,uri_path
-0sbs.sbs,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 1.thecameleonhotel.com,Possible Cobalt Strike C2 Domain,/dpixel
 24-692.wpsconnect.org,Possible Cobalt Strike C2 Domain,/wp-content/themes/am43-6/dist/records
 36.tcp.cpolar.top,Possible Cobalt Strike C2 Fronted Domain,/image/
@@ -18,12 +17,15 @@ api.co-operativefinance.com,Possible Cobalt Strike C2 Domain,/push
 api.freeresolver.online,Possible Cobalt Strike C2 Domain,/portes-ouvertes/fiche/7362
 api.googleshop.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 api.nbcbcheck.xyz,Possible Cobalt Strike C2 Domain,/index.html
+api.uploads.winhomesky.com,Possible Cobalt Strike C2 Domain,/GovSistema/76e6f4821267ec98f94336ad5c500b21/download
+api.uploads.winhomesky.com,Possible Cobalt Strike C2 Domain,/GovSistema/df99cc8531d153f4cde6e1661cf2bf2e/download
 api.wlndows.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 apiapi.fdsfdsdfdsf.co,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 at1.227api.com,Possible Cobalt Strike C2 Domain,/updates.rss
 at2.227api.com,Possible Cobalt Strike C2 Domain,/g.pixel
 at3.227api.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 baidu.611110.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+buy.localhost-microsoft.com,Possible Cobalt Strike C2 Domain,/cx
 c2.baidu.com,Possible Cobalt Strike C2 Domain,/api/getit
 c2.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/images/c/5/0/9/favicon.png
 c2.tunneltest.store,Possible Cobalt Strike C2 Domain,/en_US/all.js
@@ -148,8 +150,9 @@ s9fgwavt7mh9.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x
 scan.daztar.com,Possible Cobalt Strike C2 Domain,/dot.gif
 sertificationgameconnect.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login
+service-jnajkkdg-1318687485.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Forge/static/HULNWCWI
 sexy.sex666vr.com,Possible Cobalt Strike C2 Domain,/heatmaps/fleshlights/6407/2467/4437aa96434ade021bef08371cf2ea22
-skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/en_US/all.js
+skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/fwlink
 somehost.p0c.xyz,Possible Cobalt Strike C2 Domain,/__utm.gif
 sosgo.top,Possible Cobalt Strike C2 Domain,/__utm.gif
 static.usesless.com,Possible Cobalt Strike C2 Fronted Domain,/gateway/api/user
@@ -184,4 +187,5 @@ www.sftech.one,Possible Cobalt Strike C2 Domain,/antDesign3.js
 www.windcapital.click,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 wysylkaonline.info,Possible Cobalt Strike C2 Domain,/cx
 zako.da1suki.com,Possible Cobalt Strike C2 Domain,/us
+zmrsk9b7ub.execute-api.us-east-1.amazonaws.com,Possible Cobalt Strike C2 Domain,/api/fetch
 zxsmartauto.com,Possible Cobalt Strike C2 Fronted Domain,/gateway/api/user
