@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-24 09:41:35 UTC                        #
+# Last updated: 2025-01-24 12:23:33 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bot.dstat.ovh
+127.0.0.1	travelbrands.onboarding-support.com
+127.0.0.1	indybike.shop
+127.0.0.1	xmm.register.below
+127.0.0.1	cimedaorb.pw
+127.0.0.1	dluow.pw
+127.0.0.1	gnirra.pw
 127.0.0.1	bienvenidoperezlora.kozow.com
 127.0.0.1	carmenduranlora09.ddnsgeek.com
 127.0.0.1	francesdomingueslora09.gleeze.com
@@ -21172,5 +21179,4 @@
 127.0.0.1	office-adr.com
 127.0.0.1	troia23.duckdns.org
 127.0.0.1	denaumtz.com
-127.0.0.1	sticky.oystergardening.name
-# Number of entries: 21167
+# Number of entries: 21173

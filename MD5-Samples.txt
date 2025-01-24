@@ -1,12 +1,29 @@
 ################################################################
 # MalwareBazaar recent malware samples (MD5 hashes)            #
-# Last updated: 2025-01-24 09:19:40 UTC                        #
+# Last updated: 2025-01-24 11:11:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://bazaar.abuse.ch/faq/#tos               #
 # For questions please contact bazaar [at] abuse.ch            #
 ################################################################
 #
 # md5_hash
+76198ff3314a1f83526090ae533cb3a4
+7bb9b3ea882db648578ea396a9a8cec5
+8dec29815057a4abc52cc79dc27fc8dc
+c748a946a965fc9cb9547c30d3ae887a
+24c952440edf146f380736832641fa8c
+1bef77b3f654717ca72278f3c6db4f3f
+ca845402a45535422bff2ddef776c7e6
+5da78700e7f4f4dfd45fd59263a1a055
+6f2fd7dc28eb520e1228f792de11fed5
+d5b08e8c1454119ac98b2fb0e2c9a6f1
+85ba064da4e6ed757b263f4135fd98be
+0104b2a55eedd07b5d9e06f174705e29
+d598a6592339cb4419e9ee0099c3bc55
+13a95081a8319891f9a9c4d0382de39a
+3bab0bc93c5412bb6fd8a2deff636537
+783f7905ed7e683c128c1e484cffbf63
+6383cf3c93cdfea8b68bfa1d99eefec2
 bb7d48936734655a82ca365cead76f72
 16c81b8c58c14f32f24a213d03646fb5
 4d129d3099767f2b9b7976c850501b2f
@@ -948,31 +965,4 @@ af0ba4a8f27ff0329e2fb07b151d56aa
 cc178f2bdad97639388bb899e467debf
 44c53815bb1e3e73a9a9efd6f8313e12
 319c0c96d2317eadf4271f5149edea3a
-33ab50c5a076aad3571dd3c9d32c6e6a
-9d26632869c493a9ed8a9c8ab19134ba
-2592cd3458c6a5c7139f9a3fa0068071
-c462d6a698a68d09fd332986ab175aab
-01bdee2c19196a0e93aaf2b633da3661
-2531f93c717bd23f8f53eadf31df0cd0
-a245b19524d61c8560e5bb433456cb76
-d7bb53d5f402eb1aa5d555c9ac779cbd
-da1e3ed385253d6e5b5ed7ddd20d69b6
-481066b187e9ab0bd00da7f8728282c0
-8c2317813d5f763867f1f4170dcd81d9
-6eff3e7c13d062d5b2255fa2fc224dce
-7f6b9b8bebd2aa74fbb6d09dfe05fa70
-8e08365e4f88c7227259c919e808732f
-64c1378b35b9401126e2c88680402af4
-f63130cf52f9fc4a2ea94bf3c6f838ea
-85d801888c83fea08767b5598ea125fb
-57a9f195afc0c3689f41b2ff337836f1
-96534a71f4866c5e10d16b0c076516a8
-6f0b9dbca9acf438df940e429ec03d81
-ae60ddd67eacf621cdf0bd0121b9326d
-a3d25a3e25f33499edc8cedd2b6200da
-afa2a38ab640726c69facfff4004bcfa
-df85a6fea907176063e6dc8ad2888bfb
-51977be387d207323fcccca465c5b299
-56521f311394ad002a316f3781520f2e
-cb0e3d5106fcdbbd2fd674b902e31226
-# Number of entries: 968
+# Number of entries: 958
