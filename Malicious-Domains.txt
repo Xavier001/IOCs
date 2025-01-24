@@ -1,11 +1,51 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-24 00:04:28 UTC                        #
+# Last updated: 2025-01-24 09:41:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bienvenidoperezlora.kozow.com
+127.0.0.1	carmenduranlora09.ddnsgeek.com
+127.0.0.1	francesdomingueslora09.gleeze.com
+127.0.0.1	marcelodosantoslora09.loseyourip.com
+127.0.0.1	panel.daudau.org
+127.0.0.1	closecaption.duckdns.org
+127.0.0.1	blastapi.org
+127.0.0.1	luumu.cfd
+127.0.0.1	vnuefff555hr.top
+127.0.0.1	hjbamcnnkmfjbld.top
+127.0.0.1	kmchelkmbjmifdk.top
+127.0.0.1	afglgehgjgjmgdh.top
+127.0.0.1	customer.aaddigitalstrategies.com
+127.0.0.1	amazingmassivei.shop
+127.0.0.1	unicorntop.top
+127.0.0.1	creativemindtop.top
+127.0.0.1	kuishei.top
+127.0.0.1	ecs-113-45-198-61.compute.hwclouds-dns.com
+127.0.0.1	224.185.60.34.bc.googleusercontent.com
+127.0.0.1	teams-live.com
+127.0.0.1	trademarks-notify.gl.at.ply.gg
+127.0.0.1	fortunec2.fun
+127.0.0.1	awiero-42728.portmap.host
+127.0.0.1	stair585.com
+127.0.0.1	api.bfl.bunifu.io
+127.0.0.1	bunifuframework.com
+127.0.0.1	juansira.mywire.org
+127.0.0.1	manifest0000000backup.duckdns.org
+127.0.0.1	manifestbackup.freemyip.com
+127.0.0.1	ssldns00000000000.duckdns.org
+127.0.0.1	abeangana.duckdns.org
+127.0.0.1	raw.awaken-network.net
+127.0.0.1	resbot.online
+127.0.0.1	foxpartsearch.com
+127.0.0.1	iamther.org
+127.0.0.1	labadegmc.com
+127.0.0.1	losived.host
+127.0.0.1	priolonis.host
+127.0.0.1	whoisther.com
+127.0.0.1	royalsailtravel.ru
 127.0.0.1	outlook.microsoft-onedrive.upgrade1.zip
 127.0.0.1	buy.localhost-microsoft.com
 127.0.0.1	solve.haxy.org
@@ -21133,5 +21173,4 @@
 127.0.0.1	troia23.duckdns.org
 127.0.0.1	denaumtz.com
 127.0.0.1	sticky.oystergardening.name
-127.0.0.1	insurance-helmet.gl.at.ply.gg
-# Number of entries: 21128
+# Number of entries: 21167
