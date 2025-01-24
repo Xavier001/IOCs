@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-23 20:47:35 UTC                        #
+# Last updated: 2025-01-24 00:04:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	outlook.microsoft-onedrive.upgrade1.zip
 127.0.0.1	buy.localhost-microsoft.com
 127.0.0.1	solve.haxy.org
 127.0.0.1	electrun.is
@@ -21133,4 +21134,4 @@
 127.0.0.1	denaumtz.com
 127.0.0.1	sticky.oystergardening.name
 127.0.0.1	insurance-helmet.gl.at.ply.gg
-# Number of entries: 21127
+# Number of entries: 21128
