@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-25 08:04:53 UTC                        #
+# Last updated: 2025-01-25 12:04:31 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ecs-121-36-198-211.compute.hwclouds-dns.com
 127.0.0.1	navylk.webmailarmy.com
 127.0.0.1	ww5.fithiphealthy.com
 127.0.0.1	showviteadobe.com
@@ -21406,4 +21407,4 @@
 127.0.0.1	packedbrick.com
 127.0.0.1	imc1.top
 127.0.0.1	novidadesfresquinhas.online
-# Number of entries: 21400
+# Number of entries: 21401
