@@ -1,11 +1,83 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-25 12:04:31 UTC                        #
+# Last updated: 2025-01-25 20:04:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	updates.e-formsonline.com
+127.0.0.1	lginchimfgfckeb.top
+127.0.0.1	fantazy.space
+127.0.0.1	botnet.fantazy.space
+127.0.0.1	3x3.casacam.net
+127.0.0.1	temp.opal.wtf
+127.0.0.1	ngoklene.duckdns.org
+127.0.0.1	discotek.duckdns.org
+127.0.0.1	coinbasecrashout.ddns.net
+127.0.0.1	saleselma.freemyip.com
+127.0.0.1	deadpoolstart2026.duckdns.org
+127.0.0.1	pctrabajonuevo2.casacam.net
+127.0.0.1	safe-synopsis.gl.at.ply.gg
+127.0.0.1	c0mer.publicvm.com
+127.0.0.1	defined-licenses.gl.at.ply.gg
+127.0.0.1	up-mixed.gl.at.ply.gg
+127.0.0.1	story-earthquake.gl.at.ply.gg
+127.0.0.1	accessories-fame.gl.at.ply.gg
+127.0.0.1	logo-kerry.gl.at.ply.gg
+127.0.0.1	why-familiar.gl.at.ply.gg
+127.0.0.1	jamesbond123123-40026.portmap.host
+127.0.0.1	warning-found.gl.at.ply.gg
+127.0.0.1	reference-roll.gl.at.ply.gg
+127.0.0.1	success-evans.gl.at.ply.gg
+127.0.0.1	oil-calculated.gl.at.ply.gg
+127.0.0.1	window-prize.gl.at.ply.gg
+127.0.0.1	uk-theory.gl.at.ply.gg
+127.0.0.1	ring-cj.gl.at.ply.gg
+127.0.0.1	solve.xgnv.org
+127.0.0.1	such-five.gl.at.ply.gg
+127.0.0.1	take-continually.gl.at.ply.gg
+127.0.0.1	g-submit.gl.at.ply.gg
+127.0.0.1	window-prize.gl.ply.gg
+127.0.0.1	christian-betting.gl.at.ply.gg
+127.0.0.1	cities-annex.gl.at.ply.gg
+127.0.0.1	wood-matches.gl.at.ply.gg
+127.0.0.1	you-cigarette.gl.at.ply.gg
+127.0.0.1	recent-keywords.gl.at.ply.gg
+127.0.0.1	match-remedies.gl.at.ply.gg
+127.0.0.1	cost-hughes.gl.at.ply.gg
+127.0.0.1	look-omega.gl.at.ply.gg
+127.0.0.1	sanek416-59257.portmap.host
+127.0.0.1	modified-begun.gl.at.ply.gg
+127.0.0.1	republic-python.gl.at.ply.gg
+127.0.0.1	so-trek.gl.at.ply.gg
+127.0.0.1	built-among.gl.at.ply.gg
+127.0.0.1	sunday-chronicle.gl.at.ply.gg
+127.0.0.1	axaxdad.ydns.eu
+127.0.0.1	meme.linkpc.net
+127.0.0.1	recaptha-verify-5q.pages.dev
+127.0.0.1	flockefaccek.org
+127.0.0.1	guardeduppe.com
+127.0.0.1	babberstalek.org
+127.0.0.1	climepunneddus.com
+127.0.0.1	classyhelped.net
+127.0.0.1	carrystuppeder.net
+127.0.0.1	rebuildhurrte.com
+127.0.0.1	kgbhostpro.duckdns.org
+127.0.0.1	veronicafola.ddns.net
+127.0.0.1	pics-accessory.gl.at.ply.gg
+127.0.0.1	jokernjrat.ddns.net
+127.0.0.1	bot.floppaonyou.fr
+127.0.0.1	space.richstressop.cloud
+127.0.0.1	cuproomymis.top
+127.0.0.1	weighcobbweo.top
+127.0.0.1	adventurestoptop.top
+127.0.0.1	hojex31104-23437.portmap.host
+127.0.0.1	thatsofar.top
+127.0.0.1	cutlej02.top
+127.0.0.1	dwnwz6ywujerd.cloudfront.net
+127.0.0.1	mint-stealer.sh
+127.0.0.1	support.sftech.one
 127.0.0.1	ecs-121-36-198-211.compute.hwclouds-dns.com
 127.0.0.1	navylk.webmailarmy.com
 127.0.0.1	ww5.fithiphealthy.com
@@ -21403,8 +21475,4 @@
 127.0.0.1	subtitle42.duckdns.org
 127.0.0.1	thomas-partly.gl.at.ply.gg
 127.0.0.1	id-diesel.gl.at.ply.gg
-127.0.0.1	soft-download123file.xyz
-127.0.0.1	packedbrick.com
-127.0.0.1	imc1.top
-127.0.0.1	novidadesfresquinhas.online
-# Number of entries: 21401
+# Number of entries: 21469
