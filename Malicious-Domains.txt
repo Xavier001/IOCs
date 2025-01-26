@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-26 10:03:54 UTC                        #
+# Last updated: 2025-01-26 12:04:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	annetteborn.info
 127.0.0.1	fizzysu.sbs
 127.0.0.1	consisbelkju.cyou
 127.0.0.1	accidenfaithyh.cyou
@@ -21615,5 +21616,4 @@
 127.0.0.1	method890.ddns.net
 127.0.0.1	overstockads.com
 127.0.0.1	canroura.com
-127.0.0.1	megasena777.top
 # Number of entries: 21610
