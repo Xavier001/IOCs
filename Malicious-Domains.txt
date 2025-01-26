@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-25 20:04:58 UTC                        #
+# Last updated: 2025-01-26 04:04:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cpcontacts.fithiphealthy.com
+127.0.0.1	mail.185-196-8-68.cprapid.com
+127.0.0.1	testeold.duckdns.org
+127.0.0.1	server.omidnerd.ir
+127.0.0.1	khs.parkeermijnsite.nl
+127.0.0.1	nfcuaccounthelp.net
+127.0.0.1	ns2.nactrace.com
+127.0.0.1	ns1.nactrace.com
 127.0.0.1	updates.e-formsonline.com
 127.0.0.1	lginchimfgfckeb.top
 127.0.0.1	fantazy.space
@@ -21475,4 +21483,4 @@
 127.0.0.1	subtitle42.duckdns.org
 127.0.0.1	thomas-partly.gl.at.ply.gg
 127.0.0.1	id-diesel.gl.at.ply.gg
-# Number of entries: 21469
+# Number of entries: 21477
