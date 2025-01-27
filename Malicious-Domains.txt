@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-27 08:04:46 UTC                        #
+# Last updated: 2025-01-27 12:04:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bparibas-oppositions.com
+127.0.0.1	shpylink.com
+127.0.0.1	kobo2025rmc.duckdns.org
+127.0.0.1	roblox.airdns.org
+127.0.0.1	gregarded.website
+127.0.0.1	poperitte.host
+127.0.0.1	suprecien.host
+127.0.0.1	wedrain.buzz
 127.0.0.1	webdisk.fithiphealthy.com
 127.0.0.1	cogenius.no-ip.biz
 127.0.0.1	bluthusten.no-ip.org
@@ -21690,4 +21698,4 @@
 127.0.0.1	2024remcmon.duckdns.org
 127.0.0.1	card25.con-ip.com
 127.0.0.1	method890.ddns.net
-# Number of entries: 21684
+# Number of entries: 21692
