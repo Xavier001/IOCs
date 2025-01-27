@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-26 21:58:31 UTC                        #
+# Last updated: 2025-01-27 04:04:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mail.fithiphealthy.com
+127.0.0.1	caa9.ecologyqf.com
+127.0.0.1	www.comitia.online
 127.0.0.1	phobicharmno.shop
 127.0.0.1	leerborisup.shop
 127.0.0.1	a1076119.xsph.ru
@@ -21640,4 +21643,4 @@
 127.0.0.1	2024remcmon.duckdns.org
 127.0.0.1	card25.con-ip.com
 127.0.0.1	method890.ddns.net
-# Number of entries: 21634
+# Number of entries: 21637
