@@ -1,11 +1,32 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-29 12:13:22 UTC                        #
+# Last updated: 2025-01-29 18:56:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	thrtrr13pn.top
+127.0.0.1	twntkk20vs.top
+127.0.0.1	fortkk14vs.top
+127.0.0.1	fvkk5vs.top
+127.0.0.1	twntww20vt.top
+127.0.0.1	twntrr20pn.top
+127.0.0.1	frtrr14pn.top
+127.0.0.1	smiteattacekr.org
+127.0.0.1	rollinsccred.biz
+127.0.0.1	greatrabbid.biz
+127.0.0.1	titlewoundyb.cyou
+127.0.0.1	stematockeoff.shop
+127.0.0.1	f1079650.xsph.ru
+127.0.0.1	cm38152.tw1.ru
+127.0.0.1	fiveww5vt.top
+127.0.0.1	b-need-for-speed.online
+127.0.0.1	huloar.live
+127.0.0.1	colyfigo55.hopto.org
+127.0.0.1	patientlo.top
+127.0.0.1	piloferstaf.com
+127.0.0.1	ypredoninen.com
 127.0.0.1	akmcons.com
 127.0.0.1	vps-zap984637-1.zap-srv.com
 127.0.0.1	solve.eyuy.org
@@ -21819,6 +21840,4 @@
 127.0.0.1	www.91exploit.buzz
 127.0.0.1	botconnect.lmanber.xyz
 127.0.0.1	purinex.co.id
-127.0.0.1	astronomicspace.com
-127.0.0.1	pulgetirmene.duckdns.org
-# Number of entries: 21815
+# Number of entries: 21834
