@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-29 09:25:39 UTC                        #
+# Last updated: 2025-01-29 12:13:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	akmcons.com
+127.0.0.1	vps-zap984637-1.zap-srv.com
+127.0.0.1	solve.eyuy.org
 127.0.0.1	solve.uayy.org
 127.0.0.1	solve.yiie.org
 127.0.0.1	emorista.org
@@ -21818,4 +21821,4 @@
 127.0.0.1	purinex.co.id
 127.0.0.1	astronomicspace.com
 127.0.0.1	pulgetirmene.duckdns.org
-# Number of entries: 21812
+# Number of entries: 21815
