@@ -1,11 +1,43 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-30 10:46:54 UTC                        #
+# Last updated: 2025-01-30 22:05:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	69nk69.linkpc.net
+127.0.0.1	tenww10vt.top
+127.0.0.1	tenrr10pn.top
+127.0.0.1	elvngg11th.top
+127.0.0.1	tennisincl.com
+127.0.0.1	kubekuqyeud.biz
+127.0.0.1	mistreanranger.biz
+127.0.0.1	warmconfuse.biz
+127.0.0.1	carcookect.shop
+127.0.0.1	ponos22834.mywebcommunity.org
+127.0.0.1	dvvldvvz.beget.tech
+127.0.0.1	f1077757.xsph.ru
+127.0.0.1	a0909123.xsph.ru
+127.0.0.1	jumaisimba.x10.mx
+127.0.0.1	f1080003.xsph.ru
+127.0.0.1	elvnww11vt.top
+127.0.0.1	thrtgg13th.top
+127.0.0.1	lavoslegend-45873.portmap.host
+127.0.0.1	our-sw.gl.at.ply.gg
+127.0.0.1	story-blacks.gl.at.ply.gg
+127.0.0.1	fax-costumes.gl.at.ply.gg
+127.0.0.1	h1.redethics.es
+127.0.0.1	gray-horse-56758.zap.cloud
+127.0.0.1	ns1.rightyellow.com
+127.0.0.1	ns.rightyellow.com
+127.0.0.1	dns.rightyellow.com
+127.0.0.1	dedicated-zap1145577-1.zap-srv.com
+127.0.0.1	webmail.ebuildingsource.com
+127.0.0.1	thebeautylovelytop.top
+127.0.0.1	traveladdicts.top
+127.0.0.1	dkdrlahhwlxptmxm2.p-e.kr
+127.0.0.1	kanikiken.duckdns.org
 127.0.0.1	www.imples.live
 127.0.0.1	www.lapostehotel.one
 127.0.0.1	www.ft0722a9usj38.shop
@@ -21818,12 +21850,4 @@
 127.0.0.1	suburand.com
 127.0.0.1	rebistars.com
 127.0.0.1	myanswerpronto.com
-127.0.0.1	imtokcn.org
-127.0.0.1	megabahis664.com
-127.0.0.1	losttwister.com
-127.0.0.1	velellablue.com
-127.0.0.1	blacksaltys.com
-127.0.0.1	brickedpack.com
-127.0.0.1	bymett.com
-127.0.0.1	bluetreewater.com
-# Number of entries: 21820
+# Number of entries: 21844
