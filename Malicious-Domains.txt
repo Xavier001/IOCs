@@ -1,11 +1,34 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-31 12:10:24 UTC                        #
+# Last updated: 2025-01-31 21:05:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cloud-mail.ink
+127.0.0.1	lookup.ink
+127.0.0.1	background-services.net
+127.0.0.1	automation-embedding.com
+127.0.0.1	retaildemo.info
+127.0.0.1	enrollmentdm.com
+127.0.0.1	underwearshopfor.com
+127.0.0.1	rss-feed-monitoring.com
+127.0.0.1	futuresfurnitures.com
+127.0.0.1	lanmangraphics.com
+127.0.0.1	errorreporting.net
+127.0.0.1	internalsecurity.us
+127.0.0.1	tieringservice.com
+127.0.0.1	theeyefirewall.su
+127.0.0.1	helpdesk.technicalsecurityops.org
+127.0.0.1	gameofthronesmemes.top
+127.0.0.1	www.caravanehamburg.de
+127.0.0.1	nicekboupdatedgood.duckdns.org
+127.0.0.1	enviameplata.kozow.com
+127.0.0.1	getyour.cyou
+127.0.0.1	solve.qabi.org
+127.0.0.1	office.miicrosofts.org
+127.0.0.1	www.gzxingyu.cloud
 127.0.0.1	change-harvest.gl.at.ply.gg
 127.0.0.1	urabotnet.duckdns.org
 127.0.0.1	geraatualiza.com
@@ -23909,5 +23932,4 @@
 127.0.0.1	richwoodgrill.com
 127.0.0.1	suburand.com
 127.0.0.1	rebistars.com
-127.0.0.1	myanswerpronto.com
-# Number of entries: 23904
+# Number of entries: 23926
