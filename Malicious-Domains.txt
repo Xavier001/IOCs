@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-01-31 21:05:09 UTC                        #
+# Last updated: 2025-02-01 00:01:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	acctcdn.miicrosofts.org
+127.0.0.1	react.miicrosofts.org
+127.0.0.1	img6.miicrosofts.org
+127.0.0.1	kara2000.info
+127.0.0.1	viperoleplay.net
+127.0.0.1	wehelpgood.xyz
+127.0.0.1	js.sfqj321.buzz
 127.0.0.1	cloud-mail.ink
 127.0.0.1	lookup.ink
 127.0.0.1	background-services.net
@@ -23930,6 +23937,4 @@
 127.0.0.1	normalverkehr.com
 127.0.0.1	abeparanormal.com
 127.0.0.1	richwoodgrill.com
-127.0.0.1	suburand.com
-127.0.0.1	rebistars.com
-# Number of entries: 23926
+# Number of entries: 23931
