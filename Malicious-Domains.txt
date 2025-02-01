@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-01 09:07:57 UTC                        #
+# Last updated: 2025-02-01 12:01:16 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	118.ip-217-182-77.eu
+127.0.0.1	lovelythoughtstop.top
+127.0.0.1	ecofriendlyhometop.top
+127.0.0.1	mainworkapp.com
+127.0.0.1	home.fivegg5th.top
+127.0.0.1	fivegg5th.top
 127.0.0.1	ffjihcnfkhihlmd.top
 127.0.0.1	lbnfbehmicmkceh.top
 127.0.0.1	webmail.fithiphealthy.com
@@ -23799,4 +23805,4 @@
 127.0.0.1	dais7nsa.lol
 127.0.0.1	muchodinerohoy.con-ip.com
 127.0.0.1	elmauz.freemyip.com
-# Number of entries: 23793
+# Number of entries: 23799
