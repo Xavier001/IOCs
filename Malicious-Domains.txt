@@ -1,11 +1,61 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-02 08:01:29 UTC                        #
+# Last updated: 2025-02-02 21:24:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	parcelinn.com
+127.0.0.1	secure.miicrosofts.org
+127.0.0.1	rivalillicitlytransfer.shop
+127.0.0.1	mac-only.team
+127.0.0.1	solve.nrxk.org
+127.0.0.1	loud-states-matter.loca.lt
+127.0.0.1	are-though.gl.at.ply.gg
+127.0.0.1	memesense.xyz
+127.0.0.1	runnedarred.com
+127.0.0.1	weartemptr.biz
+127.0.0.1	worshipstrar.biz
+127.0.0.1	xenoporren.biz
+127.0.0.1	zoomsedat.biz
+127.0.0.1	peacesallyek.biz
+127.0.0.1	railwaiberred.biz
+127.0.0.1	shakeiarrep.biz
+127.0.0.1	slimdresser.biz
+127.0.0.1	springobtainn.biz
+127.0.0.1	thangolekke.biz
+127.0.0.1	versesoffe.biz
+127.0.0.1	hatesomeber.biz
+127.0.0.1	homellygage.biz
+127.0.0.1	maintainhaat.biz
+127.0.0.1	mannyrahse.biz
+127.0.0.1	operregula.biz
+127.0.0.1	overttriter.biz
+127.0.0.1	drinkeracte.biz
+127.0.0.1	aromaticridz.biz
+127.0.0.1	answerzeypher.biz
+127.0.0.1	wanyajarysu.click
+127.0.0.1	humdrumviosl.click
+127.0.0.1	securesways.click
+127.0.0.1	subduedkinlkly.shop
+127.0.0.1	dcrat1337.atwebpages.com
+127.0.0.1	chwerfw63932.macan.chost.com.ua
+127.0.0.1	tzsixt16sb.top
+127.0.0.1	tzthirt13sb.top
+127.0.0.1	cveight8ht.top
+127.0.0.1	yunger.ddns.cam
+127.0.0.1	uthinker.ddns.cam
+127.0.0.1	bctabsogebtmoutsgs.duckdns.org
+127.0.0.1	deabcbecaconmougot.duckdns.org
+127.0.0.1	trumpsha.mypi.co
+127.0.0.1	usaa.miicrosofts.org
+127.0.0.1	postpix.shop
+127.0.0.1	solve.rlvw.org
+127.0.0.1	late-outdoors.gl.at.ply.gg
+127.0.0.1	bin-mud.gl.at.ply.gg
+127.0.0.1	babamirai31.duckdns.org
+127.0.0.1	service-rchqbzvz-1301033415.sh.tencentapigw.com
 127.0.0.1	solve.vsdd.org
 127.0.0.1	table-hon.gl.at.ply.gg
 127.0.0.1	mm.underarmpresumingsubscript.shop
@@ -26966,5 +27016,4 @@
 127.0.0.1	instalaymantiene.com
 127.0.0.1	kelownahomerenovations.com
 127.0.0.1	tophooks.org
-127.0.0.1	health-wants.gl.at.ply.gg
-# Number of entries: 26961
+# Number of entries: 27010
