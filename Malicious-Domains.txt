@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-01 22:00:09 UTC                        #
+# Last updated: 2025-02-02 04:01:26 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ec2-18-170-59-177.eu-west-2.compute.amazonaws.com
+127.0.0.1	wcpstatic.miicrosofts.org
+127.0.0.1	ulgroup.miicrosofts.org
+127.0.0.1	hedra.app-tools.info
+127.0.0.1	goody.work.gd
+127.0.0.1	nas.miuiwang.cn
+127.0.0.1	nino.nakano.top
 127.0.0.1	cats-master.ru
 127.0.0.1	cats-are-cute.ru
 127.0.0.1	cuttiecats.ru
@@ -26961,6 +26968,4 @@
 127.0.0.1	ichiupdate.lat
 127.0.0.1	dais7nsa.pics
 127.0.0.1	dais7nsa.lol
-127.0.0.1	muchodinerohoy.con-ip.com
-127.0.0.1	elmauz.freemyip.com
-# Number of entries: 26957
+# Number of entries: 26962
