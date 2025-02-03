@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-02 21:24:02 UTC                        #
+# Last updated: 2025-02-03 00:01:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mmcapi.miicrosofts.org
+127.0.0.1	adviseur.adviseur-oakk.nl
+127.0.0.1	p1.hamsterservers.boats
+127.0.0.1	pool-1.hamsterservers.boats
 127.0.0.1	parcelinn.com
 127.0.0.1	secure.miicrosofts.org
 127.0.0.1	rivalillicitlytransfer.shop
@@ -27012,8 +27016,4 @@
 127.0.0.1	taysour6lakut2.duckdns.org
 127.0.0.1	nickman12-46565.portmap.io
 127.0.0.1	ovh.atproxy.xyz
-127.0.0.1	expertoenexcel.com
-127.0.0.1	instalaymantiene.com
-127.0.0.1	kelownahomerenovations.com
-127.0.0.1	tophooks.org
 # Number of entries: 27010
