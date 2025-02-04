@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-03 19:44:51 UTC                        #
+# Last updated: 2025-02-04 04:01:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.api-livinglifeforfun.shop
+127.0.0.1	coolodyinvest.com
 127.0.0.1	rdtgtdrgfd-56277.portmap.host
 127.0.0.1	cnc.kotomari-vn.dev
 127.0.0.1	srv.vlrt-gap.com
@@ -27211,5 +27213,4 @@
 127.0.0.1	cloud.tnewstraffic.com
 127.0.0.1	secure.gdcstatic.com
 127.0.0.1	synd.edgecdnc.com
-127.0.0.1	top.enkey.xyz
-# Number of entries: 27206
+# Number of entries: 27207
