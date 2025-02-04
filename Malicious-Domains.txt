@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-04 09:17:53 UTC                        #
+# Last updated: 2025-02-04 12:01:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	laughing-mendeleev.45-156-85-63.plesk.page
+127.0.0.1	www.adobeexplorer.com
+127.0.0.1	detuthi.duckdns.org
+127.0.0.1	trfsgysu28opask02.duckdns.org
 127.0.0.1	solve.vyzu.digital
 127.0.0.1	solve.reqy.digital
 127.0.0.1	solve.zera.bet
@@ -27297,4 +27301,4 @@
 127.0.0.1	cloud.tnewstraffic.com
 127.0.0.1	secure.gdcstatic.com
 127.0.0.1	synd.edgecdnc.com
-# Number of entries: 27291
+# Number of entries: 27295
