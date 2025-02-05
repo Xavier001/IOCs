@@ -1,11 +1,25 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-05 09:28:57 UTC                        #
+# Last updated: 2025-02-05 12:06:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	storeagroculturnaya.ru
+127.0.0.1	summerbag.icu
+127.0.0.1	hotfriction.xyz
+127.0.0.1	access-expenses.gl.at.ply.gg
+127.0.0.1	creatednewauthorstarting.duckdns.org
+127.0.0.1	rooom.zapto.org
+127.0.0.1	check.hobx.run
+127.0.0.1	check.pesa.run
+127.0.0.1	check.lyvc.run
+127.0.0.1	check.munz.run
+127.0.0.1	check.socu.run
+127.0.0.1	check.tugy.run
+127.0.0.1	check.vyrh.run
+127.0.0.1	check.xecy.run
 127.0.0.1	check.xyms.run
 127.0.0.1	strows.info
 127.0.0.1	ssdru.info
@@ -27513,4 +27527,4 @@
 127.0.0.1	didsit.com
 127.0.0.1	kaitenc2.de
 127.0.0.1	writeindia.com
-# Number of entries: 27507
+# Number of entries: 27521
