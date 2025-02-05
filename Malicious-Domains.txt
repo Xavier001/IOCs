@@ -1,11 +1,38 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-05 04:01:36 UTC                        #
+# Last updated: 2025-02-05 09:28:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	check.xyms.run
+127.0.0.1	strows.info
+127.0.0.1	ssdru.info
+127.0.0.1	check.wozy.site
+127.0.0.1	check.zyfu.site
+127.0.0.1	check.pylo.site
+127.0.0.1	check.jefx.shop
+127.0.0.1	breakingthroughs.freemyip.com
+127.0.0.1	travelingwealth.duckdns.org
+127.0.0.1	newsite.iapmd.org
+127.0.0.1	natureinspirged.top
+127.0.0.1	alhocobser.digital
+127.0.0.1	certain-advanced.gl.at.ply.gg
+127.0.0.1	discussion-ix.gl.at.ply.gg
+127.0.0.1	phoenixsoulpeace.shop
+127.0.0.1	server-5-252-178-137.da.direct
+127.0.0.1	www.gallant-pike.45-77-153-108.plesk.page
+127.0.0.1	elevatorretreat.shop
+127.0.0.1	check.puvt.run
+127.0.0.1	mj2025.ddns.net
+127.0.0.1	good-engaged.at.playit.gg
+127.0.0.1	supportinformtion.serveirc.com
+127.0.0.1	agdsagds.kro.kr
+127.0.0.1	u1.praisingtummyunless.shop
+127.0.0.1	check.repw.run
+127.0.0.1	check.repw.run
+127.0.0.1	zoom.callservice.us
 127.0.0.1	78.153.130.17.sslip.io
 127.0.0.1	www.videncebased.xyz
 127.0.0.1	www.xpj.lat
@@ -27486,11 +27513,4 @@
 127.0.0.1	didsit.com
 127.0.0.1	kaitenc2.de
 127.0.0.1	writeindia.com
-127.0.0.1	armzrace.com
-127.0.0.1	atasensors.com
-127.0.0.1	bangnightclub.com
-127.0.0.1	getupdates.net
-127.0.0.1	spencerinfo.net
-127.0.0.1	sigma125789-39601.portmap.host
-127.0.0.1	blackangel.hopto.org
-# Number of entries: 27487
+# Number of entries: 27507
