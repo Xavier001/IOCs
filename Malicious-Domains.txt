@@ -1,12 +1,34 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-07 10:04:47 UTC                        #
+# Last updated: 2025-02-07 12:12:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
-127.0.0.1	farina00cgp.com
+127.0.0.1	check.jime.site
+127.0.0.1	recaptha-verify-1n.pages.dev
+127.0.0.1	recaptha-verify-4z.pages.dev
+127.0.0.1	recaptha-verify-7u.pages.dev
+127.0.0.1	recaptha-verify-c1.pages.dev
+127.0.0.1	recaptha-verify-3m.pages.dev
+127.0.0.1	recaptha-verify-2w.pages.dev
+127.0.0.1	recaptha-verify-q3.pages.dev
+127.0.0.1	recaptcha-dns-o5.pages.dev
+127.0.0.1	recaptcha-dns-d9.pages.dev
+127.0.0.1	recaptcha-0d-verify.pages.dev
+127.0.0.1	recaptha-verify-9o.pages.dev
+127.0.0.1	recaptha-verify-7y.pages.dev
+127.0.0.1	dns-resolver-es8.pages.dev
+127.0.0.1	ip-provider.pages.dev
+127.0.0.1	backup-xvc.pages.dev
+127.0.0.1	microsoft-dns-reload-1n.pages.dev
+127.0.0.1	recaptha-verify-6l.pages.dev
+127.0.0.1	check.yiui.site
+127.0.0.1	meme7.work.gd
+127.0.0.1	cnc.axonstress.fun
+127.0.0.1	panel.deewpn.com
+127.0.0.1	check.yiyy.site
 127.0.0.1	windpull.cyou
 127.0.0.1	greenearoth.cyou
 127.0.0.1	check.auyo.site
@@ -111,7 +133,6 @@
 127.0.0.1	jorgeperezpu145.con-ip.com
 127.0.0.1	sungito333.ddns.net
 127.0.0.1	drgost.duckdns.org
-127.0.0.1	public-eur.mkt.dynamics.com
 127.0.0.1	frozeemodtest.freewebhostmost.com
 127.0.0.1	check.cvdub.site
 127.0.0.1	check.edmer.site
@@ -868,19 +889,12 @@
 127.0.0.1	check.smfd.ink
 127.0.0.1	divexpo.com
 127.0.0.1	usa-east.raptoreum.zone
-127.0.0.1	spk-pushtanverfahren.com
-127.0.0.1	www.rockefellercenter.com
 127.0.0.1	torpdidebar.com
 127.0.0.1	rebeldettern.com
 127.0.0.1	inputrreparnt.com
-127.0.0.1	r.bestadperf.com
-127.0.0.1	da-reload.cekreport.com
 127.0.0.1	garulouscuto.com
 127.0.0.1	breedertremnd.com
-127.0.0.1	nft.megaeth.com
 127.0.0.1	hopeefreamed.com
-127.0.0.1	voicesharped.com
-127.0.0.1	actiothreaz.com
 127.0.0.1	importenptoc.com
 127.0.0.1	kicky-tap.sbs
 127.0.0.1	forcenodder.biz
@@ -28758,4 +28772,4 @@
 127.0.0.1	majordatabases.lat
 127.0.0.1	irprofiles.com
 127.0.0.1	alphawatchrmf.com
-# Number of entries: 28752
+# Number of entries: 28766
