@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-06 22:05:01 UTC                        #
+# Last updated: 2025-02-07 02:05:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cozyhomevpibes.cyou
+127.0.0.1	cp52181.tw1.ru
+127.0.0.1	a0984458.xsph.ru
+127.0.0.1	fivell5th.top
 127.0.0.1	specificsecurity.ru
 127.0.0.1	cd60197.tw1.ru
 127.0.0.1	elvnhh11pn.top
@@ -28662,4 +28666,4 @@
 127.0.0.1	alphawatchrmf.com
 127.0.0.1	kyniemsro.com
 127.0.0.1	angela-kindly.with.playit.plus
-# Number of entries: 28656
+# Number of entries: 28660
