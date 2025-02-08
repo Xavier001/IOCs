@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-08 09:52:13 UTC                        #
+# Last updated: 2025-02-08 10:51:26 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	check.oiwea.site
+127.0.0.1	started-quotations.gl.at.ply.gg
+127.0.0.1	fund-jacob.gl.at.ply.gg
 127.0.0.1	feedback-both.gl.at.ply.gg
 127.0.0.1	check.yenai.site
 127.0.0.1	html.hfcxy.cn
@@ -28959,5 +28962,4 @@
 127.0.0.1	sentry-cxso.onrender.com
 127.0.0.1	barelytherejewels.com
 127.0.0.1	majordatabases.lat
-127.0.0.1	irprofiles.com
-# Number of entries: 28954
+# Number of entries: 28956
