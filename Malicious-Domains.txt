@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-07 20:49:47 UTC                        #
+# Last updated: 2025-02-08 02:47:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	adobe.azurefd.net
 127.0.0.1	ns2.ddporn.top
 127.0.0.1	ns1.lumeala.com
 127.0.0.1	ns1.ddporn.top
@@ -28928,4 +28929,4 @@
 127.0.0.1	barelytherejewels.com
 127.0.0.1	majordatabases.lat
 127.0.0.1	irprofiles.com
-# Number of entries: 28922
+# Number of entries: 28923
