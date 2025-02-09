@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-09 10:32:13 UTC                        #
+# Last updated: 2025-02-09 22:00:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	genericfixer.com
+127.0.0.1	phidev.duckdns.org
+127.0.0.1	j4bgkks2.giize.com
+127.0.0.1	pensun.xyz
+127.0.0.1	c.hcdsbkma.com
+127.0.0.1	check.cufflink1.xyz
+127.0.0.1	mealkittens.cfd
+127.0.0.1	armaunt.xyz
+127.0.0.1	check.waking.pro
+127.0.0.1	vpn741424698.softether.net
+127.0.0.1	maestriasenillinois.com
+127.0.0.1	www.impresacostruire.it
+127.0.0.1	check.identity1.shop
 127.0.0.1	check.cedar1.online
 127.0.0.1	check.eject1.online
 127.0.0.1	check.stand1.online
@@ -29158,5 +29171,4 @@
 127.0.0.1	ama.newtech.lol
 127.0.0.1	ama.resourcegate.lol
 127.0.0.1	suerte.ninja
-127.0.0.1	api.garageserviceoperation.com
-# Number of entries: 29153
+# Number of entries: 29165
