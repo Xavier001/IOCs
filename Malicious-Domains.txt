@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-09 07:40:28 UTC                        #
+# Last updated: 2025-02-09 10:32:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	check.cedar1.online
 127.0.0.1	check.eject1.online
 127.0.0.1	check.stand1.online
 127.0.0.1	check.jisai.site
@@ -29158,4 +29159,4 @@
 127.0.0.1	ama.resourcegate.lol
 127.0.0.1	suerte.ninja
 127.0.0.1	api.garageserviceoperation.com
-# Number of entries: 29152
+# Number of entries: 29153
