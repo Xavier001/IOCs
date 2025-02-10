@@ -1,11 +1,100 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-10 12:06:14 UTC                        #
+# Last updated: 2025-02-10 20:01:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	comet.appauthservice.online
+127.0.0.1	timeweb25.ru
+127.0.0.1	bisaorcc.moreisxao.click
+127.0.0.1	purelog.duckdns.org
+127.0.0.1	check.retold2.online
+127.0.0.1	check.unmovable.online
+127.0.0.1	connectionshock.icu
+127.0.0.1	check.swung.site
+127.0.0.1	pubad-gov-lk.org-co.net
+127.0.0.1	shop4s.top
+127.0.0.1	strosom.soniarocha.blog
+127.0.0.1	prasinfel.claudiacampos.express
+127.0.0.1	propinhenjal.claudiacampos.express
+127.0.0.1	propinjanjal0.soniarocha.blog
+127.0.0.1	scredindor.soniarocha.blog
+127.0.0.1	scretenim.claudiacampos.express
+127.0.0.1	scromantanpor56.claudiacampos.express
+127.0.0.1	strasanal63.soniarocha.blog
+127.0.0.1	strepansar.soniarocha.blog
+127.0.0.1	trucol.soniarocha.blog
+127.0.0.1	brumol3.soniarocha.blog
+127.0.0.1	cleriz157.soniarocha.blog
+127.0.0.1	crasonnonzol.claudiacampos.express
+127.0.0.1	crecil.soniarocha.blog
+127.0.0.1	crokil.claudiacampos.express
+127.0.0.1	crolancal16.soniarocha.blog
+127.0.0.1	drehal.claudiacampos.express
+127.0.0.1	drosonvir.claudiacampos.express
+127.0.0.1	flipinvaz.soniarocha.blog
+127.0.0.1	frafinsil.claudiacampos.express
+127.0.0.1	fragir1.claudiacampos.express
+127.0.0.1	frupunkintil.soniarocha.blog
+127.0.0.1	glabanhenkil.soniarocha.blog
+127.0.0.1	glabanriz.claudiacampos.express
+127.0.0.1	glelancal.soniarocha.blog
+127.0.0.1	glemennil.claudiacampos.express
+127.0.0.1	glopal.soniarocha.blog
+127.0.0.1	glubonzinlhar.claudiacampos.express
+127.0.0.1	glurinfil71.claudiacampos.express
+127.0.0.1	gramxil.claudiacampos.express
+127.0.0.1	gruel.soniarocha.blog
+127.0.0.1	grugoncindor.claudiacampos.express
+127.0.0.1	grugoncinsom38.soniarocha.blog
+127.0.0.1	planmol.claudiacampos.express
+127.0.0.1	plecinlhar.soniarocha.blog
+127.0.0.1	pleminsandiz.soniarocha.blog
+127.0.0.1	pleral.soniarocha.blog
+127.0.0.1	ploqual.claudiacampos.express
+127.0.0.1	blorol.claudiacampos.express
+127.0.0.1	brubenkil23.soniarocha.blog
+127.0.0.1	check.opossum.online
+127.0.0.1	check.cesspool.shop
+127.0.0.1	subzerox5.duckdns.org
+127.0.0.1	wanyuyugg.top
+127.0.0.1	mt.wtr.net.ua
+127.0.0.1	office-m66.info
+127.0.0.1	check.banking1.shop
+127.0.0.1	giffyserve.info
+127.0.0.1	check.alienable.shop
+127.0.0.1	check.showing.pw
+127.0.0.1	check.agility.website
+127.0.0.1	check.riverbed.online
+127.0.0.1	fixuplink.com
+127.0.0.1	check.reentry.website
+127.0.0.1	thrthh13pn.top
+127.0.0.1	tenhh10pn.top
+127.0.0.1	elvnpp11sb.top
+127.0.0.1	human-verify-4r.pro
+127.0.0.1	check.stench.site
+127.0.0.1	infuzoriatufelka.com
+127.0.0.1	johnyvertigo.com
+127.0.0.1	currencarjh.click
+127.0.0.1	getipinfo.duckdns.org
+127.0.0.1	82957222cm.whiteproducts.ru
+127.0.0.1	hvhpolak.ru
+127.0.0.1	mas9kan0.beget.tech
+127.0.0.1	a1083255.xsph.ru
+127.0.0.1	a1083407.xsph.ru
+127.0.0.1	a1083100.xsph.ru
+127.0.0.1	cz34133.tw1.ru
+127.0.0.1	aroslawo.beget.tech
+127.0.0.1	arsenik2.beget.tech
+127.0.0.1	a1078682.xsph.ru
+127.0.0.1	host1877066.hostland.pro
+127.0.0.1	f1082530.xsph.ru
+127.0.0.1	thrtpp13sb.top
+127.0.0.1	twntgg20sb.top
+127.0.0.1	fivepp5sb.top
+127.0.0.1	www.intrnstop.com
 127.0.0.1	srgvcomsfr.click
 127.0.0.1	4cgtkfwngo.click
 127.0.0.1	pfdatb2hxf.click
@@ -29721,22 +29810,4 @@
 127.0.0.1	teamsconnect.com
 127.0.0.1	informupdate.uno
 127.0.0.1	k1gkl25as.top
-127.0.0.1	aeroflightparts.com
-127.0.0.1	s7.canada.wiretun.com
-127.0.0.1	gho0kgklj.watermellon.site
-127.0.0.1	ip149.ip-51-178-195.eu
-127.0.0.1	eadzagba1.duckdns.org
-127.0.0.1	tenntysjuxmz.shop
-127.0.0.1	complaintsipzzx.shop
-127.0.0.1	quialitsuzoxm.shop
-127.0.0.1	languagedscie.shop
-127.0.0.1	bassizcellskz.shop
-127.0.0.1	mennyudosirso.shop
-127.0.0.1	writerospzm.shop
-127.0.0.1	deallerospfosu.shop
-127.0.0.1	dirtdrawingjsi.shop
-127.0.0.1	celebratioopz.shop
-127.0.0.1	solutionpxmuzo.shop
-127.0.0.1	beeoann.hackcrack.io
-127.0.0.1	actualisation-service.com
-# Number of entries: 29733
+# Number of entries: 29804
