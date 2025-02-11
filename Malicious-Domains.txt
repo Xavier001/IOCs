@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-10 20:01:07 UTC                        #
+# Last updated: 2025-02-11 00:01:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	search.appauthservice.online
+127.0.0.1	ulgroup.appauthservice.online
+127.0.0.1	oidc.mail.appauthservice.online
+127.0.0.1	jrnsfwf.wenopc.tech
 127.0.0.1	comet.appauthservice.online
 127.0.0.1	timeweb25.ru
 127.0.0.1	bisaorcc.moreisxao.click
@@ -29810,4 +29814,4 @@
 127.0.0.1	teamsconnect.com
 127.0.0.1	informupdate.uno
 127.0.0.1	k1gkl25as.top
-# Number of entries: 29804
+# Number of entries: 29808
