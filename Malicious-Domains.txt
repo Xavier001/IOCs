@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-12 09:55:46 UTC                        #
+# Last updated: 2025-02-12 12:19:53 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	check.auaaa.icu
 127.0.0.1	home.fivepp5sb.top
 127.0.0.1	elvnuuu11pn.top
 127.0.0.1	opbafindi.com
@@ -30009,12 +30010,4 @@
 127.0.0.1	yanzu.top
 127.0.0.1	citrix.vipreclod.com
 127.0.0.1	safety-subcommittee.gl.at.ply.gg
-127.0.0.1	mofa-gov-bd.dowmload.co
-127.0.0.1	mofa-gov-pk.dowmload.co
-127.0.0.1	punjabpolice-gov-pk.dowmload.co
-127.0.0.1	www-army-mil-bd.dowmload.co
-127.0.0.1	dowmload.co
-127.0.0.1	fmprc-gov-cn.dowmload.co
-127.0.0.1	mod-gov-bd.dowmload.co
-127.0.0.1	pmd-offc.info
-# Number of entries: 30011
+# Number of entries: 30004
