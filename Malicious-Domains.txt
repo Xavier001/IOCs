@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-12 04:01:00 UTC                        #
+# Last updated: 2025-02-12 09:55:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	home.fivepp5sb.top
+127.0.0.1	elvnuuu11pn.top
+127.0.0.1	opbafindi.com
+127.0.0.1	clsevermarketing.click
+127.0.0.1	check.yyuuo.icu
+127.0.0.1	52ecy.shop
+127.0.0.1	check.ouayu.icu
 127.0.0.1	ec2-18-191-147-250.us-east-2.compute.amazonaws.com
 127.0.0.1	ip.count6.group-bau.com
 127.0.0.1	www.miocrsoft.com
@@ -30010,9 +30017,4 @@
 127.0.0.1	fmprc-gov-cn.dowmload.co
 127.0.0.1	mod-gov-bd.dowmload.co
 127.0.0.1	pmd-offc.info
-127.0.0.1	www.ritcophysiotherapy.com.au
-127.0.0.1	pretty-dressed.gl.at.ply.gg
-127.0.0.1	viewifydocs.com
-127.0.0.1	teamsconnect.com
-127.0.0.1	informupdate.uno
-# Number of entries: 30009
+# Number of entries: 30011
