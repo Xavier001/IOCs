@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-11 21:00:04 UTC                        #
+# Last updated: 2025-02-12 04:01:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ec2-18-191-147-250.us-east-2.compute.amazonaws.com
+127.0.0.1	ip.count6.group-bau.com
+127.0.0.1	www.miocrsoft.com
 127.0.0.1	inkipp.com
 127.0.0.1	botnet.cinquento.publicvm.com
 127.0.0.1	perchabloomkey.com
@@ -30012,4 +30015,4 @@
 127.0.0.1	viewifydocs.com
 127.0.0.1	teamsconnect.com
 127.0.0.1	informupdate.uno
-# Number of entries: 30006
+# Number of entries: 30009
