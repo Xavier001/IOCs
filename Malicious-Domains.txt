@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-14 19:18:46 UTC                        #
+# Last updated: 2025-02-15 04:00:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hook.dayangpay.com
+127.0.0.1	ega.serveblog.net
+127.0.0.1	cld.cnkalciwcm.online
 127.0.0.1	check.limev.icu
 127.0.0.1	scrofil57.mzip.partners
 127.0.0.1	scrogunim.vizpaz.express
@@ -30539,6 +30542,4 @@
 127.0.0.1	cdnjscloudforced.com
 127.0.0.1	wedominatelawsuits.top
 127.0.0.1	www.lx2h.shop
-127.0.0.1	telorino1581.duckdns.org
-127.0.0.1	nj3100.duckdns.org
-# Number of entries: 30535
+# Number of entries: 30536
