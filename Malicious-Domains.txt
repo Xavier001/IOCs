@@ -1,11 +1,29 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-15 12:14:15 UTC                        #
+# Last updated: 2025-02-15 18:30:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	righqthorizon.cyou
+127.0.0.1	apply-sand.gl.at.ply.gg
+127.0.0.1	mikeykarby-41864.portmap.host
+127.0.0.1	bot.weizaipay.xyz
+127.0.0.1	shewaswalking.ddns.net
+127.0.0.1	programs.edlester.com
+127.0.0.1	goshow.click
+127.0.0.1	check.zamoq.icu
+127.0.0.1	check.cobyw.icu
+127.0.0.1	check.zovof.icu
+127.0.0.1	damn.biggay.space
+127.0.0.1	check.myvyt.icu
+127.0.0.1	www.iq-insitute.org
+127.0.0.1	check.falih.icu
+127.0.0.1	check.cigog.icu
+127.0.0.1	cs.lihualihua266.us.kg
+127.0.0.1	check.nuviq.icu
+127.0.0.1	check.kybax.icu
 127.0.0.1	check.qojyx.icu
 127.0.0.1	u1.sulkuntie.shop
 127.0.0.1	dynamicyspace.top
@@ -30645,8 +30663,4 @@
 127.0.0.1	tracker.findbestresultss.com
 127.0.0.1	s.cdntoswitchspirit.com
 127.0.0.1	kirklareliliste.cfd
-127.0.0.1	tlymxvx.top
-127.0.0.1	doggygangers.com
-127.0.0.1	cdnjscloudforced.com
-127.0.0.1	wedominatelawsuits.top
-# Number of entries: 30643
+# Number of entries: 30657
