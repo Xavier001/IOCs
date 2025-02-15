@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-15 08:14:16 UTC                        #
+# Last updated: 2025-02-15 12:14:15 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	check.qojyx.icu
+127.0.0.1	u1.sulkuntie.shop
+127.0.0.1	dynamicyspace.top
+127.0.0.1	newhoriozons.top
+127.0.0.1	lightojourney.top
+127.0.0.1	kaleoidoscopewa.top
+127.0.0.1	boldcyanvas.top
+127.0.0.1	openncanvas.top
+127.0.0.1	octothl.ddnsfree.com
+127.0.0.1	mirai.cinquento.publicvm.com
+127.0.0.1	11111111111111111111111111111111111111112ewdsacafa-32954.portmap.host
 127.0.0.1	eecsys.com
 127.0.0.1	town-brand.gl.at.ply.gg
 127.0.0.1	fevereiro2025.duckdns.org
@@ -30638,5 +30649,4 @@
 127.0.0.1	doggygangers.com
 127.0.0.1	cdnjscloudforced.com
 127.0.0.1	wedominatelawsuits.top
-127.0.0.1	www.lx2h.shop
-# Number of entries: 30633
+# Number of entries: 30643
