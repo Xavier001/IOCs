@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-15 18:30:29 UTC                        #
+# Last updated: 2025-02-15 22:46:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	area51.at.bitthebyte.com
 127.0.0.1	righqthorizon.cyou
 127.0.0.1	apply-sand.gl.at.ply.gg
 127.0.0.1	mikeykarby-41864.portmap.host
@@ -30663,4 +30664,4 @@
 127.0.0.1	tracker.findbestresultss.com
 127.0.0.1	s.cdntoswitchspirit.com
 127.0.0.1	kirklareliliste.cfd
-# Number of entries: 30657
+# Number of entries: 30658
