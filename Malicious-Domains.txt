@@ -30716,15 +30716,4 @@
 127.0.0.1	jquery.restartyourchoices.com
 127.0.0.1	query.restartyourchoices.com
 127.0.0.1	dovelabobzgnan.ddns.net
-127.0.0.1	rest.cdntoswitchspirit.com
-127.0.0.1	malware-iconchest.cdntoswitchspirit.com
-127.0.0.1	est.cdntoswitchspirit.com
-127.0.0.1	js.cdntoswitchspirit.com
-127.0.0.1	cpjs.cdntoswitchspirit.com
-127.0.0.1	css.cdntoswitchspirit.com
-127.0.0.1	comcss.cdntoswitchspirit.com
-127.0.0.1	findbestresultss.com
-127.0.0.1	stay.findbestresultss.com
-127.0.0.1	tracker.findbestresultss.com
-127.0.0.1	s.cdntoswitchspirit.com
-# Number of entries: 30721
+# Number of entries: 30710
