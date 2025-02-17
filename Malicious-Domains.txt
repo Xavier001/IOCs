@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-17 10:00:01 UTC                        #
+# Last updated: 2025-02-17 11:59:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ly.ardentlysqueamish.autos
+127.0.0.1	check.kedkq.icu
+127.0.0.1	xu1.dijiafuzhu.xyz
+127.0.0.1	travel.image-gene-saver.it.com
+127.0.0.1	ns2.drgeregweg.ip-ddns.com
+127.0.0.1	ns3.drgeregweg.ip-ddns.com
+127.0.0.1	ns1.drgeregweg.ip-ddns.com
+127.0.0.1	check.xomkb.icu
+127.0.0.1	vessweb.com
+127.0.0.1	check.jewsl.icu
 127.0.0.1	check.ruqhl.icu
 127.0.0.1	check.cikwp.icu
 127.0.0.1	check.masvt.icu
@@ -31135,4 +31145,4 @@
 127.0.0.1	mrlagoon.club
 127.0.0.1	sungito2.ddns.net
 127.0.0.1	tochisglobal.ddns.net
-# Number of entries: 31129
+# Number of entries: 31139
