@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-16 21:16:46 UTC                        #
+# Last updated: 2025-02-17 00:01:26 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.phpmyadmin.timeweb25.ru
+127.0.0.1	network.dhcpclient.com
 127.0.0.1	global-bibliographic.gl.at.ply.gg
 127.0.0.1	h4x000r.duckdns.org
 127.0.0.1	numbers-insights.gl.at.ply.gg
@@ -31078,4 +31080,4 @@
 127.0.0.1	tochisglobal.ddns.net
 127.0.0.1	vowquybcw.org
 127.0.0.1	cnc.mamma.su
-# Number of entries: 31072
+# Number of entries: 31074
