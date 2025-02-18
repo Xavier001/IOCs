@@ -1,11 +1,78 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-18 11:51:49 UTC                        #
+# Last updated: 2025-02-18 20:18:42 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	frtgg14th.top
+127.0.0.1	eightjj8sr.top
+127.0.0.1	frtncc14vs.top
+127.0.0.1	frtnhh14pn.top
+127.0.0.1	twntjj20sr.top
+127.0.0.1	tnwnthh20pn.top
+127.0.0.1	fivgg5sb.top
+127.0.0.1	frtggsb.top
+127.0.0.1	thrtgg13sb.top
+127.0.0.1	twntgg20th.top
+127.0.0.1	twntpp20sb.top
+127.0.0.1	onehh1pn.top
+127.0.0.1	frtnpp14sb.top
+127.0.0.1	tenjj10sr.top
+127.0.0.1	sixjj6sr.top
+127.0.0.1	twntcc20vs.top
+127.0.0.1	smoothsprin.click
+127.0.0.1	a1040668.xsph.ru
+127.0.0.1	a1080277.xsph.ru
+127.0.0.1	a1080822.xsph.ru
+127.0.0.1	a1080799.xsph.ru
+127.0.0.1	f1068264.xsph.ru
+127.0.0.1	ct18031.tw1.ru
+127.0.0.1	f1081725.xsph.ru
+127.0.0.1	f1080509.xsph.ru
+127.0.0.1	fivecc5vs.top
+127.0.0.1	sixcc6vs.top
+127.0.0.1	thrtcc13vs.top
+127.0.0.1	check.jmnfp.icu
+127.0.0.1	yuzbook.info
+127.0.0.1	dns.windowsupdate.cloud
+127.0.0.1	check.jtfsn.icu
+127.0.0.1	api.kaf.jp.eu.org
+127.0.0.1	usdgyzjey4h.top
+127.0.0.1	mioasfybz7y4.top
+127.0.0.1	nfuagy7fgus.top
+127.0.0.1	l284afj165tqz51.top
+127.0.0.1	icciilhkbdgjggn.top
+127.0.0.1	anccvfsrkauefoh.top
+127.0.0.1	kdljlignmgemecf.top
+127.0.0.1	comepreventsur.shop
+127.0.0.1	fraildinerip.shop
+127.0.0.1	crackerdisccre.shop
+127.0.0.1	creppugler.shop
+127.0.0.1	forcehoppen.shop
+127.0.0.1	erracitofge.shop
+127.0.0.1	carrofiwi.shop
+127.0.0.1	actleavvek.shop
+127.0.0.1	cloudsbeeseez.shop
+127.0.0.1	bucketrenouv.shop
+127.0.0.1	cherriestubb.shop
+127.0.0.1	closedsaccke.shop
+127.0.0.1	cavemelodice.shop
+127.0.0.1	achievesalutto.shop
+127.0.0.1	cobwebymitk.shop
+127.0.0.1	beatgoattk.shop
+127.0.0.1	ablekettled.shop
+127.0.0.1	avoidshirru.shop
+127.0.0.1	busheprettuv.shop
+127.0.0.1	urbjanjungle.tech
+127.0.0.1	certificate.hypnotherapy-training.co.nz
+127.0.0.1	mammeporche.top
+127.0.0.1	lestagames.world
+127.0.0.1	check.psjvt.icu
+127.0.0.1	unruffled-mccarthy.45-143-99-196.plesk.page
+127.0.0.1	check.ltxgh.icu
+127.0.0.1	rapiddevapi.com
 127.0.0.1	check.hdfkc.icu
 127.0.0.1	newgoodthingsforkbhh.duckdns.org
 127.0.0.1	ftp.dijiafuzhu.xyz
@@ -30769,6 +30836,4 @@
 127.0.0.1	localdominationsystems.com
 127.0.0.1	static.248.242.109.65.clients.your-server.de
 127.0.0.1	host-knight.gl.at.ply.gg
-127.0.0.1	meannypaintipp.shop
-127.0.0.1	hema2024.from-ut.com
-# Number of entries: 30765
+# Number of entries: 30830
