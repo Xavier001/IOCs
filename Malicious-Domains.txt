@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-17 20:01:25 UTC                        #
+# Last updated: 2025-02-18 04:01:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ec2-54-251-124-7.ap-southeast-1.compute.amazonaws.com
+127.0.0.1	google.baobecgiang.net
 127.0.0.1	ec2-18-143-214-68.ap-southeast-1.compute.amazonaws.com
 127.0.0.1	www.pinkandgreen87.info
 127.0.0.1	check.pvhqg.icu
@@ -31248,4 +31250,4 @@
 127.0.0.1	ussrconnect.ru
 127.0.0.1	carnivalsale.com
 127.0.0.1	boylegmfg.com
-# Number of entries: 31242
+# Number of entries: 31244
