@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-18 08:09:49 UTC                        #
+# Last updated: 2025-02-18 11:51:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	check.hdfkc.icu
 127.0.0.1	newgoodthingsforkbhh.duckdns.org
 127.0.0.1	ftp.dijiafuzhu.xyz
 127.0.0.1	ftp.kaf.jp.eu.org
@@ -30770,7 +30771,4 @@
 127.0.0.1	host-knight.gl.at.ply.gg
 127.0.0.1	meannypaintipp.shop
 127.0.0.1	hema2024.from-ut.com
-127.0.0.1	version6dkgate.duckdns.org
-127.0.0.1	builaos.fun
-127.0.0.1	a1000128.xsph.ru
-# Number of entries: 30767
+# Number of entries: 30765
