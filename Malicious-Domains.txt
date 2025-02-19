@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-18 20:18:42 UTC                        #
+# Last updated: 2025-02-19 02:47:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	portal.edge-akadns.net
+127.0.0.1	ras.nzdfmil.nz
+127.0.0.1	again.sftech.one
 127.0.0.1	frtgg14th.top
 127.0.0.1	eightjj8sr.top
 127.0.0.1	frtncc14vs.top
@@ -30836,4 +30839,4 @@
 127.0.0.1	localdominationsystems.com
 127.0.0.1	static.248.242.109.65.clients.your-server.de
 127.0.0.1	host-knight.gl.at.ply.gg
-# Number of entries: 30830
+# Number of entries: 30833
