@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-19 08:55:51 UTC                        #
+# Last updated: 2025-02-19 12:12:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	check.oaaye.online
+127.0.0.1	www.tictell.com
+127.0.0.1	check.yyaye.online
 127.0.0.1	lovexlearning.tech
 127.0.0.1	stunnedfragiledioxide.shop
 127.0.0.1	check.aoyoe.online
@@ -39849,5 +39852,4 @@
 127.0.0.1	great-it.gl.at.ply.gg
 127.0.0.1	hiatus2.ddns.net
 127.0.0.1	localdominationsystems.com
-127.0.0.1	static.248.242.109.65.clients.your-server.de
-# Number of entries: 39844
+# Number of entries: 39846
