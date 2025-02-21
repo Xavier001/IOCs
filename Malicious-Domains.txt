@@ -1,11 +1,43 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-21 02:47:20 UTC                        #
+# Last updated: 2025-02-21 09:32:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	chatgpt-storage.com
+127.0.0.1	jobstreet-storage.com
+127.0.0.1	calendly-storage.com
+127.0.0.1	deepseek-storage.com
+127.0.0.1	clickup-dashboard.com
+127.0.0.1	workdisposition.com
+127.0.0.1	chatgpt-dashboard.org
+127.0.0.1	check.yayei.online
+127.0.0.1	dianzanla.com
+127.0.0.1	gpt.rim.jp.eu.org
+127.0.0.1	check.ayaiu.online
+127.0.0.1	vps-84323c44.vps.ovh.net
+127.0.0.1	remcosf2025.duckdns.org
+127.0.0.1	halelgeeh8iugoty3.duckdns.org
+127.0.0.1	16enero.con-ip.com
+127.0.0.1	sales778.bounceme.net
+127.0.0.1	halelgeeh8iugoty1.duckdns.org
+127.0.0.1	donato.con-ip.com
+127.0.0.1	halelgeeh8iugoty2.duckdns.org
+127.0.0.1	amuntgroupfree.ip-ddns.com
+127.0.0.1	halelgeeh8iugoty4.duckdns.org
+127.0.0.1	greatkindnessfromgodcoming.duckdns.org
+127.0.0.1	rmc1995.duckdns.org
+127.0.0.1	tama333.duckdns.org
+127.0.0.1	figonenye.duckdns.org
+127.0.0.1	odg01.is-a-landscaper.com
+127.0.0.1	u1.shredderradar.shop
+127.0.0.1	huyandvit-cnc.duckdns.org
+127.0.0.1	woo-headless-bcknd.utvikl.es
+127.0.0.1	penetratebatt.pw
+127.0.0.1	governoagoal.pw
+127.0.0.1	check.eiuau.online
 127.0.0.1	dha9zervwzq7q.cfc-execute.bj.baidubce.com
 127.0.0.1	br860nfrhp8wt.cfc-execute.bj.baidubce.com
 127.0.0.1	meteoclok.online
@@ -40026,5 +40058,4 @@
 127.0.0.1	expertcloud.xyz
 127.0.0.1	abomenaa.duckdns.org
 127.0.0.1	iprotosample.com
-127.0.0.1	bhhdhhj.com
-# Number of entries: 40021
+# Number of entries: 40052
