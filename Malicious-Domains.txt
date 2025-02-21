@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-20 20:02:00 UTC                        #
+# Last updated: 2025-02-21 02:47:20 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dha9zervwzq7q.cfc-execute.bj.baidubce.com
+127.0.0.1	br860nfrhp8wt.cfc-execute.bj.baidubce.com
+127.0.0.1	meteoclok.online
+127.0.0.1	www.lihua520.us.kg
 127.0.0.1	www.themamadi.ir
 127.0.0.1	felka.wtf
 127.0.0.1	felka.lol
@@ -40023,4 +40027,4 @@
 127.0.0.1	abomenaa.duckdns.org
 127.0.0.1	iprotosample.com
 127.0.0.1	bhhdhhj.com
-# Number of entries: 40017
+# Number of entries: 40021
