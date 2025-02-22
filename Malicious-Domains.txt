@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-21 20:39:23 UTC                        #
+# Last updated: 2025-02-22 02:47:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	application-update.australiasoutheast.cloudapp.azure.com
+127.0.0.1	www.projectdocs.io
 127.0.0.1	club2.site
 127.0.0.1	relaxparadisetop.top
 127.0.0.1	dsfljsdfjewf.info
@@ -40172,4 +40174,4 @@
 127.0.0.1	brutum.aurorainvestimentos.com
 127.0.0.1	bruvel.luminisconsultoria.io
 127.0.0.1	www.sanibath.com
-# Number of entries: 40166
+# Number of entries: 40168
