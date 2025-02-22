@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-22 09:59:39 UTC                        #
+# Last updated: 2025-02-22 12:01:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	trumpsbtc.com
+127.0.0.1	rakeidea.xyz
+127.0.0.1	booksstamp.icu
+127.0.0.1	hairteeth.icu
+127.0.0.1	check.oyyyo.icu
+127.0.0.1	check.oyaoe.icu
 127.0.0.1	web.4t.com
 127.0.0.1	vf5qziznc.theworkpc.com
 127.0.0.1	newcli.bumbleshrimp.com
@@ -40034,4 +40040,4 @@
 127.0.0.1	fileupdate.xyz
 127.0.0.1	fileupdate.pics
 127.0.0.1	queimaxofc.com
-# Number of entries: 40028
+# Number of entries: 40034
