@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-22 20:01:52 UTC                        #
+# Last updated: 2025-02-23 04:01:19 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	blackbirdessential.cloud
+127.0.0.1	12825.funian.xyz
+127.0.0.1	wxx.aliyunn.uno
+127.0.0.1	ns1.kerrerf.com
 127.0.0.1	host-185-193-126-20.njalla.net
 127.0.0.1	topics22.live
 127.0.0.1	trumpboost.pro
@@ -40036,4 +40040,4 @@
 127.0.0.1	skibidirizz.lol
 127.0.0.1	elmipardaz.com
 127.0.0.1	members-flower.gl.at.ply.gg
-# Number of entries: 40030
+# Number of entries: 40034
