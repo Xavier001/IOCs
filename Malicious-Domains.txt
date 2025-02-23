@@ -1,11 +1,50 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-23 04:01:19 UTC                        #
+# Last updated: 2025-02-23 10:05:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	check.ueoie.icu
+127.0.0.1	check.eooii.icu
+127.0.0.1	check.ieooy.icu
+127.0.0.1	sha-11x.pages.dev
+127.0.0.1	check.auieu.icu
+127.0.0.1	trumpboost.com
+127.0.0.1	v279259.hosted-by-vdsina.com
+127.0.0.1	check.ioeoe.icu
+127.0.0.1	projects-sunny.gl.at.ply.gg
+127.0.0.1	study-conclusions.gl.at.ply.gg
+127.0.0.1	visit-judges.gl.at.ply.gg
+127.0.0.1	cobolrationumelawrtewarms.co
+127.0.0.1	maintenance-embedded.gl.at.ply.gg
+127.0.0.1	hvip.freeddns.org
+127.0.0.1	check.iuuoo.icu
+127.0.0.1	check.oaaea.icu
+127.0.0.1	vatloopedo.bet
+127.0.0.1	download.caringheadboard.buzz
+127.0.0.1	ping.caringheadboard.buzz
+127.0.0.1	ai.fdswgw.shop
+127.0.0.1	bennedospok.run
+127.0.0.1	dryentaidne.run
+127.0.0.1	grendyreushe.run
+127.0.0.1	porkedbunned.run
+127.0.0.1	deaddereaste.today
+127.0.0.1	privileggoe.live
+127.0.0.1	concentratecr.world
+127.0.0.1	baconqualit.live
+127.0.0.1	goaledharmfuk.live
+127.0.0.1	resqueoppos.live
+127.0.0.1	hobbyedsmoker.live
+127.0.0.1	prideforgek.fun
+127.0.0.1	subawhipnator.life
+127.0.0.1	privileggoe.live
+127.0.0.1	decreaserid.world
+127.0.0.1	uncertainyelemz.bet
+127.0.0.1	batnet.proxyapi.my.id
+127.0.0.1	metalcourthur.fun
+127.0.0.1	check.aayai.icu
 127.0.0.1	blackbirdessential.cloud
 127.0.0.1	12825.funian.xyz
 127.0.0.1	wxx.aliyunn.uno
@@ -40040,4 +40079,4 @@
 127.0.0.1	skibidirizz.lol
 127.0.0.1	elmipardaz.com
 127.0.0.1	members-flower.gl.at.ply.gg
-# Number of entries: 40034
+# Number of entries: 40073
