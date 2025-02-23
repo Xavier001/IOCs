@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-23 10:05:14 UTC                        #
+# Last updated: 2025-02-23 11:42:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ownerbotnet.opyddos.my.id
+127.0.0.1	u1.gossipsurrender.shop
+127.0.0.1	check.iyuei.icu
+127.0.0.1	dns-verify-me.pro
+127.0.0.1	human-verify.shop
+127.0.0.1	human-verify-4r.pro
+127.0.0.1	check.eioye.icu
 127.0.0.1	check.ueoie.icu
 127.0.0.1	check.eooii.icu
 127.0.0.1	check.ieooy.icu
@@ -40078,5 +40085,4 @@
 127.0.0.1	skibidirizz.mom
 127.0.0.1	skibidirizz.lol
 127.0.0.1	elmipardaz.com
-127.0.0.1	members-flower.gl.at.ply.gg
-# Number of entries: 40073
+# Number of entries: 40079
