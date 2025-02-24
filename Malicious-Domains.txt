@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-24 08:52:42 UTC                        #
+# Last updated: 2025-02-24 12:02:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	webmail.sports777games.com
+127.0.0.1	webdisk.testmedia89.com
+127.0.0.1	cpcontacts.welovetotogames.com
+127.0.0.1	cpcalendars.tectotechnology.com
+127.0.0.1	cpcontacts.newzwireread.com
+127.0.0.1	webmail.bestnewznetworkofone.com
+127.0.0.1	webdisk.topdmdarama.com
+127.0.0.1	check.wefoj.icu
+127.0.0.1	pasteware172.ddns.net
+127.0.0.1	wonderchristmas.store
+127.0.0.1	netupdates.info
 127.0.0.1	check.zasek.icu
 127.0.0.1	cpanel.testmedia89.com
 127.0.0.1	cpanel.techdeepart.com
@@ -40398,6 +40409,4 @@
 127.0.0.1	www.mycontrolpanel29.com
 127.0.0.1	www.webserverupdate.com
 127.0.0.1	www.website-af0f5d7d.bfj.bgd.mybluehost.me
-127.0.0.1	ns2.millikanrams.com
-127.0.0.1	ns1.millikanrams.com
-# Number of entries: 40394
+# Number of entries: 40403
