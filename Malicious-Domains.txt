@@ -1,11 +1,73 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-25 04:02:06 UTC                        #
+# Last updated: 2025-02-25 09:32:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	check.byzl.shop
+127.0.0.1	check.hegk.shop
+127.0.0.1	angela.spklove.com
+127.0.0.1	cpanel.totogamesnetwork.com
+127.0.0.1	cpcalendars.gamesofart.com
+127.0.0.1	45.120.60.34.bc.googleusercontent.com
+127.0.0.1	webdisk.latestsportshub.com
+127.0.0.1	webmail.allnewznetworksofarts.com
+127.0.0.1	mx.4ttechnology.ch
+127.0.0.1	fua.4t.com
+127.0.0.1	adx-crm.com
+127.0.0.1	pastedeputten.life
+127.0.0.1	sterilizeflow.top
+127.0.0.1	turngallerudgo.icu
+127.0.0.1	investiigato.website
+127.0.0.1	openheartljiving.tech
+127.0.0.1	pausedcritiaca.fun
+127.0.0.1	petlovinstop.top
+127.0.0.1	posqvevibesonly.tech
+127.0.0.1	refledesige.online
+127.0.0.1	soqulfonections.tech
+127.0.0.1	wqanderludreams.tech
+127.0.0.1	brightfuturjes.tech
+127.0.0.1	enlagrestatem.bet
+127.0.0.1	inspiringjstories.tech
+127.0.0.1	infinett.com
+127.0.0.1	sellers-given.gl.at.ply.gg
+127.0.0.1	aboki2025.duckdns.org
+127.0.0.1	niggahunter-28633.portmap.io
+127.0.0.1	cnc-boatnet.vpnvn4g.com
+127.0.0.1	rykeen.duckdns.org
+127.0.0.1	check.jywyj.icu
+127.0.0.1	check.tokep.icu
+127.0.0.1	webmail.tectotechnology.com
+127.0.0.1	pstest.shortkino.com
+127.0.0.1	thinkbettersoul.live
+127.0.0.1	dilutedlikel.bet
+127.0.0.1	sellroofed.bet
+127.0.0.1	billesafed.life
+127.0.0.1	lgkitstart.life
+127.0.0.1	passwodbroked.life
+127.0.0.1	cancepatrok.today
+127.0.0.1	conceived.today
+127.0.0.1	marathinwulke.today
+127.0.0.1	ethnicracker.top
+127.0.0.1	horizonedcream.top
+127.0.0.1	praisednette.top
+127.0.0.1	ferilwk2301.top
+127.0.0.1	geges.shop
+127.0.0.1	gomys.shop
+127.0.0.1	livlivproliv.shop
+127.0.0.1	livlivvavavava.shop
+127.0.0.1	rihem.shop
+127.0.0.1	pywop.shop
+127.0.0.1	qifyv.shop
+127.0.0.1	xyxyc.shop
+127.0.0.1	commercfriek.digital
+127.0.0.1	jewellycotten.digital
+127.0.0.1	disastecouse.live
+127.0.0.1	mildpacewp.today
+127.0.0.1	subawhipnator.life
+127.0.0.1	check.wuhav.icu
 127.0.0.1	cpcontacts.topzbuscartio.xyz
 127.0.0.1	webdisk.yesmoretotogamesnewz.xyz
 127.0.0.1	cpanel.toptechnewz11.xyz
@@ -40480,9 +40542,4 @@
 127.0.0.1	caffegclasiqwp.shop
 127.0.0.1	traineiwnqo.shop
 127.0.0.1	millyscroqwp.shop
-127.0.0.1	eloquentcs.com
-127.0.0.1	nova-screen-webview.com
-127.0.0.1	hellokittymeowmeow.xyz
-127.0.0.1	api.hellokittymeowmeow.xyz
-127.0.0.1	zealous-pine-98499.pktriot.net
-# Number of entries: 40479
+# Number of entries: 40536
