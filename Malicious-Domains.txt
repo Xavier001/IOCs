@@ -1,11 +1,55 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-24 20:02:13 UTC                        #
+# Last updated: 2025-02-25 04:02:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cpcontacts.topzbuscartio.xyz
+127.0.0.1	webdisk.yesmoretotogamesnewz.xyz
+127.0.0.1	cpanel.toptechnewz11.xyz
+127.0.0.1	cpcontacts.textcentrzdmnewz.xyz
+127.0.0.1	cpcalendars.mindfulwellnesshq.xyz
+127.0.0.1	webdisk.ufabetgameslover.xyz
+127.0.0.1	cpcalendars.ufabetgames1010.xyz
+127.0.0.1	webdisk.magzineviralzhubz.xyz
+127.0.0.1	webmail.fivetopbusiness.website
+127.0.0.1	webmail.wellcartnewzhub.xyz
+127.0.0.1	webmail.upnddownapps.xyz
+127.0.0.1	cpcalendars.toplvlnewz.xyz
+127.0.0.1	cpanel.ufabetgameslover89.xyz
+127.0.0.1	cpcontacts.bestblogznews.com
+127.0.0.1	webdisk.topfiveufabetgames.xyz
+127.0.0.1	cpcontacts.gamesofart1.xyz
+127.0.0.1	cpanel.ufabetlover10.xyz
+127.0.0.1	cpcontacts.medtopzhub.xyz
+127.0.0.1	cpcontacts.bsttoolswx.website
+127.0.0.1	www.h2952531.stratoserver.net
+127.0.0.1	cpcontacts.modegenerlshub.xyz
+127.0.0.1	cpcalendars.businessnewznetwork.website
+127.0.0.1	cpcalendars.start7pros.xyz
+127.0.0.1	webdisk.topgadgettechnewz1.xyz
+127.0.0.1	webdisk.fivetopbusiness.xyz
+127.0.0.1	cpcalendars.fashionsforts.website
+127.0.0.1	webdisk.superbbusiness.xyz
+127.0.0.1	cpanel.fstnewmedia.xyz
+127.0.0.1	webdisk.levelfrstdm.xyz
+127.0.0.1	webmail.onebusinessportal.website
+127.0.0.1	webdisk.toriters7.xyz
+127.0.0.1	cpcalendars.homeimprovementbloopers.xyz
+127.0.0.1	cpcontacts.topthounds1.xyz
+127.0.0.1	cpcontacts.gameswithufabet.xyz
+127.0.0.1	webmail.10bestgamesofufabet.xyz
+127.0.0.1	cpcalendars.toptechnewz11.xyz
+127.0.0.1	webmail.totogames1network.xyz
+127.0.0.1	webdisk.topthounds1.xyz
+127.0.0.1	cpcontacts.shakdmisab.xyz
+127.0.0.1	cpcalendars.generalztipsal.xyz
+127.0.0.1	webdisk.homeaddition.website
+127.0.0.1	blissfttulmoments.top
+127.0.0.1	dubai-wealth-hub.co.uk
+127.0.0.1	704mha60crfrd.cfc-execute.bj.baidubce.com
 127.0.0.1	webmail.medtopzhub.xyz
 127.0.0.1	cpcontacts.businesshostz.xyz
 127.0.0.1	webmail.dmspotzera.xyz
@@ -40441,4 +40485,4 @@
 127.0.0.1	hellokittymeowmeow.xyz
 127.0.0.1	api.hellokittymeowmeow.xyz
 127.0.0.1	zealous-pine-98499.pktriot.net
-# Number of entries: 40435
+# Number of entries: 40479
