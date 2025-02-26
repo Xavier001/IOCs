@@ -1,11 +1,63 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-26 04:02:14 UTC                        #
+# Last updated: 2025-02-26 10:07:53 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	askforupdate.org
+127.0.0.1	qamspby9t.duckdns.org
+127.0.0.1	253762ju6.duckdns.org
+127.0.0.1	hftook7lmoutsg1.duckdns.org
+127.0.0.1	check.duvb.shop
+127.0.0.1	report-missingitems.com
+127.0.0.1	guestitems-request.com
+127.0.0.1	urgent-lostitems.com
+127.0.0.1	completedgustra.com
+127.0.0.1	huaregustario.com
+127.0.0.1	clientagusta.com
+127.0.0.1	vieews-reseesrvationis.com
+127.0.0.1	reservaationis-ids.com
+127.0.0.1	ids-reservationss.com
+127.0.0.1	resservationis-id.com
+127.0.0.1	resolve-lostproperty.com
+127.0.0.1	towerbingobongoboom.com
+127.0.0.1	cpanel.topandbestnews.com
+127.0.0.1	173-249-52-37.cprapid.com
+127.0.0.1	webdisk.ranknewzmedia.com
+127.0.0.1	webmail.magazinebestnetworkz.com
+127.0.0.1	cpanel.top10gamesofoto.com
+127.0.0.1	visiwonarypath.to
+127.0.0.1	chat-genes.gl.at.ply.gg
+127.0.0.1	goods-burner.gl.at.ply.gg
+127.0.0.1	ak6-48477.portmap.host
+127.0.0.1	bendover1242.ddns.net
+127.0.0.1	cpcontacts.hostsportstoto9.com
+127.0.0.1	webmail.techdeepart.com
+127.0.0.1	cpcalendars.techndgadget.com
+127.0.0.1	cpanel.timehrnews.com
+127.0.0.1	cpcontacts.offonnetwork.com
+127.0.0.1	cpanel.magazinebookline.com
+127.0.0.1	cpanel.thebestofbests.com
+127.0.0.1	check.baww.shop
+127.0.0.1	aipricadd.top
+127.0.0.1	firebasesafer.top
+127.0.0.1	largeroofs.top
+127.0.0.1	siotherlentsearsitech.shop
+127.0.0.1	asustordownload.com
+127.0.0.1	gardensc.cc
+127.0.0.1	headached.cc
+127.0.0.1	durianlink.cc
+127.0.0.1	nternetd.cc
+127.0.0.1	suiteiol.cc
+127.0.0.1	centrequ.cc
+127.0.0.1	icecreand.cc
+127.0.0.1	longlog.cc
+127.0.0.1	landim.cc
+127.0.0.1	hitchil.cc
+127.0.0.1	logchim.cc
+127.0.0.1	ssofhoseuegsgrfnu.ru
 127.0.0.1	168-100-10-21.cprapid.com
 127.0.0.1	cpcalendars.onlinebesttotogames.com
 127.0.0.1	oitopharma.parceirodocontador.com.br
@@ -40769,7 +40821,4 @@
 127.0.0.1	xwrmsistem.duckdns.org
 127.0.0.1	word-lang.gl.at.ply.gg
 127.0.0.1	birddogerc.com
-127.0.0.1	onlinesupportforroad.com
-127.0.0.1	friend-tr.gl.at.ply.gg
-127.0.0.1	nova-sentinel.com
-# Number of entries: 40766
+# Number of entries: 40815
