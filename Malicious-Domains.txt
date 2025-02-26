@@ -1,11 +1,90 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-26 12:23:27 UTC                        #
+# Last updated: 2025-02-26 21:00:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cananyalcin.com
+127.0.0.1	onchaind.xyz
+127.0.0.1	cpcontacts.gamesandufabetpro.website
+127.0.0.1	webdisk.gamesofufabet.website
+127.0.0.1	cpcalendars.homeremodel.website
+127.0.0.1	webdisk.bjshomeimprovement.website
+127.0.0.1	cpcalendars.bsttoolswx.xyz
+127.0.0.1	webmail.hostbesttech.website
+127.0.0.1	cpanel.bookdmsab.xyz
+127.0.0.1	cpcalendars.standlivemode.xyz
+127.0.0.1	cpcalendars.livninspot.xyz
+127.0.0.1	cpcontacts.bjshomeimprovement.website
+127.0.0.1	cpanel.gamesofalltotobest.xyz
+127.0.0.1	cpcontacts.policemt76.website
+127.0.0.1	webmail.wealthwrknetwork.xyz
+127.0.0.1	cpcontacts.wellcartnewzhub.xyz
+127.0.0.1	webmail.ufabetgames1010.xyz
+127.0.0.1	webmail.bsttoolswx.website
+127.0.0.1	webmail.gamesofalltotobest.xyz
+127.0.0.1	cpcalendars.5bestufabetgames.xyz
+127.0.0.1	cpcontacts.ufabetlover10.xyz
+127.0.0.1	webmail.genralnewzupdates.xyz
+127.0.0.1	cpanel.start7pros.xyz
+127.0.0.1	webmail.standlivemode.xyz
+127.0.0.1	cpanel.yesmoretotogamesnewz.xyz
+127.0.0.1	webmail.bestgamesufabet.xyz
+127.0.0.1	webdisk.odysseyoutlook.xyz
+127.0.0.1	cpcalendars.policemt76.website
+127.0.0.1	check.sijuh.icu
+127.0.0.1	check.sukif.icu
+127.0.0.1	earthycodlors.bet
+127.0.0.1	speakkernerved.bet
+127.0.0.1	sejrenevalley.bet
+127.0.0.1	eastehandeop.bet
+127.0.0.1	mountainvbreezes.bet
+127.0.0.1	sinappledreq.bet
+127.0.0.1	horoscopedcle.bet
+127.0.0.1	mycampdrivers.bet
+127.0.0.1	korvewo.top
+127.0.0.1	hftook7lmoutsg2.duckdns.org
+127.0.0.1	hftook7lmoutsg3.duckdns.org
+127.0.0.1	hftook7lmoutsg4.duckdns.org
+127.0.0.1	hftook7lmoutsg5.duckdns.org
+127.0.0.1	sigmaboi22-33711.portmap.host
+127.0.0.1	ux9s-52414.portmap.host
+127.0.0.1	mail.aestheticfina.com
+127.0.0.1	7serv.top
+127.0.0.1	wasabiwallet.info
+127.0.0.1	webmail.policemt76.website
+127.0.0.1	cpanel.wellcartnewzhub.xyz
+127.0.0.1	cpanel.dailypromos.xyz
+127.0.0.1	cpcontacts.bottomofbusiness.website
+127.0.0.1	cpcontacts.mtpolice12.website
+127.0.0.1	webmail.homesemupo.xyz
+127.0.0.1	cpcontacts.dailypromos.xyz
+127.0.0.1	wildxflowerdream.life
+127.0.0.1	pukisound.icu
+127.0.0.1	naturesartgistry.today
+127.0.0.1	graphick.cloud
+127.0.0.1	tampermonkey01.top
+127.0.0.1	tampermonkey02.top
+127.0.0.1	tampermonkey03.top
+127.0.0.1	tampermonkey04.top
+127.0.0.1	tampermonkey05.top
+127.0.0.1	tampermonkey06.top
+127.0.0.1	tampermonkey07.top
+127.0.0.1	tampermonkey08.top
+127.0.0.1	tampermonkey09.top
+127.0.0.1	tampermonkey10.top
+127.0.0.1	jowyfulbloom.shop
+127.0.0.1	peacefulgyrove.shop
+127.0.0.1	grezennaturepath.live
+127.0.0.1	mezadowdances.live
+127.0.0.1	exarthynature.run
+127.0.0.1	kaiserdome.run
+127.0.0.1	t.4ttechnology.com
+127.0.0.1	check.gozun.icu
+127.0.0.1	dealermobil.top
+127.0.0.1	tdatesting.b-cdn.net
 127.0.0.1	video-page.gl.at.ply.gg
 127.0.0.1	ftook7lmoutsg2.duckdns.org
 127.0.0.1	ftook7lmoutsg3.duckdns.org
@@ -40960,10 +41039,4 @@
 127.0.0.1	l0p1.shop
 127.0.0.1	firebaseupdater.com
 127.0.0.1	inepat.com
-127.0.0.1	top.enkey.click
-127.0.0.1	gigaload.click
-127.0.0.1	hill-java.gl.at.ply.gg
-127.0.0.1	xwrmsistem.duckdns.org
-127.0.0.1	word-lang.gl.at.ply.gg
-127.0.0.1	birddogerc.com
-# Number of entries: 40960
+# Number of entries: 41033
