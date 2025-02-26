@@ -1,11 +1,39 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-25 21:23:36 UTC                        #
+# Last updated: 2025-02-26 04:02:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	168-100-10-21.cprapid.com
+127.0.0.1	cpcalendars.onlinebesttotogames.com
+127.0.0.1	oitopharma.parceirodocontador.com.br
+127.0.0.1	cpcontacts.expressnewzgames.com
+127.0.0.1	cpcontacts.topdmdarama.com
+127.0.0.1	webdisk.gamesfunzartsz.com
+127.0.0.1	cpanel.bestofnewzandgames.com
+127.0.0.1	webdisk.dailypromos.xyz
+127.0.0.1	webmail.gamesofufabet.website
+127.0.0.1	cpcalendars.topdmdarama.com
+127.0.0.1	info.gov-hr.org
+127.0.0.1	cpcontacts.stockmrtktlite.xyz
+127.0.0.1	cpanel.hostbesttech.website
+127.0.0.1	cpanel.b2bbsuiness.website
+127.0.0.1	webdisk.totopolice031.website
+127.0.0.1	webmail.bestonenewznets.xyz
+127.0.0.1	webdisk.reprtgeneralshub.xyz
+127.0.0.1	cpcontacts.takeufagame1111.xyz
+127.0.0.1	cpanel.bookslinedzmod.xyz
+127.0.0.1	cpcontacts.bestpotworldzhb.xyz
+127.0.0.1	cpcalendars.gamesofufabet.website
+127.0.0.1	cpcontacts.ashionof121.xyz
+127.0.0.1	webmail.bestufaneedsgames.xyz
+127.0.0.1	cpcontacts.b2bbsuiness.xyz
+127.0.0.1	cpcalendars.bestufaneedsgames.xyz
+127.0.0.1	cpcalendars.bjshomeimprovement.xyz
+127.0.0.1	cpcalendars.ufa4games.website
+127.0.0.1	webmail.newdmkey.xyz
 127.0.0.1	hvsdkfjfhj-sd-1.pro
 127.0.0.1	sunotels.com
 127.0.0.1	jaguar-becomes-compare-chapter.trycloudflare.com
@@ -40744,4 +40772,4 @@
 127.0.0.1	onlinesupportforroad.com
 127.0.0.1	friend-tr.gl.at.ply.gg
 127.0.0.1	nova-sentinel.com
-# Number of entries: 40738
+# Number of entries: 40766
