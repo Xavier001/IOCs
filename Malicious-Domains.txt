@@ -1,11 +1,27 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-27 09:14:38 UTC                        #
+# Last updated: 2025-02-27 12:17:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	check.rikez.icu
+127.0.0.1	unclezekes.com
+127.0.0.1	api.driversnap.cloud
+127.0.0.1	api.drivercamhub.cloud
+127.0.0.1	api.videodriverzone.cloud
+127.0.0.1	api.videocarddrivers.cloud
+127.0.0.1	api.driverstream.cloud
+127.0.0.1	cpcontacts.techdeepart.com
+127.0.0.1	webdisk.sports777games.com
+127.0.0.1	webdisk.generalnewzsab.com
+127.0.0.1	webdisk.newzwireread.com
+127.0.0.1	cpanel.ipmnewsworld.com
+127.0.0.1	cpanel.allnewznetworksofarts.com
+127.0.0.1	cpanel.gamesofsportsandtoto.com
+127.0.0.1	cpcalendars.gamesofalltoto.com
+127.0.0.1	cpcontacts.blogssab.com
 127.0.0.1	instruments-arrives.gl.at.ply.gg
 127.0.0.1	webmail.thebestofbests.com
 127.0.0.1	cpanel.newzofnetworksera.com
@@ -41188,8 +41204,4 @@
 127.0.0.1	botnet.jexkia.online
 127.0.0.1	jexkia.online
 127.0.0.1	financialinvestmentsgrp.com
-127.0.0.1	wardia.com.pe
-127.0.0.1	coolarition.com
-127.0.0.1	438772cm.n9shka.top
-127.0.0.1	n9shka.top
-# Number of entries: 41186
+# Number of entries: 41198
