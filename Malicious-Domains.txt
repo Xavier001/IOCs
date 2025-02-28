@@ -1,11 +1,84 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-02-28 12:10:42 UTC                        #
+# Last updated: 2025-02-28 20:28:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	netsolut.com
+127.0.0.1	wherever-answered-issn-garcia.trycloudflare.com
+127.0.0.1	check.qozil.icu
+127.0.0.1	baca.prodigitalindo.id
+127.0.0.1	multiwayimmigration.com
+127.0.0.1	check.bipyl.icu
+127.0.0.1	transfer-grip.gl.at.ply.gg
+127.0.0.1	cameras-happen.gl.at.ply.gg
+127.0.0.1	cause-indexes.gl.at.ply.gg
+127.0.0.1	coolguy12-30292.portmap.host
+127.0.0.1	redslide-36078.portmap.host
+127.0.0.1	th8q3wj9w.localto.net
+127.0.0.1	operates-vampire.with.playit.plus
+127.0.0.1	23-43449.portmap.host
+127.0.0.1	botnet.voct.dev
+127.0.0.1	tagol51982-62186.portmap.host
+127.0.0.1	d.formaxprime.co.uk
+127.0.0.1	check.qitub.icu
+127.0.0.1	cpanel.eragamshub.xyz
+127.0.0.1	cpcalendars.businesspros.xyz
+127.0.0.1	cpcontacts.homeaddition.website
+127.0.0.1	webmail.gameswithufabet.xyz
+127.0.0.1	cpanel.businessnewznetwork.xyz
+127.0.0.1	cpanel.bjshomeimprovement.xyz
+127.0.0.1	webmail.techspilotx.website
+127.0.0.1	webmail.gamesofart1.xyz
+127.0.0.1	cpanel.bestonlinegamez.xyz
+127.0.0.1	cpanel.businesseshub.xyz
+127.0.0.1	webdisk.ashionof121.xyz
+127.0.0.1	cpcalendars.apexhomeimprovement.website
+127.0.0.1	cpcalendars.onlinegameshub.xyz
+127.0.0.1	cpcontacts.generalspotline.org
+127.0.0.1	cpanel.businesshostz.xyz
+127.0.0.1	cpcontacts.hostbesttech.website
+127.0.0.1	webdisk.businesspros.xyz
+127.0.0.1	cpcontacts.paranewslivesab.xyz
+127.0.0.1	webmail.shakdmisab.xyz
+127.0.0.1	webdisk.time2levelz.xyz
+127.0.0.1	check.qogur.icu
+127.0.0.1	packaging.briko.com
+127.0.0.1	bocdoc.fr
+127.0.0.1	elbio.tn
+127.0.0.1	doondefenceacademy.com
+127.0.0.1	check.jixal.icu
+127.0.0.1	suckerity.xyz
+127.0.0.1	cdn.iconstaff.top
+127.0.0.1	dawtastream.bet
+127.0.0.1	all-trans.online
+127.0.0.1	porsikgq.beget.tech
+127.0.0.1	cs2weaponpaints.ru.s29.hhos.net
+127.0.0.1	a1091043.xsph.ru
+127.0.0.1	a1090962.xsph.ru
+127.0.0.1	check.hysuz.icu
+127.0.0.1	check.remag.icu
+127.0.0.1	brisasdelestadio.com
+127.0.0.1	thecapitaltimes.co.ug
+127.0.0.1	webdisk.businessnewznetwork.website
+127.0.0.1	cpcontacts.fivetopbusiness.website
+127.0.0.1	webmail.topzbuscartio.xyz
+127.0.0.1	check.myfet.icu
+127.0.0.1	goldenpeakmedia.com
+127.0.0.1	royalmailcouriercompany.com
+127.0.0.1	check.mosat.icu
+127.0.0.1	leafvypathways.top
+127.0.0.1	windows.envisionfonddulac.net
+127.0.0.1	check.cined.icu
+127.0.0.1	check.mijuf.icu
+127.0.0.1	couterfv.top
+127.0.0.1	check.nuwab.icu
+127.0.0.1	www.rendaextradigitaltodosdias.online
+127.0.0.1	www.orenesdistribucion.com
+127.0.0.1	hypo-dance.pages.dev
+127.0.0.1	lumichain.pro
 127.0.0.1	check.fafyd.icu
 127.0.0.1	api.masjesu.zip
 127.0.0.1	wawanewsglobal.com
@@ -41481,20 +41554,4 @@
 127.0.0.1	rentyrooms.com
 127.0.0.1	api.xrczy.xyz
 127.0.0.1	xrczy.xyz
-127.0.0.1	vetiir14.top
-127.0.0.1	moriiikk04.top
-127.0.0.1	pacqja66.top
-127.0.0.1	nekgby42.top
-127.0.0.1	tigmyz05.top
-127.0.0.1	cotraress10.top
-127.0.0.1	densitybragpwq.shop
-127.0.0.1	evaluateoqwp.shop
-127.0.0.1	iserjpcektoq.shop
-127.0.0.1	ponintnykqwm.shop
-127.0.0.1	strideforuwqm.shop
-127.0.0.1	drmadhurao.com
-127.0.0.1	rvenom.duckdns.org
-127.0.0.1	nova-nation.pro
-127.0.0.1	prnt-screen.com
-127.0.0.1	biginfo.xyz
-# Number of entries: 41491
+# Number of entries: 41548
