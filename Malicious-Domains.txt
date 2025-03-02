@@ -1,11 +1,51 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-01 20:46:51 UTC                        #
+# Last updated: 2025-03-02 04:01:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	webmail.viralbookshub.xyz
+127.0.0.1	cpcalendars.reprtgeneralshub.xyz
+127.0.0.1	cpcalendars.bestonenewznets.xyz
+127.0.0.1	webmail.fieldznorms.xyz
+127.0.0.1	cpcalendars.firstgamezzdiary.website
+127.0.0.1	cpanel.fashionof11.com
+127.0.0.1	webmail.proonlinehub.xyz
+127.0.0.1	cpcontacts.cgibusiness.xyz
+127.0.0.1	ec2-54-216-172-128.eu-west-1.compute.amazonaws.com
+127.0.0.1	webdisk.apkhubnewz.com
+127.0.0.1	webmail.businessnewznetwork.xyz
+127.0.0.1	cpcontacts.dmspotzera.xyz
+127.0.0.1	cpanel.expressnewzgames.com
+127.0.0.1	cpcalendars.welovetotogames.xyz
+127.0.0.1	cpcontacts.ufa4games.website
+127.0.0.1	webdisk.top10gamesofoto1.xyz
+127.0.0.1	cpanel.bestofufabetgames.xyz
+127.0.0.1	webmail.reprtgeneralshub.xyz
+127.0.0.1	cpcontacts.livebengsnnewz.xyz
+127.0.0.1	webmail.modegenerlshub.xyz
+127.0.0.1	cpcalendars.8761gamesofarts.xyz
+127.0.0.1	cpanel.totomaker1.website
+127.0.0.1	cpanel.homeimprovementbrad.website
+127.0.0.1	webmail.topfiveufabetgames.xyz
+127.0.0.1	webmail.onlinebesttotogamesnewz.xyz
+127.0.0.1	cpcalendars.businesswithloyal.website
+127.0.0.1	cpanel.betufa.website
+127.0.0.1	cpcalendars.domizmusk.website
+127.0.0.1	cpcalendars.teamofufabetgames.xyz
+127.0.0.1	webmail.textagenai.xyz
+127.0.0.1	cpcalendars.answerallnewz.com
+127.0.0.1	cpcontacts.ufabetgameslover89.xyz
+127.0.0.1	cpcontacts.livninspot.xyz
+127.0.0.1	cpcalendars.hostbesttech.website
+127.0.0.1	cpcontacts.broadcnnewz.xyz
+127.0.0.1	cpanel.upnddownapps.xyz
+127.0.0.1	webmail.gamesoftotoandtotoof.xyz
+127.0.0.1	webdisk.mtpolice077.website
+127.0.0.1	cpanel.standlivemode.xyz
+127.0.0.1	cpcontacts.dmustkpoint.xyz
 127.0.0.1	ns.1.3.0o0.foo
 127.0.0.1	ns.1.4.0o0.foo
 127.0.0.1	webmail.ufabets.website
@@ -41848,7 +41888,4 @@
 127.0.0.1	online4321.shop
 127.0.0.1	grand-merchants.gl.at.ply.gg
 127.0.0.1	ixiapartner.com
-127.0.0.1	tur-pttpayment.top
-127.0.0.1	correoparagua-pry.top
-127.0.0.1	mex-estafeeta.top
-# Number of entries: 41845
+# Number of entries: 41882

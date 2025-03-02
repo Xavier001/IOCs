@@ -38,6 +38,7 @@ clinic.allinahealth.us.org,Possible Cobalt Strike C2 Fronted Domain
 cloud-sync-bcjxmnarpb.cn-shanghai.fcapp.run,Possible Cobalt Strike C2 Domain
 cloudflare.route-api.com,Possible Cobalt Strike C2 Domain
 cnm.rememdam.xyz,Possible Cobalt Strike C2 Domain
+content.azurefd.net,Possible Cobalt Strike C2 Domain
 coolodyinvest.com,Possible Cobalt Strike C2 Domain
 cp.bitthebyte.com,Possible Cobalt Strike C2 Domain
 cs.xsjl7932.top,Possible Cobalt Strike C2 Domain
@@ -164,7 +165,10 @@ stingray.cisco.us.org,Possible Cobalt Strike C2 Fronted Domain
 store.gridgatecloud.com,Possible Cobalt Strike C2 Domain
 stratv.digitapik.com,Possible Cobalt Strike C2 Domain
 sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain
+support.microsoft.com.volcgslb-mlt.com,Possible Cobalt Strike C2 Fronted Domain
 support.twistwind.com,Possible Cobalt Strike C2 Domain
+sz-sourcetail-all.volcmlt.com,Possible Cobalt Strike C2 Fronted Domain
+sz-sourcetail-v4.volcmlt.com,Possible Cobalt Strike C2 Fronted Domain
 szyzs.szunicom.com,Possible Cobalt Strike C2 Fronted Domain
 tdatesting.b-cdn.net,Possible Cobalt Strike C2 Domain
 test.stg.bitthebyte.com,Possible Cobalt Strike C2 Domain
