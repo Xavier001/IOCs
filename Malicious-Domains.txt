@@ -1,11 +1,34 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-02 20:54:19 UTC                        #
+# Last updated: 2025-03-03 04:01:10 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cpcalendars.topbusineszworldk.xyz
+127.0.0.1	webdisk.gamesofalltotobest.xyz
+127.0.0.1	webmail.topdmdarama.com
+127.0.0.1	webdisk.dmustkpoint.xyz
+127.0.0.1	webmail.sportscasino.website
+127.0.0.1	cpanel.playufabetgames.xyz
+127.0.0.1	cpanel.bestgamesufabet.xyz
+127.0.0.1	cpanel.10bestgamesofufabet.xyz
+127.0.0.1	cpanel.stockmrtktlite.xyz
+127.0.0.1	cpanel.homesemupo.xyz
+127.0.0.1	webdisk.ufabetandcasinos.website
+127.0.0.1	cpcontacts.gamesofufabet.website
+127.0.0.1	webmail.superbbusiness.website
+127.0.0.1	cpcalendars.eragamshub.xyz
+127.0.0.1	cpanel.cgibusiness.xyz
+127.0.0.1	cpanel.generalspotline.org
+127.0.0.1	cpcalendars.artisansrealm.xyz
+127.0.0.1	cpcalendars.broadcnnewz.xyz
+127.0.0.1	havoccf.evilpony.win
+127.0.0.1	cpanel.homeremodel.website
+127.0.0.1	cpcalendars.gamesandufabetpro.website
+127.0.0.1	sms.qr-share.online
+127.0.0.1	ec2-3-1-228-240.ap-southeast-1.compute.amazonaws.com
 127.0.0.1	pevemtnchil.live
 127.0.0.1	cpcontacts.top10gamesofoto1.xyz
 127.0.0.1	cpcalendars.bookdmsab.xyz
@@ -42131,6 +42154,4 @@
 127.0.0.1	blacktds.win
 127.0.0.1	noithatcombo.com.vn
 127.0.0.1	fdfdsfdsag.duckdns.org
-127.0.0.1	nova-stealer.xyz
-127.0.0.1	nova-stealer.tech
-# Number of entries: 42127
+# Number of entries: 42148
