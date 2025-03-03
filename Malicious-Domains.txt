@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-03 09:21:38 UTC                        #
+# Last updated: 2025-03-03 12:08:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	phygcsforum.life
+127.0.0.1	explorebieology.run
+127.0.0.1	moderzysics.top
+127.0.0.1	growtesitte.life
+127.0.0.1	check.lojem.icu
+127.0.0.1	labnewgaily.world
+127.0.0.1	webdisk.ipmnewsworld.com
+127.0.0.1	webmail.generalnewzsab.com
 127.0.0.1	socapante.ch
 127.0.0.1	offerpage.xyz
 127.0.0.1	support.vmphere.com
@@ -42189,4 +42197,4 @@
 127.0.0.1	blacktds.best
 127.0.0.1	blacktds.world
 127.0.0.1	blacktds.win
-# Number of entries: 42183
+# Number of entries: 42191
