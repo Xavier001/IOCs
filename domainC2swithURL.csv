@@ -8,6 +8,7 @@
 a8tkf5twd0gk0.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/load
 aaa.ad4min.com,Possible Cobalt Strike C2 Domain,/j.ad
 again.sftech.one,Possible Cobalt Strike C2 Domain,/antDesign3.js
+api.baidupro.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 api.co-operativefinance.com,Possible Cobalt Strike C2 Domain,/push
 api.freeresolver.online,Possible Cobalt Strike C2 Domain,/portes-ouvertes/fiche/7362
 api.googleshop.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -42,11 +43,13 @@ cnm.rememdam.xyz,Possible Cobalt Strike C2 Domain,/image/
 content.azurefd.net,Possible Cobalt Strike C2 Domain,/app.bundle.5d2h8da.min.js
 coolodyinvest.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cp.bitthebyte.com,Possible Cobalt Strike C2 Domain,/ca
+cs-scf-tvbgoqlklq.cn-hangzhou.fcapp.run,Possible Cobalt Strike C2 Domain,/developer-server/online/_next/static/png
 cutecats.catonline.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 d1g585jmjo23vr.cloudfront.net,Possible Cobalt Strike C2 Domain,/functionalStatus/dQ2ZPQXqheAjyNHljYBmkDlsHLW42
-d2dg9r7lo4m4sn.cloudfront.net,Possible Cobalt Strike C2 Domain,/documents/10179/Guida_accesso_portale_NoiPA_20130713.pdf
+d2dg9r7lo4m4sn.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/documents/10179/Guida_accesso_portale_NoiPA_20130713.pdf
 d2lqask6y7it3k.cloudfront.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 d2pivnfo8jhibw.cloudfront.net,Possible Cobalt Strike C2 Domain,/safebrowsing/hfY-jmSS3/2yZeNHnfHb8fzYiNKq7dF1E6s49Gq1YK
+d3ayy3ulepm5xz.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/documents/10179/Guida_accesso_portale_NoiPA_20130713.pdf
 d3d1gkntf28dyd.cloudfront.net,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 d3d1gkntf28dyd.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 d3phy7ayeu54iz.cloudfront.net,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
@@ -63,7 +66,6 @@ dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/
 dn94wj1imv9rk.cloudfront.net,Possible Cobalt Strike C2 Domain,/jabber.txt
-douyin.wwvvdouyin.cc,Possible Cobalt Strike C2 Domain,/include/template/isx.php
 douyin.wwvvdouyin.cc,Possible Cobalt Strike C2 Domain,/push
 dubai-wealth-hub.co.uk,Possible Cobalt Strike C2 Domain,/__utm.gif
 easyjlpt.com,Possible Cobalt Strike C2 Domain,/images/c/5/0/9/favicon.png
@@ -81,6 +83,7 @@ google.baobecgiang.net,Possible Cobalt Strike C2 Domain,/socialapiVersion=1.1
 google.route-api.com,Possible Cobalt Strike C2 Domain,/g.pixel
 habr.life,Possible Cobalt Strike C2 Domain,/match
 info.gov-hr.org,Possible Cobalt Strike C2 Domain,/apps/files_rightclick/css/app.css
+jd.ochamaze.com,Possible Cobalt Strike C2 Domain,/image/
 ks.habr.life,Possible Cobalt Strike C2 Domain,/visit.js
 liolio.cn,Possible Cobalt Strike C2 Domain,/__utm.gif
 m.bestseller.com.cn,Possible Cobalt Strike C2 Fronted Domain,/gateway/api/user
@@ -112,10 +115,12 @@ ns1.ersanca.com,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888
 ns1.glthub.icu,Possible Cobalt Strike C2 Domain,/__utm.gif
 ns1.helneri.com,Possible Cobalt Strike C2 Domain,/functionalStatus/RvyJGu5LdFeQdWTel1u-FLJCtI
 ns1.hkappdev.com,Possible Cobalt Strike C2 Domain,/__utm.gif
+ns1.hkk-test.top,Possible Cobalt Strike C2 Domain,/dot.gif
 ns1.hostwps.cn,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.jquery.cn.com,Possible Cobalt Strike C2 Domain,/link
 ns1.kerrerf.com,Possible Cobalt Strike C2 Domain,/safebrowsing/hfY-jmSS3/2yZeNHnfHb8fzYiNKq7dF1E6s49Gq1YK
 ns1.lumeala.com,Possible Cobalt Strike C2 Domain,/functionalStatus/YAL7JBd70YE4YCjhlTQRZbDDtJffXJJ-X
+ns1.nactrace.com,Possible Cobalt Strike C2 Domain,/fwlink
 ns1.sdkhsdfsdl54dsd.cfd,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.translategoos.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ns1.vip8025.mom,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -178,6 +183,7 @@ test.stg.bitthebyte.com,Possible Cobalt Strike C2 Domain,/image/
 test.venenof7.top,Possible Cobalt Strike C2 Domain,/visit.js
 test250223.iqiyib.icu,Possible Cobalt Strike C2 Domain,/cx
 update.mloadspring.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+update.ochamaze.com,Possible Cobalt Strike C2 Domain,/image/
 upgrade.mloadspring.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 vccdn.techforgood.qq.com,Possible Cobalt Strike C2 Fronted Domain,/mall_100_100.html
 vvindow.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -195,6 +201,7 @@ www.servgate.me,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.wenopc.tech,Possible Cobalt Strike C2 Domain,/match
 www.windcapital.click,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.xiaoda112.beauty,Possible Cobalt Strike C2 Domain,/visit.js
+www.xxxb.shop,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 wxx.aliyunn.uno,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 yydsisnull.sbs,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 zako.da1suki.com,Possible Cobalt Strike C2 Domain,/us
