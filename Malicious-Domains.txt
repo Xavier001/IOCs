@@ -1,11 +1,40 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-03 20:57:59 UTC                        #
+# Last updated: 2025-03-04 04:01:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ph62003.yblds888.uk
+127.0.0.1	webmail.gamesofart.com
+127.0.0.1	webmail.offonnetwork.com
+127.0.0.1	cpanel.pointtotechiworld.xyz
+127.0.0.1	cpcalendars.enjoyufabet.xyz
+127.0.0.1	webdisk.cgibusiness.xyz
+127.0.0.1	webdisk.homeremodel.website
+127.0.0.1	ev.tresquno.live
+127.0.0.1	webmail.bottomofbusiness.website
+127.0.0.1	webdisk.generalztipsal.xyz
+127.0.0.1	cpcontacts.topfiveufabetgames.xyz
+127.0.0.1	webdisk.bookslinedzmod.xyz
+127.0.0.1	webdisk.livebengsnnewz.xyz
+127.0.0.1	cpcalendars.gamesofalltotobest.xyz
+127.0.0.1	cpanel.livebengsnnewz.xyz
+127.0.0.1	cpcontacts.proonlinehub.xyz
+127.0.0.1	webdisk.top5business.website
+127.0.0.1	cpcontacts.homeimprovementbox.website
+127.0.0.1	cpcalendars.textagenai.xyz
+127.0.0.1	webdisk.totogames1network.xyz
+127.0.0.1	webdisk.upnddownapps.xyz
+127.0.0.1	cpcontacts.dmhubnewsz.website
+127.0.0.1	webdisk.takeufagame1212.xyz
+127.0.0.1	cpcontacts.bestofufabetgames.xyz
+127.0.0.1	cpanel.toptenufabetgames.xyz
+127.0.0.1	cpcontacts.touchufabetgames.xyz
+127.0.0.1	webmail.welbngusnews.xyz
+127.0.0.1	test.okbtc.io
+127.0.0.1	cloud.youtubedns.com
 127.0.0.1	apileet.hexonst34l3r.com
 127.0.0.1	nacionalmedia.com
 127.0.0.1	cs-scf-tvbgoqlklq.cn-hangzhou.fcapp.run
@@ -42358,4 +42387,4 @@
 127.0.0.1	weinsteinfrog.com
 127.0.0.1	api.gupdate.net
 127.0.0.1	githubapp.net
-# Number of entries: 42352
+# Number of entries: 42381
