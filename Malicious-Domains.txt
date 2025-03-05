@@ -1,11 +1,28 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-04 21:25:33 UTC                        #
+# Last updated: 2025-03-05 04:01:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cpanel.gamesfunzartsz.com
+127.0.0.1	cpcalendars.settotoupbmart.com
+127.0.0.1	webdisk.youandmewtoto.xyz
+127.0.0.1	cpanel.blogssab.com
+127.0.0.1	cpcontacts.odysseyoutlook.xyz
+127.0.0.1	cpanel.bestreadup.xyz
+127.0.0.1	webmail.ufabetlover10.xyz
+127.0.0.1	cpcontacts.allthefiver.com
+127.0.0.1	webmail.levelfrstdm.xyz
+127.0.0.1	cpcalendars.stockmrtktlite.xyz
+127.0.0.1	webdisk.bottomofbusiness.website
+127.0.0.1	cpcontacts.enjoyufabet.xyz
+127.0.0.1	cpcalendars.shakdmisab.xyz
+127.0.0.1	webmail.top10gamesofoto1.xyz
+127.0.0.1	webmail.10bestufabetgames.xyz
+127.0.0.1	webdisk.livninspot.xyz
+127.0.0.1	modtuning.world
 127.0.0.1	africa-wins.gl.at.ply.gg
 127.0.0.1	language-leading.gl.at.ply.gg
 127.0.0.1	newsletter-effects.gl.at.ply.gg
@@ -42444,72 +42461,4 @@
 127.0.0.1	india-scam-call-center.pw
 127.0.0.1	voxiumhub.com
 127.0.0.1	voxium.eu
-127.0.0.1	ghty.online
-127.0.0.1	cnc.ghty.online
-127.0.0.1	ghty.online
-127.0.0.1	cnc.ghty.online
-127.0.0.1	ydl-v2.mhdy.site
-127.0.0.1	mhdy.site
-127.0.0.1	topowerapp.monster
-127.0.0.1	topquickapp.monster
-127.0.0.1	vipabilityapp.monster
-127.0.0.1	vipfulminantapp.monster
-127.0.0.1	viplightapp.monster
-127.0.0.1	vipowerapp.monster
-127.0.0.1	gosuperbapp.monster
-127.0.0.1	hotabilityapp.monster
-127.0.0.1	hotdigitalapp.monster
-127.0.0.1	hotneatapp.monster
-127.0.0.1	openperfectapp.monster
-127.0.0.1	puredigitalapp.monster
-127.0.0.1	purelightapp.monster
-127.0.0.1	royalneatapp.monster
-127.0.0.1	runabilityapp.monster
-127.0.0.1	runcoolapp.monster
-127.0.0.1	rundigitalapp.monster
-127.0.0.1	safecoolapp.monster
-127.0.0.1	safelightapp.monster
-127.0.0.1	safeneatapp.monster
-127.0.0.1	safequickapp.monster
-127.0.0.1	savegrandapp.monster
-127.0.0.1	saveperfectapp.monster
-127.0.0.1	savesuperbapp.monster
-127.0.0.1	sendcoolapp.monster
-127.0.0.1	speedfulminantapp.monster
-127.0.0.1	speedgrandapp.monster
-127.0.0.1	topabilityapp.monster
-127.0.0.1	topglobalapp.com
-127.0.0.1	topgrandapp.monster
-127.0.0.1	cleanpowerapp.monster
-127.0.0.1	elitedigitalapp.monster
-127.0.0.1	eliteneatapp.monster
-127.0.0.1	eliteofficialapp.monster
-127.0.0.1	extraofficialapp.monster
-127.0.0.1	extraquickapp.monster
-127.0.0.1	fastsuperbapps.monster
-127.0.0.1	freeabilityapp.monster
-127.0.0.1	freecoolapp.monster
-127.0.0.1	freelightapp.monster
-127.0.0.1	freeneatapp.monster
-127.0.0.1	freeofficialapp.monster
-127.0.0.1	freepowerapp.monster
-127.0.0.1	freshperfectapps.monster
-127.0.0.1	getabilityapp.monster
-127.0.0.1	getofficialapp.monster
-127.0.0.1	getquickapp.monster
-127.0.0.1	goldabilityapp.monster
-127.0.0.1	goldfulminantapp.monster
-127.0.0.1	goldofficialapp.monster
-127.0.0.1	goldpowerapp.monster
-127.0.0.1	goldquickapp.monster
-127.0.0.1	goneatapp.monster
-127.0.0.1	extrapowerapp.monster
-127.0.0.1	runperfectapps.monster
-127.0.0.1	webgrandapp.monster
-127.0.0.1	bestabilityapp.monster
-127.0.0.1	bestdigitalapp.monster
-127.0.0.1	bestfulminantapp.monster
-127.0.0.1	bestgrandapp.monster
-127.0.0.1	bestquickapp.monster
-127.0.0.1	cleanfulminantapp.monster
-# Number of entries: 42506
+# Number of entries: 42455
