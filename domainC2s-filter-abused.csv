@@ -31,20 +31,16 @@ catmyinfo.top,Possible Cobalt Strike C2 Domain
 cdn.easyjlpt.com,Possible Cobalt Strike C2 Domain
 cdn.efstech.de,Possible Cobalt Strike C2 Domain
 cdn.gridgatecloud.com,Possible Cobalt Strike C2 Domain
-cdn.inmediavault.com,Possible Cobalt Strike C2 Domain
 cdn.ipv6ipts.com,Possible Cobalt Strike C2 Domain
 cdn.looklook.sbs,Possible Cobalt Strike C2 Domain
-certs.ltd,Possible Cobalt Strike C2 Domain
 cfd.njpji.edu.cn,Possible Cobalt Strike C2 Fronted Domain
 check.judicical.ml,Possible Cobalt Strike C2 Domain
 check1.judicical.ml,Possible Cobalt Strike C2 Domain
 cloud-sync-bcjxmnarpb.cn-shanghai.fcapp.run,Possible Cobalt Strike C2 Domain
 cloud.youtubedns.com,Possible Cobalt Strike C2 Domain
 cloudflare.route-api.com,Possible Cobalt Strike C2 Domain
-cnm.rememdam.xyz,Possible Cobalt Strike C2 Domain
 content.azurefd.net,Possible Cobalt Strike C2 Domain
 coolodyinvest.com,Possible Cobalt Strike C2 Domain
-cp.bitthebyte.com,Possible Cobalt Strike C2 Domain
 cs-scf-tvbgoqlklq.cn-hangzhou.fcapp.run,Possible Cobalt Strike C2 Domain
 cutecats.catonline.top,Possible Cobalt Strike C2 Domain
 d1g585jmjo23vr.cloudfront.net,Possible Cobalt Strike C2 Domain
@@ -65,6 +61,7 @@ dn94wj1imv9rk.cloudfront.net,Possible Cobalt Strike C2 Domain
 douyin.wwvvdouyin.cc,Possible Cobalt Strike C2 Domain
 dubai-wealth-hub.co.uk,Possible Cobalt Strike C2 Domain
 easyjlpt.com,Possible Cobalt Strike C2 Domain
+en.chinaaie.com.cn,Possible Cobalt Strike C2 Fronted Domain
 evokvm.eu.org,Possible Cobalt Strike C2 Domain
 exfiltrator.online,Possible Cobalt Strike C2 Domain
 file.flash-oss.info,Possible Cobalt Strike C2 Domain
@@ -79,14 +76,11 @@ google.baobecgiang.net,Possible Cobalt Strike C2 Domain
 google.route-api.com,Possible Cobalt Strike C2 Domain
 habr.life,Possible Cobalt Strike C2 Domain
 ikun.blacktelson.cloudns.ch,Possible Cobalt Strike C2 Domain
-info.gov-hr.org,Possible Cobalt Strike C2 Domain
 jd.ochamaze.com,Possible Cobalt Strike C2 Domain
-ks.habr.life,Possible Cobalt Strike C2 Domain
 liolio.cn,Possible Cobalt Strike C2 Domain
 m.bestseller.com.cn,Possible Cobalt Strike C2 Fronted Domain
 m.only.cn,Possible Cobalt Strike C2 Fronted Domain
 manage.flash-oss.info,Possible Cobalt Strike C2 Domain
-meizu.info,Possible Cobalt Strike C2 Domain
 ms.quens.top,Possible Cobalt Strike C2 Domain
 msntp.windowstimezone.com,Possible Cobalt Strike C2 Domain
 ncs.e-twfpg.com,Possible Cobalt Strike C2 Domain
@@ -150,13 +144,14 @@ panel.devcomonline.com,Possible Cobalt Strike C2 Fronting Domain
 pull.m1cr0s0ft.xyz,Possible Cobalt Strike C2 Domain
 quad9.route-api.com,Possible Cobalt Strike C2 Domain
 query.freeresolver.online,Possible Cobalt Strike C2 Domain
-regea.oss-accelerate.aliyuncs.com,Possible Cobalt Strike C2 Fronting Domain
 request.freeresolver.online,Possible Cobalt Strike C2 Domain
+scan.daztar.com,Possible Cobalt Strike C2 Domain
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-a0ahsoek-1257582847.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-jnajkkdg-1318687485.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain
 service-rchqbzvz-1301033415.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain
+sf.oss-accelerate.aliyuncs.com,Possible Cobalt Strike C2 Fronting Domain
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain
 somehost.p0c.xyz,Possible Cobalt Strike C2 Domain
 sosgo.top,Possible Cobalt Strike C2 Domain
@@ -185,11 +180,9 @@ www.baidu-image.top,Possible Cobalt Strike C2 Domain
 www.cioudfiear.com,Possible Cobalt Strike C2 Domain
 www.googlef.top,Possible Cobalt Strike C2 Domain
 www.honorofkings.me,Possible Cobalt Strike C2 Domain
-www.idkghs.com,Possible Cobalt Strike C2 Domain
 www.mfmni.shop,Possible Cobalt Strike C2 Fronting Domain
 www.minernaft.com,Possible Cobalt Strike C2 Domain
 www.nemonet.top,Possible Cobalt Strike C2 Domain
-www.servgate.me,Possible Cobalt Strike C2 Domain
 www.votass.com,Possible Cobalt Strike C2 Domain
 www.votass.com,Possible Cobalt Strike C2 Fronted Domain
 www.wenopc.tech,Possible Cobalt Strike C2 Domain
