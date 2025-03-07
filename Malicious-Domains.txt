@@ -1,11 +1,39 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-06 21:35:53 UTC                        #
+# Last updated: 2025-03-07 04:00:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	webdisk.techndgadget.com
+127.0.0.1	webmail.bookslinedzmod.xyz
+127.0.0.1	cpcalendars.takeufagame1111.xyz
+127.0.0.1	webmail.canvatechsports.com
+127.0.0.1	webmail.welovetotogames.com
+127.0.0.1	cpcalendars.10bestufabetgames.xyz
+127.0.0.1	cpcontacts.topthounds.com
+127.0.0.1	cpcalendars.techspilotx.website
+127.0.0.1	cpcalendars.fieldznorms.xyz
+127.0.0.1	cpcontacts.apexhomeimprovement.website
+127.0.0.1	cpanel.enjoyedufabet.xyz
+127.0.0.1	www.fuckingmovie.icu
+127.0.0.1	cpanel.toriters7.xyz
+127.0.0.1	cpcontacts.10bestbusiness.xyz
+127.0.0.1	webdisk.allnewznetworksofarts.com
+127.0.0.1	webmail.generalspotline.org
+127.0.0.1	cpanel.teamofufabetgames.xyz
+127.0.0.1	webdisk.sportsfootball.website
+127.0.0.1	cpcalendars.digitalbusineszclub.xyz
+127.0.0.1	cpcontacts.toplavishnewz43.xyz
+127.0.0.1	cpcalendars.trendingbstuisports.xyz
+127.0.0.1	cpanel.touchufabetgames.xyz
+127.0.0.1	cpanel.toplvlnewz.xyz
+127.0.0.1	cpcalendars.pointtotechiworld.xyz
+127.0.0.1	webdisk.broadcnnewz.xyz
+127.0.0.1	cpanel.apkhubnewz.com
+127.0.0.1	cpcalendars.mtpolice12.website
+127.0.0.1	www.glitchhaven.tech
 127.0.0.1	check.qacot.icu
 127.0.0.1	gebi.dorklifedubbed.shop
 127.0.0.1	check.latan.icu
@@ -43029,5 +43057,4 @@
 127.0.0.1	sbrglobal.net
 127.0.0.1	millen.ddns.net
 127.0.0.1	fiftv15pt.top
-127.0.0.1	vulcano10.duckdns.org
-# Number of entries: 43024
+# Number of entries: 43051
