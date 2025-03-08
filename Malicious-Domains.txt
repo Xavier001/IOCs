@@ -1,11 +1,25 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-07 20:01:04 UTC                        #
+# Last updated: 2025-03-08 04:00:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	webmail.businesswithloyal.website
+127.0.0.1	cpanel.modegenerlshub.xyz
+127.0.0.1	cpcalendars.ranknewzmedia.com
+127.0.0.1	cpcontacts.8761gamesofarts.xyz
+127.0.0.1	webmail.bottomofbusiness.xyz
+127.0.0.1	cpcalendars.bsttoolswx.website
+127.0.0.1	cpcalendars.techgambuzz.xyz
+127.0.0.1	webmail.eragamshub.xyz
+127.0.0.1	ec2-18-97-23-200.compute-1.amazonaws.com
+127.0.0.1	webdisk.handufabetgames.xyz
+127.0.0.1	cpcalendars.paranewslivesab.xyz
+127.0.0.1	webdisk.10bestbusiness.xyz
+127.0.0.1	cpcontacts.start7pros.xyz
+127.0.0.1	webmail.mtpolice077.website
 127.0.0.1	cpcalendars.superbbusiness.website
 127.0.0.1	webmail.magzineviralzhubz.xyz
 127.0.0.1	webmail.businesssabart.xyz
@@ -43096,5 +43110,4 @@
 127.0.0.1	mail.fulfillirite.com
 127.0.0.1	voidsystems.duckdns.org
 127.0.0.1	webcachespace.net
-127.0.0.1	hukumdarcraft.com
-# Number of entries: 43091
+# Number of entries: 43104
