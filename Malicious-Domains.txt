@@ -1,11 +1,47 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-09 04:01:06 UTC                        #
+# Last updated: 2025-03-09 10:14:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	eighthh8th.top
+127.0.0.1	onehh1th.top
+127.0.0.1	sixhh6th.top
+127.0.0.1	tenhh10th.top
+127.0.0.1	sixbr6vt.top
+127.0.0.1	onebr1vt.top
+127.0.0.1	sixgb6sb.top
+127.0.0.1	eightbs8sr.top
+127.0.0.1	sterpickced.digital
+127.0.0.1	confessnibmle.top
+127.0.0.1	smartsolutions24.top
+127.0.0.1	zfurrycomp.top
+127.0.0.1	dsimensio.bet
+127.0.0.1	followfauc.cyou
+127.0.0.1	f1100076.xsph.ru
+127.0.0.1	code-yandex.ru
+127.0.0.1	tenbs10sr.top
+127.0.0.1	webmail.blogssab.com
+127.0.0.1	cpcalendars.bigmedianetwrk.com
+127.0.0.1	figure-races.gl.at.ply.gg
+127.0.0.1	remember-convenient.gl.at.ply.gg
+127.0.0.1	some-event.gl.at.ply.gg
+127.0.0.1	support-effectiveness.gl.at.ply.gg
+127.0.0.1	imthat1guyfrfr-32310.portmap.host
+127.0.0.1	aboltustimoha-43339.portmap.host
+127.0.0.1	found-politicians.gl.at.ply.gg
+127.0.0.1	2533qwefs-64288.portmap.host
+127.0.0.1	pdf-switched.gl.at.ply.gg
+127.0.0.1	mosayjanobo-38048.portmap.host
+127.0.0.1	botnet1.uapworx1.sbs
+127.0.0.1	check.qinah.icu
+127.0.0.1	pwn.bamuwe.xyz
+127.0.0.1	cpcalendars.sports777games.com
+127.0.0.1	check.jiceo.icu
+127.0.0.1	check.juxoi.icu
+127.0.0.1	check.henuo.icu
 127.0.0.1	cpcalendars.top10gamesofoto.com
 127.0.0.1	webdisk.totogamesnetwork.com
 127.0.0.1	webmail.start7pros.xyz
@@ -43186,4 +43222,4 @@
 127.0.0.1	ganharcomblog.com
 127.0.0.1	benefits.melanatedbloodlinesrestoration.com
 127.0.0.1	quickresource.xyz
-# Number of entries: 43180
+# Number of entries: 43216
