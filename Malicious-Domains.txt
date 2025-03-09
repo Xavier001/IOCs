@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-09 10:14:47 UTC                        #
+# Last updated: 2025-03-09 12:12:08 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	check.somyq.icu
+127.0.0.1	webmail.onlinebesttotogames.com
+127.0.0.1	cpcalendars.welovetotogames.com
+127.0.0.1	cpcontacts.thegameof7art.com
+127.0.0.1	cpcontacts.tectotechnology.com
+127.0.0.1	webmail.gamesoffashion.com
+127.0.0.1	cpcalendars.latestsportshub.com
+127.0.0.1	check.jilex.icu
+127.0.0.1	september-touch.gl.at.ply.gg
 127.0.0.1	eighthh8th.top
 127.0.0.1	onehh1th.top
 127.0.0.1	sixhh6th.top
@@ -43222,4 +43231,4 @@
 127.0.0.1	ganharcomblog.com
 127.0.0.1	benefits.melanatedbloodlinesrestoration.com
 127.0.0.1	quickresource.xyz
-# Number of entries: 43216
+# Number of entries: 43225
