@@ -1,11 +1,32 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-09 20:47:55 UTC                        #
+# Last updated: 2025-03-10 04:01:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	webdisk.hostsportstoto9.com
+127.0.0.1	cpanel.sports777games.com
+127.0.0.1	cpcalendars.magazinebookline.com
+127.0.0.1	webdisk.shalownewsbooks.com
+127.0.0.1	cpcontacts.answerallnewz.com
+127.0.0.1	tvrcehervw.tvrcemeheff.euinnos.com
+127.0.0.1	tvrcehervw2.tvrcemeheff.euinnos.com
+127.0.0.1	tvrcehcwdg.tvrcemeheff.euinnos.com
+127.0.0.1	percoin.xyz
+127.0.0.1	webdisk.hostbesttech.website
+127.0.0.1	cpanel.onlinebesttotogamesnewz.xyz
+127.0.0.1	webmail.youandmewtoto.xyz
+127.0.0.1	webmail.bsttoolswx.xyz
+127.0.0.1	webdisk.dgmrtktnewz.website
+127.0.0.1	webdisk.homeimprovementbox.xyz
+127.0.0.1	cpcalendars.fortnewzoutlooks.xyz
+127.0.0.1	webdisk.gamesoftotoandtotoof.xyz
+127.0.0.1	cpanel.apexhomeimprovement.xyz
+127.0.0.1	config.lierwa.xyz
+127.0.0.1	a1100551.xsph.ru
+127.0.0.1	a1100737.xsph.ru
 127.0.0.1	profiles.arkaviaredteam.cl
 127.0.0.1	ns.youtubedns.com
 127.0.0.1	ns01.micr0soft.me.uk
@@ -43233,24 +43254,4 @@
 127.0.0.1	wwwwwwclientesvpn.pythr.net
 127.0.0.1	www.wwwcloudapp.pythr.net
 127.0.0.1	wwwm.ethergases.org
-127.0.0.1	correos-gov.com
-127.0.0.1	proxy-pol.depo.com.ru
-127.0.0.1	www.wwwacceso.pythr.net
-127.0.0.1	www.api.ethergases.org
-127.0.0.1	wwwpublicsecure.pythr.net
-127.0.0.1	labvirtual.pythr.net
-127.0.0.1	wwwwwwadmin.ethergases.app
-127.0.0.1	wwwwwwaccess.pythr.net
-127.0.0.1	api.ethergases.org
-127.0.0.1	www.dashboard.ethergases.app
-127.0.0.1	www.wwwsuxlswwwapi.ethergases.app
-127.0.0.1	www.intelligence.ethergases.org
-127.0.0.1	launchpads-metis.net
-127.0.0.1	www.login.ethergases.org
-127.0.0.1	www.wwwanalytic.pythr.net
-127.0.0.1	bigdata.ethergases.app
-127.0.0.1	www.research.ethergases.app
-127.0.0.1	www.dashboard.ethergases.org
-127.0.0.1	www.wwwcnlenwwwofficevpn.pythr.net
-127.0.0.1	vpnssl.pythr.net
-# Number of entries: 43247
+# Number of entries: 43248
