@@ -1,11 +1,30 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-10 04:01:12 UTC                        #
+# Last updated: 2025-03-10 09:35:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	improve-gis.gl.at.ply.gg
+127.0.0.1	parts-motor.gl.at.ply.gg
+127.0.0.1	sackedrai-44446.portmap.host
+127.0.0.1	adrianmoritoru-34347.portmap.io
+127.0.0.1	argusishere.ddns.net
+127.0.0.1	fr242.hopto.org
+127.0.0.1	jogojo-51013.portmap.host
+127.0.0.1	smashspeed.info
+127.0.0.1	touchook.info
+127.0.0.1	check.cyhym.icu
+127.0.0.1	cpanel.whartpzz.com
+127.0.0.1	cpcontacts.testmedia89.com
+127.0.0.1	cpanel.magazinebestnetworkz.com
+127.0.0.1	tvrcecbegny.tvrcemeheff.euinnos.com
+127.0.0.1	cedarips.com.co
+127.0.0.1	joyfulaiteam.com
+127.0.0.1	check.jorah.icu
+127.0.0.1	check.gefeq.icu
+127.0.0.1	ar.b.goldenloafuae.com
 127.0.0.1	webdisk.hostsportstoto9.com
 127.0.0.1	cpanel.sports777games.com
 127.0.0.1	cpcalendars.magazinebookline.com
@@ -43254,4 +43273,4 @@
 127.0.0.1	wwwwwwclientesvpn.pythr.net
 127.0.0.1	www.wwwcloudapp.pythr.net
 127.0.0.1	wwwm.ethergases.org
-# Number of entries: 43248
+# Number of entries: 43267
