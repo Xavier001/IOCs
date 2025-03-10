@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-10 09:35:46 UTC                        #
+# Last updated: 2025-03-10 12:01:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	webdisk.bigmedianetwrk.com
+127.0.0.1	webmail.shalownewssab.com
+127.0.0.1	cpanel.welovetotogames.com
+127.0.0.1	cod.fhshan.com.cn
 127.0.0.1	improve-gis.gl.at.ply.gg
 127.0.0.1	parts-motor.gl.at.ply.gg
 127.0.0.1	sackedrai-44446.portmap.host
@@ -43273,4 +43277,4 @@
 127.0.0.1	wwwwwwclientesvpn.pythr.net
 127.0.0.1	www.wwwcloudapp.pythr.net
 127.0.0.1	wwwm.ethergases.org
-# Number of entries: 43267
+# Number of entries: 43271
