@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-11 09:26:49 UTC                        #
+# Last updated: 2025-03-11 12:01:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	v2202501250277308833.bestsrv.de
+127.0.0.1	furryfinkders.digital
+127.0.0.1	latchclan.shop
+127.0.0.1	pillowtouzch.shop
+127.0.0.1	sockvoicep.live
 127.0.0.1	myasyncrat.ddns.net
 127.0.0.1	355eed608bbd.duckdns.org
 127.0.0.1	outdoor-doing.gl.at.ply.gg
@@ -43763,13 +43768,4 @@
 127.0.0.1	paylesssignandprinters.ca
 127.0.0.1	rpcgenetics.com
 127.0.0.1	cuanhuaanbinh.com
-127.0.0.1	api.pythr.net
-127.0.0.1	wwwwebmail.ethergases.org
-127.0.0.1	www.mobileconnect.pythr.net
-127.0.0.1	www.chart.ethergases.org
-127.0.0.1	www.demo.ethergases.org
-127.0.0.1	mail.ethergases.org
-127.0.0.1	www.wwwpublicsecure.pythr.net
-127.0.0.1	www.xn--premnt-6va.xyz
-127.0.0.1	reporting.ethergases.org
-# Number of entries: 43766
+# Number of entries: 43762
