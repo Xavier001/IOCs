@@ -1,11 +1,25 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-10 20:01:24 UTC                        #
+# Last updated: 2025-03-11 04:01:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	webmail.artnewzdaily.xyz
+127.0.0.1	cpcalendars.whartpzz.com
+127.0.0.1	cpanel.generalnewzsab.com
+127.0.0.1	cpcontacts.fashionsforts.website
+127.0.0.1	ec2-3-91-134-143.compute-1.amazonaws.com
+127.0.0.1	portal.thomsonreutors.com
+127.0.0.1	ii.hastleup.ink
+127.0.0.1	cpanel.dgmrtktnewz.website
+127.0.0.1	cpcontacts.toptenufabetgames.xyz
+127.0.0.1	cpcontacts.genralnewzupdates.xyz
+127.0.0.1	webdisk.mtstronggame7.xyz
+127.0.0.1	cpanel.homeimprovementbox.xyz
+127.0.0.1	webdisk.fashionsforts.website
+127.0.0.1	webmail.top5business.website
 127.0.0.1	cpanel.gamesoftotoandtotoof.xyz
 127.0.0.1	cpcontacts.games777games.xyz
 127.0.0.1	cpcontacts.newzmediaworld.xyz
@@ -43565,11 +43579,4 @@
 127.0.0.1	anyconnect.pythr.net
 127.0.0.1	wp.pythr.net
 127.0.0.1	admin.ethergases.org
-127.0.0.1	www.pacmanspiele-online.de
-127.0.0.1	mechapeyachtclub.io
-127.0.0.1	wwwmail.pythr.net
-127.0.0.1	194-233-94-252.cprapid.com
-127.0.0.1	wwwgmoeuwwwadmin.ethergases.org
-127.0.0.1	mechaapeyachtclub.io
-127.0.0.1	xn--wypacalnekasy-yhc.com
-# Number of entries: 43566
+# Number of entries: 43573
