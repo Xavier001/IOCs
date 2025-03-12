@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-12 10:10:22 UTC                        #
+# Last updated: 2025-03-12 12:01:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	webmail.bestnewznetworks.com
+127.0.0.1	cpcalendars.newzofnetworksera.com
+127.0.0.1	cityscapea.run
+127.0.0.1	check.baruy.icu
 127.0.0.1	p.p.formaxprime.co.uk
 127.0.0.1	realsw.ydns.eu
 127.0.0.1	realsw.jumpingcrab.com
@@ -43975,4 +43979,4 @@
 127.0.0.1	harassuwqom.shop
 127.0.0.1	damagedowqm.shop
 127.0.0.1	tatemosher.com
-# Number of entries: 43969
+# Number of entries: 43973
