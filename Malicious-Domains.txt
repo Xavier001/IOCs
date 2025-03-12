@@ -1,11 +1,38 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-12 12:01:32 UTC                        #
+# Last updated: 2025-03-12 20:22:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	jsfiles-bqq.pages.dev
+127.0.0.1	bbb1-9we.pages.dev
+127.0.0.1	items.kycc-camera.shop
+127.0.0.1	crosshairc.life/danjhw
+127.0.0.1	cpcalendars.ufabetandcasinos.website
+127.0.0.1	webdisk.domizmusk.website
+127.0.0.1	cpcalendars.fastnewclub.xyz
+127.0.0.1	cpcalendars.ufabets.website
+127.0.0.1	cpanel.fivetopbusiness.xyz
+127.0.0.1	webdisk.gamesandufabetpro.website
+127.0.0.1	webdisk.bsttoolswx.xyz
+127.0.0.1	cpcalendars.dmustkpoint.xyz
+127.0.0.1	webdisk.modegenerlshub.xyz
+127.0.0.1	company.fithiphealthy.com
+127.0.0.1	cpcalendars.wealthwrknetwork.xyz
+127.0.0.1	cpcontacts.onebusinessportal.xyz
+127.0.0.1	ip70-185-170-81.mc.at.cox.net
+127.0.0.1	webmail.newzmediaworld.xyz
+127.0.0.1	cpcontacts.fortnewzoutlooks.xyz
+127.0.0.1	7paa3sg1yhyax.cfc-execute.bj.baidubce.com
+127.0.0.1	market-lum.fun
+127.0.0.1	gov.nic-in.com
+127.0.0.1	backup.timebrokepush.com
+127.0.0.1	kbracketba.shop
+127.0.0.1	menuedgarli.shop
+127.0.0.1	sweetmdreampillow.today
+127.0.0.1	artemcd9.beget.tech
 127.0.0.1	webmail.bestnewznetworks.com
 127.0.0.1	cpcalendars.newzofnetworksera.com
 127.0.0.1	cityscapea.run
@@ -43971,12 +43998,4 @@
 127.0.0.1	www.login.ethergases.app
 127.0.0.1	gryhazardowe.vip
 127.0.0.1	ethergases.app
-127.0.0.1	touxzw.ir
-127.0.0.1	whhhelewmni.shop
-127.0.0.1	stryyridomwn.shop
-127.0.0.1	addicitedoqowm.shop
-127.0.0.1	polishuwqiwom.shop
-127.0.0.1	harassuwqom.shop
-127.0.0.1	damagedowqm.shop
-127.0.0.1	tatemosher.com
-# Number of entries: 43973
+# Number of entries: 43992
