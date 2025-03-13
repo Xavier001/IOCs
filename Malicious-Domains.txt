@@ -1,11 +1,25 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-12 20:22:54 UTC                        #
+# Last updated: 2025-03-13 04:01:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	burnsmcd.co
+127.0.0.1	mcnn.ru
+127.0.0.1	webmail.mtstronggame7.xyz
+127.0.0.1	webmail.b2bbsuiness.xyz
+127.0.0.1	cpcontacts.top5business.website
+127.0.0.1	cpanel.homeimprovementbloopers.xyz
+127.0.0.1	ip234.ip-51-81-171.us
+127.0.0.1	cpcontacts.gamesoftotoandtotoof.xyz
+127.0.0.1	webmail.fortnewzoutlooks.xyz
+127.0.0.1	cpanel.onebusinessportal.xyz
+127.0.0.1	webmail.paranewslivesab.xyz
+127.0.0.1	carsrpg.online
+127.0.0.1	cpcontacts.gamesoffashion45.xyz
+127.0.0.1	cpcalendars.onlinebesttotogamesnewz.xyz
 127.0.0.1	jsfiles-bqq.pages.dev
 127.0.0.1	bbb1-9we.pages.dev
 127.0.0.1	items.kycc-camera.shop
@@ -43983,19 +43997,4 @@
 127.0.0.1	wwwxmofxwwwpublicsecure.pythr.net
 127.0.0.1	www.mail.ethergases.org
 127.0.0.1	kxmmcdmnb.online
-127.0.0.1	druginthepunto.shop
-127.0.0.1	www.skcvycevgwwwwsowgoowa.ethergases.app
-127.0.0.1	sbqobsowgoowa.ethergases.app
-127.0.0.1	www.2024.ethergases.app
-127.0.0.1	wwwapp.ethergases.app
-127.0.0.1	dddotx.shop
-127.0.0.1	research.ethergases.app
-127.0.0.1	wwwwwwwebmail.ethergases.app
-127.0.0.1	www.gryhazardowe.cloud
-127.0.0.1	www.lohhnwwwssl.ethergases.app
-127.0.0.1	wwwsecure.ethergases.app
-127.0.0.1	www.analyze.ethergases.app
-127.0.0.1	www.login.ethergases.app
-127.0.0.1	gryhazardowe.vip
-127.0.0.1	ethergases.app
-# Number of entries: 43992
+# Number of entries: 43991
