@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-13 20:56:55 UTC                        #
+# Last updated: 2025-03-14 04:01:42 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cpcalendars.topandbestnews.com
+127.0.0.1	cpcalendars.ipmnewsworld.com
+127.0.0.1	cpcontacts.10bestbusiness.website
+127.0.0.1	webmail.takeufagame1212.xyz
+127.0.0.1	www.of123pro.online
+127.0.0.1	ejones.b-cdn.net
+127.0.0.1	cattwo.top
 127.0.0.1	ns2.sdsdsdfsdf145.shop
 127.0.0.1	ns1.sdsdsdfsdf145.shop
 127.0.0.1	cpcalendars.mtpolice077.website
@@ -43990,17 +43997,4 @@
 127.0.0.1	loginge.com
 127.0.0.1	www.analyze.pythr.net
 127.0.0.1	qtvzudev.pythr.net
-127.0.0.1	www.visual.ethergases.app
-127.0.0.1	hdobussl.ethergases.app
-127.0.0.1	wwwwwwwp.ethergases.app
-127.0.0.1	layerzero-crystaldash.co
-127.0.0.1	wwwhdobussl.ethergases.app
-127.0.0.1	www.wwwsuperset.ethergases.app
-127.0.0.1	wwwdev.ethergases.app
-127.0.0.1	mail.back-dev.hook.app.br
-127.0.0.1	wwwkfrlllogin.ethergases.app
-127.0.0.1	wwwchart.ethergases.app
-127.0.0.1	metis-launchpad.app
-127.0.0.1	launchpads-metis.app
-127.0.0.1	www.kfrlllogin.ethergases.app
-# Number of entries: 43997
+# Number of entries: 43991
