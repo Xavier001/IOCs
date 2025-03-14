@@ -1,11 +1,45 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-14 12:02:03 UTC                        #
+# Last updated: 2025-03-14 20:35:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	check.nocun.icu
+127.0.0.1	check.xojyz.icu
+127.0.0.1	webmail.generalztipsal.xyz
+127.0.0.1	webdisk.dmspotzera.xyz
+127.0.0.1	webmail.dailypromos.xyz
+127.0.0.1	cpcontacts.10bestgamesofufabet.xyz
+127.0.0.1	cpcalendars.10bestgamesofufabet.xyz
+127.0.0.1	r.p.formaxprime.co.uk
+127.0.0.1	patchflow.org
+127.0.0.1	check.qalyj.icu
+127.0.0.1	sphayer66jugaru1.duckdns.org
+127.0.0.1	q1bkhvr2eqfd.cfc-execute.bj.baidubce.com
+127.0.0.1	c2.dsn.ovh
+127.0.0.1	con.isn.ovh
+127.0.0.1	botnet.dexcfw.dev
+127.0.0.1	gemcoverinc.org
+127.0.0.1	webmail.mtpolice12.website
+127.0.0.1	cpcontacts.playufabetgames.xyz
+127.0.0.1	webinspisrve.icu
+127.0.0.1	rixggingrang.shop
+127.0.0.1	pillowconxnection.shop
+127.0.0.1	hingehjan.shop
+127.0.0.1	pistolsan.digital
+127.0.0.1	citywand.live
+127.0.0.1	93757283cm.whiteproducts.ru
+127.0.0.1	ssh.getsolara.info
+127.0.0.1	botz.packetware.cc
+127.0.0.1	check.tudim.icu
+127.0.0.1	jojo.ath.cx
+127.0.0.1	glitterygadgets.shop
+127.0.0.1	check.geguk.icu
+127.0.0.1	check.tevoh.icu
+127.0.0.1	paulsss.com
+127.0.0.1	check.momas.icu
 127.0.0.1	hovno.yummypear.cz
 127.0.0.1	cpcontacts.topmediainfos.com
 127.0.0.1	ec2-54-216-72-51.eu-west-1.compute.amazonaws.com
@@ -44235,25 +44269,4 @@
 127.0.0.1	185.196.10.128.vpsprivate.xyz
 127.0.0.1	185.196.10.129.vpsprivate.xyz
 127.0.0.1	jaimelecaca.com
-127.0.0.1	blakaa.duckdns.org
-127.0.0.1	bush-granted.gl.at.ply.gg
-127.0.0.1	boards-particular.gl.at.ply.gg
-127.0.0.1	can-h.gl.at.ply.gg
-127.0.0.1	publication-lucas.gl.at.ply.gg
-127.0.0.1	yourself-likes.gl.at.ply.gg
-127.0.0.1	opportunities-against.gl.at.ply.gg
-127.0.0.1	ground-wisconsin.gl.at.ply.gg
-127.0.0.1	stay-daughters.gl.at.ply.gg
-127.0.0.1	re-fe.gl.at.ply.gg
-127.0.0.1	pro-christian.gl.at.ply.gg
-127.0.0.1	corporate-deemed.gl.at.ply.gg
-127.0.0.1	needs-conservation.gl.at.ply.gg
-127.0.0.1	engine-gene.gl.at.ply.gg
-127.0.0.1	pay-nm.gl.at.ply.gg
-127.0.0.1	leading-flashing.gl.at.ply.gg
-127.0.0.1	basis-cheap.gl.at.ply.gg
-127.0.0.1	contact-staffing.gl.at.ply.gg
-127.0.0.1	watch-viewer.gl.at.ply.gg
-127.0.0.1	three-updates.gl.at.ply.gg
-127.0.0.1	sixvd16sb.top
-# Number of entries: 44250
+# Number of entries: 44263
