@@ -1,11 +1,26 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-15 09:03:28 UTC                        #
+# Last updated: 2025-03-15 12:01:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cpcalendars.f.multi-canale.com
+127.0.0.1	cpcalendars.multi-canale.com
+127.0.0.1	cpcontacts.e.multi-canale.com
+127.0.0.1	www.i.web-app-on.com
+127.0.0.1	mail.gestisciweb.com
+127.0.0.1	autodiscover.b.multi-canale.com
+127.0.0.1	cpanel.h.web-app-on.com
+127.0.0.1	cpcontacts.multi-canale.com
+127.0.0.1	adesso-online.com
+127.0.0.1	mail.gfjd.104-168-101-27.cprapid.com
+127.0.0.1	mail.f.multi-canale.com
+127.0.0.1	webmail.magazinebookline.com
+127.0.0.1	webmail.latestsportshub.com
+127.0.0.1	cpcalendars.bestblogznews.com
+127.0.0.1	loversprouk.com
 127.0.0.1	support.traininghub.world
 127.0.0.1	foodieloverstop.top
 127.0.0.1	munitions.life
@@ -44335,42 +44350,4 @@
 127.0.0.1	orgin.ajieapi.top
 127.0.0.1	orgin.ajiecdn03.top
 127.0.0.1	testprofitapi.kkscoin.com
-127.0.0.1	dashboard.ethergases.org
-127.0.0.1	www.rmyrsvpnssl.pythr.net
-127.0.0.1	analytics.ethergases.org
-127.0.0.1	wwwmetrics.ethergases.org
-127.0.0.1	dev.ethergases.org
-127.0.0.1	www.vbjxzaccess.pythr.net
-127.0.0.1	www.reports.pythr.net
-127.0.0.1	www.wwwwwwapps.pythr.net
-127.0.0.1	fqdrhwwwpublicsecure.pythr.net
-127.0.0.1	wwwlogin.pythr.net
-127.0.0.1	www.wwwbackend.pythr.net
-127.0.0.1	www.vickymilk.tech
-127.0.0.1	wwwforum.ethergases.org
-127.0.0.1	cfzykwwwwwwwwwwwwvirtualstudent.pythr.net
-127.0.0.1	www.wwwowa.pythr.net
-127.0.0.1	wwwwwwqtvzudev.pythr.net
-127.0.0.1	www.wwwmail.ethergases.org
-127.0.0.1	khwnlwwwowa.pythr.net
-127.0.0.1	gatewayvpn.pythr.net
-127.0.0.1	www.gatewayvpn.pythr.net
-127.0.0.1	wwwowa.ethergases.org
-127.0.0.1	www.wwwssl.pythr.net
-127.0.0.1	wwwwkfhgwwwwebmail.pythr.net
-127.0.0.1	play.animeku.fun
-127.0.0.1	webmail.animeku.fun
-127.0.0.1	mail.animeku.fun
-127.0.0.1	animeku.ink
-127.0.0.1	e1.animeku.fun
-127.0.0.1	webdisk.animeku.fun
-127.0.0.1	cpcalendars.animeku.fun
-127.0.0.1	animeku.live
-127.0.0.1	animeku.fun
-127.0.0.1	cpanel.animeku.fun
-127.0.0.1	www.animeku.ink
-127.0.0.1	www.animeku.fun
-127.0.0.1	80-251-153-96.cprapid.com
-127.0.0.1	www.animeku.live
-127.0.0.1	cpcontacts.animeku.fun
-# Number of entries: 44367
+# Number of entries: 44344
