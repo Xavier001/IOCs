@@ -1,11 +1,40 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-15 12:01:59 UTC                        #
+# Last updated: 2025-03-15 20:01:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	webdisk.fortlivenewzshub.xyz
+127.0.0.1	webmail.dmhubnewsz.website
+127.0.0.1	cpcalendars.enjoyedufabet.xyz
+127.0.0.1	cpanel.broadcnnewz.xyz
+127.0.0.1	cpcontacts.apexhomeimprovement.xyz
+127.0.0.1	cpcontacts.ufabetandcasinos.website
+127.0.0.1	cpcalendars.10bestbusiness.xyz
+127.0.0.1	cpanel.10bestbusiness.xyz
+127.0.0.1	webmail.touchufabetgames.xyz
+127.0.0.1	webdisk.takeufagame1111.xyz
+127.0.0.1	cpanel.b2bbsuiness.xyz
+127.0.0.1	webdisk.businessnewznetwork.xyz
+127.0.0.1	cpcalendars.medtopzhub.xyz
+127.0.0.1	check.fibit.icu
+127.0.0.1	reg.gakken-meds.jp
+127.0.0.1	getmanyme.com
+127.0.0.1	webmail.ufa4games.website
+127.0.0.1	cpanel.mtpolice12.website
+127.0.0.1	webmail.b2bbsuiness.website
+127.0.0.1	webmail.odysseyoutlook.xyz
+127.0.0.1	gunlovers.top
+127.0.0.1	firsatlarsenin.com
+127.0.0.1	qpillowlove.shop
+127.0.0.1	tacticaltr.shop
+127.0.0.1	furxnishpla.shop
+127.0.0.1	triggerte.digital
+127.0.0.1	firearmsfe.live
+127.0.0.1	a1102442.xsph.ru
+127.0.0.1	destinationy.help
 127.0.0.1	cpcalendars.f.multi-canale.com
 127.0.0.1	cpcalendars.multi-canale.com
 127.0.0.1	cpcontacts.e.multi-canale.com
@@ -44286,68 +44315,4 @@
 127.0.0.1	www.m.ethergases.app
 127.0.0.1	wwwwwwstaging.ethergases.app
 127.0.0.1	www.hdobussl.ethergases.app
-127.0.0.1	analytic.ethergases.app
-127.0.0.1	www.wwwhdobussl.ethergases.app
-127.0.0.1	domainlumm.fun
-127.0.0.1	speednewapp.monster
-127.0.0.1	topnewapp.monster
-127.0.0.1	webnewapp.monster
-127.0.0.1	eliteleaderapp.monster
-127.0.0.1	extraactiveapp.monster
-127.0.0.1	extranewapp.monster
-127.0.0.1	getnewapp.monster
-127.0.0.1	goldnewapp.monster
-127.0.0.1	hotleaderapp.monster
-127.0.0.1	hotpowerapps.monster
-127.0.0.1	purenewapp.monster
-127.0.0.1	runleaderapp.monster
-127.0.0.1	safeleaderapp.monster
-127.0.0.1	purepowerapps.monster
-127.0.0.1	runpowerapps.monster
-127.0.0.1	bestactiveapp.monster
-127.0.0.1	bestnewapp.monster
-127.0.0.1	cleanactiveapp.monster
-127.0.0.1	oldlumma.fun
-127.0.0.1	stoolybootwmwn.shop
-127.0.0.1	tabledchargwo.shop
-127.0.0.1	thirstyywowmq.shop
-127.0.0.1	tinnyauthorsi.shop
-127.0.0.1	mushroomwiwop.shop
-127.0.0.1	publicevkwop.shop
-127.0.0.1	proffoduwnuq.shop
-127.0.0.1	murderryewowp.shop
-127.0.0.1	managgerowkso.shop
-127.0.0.1	eliminatedowpq.shop
-127.0.0.1	empiredmnuowq.shop
-127.0.0.1	assettywkwm.shop
-127.0.0.1	sulphugruewoqm.shop
-127.0.0.1	productedmwqki.shop
-127.0.0.1	predictionmq.shop
-127.0.0.1	leftoversowmo.shop
-127.0.0.1	rafaelappps.shop
-127.0.0.1	zeleitex.com
-127.0.0.1	fiftvd15vs.top
-127.0.0.1	tventyvd20sb.top
-127.0.0.1	eihtvd18vs.top
-127.0.0.1	ninetfgh19vs.top
-127.0.0.1	eihtvd18pt.top
-127.0.0.1	tventyvd20pt.top
-127.0.0.1	bota.lolzone.lol
-127.0.0.1	dicshopping.com
-127.0.0.1	globalvoice.mobi
-127.0.0.1	orgin.ajieapi.top
-127.0.0.1	orgin.ajiecdn03.top
-127.0.0.1	testprofitapi.kkscoin.com
-127.0.0.1	testprofitweb.kkscoin.com
-127.0.0.1	testprofitweb.kkscoin.com
-127.0.0.1	lolzone.lol
-127.0.0.1	ajieapi.top
-127.0.0.1	ajiecdn03.top
-127.0.0.1	kkscoin.com
-127.0.0.1	bota.lolzone.lol
-127.0.0.1	dicshopping.com
-127.0.0.1	globalvoice.mobi
-127.0.0.1	orgin.ajieapi.top
-127.0.0.1	orgin.ajiecdn03.top
-127.0.0.1	testprofitapi.kkscoin.com
-# Number of entries: 44344
+# Number of entries: 44309
