@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-14 20:35:45 UTC                        #
+# Last updated: 2025-03-15 04:01:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	checkthem.cc
+127.0.0.1	os-hpcigjolof.cn-beijing.fcapp.run
+127.0.0.1	cpanel.homeaddition.xyz
+127.0.0.1	cpcalendars.businessnewznetwork.xyz
+127.0.0.1	webdisk.gameswithufabet.xyz
+127.0.0.1	webdisk.toriters1.website
+127.0.0.1	webdisk.bjshomeimprovement.xyz
+127.0.0.1	cpanel.welovetotogames.xyz
+127.0.0.1	cpanel.ufabets.website
+127.0.0.1	cpcontacts.totomaker1.website
 127.0.0.1	check.nocun.icu
 127.0.0.1	check.xojyz.icu
 127.0.0.1	webmail.generalztipsal.xyz
@@ -44247,26 +44257,4 @@
 127.0.0.1	2024.ethergases.org
 127.0.0.1	wwwwwwcnlenwwwofficevpn.pythr.net
 127.0.0.1	www.wwwwwwwwwwwwvirtualstudent.pythr.net
-127.0.0.1	www.secure.ethergases.app
-127.0.0.1	sowgoowa.ethergases.app
-127.0.0.1	www.wwwsecure.ethergases.app
-127.0.0.1	www.wwwsowgoowa.ethergases.app
-127.0.0.1	www.wwwwebmail.ethergases.org
-127.0.0.1	www.wwwreporting.ethergases.app
-127.0.0.1	159-223-62-95.cprapid.com
-127.0.0.1	ant-reclamation.com
-127.0.0.1	185-47-174-89.cloud-xip.com
-127.0.0.1	wwwforum.ethergases.app
-127.0.0.1	www.pwrhicevgwwwwsowgoowa.ethergases.app
-127.0.0.1	www.cevgwwwwsowgoowa.ethergases.app
-127.0.0.1	www.sowgoowa.ethergases.app
-127.0.0.1	www.forecast.ethergases.app
-127.0.0.1	wwwsuperset.ethergases.app
-127.0.0.1	www.dev.ethergases.app
-127.0.0.1	www.wwwsupersets.ethergases.app
-127.0.0.1	net.fuerer-net.ru
-127.0.0.1	vpsprivate.xyz
-127.0.0.1	185.196.10.128.vpsprivate.xyz
-127.0.0.1	185.196.10.129.vpsprivate.xyz
-127.0.0.1	jaimelecaca.com
-# Number of entries: 44263
+# Number of entries: 44251
