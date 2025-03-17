@@ -1,11 +1,14 @@
 #domain,ioc,uri_path,ip
+1329742060-h4vggsc19t.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/getit,119.91.64.59
 24-692.wpsconnect.org,Possible Cobalt Strike C2 Domain,/wp-content/themes/am43-6/dist/records,34.41.14.254
 2qjhb2csdk7kr.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x,115.120.250.85
 3se9ewodke339f0e82.connectivitytests.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,171.244.143.184
 3se9ewodke339f0e83.connectivitytests.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,18.162.96.155
+5k0jev8t9zj4z.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Fronted Domain,/v2/js/jquery-3.3.1.min.js,39.102.213.118
 704mha60crfrd.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.6.min.js,60.205.56.181
 7paa3sg1yhyax.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x,47.92.205.12
 a8tkf5twd0gk0.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/load,45.136.15.209
+alliyun.shop,Possible Cobalt Strike C2 Fronting Domain,/v2/js/jquery-3.3.1.min.js,39.102.213.118
 api.co-operativefinance.com,Possible Cobalt Strike C2 Domain,/push,44.193.202.139
 api.freeresolver.online,Possible Cobalt Strike C2 Domain,/portes-ouvertes/fiche/7362,89.38.131.17
 api.googleshop.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,198.98.57.26
@@ -39,6 +42,7 @@ cn.sdkgzd.top,Possible Cobalt Strike C2 Domain,/siie=utf-8&f=8&rsv_bp=1&rsv_idx=
 cnm.rememdam.xyz,Possible Cobalt Strike C2 Domain,/image/,38.47.103.169
 cod.fhshan.com.cn,Possible Cobalt Strike C2 Domain,/wc/58462514417,47.120.32.180
 coolodyinvest.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,207.231.109.20
+cs-scf-tvbgoqlklq.cn-hangzhou.fcapp.run,Possible Cobalt Strike C2 Domain,/developer-server/online/_next/static/png,139.196.237.171
 cutecats.catonline.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.47.239.110
 d11vxzkgntd3fu.cloudfront.net,Possible Cobalt Strike C2 Domain,/documents/24462547/Guida_accesso_portale_NoiPA_20130713.pdf,35.158.247.135
 d1g585jmjo23vr.cloudfront.net,Possible Cobalt Strike C2 Domain,/functionalStatus/dQ2ZPQXqheAjyNHljYBmkDlsHLW42,50.16.200.52
@@ -148,6 +152,7 @@ pull.m1cr0s0ft.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.128.
 q1bkhvr2eqfd.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/apis/x,180.76.144.239
 query.freeresolver.online,Possible Cobalt Strike C2 Domain,/portes-ouvertes/fiche/7352,89.38.131.17
 request.freeresolver.online,Possible Cobalt Strike C2 Domain,/portes-ouvertes/liste,89.38.131.17
+richemont.tech,Possible Cobalt Strike C2 Domain,/uploads/2025/cache_e88a5aa192f.webp,47.242.77.241
 scan.daztar.com,Possible Cobalt Strike C2 Domain,/images/17.png,139.162.204.37
 service-1cao6cjs-1312654103.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/admin/login,124.223.200.131
 service-a0ahsoek-1257582847.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Domain,/fwlink,45.136.15.209
@@ -174,6 +179,7 @@ vvindow.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,60.204.234.200
 www.163microsoft.com,Possible Cobalt Strike C2 Domain,/_/scs/mail-static/_/js/,198.13.33.74
 www.52mxd.org,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,155.138.225.144
 www.baidu-image.top,Possible Cobalt Strike C2 Domain,/api/v1/get,148.135.120.139
+www.chaitin.cloud,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,192.253.231.234
 www.cioudfiear.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,18.222.126.236
 www.dyshop.online,Possible Cobalt Strike C2 Domain,/decloudAdd.js,111.230.5.199
 www.idkghs.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,218.255.96.243
