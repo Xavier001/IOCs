@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-17 09:57:48 UTC                        #
+# Last updated: 2025-03-17 12:25:19 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	check.xemyrai6.icu
+127.0.0.1	bendigobank.com.au.profileupdate.info
+127.0.0.1	myfriendcuh123.x10.mx
+127.0.0.1	share.invite.ms
 127.0.0.1	tenkj10sb.top
 127.0.0.1	onekj1sb.top
 127.0.0.1	eightkj8sb.top
@@ -44393,4 +44397,4 @@
 127.0.0.1	www.intel.ethergases.app
 127.0.0.1	krs-kr.co
 127.0.0.1	uniquetouniquetechnicalservices.com
-# Number of entries: 44387
+# Number of entries: 44391
