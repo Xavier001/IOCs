@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-18 22:04:27 UTC                        #
+# Last updated: 2025-03-19 04:02:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	webdisk.ora-0-web.com
+127.0.0.1	autodiscover.gfjd.104-168-101-27.cprapid.com
+127.0.0.1	webmail.a.multi-canale.com
+127.0.0.1	webmail.e.ora-0-web.com
+127.0.0.1	mail.web-app-on.com
+127.0.0.1	www.illuminarebusiness.com
+127.0.0.1	ec2-51-21-219-123.eu-north-1.compute.amazonaws.com
+127.0.0.1	mail.185-38-142-181.cprapid.com
+127.0.0.1	umarmira055.duckdns.org
 127.0.0.1	cityesca.top
 127.0.0.1	cousidporke.icu
 127.0.0.1	travelio.digital
@@ -44544,11 +44553,4 @@
 127.0.0.1	www.fyblbwwwdesktopstudent.pythr.net
 127.0.0.1	metric.ethergases.org
 127.0.0.1	report.pythr.net
-127.0.0.1	session.mailsession.com
-127.0.0.1	www.manishgoyal.in
-127.0.0.1	sitemap.ethergases.org
-127.0.0.1	www.lnatboxtv.org
-127.0.0.1	staging.pythr.net
-127.0.0.1	visual.ethergases.org
-127.0.0.1	163-172-125-253.rev.poneytelecom.eu
-# Number of entries: 44545
+# Number of entries: 44547
