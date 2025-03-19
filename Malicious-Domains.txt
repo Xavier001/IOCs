@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-19 09:34:43 UTC                        #
+# Last updated: 2025-03-19 12:17:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tecnogrup.com
+127.0.0.1	result-disco.gl.at.ply.gg
+127.0.0.1	gugrant11.duckdns.org
 127.0.0.1	check.apoa3.icu
 127.0.0.1	incident.zilab.ru
 127.0.0.1	1318014164-39a8is5k9d.ap-singapore.tencentscf.com
@@ -44589,8 +44592,4 @@
 127.0.0.1	tventyvd20vs.top
 127.0.0.1	eihtvd18vt.top
 127.0.0.1	sevtvd17vt.top
-127.0.0.1	testedsnakeoptic.com
-127.0.0.1	leveledoperationalcert.com
-127.0.0.1	gryhazardowe.pro
-127.0.0.1	ftp.desckvbrat.com.br
-# Number of entries: 44587
+# Number of entries: 44586
