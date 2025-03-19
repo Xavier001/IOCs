@@ -1,11 +1,25 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-19 12:17:29 UTC                        #
+# Last updated: 2025-03-19 22:00:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	soothingpitllow.icu
+127.0.0.1	battlefie.shop
+127.0.0.1	flyxaway.live
+127.0.0.1	a1104037.xsph.ru
+127.0.0.1	co35066.tw1.ru
+127.0.0.1	a1104094.xsph.ru
+127.0.0.1	cngov-gov-xejpcmqhyb.cn-shanghai.fcapp.run
+127.0.0.1	cpcalendars.web-app-on.com
+127.0.0.1	webdisk.m.web-app-on.com
+127.0.0.1	autodiscover.versioneonline.com
+127.0.0.1	cpcontacts.web-app-on.com
+127.0.0.1	cpcalendars.i.web-app-on.com
+127.0.0.1	mail.efcommxerce.ru
+127.0.0.1	dongfangshuye.xyz
 127.0.0.1	tecnogrup.com
 127.0.0.1	result-disco.gl.at.ply.gg
 127.0.0.1	gugrant11.duckdns.org
@@ -44576,20 +44590,4 @@
 127.0.0.1	idc-131-120-212-116.hkt.cc
 127.0.0.1	admin.propertiesbecho.com
 127.0.0.1	delonuevomision.con-ip.com
-127.0.0.1	github-scanner.com
-127.0.0.1	enemybotnet.com
-127.0.0.1	chefspavilion.com
-127.0.0.1	blv23728.ddns.net
-127.0.0.1	milandvb.no-ip.net
-127.0.0.1	trvtest.click
-127.0.0.1	beheshtsoft.com
-127.0.0.1	notablelibrary.com
-127.0.0.1	garageserviceoperation.com
-127.0.0.1	tventyvd20vt.top
-127.0.0.1	sevtvd17vs.top
-127.0.0.1	sixvf16ht.top
-127.0.0.1	sixvd16vs.top
-127.0.0.1	tventyvd20vs.top
-127.0.0.1	eihtvd18vt.top
-127.0.0.1	sevtvd17vt.top
-# Number of entries: 44586
+# Number of entries: 44584
