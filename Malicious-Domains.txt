@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-20 08:40:31 UTC                        #
+# Last updated: 2025-03-20 12:02:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	autodiscover.m.web-app-on.com
+127.0.0.1	mail.e.ora-0-web.com
+127.0.0.1	cpanel.e.ora-0-web.com
+127.0.0.1	autodiscover.e.ora-0-web.com
+127.0.0.1	autodiscover.web-app-on.com
+127.0.0.1	getfiledata.com
+127.0.0.1	mrgenuis.no-ip.org
 127.0.0.1	y.p.formaxprime.co.uk
 127.0.0.1	autodiscover.a.multi-canale.com
 127.0.0.1	cpcontacts.b.multi-canale.com
@@ -44950,4 +44957,4 @@
 127.0.0.1	virtual.urban-orthodontics.com
 127.0.0.1	levels-plane.gl.at.ply.gg
 127.0.0.1	mtpolice2030.com
-# Number of entries: 44944
+# Number of entries: 44951
