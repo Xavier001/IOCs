@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-20 12:02:47 UTC                        #
+# Last updated: 2025-03-20 16:07:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bot.gribostress.pro
+127.0.0.1	vfclan.com
+127.0.0.1	starbits.world
+127.0.0.1	unrealfabricdo.click
+127.0.0.1	check.atuu7.icu
+127.0.0.1	cpcontacts.efcommxerce.ru
+127.0.0.1	azmamiraixd.duckdns.org
+127.0.0.1	vozaspecial.com
+127.0.0.1	oversizes.ghostgames.mom
+127.0.0.1	microsofts.wiki
+127.0.0.1	cngov.oss-cn-shanghai.aliyuncs.com
+127.0.0.1	a-0001.a2-msedge.net
+127.0.0.1	1329742111-h1rmesk2t.ap-guangzhou.tencentscf.com
 127.0.0.1	autodiscover.m.web-app-on.com
 127.0.0.1	mail.e.ora-0-web.com
 127.0.0.1	cpanel.e.ora-0-web.com
@@ -44947,14 +44960,4 @@
 127.0.0.1	www.wwwwwwwebmail.ethergases.app
 127.0.0.1	wwwreport.ethergases.app
 127.0.0.1	greshunka.com
-127.0.0.1	events.api.georgicaautoholding.com
-127.0.0.1	outlook.mailsession.com
-127.0.0.1	www.evail.pw
-127.0.0.1	flfprlkgpppg.shop
-127.0.0.1	vanessalove.com
-127.0.0.1	myynzl.com
-127.0.0.1	hacker.eliron-networks369.org
-127.0.0.1	virtual.urban-orthodontics.com
-127.0.0.1	levels-plane.gl.at.ply.gg
-127.0.0.1	mtpolice2030.com
-# Number of entries: 44951
+# Number of entries: 44954
