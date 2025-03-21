@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-20 16:07:24 UTC                        #
+# Last updated: 2025-03-21 04:02:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	webdisk.gestisciweb.com
+127.0.0.1	cpcontacts.continueoraweb.com
+127.0.0.1	autodiscover.f.multi-canale.com
+127.0.0.1	cpanel.continueoraweb.com
+127.0.0.1	mail.aaa.104-168-101-27.cprapid.com
+127.0.0.1	webmail.e.multi-canale.com
 127.0.0.1	bot.gribostress.pro
 127.0.0.1	vfclan.com
 127.0.0.1	starbits.world
@@ -44952,12 +44958,4 @@
 127.0.0.1	sirnon1956ge.ddns.net
 127.0.0.1	internet-sullivan.gl.at.ply.gg
 127.0.0.1	lagenceengineering.com
-127.0.0.1	evail.pw
-127.0.0.1	www.porkaloxov.com
-127.0.0.1	www.reports.ethergases.app
-127.0.0.1	superset.ethergases.app
-127.0.0.1	back-dev.hook.app.br
-127.0.0.1	www.wwwwwwwebmail.ethergases.app
-127.0.0.1	wwwreport.ethergases.app
-127.0.0.1	greshunka.com
-# Number of entries: 44954
+# Number of entries: 44952
