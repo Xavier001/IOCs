@@ -1,11 +1,33 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-21 11:00:05 UTC                        #
+# Last updated: 2025-03-21 21:15:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cofei.net
+127.0.0.1	e.p.formaxprime.co.uk
+127.0.0.1	citrix.klogixsecurity.org
+127.0.0.1	host160.newreport.org
+127.0.0.1	check.oegebo.icu
+127.0.0.1	such-captain.gl.at.ply.gg
+127.0.0.1	your-thumb.gl.at.ply.gg
+127.0.0.1	kkmic.com
+127.0.0.1	webmail.versioneonline.com
+127.0.0.1	ba1enciaga.space
+127.0.0.1	www.klogixsecurity.org
+127.0.0.1	dopeonsolana.info
+127.0.0.1	check.eucudo.icu
+127.0.0.1	check.eozusa.icu
+127.0.0.1	check.yonuga.icu
+127.0.0.1	check.eezedu.icu
+127.0.0.1	orbitrxh.shop
+127.0.0.1	wealthdime.icu
+127.0.0.1	resposibleckk.live
+127.0.0.1	check.oibupi.icu
+127.0.0.1	morning-ultimately.gl.at.ply.gg
+127.0.0.1	lordxg.net
 127.0.0.1	awedfwf-31577.portmap.host
 127.0.0.1	0xmicrosoft.duckdns.org
 127.0.0.1	local-subsidiary.gl.at.ply.gg
@@ -45333,22 +45355,4 @@
 127.0.0.1	asyn8097.duckdns.org
 127.0.0.1	nnamoo.duckdns.org
 127.0.0.1	ufye28738bd3yv23d783.con-ip.com
-127.0.0.1	cn.foxnointel.ru
-127.0.0.1	timez0.duckdns.org
-127.0.0.1	process-medieval.gl.at.ply.gg
-127.0.0.1	armayalitim.com
-127.0.0.1	armayalitim1722.com
-127.0.0.1	ava9527.cc
-127.0.0.1	cc.ava9527.cc
-127.0.0.1	intoductionweoa.shop
-127.0.0.1	enotikkrolikzayac.com
-127.0.0.1	superrcolellwe.shop
-127.0.0.1	z2.ink
-127.0.0.1	loip.cc
-127.0.0.1	curt.wiz.co
-127.0.0.1	ichika.tw
-127.0.0.1	ubal.do
-127.0.0.1	crash.sh
-127.0.0.1	strms.ly
-127.0.0.1	update-ledger.net
-# Number of entries: 45345
+# Number of entries: 45349
