@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-22 09:26:51 UTC                        #
+# Last updated: 2025-03-22 12:02:53 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cpcontacts.webprocediweb.com
+127.0.0.1	autodiscover.efcommxerce.ru
 127.0.0.1	again-general.gl.at.ply.gg
 127.0.0.1	tips-topics.gl.at.ply.gg
 127.0.0.1	w-bridal.gl.at.ply.gg
@@ -45333,59 +45335,4 @@
 127.0.0.1	ignoracndwko.shop
 127.0.0.1	preachstrwnwjw.shop
 127.0.0.1	stitchmiscpaew.shop
-127.0.0.1	siciliavera.com
-127.0.0.1	wtools.us
-127.0.0.1	tyblue.net
-127.0.0.1	nekofish.cc
-127.0.0.1	zorinmc.tech
-127.0.0.1	sakel.eu
-127.0.0.1	jjp59.com
-127.0.0.1	austria-host.de
-127.0.0.1	wrldsecurity.ru
-127.0.0.1	craftsteal.me
-127.0.0.1	toxicipstresser.cloud
-127.0.0.1	usreorj.com
-127.0.0.1	usreorm.com
-127.0.0.1	usreory.com
-127.0.0.1	vanilla.vin
-127.0.0.1	weeping.lol
-127.0.0.1	wireguard.wtools.us
-127.0.0.1	www.canada-capost-bee.top
-127.0.0.1	www.connectionrandom.xyz
-127.0.0.1	www.kymev.coma
-127.0.0.1	www.royalparadisec2.xyz
-127.0.0.1	zelrvn.xyz
-127.0.0.1	ziw.tyblue.net
-127.0.0.1	gdew59.scma.zorinmc.tech
-127.0.0.1	hyperleaks.xyz
-127.0.0.1	it.sakel.eu
-127.0.0.1	kymev.com
-127.0.0.1	logicc2.com
-127.0.0.1	marioc2.online
-127.0.0.1	mta01.jjp59.com
-127.0.0.1	node.craftsteal.me
-127.0.0.1	panel.austria-host.de
-127.0.0.1	proxy.kaitenc2.de
-127.0.0.1	rxqtxyz.xyz
-127.0.0.1	streaming.siciliavera.com
-127.0.0.1	admin.craftsteal.me
-127.0.0.1	advisors.hardbacon.ca
-127.0.0.1	atov.xyz
-127.0.0.1	connectionrandom.xyz
-127.0.0.1	drupbox.com
-127.0.0.1	frosteddev.xyz
-127.0.0.1	login.wrldsecurity.ru
-127.0.0.1	frostedservices.us
-127.0.0.1	luciferc2.net
-127.0.0.1	eemmbryequo.shop
-127.0.0.1	keennylrwmqlw.shop
-127.0.0.1	licenseodqwmqn.shop
-127.0.0.1	reggwardssdqw.shop
-127.0.0.1	relaxatinownio.shop
-127.0.0.1	tendencctywop.shop
-127.0.0.1	tesecuuweqo.shop
-127.0.0.1	tryyudjasudqo.shop
-127.0.0.1	epohe.ru
-127.0.0.1	nwgrus.ru
-127.0.0.1	olihonols.in.net
-# Number of entries: 45382
+# Number of entries: 45329
