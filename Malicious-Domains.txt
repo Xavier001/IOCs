@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-21 21:15:22 UTC                        #
+# Last updated: 2025-03-22 04:02:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cpcalendars.h.web-app-on.com
+127.0.0.1	cpcalendars.ora-0-web.com
+127.0.0.1	cpanel.d.ora-0-web.com
+127.0.0.1	vuln.4pts.online
+127.0.0.1	cs.5seo.co
+127.0.0.1	webdisk.multi-canale.com
 127.0.0.1	cofei.net
 127.0.0.1	e.p.formaxprime.co.uk
 127.0.0.1	citrix.klogixsecurity.org
@@ -45344,15 +45350,4 @@
 127.0.0.1	get-lic.com
 127.0.0.1	bb.khashibd.ir
 127.0.0.1	khashibd.ir
-127.0.0.1	supersets.ethergases.app
-127.0.0.1	wwwlogin.ethergases.app
-127.0.0.1	mailsession.com
-127.0.0.1	242.30.45.34.bc.googleusercontent.com
-127.0.0.1	www.sandbox-superset.ethergases.app
-127.0.0.1	owa.ethergases.app
-127.0.0.1	wwwsupersets.ethergases.app
-127.0.0.1	www.suxlswwwapi.ethergases.app
-127.0.0.1	asyn8097.duckdns.org
-127.0.0.1	nnamoo.duckdns.org
-127.0.0.1	ufye28738bd3yv23d783.con-ip.com
-# Number of entries: 45349
+# Number of entries: 45344
