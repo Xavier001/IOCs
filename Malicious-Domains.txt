@@ -1,11 +1,46 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-23 10:07:08 UTC                        #
+# Last updated: 2025-03-23 11:35:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	check.ugodat.icu
+127.0.0.1	check.alosym.icu
+127.0.0.1	m.knhelp.top
+127.0.0.1	wzuhelp.top
+127.0.0.1	gmthelp.top
+127.0.0.1	bwg-kundendaten.com
+127.0.0.1	www.mr26pan.top
+127.0.0.1	www.prmahelp.top
+127.0.0.1	vjhelp.top
+127.0.0.1	natbhelp.top
+127.0.0.1	www.pthkpan.top
+127.0.0.1	web.opnhelp.top
+127.0.0.1	onyxwatchdog.de
+127.0.0.1	m.opnhelp.top
+127.0.0.1	m.fphelp.top
+127.0.0.1	qprt6-uy.top
+127.0.0.1	m.wpahelp.top
+127.0.0.1	acc.vujhelp.top
+127.0.0.1	cs3699log.dlmhelp.top
+127.0.0.1	m.lrjhelp.top
+127.0.0.1	web.lrjhelp.top
+127.0.0.1	www.kahelp.top
+127.0.0.1	emgj3512.zapto.org
+127.0.0.1	bvft221.ddns.net
+127.0.0.1	www.okhelp.top
+127.0.0.1	nospws.innoxiously.com
+127.0.0.1	mzwuzd.screenvconnects.com
+127.0.0.1	ibhelp.top
+127.0.0.1	jacksgg.com
+127.0.0.1	iu-pks.screensconnectpro.com
+127.0.0.1	spockosw.innoxiously.com
+127.0.0.1	zantmi.innoxiously.com
+127.0.0.1	olarori.yzihelp.top
+127.0.0.1	interstp.live
+127.0.0.1	check.equcym.icu
 127.0.0.1	check.ohuxah.icu
 127.0.0.1	check.ugarob.icu
 127.0.0.1	p16.pknisha.cloud
@@ -45178,21 +45213,4 @@
 127.0.0.1	roaddrermncomplai.shop
 127.0.0.1	pianoswimen.shop
 127.0.0.1	wrisstytenewj.shop
-127.0.0.1	defenddsouneuw.shop
-127.0.0.1	deallyharvenw.shop
-127.0.0.1	priooozekw.shop
-127.0.0.1	pumpkinkwquo.shop
-127.0.0.1	abortinoiwiam.shop
-127.0.0.1	surroundeocw.shop
-127.0.0.1	covvercilverow.shop
-127.0.0.1	liedshorqwi.shop
-127.0.0.1	racedsuitreow.shop
-127.0.0.1	bommotmynwjq.shop
-127.0.0.1	swinngydisaosp.shop
-127.0.0.1	webtop.chat
-127.0.0.1	www.sienteslacorrienteviejo.com
-127.0.0.1	4567979.site
-127.0.0.1	hiroshima.accesscam.org
-127.0.0.1	www.2024888.site
-127.0.0.1	ip85-215-66-153.pbiaas.com
-# Number of entries: 45189
+# Number of entries: 45207
