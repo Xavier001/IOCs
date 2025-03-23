@@ -1,11 +1,45 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-23 04:02:55 UTC                        #
+# Last updated: 2025-03-23 10:07:08 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	check.ohuxah.icu
+127.0.0.1	check.ugarob.icu
+127.0.0.1	p16.pknisha.cloud
+127.0.0.1	ipadtiktok3333.hadzabe.top
+127.0.0.1	bird.infistar.tech
+127.0.0.1	mm.grace90.online
+127.0.0.1	associates-studio.gl.at.ply.gg
+127.0.0.1	spaceqri.digital
+127.0.0.1	octopuzx.netlify.app
+127.0.0.1	d1ie3z.com
+127.0.0.1	stealer.phtm.pw
+127.0.0.1	tt2.sorahub.xyz
+127.0.0.1	ancn.top
+127.0.0.1	acmetx.boydream.work
+127.0.0.1	zhengwenxuan.sbs
+127.0.0.1	laicai.ddns-ip.net
+127.0.0.1	afeng.abcd381105.top
+127.0.0.1	beautyvs.us
+127.0.0.1	facai16.liucaiyun88.top
+127.0.0.1	admin.yiqing99.cn
+127.0.0.1	nwoool10000.69wan.com.cn
+127.0.0.1	ec2-18-142-232-246.ap-southeast-1.compute.amazonaws.com
+127.0.0.1	anyone-center.gl.at.ply.gg
+127.0.0.1	advath.webaudiomessages.xyz
+127.0.0.1	many-atlantic.gl.at.ply.gg
+127.0.0.1	check.ysozim.icu
+127.0.0.1	star-considerable.gl.at.ply.gg
+127.0.0.1	vanechkin-51361.portmap.host
+127.0.0.1	hokagehuyaki.space
+127.0.0.1	mralaa1.myq-see.com
+127.0.0.1	chaarlie-44115.portmap.host
+127.0.0.1	senoc43726-29929.portmap.host
+127.0.0.1	microsoft-help.myvnc.com
+127.0.0.1	valerianobritoieufsasd.duckdns.org
 127.0.0.1	mail.continueoraweb.com
 127.0.0.1	cpcalendars.gestisciweb.com
 127.0.0.1	mail.adesso-online.com
@@ -45161,15 +45195,4 @@
 127.0.0.1	hiroshima.accesscam.org
 127.0.0.1	www.2024888.site
 127.0.0.1	ip85-215-66-153.pbiaas.com
-127.0.0.1	tenvf10vs.top
-127.0.0.1	eihtvf18vs.top
-127.0.0.1	fivevf5vs.top
-127.0.0.1	ninetgh19vs.top
-127.0.0.1	sevtvf17vs.top
-127.0.0.1	sivf6vs.top
-127.0.0.1	tventyvf20vs.top
-127.0.0.1	free.thebitmeister.com
-127.0.0.1	twofact.ddns.net
-127.0.0.1	discoveriwm.shop
-127.0.0.1	steppyplantnw.shop
-# Number of entries: 45166
+# Number of entries: 45189
