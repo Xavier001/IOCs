@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-22 22:03:06 UTC                        #
+# Last updated: 2025-03-23 04:02:55 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mail.continueoraweb.com
+127.0.0.1	cpcalendars.gestisciweb.com
+127.0.0.1	mail.adesso-online.com
 127.0.0.1	spacefyu.today
 127.0.0.1	german-kuwait.gl.at.ply.gg
 127.0.0.1	showport2025iii-57523.portmap.host
@@ -45169,4 +45172,4 @@
 127.0.0.1	twofact.ddns.net
 127.0.0.1	discoveriwm.shop
 127.0.0.1	steppyplantnw.shop
-# Number of entries: 45163
+# Number of entries: 45166
