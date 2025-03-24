@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-23 20:02:34 UTC                        #
+# Last updated: 2025-03-24 04:03:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	webdisk.adesso-online.com
+127.0.0.1	autodiscover.a.ora-0-web.com
+127.0.0.1	cpanel.e.multi-canale.com
+127.0.0.1	cdn.ooponoob.xyz
+127.0.0.1	c1.cannimade.xyz
 127.0.0.1	cpcalendars.efcommxerce.ru
 127.0.0.1	i99522h5.beget.tech
 127.0.0.1	cg55176.tw1.ru
@@ -45153,8 +45158,4 @@
 127.0.0.1	floisinvestimentos.shop
 127.0.0.1	comercialduarte.shop
 127.0.0.1	tmtconsultoria.store
-127.0.0.1	www.matcharelaxblog.com
-127.0.0.1	bonuscuk.com
-127.0.0.1	porkaloxov.com
-127.0.0.1	asmby.duckdns.org
-# Number of entries: 45151
+# Number of entries: 45152
