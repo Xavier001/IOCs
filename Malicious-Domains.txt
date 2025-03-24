@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-24 09:58:43 UTC                        #
+# Last updated: 2025-03-24 12:03:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cpanel.webprocediweb.com
+127.0.0.1	autodiscover.webprocediweb.com
+127.0.0.1	cometaxk.run
+127.0.0.1	idonetire.duckdns.org
 127.0.0.1	d3b79f13.biz.ua
 127.0.0.1	d3b79f13.cfd
 127.0.0.1	d3b79f13.sbs
@@ -5905,7 +5909,6 @@
 127.0.0.1	www.trinity-group.com
 127.0.0.1	tecnicasandinas.com
 127.0.0.1	acskompozit.com
-127.0.0.1	www.sivalencia.org
 127.0.0.1	www.telcoinfinity.com
 127.0.0.1	www.t3r.sg
 127.0.0.1	virtual.urban-orthodontics.com
@@ -45354,7 +45357,4 @@
 127.0.0.1	jpt-bulsa.com
 127.0.0.1	zenofs.zapto.org
 127.0.0.1	flyjeta.com
-127.0.0.1	floisinvestimentos.shop
-127.0.0.1	comercialduarte.shop
-127.0.0.1	tmtconsultoria.store
 # Number of entries: 45351
