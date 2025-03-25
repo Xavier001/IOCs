@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-24 21:11:57 UTC                        #
+# Last updated: 2025-03-25 02:53:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	svchost.iqiyid.icu
+127.0.0.1	mail.b.ora-0-web.com
+127.0.0.1	webdisk.aaa.104-168-101-27.cprapid.com
+127.0.0.1	cpanel.ora-0-web.com
+127.0.0.1	cpcontacts.aaa.104-168-101-27.cprapid.com
+127.0.0.1	cpanel.a.multi-canale.com
 127.0.0.1	bosstan027.beget.tech
 127.0.0.1	hawus.net
 127.0.0.1	tryagain.beget.tech
@@ -45487,14 +45493,4 @@
 127.0.0.1	remcos2024fin.duckdns.org
 127.0.0.1	ms-edge.link
 127.0.0.1	notificadoresrma.duckdns.org
-127.0.0.1	ssl.officefilechecks.com
-127.0.0.1	play.officefilechecks.com
-127.0.0.1	gstatic.officefilechecks.com
-127.0.0.1	myaccount.officefilechecks.com
-127.0.0.1	content.officefilechecks.com
-127.0.0.1	apis.officefilechecks.com
-127.0.0.1	blog.olivescode.com
-127.0.0.1	accounts.officefilechecks.com
-127.0.0.1	outlook.caltechsystems.com
-127.0.0.1	youtube.officefilechecks.com
-# Number of entries: 45491
+# Number of entries: 45487
