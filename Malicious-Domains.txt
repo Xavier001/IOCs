@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-25 08:03:13 UTC                        #
+# Last updated: 2025-03-25 12:18:41 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	oct2.xyz
+127.0.0.1	compralibri.com
+127.0.0.1	persimmon-turquoise344028.vm-host.com
+127.0.0.1	app.formaxprime.co.uk
+127.0.0.1	se.app.formaxprime.co.uk
 127.0.0.1	webdisk.oraonweb.com
 127.0.0.1	aiwavey.run
 127.0.0.1	byteplusx.digital
@@ -45509,6 +45514,4 @@
 127.0.0.1	younngpresseo.shop
 127.0.0.1	candleduseiwo.shop
 127.0.0.1	roadrunnersell.com
-127.0.0.1	kapilapiii.com
-127.0.0.1	lumnew.fun
-# Number of entries: 45505
+# Number of entries: 45508
