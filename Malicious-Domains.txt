@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-25 20:05:22 UTC                        #
+# Last updated: 2025-03-26 04:01:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mail.b.multi-canale.com
+127.0.0.1	cpanel.d.multi-canale.com
+127.0.0.1	webmail.a.ora-0-web.com
+127.0.0.1	qiaoshen.top
+127.0.0.1	cstest250326.iqiyic.icu
+127.0.0.1	mail.multi-canale.com
+127.0.0.1	login.my.gov.au.upgrade1.zip
+127.0.0.1	ec2-18-167-254-207.ap-east-1.compute.amazonaws.com
+127.0.0.1	confident-archimedes.179-43-176-3.plesk.page
+127.0.0.1	ehchq7m7rpvdr.cfc-execute.bj.baidubce.com
 127.0.0.1	subdomainhere.klogixsecurity.org
 127.0.0.1	lingardmechanics.shop
 127.0.0.1	documents.aruba.cloudconnect-auth0.top
@@ -45506,6 +45516,4 @@
 127.0.0.1	stogeneratmns.shop
 127.0.0.1	reinforcenh.shop
 127.0.0.1	performenj.shop
-127.0.0.1	v120527.hosted-by-vdsina.com
-127.0.0.1	www.inforig.ru
-# Number of entries: 45502
+# Number of entries: 45510
