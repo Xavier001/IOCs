@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-26 09:47:56 UTC                        #
+# Last updated: 2025-03-26 12:01:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cpcalendars.versioneonline.com
+127.0.0.1	autodiscover.h.web-app-on.com
+127.0.0.1	cpcalendars.m.web-app-on.com
+127.0.0.1	simplepifj.world
+127.0.0.1	check.gytat.icu
+127.0.0.1	check.lipog.icu
+127.0.0.1	check.helij.icu
 127.0.0.1	cosmicov.live
 127.0.0.1	stvann.onlinewebshop.net
 127.0.0.1	a1106540.xsph.ru
@@ -45525,4 +45532,4 @@
 127.0.0.1	majorbrdide.com
 127.0.0.1	restbycalm.com
 127.0.0.1	circle.innovativecsportal.com
-# Number of entries: 45519
+# Number of entries: 45526
