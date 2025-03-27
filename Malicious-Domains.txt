@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-27 08:14:39 UTC                        #
+# Last updated: 2025-03-27 12:01:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mail.i.web-app-on.com
+127.0.0.1	enetlabq.digital
 127.0.0.1	w.ap.formaxprime.co.uk
 127.0.0.1	netcorde.run
 127.0.0.1	rumbaya.com
@@ -45616,9 +45618,4 @@
 127.0.0.1	filetip.shop
 127.0.0.1	oldenlumm.fun
 127.0.0.1	internationalcricketboard.com
-127.0.0.1	steam.buy-nitro.ru
-127.0.0.1	literacyhangwk.shop
-127.0.0.1	riderratttinow.shop
-127.0.0.1	for4hs.top
-127.0.0.1	graficaminervaa.shop
-# Number of entries: 45615
+# Number of entries: 45612
