@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-26 20:01:34 UTC                        #
+# Last updated: 2025-03-27 04:01:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cpcontacts.c.ora-0-web.com
+127.0.0.1	webmail.continueoraweb.com
+127.0.0.1	autodiscover.d.multi-canale.com
+127.0.0.1	mail.oraonweb.com
+127.0.0.1	web.mhknex555.com
+127.0.0.1	mail.104-168-101-27.cprapid.com
+127.0.0.1	cpcalendars.e.multi-canale.com
+127.0.0.1	webdisk.c.multi-canale.com
+127.0.0.1	jwt.cpyc.at
+127.0.0.1	x.cpyc.at
+127.0.0.1	dashboard.rath3r.xyz
 127.0.0.1	allied-constructionllc.online
 127.0.0.1	hiltonrp.fvds.ru
 127.0.0.1	park-meetup.gl.at.ply.gg
@@ -45593,5 +45604,4 @@
 127.0.0.1	info-tel.online
 127.0.0.1	socket.squadware.dev
 127.0.0.1	windowssistem.duckdns.org
-127.0.0.1	172-104-139-26.ip.linodeusercontent.com
-# Number of entries: 45588
+# Number of entries: 45598
