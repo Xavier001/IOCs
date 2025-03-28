@@ -1,11 +1,23 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-28 09:36:32 UTC                        #
+# Last updated: 2025-03-28 12:01:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mail.ora-0-web.com
+127.0.0.1	cpcalendars.a.ora-0-web.com
+127.0.0.1	check.tisof.icu
+127.0.0.1	ip251.ip-15-204-130.us
+127.0.0.1	renxinguo.com
+127.0.0.1	check.mydiw.icu
+127.0.0.1	naybvyzvemm.top
+127.0.0.1	gkbjkdfghilekfn.top
+127.0.0.1	check.wigiz.icu
+127.0.0.1	check.dolav.icu
+127.0.0.1	dgemmiailgjdlde.top
+127.0.0.1	eirtjzo3i4ec.top
 127.0.0.1	check.zywig.icu
 127.0.0.1	check.peqah.icu
 127.0.0.1	arthurshelby.click
@@ -45888,6 +45900,4 @@
 127.0.0.1	wwwsupersets.pythr.net
 127.0.0.1	naver-info.store
 127.0.0.1	taipeilivecenter.online
-127.0.0.1	www.venitex.nut.cc
-127.0.0.1	socket.infinyx.us
-# Number of entries: 45884
+# Number of entries: 45894
