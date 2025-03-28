@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-27 18:39:01 UTC                        #
+# Last updated: 2025-03-28 04:01:42 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	autodiscover.eversioneweb.com
 127.0.0.1	check.sacyd.icu
 127.0.0.1	check.bufok.icu
 127.0.0.1	galactich.today
@@ -45629,20 +45630,4 @@
 127.0.0.1	teenylogicod.shop
 127.0.0.1	raciimoppero.shop
 127.0.0.1	admissionfaccen.shop
-127.0.0.1	pools-eth.org
-127.0.0.1	mazurax.com
-127.0.0.1	sumerda.com
-127.0.0.1	www.mazurax.com
-127.0.0.1	www.sumerda.com
-127.0.0.1	baruopas.com
-127.0.0.1	sumonare.com
-127.0.0.1	www.baruopas.com
-127.0.0.1	www.sumonare.com
-127.0.0.1	www.baruopas.com
-127.0.0.1	www.sumonare.com
-127.0.0.1	www.mazurax.com
-127.0.0.1	www.sumerda.com
-127.0.0.1	sumerda.com
-127.0.0.1	sumonare.com
-127.0.0.1	baruopas.com
-# Number of entries: 45639
+# Number of entries: 45624
