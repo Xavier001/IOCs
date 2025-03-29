@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-29 10:12:04 UTC                        #
+# Last updated: 2025-03-29 10:54:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	muddy-scene-7557.sgfsdggfg.workers.dev
 127.0.0.1	check.ryqyn.icu
 127.0.0.1	check.zahyt.icu
 127.0.0.1	webmail.f.multi-canale.com
@@ -46246,4 +46247,4 @@
 127.0.0.1	branchtriviawlek.shop
 127.0.0.1	chaptermusu.store
 127.0.0.1	elevenvx11vs.top
-# Number of entries: 46240
+# Number of entries: 46241
