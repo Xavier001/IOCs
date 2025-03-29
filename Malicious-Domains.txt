@@ -1,11 +1,32 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-29 04:01:48 UTC                        #
+# Last updated: 2025-03-29 10:12:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	check.ryqyn.icu
+127.0.0.1	check.zahyt.icu
+127.0.0.1	webmail.f.multi-canale.com
+127.0.0.1	cpcontacts.b.ora-0-web.com
+127.0.0.1	management.faleze.com
+127.0.0.1	cpanel.multi-canale.com
+127.0.0.1	check.taxaq.icu
+127.0.0.1	nebuxisn.top
+127.0.0.1	indian-alternate.gl.at.ply.gg
+127.0.0.1	resources-legacy.gl.at.ply.gg
+127.0.0.1	someone-manually.gl.at.ply.gg
+127.0.0.1	ticket90867-33014.portmap.host
+127.0.0.1	ddffg-52874.portmap.host
+127.0.0.1	game-glory.gl.at.ply.gg
+127.0.0.1	swertyhgvcfrdewsquiplkjmnb.ydns.eu
+127.0.0.1	verynicepeopleswithgreatnessgivenmebestthings.ydns.eu
+127.0.0.1	chris1212-43098.portmap.host
+127.0.0.1	quassar53-43603.portmap.host
+127.0.0.1	check.nagec.icu
+127.0.0.1	check.ticyb.icu
+127.0.0.1	check.nifom.icu
 127.0.0.1	cpanel.aa.104-168-101-27.cprapid.com
 127.0.0.1	mail.c.ora-0-web.com
 127.0.0.1	cpanel.i.web-app-on.com
@@ -46225,29 +46246,4 @@
 127.0.0.1	branchtriviawlek.shop
 127.0.0.1	chaptermusu.store
 127.0.0.1	elevenvx11vs.top
-127.0.0.1	mx01.pqpw.com
-127.0.0.1	cs.pqpw.com
-127.0.0.1	spam.pqpw.com
-127.0.0.1	ns.pqpw.com
-127.0.0.1	mail.pqpw.com
-127.0.0.1	rj.pqpw.com
-127.0.0.1	seed.pqpw.com
-127.0.0.1	willibleu.com
-127.0.0.1	gw.pqpw.com
-127.0.0.1	imap.pqpw.com
-127.0.0.1	post.pqpw.com
-127.0.0.1	www1.pqpw.com
-127.0.0.1	auth.pqpw.com
-127.0.0.1	mx.pqpw.com
-127.0.0.1	host.pqpw.com
-127.0.0.1	wiki.pqpw.com
-127.0.0.1	smtp.pqpw.com
-127.0.0.1	metromich.com
-127.0.0.1	send.pqpw.com
-127.0.0.1	dddd.pqpw.com
-127.0.0.1	iholdtelnet.com
-127.0.0.1	cr87986.tw1.ru
-127.0.0.1	lootebarrkeyn.shop
-127.0.0.1	famikyjdiag.site
-127.0.0.1	possiwreeste.site
-# Number of entries: 46244
+# Number of entries: 46240
