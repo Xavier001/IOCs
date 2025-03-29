@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-28 20:01:59 UTC                        #
+# Last updated: 2025-03-29 04:01:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cpanel.aa.104-168-101-27.cprapid.com
+127.0.0.1	mail.c.ora-0-web.com
+127.0.0.1	cpanel.i.web-app-on.com
+127.0.0.1	autodiscover.aaa.104-168-101-27.cprapid.com
+127.0.0.1	cpanel.adesso-online.com
+127.0.0.1	cpcalendars.eversioneweb.com
+127.0.0.1	webdisk.d.ora-0-web.com
+127.0.0.1	webmail.oraonweb.com
+127.0.0.1	api.faleze.com
+127.0.0.1	cpcalendars.e.ora-0-web.com
 127.0.0.1	doubleredstudio.doublered.co.uk
 127.0.0.1	www.baker221.co.uk
 127.0.0.1	musing-brown.185-38-142-181.plesk.page
@@ -46240,6 +46250,4 @@
 127.0.0.1	lootebarrkeyn.shop
 127.0.0.1	famikyjdiag.site
 127.0.0.1	possiwreeste.site
-127.0.0.1	mozg55.com
-127.0.0.1	speak-easy-school.com
-# Number of entries: 46236
+# Number of entries: 46244
