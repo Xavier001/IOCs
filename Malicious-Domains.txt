@@ -1,11 +1,30 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-30 12:03:07 UTC                        #
+# Last updated: 2025-03-30 20:02:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.asistani.com.tr
+127.0.0.1	jeggawire.ddns.net
+127.0.0.1	functions-pressing.gl.at.ply.gg
+127.0.0.1	evolution007.hopto.org
+127.0.0.1	commoffice.xyz
+127.0.0.1	acschoolcatering.com
+127.0.0.1	roofcolor.com
+127.0.0.1	check.hydod.icu
+127.0.0.1	gunlimit.digital
+127.0.0.1	check.botuh.icu
+127.0.0.1	moonishs.live
+127.0.0.1	warbasket.xyz
+127.0.0.1	check.fihoj.icu
+127.0.0.1	lunoxorn.top
+127.0.0.1	ngotronl.run
+127.0.0.1	check.bumac.icu
+127.0.0.1	check.togez.icu
+127.0.0.1	webmail.m.web-app-on.com
+127.0.0.1	security.kasperskys.top
 127.0.0.1	kamru.ru
 127.0.0.1	check.kosif.icu
 127.0.0.1	check.jetex.icu
@@ -46750,30 +46769,4 @@
 127.0.0.1	www.wwwdemo.ethergases.org
 127.0.0.1	analyze.ethergases.org
 127.0.0.1	www.wwwadmin.ethergases.org
-127.0.0.1	canvas.pet
-127.0.0.1	wwwssl.ethergases.app
-127.0.0.1	wwwwwwmail.ethergases.org
-127.0.0.1	www.wwwstaging.ethergases.app
-127.0.0.1	torressociedade.site
-127.0.0.1	camburiengenharia.site
-127.0.0.1	rochaacessoria.site
-127.0.0.1	carvalhoengenharia.site
-127.0.0.1	maximosolucoes.online
-127.0.0.1	bandeirantelogistica.online
-127.0.0.1	paperbearsweets.com
-127.0.0.1	commandejorsk.site
-127.0.0.1	underlinemdsj.site
-127.0.0.1	flouredbiteowo.shop
-127.0.0.1	bellykmrebk.site
-127.0.0.1	writekdmsnu.site
-127.0.0.1	delaylacedmn.site
-127.0.0.1	agentyanlark.site
-127.0.0.1	offeviablwke.site
-127.0.0.1	dczas.duckdns.org
-127.0.0.1	reputationb.com
-127.0.0.1	artbykathrynmorin.com
-127.0.0.1	transfer-server.store
-127.0.0.1	limacamposadv.online
-127.0.0.1	camposacessoria.online
-127.0.0.1	urusvisa.com
-# Number of entries: 46770
+# Number of entries: 46763
