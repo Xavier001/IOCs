@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-30 09:31:59 UTC                        #
+# Last updated: 2025-03-30 12:03:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	kamru.ru
+127.0.0.1	check.kosif.icu
+127.0.0.1	check.jetex.icu
+127.0.0.1	ahyponer.nextlevelnetworkpro.com
+127.0.0.1	coreedgetechpro.com
+127.0.0.1	bog304.umhelp.top
+127.0.0.1	fqhqhelp.top
+127.0.0.1	pythontesthelp.top
+127.0.0.1	triuws01.com.de
 127.0.0.1	check.xelan.icu
 127.0.0.1	check.fenin.icu
 127.0.0.1	documents-johnny.gl.at.ply.gg
@@ -46767,4 +46776,4 @@
 127.0.0.1	limacamposadv.online
 127.0.0.1	camposacessoria.online
 127.0.0.1	urusvisa.com
-# Number of entries: 46761
+# Number of entries: 46770
