@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-29 18:12:48 UTC                        #
+# Last updated: 2025-03-30 04:01:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mail.d.multi-canale.com
+127.0.0.1	webdisk.e.multi-canale.com
+127.0.0.1	cpcalendars.oraonweb.com
+127.0.0.1	cpcontacts.gestisciweb.com
+127.0.0.1	94ad2ccedf2c.edge.sdk.netcloudclick.com
+127.0.0.1	9f813abedf2f.edge.sdk.netcloudclick.com
+127.0.0.1	autodiscover.gestisciweb.com
+127.0.0.1	cpcontacts.gfjd.104-168-101-27.cprapid.com
+127.0.0.1	webdisk.e.ora-0-web.com
 127.0.0.1	check.sabyw.icu
 127.0.0.1	hodh009-62208.portmap.host
 127.0.0.1	slimedang-64046.portmap.host
@@ -46291,16 +46300,4 @@
 127.0.0.1	shades.whatisaweekend.com
 127.0.0.1	innerglowjourney.com
 127.0.0.1	encrypted7745.hopto.org
-127.0.0.1	mail.purefusionos.com
-127.0.0.1	cpanel.purefusionos.com
-127.0.0.1	login.kane-com.com
-127.0.0.1	uspsgc.life
-127.0.0.1	www2.pqpw.com
-127.0.0.1	www.qtvzudev.pythr.net
-127.0.0.1	www.intelligence.ethergases.app
-127.0.0.1	m.ethergases.app
-127.0.0.1	wwwapi.pythr.net
-127.0.0.1	www.wwwwwwwp.ethergases.app
-127.0.0.1	xwdvawwwwwwwebmail.ethergases.app
-127.0.0.1	wwwcloudapp.pythr.net
-# Number of entries: 46297
+# Number of entries: 46294
