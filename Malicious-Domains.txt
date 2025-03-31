@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-30 20:02:00 UTC                        #
+# Last updated: 2025-03-31 04:02:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cpcontacts.adesso-online.com
+127.0.0.1	mail.a.multi-canale.com
+127.0.0.1	api.alipaydns.ggff.net
+127.0.0.1	cpcontacts.a.multi-canale.com
+127.0.0.1	cpcalendars.a.multi-canale.com
 127.0.0.1	www.asistani.com.tr
 127.0.0.1	jeggawire.ddns.net
 127.0.0.1	functions-pressing.gl.at.ply.gg
@@ -46769,4 +46774,47 @@
 127.0.0.1	www.wwwdemo.ethergases.org
 127.0.0.1	analyze.ethergases.org
 127.0.0.1	www.wwwadmin.ethergases.org
-# Number of entries: 46763
+127.0.0.1	canvas.pet
+127.0.0.1	wwwssl.ethergases.app
+127.0.0.1	wwwwwwmail.ethergases.org
+127.0.0.1	www.wwwstaging.ethergases.app
+127.0.0.1	torressociedade.site
+127.0.0.1	camburiengenharia.site
+127.0.0.1	rochaacessoria.site
+127.0.0.1	carvalhoengenharia.site
+127.0.0.1	maximosolucoes.online
+127.0.0.1	bandeirantelogistica.online
+127.0.0.1	paperbearsweets.com
+127.0.0.1	commandejorsk.site
+127.0.0.1	underlinemdsj.site
+127.0.0.1	flouredbiteowo.shop
+127.0.0.1	bellykmrebk.site
+127.0.0.1	writekdmsnu.site
+127.0.0.1	delaylacedmn.site
+127.0.0.1	agentyanlark.site
+127.0.0.1	offeviablwke.site
+127.0.0.1	dczas.duckdns.org
+127.0.0.1	reputationb.com
+127.0.0.1	artbykathrynmorin.com
+127.0.0.1	transfer-server.store
+127.0.0.1	limacamposadv.online
+127.0.0.1	camposacessoria.online
+127.0.0.1	urusvisa.com
+127.0.0.1	softbyms.com
+127.0.0.1	beef.softbyms.com
+127.0.0.1	cpcontacts.purefusionos.com
+127.0.0.1	portalvpn.pythr.net
+127.0.0.1	www.wwwportal.pythr.net
+127.0.0.1	www.wwwconnect.pythr.net
+127.0.0.1	wwwwwwwwwwebmail.pythr.net
+127.0.0.1	wwwwwwrds1.pythr.net
+127.0.0.1	www.wwwwwwwwwgatewayvpn.pythr.net
+127.0.0.1	wwwwwwconnect.pythr.net
+127.0.0.1	wwwconnect.pythr.net
+127.0.0.1	www.backend.pythr.net
+127.0.0.1	us-ps-cp.life
+127.0.0.1	tthvlgatewaycitrix.pythr.net
+127.0.0.1	shades.whatisaweekend.com
+127.0.0.1	innerglowjourney.com
+127.0.0.1	encrypted7745.hopto.org
+# Number of entries: 46811
