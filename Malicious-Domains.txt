@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-31 09:19:41 UTC                        #
+# Last updated: 2025-03-31 12:01:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	image2excel.shop
+127.0.0.1	lum-market.fun
+127.0.0.1	check.jyheq.icu
 127.0.0.1	check.cepax.icu
 127.0.0.1	check.lemaw.icu
 127.0.0.1	paknavy.modpak.live
@@ -46843,4 +46846,4 @@
 127.0.0.1	limacamposadv.online
 127.0.0.1	camposacessoria.online
 127.0.0.1	urusvisa.com
-# Number of entries: 46837
+# Number of entries: 46840
