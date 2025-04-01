@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-01 08:02:32 UTC                        #
+# Last updated: 2025-04-01 10:20:33 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	check.nuxiy.icu
 127.0.0.1	autodiscover.c.multi-canale.com
 127.0.0.1	ex.ap.4t.com
 127.0.0.1	tripfjoyq.life
@@ -46785,4 +46786,4 @@
 127.0.0.1	indoprimitiveart.com
 127.0.0.1	boarderryowk.shop
 127.0.0.1	voilantaiowm.shop
-# Number of entries: 46779
+# Number of entries: 46780
