@@ -1,11 +1,52 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-01 10:20:33 UTC                        #
+# Last updated: 2025-04-01 18:27:53 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	check.donau.icu
+127.0.0.1	check.gihua.icu
+127.0.0.1	r.netluc.live
+127.0.0.1	ipsi.live
+127.0.0.1	qq51f.short.gy
+127.0.0.1	wowi.live
+127.0.0.1	webdisk.h.web-app-on.com
+127.0.0.1	check.rajuy.icu
+127.0.0.1	existenceshame.icu
+127.0.0.1	comexisj.digital
+127.0.0.1	zaharaflowers.com
+127.0.0.1	pa-portal.premierhomeviews.com
+127.0.0.1	check.lafae.icu
+127.0.0.1	bretux.com
+127.0.0.1	server.neugumma.makeup
+127.0.0.1	heyues.live
+127.0.0.1	win-shops-sh.com
+127.0.0.1	e.elvax.live
+127.0.0.1	check.xamuy.icu
+127.0.0.1	beldy.ma
+127.0.0.1	oreironx.live
+127.0.0.1	meditationsecretsforwomen.com
+127.0.0.1	nailemkosmetik.de
+127.0.0.1	topledgrowlights.malapascuaisland.com
+127.0.0.1	katekasoft.com
+127.0.0.1	osbrankoradicevickm.com
+127.0.0.1	aabbe.shop
+127.0.0.1	techtorev.com
+127.0.0.1	oldfoxcompany.com
+127.0.0.1	notkittenaround.digmoo.com
+127.0.0.1	priesttools.com
+127.0.0.1	playdxb.com
+127.0.0.1	fuckfrance25.ddns.net
+127.0.0.1	check.bukuu.icu
+127.0.0.1	sweetsonian.com
+127.0.0.1	xcellentrenovations.com
+127.0.0.1	sarahmariegerrity.com
+127.0.0.1	nationalinterestparty.com
+127.0.0.1	police.co.ke
+127.0.0.1	humanrights.co.ke
+127.0.0.1	ee.ap.4t.com
 127.0.0.1	check.nuxiy.icu
 127.0.0.1	autodiscover.c.multi-canale.com
 127.0.0.1	ex.ap.4t.com
@@ -46778,12 +46819,4 @@
 127.0.0.1	nbt201.dynamic-dns.net
 127.0.0.1	language-sublime.gl.at.ply.gg
 127.0.0.1	anoive.top
-127.0.0.1	trenndylicensei.shop
-127.0.0.1	virationli.site
-127.0.0.1	worldresource.shop
-127.0.0.1	025sep.duckdns.org
-127.0.0.1	winsrr14.duckdns.org
-127.0.0.1	indoprimitiveart.com
-127.0.0.1	boarderryowk.shop
-127.0.0.1	voilantaiowm.shop
-# Number of entries: 46780
+# Number of entries: 46813
