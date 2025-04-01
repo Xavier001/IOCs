@@ -18,7 +18,7 @@ api-pyciglnrcf.cn-beijing.fcapp.run,Possible Cobalt Strike C2 Domain,/api/webses
 api.alipaydns.ggff.net,Possible Cobalt Strike C2 Domain,/owa/,159.138.43.35
 api.baidupro.com,Possible Cobalt Strike C2 Domain,/s/58462514417,49.232.65.225
 api.co-operativefinance.com,Possible Cobalt Strike C2 Domain,/push,44.193.202.139
-api.googledb.com,Possible Cobalt Strike C2 Domain,/upload/imgs,172.86.80.66
+api.googledb.com,Possible Cobalt Strike C2 Domain,/upload/img,172.86.80.66
 api.googleshop.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,198.98.57.26
 api.sftech.one,Possible Cobalt Strike C2 Domain,/antDesign3.js,111.230.5.199
 api.tingwen.xyz,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,43.165.133.147
@@ -166,6 +166,7 @@ service-a0ahsoek-1257582847.gz.tencentapigw.com.cn,Possible Cobalt Strike C2 Dom
 service-hzdzk12c-1318485841.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB,43.139.50.42
 service-jnajkkdg-1318687485.gz.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/Forge/static/HULNWCWI,198.199.122.34
 sf.oss-accelerate.aliyuncs.com,Possible Cobalt Strike C2 Fronting Domain,/next/sensor/login_guide.js,39.100.70.144
+shop.886190.xyz,Possible Cobalt Strike C2 Domain,/en_US/all.js,52.23.252.214
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/ga.js,85.175.101.203
 somehost.p0c.xyz,Possible Cobalt Strike C2 Domain,/__utm.gif,165.232.71.57
 stads.10086.cn,Possible Cobalt Strike C2 Fronting Domain,/index/bj/index_100_100.html,43.140.215.17

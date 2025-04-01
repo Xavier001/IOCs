@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-03-31 20:35:54 UTC                        #
+# Last updated: 2025-04-01 04:02:10 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cpanel.gfjd.104-168-101-27.cprapid.com
+127.0.0.1	ip66-175-239-156.pbiaas.com
+127.0.0.1	cpcontacts.aa.104-168-101-27.cprapid.com
+127.0.0.1	thequestforkn.top
+127.0.0.1	shop.886190.xyz
 127.0.0.1	please-explore.gl.at.ply.gg
 127.0.0.1	adminaahliya-20192.portmap.io
 127.0.0.1	hunterjohnson1282ks-58507.portmap.io
@@ -46855,9 +46860,4 @@
 127.0.0.1	paveldurov.sbs
 127.0.0.1	tag224.ddns.net
 127.0.0.1	sam.mr
-127.0.0.1	68-183-110-121.ipv4.staticdns3.io
-127.0.0.1	www.gateway.pythr.net
-127.0.0.1	www.wwwdemo.ethergases.org
-127.0.0.1	analyze.ethergases.org
-127.0.0.1	www.wwwadmin.ethergases.org
 # Number of entries: 46854
