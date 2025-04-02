@@ -1,11 +1,38 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-01 18:27:53 UTC                        #
+# Last updated: 2025-04-02 04:01:34 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	login4.fbads.store
+127.0.0.1	mailbusiness.fbads.store
+127.0.0.1	sentry.fbads.store
+127.0.0.1	sso.fbads.store
+127.0.0.1	z1.fbads.store
+127.0.0.1	id.fbads.store
+127.0.0.1	var.fbads.store
+127.0.0.1	ce1.fbads.store
+127.0.0.1	login2.fbads.store
+127.0.0.1	frontend-service.fbads.store
+127.0.0.1	okta.fbads.store
+127.0.0.1	id3.fbads.store
+127.0.0.1	ailmentr.run
+127.0.0.1	deflamep.live
+127.0.0.1	ferrofyg.run
+127.0.0.1	weldarob.live
+127.0.0.1	slavisa-36618.portmap.io
+127.0.0.1	chys0m.duckdns.org
+127.0.0.1	benefits-convention.gl.at.ply.gg
+127.0.0.1	dar21.duckdns.org
+127.0.0.1	owtky3dxj.localto.net
+127.0.0.1	jspassport.ssl.qhimg.com.cdn.dnsv1.com
+127.0.0.1	mail2.fbads.store
+127.0.0.1	live.fbads.store
+127.0.0.1	ahab.fbads.store
+127.0.0.1	2.fbads.store
+127.0.0.1	2za55fsge8fbj.cfc-execute.bj.baidubce.com
 127.0.0.1	check.donau.icu
 127.0.0.1	check.gihua.icu
 127.0.0.1	r.netluc.live
@@ -46818,5 +46845,4 @@
 127.0.0.1	eyh.ocry.com
 127.0.0.1	nbt201.dynamic-dns.net
 127.0.0.1	language-sublime.gl.at.ply.gg
-127.0.0.1	anoive.top
-# Number of entries: 46813
+# Number of entries: 46839
