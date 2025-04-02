@@ -1,11 +1,36 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-02 12:01:43 UTC                        #
+# Last updated: 2025-04-02 22:13:08 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	fluheror.run
+127.0.0.1	k.veuwb.live
+127.0.0.1	i.jolttapestry.fun
+127.0.0.1	rlxspoty.run
+127.0.0.1	jrxsafer.top
+127.0.0.1	krxspint.digital
+127.0.0.1	rhxhube.run
+127.0.0.1	grxeasyw.digital
+127.0.0.1	rdmetrics.ru
+127.0.0.1	sub.item518475621531819.fbads.store
+127.0.0.1	item513125621531816.fbads.store
+127.0.0.1	acc.fbads.store
+127.0.0.1	mailbusiness3.fbads.store
+127.0.0.1	gui.fbads.store
+127.0.0.1	id4.fbads.store
+127.0.0.1	23-227-202-141.static.hvvc.us
+127.0.0.1	bukaman.shop
+127.0.0.1	a.uueui.shop
+127.0.0.1	b1.uueui.shop
+127.0.0.1	kestim.shop
+127.0.0.1	chukwuonye.duckdns.org
+127.0.0.1	dcdh4.shop
+127.0.0.1	eiesystems.com
+127.0.0.1	bridge.tree-sock-rain.today
+127.0.0.1	xxx-xx-x-xxx.pages.dev
 127.0.0.1	net-5-88-105-109.cust.vodafonedsl.it
 127.0.0.1	4.fbads.store
 127.0.0.1	ultraddam.co.kr
@@ -46980,30 +47005,4 @@
 127.0.0.1	toskaadmx.duckdns.org
 127.0.0.1	fahad26smsm.duckdns.org
 127.0.0.1	gitlabstand.com
-127.0.0.1	tzten257.top
-127.0.0.1	corretoralago.site
-127.0.0.1	musicasdownload.online
-127.0.0.1	mottaconstrutora.site
-127.0.0.1	tigoveiculos.online
-127.0.0.1	aguiarsolucoesenergy.shop
-127.0.0.1	pixelatedsinfactory.com
-127.0.0.1	pharmachemstore.com
-127.0.0.1	luzocomerciais.site
-127.0.0.1	cargoacessoria.online
-127.0.0.1	duartecomercio.online
-127.0.0.1	uniaosistemasrj.online
-127.0.0.1	rochaservicos.online
-127.0.0.1	lagunrepresentacoes.online
-127.0.0.1	editoraramos.online
-127.0.0.1	admequipamentos.online
-127.0.0.1	financasguaru.online
-127.0.0.1	projetoretha.online
-127.0.0.1	nobreengenharia.online
-127.0.0.1	static.241.115.12.49.clients.your-server.de
-127.0.0.1	thehyperfocus.quest
-127.0.0.1	lgbtrestaurant.com
-127.0.0.1	tselka.org
-127.0.0.1	novo.doxbin.top
-127.0.0.1	byeux.com
-127.0.0.1	update.byeux.com
-# Number of entries: 47000
+# Number of entries: 46999
