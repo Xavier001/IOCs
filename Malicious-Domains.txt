@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-02 10:08:18 UTC                        #
+# Last updated: 2025-04-02 12:01:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	net-5-88-105-109.cust.vodafonedsl.it
+127.0.0.1	4.fbads.store
+127.0.0.1	ultraddam.co.kr
+127.0.0.1	check.zaqob.icu
 127.0.0.1	check.dasoc.icu
 127.0.0.1	filemanage.micrsofts-file.com
 127.0.0.1	system-update.cloud
@@ -47002,6 +47006,4 @@
 127.0.0.1	novo.doxbin.top
 127.0.0.1	byeux.com
 127.0.0.1	update.byeux.com
-127.0.0.1	eyh.ocry.com
-127.0.0.1	nbt201.dynamic-dns.net
-# Number of entries: 46998
+# Number of entries: 47000
