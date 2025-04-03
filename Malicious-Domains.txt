@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-03 07:51:32 UTC                        #
+# Last updated: 2025-04-03 12:22:53 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	webproinc.com
+127.0.0.1	2c8b3f19-0325-4acc-a3dd-31a918e4dbf5.random.illionx.nl
 127.0.0.1	kakaotalkforwindows.com
 127.0.0.1	captcha-cdn.com
 127.0.0.1	wafsearch.wiki
@@ -46899,4 +46901,4 @@
 127.0.0.1	treatynreit.site
 127.0.0.1	snarlypagowo.site
 127.0.0.1	questionsmw.store
-# Number of entries: 46893
+# Number of entries: 46895
