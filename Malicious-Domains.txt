@@ -1,13 +1,23 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-03 12:22:53 UTC                        #
+# Last updated: 2025-04-03 19:42:34 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nexacorenet.com
+127.0.0.1	bretux.com
+127.0.0.1	cs1.bigpineapple.asia
+127.0.0.1	www.makeyourchoice0808.online
+127.0.0.1	h1.rectalcrumb.shop
+127.0.0.1	acibbnijcehcmbi.top
+127.0.0.1	covaticonstructioncorp.shop
+127.0.0.1	mindsparkdigital.com
+127.0.0.1	tesra.shop
+127.0.0.1	freshyu.digital
+127.0.0.1	ywmedici.top
 127.0.0.1	webproinc.com
-127.0.0.1	2c8b3f19-0325-4acc-a3dd-31a918e4dbf5.random.illionx.nl
 127.0.0.1	kakaotalkforwindows.com
 127.0.0.1	captcha-cdn.com
 127.0.0.1	wafsearch.wiki
@@ -46878,27 +46888,4 @@
 127.0.0.1	pc-star.fi
 127.0.0.1	www.mozg55.com
 127.0.0.1	semurox.com
-127.0.0.1	opewolumeras.com
-127.0.0.1	dlink.cfd
-127.0.0.1	frank.dlink.cfd
-127.0.0.1	check-key.com
-127.0.0.1	consumptiy.site
-127.0.0.1	highawaretemptersudwu.xyz
-127.0.0.1	pittyshishre.site
-127.0.0.1	pierryfurow.site
-127.0.0.1	fallydisablek.site
-127.0.0.1	certainykww.store
-127.0.0.1	abundanttyj.site
-127.0.0.1	jerescarla.com
-127.0.0.1	pullride.com
-127.0.0.1	skiiin.club
-127.0.0.1	shaoriffandco.com
-127.0.0.1	chorusarorp.site
-127.0.0.1	soldiefieop.site
-127.0.0.1	mysterisop.site
-127.0.0.1	absorptioniw.site
-127.0.0.1	abnomalrkmu.site
-127.0.0.1	treatynreit.site
-127.0.0.1	snarlypagowo.site
-127.0.0.1	questionsmw.store
-# Number of entries: 46895
+# Number of entries: 46882
