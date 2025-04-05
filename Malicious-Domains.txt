@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-05 08:01:08 UTC                        #
+# Last updated: 2025-04-05 12:01:26 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	test44401.duckdns.org
 127.0.0.1	ip87-106-116-156.pbiaas.com
 127.0.0.1	mintbehavior.xyz
 127.0.0.1	trailrifle.xyz
@@ -46903,13 +46904,4 @@
 127.0.0.1	probablekl.site
 127.0.0.1	selfishhri.store
 127.0.0.1	worthsuwqp.shop
-127.0.0.1	clearancek.site
-127.0.0.1	eaglepawnoy.store
-127.0.0.1	licendfilteo.site
-127.0.0.1	spirittunek.store
-127.0.0.1	studennotediw.store
-127.0.0.1	dissapoiznw.store
-127.0.0.1	firghtenj.online
-127.0.0.1	mobbipenju.store
-127.0.0.1	bathdoomgaz.store
-# Number of entries: 46906
+# Number of entries: 46898
