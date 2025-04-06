@@ -1,11 +1,32 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-06 00:01:51 UTC                        #
+# Last updated: 2025-04-06 08:39:19 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	zoom-us.live
+127.0.0.1	us06web.zoom-us.live
+127.0.0.1	cpcontacts.e.ora-0-web.com
+127.0.0.1	quanmingl.com
+127.0.0.1	us02web-zoom.icu
+127.0.0.1	connect.antiwifi.dev
+127.0.0.1	net-killer.ooguy.com
+127.0.0.1	net-killer.cameraddns.net
+127.0.0.1	most-killer.duckdns.org
+127.0.0.1	xiaoll.com
+127.0.0.1	qq.ap.4t.com
+127.0.0.1	proximus-me.com
+127.0.0.1	ogs.farmandconstructionequipment.com
+127.0.0.1	lake-observation.gl.at.ply.gg
+127.0.0.1	www.leszartistes.art
+127.0.0.1	power.moon-river-coin.xyz
+127.0.0.1	bravelyko.run
+127.0.0.1	nalandareporter.com
+127.0.0.1	captcha-verify-2q7y.com
+127.0.0.1	captcha-verify-6r4x.com
+127.0.0.1	pepperiop.digital
 127.0.0.1	mail.e.multi-canale.com
 127.0.0.1	cpcalendars.b.multi-canale.com
 127.0.0.1	mail.eversioneweb.com
@@ -46889,9 +46910,4 @@
 127.0.0.1	goelites.cc
 127.0.0.1	dump.hduak.site
 127.0.0.1	sensatinwu.buzz
-127.0.0.1	eihtvh18ht.top
-127.0.0.1	eg-womens.gl.at.ply.gg
-127.0.0.1	contarraylean.store
-127.0.0.1	professitonwqu.shop
-127.0.0.1	devilboydevilhere.strangled.net
-# Number of entries: 46888
+# Number of entries: 46904
