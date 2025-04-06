@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-05 12:01:26 UTC                        #
+# Last updated: 2025-04-06 00:01:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mail.e.multi-canale.com
+127.0.0.1	cpcalendars.b.multi-canale.com
+127.0.0.1	mail.eversioneweb.com
+127.0.0.1	autodiscover.b.ora-0-web.com
+127.0.0.1	account.farmandconstructionequipment.com
+127.0.0.1	debian.whoareu.top
 127.0.0.1	test44401.duckdns.org
 127.0.0.1	ip87-106-116-156.pbiaas.com
 127.0.0.1	mintbehavior.xyz
@@ -46888,7 +46894,4 @@
 127.0.0.1	contarraylean.store
 127.0.0.1	professitonwqu.shop
 127.0.0.1	devilboydevilhere.strangled.net
-127.0.0.1	vilodeqa.com
-127.0.0.1	crestwaybunk.com
-127.0.0.1	www.kapilapiii.com
-# Number of entries: 46885
+# Number of entries: 46888
