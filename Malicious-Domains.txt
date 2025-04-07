@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-07 00:01:38 UTC                        #
+# Last updated: 2025-04-07 10:14:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	lapsack.com
+127.0.0.1	cpcontacts.m.web-app-on.com
+127.0.0.1	webmail.webprocediweb.com
+127.0.0.1	cpanel.versioneonline.com
+127.0.0.1	ssl.up-edu-mx.shop
+127.0.0.1	content.up-edu-mx.shop
+127.0.0.1	zestmedo.top
+127.0.0.1	qe.ap.4t.com
+127.0.0.1	lesbian-stereo.gl.at.ply.gg
+127.0.0.1	cloud1.amazehome.xyz
+127.0.0.1	ec2-54-68-184-184.us-west-2.compute.amazonaws.com
+127.0.0.1	ec2-13-238-124-252.ap-southeast-2.compute.amazonaws.com
+127.0.0.1	foryoumedical.ddns.net
 127.0.0.1	office365.farmandconstructionequipment.com
 127.0.0.1	ec2-18-138-195-208.ap-southeast-1.compute.amazonaws.com
 127.0.0.1	coi.coicoi.filegear-sg.me
@@ -46900,11 +46913,4 @@
 127.0.0.1	robotprintmoney.com
 127.0.0.1	ahmedyassin.ddns.net
 127.0.0.1	tratoragricola.com
-127.0.0.1	srftjwrty6kew.shop
-127.0.0.1	proxy.johnmccrea.com
-127.0.0.1	lade.petperfectcare.com
-127.0.0.1	outfit.dianamercer.com
-127.0.0.1	rumerog.com
-127.0.0.1	yi0key.heleh.com.vn
-127.0.0.1	balukart.com
-# Number of entries: 46901
+# Number of entries: 46907
