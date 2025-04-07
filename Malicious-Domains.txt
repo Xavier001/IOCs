@@ -1,11 +1,42 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-07 12:17:35 UTC                        #
+# Last updated: 2025-04-07 18:39:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hosting10-38853.portmap.io
+127.0.0.1	language-apnic.gl.at.ply.gg
+127.0.0.1	tesifa-38287.portmap.io
+127.0.0.1	nzobaku.ddns.net
+127.0.0.1	somsom22.duckdns.org
+127.0.0.1	officer-nec.gl.at.ply.gg
+127.0.0.1	service.neugumma.my
+127.0.0.1	heavendie.no-ip.org
+127.0.0.1	zestyasd.run
+127.0.0.1	cureboto.run
+127.0.0.1	requesttendency.icu
+127.0.0.1	demo.spfspassa.xyz
+127.0.0.1	old.spfspassa.xyz
+127.0.0.1	gbtx.duckdns.org
+127.0.0.1	transxx.duckdns.org
+127.0.0.1	texz.jhpublicaffairs.ie
+127.0.0.1	qx.ap.4t.com
+127.0.0.1	opimendu.digital
+127.0.0.1	h1.catnipreggae.shop
+127.0.0.1	easyfwdr.digital
+127.0.0.1	reformzv.digital
+127.0.0.1	hopezx.run
+127.0.0.1	reboundui.live
+127.0.0.1	puerrogfh.live
+127.0.0.1	quavabvc.top
+127.0.0.1	furthert.run
+127.0.0.1	rambutanvcx.run
+127.0.0.1	cf.jolttapestry.fun
+127.0.0.1	6rzj5pnk8zqwt.cfc-execute.bj.baidubce.com
+127.0.0.1	yt3cvkj43ws.pages.dev
+127.0.0.1	nhgfdc-ok.pages.dev
 127.0.0.1	myvrhost.viottoholdings.com
 127.0.0.1	myaccount.up-edu-mx.shop
 127.0.0.1	accounts.up-edu-mx.shop
@@ -46901,15 +46932,4 @@
 127.0.0.1	selearntju.buzz
 127.0.0.1	1login.revolut-email-enable.com
 127.0.0.1	static.230.215.75.5.clients.your-server.de
-127.0.0.1	162-230-48-189.lightspeed.jcvlfl.sbcglobal.net
-127.0.0.1	musing-hermann.101-99-92-100.plesk.page
-127.0.0.1	remainyadjw.biz
-127.0.0.1	privilegedkoq.shop
-127.0.0.1	adulterizdsoz.shop
-127.0.0.1	operrayowo.shop
-127.0.0.1	creamtaretio.shop
-127.0.0.1	dividenntykw.shop
-127.0.0.1	methodbojjewkl.shop
-127.0.0.1	xin.shades.whatisaweekend.com
-127.0.0.1	dl07.ru
-# Number of entries: 46906
+# Number of entries: 46926
