@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-07 10:14:30 UTC                        #
+# Last updated: 2025-04-07 12:17:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	myvrhost.viottoholdings.com
+127.0.0.1	myaccount.up-edu-mx.shop
+127.0.0.1	accounts.up-edu-mx.shop
+127.0.0.1	gecsge4e1e5427f8.com
 127.0.0.1	lapsack.com
 127.0.0.1	cpcontacts.m.web-app-on.com
 127.0.0.1	webmail.webprocediweb.com
@@ -46908,9 +46912,4 @@
 127.0.0.1	methodbojjewkl.shop
 127.0.0.1	xin.shades.whatisaweekend.com
 127.0.0.1	dl07.ru
-127.0.0.1	souguru.com
-127.0.0.1	*.outfit.dianamercer.com
-127.0.0.1	robotprintmoney.com
-127.0.0.1	ahmedyassin.ddns.net
-127.0.0.1	tratoragricola.com
-# Number of entries: 46907
+# Number of entries: 46906
