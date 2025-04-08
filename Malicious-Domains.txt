@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-07 18:39:39 UTC                        #
+# Last updated: 2025-04-08 04:02:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cpcontacts.d.multi-canale.com
+127.0.0.1	autodiscover.d.ora-0-web.com
+127.0.0.1	ec2-13-61-8-192.eu-north-1.compute.amazonaws.com
 127.0.0.1	hosting10-38853.portmap.io
 127.0.0.1	language-apnic.gl.at.ply.gg
 127.0.0.1	tesifa-38287.portmap.io
@@ -46930,6 +46933,4 @@
 127.0.0.1	rainygori.buzz
 127.0.0.1	readdywiny.buzz
 127.0.0.1	selearntju.buzz
-127.0.0.1	1login.revolut-email-enable.com
-127.0.0.1	static.230.215.75.5.clients.your-server.de
-# Number of entries: 46926
+# Number of entries: 46927
