@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-09 08:01:51 UTC                        #
+# Last updated: 2025-04-09 12:01:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	b.stats.st4b4n.fr
+127.0.0.1	lock.xn--y7aa.cc
+127.0.0.1	efc04b0016686e5b9c1b54af55e8a208.uatider.com
 127.0.0.1	iuer.iioo.one
 127.0.0.1	greatborken.com
 127.0.0.1	market-lumer.com
@@ -46931,7 +46934,4 @@
 127.0.0.1	maxert.wemnbbsweoipmngbyutrdcunbgrtjeroendns.pro
 127.0.0.1	faststaynow.duckdns.org
 127.0.0.1	septiembre18.con-ip.com
-127.0.0.1	hit-kick.com
-127.0.0.1	key-needs.com
-127.0.0.1	last-blink.com
 # Number of entries: 46928
