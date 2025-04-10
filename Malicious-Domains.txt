@@ -1,11 +1,29 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-10 08:02:40 UTC                        #
+# Last updated: 2025-04-10 12:02:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	thirsty-curran.85-215-173-244.plesk.page
+127.0.0.1	check.napef.icu
+127.0.0.1	sharecloud.click
+127.0.0.1	closecufre.com
+127.0.0.1	security.closecufre.com
+127.0.0.1	stat.bundlehulu.com
+127.0.0.1	www.cesiabs.com
+127.0.0.1	core.cesiabs.com
+127.0.0.1	www.cesiabs.info
+127.0.0.1	core.cesiabs.org
+127.0.0.1	core.cesiabs.info
+127.0.0.1	u1.aqueductdonor.shop
+127.0.0.1	r.enuff.live
+127.0.0.1	byjs.live
+127.0.0.1	6x7dp6h3w6q3ugjv4yv5gycj3femb24kysgry5b44hhgfwc5ml5qrdad.onion
+127.0.0.1	x6gjpqs4jjvgpfvhghdz2dk7be34emyzluimticj5s5fexf4wa65ngad.onion
+127.0.0.1	decrypts3nln3tic.onion
+127.0.0.1	check.lysyz.icu
 127.0.0.1	faceit.teaminvitings.com
 127.0.0.1	webdisk.b.multi-canale.com
 127.0.0.1	boneauthority.icu
@@ -46929,4 +46947,4 @@
 127.0.0.1	ec2-54-215-126-153.us-west-1.compute.amazonaws.com
 127.0.0.1	microsoft.gotdns.ch
 127.0.0.1	megaarmshop.com
-# Number of entries: 46923
+# Number of entries: 46941
