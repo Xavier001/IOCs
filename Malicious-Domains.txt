@@ -1,11 +1,46 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-10 12:02:01 UTC                        #
+# Last updated: 2025-04-10 20:53:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	oss-aws.1nb.xyz
+127.0.0.1	check.lezum.icu
+127.0.0.1	8007.helloqu.com
+127.0.0.1	8004.helloqu.com
+127.0.0.1	6001.baidu787.com
+127.0.0.1	check.tidag.icu
+127.0.0.1	relentlesswicked.myvnc.com
+127.0.0.1	toolsdns.ddns.net
+127.0.0.1	bongtak.n-e.kr
+127.0.0.1	check.casog.icu
+127.0.0.1	check.xasad.icu
+127.0.0.1	www.collect0r.space
+127.0.0.1	somebodyoncehackedme.ru
+127.0.0.1	c1.certrun.xyz
+127.0.0.1	securitydomain-pa.googleutility.com
+127.0.0.1	www.hackmaster.fr
+127.0.0.1	freshenqew.digital
+127.0.0.1	revisevillain.shop
+127.0.0.1	check.gywic.icu
+127.0.0.1	check.sesaf.icu
+127.0.0.1	jquery.ddav.top
+127.0.0.1	rajjas.com
+127.0.0.1	check.mesen.icu
+127.0.0.1	check.voded.icu
+127.0.0.1	jsacces.online
+127.0.0.1	imperialgrup.es
+127.0.0.1	cloud.emeraldpinesenterprises.com
+127.0.0.1	ototoqtklktzlk.com
+127.0.0.1	check.qolun.icu
+127.0.0.1	captcha.bz
+127.0.0.1	www.windowsdnsservicereload.icu
+127.0.0.1	fliperetro.com
+127.0.0.1	precorelampago.store
+127.0.0.1	verifcloudiservice.com
+127.0.0.1	iakdajskdaksjdkajd.com
 127.0.0.1	thirsty-curran.85-215-173-244.plesk.page
 127.0.0.1	check.napef.icu
 127.0.0.1	sharecloud.click
@@ -46939,12 +46974,4 @@
 127.0.0.1	allocatinow.sbs
 127.0.0.1	mathcucom.sbs
 127.0.0.1	net-5-88-104-52.cust.vodafonedsl.it
-127.0.0.1	outlook.revolut-disable-email.com
-127.0.0.1	login.revolut-disable-email.com
-127.0.0.1	poczta.revolut-disabled-email.net
-127.0.0.1	fast.dimagnific.ru
-127.0.0.1	www.bamgup.com
-127.0.0.1	ec2-54-215-126-153.us-west-1.compute.amazonaws.com
-127.0.0.1	microsoft.gotdns.ch
-127.0.0.1	megaarmshop.com
-# Number of entries: 46941
+# Number of entries: 46968
