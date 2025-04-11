@@ -1,11 +1,27 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-11 04:02:32 UTC                        #
+# Last updated: 2025-04-11 09:07:20 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	check.cuxor.icu
+127.0.0.1	check.dymyf.icu
+127.0.0.1	mu1.cows-make.mooo.com
+127.0.0.1	check.vuces.icu
+127.0.0.1	eventvegetable.cfd
+127.0.0.1	qu.ap.4t.com
+127.0.0.1	u1.entouragescuff.shop
+127.0.0.1	d1.dyfot.fun
+127.0.0.1	check.zevyg.icu
+127.0.0.1	pack-amber.gl.at.ply.gg
+127.0.0.1	pdel.tsyndicate.com
+127.0.0.1	psub.tsyndicate.com
+127.0.0.1	pdel.tsyndicate.com
+127.0.0.1	psub.tsyndicate.com
+127.0.0.1	get-met.gl.at.ply.gg
+127.0.0.1	check.xiwuc.icu
 127.0.0.1	cpcalendars.c.multi-canale.com
 127.0.0.1	cpcalendars.aaa.104-168-101-27.cprapid.com
 127.0.0.1	lummamarket.com
@@ -46942,39 +46958,4 @@
 127.0.0.1	forkj4sb.top
 127.0.0.1	webkruzjevo.site
 127.0.0.1	suiatcarew.biz
-127.0.0.1	files.bitcube.ca
-127.0.0.1	www.redcap.work
-127.0.0.1	60l.ndfl.shop
-127.0.0.1	bamgup.com
-127.0.0.1	jhigyjkgfjkfkfku.con-ip.com
-127.0.0.1	xhq.yidaplays.ink
-127.0.0.1	srv1.pty.su
-127.0.0.1	srv2.pty.su
-127.0.0.1	srv3.pty.su
-127.0.0.1	srv4.pty.su
-127.0.0.1	srv5.pty.su
-127.0.0.1	srv6.pty.su
-127.0.0.1	srv7.pty.su
-127.0.0.1	srv8.pty.su
-127.0.0.1	srv9.pty.su
-127.0.0.1	srv10.pty.su
-127.0.0.1	pushcg.com
-127.0.0.1	cnc.loctajima.website
-127.0.0.1	wickedneatr.sbs
-127.0.0.1	lameuotgiwo.store
-127.0.0.1	invinjurhey.sbs
-127.0.0.1	laddyirekyi.sbs
-127.0.0.1	exilepolsiy.sbs
-127.0.0.1	bemuzzeki.sbs
-127.0.0.1	exemplarou.sbs
-127.0.0.1	isoplethui.sbs
-127.0.0.1	basizuw.buzz
-127.0.0.1	drawwyobstacw.sbs
-127.0.0.1	condifendteu.sbs
-127.0.0.1	ehticsprocw.sbs
-127.0.0.1	vennurviot.sbs
-127.0.0.1	resinedyw.sbs
-127.0.0.1	enlargkiw.sbs
-127.0.0.1	allocatinow.sbs
-127.0.0.1	mathcucom.sbs
-# Number of entries: 46971
+# Number of entries: 46952
