@@ -4,6 +4,7 @@
 2za55fsge8fbj.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/wechat,43.143.229.126
 3se9ewodke339f0e82.connectivitytests.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,171.244.143.184
 4jvm9hwq0d2j4.cfc-execute.gz.baidubce.com,Possible Cobalt Strike C2 Domain,/api/v1/get,116.205.242.143
+519nmcj312v7y.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,117.72.39.83
 5k0jev8t9zj4z.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Fronted Domain,/v2/js/jquery-3.3.1.min.js,39.102.213.118
 5za27x0ff58mr.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/search,101.226.8.163
 6rzj5pnk8zqwt.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/guide_tips-d9e617f783.js,139.129.23.77
@@ -63,7 +64,6 @@ cs.zonstcom.com,Possible Cobalt Strike C2 Domain,/load,154.37.223.57
 cs1.bigpineapple.asia,Possible Cobalt Strike C2 Domain,/push,20.169.41.5
 cutecats.catonline.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.47.239.110
 debian.whoareu.top,Possible Cobalt Strike C2 Domain,/load,129.226.212.179
-demo.ez-wms.com,Possible Cobalt Strike C2 Fronting Domain,/api/getit,120.24.64.74
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.135.118.251
@@ -87,6 +87,7 @@ lock.xn--y7aa.cc,Possible Cobalt Strike C2 Domain,/aa.html,45.66.157.21
 lock.xn--y7aa.cc,Possible Cobalt Strike C2 Domain,/search.css,45.66.157.21
 m.bestseller.com.cn,Possible Cobalt Strike C2 Fronted Domain,/gateway/api/user,47.98.134.252
 m.only.cn,Possible Cobalt Strike C2 Fronted Domain,/gateway/api/user,47.98.134.252
+mail-exchange.phermera.ru,Possible Cobalt Strike C2 Domain,/__utm.gif,206.81.21.87
 meizu.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,193.42.63.158
 ms.quens.top,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,45.128.146.227
 msntp.windowstimezone.com,Possible Cobalt Strike C2 Domain,/search,199.85.209.13

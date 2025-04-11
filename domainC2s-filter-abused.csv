@@ -4,6 +4,7 @@
 2za55fsge8fbj.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain
 3se9ewodke339f0e82.connectivitytests.com,Possible Cobalt Strike C2 Fronted Domain
 4jvm9hwq0d2j4.cfc-execute.gz.baidubce.com,Possible Cobalt Strike C2 Domain
+519nmcj312v7y.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain
 5k0jev8t9zj4z.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Fronted Domain
 5za27x0ff58mr.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain
 6rzj5pnk8zqwt.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain
@@ -61,7 +62,6 @@ cs.zonstcom.com,Possible Cobalt Strike C2 Domain
 cs1.bigpineapple.asia,Possible Cobalt Strike C2 Domain
 cutecats.catonline.top,Possible Cobalt Strike C2 Domain
 debian.whoareu.top,Possible Cobalt Strike C2 Domain
-demo.ez-wms.com,Possible Cobalt Strike C2 Fronting Domain
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
 dianqi2.dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain
@@ -83,6 +83,7 @@ jspassport.ssl.qhimg.com.cdn.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain
 lock.xn--y7aa.cc,Possible Cobalt Strike C2 Domain
 m.bestseller.com.cn,Possible Cobalt Strike C2 Fronted Domain
 m.only.cn,Possible Cobalt Strike C2 Fronted Domain
+mail-exchange.phermera.ru,Possible Cobalt Strike C2 Domain
 meizu.info,Possible Cobalt Strike C2 Domain
 ms.quens.top,Possible Cobalt Strike C2 Domain
 msntp.windowstimezone.com,Possible Cobalt Strike C2 Domain
