@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-10 20:53:22 UTC                        #
+# Last updated: 2025-04-11 04:02:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cpcalendars.c.multi-canale.com
+127.0.0.1	cpcalendars.aaa.104-168-101-27.cprapid.com
+127.0.0.1	lummamarket.com
+127.0.0.1	lumc2-market.fun
 127.0.0.1	oss-aws.1nb.xyz
 127.0.0.1	check.lezum.icu
 127.0.0.1	8007.helloqu.com
@@ -46973,5 +46977,4 @@
 127.0.0.1	enlargkiw.sbs
 127.0.0.1	allocatinow.sbs
 127.0.0.1	mathcucom.sbs
-127.0.0.1	net-5-88-104-52.cust.vodafonedsl.it
-# Number of entries: 46968
+# Number of entries: 46971
