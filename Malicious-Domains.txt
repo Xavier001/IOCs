@@ -1,11 +1,52 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-12 12:02:31 UTC                        #
+# Last updated: 2025-04-12 16:29:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	check.jexem.icu
+127.0.0.1	check.firoc.icu
+127.0.0.1	feathcrwallet.org
+127.0.0.1	check.pawol.icu
+127.0.0.1	electrum-faq.org
+127.0.0.1	en-btc-electrum.newzenler.com
+127.0.0.1	atomik-wallet.me
+127.0.0.1	overall-whom.gl.at.ply.gg
+127.0.0.1	check.dehoz.icu
+127.0.0.1	southwesternconstructiongroup.site
+127.0.0.1	officepackage.sourceforge.io
+127.0.0.1	airforce1.mmafan.biz
+127.0.0.1	bayerischemotorenwerke.nflfan.org
+127.0.0.1	michaeljacksontribute.mmafan.biz
+127.0.0.1	flightradar.mymediapc.net
+127.0.0.1	camsobservations.nhlfan.net
+127.0.0.1	marronfiveshows.serveexchange.com
+127.0.0.1	mapfre.homesecuritypc.com
+127.0.0.1	mercedesbenz.mysecuritycamera.net
+127.0.0.1	simpsonsbartmovies.stufftoread.com
+127.0.0.1	renault.hosthampster.co
+127.0.0.1	debt-collection-experts.online
+127.0.0.1	debt-collection-experts.com
+127.0.0.1	wizmodi.digital
+127.0.0.1	adaptwrx.digital
+127.0.0.1	dynamiczl.live
+127.0.0.1	elvernwood.digital
+127.0.0.1	modtunes.live
+127.0.0.1	tiltvc.digital
+127.0.0.1	dipsafals.digital
+127.0.0.1	riseupsz.live
+127.0.0.1	tripfflux.world
+127.0.0.1	skatkat.com
+127.0.0.1	control-studios.gl.at.ply.gg
+127.0.0.1	administration-kinda.gl.at.ply.gg
+127.0.0.1	shown-narrow.gl.at.ply.gg
+127.0.0.1	transportation-physically.gl.at.ply.gg
+127.0.0.1	zorg-c2.duckdns.org
+127.0.0.1	went-postcard.gl.at.ply.gg
+127.0.0.1	dzccd.com
+127.0.0.1	c4wx8kmtsqqba.cfc-execute.bj.baidubce.com
 127.0.0.1	smtp.rupyt.ru
 127.0.0.1	eightss8th.top
 127.0.0.1	oness1th.top
@@ -46986,9 +47027,4 @@
 127.0.0.1	tiktoka.cc
 127.0.0.1	net.tiktoka.cc
 127.0.0.1	kentscaffolders.com
-127.0.0.1	thirtvu13sb.top
-127.0.0.1	neinvb9sb.top
-127.0.0.1	tenvu10sb.top
-127.0.0.1	twelvevb12sb.top
-127.0.0.1	wp.dimagnific.ru
-# Number of entries: 46985
+# Number of entries: 47021
