@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-12 07:32:42 UTC                        #
+# Last updated: 2025-04-12 12:02:31 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	smtp.rupyt.ru
 127.0.0.1	eightss8th.top
 127.0.0.1	oness1th.top
 127.0.0.1	sixss6th.top
@@ -46990,6 +46991,4 @@
 127.0.0.1	tenvu10sb.top
 127.0.0.1	twelvevb12sb.top
 127.0.0.1	wp.dimagnific.ru
-127.0.0.1	xilloolli.com
-127.0.0.1	job-4soutre.com
-# Number of entries: 46986
+# Number of entries: 46985
