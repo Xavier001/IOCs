@@ -1,11 +1,44 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-11 19:03:07 UTC                        #
+# Last updated: 2025-04-12 07:32:42 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	eightss8th.top
+127.0.0.1	oness1th.top
+127.0.0.1	sixss6th.top
+127.0.0.1	tenss10th.top
+127.0.0.1	eightbb8mn.top
+127.0.0.1	onebb1mn.top
+127.0.0.1	sixbb6mn.top
+127.0.0.1	wdcwdwsds.icu
+127.0.0.1	culasova.icu
+127.0.0.1	highpitcheri.click
+127.0.0.1	gluehistspor.click
+127.0.0.1	magicelasti.click
+127.0.0.1	tendersongwhz.click
+127.0.0.1	a1113351.xsph.ru
+127.0.0.1	a1113503.xsph.ru
+127.0.0.1	kis2110wnk.temp.swtest.ru
+127.0.0.1	a1113201.xsph.ru
+127.0.0.1	a1113623.xsph.ru
+127.0.0.1	cz23695.tw1.ru
+127.0.0.1	a1113269.xsph.ru
+127.0.0.1	a1108039.xsph.ru
+127.0.0.1	stastom01g.temp.swtest.ru
+127.0.0.1	tenbb10mn.top
+127.0.0.1	check.vefim.icu
+127.0.0.1	digitalasset.intuitivaccountants.com
+127.0.0.1	segment.intuitivaccountants.com
+127.0.0.1	accounts.intuitivaccountants.com
+127.0.0.1	tags.intuitivaccountants.com
+127.0.0.1	moonlitwayq.run
+127.0.0.1	check.xiwaj.icu
+127.0.0.1	check.favop.icu
+127.0.0.1	serviceverifcaptcho.com
+127.0.0.1	check.huquw.icu
 127.0.0.1	check.bugix.icu
 127.0.0.1	mail-exchange.phermera.ru
 127.0.0.1	enhancrea.digital
@@ -46959,5 +46992,4 @@
 127.0.0.1	wp.dimagnific.ru
 127.0.0.1	xilloolli.com
 127.0.0.1	job-4soutre.com
-127.0.0.1	proxy.inidgo.site
-# Number of entries: 46954
+# Number of entries: 46986
