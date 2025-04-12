@@ -46960,6 +46960,4 @@
 127.0.0.1	xilloolli.com
 127.0.0.1	job-4soutre.com
 127.0.0.1	proxy.inidgo.site
-127.0.0.1	windowsoctarem.duckdns.org
-127.0.0.1	www.rnyhbarwallet.com
-# Number of entries: 46956
+# Number of entries: 46954
