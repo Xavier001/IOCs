@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-13 09:52:42 UTC                        #
+# Last updated: 2025-04-13 11:58:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	check.mavew.icu
+127.0.0.1	lip.is
+127.0.0.1	iwashi.biz
+127.0.0.1	kmspicofiles.com
+127.0.0.1	dsoursopsf.run
+127.0.0.1	ixcelmodo.run
+127.0.0.1	revitmodh.run
+127.0.0.1	rliftally.top
+127.0.0.1	check.pedyg.icu
+127.0.0.1	check.bogig.icu
 127.0.0.1	sound-educated.gl.at.ply.gg
 127.0.0.1	check.sipit.icu
 127.0.0.1	ksmpico.biz
@@ -48410,8 +48420,4 @@
 127.0.0.1	equipyfigv.biz
 127.0.0.1	citedgrinyn.biz
 127.0.0.1	exitlife.xyz
-127.0.0.1	net.tiktoka.cc
-127.0.0.1	tiktoka.cc
-127.0.0.1	tiktoka.cc
-127.0.0.1	net.tiktoka.cc
-# Number of entries: 48408
+# Number of entries: 48414
