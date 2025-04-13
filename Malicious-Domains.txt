@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-12 16:29:13 UTC                        #
+# Last updated: 2025-04-13 00:02:41 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	webdisk.d.multi-canale.com
+127.0.0.1	ad.cf90.cc
+127.0.0.1	o.xn--y7aa.cc
 127.0.0.1	check.jexem.icu
 127.0.0.1	check.firoc.icu
 127.0.0.1	feathcrwallet.org
@@ -47026,5 +47029,4 @@
 127.0.0.1	tiktoka.cc
 127.0.0.1	tiktoka.cc
 127.0.0.1	net.tiktoka.cc
-127.0.0.1	kentscaffolders.com
-# Number of entries: 47021
+# Number of entries: 47023
