@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-13 21:30:05 UTC                        #
+# Last updated: 2025-04-14 04:02:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cpcalendars.continueoraweb.com
+127.0.0.1	btc.newpepemm.nl
 127.0.0.1	check.debul.icu
 127.0.0.1	a1114171.xsph.ru
 127.0.0.1	a1114349.xsph.ru
@@ -48422,5 +48424,4 @@
 127.0.0.1	factorglaro.biz
 127.0.0.1	firedaggeriu.biz
 127.0.0.1	zza5topk1or1.skin
-127.0.0.1	ip-11.net-82-216-163.suresnes3.rev.numericable.fr
-# Number of entries: 48417
+# Number of entries: 48418
