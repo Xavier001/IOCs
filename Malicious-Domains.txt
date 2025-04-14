@@ -1,11 +1,87 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-14 12:02:21 UTC                        #
+# Last updated: 2025-04-14 17:41:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	jdidjnfjdjdmainbilandingviewse.ydns.eu
+127.0.0.1	mainplangndngrotobinpulseving.ydns.eu
+127.0.0.1	www.ompanion.bio
+127.0.0.1	www.onety.skin
+127.0.0.1	www.pb79kasy.vip
+127.0.0.1	www.phones-br.sbs
+127.0.0.1	www.rog.top
+127.0.0.1	www.rtelegans.art
+127.0.0.1	www.ry-prodentims.shop
+127.0.0.1	www.t775.top
+127.0.0.1	www.teelpath.shop
+127.0.0.1	www.tp-batik77-1.vip
+127.0.0.1	www.tu1x120.top
+127.0.0.1	www.tudiofoti.pro
+127.0.0.1	www.uklor.shop
+127.0.0.1	www.w-yudfjp.shop
+127.0.0.1	www.x92q.top
+127.0.0.1	www.xectgroup.net
+127.0.0.1	www.xplosion-proof.lat
+127.0.0.1	www.gsp657.top
+127.0.0.1	www.hagrinleemotooltechus.shop
+127.0.0.1	www.hbnzk.cfd
+127.0.0.1	www.iaolento12.sbs
+127.0.0.1	www.igitalmilanolegacy.shop
+127.0.0.1	www.inktrim.xyz
+127.0.0.1	www.iralavinc.online
+127.0.0.1	www.it4n1ar4t0k7o0.xyz
+127.0.0.1	www.kfast.store
+127.0.0.1	www.kpqh.town
+127.0.0.1	www.looring-services329769.sbs
+127.0.0.1	www.loud-sevice.click
+127.0.0.1	www.lx2cbhe5vee0e1.xyz
+127.0.0.1	www.movps.net
+127.0.0.1	www.ndotoverf.pro
+127.0.0.1	www.netuzio.xyz
+127.0.0.1	www.nity-3d-development.dev
+127.0.0.1	www.njjwh.info
+127.0.0.1	www.olayl
+127.0.0.1	www.olidspot.shop
+127.0.0.1	www.9gi02.cfd
+127.0.0.1	www.9ydygorig3l7z.xyz
+127.0.0.1	www.aise-your-voice.sbs
+127.0.0.1	www.akextow.net
+127.0.0.1	www.anpack.shop
+127.0.0.1	www.ardengoal.net
+127.0.0.1	www.aser-skin-treatment-95250.bond
+127.0.0.1	www.avakey.shop
+127.0.0.1	www.ayarwarna21.live
+127.0.0.1	www.ayeewenvqzqm.top
+127.0.0.1	www.aysec.net
+127.0.0.1	www.betka.xyz
+127.0.0.1	www.cvaultshielded.live
+127.0.0.1	www.elayrunway.shop
+127.0.0.1	www.ellbar.shop
+127.0.0.1	www.elvetvoiceskiresorts.website
+127.0.0.1	www.enckubs.shop
+127.0.0.1	www.erspacehealthandwellness.info
+127.0.0.1	www.g1wszulqv7lc.xyz
+127.0.0.1	www.01411.club
+127.0.0.1	www.130t.xyz
+127.0.0.1	www.3a4p8gq8bojwn.xyz
+127.0.0.1	www.5zbm0.cfd
+127.0.0.1	www.66xq2.top
+127.0.0.1	www.873013.xyz
+127.0.0.1	www.8ln62.cfd
+127.0.0.1	www.9882aa1216.autos
+127.0.0.1	www.999game.website
+127.0.0.1	fidodido.ddns.net
+127.0.0.1	alex3143-23501.portmap.io
+127.0.0.1	qh.ap.4t.com
+127.0.0.1	webdisk.versioneonline.com
+127.0.0.1	jolly-turing.85-215-173-244.plesk.page
+127.0.0.1	c.st4b4n.fr
+127.0.0.1	check.vasih.icu
+127.0.0.1	5k0jev8t9zj4z.cfc-execute.bj.baidubce.com
+127.0.0.1	64t44b9cvcxmy.cfc-execute.bj.baidubce.com
 127.0.0.1	login.st4b4n.fr
 127.0.0.1	static.113.34.217.95.clients.your-server.de
 127.0.0.1	check.sipyf.icu
@@ -48686,17 +48762,4 @@
 127.0.0.1	fevertalkkywkwm.shop
 127.0.0.1	herberyloduso.shop
 127.0.0.1	chinnyvoushw.shop
-127.0.0.1	www.mhc-e1mas.altsolve.com
-127.0.0.1	23-227-199-46.static.hvvc.us
-127.0.0.1	manestvli.shop
-127.0.0.1	forvl14pn.top
-127.0.0.1	tenvu10pn.top
-127.0.0.1	twelvevb12pn.top
-127.0.0.1	neinbb9pn.top
-127.0.0.1	elevenbb11pn.top
-127.0.0.1	thirtvu13pn.top
-127.0.0.1	elevenvb11pn.top
-127.0.0.1	jsgd.us-tv.top
-127.0.0.1	us-tv.top
-127.0.0.1	assignetmwj.buzz
-# Number of entries: 48693
+# Number of entries: 48756
