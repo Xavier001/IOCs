@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-14 09:21:43 UTC                        #
+# Last updated: 2025-04-14 12:02:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	login.st4b4n.fr
+127.0.0.1	static.113.34.217.95.clients.your-server.de
+127.0.0.1	check.sipyf.icu
 127.0.0.1	check.fegag.icu
 127.0.0.1	abilaudo.ddns.net
 127.0.0.1	forbots.ddns.net
@@ -1643,7 +1646,6 @@
 127.0.0.1	ar.itr.works
 127.0.0.1	aranhaconstrutora.com.br
 127.0.0.1	adast-alfn.com
-127.0.0.1	adclick.g.doubleclick.net
 127.0.0.1	addoxygenempowermentfoundation.org
 127.0.0.1	adimogi.com.br
 127.0.0.1	adone.in
@@ -48697,15 +48699,4 @@
 127.0.0.1	jsgd.us-tv.top
 127.0.0.1	us-tv.top
 127.0.0.1	assignetmwj.buzz
-127.0.0.1	overcomedenh.biz
-127.0.0.1	persuaddetwj.biz
-127.0.0.1	pinlaunchhut.biz
-127.0.0.1	publisherxzh.biz
-127.0.0.1	pyramidyjwu.biz
-127.0.0.1	renewboostyw.biz
-127.0.0.1	requireow.biz
-127.0.0.1	servebothez.biz
-127.0.0.1	shootyprovedn.biz
-127.0.0.1	sleepysupl.biz
-127.0.0.1	submiytinh.biz
-# Number of entries: 48702
+# Number of entries: 48693
