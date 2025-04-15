@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-14 17:41:09 UTC                        #
+# Last updated: 2025-04-15 00:03:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	vvrn.akkba.cloud
+127.0.0.1	mail.aa.104-168-101-27.cprapid.com
+127.0.0.1	myaccount.mail-googlservice.site
+127.0.0.1	outlook.trpeiprzak.com
+127.0.0.1	cdn.trpeiprzak.com
+127.0.0.1	www.mail-googlservice.site
 127.0.0.1	jdidjnfjdjdmainbilandingviewse.ydns.eu
 127.0.0.1	mainplangndngrotobinpulseving.ydns.eu
 127.0.0.1	www.ompanion.bio
@@ -48762,4 +48768,4 @@
 127.0.0.1	fevertalkkywkwm.shop
 127.0.0.1	herberyloduso.shop
 127.0.0.1	chinnyvoushw.shop
-# Number of entries: 48756
+# Number of entries: 48762
