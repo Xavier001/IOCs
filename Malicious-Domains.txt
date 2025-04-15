@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-15 10:13:34 UTC                        #
+# Last updated: 2025-04-15 12:02:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ip122.ip-51-195-231.eu
+127.0.0.1	ql.ap.4t.com
+127.0.0.1	oghupimpim.duckdns.org
+127.0.0.1	oghupol.duckdns.org
+127.0.0.1	backup419.duckdns.org
+127.0.0.1	iniiibk.duckdns.org
+127.0.0.1	iniii.duckdns.org
 127.0.0.1	maxbusinessworld.duckdns.org
 127.0.0.1	check.sinyx.icu
 127.0.0.1	uochut.shop
@@ -48756,4 +48763,4 @@
 127.0.0.1	jarredsteven-56944.portmap.host
 127.0.0.1	abusipvork.store
 127.0.0.1	lemehost.net
-# Number of entries: 48750
+# Number of entries: 48757
