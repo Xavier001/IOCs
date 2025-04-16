@@ -1,11 +1,44 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-15 22:53:37 UTC                        #
+# Last updated: 2025-04-16 09:36:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	snowsro.com
+127.0.0.1	check.hyjaz.icu
+127.0.0.1	maneholding.com
+127.0.0.1	qg.ap.4t.com
+127.0.0.1	security.flearegaurdc.com
+127.0.0.1	ms-azure.azdatastore.workers.dev
+127.0.0.1	pomelohgj.top
+127.0.0.1	microsoftonlines.com
+127.0.0.1	office.rsvp
+127.0.0.1	raedom.store
+127.0.0.1	fjcad.com
+127.0.0.1	greattravelexperiencegettingfromthenewth.duckdns.org
+127.0.0.1	remjouhs9kpiu1.duckdns.org
+127.0.0.1	remjouhs9kpiu2.duckdns.org
+127.0.0.1	remjouhs9kpiu3.duckdns.org
+127.0.0.1	remjouhs9kpiu4.duckdns.org
+127.0.0.1	remjouhs9kpiu5.duckdns.org
+127.0.0.1	kazeku.ddns.net
+127.0.0.1	kazeku.duckdns.org
+127.0.0.1	kazeku.linkpc.net
+127.0.0.1	above-aspect.gl.at.ply.gg
+127.0.0.1	phentermine-colleagues.gl.at.ply.gg
+127.0.0.1	cryptoghost.zapto.org
+127.0.0.1	7sipxslhd.localto.net
+127.0.0.1	a36e-78-175-182-33.ngrok-free.app
+127.0.0.1	asyncratlog.duckdns.org
+127.0.0.1	corporation-handhelds.gl.at.ply.gg
+127.0.0.1	ctaccs.devhelp.top
+127.0.0.1	mythic.swiftlydetecting.com
+127.0.0.1	check.nejyd.icu
+127.0.0.1	security.cloydgvarde.com
+127.0.0.1	check.vegyt.icu
+127.0.0.1	check.babuc.icu
 127.0.0.1	shop.nongfushan.org
 127.0.0.1	ecs-124-70-142-36.compute.hwclouds-dns.com
 127.0.0.1	mrhelwans.giize.com
@@ -48631,43 +48664,4 @@
 127.0.0.1	oldlumm.fun
 127.0.0.1	lum-new.fun
 127.0.0.1	www.lum-new.fun
-127.0.0.1	onebb1sr.top
-127.0.0.1	sivbb6sr.top
-127.0.0.1	twobb2sr.top
-127.0.0.1	threbb3sr.top
-127.0.0.1	fivebj5sr.top
-127.0.0.1	sevbb7sr.top
-127.0.0.1	unlikerwu.sbs
-127.0.0.1	modellydivi.sbs
-127.0.0.1	conceptionnyi.sbs
-127.0.0.1	nervepianoyo.sbs
-127.0.0.1	smashygally.sbs
-127.0.0.1	underlinefiue.sbs
-127.0.0.1	fightyglobo.sbs
-127.0.0.1	qualifielgalt.sbs
-127.0.0.1	pioneeruyj.sbs
-127.0.0.1	platformcati.sbs
-127.0.0.1	forutnedmhiqo.shop
-127.0.0.1	toppledhaemw.shop
-127.0.0.1	entertainingwzw.shop
-127.0.0.1	refrigaterpsm.shop
-127.0.0.1	insidewpqm.shop
-127.0.0.1	insticntclodwop.shop
-127.0.0.1	energybarreosp.shop
-127.0.0.1	cititezneowqp.shop
-127.0.0.1	referencedxlzp.shop
-127.0.0.1	accessgivvwpew.shop
-127.0.0.1	guuynsqpwsima.shop
-127.0.0.1	creeeamynsaudi.shop
-127.0.0.1	projejtjmwtjwi.shop
-127.0.0.1	lonelymqwj.shop
-127.0.0.1	nippydxmnwquo.shop
-127.0.0.1	hightpuredospzv.shop
-127.0.0.1	cheappyefejej.shop
-127.0.0.1	specimmenywoq.shop
-127.0.0.1	bailingla.com
-127.0.0.1	milan77burn.top
-127.0.0.1	y553488469.top
-127.0.0.1	sn4k.top
-127.0.0.1	vfeevf.com
-# Number of entries: 48664
+# Number of entries: 48658
