@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-15 20:02:54 UTC                        #
+# Last updated: 2025-04-15 22:53:37 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	shop.nongfushan.org
 127.0.0.1	ecs-124-70-142-36.compute.hwclouds-dns.com
 127.0.0.1	mrhelwans.giize.com
 127.0.0.1	check.lukus.icu
@@ -48669,4 +48670,4 @@
 127.0.0.1	y553488469.top
 127.0.0.1	sn4k.top
 127.0.0.1	vfeevf.com
-# Number of entries: 48663
+# Number of entries: 48664
