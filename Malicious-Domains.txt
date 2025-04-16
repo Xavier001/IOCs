@@ -1,11 +1,35 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-16 12:11:05 UTC                        #
+# Last updated: 2025-04-16 20:10:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	srohoahong.com
+127.0.0.1	kitai1245-43780.portmap.io
+127.0.0.1	johnanthonylifestyle.com
+127.0.0.1	myonline40804.duckdns.org
+127.0.0.1	speedupde.run
+127.0.0.1	snakecheese.xyz
+127.0.0.1	ridgeviemme.live
+127.0.0.1	iqnterstellles.live
+127.0.0.1	homesteadingjourney.world
+127.0.0.1	labupfdates.world
+127.0.0.1	check.zaxys.icu
+127.0.0.1	westrosei.live
+127.0.0.1	zpawsandplay.live
+127.0.0.1	farmerpreneur.live
+127.0.0.1	animalantpics.live
+127.0.0.1	flwuffyfriends.live
+127.0.0.1	datafhgorge.live
+127.0.0.1	gregenearthjourney.live
+127.0.0.1	infotechizone.live
+127.0.0.1	chemcryexplore.live
+127.0.0.1	signin.certifiedbk.com
+127.0.0.1	check.rulix.icu
+127.0.0.1	s-turned.gl.at.ply.gg
+127.0.0.1	helloworld-aogxlrocvl.cn-hangzhou.fcapp.run
 127.0.0.1	craekuro.duckdns.org
 127.0.0.1	static-host210-2-169-213.link.net.pk
 127.0.0.1	gregarioite.fun
@@ -48763,61 +48787,4 @@
 127.0.0.1	www.cachorrosquentesdeliciosos.com
 127.0.0.1	cachorrosquentesdeliciosos.com
 127.0.0.1	www.209-222-98-197.cprapid.com
-127.0.0.1	microsoft-analyse.com
-127.0.0.1	forbb14sr.top
-127.0.0.1	thirtbb13sr.top
-127.0.0.1	twelbb12sr.top
-127.0.0.1	neinbb9sr.top
-127.0.0.1	elevbb11sr.top
-127.0.0.1	tenbj10sr.top
-127.0.0.1	decreasefost.cfd
-127.0.0.1	drammesuuio.cfd
-127.0.0.1	pestyactewi.cfd
-127.0.0.1	suggestedomb.cfd
-127.0.0.1	droppyrelivei.cfd
-127.0.0.1	louadywotmn.cfd
-127.0.0.1	adoptythanyj.cfd
-127.0.0.1	strikedrumnyh.cfd
-127.0.0.1	desertedjwuyo.cfd
-127.0.0.1	creepyoso.cfd
-127.0.0.1	acidpassages.cfd
-127.0.0.1	bearryinveu.cfd
-127.0.0.1	spootyleggiu.cfd
-127.0.0.1	constrastywiu.cfd
-127.0.0.1	quittywooruy.cfd
-127.0.0.1	foodymovuw.cfd
-127.0.0.1	matteryshzh.cfd
-127.0.0.1	proviniclkaw.cfd
-127.0.0.1	palmyrejectiy.cfd
-127.0.0.1	ansectoriyj.cfd
-127.0.0.1	prinyveri.cfd
-127.0.0.1	insideparti.cfd
-127.0.0.1	promisedjeylk.cfd
-127.0.0.1	tractopersuo.cfd
-127.0.0.1	ferryfarvo.cfd
-127.0.0.1	crimedcirwo.cfd
-127.0.0.1	stunnyaccot.cfd
-127.0.0.1	stirnyuys.cfd
-127.0.0.1	opiniomot.cfd
-127.0.0.1	pumpkineeu.cfd
-127.0.0.1	promotedcuut.cfd
-127.0.0.1	transatcitov.cfd
-127.0.0.1	giveaspectwuy.cfd
-127.0.0.1	blowwyivot.cfd
-127.0.0.1	cucumberlkt.cfd
-127.0.0.1	offenycoru.cfd
-127.0.0.1	pierryjumy.cfd
-127.0.0.1	storefeingny.cfd
-127.0.0.1	snaillyknsu.cfd
-127.0.0.1	minoritwtio.cfd
-127.0.0.1	scholartp.cfd
-127.0.0.1	sippymroat.cfd
-127.0.0.1	sweerprevet.cfd
-127.0.0.1	sandiwthu.cfd
-127.0.0.1	imgagriwu.cfd
-127.0.0.1	smootyattraw.cfd
-127.0.0.1	hunterrycru.cfd
-127.0.0.1	braidyintw.cfd
-127.0.0.1	discoverrwz.cfd
-127.0.0.1	raptwinter.shop
-# Number of entries: 48814
+# Number of entries: 48781
