@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-16 20:10:35 UTC                        #
+# Last updated: 2025-04-17 04:03:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mail.m.web-app-on.com
+127.0.0.1	ec2-18-166-104-119.ap-east-1.compute.amazonaws.com
 127.0.0.1	srohoahong.com
 127.0.0.1	kitai1245-43780.portmap.io
 127.0.0.1	johnanthonylifestyle.com
@@ -48784,7 +48786,4 @@
 127.0.0.1	berzzuzz.com
 127.0.0.1	10086623.top
 127.0.0.1	tqshoes.shop
-127.0.0.1	www.cachorrosquentesdeliciosos.com
-127.0.0.1	cachorrosquentesdeliciosos.com
-127.0.0.1	www.209-222-98-197.cprapid.com
-# Number of entries: 48781
+# Number of entries: 48780
