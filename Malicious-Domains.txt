@@ -1,11 +1,30 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-17 12:21:49 UTC                        #
+# Last updated: 2025-04-17 18:17:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	fchangeaie.top
+127.0.0.1	check.nejoc.icu
+127.0.0.1	prodlisle.com
+127.0.0.1	zarar.sms2.online
+127.0.0.1	ns2.maxscend.buzz
+127.0.0.1	ns2.carbonblackupdate.com
+127.0.0.1	ns1.maxscend.buzz
+127.0.0.1	ns1.carbonblackupdate.com
+127.0.0.1	qj.ap.4t.com
+127.0.0.1	ad-samoa.gl.at.ply.gg
+127.0.0.1	letokik616-48803.portmap.io
+127.0.0.1	windows.system32.qpon
+127.0.0.1	get.pinkobmen.com
+127.0.0.1	check.lomac.icu
+127.0.0.1	www.purepassionwellness.com
+127.0.0.1	micros.office365update.cn
+127.0.0.1	nextstepu.live
+127.0.0.1	franecont.run
+127.0.0.1	h1.passionwhenever.shop
 127.0.0.1	jerrytech.duckdns.org
 127.0.0.1	miropilw.run
 127.0.0.1	namedice.live
@@ -48932,56 +48951,4 @@
 127.0.0.1	www.beatverse.shop
 127.0.0.1	209-222-98-197.cprapid.com
 127.0.0.1	m.instagrms.com
-127.0.0.1	www.nexuslinx.xyz
-127.0.0.1	curtisusa.hopto.org
-127.0.0.1	hijy62t5b43fhu3dblgep4drtoqjpfi7jgxqaectce2verypcui3qbad.onion
-127.0.0.1	lum-fun.fun
-127.0.0.1	lummc2.fun
-127.0.0.1	forcj4ht.top
-127.0.0.1	tvthre3sr.top
-127.0.0.1	cede03.info
-127.0.0.1	rzthre3pn.top
-127.0.0.1	fivevf5ht.top
-127.0.0.1	threv3pn.top
-127.0.0.1	twovdf2vs.top
-127.0.0.1	nife01.info
-127.0.0.1	forcj4vt.top
-127.0.0.1	sivd6sr.top
-127.0.0.1	morekp05.top
-127.0.0.1	thirtvd13ht.top
-127.0.0.1	biss03.info
-127.0.0.1	forcf4ht.top
-127.0.0.1	forcj4sb.top
-127.0.0.1	rzthirt13ht.top
-127.0.0.1	threvd3sr.top
-127.0.0.1	twovdf2sr.top
-127.0.0.1	verf04.info
-127.0.0.1	onev1pn.top
-127.0.0.1	fivevd5ht.top
-127.0.0.1	threvc3pt.top
-127.0.0.1	verf05.info
-127.0.0.1	sivf6ht.top
-127.0.0.1	tvfive5vt.top
-127.0.0.1	fivevd5vs.top
-127.0.0.1	fivevc5vs.top
-127.0.0.1	lerm03.info
-127.0.0.1	tvsixt16vs.top
-127.0.0.1	fivevd5sb.top
-127.0.0.1	twovdf2vt.top
-127.0.0.1	pactyx52.top
-127.0.0.1	fivevd5sr.top
-127.0.0.1	fivev5pn.top
-127.0.0.1	threv3sr.top
-127.0.0.1	fivevd5pt.top
-127.0.0.1	siv6pn.top
-127.0.0.1	tvtwel12vt.top
-127.0.0.1	sevenvd7vt.top
-127.0.0.1	pacbry45.top
-127.0.0.1	twovdf2ht.top
-127.0.0.1	hostingrapid.com
-127.0.0.1	gratisbonuses.com
-127.0.0.1	44-35-63-31.internalsakamai.net
-127.0.0.1	wshsoft.company
-127.0.0.1	mail.lust-auf-erfolg.com
-127.0.0.1	niggakid.duckdns.org
-# Number of entries: 48978
+# Number of entries: 48945
