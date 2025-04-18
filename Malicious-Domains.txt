@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-17 18:17:29 UTC                        #
+# Last updated: 2025-04-18 00:03:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.everydayitstimeto.christmas
+127.0.0.1	yci416ame.5b0qyh1qd.xyz
 127.0.0.1	fchangeaie.top
 127.0.0.1	check.nejoc.icu
 127.0.0.1	prodlisle.com
@@ -48947,8 +48949,4 @@
 127.0.0.1	cosmic-canvas.shop
 127.0.0.1	experttech.shop
 127.0.0.1	docu-sign.info
-127.0.0.1	www.instagrms.com
-127.0.0.1	www.beatverse.shop
-127.0.0.1	209-222-98-197.cprapid.com
-127.0.0.1	m.instagrms.com
-# Number of entries: 48945
+# Number of entries: 48943
