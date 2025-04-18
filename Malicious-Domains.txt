@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-18 09:44:50 UTC                        #
+# Last updated: 2025-04-18 12:02:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hnd.stats.st4b4n.fr
+127.0.0.1	check.kubab.icu
+127.0.0.1	lapurralicious.live
+127.0.0.1	spotifystreamssolutions.com
 127.0.0.1	gq8ruzk1h3a8.cfd
 127.0.0.1	educt.shop
 127.0.0.1	check.becyz.icu
@@ -48971,11 +48975,4 @@
 127.0.0.1	color-bank.ru
 127.0.0.1	asechka.ru
 127.0.0.1	crutop.nu
-127.0.0.1	2c8b3f19-0325-4acc-a3dd-31a918e4dbf5.random.ironstarkkair.xyz
-127.0.0.1	usdtpooldrop.com
-127.0.0.1	passimovrt.cfd
-127.0.0.1	imageforg.cfd
-127.0.0.1	deserveiu.cfd
-127.0.0.1	squaredow.buzz
-127.0.0.1	shallowbreray.shop
-# Number of entries: 48972
+# Number of entries: 48969
