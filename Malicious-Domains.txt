@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-19 08:01:06 UTC                        #
+# Last updated: 2025-04-19 11:14:42 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	lumbersmile.icu
+127.0.0.1	check.colaj.icu
+127.0.0.1	check.hosam.icu
 127.0.0.1	account.st4b4n.fr
 127.0.0.1	office.socalmediazone.com
 127.0.0.1	www.x6se.buzz
@@ -63480,45 +63483,4 @@
 127.0.0.1	www.arvitop.com
 127.0.0.1	beatverse.shop
 127.0.0.1	domainc2.xyz
-127.0.0.1	tenvd10vt.top
-127.0.0.1	neinvd9vt.top
-127.0.0.1	sivd6vt.top
-127.0.0.1	threvf3ht.top
-127.0.0.1	fivevd5vt.top
-127.0.0.1	neinvf9ht.top
-127.0.0.1	onevf1vt.top
-127.0.0.1	sevexvl7vt.top
-127.0.0.1	forgg4sr.top
-127.0.0.1	onevh1sr.top
-127.0.0.1	twovh2vs.top
-127.0.0.1	twovc2pt.top
-127.0.0.1	sivhc6pt.top
-127.0.0.1	tenvc10pt.top
-127.0.0.1	onevc1pt.top
-127.0.0.1	elevenvb11pt.top
-127.0.0.1	twovc2ht.top
-127.0.0.1	elevenvr11vs.top
-127.0.0.1	tzsev7sb.top
-127.0.0.1	tenvr10vs.top
-127.0.0.1	sevenvr7vs.top
-127.0.0.1	onevf1ht.top
-127.0.0.1	neinvx9pt.top
-127.0.0.1	thirtvr13pn.top
-127.0.0.1	twelvevt12pn.top
-127.0.0.1	onevr1vs.top
-127.0.0.1	fivevc5pt.top
-127.0.0.1	twelvevt12ht.top
-127.0.0.1	thirtvu13ht.top
-127.0.0.1	forvx14sb.top
-127.0.0.1	sevenvf7ht.top
-127.0.0.1	sevtvx17sb.top
-127.0.0.1	sevenvx7pt.top
-127.0.0.1	twobb2vt.top
-127.0.0.1	onebb1vt.top
-127.0.0.1	fivebb5vt.top
-127.0.0.1	twelvevx12pt.top
-127.0.0.1	neinvx9ht.top
-127.0.0.1	fivebj5ht.top
-127.0.0.1	elevenvr11ht.top
-127.0.0.1	sivbb6vt.top
-# Number of entries: 63515
+# Number of entries: 63477
