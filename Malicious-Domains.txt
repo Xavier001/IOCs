@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-19 11:14:42 UTC                        #
+# Last updated: 2025-04-19 20:56:31 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mail2.lasthit.store
+127.0.0.1	mail1.lasthit.store
+127.0.0.1	auth.echelonai.world
+127.0.0.1	check.wewum.icu
+127.0.0.1	yyds.chinaunciom.sbs
+127.0.0.1	4gjhr5qxhyaj1.cfc-execute.bj.baidubce.com
 127.0.0.1	lumbersmile.icu
 127.0.0.1	check.colaj.icu
 127.0.0.1	check.hosam.icu
@@ -63481,6 +63487,4 @@
 127.0.0.1	10.53.154.104.bc.googleusercontent.com
 127.0.0.1	systemcoreupdate.com
 127.0.0.1	www.arvitop.com
-127.0.0.1	beatverse.shop
-127.0.0.1	domainc2.xyz
-# Number of entries: 63477
+# Number of entries: 63481
