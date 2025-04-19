@@ -1,11 +1,30 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-18 19:50:42 UTC                        #
+# Last updated: 2025-04-19 08:01:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	account.st4b4n.fr
+127.0.0.1	office.socalmediazone.com
+127.0.0.1	www.x6se.buzz
+127.0.0.1	ec2-16-163-161-107.ap-east-1.compute.amazonaws.com
+127.0.0.1	ht.bzmajiang.cn
+127.0.0.1	check.saguf.icu
+127.0.0.1	although-cholesterol.gl.at.ply.gg
+127.0.0.1	interface-owners.gl.at.ply.gg
+127.0.0.1	match-charity.gl.at.ply.gg
+127.0.0.1	o-sufficient.gl.at.ply.gg
+127.0.0.1	rhymers.duckdns.org
+127.0.0.1	9xuj2tcnm.localto.net
+127.0.0.1	go.gets-it.net
+127.0.0.1	four-meme.dev
+127.0.0.1	futuristx.live
+127.0.0.1	synmedsp.live
+127.0.0.1	reddit.co.im
+127.0.0.1	lynmor.com
+127.0.0.1	grrlspace.com
 127.0.0.1	check.qicon.icu
 127.0.0.1	mfwtdajaeteirph.top
 127.0.0.1	wiymwegwkgciueii.xyz
@@ -63502,41 +63521,4 @@
 127.0.0.1	fivebj5ht.top
 127.0.0.1	elevenvr11ht.top
 127.0.0.1	sivbb6vt.top
-127.0.0.1	collectbuffetfilylew.site
-127.0.0.1	flavflavourk.site
-127.0.0.1	threespecio.site
-127.0.0.1	trashefool.store
-127.0.0.1	magnificwo.store
-127.0.0.1	spooteddecow.store
-127.0.0.1	scratgyy.biz
-127.0.0.1	worryofficwi.cfd
-127.0.0.1	wanderibd.cfd
-127.0.0.1	lasstylinage.cfd
-127.0.0.1	plasticyere.cfd
-127.0.0.1	sensitiveuw.cfd
-127.0.0.1	litigatin.cfd
-127.0.0.1	ninbb19ht.top
-127.0.0.1	forbb4ht.top
-127.0.0.1	neinbd9ht.top
-127.0.0.1	ninbb19sr.top
-127.0.0.1	sevtbb17ht.top
-127.0.0.1	sevtbb17sr.top
-127.0.0.1	sixbb16sr.top
-127.0.0.1	tventbb20pht.top
-127.0.0.1	tventbb20psr.top
-127.0.0.1	fiftbb15sr.top
-127.0.0.1	forbb4sr.top
-127.0.0.1	eightbb8pt.top
-127.0.0.1	nichthaze1337.ddns.net
-127.0.0.1	thirtbb13ht.top
-127.0.0.1	twelbb12ht.top
-127.0.0.1	tenbj10ht.top
-127.0.0.1	elevbb11ht.top
-127.0.0.1	udignost01.ddns.net
-127.0.0.1	carlitosmoreno1791.duckdns.org
-127.0.0.1	buying-programs.gl.at.ply.gg
-127.0.0.1	peinadorafael777.duckdns.org
-127.0.0.1	vjkillianco.com
-127.0.0.1	saveourmalta.com
-127.0.0.1	howtotopics.com
-# Number of entries: 63533
+# Number of entries: 63515
