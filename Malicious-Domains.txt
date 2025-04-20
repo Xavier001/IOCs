@@ -1,11 +1,30 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-20 04:01:39 UTC                        #
+# Last updated: 2025-04-20 08:01:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hiesa-56152.portmap.host
+127.0.0.1	feb-travelers.gl.at.ply.gg
+127.0.0.1	bot.argus-services.xyz
+127.0.0.1	boards-essential.gl.at.ply.gg
+127.0.0.1	earth-schedules.gl.at.ply.gg
+127.0.0.1	summer-malaysia.gl.at.ply.gg
+127.0.0.1	technical-equally.gl.at.ply.g
+127.0.0.1	envio10-04-25.duckdns.org
+127.0.0.1	lowwood.xyz
+127.0.0.1	check.pejel.icu
+127.0.0.1	yet-continental.gl.at.ply.gg
+127.0.0.1	ladoicese.org
+127.0.0.1	kaohej.com
+127.0.0.1	core.kaohej.com
+127.0.0.1	kaohej.info
+127.0.0.1	core.kaohej.info
+127.0.0.1	kaohej.org
+127.0.0.1	core.kaohej.org
+127.0.0.1	o.socalmediazone.com
 127.0.0.1	autodiscover.aa.104-168-101-27.cprapid.com
 127.0.0.1	react.socalmediazone.com
 127.0.0.1	api.googleshop.xyz
@@ -63487,4 +63506,4 @@
 127.0.0.1	vmi1471627.contaboserver.net
 127.0.0.1	gifted-lewin.111-90-140-34.plesk.page
 127.0.0.1	pro-fundraising.gl.at.ply.gg
-# Number of entries: 63481
+# Number of entries: 63500
