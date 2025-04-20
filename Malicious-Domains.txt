@@ -1,11 +1,29 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-20 12:02:52 UTC                        #
+# Last updated: 2025-04-20 19:27:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	botnet9.ddns.net
+127.0.0.1	given-neither.gl.at.ply.gg
+127.0.0.1	ddwall.duckdns.org
+127.0.0.1	itunesextractor.com
+127.0.0.1	check.juket.icu
+127.0.0.1	neathealth.beauty
+127.0.0.1	check.pivum.icu
+127.0.0.1	webmail.ebuildingsource.com
+127.0.0.1	subscribe.bigeznola.com
+127.0.0.1	customer.aaddigitalstrategies.com
+127.0.0.1	regular.ptbaconsulting.com
+127.0.0.1	academy.entrepreneurwealthhub.com
+127.0.0.1	hub.unlimitedcashflowevent.com
+127.0.0.1	ceo.cowholesaling.com
+127.0.0.1	newsite.iapmd.org
+127.0.0.1	cpanel.buyjlindustriesonline.com
+127.0.0.1	r-tube.ru
+127.0.0.1	check.pikip.icu
 127.0.0.1	technical-equally.gl.at.ply.gg
 127.0.0.1	check.carin.icu
 127.0.0.1	hiesa-56152.portmap.host
@@ -63507,5 +63525,4 @@
 127.0.0.1	josh289232.duckdns.org
 127.0.0.1	vmi1471627.contaboserver.net
 127.0.0.1	gifted-lewin.111-90-140-34.plesk.page
-127.0.0.1	pro-fundraising.gl.at.ply.gg
-# Number of entries: 63502
+# Number of entries: 63519
