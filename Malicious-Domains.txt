@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-19 20:56:31 UTC                        #
+# Last updated: 2025-04-20 04:01:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	autodiscover.aa.104-168-101-27.cprapid.com
+127.0.0.1	react.socalmediazone.com
+127.0.0.1	api.googleshop.xyz
 127.0.0.1	mail2.lasthit.store
 127.0.0.1	mail1.lasthit.store
 127.0.0.1	auth.echelonai.world
@@ -63484,7 +63487,4 @@
 127.0.0.1	vmi1471627.contaboserver.net
 127.0.0.1	gifted-lewin.111-90-140-34.plesk.page
 127.0.0.1	pro-fundraising.gl.at.ply.gg
-127.0.0.1	10.53.154.104.bc.googleusercontent.com
-127.0.0.1	systemcoreupdate.com
-127.0.0.1	www.arvitop.com
 # Number of entries: 63481
