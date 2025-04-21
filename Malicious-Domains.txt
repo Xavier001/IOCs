@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-20 19:27:23 UTC                        #
+# Last updated: 2025-04-21 00:01:10 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ec2-47-128-167-206.ap-southeast-1.compute.amazonaws.com
+127.0.0.1	sslassla.com
+127.0.0.1	api.xiaoyaoruchu.com
 127.0.0.1	botnet9.ddns.net
 127.0.0.1	given-neither.gl.at.ply.gg
 127.0.0.1	ddwall.duckdns.org
@@ -63523,6 +63526,4 @@
 127.0.0.1	twelbb12sb.top
 127.0.0.1	house.zionanakwenze.com
 127.0.0.1	josh289232.duckdns.org
-127.0.0.1	vmi1471627.contaboserver.net
-127.0.0.1	gifted-lewin.111-90-140-34.plesk.page
-# Number of entries: 63519
+# Number of entries: 63520
