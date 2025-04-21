@@ -1,11 +1,30 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-21 00:01:10 UTC                        #
+# Last updated: 2025-04-21 09:04:42 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hemispherexz.top
+127.0.0.1	equatorf.run
+127.0.0.1	latitudert.live
+127.0.0.1	cuuhrxbg52c5agytmtjpwfu7mrs4xtaitc4mukkiy2kqdxeqbcmuhaid.onion
+127.0.0.1	4ldgw2wuidqu5ef3rzx4byonf3y7rdnh43jiw2z4sbtjiwic6gkov7yd.onion
+127.0.0.1	vkvsgl7lhipjirmz6j5ubp3w3bwvxgcdbpi3fsbqngfynetqtw4w5hyd.onion
+127.0.0.1	zktnif5vckhmz5tyrukp5bamatbfhkxjnb23rspsanyzywcrx3bvtqad.onion
+127.0.0.1	mybmtbgd7aprdnw2ekxht5qap5daam2wch25coqerrq2zdioanob34ad.onion
+127.0.0.1	77nrxelcwh47yikvpaz2rvtsten4sen2elybo5r5st6wlxsbitv255qd.onion
+127.0.0.1	brain4zoadgr6clxecixffvxjsw43cflyprnpfeak72nfh664kqqriyd.onion
+127.0.0.1	p6wmotxzvg34tdmpwm4beqgrcyp5iys43snkccsahnw74la3k3xx6pad.onion
+127.0.0.1	rnv.nxts.eu.org
+127.0.0.1	vpn2.hackcrack.io
+127.0.0.1	check.letoq.icu
+127.0.0.1	morbulao.sbs
+127.0.0.1	thefurrybazaar.biz
+127.0.0.1	sound-designer-v21.pages.dev
+127.0.0.1	tracklist22.pages.dev
+127.0.0.1	security-check-l2j4.com
 127.0.0.1	ec2-47-128-167-206.ap-southeast-1.compute.amazonaws.com
 127.0.0.1	sslassla.com
 127.0.0.1	api.xiaoyaoruchu.com
@@ -63493,37 +63512,4 @@
 127.0.0.1	avesta.uno
 127.0.0.1	ctdl1-windowsupdate.com
 127.0.0.1	dddotx.site
-127.0.0.1	recessionmar.cfd
-127.0.0.1	chewcaferw.cfd
-127.0.0.1	legislatiu.cfd
-127.0.0.1	tournametnu.cfd
-127.0.0.1	stagecrar.cfd
-127.0.0.1	refurnharj.cfd
-127.0.0.1	consumeroo.sbs
-127.0.0.1	captaitwik.sbs
-127.0.0.1	snailyeductyi.sbs
-127.0.0.1	deepymouthi.sbs
-127.0.0.1	ferrycheatyk.sbs
-127.0.0.1	monstourtu.sbs
-127.0.0.1	sivhs6ht.top
-127.0.0.1	tenvc10ht.top
-127.0.0.1	threvc3ht.top
-127.0.0.1	twovr2sb.top
-127.0.0.1	fivevr5sb.top
-127.0.0.1	onevr1sb.top
-127.0.0.1	sivvr6sb.top
-127.0.0.1	threvr3sb.top
-127.0.0.1	tenvr10pn.top
-127.0.0.1	neinbd9sb.top
-127.0.0.1	thirtbb13sb.top
-127.0.0.1	sevenvr7sb.top
-127.0.0.1	sevbb7ht.top
-127.0.0.1	twobb2sb.top
-127.0.0.1	forbb4sb.top
-127.0.0.1	threbb3sb.top
-127.0.0.1	elevbb11sb.top
-127.0.0.1	sevtbb17sb.top
-127.0.0.1	twelbb12sb.top
-127.0.0.1	house.zionanakwenze.com
-127.0.0.1	josh289232.duckdns.org
-# Number of entries: 63520
+# Number of entries: 63506
