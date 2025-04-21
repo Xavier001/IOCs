@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-21 09:04:42 UTC                        #
+# Last updated: 2025-04-21 12:00:37 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ip143.ip-51-195-193.eu
 127.0.0.1	hemispherexz.top
 127.0.0.1	equatorf.run
 127.0.0.1	latitudert.live
@@ -63512,4 +63513,4 @@
 127.0.0.1	avesta.uno
 127.0.0.1	ctdl1-windowsupdate.com
 127.0.0.1	dddotx.site
-# Number of entries: 63506
+# Number of entries: 63507
