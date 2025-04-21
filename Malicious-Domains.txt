@@ -1,11 +1,25 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-21 12:00:37 UTC                        #
+# Last updated: 2025-04-21 20:01:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.x-fx.net
+127.0.0.1	office300.duckdns.org
+127.0.0.1	ec2-13-233-246-131.ap-south-1.compute.amazonaws.com
+127.0.0.1	ns2.cmbsxfvpnsupport.website
+127.0.0.1	ns1.cmbsxfvpnsupport.website
+127.0.0.1	a1115545.xsph.ru
+127.0.0.1	a1116616.xsph.ru
+127.0.0.1	a1111976.xsph.ru
+127.0.0.1	a1111617.xsph.ru
+127.0.0.1	a1112024.xsph.ru
+127.0.0.1	a1111903.xsph.ru
+127.0.0.1	textilmarkt.com
+127.0.0.1	background-estates.gl.at.ply.gg
+127.0.0.1	carolina-candles.gl.at.ply.gg
 127.0.0.1	ip143.ip-51-195-193.eu
 127.0.0.1	hemispherexz.top
 127.0.0.1	equatorf.run
@@ -63501,16 +63515,4 @@
 127.0.0.1	cheappyholk.store
 127.0.0.1	clammygrumnj.store
 127.0.0.1	forbb14sb.top
-127.0.0.1	services.giftapi.net
-127.0.0.1	giftapi.net
-127.0.0.1	rpc.aceyn.top
-127.0.0.1	aceyn.top
-127.0.0.1	smartupdatecenter.com
-127.0.0.1	cloudexperiencehost.com
-127.0.0.1	ebaltrahal.eu
-127.0.0.1	ebaltrahal.com
-127.0.0.1	bot.avesta.uno
-127.0.0.1	avesta.uno
-127.0.0.1	ctdl1-windowsupdate.com
-127.0.0.1	dddotx.site
-# Number of entries: 63507
+# Number of entries: 63509
