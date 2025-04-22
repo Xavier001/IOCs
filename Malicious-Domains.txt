@@ -1,11 +1,38 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-22 12:24:27 UTC                        #
+# Last updated: 2025-04-22 18:47:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	introduction-satisfy.gl.at.ply.gg
+127.0.0.1	mexitl.com
+127.0.0.1	jjpalace.com
+127.0.0.1	cdn.soft.qianxin.com
+127.0.0.1	buqoc.icu
+127.0.0.1	sealyiu.live
+127.0.0.1	quiltsticks.xyz
+127.0.0.1	hobbiesyard.xyz
+127.0.0.1	taxjudge.icu
+127.0.0.1	teethbubble.icu
+127.0.0.1	kdxa.gwyhhcorybwjwuzh.info
+127.0.0.1	eicp.gwyhhcorybwjwuzh.live
+127.0.0.1	kdxa.zkuafimfdwvetxjq.info
+127.0.0.1	eicp.gaihwstpzuomtfnu.info
+127.0.0.1	kdxa.gaihwstpzuomtfnu.info
+127.0.0.1	yfrv.gaihwstpzuomtfnu.info
+127.0.0.1	yfrv.zkuafimfdwvetxjq.live
+127.0.0.1	yfrv.zkuafimfdwvetxjq.info
+127.0.0.1	khbw.byxwgimpbwiskniw.live
+127.0.0.1	khbw.byxwgimpbwiskniw.info
+127.0.0.1	eicp.gwyhhcorybwjwuzh.info
+127.0.0.1	vynen.icu
+127.0.0.1	internetsearch.viewdns.net
+127.0.0.1	ffmqitnka.pages.dev
+127.0.0.1	integration2-hohc4oi-ql5o2tbhqesto.us-5.magentosite.cloud
+127.0.0.1	apelmerah.top
+127.0.0.1	secure.gatecollegesystem.com
 127.0.0.1	c2.trollers.xyz
 127.0.0.1	access-apollo-page.r-e.kr
 127.0.0.1	access-apollo-star7.kro.kr
@@ -63888,4 +63915,4 @@
 127.0.0.1	deltaldcenter.com
 127.0.0.1	mta1.pqpw.com
 127.0.0.1	home.pqpw.com
-# Number of entries: 63882
+# Number of entries: 63909
