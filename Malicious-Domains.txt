@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-21 20:01:22 UTC                        #
+# Last updated: 2025-04-22 02:52:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	8y1h12ay4vt22.cfc-execute.gz.baidubce.com
+127.0.0.1	msfed.socalmediazone.com
+127.0.0.1	ej2a599x7hw7j.cfc-execute.su.baidubce.com
+127.0.0.1	ajs.july.cc
 127.0.0.1	www.x-fx.net
 127.0.0.1	office300.duckdns.org
 127.0.0.1	ec2-13-233-246-131.ap-south-1.compute.amazonaws.com
@@ -63515,4 +63519,4 @@
 127.0.0.1	cheappyholk.store
 127.0.0.1	clammygrumnj.store
 127.0.0.1	forbb14sb.top
-# Number of entries: 63509
+# Number of entries: 63513
