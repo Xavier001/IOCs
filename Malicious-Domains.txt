@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-22 18:47:01 UTC                        #
+# Last updated: 2025-04-22 22:54:15 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	2d2azd2gymkef.cfc-execute.gz.baidubce.com
 127.0.0.1	introduction-satisfy.gl.at.ply.gg
 127.0.0.1	mexitl.com
 127.0.0.1	jjpalace.com
@@ -63913,6 +63914,4 @@
 127.0.0.1	tceight8vs.top
 127.0.0.1	franklinida.com
 127.0.0.1	deltaldcenter.com
-127.0.0.1	mta1.pqpw.com
-127.0.0.1	home.pqpw.com
-# Number of entries: 63909
+# Number of entries: 63908
