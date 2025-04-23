@@ -1,11 +1,36 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-23 11:58:17 UTC                        #
+# Last updated: 2025-04-23 20:49:16 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dum555.duckdns.org
+127.0.0.1	relyheins.org
+127.0.0.1	jellyfisnbnh.live
+127.0.0.1	h1.glucoseranger.digital
+127.0.0.1	factisland.icu
+127.0.0.1	decisioniron.xyz
+127.0.0.1	pejnguin.live
+127.0.0.1	mtowner.com
+127.0.0.1	kasej.icu
+127.0.0.1	soficave.com
+127.0.0.1	ayzyw.top
+127.0.0.1	recommended-collins.gl.at.ply.gg
+127.0.0.1	panel-thrown.gl.at.ply.gg
+127.0.0.1	solidewi.com
+127.0.0.1	junyk.icu
+127.0.0.1	www.ishimotors.com
+127.0.0.1	dafeq.icu
+127.0.0.1	incog.live
+127.0.0.1	akkiosk.org
+127.0.0.1	popbaggy.ignorelist.com
+127.0.0.1	zainezw.duckdns.org
+127.0.0.1	mysyv.icu
+127.0.0.1	eztest.site
+127.0.0.1	palid.icu
+127.0.0.1	pebeg.icu
 127.0.0.1	shelducopk.digital
 127.0.0.1	keywestuy.digital
 127.0.0.1	vampirebioat.digital
@@ -63828,49 +63853,4 @@
 127.0.0.1	heroicmint.sbs
 127.0.0.1	adullamglobal.com
 127.0.0.1	annopause.com
-127.0.0.1	eightji8vt.top
-127.0.0.1	completedyu.cyou
-127.0.0.1	directoren.cyou
-127.0.0.1	garagedpoczxzc.shop
-127.0.0.1	guiadeseguros.online
-127.0.0.1	qualitypxvoz.shop
-127.0.0.1	revivaldm.cyou
-127.0.0.1	unpleasna.cyou
-127.0.0.1	withdrwblon.cyou
-127.0.0.1	piniushidom.store
-127.0.0.1	paradermnj.cfd
-127.0.0.1	mutuallkykwo.online
-127.0.0.1	memoranduori.online
-127.0.0.1	mistreetta.store
-127.0.0.1	limityuwjy.store
-127.0.0.1	lowwyorvek.store
-127.0.0.1	establishedwi.site
-127.0.0.1	graphicowkn.store
-127.0.0.1	dominatfireow.store
-127.0.0.1	powrggideog.store
-127.0.0.1	relationkwi.online
-127.0.0.1	relieevenj.store
-127.0.0.1	seaosnakewu.online
-127.0.0.1	soupedterju.online
-127.0.0.1	summityceowk.store
-127.0.0.1	swearryiguwj.store
-127.0.0.1	timberiska.online
-127.0.0.1	bendndyecsaw.store
-127.0.0.1	angerrucancjew.site
-127.0.0.1	assetiio.site
-127.0.0.1	bannrjur.biz
-127.0.0.1	locaterincrewy.biz
-127.0.0.1	colldycatle.cyou
-127.0.0.1	commandseai.cyou
-127.0.0.1	genuinedjw.cyou
-127.0.0.1	housingyid.cyou
-127.0.0.1	lowwywelcok.cyou
-127.0.0.1	moonydiscowz.cyou
-127.0.0.1	questinoyn.cyou
-127.0.0.1	surveropas.cyou
-127.0.0.1	thighpecr.cyou
-127.0.0.1	topetipeo.cyou
-127.0.0.1	trappysno.cyou
-127.0.0.1	wheatari.cyou
-127.0.0.1	solcongeneral.com
-# Number of entries: 63867
+# Number of entries: 63847
