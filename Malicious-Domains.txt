@@ -1,11 +1,23 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-23 20:49:16 UTC                        #
+# Last updated: 2025-04-24 03:56:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	piver.icu
+127.0.0.1	cuxer.icu
+127.0.0.1	gutom.icu
+127.0.0.1	cdn-credit-d814.101archstreet.workers.dev
+127.0.0.1	jahoc.icu
+127.0.0.1	gubuj.icu
+127.0.0.1	rocyg.icu
+127.0.0.1	ginoz.icu
+127.0.0.1	pepuq.icu
+127.0.0.1	sso.zalopay.site
+127.0.0.1	portal.zalopay.site
+127.0.0.1	wunep.icu
 127.0.0.1	dum555.duckdns.org
 127.0.0.1	relyheins.org
 127.0.0.1	jellyfisnbnh.live
@@ -63853,4 +63865,4 @@
 127.0.0.1	heroicmint.sbs
 127.0.0.1	adullamglobal.com
 127.0.0.1	annopause.com
-# Number of entries: 63847
+# Number of entries: 63859
