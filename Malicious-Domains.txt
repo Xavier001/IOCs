@@ -1,11 +1,52 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-24 03:56:35 UTC                        #
+# Last updated: 2025-04-24 09:46:34 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	fyquc.icu
+127.0.0.1	nationwidedirectlender.org
+127.0.0.1	185-38-142-128.cprapid.com
+127.0.0.1	gyner.icu
+127.0.0.1	fallenminer.com
+127.0.0.1	login.zalopay.site
+127.0.0.1	account.zalopay.site
+127.0.0.1	ecs-116-205-242-143.compute.hwclouds-dns.com
+127.0.0.1	gutenortherad.click
+127.0.0.1	cdn-app-server.vewojo9572.workers.dev
+127.0.0.1	koonenmagaziner.click
+127.0.0.1	flamencobeents.click
+127.0.0.1	vigorbridgoe.top
+127.0.0.1	cartograhphy.top
+127.0.0.1	biosphxere.digital
+127.0.0.1	topographky.top
+127.0.0.1	geographys.run
+127.0.0.1	tropiscbs.live
+127.0.0.1	eicp.byxwgimpbwiskniw.info
+127.0.0.1	lorda.hopto.org
+127.0.0.1	hylur.icu
+127.0.0.1	ndgadfqwywqe.pages.dev
+127.0.0.1	jjiiiiiiiiijjjj.pages.dev
+127.0.0.1	dealmakerwealthsociety.com
+127.0.0.1	id.webaudiomessages.xyz
+127.0.0.1	mansionsnowy.click
+127.0.0.1	outlook.webaudiomessages.xyz
+127.0.0.1	react.webaudiomessages.xyz
+127.0.0.1	airbluefootgear.com
+127.0.0.1	fastylamberta.click
+127.0.0.1	walkinsonbeer.click
+127.0.0.1	tc1.easingaffix.site
+127.0.0.1	vickmarine.com
+127.0.0.1	mrdltd.com
+127.0.0.1	iguanadx.run
+127.0.0.1	tycok.icu
+127.0.0.1	vyzap.icu
+127.0.0.1	windows.ddnsguru.com
+127.0.0.1	sewektrip.shop
+127.0.0.1	hamditebz-51107.portmap.io
+127.0.0.1	hobir.icu
 127.0.0.1	piver.icu
 127.0.0.1	cuxer.icu
 127.0.0.1	gutom.icu
@@ -63864,5 +63905,4 @@
 127.0.0.1	sidercotay.sbs
 127.0.0.1	heroicmint.sbs
 127.0.0.1	adullamglobal.com
-127.0.0.1	annopause.com
-# Number of entries: 63859
+# Number of entries: 63899
