@@ -1,11 +1,33 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-24 12:28:11 UTC                        #
+# Last updated: 2025-04-24 21:43:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	u1.spottyscary.top
+127.0.0.1	ssh.setuap1.sbs
+127.0.0.1	rcraftstipaddrsrv17.duckdns.org
+127.0.0.1	jsmakert.shop
+127.0.0.1	vezof.press
+127.0.0.1	badnesspandemic.shop
+127.0.0.1	www.ambiopharmconsultingltd.com
+127.0.0.1	www.ugconsultanceltd.com
+127.0.0.1	ns.aqjcjss.top
+127.0.0.1	cogov.press
+127.0.0.1	bobab.press
+127.0.0.1	penev.press
+127.0.0.1	hikig.press
+127.0.0.1	qegyx.press
+127.0.0.1	byqaj.press
+127.0.0.1	promo.kimmwhite.com
+127.0.0.1	pybal.icu
+127.0.0.1	usd1g6.cyou
+127.0.0.1	ui.chnaiuincom.cfd
+127.0.0.1	u1.putdownpopcorn.digital
+127.0.0.1	vekeq.icu
+127.0.0.1	pypim.icu
 127.0.0.1	dvrhelper.anondns.net
 127.0.0.1	techsupport.anondns.net
 127.0.0.1	rustbot.anondns.net
@@ -63877,42 +63899,4 @@
 127.0.0.1	www.kmsupdateservice.com.br
 127.0.0.1	salah2.webredirect.org
 127.0.0.1	diplomatgroup.org
-127.0.0.1	fashionablei.sbs
-127.0.0.1	pilethroneb.cyou
-127.0.0.1	forjh4ht.top
-127.0.0.1	ninbb19sb.top
-127.0.0.1	tventbb20sb.top
-127.0.0.1	forji4vt.top
-127.0.0.1	ninji19vt.top
-127.0.0.1	sevtji17ht.top
-127.0.0.1	tventji20vt.top
-127.0.0.1	fiftji15vt.top
-127.0.0.1	ninji19ht.top
-127.0.0.1	eightlm18ht.top
-127.0.0.1	forji14vt.top
-127.0.0.1	threji3vt.top
-127.0.0.1	twoji2ht.top
-127.0.0.1	threjk3ht.top
-127.0.0.1	oneji1ht.top
-127.0.0.1	neinji9ht.top
-127.0.0.1	oneji1vt.top
-127.0.0.1	twoji2vt.top
-127.0.0.1	eightji8ht.top
-127.0.0.1	fiveji5vt.top
-127.0.0.1	sivji6vt.top
-127.0.0.1	tenji10ht.top
-127.0.0.1	thirtji13vt.top
-127.0.0.1	tventji20ht.top
-127.0.0.1	twelji12ht.top
-127.0.0.1	twelji12vt.top
-127.0.0.1	fiveji5ht.top
-127.0.0.1	forpz4ht.top
-127.0.0.1	sivji6ht.top
-127.0.0.1	sixtlm16ht.top
-127.0.0.1	cuansurga.cam
-127.0.0.1	thumbi.cfd
-127.0.0.1	wrigglesight.sbs
-127.0.0.1	sidercotay.sbs
-127.0.0.1	heroicmint.sbs
-127.0.0.1	adullamglobal.com
-# Number of entries: 63909
+# Number of entries: 63893
