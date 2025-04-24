@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-24 09:46:34 UTC                        #
+# Last updated: 2025-04-24 12:28:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dvrhelper.anondns.net
+127.0.0.1	techsupport.anondns.net
+127.0.0.1	rustbot.anondns.net
+127.0.0.1	miraisucks.anondns.net
+127.0.0.1	lupuj.icu
+127.0.0.1	tazaz.icu
+127.0.0.1	woodpeckersd.run
+127.0.0.1	wolverineas.top
+127.0.0.1	timov.icu
+127.0.0.1	qwlpert.com
 127.0.0.1	fyquc.icu
 127.0.0.1	nationwidedirectlender.org
 127.0.0.1	185-38-142-128.cprapid.com
@@ -63905,4 +63915,4 @@
 127.0.0.1	sidercotay.sbs
 127.0.0.1	heroicmint.sbs
 127.0.0.1	adullamglobal.com
-# Number of entries: 63899
+# Number of entries: 63909
