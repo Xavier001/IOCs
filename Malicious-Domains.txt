@@ -1,11 +1,56 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-25 00:01:42 UTC                        #
+# Last updated: 2025-04-25 09:17:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	core.keloimnau.org
+127.0.0.1	maxbusinessclub.duckdns.org
+127.0.0.1	cdn.optitc.com
+127.0.0.1	signature908.golf
+127.0.0.1	corner427.space
+127.0.0.1	aardvarkw.live
+127.0.0.1	eshopper.top
+127.0.0.1	mvhelp.cc
+127.0.0.1	helpset123.site
+127.0.0.1	300005.ru
+127.0.0.1	desktool.buzz
+127.0.0.1	zdwdwadzdwa-51598.portmap.io
+127.0.0.1	centre-shake.gl.at.ply.gg
+127.0.0.1	reo.gl.at.ply.gg
+127.0.0.1	know-knock-who-is-here.pages.dev
+127.0.0.1	security-a2k8-go.com
+127.0.0.1	rugyg.top
+127.0.0.1	obinwannedimna.ydns.eu
+127.0.0.1	rem25rem.duckdns.org
+127.0.0.1	friends-virginia.gl.at.ply.gg
+127.0.0.1	games-travel.gl.at.ply.gg
+127.0.0.1	scriptdagoat-42745.portmap.io
+127.0.0.1	tobixhere-32449.portmap.io
+127.0.0.1	a-ended.gl.at.ply.gg
+127.0.0.1	hacking01.ddns.net
+127.0.0.1	fiushion.online
+127.0.0.1	huyxingum.mikustore.net
+127.0.0.1	donaldcity.club
+127.0.0.1	nevernews.club
+127.0.0.1	u1.pridefulamaretto.digital
+127.0.0.1	core.keloimnau.info
+127.0.0.1	kuqob.top
+127.0.0.1	tafoz.press
+127.0.0.1	microsoftftp.serveftp.com
+127.0.0.1	vogos.press
+127.0.0.1	www.nemzieo.info
+127.0.0.1	undo.sg
+127.0.0.1	napiv.press
+127.0.0.1	goclouder.org
+127.0.0.1	security.flaearegyaard.com
+127.0.0.1	keloimnau.com
+127.0.0.1	keloimnau.info
+127.0.0.1	core.keloimnau.com
+127.0.0.1	keloimnau.org
+127.0.0.1	xuvyc.top
 127.0.0.1	96-126-124-158.ip.linodeusercontent.com
 127.0.0.1	ec2-13-250-199-140.ap-southeast-1.compute.amazonaws.com
 127.0.0.1	harmonyos.life
@@ -63899,4 +63944,4 @@
 127.0.0.1	forji14ht.top
 127.0.0.1	elevji11vt.top
 127.0.0.1	elevji11ht.top
-# Number of entries: 63893
+# Number of entries: 63938
