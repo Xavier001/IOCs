@@ -1,11 +1,77 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-25 09:17:00 UTC                        #
+# Last updated: 2025-04-25 12:01:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ip131.ip-139-99-25.net
+127.0.0.1	www.upport-meta2903.online
+127.0.0.1	www.uv3kq5tvbkys.xyz
+127.0.0.1	www.vertdzb.xyz
+127.0.0.1	www.winx6.casino
+127.0.0.1	www.x39q.top
+127.0.0.1	www.zev.net
+127.0.0.1	www.zw5m.top
+127.0.0.1	www.ogparks.club
+127.0.0.1	www.omiq.tech
+127.0.0.1	www.orchers.world
+127.0.0.1	www.orkshopaicollaborationhub.xyz
+127.0.0.1	www.ovaecho.shop
+127.0.0.1	www.palmsrd.net
+127.0.0.1	www.reta99.info
+127.0.0.1	www.rishticodiegfortysix.online
+127.0.0.1	www.ritishpanel.net
+127.0.0.1	www.rostygust.shop
+127.0.0.1	www.slarose.online
+127.0.0.1	www.ssiduousate.online
+127.0.0.1	www.tn67n.cfd
+127.0.0.1	www.uangjiahao.online
+127.0.0.1	www.uper-bowl-kickoff-time.cfd
+127.0.0.1	www.uponbs3.pro
+127.0.0.1	www.ires-72090.bond
+127.0.0.1	www.ixmy.beauty
+127.0.0.1	www.khsim.top
+127.0.0.1	www.ksp679.top
+127.0.0.1	www.lanajoyeria.shop
+127.0.0.1	www.layplus77.vip
+127.0.0.1	www.levateballoonco.net
+127.0.0.1	www.lobaltravelbookings.xyz
+127.0.0.1	www.mail-marketing-job-62763.bond
+127.0.0.1	www.marcato.online
+127.0.0.1	www.ndimadeahome.net
+127.0.0.1	www.nnotechbs.online
+127.0.0.1	www.odeatoll.shop
+127.0.0.1	www.odzat.info
+127.0.0.1	www.oftfusion.shop
+127.0.0.1	www.atizenairdrop.bet
+127.0.0.1	www.audace.shop
+127.0.0.1	www.avino.website
+127.0.0.1	www.bcw1219.xyz
+127.0.0.1	www.ellwish.online
+127.0.0.1	www.ethil.xyz
+127.0.0.1	www.fp8ch.cfd
+127.0.0.1	www.hieh33.xyz
+127.0.0.1	www.ideoxxfree.xyz
+127.0.0.1	www.igaborgz.xyz
+127.0.0.1	www.ightmareroad.net
+127.0.0.1	www.inancialfreedomclub.xyz
+127.0.0.1	www.4260686.xyz
+127.0.0.1	www.488ns.top
+127.0.0.1	www.8ekcmt.top
+127.0.0.1	www.8j3tfb2djzoo.xyz
+127.0.0.1	www.9o8yd.top
+127.0.0.1	www.alisisi.xyz
+127.0.0.1	www.andygirls.biz
+127.0.0.1	www.arisasuestalvey.net
+127.0.0.1	www.arka.group
+127.0.0.1	www.aser-eye-surgery-3291.bond
+127.0.0.1	www.ash-paying-jobs-79621.bond
+127.0.0.1	www.asinocruiseclub.net
+127.0.0.1	www.astertechhub.info
+127.0.0.1	www.1198.pet
+127.0.0.1	www.4260621.xyz
 127.0.0.1	core.keloimnau.org
 127.0.0.1	maxbusinessclub.duckdns.org
 127.0.0.1	cdn.optitc.com
@@ -63944,4 +64010,4 @@
 127.0.0.1	forji14ht.top
 127.0.0.1	elevji11vt.top
 127.0.0.1	elevji11ht.top
-# Number of entries: 63938
+# Number of entries: 64004
