@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-24 21:43:11 UTC                        #
+# Last updated: 2025-04-25 00:01:42 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	96-126-124-158.ip.linodeusercontent.com
+127.0.0.1	ec2-13-250-199-140.ap-southeast-1.compute.amazonaws.com
+127.0.0.1	harmonyos.life
 127.0.0.1	u1.spottyscary.top
 127.0.0.1	ssh.setuap1.sbs
 127.0.0.1	rcraftstipaddrsrv17.duckdns.org
@@ -63896,7 +63899,4 @@
 127.0.0.1	forji14ht.top
 127.0.0.1	elevji11vt.top
 127.0.0.1	elevji11ht.top
-127.0.0.1	www.kmsupdateservice.com.br
-127.0.0.1	salah2.webredirect.org
-127.0.0.1	diplomatgroup.org
 # Number of entries: 63893
