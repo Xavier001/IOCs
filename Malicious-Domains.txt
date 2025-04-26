@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-26 08:01:40 UTC                        #
+# Last updated: 2025-04-26 12:23:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	biwiv.press
+127.0.0.1	security.flacgaurd.com
+127.0.0.1	zemiosp.com
+127.0.0.1	team-evaluating.gl.at.ply.gg
+127.0.0.1	cabym.press
+127.0.0.1	becel.press
 127.0.0.1	login.socalmediazone.com
 127.0.0.1	shequw.huixueweng.com
 127.0.0.1	www.komijon.org
@@ -64134,7 +64140,4 @@
 127.0.0.1	bmzbaumaschinen.com
 127.0.0.1	timeless-tales.shop
 127.0.0.1	dns.cdn-serveri68n-googleapis.org
-127.0.0.1	search-dl1.com
-127.0.0.1	webmail.mg-plant.com
-127.0.0.1	cpcalendars.bmzbaumaschinen.com
-# Number of entries: 64131
+# Number of entries: 64134
