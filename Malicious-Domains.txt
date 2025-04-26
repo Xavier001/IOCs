@@ -1,11 +1,55 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-25 20:46:04 UTC                        #
+# Last updated: 2025-04-26 08:01:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	login.socalmediazone.com
+127.0.0.1	shequw.huixueweng.com
+127.0.0.1	www.komijon.org
+127.0.0.1	security.cloflardg.com
+127.0.0.1	defii-larna.net
+127.0.0.1	trust.wallet-web3.ing
+127.0.0.1	coinomi.ing
+127.0.0.1	en-trezor.io
+127.0.0.1	atumicwallet.com
+127.0.0.1	manta-network-v2.us
+127.0.0.1	tronilnk.com
+127.0.0.1	core.coligeme.com
+127.0.0.1	updateyoubrousergoogle.com
+127.0.0.1	arbitrag38.ru
+127.0.0.1	update.clcc.cl
+127.0.0.1	klintaps.org
+127.0.0.1	jadhaoagroinds.com
+127.0.0.1	rdixit.github.io
+127.0.0.1	chromeinstall.xyz
+127.0.0.1	lookyloo.circl.lu
+127.0.0.1	todocarritos.top
+127.0.0.1	haidao10.top
+127.0.0.1	erectilehelp.top
+127.0.0.1	h1.unalteredaccuracy.shop
+127.0.0.1	transdataa.digital
+127.0.0.1	komijon.com
+127.0.0.1	qeqek.press
+127.0.0.1	www.coligeme.org
+127.0.0.1	matur.press
+127.0.0.1	ronthom.com
+127.0.0.1	sticker-88l.pages.dev
+127.0.0.1	netnet.lol
+127.0.0.1	tugrambling.shop
+127.0.0.1	boxingcasualty.shop
+127.0.0.1	yeaio.shop
+127.0.0.1	dentistdomestic.shop
+127.0.0.1	wildlifeautograph.shop
+127.0.0.1	aoaee.shop
+127.0.0.1	eurowatchw.run
+127.0.0.1	eurastratse.live
+127.0.0.1	hindecoo.live
+127.0.0.1	greeconoimy.run
+127.0.0.1	geoecony.live
+127.0.0.1	teklits.com
 127.0.0.1	physical-loving.gl.at.ply.gg
 127.0.0.1	gvhiz06dl.localto.net
 127.0.0.1	taoh081018.zapto.org
@@ -64093,7 +64137,4 @@
 127.0.0.1	search-dl1.com
 127.0.0.1	webmail.mg-plant.com
 127.0.0.1	cpcalendars.bmzbaumaschinen.com
-127.0.0.1	js.liveya.org
-127.0.0.1	explorationmsn.store
-127.0.0.1	cemeteryun.cyou
-# Number of entries: 64090
+# Number of entries: 64131
