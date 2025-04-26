@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-26 12:23:30 UTC                        #
+# Last updated: 2025-04-26 21:01:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	logced.com
+127.0.0.1	bid-nova.gl.at.ply.gg
+127.0.0.1	superaidol-42726.portmap.io
+127.0.0.1	typoi-53795.portmap.io
+127.0.0.1	streamingrpots.duckdns.org
+127.0.0.1	farav.press
 127.0.0.1	biwiv.press
 127.0.0.1	security.flacgaurd.com
 127.0.0.1	zemiosp.com
@@ -64137,7 +64143,4 @@
 127.0.0.1	search-spd.com
 127.0.0.1	search-slv.com
 127.0.0.1	www.185-150-24-68.cprapid.com
-127.0.0.1	bmzbaumaschinen.com
-127.0.0.1	timeless-tales.shop
-127.0.0.1	dns.cdn-serveri68n-googleapis.org
-# Number of entries: 64134
+# Number of entries: 64137
