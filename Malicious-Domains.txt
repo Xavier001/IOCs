@@ -64137,10 +64137,4 @@
 127.0.0.1	mail.111-90-140-34.cprapid.com
 127.0.0.1	race-frequent.gl.at.ply.gg
 127.0.0.1	mail.webpanel777.pl
-127.0.0.1	stats.search-st1.com
-127.0.0.1	111-90-140-34.cprapid.com
-127.0.0.1	search-gld.com
-127.0.0.1	search-spd.com
-127.0.0.1	search-slv.com
-127.0.0.1	www.185-150-24-68.cprapid.com
-# Number of entries: 64137
+# Number of entries: 64131
