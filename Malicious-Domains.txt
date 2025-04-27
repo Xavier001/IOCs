@@ -1,11 +1,29 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-27 12:12:17 UTC                        #
+# Last updated: 2025-04-27 20:06:37 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	he-tracks.gl.at.ply.gg
+127.0.0.1	uracnc.duckdns.org
+127.0.0.1	28.ip.gl.ply.gg
+127.0.0.1	hi-tokyo.gl.at.ply.gg
+127.0.0.1	itself-perfectly.gl.at.ply.gg
+127.0.0.1	syvuk.press
+127.0.0.1	gusex.press
+127.0.0.1	mubub.press
+127.0.0.1	dizec.press
+127.0.0.1	mobitront.run
+127.0.0.1	mediaflowq.run
+127.0.0.1	techmindj.live
+127.0.0.1	zatoh.press
+127.0.0.1	tycyn.press
+127.0.0.1	31033-49848.bacloud.info
+127.0.0.1	office-mirror-ue.duckdns.org
+127.0.0.1	domzblueman.online
+127.0.0.1	4a33131c-0fd3-4beb-bb52-c1bee6551841-00-2pvukptvjihkt.worf.replit.dev
 127.0.0.1	fisop.press
 127.0.0.1	security-7f2c-run.com
 127.0.0.1	techcastlev.live
@@ -64169,6 +64187,4 @@
 127.0.0.1	cpanel.spainparkvillas.com
 127.0.0.1	smtracking.getdata.email
 127.0.0.1	ip67-217-240-34.pbiaas.com
-127.0.0.1	bulkmailsms.com
-127.0.0.1	yellowchink.pirate
-# Number of entries: 64165
+# Number of entries: 64181
