@@ -1,11 +1,29 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-27 09:18:50 UTC                        #
+# Last updated: 2025-04-27 12:12:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	fisop.press
+127.0.0.1	security-7f2c-run.com
+127.0.0.1	techcastlev.live
+127.0.0.1	jusev.press
+127.0.0.1	heraldryr.digital
+127.0.0.1	dragonfireq.digital
+127.0.0.1	blacksmeiths.digital
+127.0.0.1	sorcery.digital
+127.0.0.1	stackwaven.digital
+127.0.0.1	rushelectc.digital
+127.0.0.1	automazye.digital
+127.0.0.1	webmindsk.digital
+127.0.0.1	hyperforge.digital
+127.0.0.1	courtjew.digital
+127.0.0.1	maxcloudr.digital
+127.0.0.1	sieeraft.digital
+127.0.0.1	bytequesty.digital
+127.0.0.1	gameverseb.digital
 127.0.0.1	buzzarddf.live
 127.0.0.1	fishgh.digital
 127.0.0.1	parakehjet.run
@@ -64153,6 +64171,4 @@
 127.0.0.1	ip67-217-240-34.pbiaas.com
 127.0.0.1	bulkmailsms.com
 127.0.0.1	yellowchink.pirate
-127.0.0.1	cpcontacts.spainparkvillas.com
-127.0.0.1	mail.111-90-140-34.cprapid.com
-# Number of entries: 64149
+# Number of entries: 64165
