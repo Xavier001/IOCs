@@ -1,11 +1,31 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-26 21:01:45 UTC                        #
+# Last updated: 2025-04-27 09:18:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	buzzarddf.live
+127.0.0.1	fishgh.digital
+127.0.0.1	parakehjet.run
+127.0.0.1	bearjk.live
+127.0.0.1	crocodilefg.top
+127.0.0.1	puxup.press
+127.0.0.1	backparty.icu
+127.0.0.1	spoonarch.xyz
+127.0.0.1	www.tomo.ink
+127.0.0.1	vpn.founderic.xyz
+127.0.0.1	zipuk.press
+127.0.0.1	puqum.press
+127.0.0.1	javascript-67t.pages.dev
+127.0.0.1	security-9y5v-scan.com
+127.0.0.1	daltum.mx
+127.0.0.1	bojut.press
+127.0.0.1	tahip.press
+127.0.0.1	electronics-junk.gl.at.ply.gg
+127.0.0.1	i.30x.ru
+127.0.0.1	srovuongtu.com
 127.0.0.1	logced.com
 127.0.0.1	bid-nova.gl.at.ply.gg
 127.0.0.1	superaidol-42726.portmap.io
@@ -64135,6 +64155,4 @@
 127.0.0.1	yellowchink.pirate
 127.0.0.1	cpcontacts.spainparkvillas.com
 127.0.0.1	mail.111-90-140-34.cprapid.com
-127.0.0.1	race-frequent.gl.at.ply.gg
-127.0.0.1	mail.webpanel777.pl
-# Number of entries: 64131
+# Number of entries: 64149
