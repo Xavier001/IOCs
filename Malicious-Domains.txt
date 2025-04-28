@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-27 20:06:37 UTC                        #
+# Last updated: 2025-04-28 04:02:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hovno.tobim6.eu
+127.0.0.1	ec2-3-84-178-184.compute-1.amazonaws.com
+127.0.0.1	ec2-13-251-180-166.ap-southeast-1.compute.amazonaws.com
 127.0.0.1	he-tracks.gl.at.ply.gg
 127.0.0.1	uracnc.duckdns.org
 127.0.0.1	28.ip.gl.ply.gg
@@ -64182,9 +64185,4 @@
 127.0.0.1	presticitpo.store
 127.0.0.1	messejawu.store
 127.0.0.1	takes-sbjct.gl.at.ply.gg
-127.0.0.1	search-hoj.com
-127.0.0.1	cpanel.mg-plant.com
-127.0.0.1	cpanel.spainparkvillas.com
-127.0.0.1	smtracking.getdata.email
-127.0.0.1	ip67-217-240-34.pbiaas.com
-# Number of entries: 64181
+# Number of entries: 64179
