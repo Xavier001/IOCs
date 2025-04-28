@@ -1,11 +1,31 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-28 04:02:30 UTC                        #
+# Last updated: 2025-04-28 10:28:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	milerdrew.cc
+127.0.0.1	solidwork.pro
+127.0.0.1	asperod.tech
+127.0.0.1	www.normanwaddell.com
+127.0.0.1	bookings.odoc.life
+127.0.0.1	dubyl.press
+127.0.0.1	mylan.press
+127.0.0.1	zenithcorde.top
+127.0.0.1	techguidet.digital
+127.0.0.1	btcgeared.live
+127.0.0.1	techsyncq.run
+127.0.0.1	toptalentw.top
+127.0.0.1	drindin.org
+127.0.0.1	tyfew.press
+127.0.0.1	denemescprittt.com
+127.0.0.1	ddos.dnsnb8.net
+127.0.0.1	aluminumsternness.shop
+127.0.0.1	fivel.press
+127.0.0.1	wudav.press
+127.0.0.1	foqin.press
 127.0.0.1	hovno.tobim6.eu
 127.0.0.1	ec2-3-84-178-184.compute-1.amazonaws.com
 127.0.0.1	ec2-13-251-180-166.ap-southeast-1.compute.amazonaws.com
@@ -64130,59 +64150,4 @@
 127.0.0.1	bot.hiv.icu
 127.0.0.1	hiv.icu
 127.0.0.1	egetfile.top
-127.0.0.1	ninji19vs.top
-127.0.0.1	tventji20vs.top
-127.0.0.1	eightlm18vs.top
-127.0.0.1	sevtji17vs.top
-127.0.0.1	circledexj.cyou
-127.0.0.1	pastelyki.cyou
-127.0.0.1	speedywqji.shop
-127.0.0.1	twelvev12pn.top
-127.0.0.1	sevenvd7ht.top
-127.0.0.1	sivd6ht.top
-127.0.0.1	twelvevd12ht.top
-127.0.0.1	neinvd9sr.top
-127.0.0.1	sevenvd7sr.top
-127.0.0.1	twovd2sr.top
-127.0.0.1	elevenv11pn.top
-127.0.0.1	neinv9pn.top
-127.0.0.1	tenv10pn.top
-127.0.0.1	tenvd10sb.top
-127.0.0.1	neinvd9pt.top
-127.0.0.1	sivd6pt.top
-127.0.0.1	threvd3pt.top
-127.0.0.1	twovd2pt.top
-127.0.0.1	sevenvd7pt.top
-127.0.0.1	elevenvd11ht.top
-127.0.0.1	forvd14ht.top
-127.0.0.1	neinvd9ht.top
-127.0.0.1	sevenvd7pn.top
-127.0.0.1	sivd6vs.top
-127.0.0.1	tenvd10ht.top
-127.0.0.1	neinvd9vs.top
-127.0.0.1	threvd3vs.top
-127.0.0.1	twovd2vs.top
-127.0.0.1	neinvd9sb.top
-127.0.0.1	sevenvd7sb.top
-127.0.0.1	sevenvd7vs.top
-127.0.0.1	sivd6sb.top
-127.0.0.1	tenji10vs.top
-127.0.0.1	neinji9vs.top
-127.0.0.1	twelji12vs.top
-127.0.0.1	elevji11vs.top
-127.0.0.1	forji14vs.top
-127.0.0.1	vdomain.top
-127.0.0.1	vidar.red
-127.0.0.1	v.getfile.top
-127.0.0.1	necklacedmny.store
-127.0.0.1	thumbystriw.store
-127.0.0.1	founpiuer.store
-127.0.0.1	deficticoepwqm.shop
-127.0.0.1	scriptyprefej.store
-127.0.0.1	navygenerayk.store
-127.0.0.1	fadehairucw.store
-127.0.0.1	crisiwarny.store
-127.0.0.1	presticitpo.store
-127.0.0.1	messejawu.store
-127.0.0.1	takes-sbjct.gl.at.ply.gg
-# Number of entries: 64179
+# Number of entries: 64144
