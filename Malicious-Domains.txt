@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-28 10:28:52 UTC                        #
+# Last updated: 2025-04-28 11:14:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	jimriehls.com
+127.0.0.1	doreblue.com
 127.0.0.1	milerdrew.cc
 127.0.0.1	solidwork.pro
 127.0.0.1	asperod.tech
@@ -64150,4 +64152,4 @@
 127.0.0.1	bot.hiv.icu
 127.0.0.1	hiv.icu
 127.0.0.1	egetfile.top
-# Number of entries: 64144
+# Number of entries: 64146
