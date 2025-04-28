@@ -1,11 +1,35 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-28 11:14:25 UTC                        #
+# Last updated: 2025-04-28 19:40:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	kamru.su
+127.0.0.1	ukrainianhorseriding.kamru.su
+127.0.0.1	u1.paralegalchemicals.run
+127.0.0.1	aplhadrink.org
+127.0.0.1	lwhkr.press
+127.0.0.1	fwwls.press
+127.0.0.1	ringtoday.info
+127.0.0.1	kingrouder.tech
+127.0.0.1	3a.4t.com
+127.0.0.1	71.3a.4t.com
+127.0.0.1	cgplk.press
+127.0.0.1	titanumsheld.com
+127.0.0.1	wavob.top
+127.0.0.1	2rivercsg.com
+127.0.0.1	ms2.rybos.fun
+127.0.0.1	vuram.press
+127.0.0.1	magiklink.info
+127.0.0.1	julerise.com
+127.0.0.1	cpanel.paulmaguire.com
+127.0.0.1	xelesex.top
+127.0.0.1	www.eurobrandsindia.com
+127.0.0.1	folew.press
+127.0.0.1	lammysecurity.com
+127.0.0.1	quzem.press
 127.0.0.1	jimriehls.com
 127.0.0.1	doreblue.com
 127.0.0.1	milerdrew.cc
@@ -118,7 +142,6 @@
 127.0.0.1	jadhaoagroinds.com
 127.0.0.1	rdixit.github.io
 127.0.0.1	chromeinstall.xyz
-127.0.0.1	lookyloo.circl.lu
 127.0.0.1	todocarritos.top
 127.0.0.1	haidao10.top
 127.0.0.1	erectilehelp.top
@@ -64149,7 +64172,4 @@
 127.0.0.1	fiveji5vs.top
 127.0.0.1	85.171.46.34.bc.googleusercontent.com
 127.0.0.1	wonderful-wilson.93-177-102-47.plesk.page
-127.0.0.1	bot.hiv.icu
-127.0.0.1	hiv.icu
-127.0.0.1	egetfile.top
-# Number of entries: 64146
+# Number of entries: 64166
