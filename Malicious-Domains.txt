@@ -1,11 +1,65 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-29 00:01:56 UTC                        #
+# Last updated: 2025-04-29 08:02:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	antoanthongtin.site
+127.0.0.1	zealous-cohen.196-251-73-47.plesk.page
+127.0.0.1	xn--bz-hep-p9af.shop
+127.0.0.1	beautiful-faraday.94-156-177-241.plesk.page
+127.0.0.1	vecturar.top
+127.0.0.1	gorillao.digital
+127.0.0.1	quonecony.live
+127.0.0.1	rusconfi.run
+127.0.0.1	techwaveg.run
+127.0.0.1	hungreecoq.run
+127.0.0.1	bardcauft.run
+127.0.0.1	lemurz.digital
+127.0.0.1	surmisehotte.click
+127.0.0.1	intelhube.live
+127.0.0.1	62.3a.4t.com
+127.0.0.1	clients.contology.com
+127.0.0.1	smart-american.com
+127.0.0.1	viridisw.top
+127.0.0.1	archives-yn.gl.at.ply.gg
+127.0.0.1	moving-aims.gl.at.ply.gg
+127.0.0.1	property-send.gl.at.ply.gg
+127.0.0.1	senior-bottles.gl.at.ply.gg
+127.0.0.1	5502-3.duckdns.org
+127.0.0.1	klm21.zapto.org
+127.0.0.1	pureee.ydns.eu
+127.0.0.1	wudthost.duckdns.org
+127.0.0.1	pangacnc.com
+127.0.0.1	js.kzlyxu.cn
+127.0.0.1	bypasspayload69.zapto.org
+127.0.0.1	kazze1010-29924.portmap.io
+127.0.0.1	deadpoolstart2051.duckdns.org
+127.0.0.1	district-cells.gl.at.ply.gg
+127.0.0.1	rnmlz-95-88-102-149.a.free.pinggy.link
+127.0.0.1	rnxck-95-88-102-149.a.free.pinggy.link
+127.0.0.1	dmlfq.press
+127.0.0.1	fervent-curran.45-77-153-108.plesk.page
+127.0.0.1	clfront-eu832.com
+127.0.0.1	lucticiq.run
+127.0.0.1	porcupineq.digital
+127.0.0.1	blacksmithz.run
+127.0.0.1	paraperw.live
+127.0.0.1	axistechw.live
+127.0.0.1	quag.cn
+127.0.0.1	yoloff.pages.dev
+127.0.0.1	nasalcloud.com
+127.0.0.1	ppssl.press
+127.0.0.1	ace-project.org
+127.0.0.1	medievailfea.run
+127.0.0.1	h1.startingshabby.world
+127.0.0.1	wrltc.press
+127.0.0.1	qrczb.press
+127.0.0.1	pigshow.digital
+127.0.0.1	relmake.pages.dev
+127.0.0.1	security-2u6g-log.com
 127.0.0.1	qq.rqelo.live
 127.0.0.1	1618meritking.com
 127.0.0.1	kamru.su
@@ -64144,32 +64198,4 @@
 127.0.0.1	hdlclub2.cc
 127.0.0.1	hessetechnology.com
 127.0.0.1	companymartec.com
-127.0.0.1	cdn251.lol
-127.0.0.1	7zip10-2024.life
-127.0.0.1	7zip10-2024.live
-127.0.0.1	7zip2024.one
-127.0.0.1	7zip10-2024.top
-127.0.0.1	meetgo2024.life
-127.0.0.1	samtes.top
-127.0.0.1	ghcopz.shop
-127.0.0.1	prepare2swim.com
-127.0.0.1	range.cccinvolve.org
-127.0.0.1	st.search-st1.com
-127.0.0.1	search-dl3.com
-127.0.0.1	mail.spainparkvillas.com
-127.0.0.1	zxload1.com
-127.0.0.1	net-2-45-248-149.cust.vodafonedsl.it
-127.0.0.1	hornylught.cyou
-127.0.0.1	twoji2vs.top
-127.0.0.1	eightji8vs.top
-127.0.0.1	sivjo6vt.top
-127.0.0.1	oneji1vs.top
-127.0.0.1	sixtj16vs.top
-127.0.0.1	sivji6vs.top
-127.0.0.1	threjk3vs.top
-127.0.0.1	fiftji15vs.top
-127.0.0.1	eightjo8vt.top
-127.0.0.1	thirtjo13vt.top
-127.0.0.1	tweljo12vt.top
-127.0.0.1	fiveji5vs.top
-# Number of entries: 64166
+# Number of entries: 64192
