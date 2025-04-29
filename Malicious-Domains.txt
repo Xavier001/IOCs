@@ -1,11 +1,31 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-29 12:01:59 UTC                        #
+# Last updated: 2025-04-29 18:16:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sofyf.press
+127.0.0.1	taciq.press
+127.0.0.1	tsoi-zhiv.com
+127.0.0.1	zynof.press
+127.0.0.1	66.44.4t.com
+127.0.0.1	khhlman.top
+127.0.0.1	alapige.com
+127.0.0.1	dashnex.plexusmarket.fund
+127.0.0.1	runolfsdotoir.top
+127.0.0.1	amxdh1.icu
+127.0.0.1	carodine.net
+127.0.0.1	www.retiremepaul.com
+127.0.0.1	108zhao.shop
+127.0.0.1	datawavej.digital
+127.0.0.1	datamanipy.run
+127.0.0.1	corexlaib.top
+127.0.0.1	techchaiun.live
+127.0.0.1	srndp.press
+127.0.0.1	organicflowers.site
+127.0.0.1	marinescoatsnow.click
 127.0.0.1	attt.shop
 127.0.0.1	swordandsr.digital
 127.0.0.1	botflowe.digital
@@ -64219,11 +64239,4 @@
 127.0.0.1	rottot.shop
 127.0.0.1	hopitaldewigle.com
 127.0.0.1	runwayml.mandarin-ca.com
-127.0.0.1	manuelmorenomanuel1234.duckdns.org
-127.0.0.1	manuelmorenomanuel123.duckdns.org
-127.0.0.1	peinadorafael779.duckdns.org
-127.0.0.1	cosdfdfrefdch.best
-127.0.0.1	hdlclub2.cc
-127.0.0.1	hessetechnology.com
-127.0.0.1	companymartec.com
-# Number of entries: 64220
+# Number of entries: 64233
