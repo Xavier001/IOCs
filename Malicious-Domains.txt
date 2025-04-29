@@ -1,11 +1,39 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-29 08:02:23 UTC                        #
+# Last updated: 2025-04-29 12:01:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	attt.shop
+127.0.0.1	swordandsr.digital
+127.0.0.1	botflowe.digital
+127.0.0.1	medievaltao.digital
+127.0.0.1	aquilaew.digital
+127.0.0.1	battloeaxes.digital
+127.0.0.1	enchanyo.digital
+127.0.0.1	wizardrry.digital
+127.0.0.1	romulusy.digital
+127.0.0.1	fairytas.digital
+127.0.0.1	castuwalls.digital
+127.0.0.1	mealair.digital
+127.0.0.1	equitesq.digital
+127.0.0.1	questforhoq.digital
+127.0.0.1	caligust.digital
+127.0.0.1	legenudso.digital
+127.0.0.1	smartasxlgorithm.shop
+127.0.0.1	gladiisr.digital
+127.0.0.1	wiyzardin.digital
+127.0.0.1	obeliske.digital
+127.0.0.1	realtorpichardo.com
+127.0.0.1	gotoselfmade.pro
+127.0.0.1	ctpzd.press
+127.0.0.1	parismeteells.net
+127.0.0.1	u1.paralegalchemicals.run
+127.0.0.1	kqwrv.press
+127.0.0.1	easyboty.digital
+127.0.0.1	eaglekl.digital
 127.0.0.1	antoanthongtin.site
 127.0.0.1	zealous-cohen.196-251-73-47.plesk.page
 127.0.0.1	xn--bz-hep-p9af.shop
@@ -64198,4 +64226,4 @@
 127.0.0.1	hdlclub2.cc
 127.0.0.1	hessetechnology.com
 127.0.0.1	companymartec.com
-# Number of entries: 64192
+# Number of entries: 64220
