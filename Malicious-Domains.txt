@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-28 19:40:21 UTC                        #
+# Last updated: 2025-04-29 00:01:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	qq.rqelo.live
+127.0.0.1	1618meritking.com
 127.0.0.1	kamru.su
 127.0.0.1	ukrainianhorseriding.kamru.su
 127.0.0.1	u1.paralegalchemicals.run
@@ -64170,6 +64172,4 @@
 127.0.0.1	thirtjo13vt.top
 127.0.0.1	tweljo12vt.top
 127.0.0.1	fiveji5vs.top
-127.0.0.1	85.171.46.34.bc.googleusercontent.com
-127.0.0.1	wonderful-wilson.93-177-102-47.plesk.page
 # Number of entries: 64166
