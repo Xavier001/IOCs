@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-29 18:16:05 UTC                        #
+# Last updated: 2025-04-30 04:02:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nkdnopfdabcj.izipy.com
+127.0.0.1	muv&om&.&pres&s
+127.0.0.1	muvom&.&p&r&ess
+127.0.0.1	&w&a&kor.pr&ess
+127.0.0.1	static.wps-cdn.com
 127.0.0.1	sofyf.press
 127.0.0.1	taciq.press
 127.0.0.1	tsoi-zhiv.com
@@ -64237,6 +64242,4 @@
 127.0.0.1	neinjo9vt.top
 127.0.0.1	tenjo10vt.top
 127.0.0.1	rottot.shop
-127.0.0.1	hopitaldewigle.com
-127.0.0.1	runwayml.mandarin-ca.com
-# Number of entries: 64233
+# Number of entries: 64236
