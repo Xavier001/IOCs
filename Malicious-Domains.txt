@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-30 09:33:25 UTC                        #
+# Last updated: 2025-04-30 12:02:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	quizzical-golick.94-156-177-241.plesk.page
+127.0.0.1	zivad.press
 127.0.0.1	u1.spiritismprotozoan.bet
 127.0.0.1	vytoz.press
 127.0.0.1	cleaner-consideration-thoroughly-personally.trycloudflare.com
@@ -64259,5 +64261,4 @@
 127.0.0.1	loopconstruct.com
 127.0.0.1	fetchdataajax.com
 127.0.0.1	objmapper.com
-127.0.0.1	variablescopetool.com
-# Number of entries: 64254
+# Number of entries: 64255
