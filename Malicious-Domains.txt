@@ -1,15 +1,37 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-30 04:02:36 UTC                        #
+# Last updated: 2025-04-30 09:33:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	u1.spiritismprotozoan.bet
+127.0.0.1	vytoz.press
+127.0.0.1	cleaner-consideration-thoroughly-personally.trycloudflare.com
+127.0.0.1	tuboos.pages.dev
+127.0.0.1	yuun.pages.dev
+127.0.0.1	jumstor.cloud
+127.0.0.1	victoreqs.run
+127.0.0.1	brandihx.run
+127.0.0.1	jezyq.press
+127.0.0.1	muvom.press
+127.0.0.1	lyqej.press
+127.0.0.1	wakor.press
+127.0.0.1	moriartybirds.click
+127.0.0.1	niaolas.top
+127.0.0.1	leeling.top
+127.0.0.1	wlandersmountain.click
+127.0.0.1	netscoute.digital
+127.0.0.1	hywod.press
+127.0.0.1	h1.exceptionicon.top
+127.0.0.1	greenhoet.top
+127.0.0.1	nodepathr.run
+127.0.0.1	crrtwright.top
+127.0.0.1	min-js-lib.pages.dev
+127.0.0.1	mentor.omgwowhq.org
+127.0.0.1	mypah.press
 127.0.0.1	nkdnopfdabcj.izipy.com
-127.0.0.1	muv&om&.&pres&s
-127.0.0.1	muvom&.&p&r&ess
-127.0.0.1	&w&a&kor.pr&ess
 127.0.0.1	static.wps-cdn.com
 127.0.0.1	sofyf.press
 127.0.0.1	taciq.press
@@ -64238,8 +64260,4 @@
 127.0.0.1	fetchdataajax.com
 127.0.0.1	objmapper.com
 127.0.0.1	variablescopetool.com
-127.0.0.1	hneinjo9vt.top
-127.0.0.1	neinjo9vt.top
-127.0.0.1	tenjo10vt.top
-127.0.0.1	rottot.shop
-# Number of entries: 64236
+# Number of entries: 64254
