@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-04-30 20:54:50 UTC                        #
+# Last updated: 2025-05-01 02:53:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	accesserdsc.com
+127.0.0.1	pumacapitalinvestments.uksouth.cloudapp.azure.com
 127.0.0.1	ns2.dmakk.cn
 127.0.0.1	ns1.dmakk.cn
 127.0.0.1	u1.barbellblurry.today
@@ -64289,39 +64291,4 @@
 127.0.0.1	vinsaca.com
 127.0.0.1	server.dico-inside.com
 127.0.0.1	sevjoi17sr.top
-127.0.0.1	monycam.freeddns.org
-127.0.0.1	tenjo10ht.top
-127.0.0.1	sivjo6ht.top
-127.0.0.1	tenjo10sr.top
-127.0.0.1	elejoi11vt.top
-127.0.0.1	fiftjp15vt.top
-127.0.0.1	thirtjo13vs.top
-127.0.0.1	forjo14sr.top
-127.0.0.1	sevjoi17vt.top
-127.0.0.1	sixjo16sr.top
-127.0.0.1	ninjo19vt.top
-127.0.0.1	sixjo16vt.top
-127.0.0.1	eightjo18vt.top
-127.0.0.1	eightjo18sr.top
-127.0.0.1	fiftjp15sr.top
-127.0.0.1	forjo14vt.top
-127.0.0.1	tweljo12sr.top
-127.0.0.1	tventjo20sr.top
-127.0.0.1	becreativemind.com
-127.0.0.1	sivjo6sr.top
-127.0.0.1	eightjo8sr.top
-127.0.0.1	twojo2vt.top
-127.0.0.1	threjo3vt.top
-127.0.0.1	fivejo5vt.top
-127.0.0.1	onejo1vt.top
-127.0.0.1	tventjo20vt.top
-127.0.0.1	xxmodkiufnsw.shop
-127.0.0.1	lifeyomi.com
-127.0.0.1	doladowanie.app-tools.info
-127.0.0.1	sost.duckdns.org
-127.0.0.1	parapetos1.duckdns.org
-127.0.0.1	smldatacenter.com
-127.0.0.1	redcap.work
-127.0.0.1	utku.vps.webdock.cloud
-127.0.0.1	api.xxdync.com
-# Number of entries: 64318
+# Number of entries: 64285
