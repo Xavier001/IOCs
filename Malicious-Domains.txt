@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-01 08:22:15 UTC                        #
+# Last updated: 2025-05-01 12:24:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	xelop.press
+127.0.0.1	coxyz.press
+127.0.0.1	frendlymachened.top
+127.0.0.1	xelop.press
+127.0.0.1	holyseypju.run
+127.0.0.1	himselcaked.digital
 127.0.0.1	browngreencolors.top
 127.0.0.1	securealisveris.com
 127.0.0.1	pepjm.press
@@ -64311,4 +64317,4 @@
 127.0.0.1	tventjo20ht.top
 127.0.0.1	vinsaca.com
 127.0.0.1	server.dico-inside.com
-# Number of entries: 64305
+# Number of entries: 64311
