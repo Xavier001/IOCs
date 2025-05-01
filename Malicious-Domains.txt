@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-01 12:24:13 UTC                        #
+# Last updated: 2025-05-01 17:16:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	campsitegradually.ru
+127.0.0.1	23-227-199-118.static.hvvc.us
+127.0.0.1	dogalmedical.org
+127.0.0.1	progress.moneymatrixonline.com
+127.0.0.1	cubuj.press
+127.0.0.1	api.cloudphoto.online
+127.0.0.1	divoc.press
 127.0.0.1	xelop.press
 127.0.0.1	coxyz.press
 127.0.0.1	frendlymachened.top
@@ -64299,22 +64306,4 @@
 127.0.0.1	mundiprep.com
 127.0.0.1	mx5.deitie.asia
 127.0.0.1	loader.ssag00v-0ffical.com
-127.0.0.1	v.pasred.top
-127.0.0.1	tavukdun.website
-127.0.0.1	dailyfragrancedeals.com
-127.0.0.1	whastspp.com
-127.0.0.1	sippytryedkwn.shop
-127.0.0.1	villagedguy.cyou
-127.0.0.1	cowod.hopto.org
-127.0.0.1	educationnpell.shop
-127.0.0.1	lossycristi.cyou
-127.0.0.1	opposezmny.site
-127.0.0.1	perfomnjshin.cyou
-127.0.0.1	reallymenyb.cyou
-127.0.0.1	catkinlows.info
-127.0.0.1	eightjp8ht.top
-127.0.0.1	threjo3ht.top
-127.0.0.1	tventjo20ht.top
-127.0.0.1	vinsaca.com
-127.0.0.1	server.dico-inside.com
-# Number of entries: 64311
+# Number of entries: 64300
