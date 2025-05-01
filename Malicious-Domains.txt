@@ -1,11 +1,32 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-01 02:53:24 UTC                        #
+# Last updated: 2025-05-01 08:22:15 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	browngreencolors.top
+127.0.0.1	securealisveris.com
+127.0.0.1	pepjm.press
+127.0.0.1	mebwg.press
+127.0.0.1	zifnk.press
+127.0.0.1	beksr.press
+127.0.0.1	www.gerhtr.live
+127.0.0.1	rt.threat.city
+127.0.0.1	fodxj.press
+127.0.0.1	xeqnm.press
+127.0.0.1	app.bytevista.cloud
+127.0.0.1	app2.bytevista.cloud
+127.0.0.1	alpaca-flnance.com
+127.0.0.1	app.alpacaflnance.xyz
+127.0.0.1	ratatui.today
+127.0.0.1	napgh.press
+127.0.0.1	tighn.press
+127.0.0.1	z1z.pages.dev
+127.0.0.1	necscar.pro
+127.0.0.1	wykvn.press
+127.0.0.1	ho8.pages.de
 127.0.0.1	accesserdsc.com
 127.0.0.1	pumacapitalinvestments.uksouth.cloudapp.azure.com
 127.0.0.1	ns2.dmakk.cn
@@ -64290,5 +64311,4 @@
 127.0.0.1	tventjo20ht.top
 127.0.0.1	vinsaca.com
 127.0.0.1	server.dico-inside.com
-127.0.0.1	sevjoi17sr.top
-# Number of entries: 64285
+# Number of entries: 64305
