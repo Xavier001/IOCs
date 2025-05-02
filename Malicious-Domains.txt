@@ -1,11 +1,26 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-02 00:02:20 UTC                        #
+# Last updated: 2025-05-02 08:57:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	orjinalecza.net
+127.0.0.1	eczakozmetik.net
+127.0.0.1	orijinalecza.org
+127.0.0.1	eczamedikal.org
+127.0.0.1	medicalbitkisel.net
+127.0.0.1	unifi.ekefi.com
+127.0.0.1	stat.bluetroniq.vip
+127.0.0.1	raw.intenseproxy.zip
+127.0.0.1	tnop.pages.dev
+127.0.0.1	salorttactical.top
+127.0.0.1	septembergoodwine.top
+127.0.0.1	mesip.press
+127.0.0.1	triremeo.digital
+127.0.0.1	kasicamondan.mentality.cloud
+127.0.0.1	categories-survivors.gl.at.ply.gg
 127.0.0.1	ij.jioksdf.art
 127.0.0.1	campsitegradually.ru
 127.0.0.1	23-227-199-118.static.hvvc.us
@@ -64301,8 +64316,4 @@
 127.0.0.1	onejo1ht.top
 127.0.0.1	sevjoi17ht.top
 127.0.0.1	sixjo16ht.top
-127.0.0.1	releases.gotraffic.fr
-127.0.0.1	www.izoa.netsons.org
-127.0.0.1	orchestratb.cyou
-127.0.0.1	mundiprep.com
-# Number of entries: 64299
+# Number of entries: 64310
