@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-02 08:57:51 UTC                        #
+# Last updated: 2025-05-02 12:02:08 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	82-147-85-160.networktube.net
+127.0.0.1	otototototoqqlfk.com
+127.0.0.1	dasopdoaodoaoaoao.com
 127.0.0.1	orjinalecza.net
 127.0.0.1	eczakozmetik.net
 127.0.0.1	orijinalecza.org
@@ -64306,14 +64309,4 @@
 127.0.0.1	onejo1vs.top
 127.0.0.1	eightjp8vs.top
 127.0.0.1	tcfor4pn.top
-127.0.0.1	eightjo18ht.top
-127.0.0.1	fivejp5ht.top
-127.0.0.1	neinjp9ht.top
-127.0.0.1	sivjp6ht.top
-127.0.0.1	tenjp10ht.top
-127.0.0.1	twojo2ht.top
-127.0.0.1	ninjo19ht.top
-127.0.0.1	onejo1ht.top
-127.0.0.1	sevjoi17ht.top
-127.0.0.1	sixjo16ht.top
-# Number of entries: 64310
+# Number of entries: 64303
