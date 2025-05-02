@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-01 17:16:04 UTC                        #
+# Last updated: 2025-05-02 00:02:20 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ij.jioksdf.art
 127.0.0.1	campsitegradually.ru
 127.0.0.1	23-227-199-118.static.hvvc.us
 127.0.0.1	dogalmedical.org
@@ -64304,6 +64305,4 @@
 127.0.0.1	www.izoa.netsons.org
 127.0.0.1	orchestratb.cyou
 127.0.0.1	mundiprep.com
-127.0.0.1	mx5.deitie.asia
-127.0.0.1	loader.ssag00v-0ffical.com
-# Number of entries: 64300
+# Number of entries: 64299
