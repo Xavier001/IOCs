@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-03 02:53:58 UTC                        #
+# Last updated: 2025-05-03 08:02:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	xqrs69.scwill.my.id
+127.0.0.1	ec2-54-208-187-156.compute-1.amazonaws.com
+127.0.0.1	50-116-22-186.ip.linodeusercontent.com
+127.0.0.1	cnc.vietdediserver.shop
+127.0.0.1	ecs-124-71-139-126.compute.hwclouds-dns.com
+127.0.0.1	formydab.run
+127.0.0.1	c29e033b-f060-412e-87c6-c2320be33a8d-8888.tenants.hivecompute.ai
+127.0.0.1	139-216-164-122.sta.dodo.net.au
+127.0.0.1	cromatsfewbears.top
 127.0.0.1	zhansankun.top
 127.0.0.1	www.shopappnew.sbs
 127.0.0.1	update.microsofts.club
@@ -64352,12 +64361,4 @@
 127.0.0.1	tme-grams.top
 127.0.0.1	um0re.xyz
 127.0.0.1	mirailover.ddns.net
-127.0.0.1	tweljo12vs.top
-127.0.0.1	test.alcokz.net
-127.0.0.1	vmi2233876.contaboserver.net
-127.0.0.1	server.myway-ing.win
-127.0.0.1	urban-trek.shop
-127.0.0.1	cdn-defac13.techresource.shop
-127.0.0.1	cnc.ghtyuio.online
-127.0.0.1	joymagnutwy.cyou
-# Number of entries: 64354
+# Number of entries: 64355
