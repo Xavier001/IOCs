@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-02 20:54:28 UTC                        #
+# Last updated: 2025-05-03 02:53:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	zhansankun.top
+127.0.0.1	www.shopappnew.sbs
+127.0.0.1	update.microsofts.club
+127.0.0.1	437t8126e9.qicp.vip
 127.0.0.1	update.microsoft.club
 127.0.0.1	tortoisgfe.top
 127.0.0.1	snakejh.top
@@ -64356,6 +64360,4 @@
 127.0.0.1	cdn-defac13.techresource.shop
 127.0.0.1	cnc.ghtyuio.online
 127.0.0.1	joymagnutwy.cyou
-127.0.0.1	tweljo12ht.top
-127.0.0.1	onejo1vs.top
-# Number of entries: 64352
+# Number of entries: 64354
