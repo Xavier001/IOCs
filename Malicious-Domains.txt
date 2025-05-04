@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-03 13:57:28 UTC                        #
+# Last updated: 2025-05-04 00:02:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	coms-gs.com
+127.0.0.1	bmjpaperpqck.com
 127.0.0.1	wfyzizcy.eza
 127.0.0.1	tbczyczdp.eza
 127.0.0.1	hzwgpctypld.eza
@@ -64387,4 +64389,4 @@
 127.0.0.1	21oct.duckdns.org
 127.0.0.1	sostregd.duckdns.org
 127.0.0.1	mercro.com
-# Number of entries: 64381
+# Number of entries: 64383
