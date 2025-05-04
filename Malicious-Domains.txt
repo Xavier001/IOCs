@@ -1,11 +1,37 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-04 00:02:17 UTC                        #
+# Last updated: 2025-05-04 08:00:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	blinkory.shop
+127.0.0.1	gmug.uncofig.com
+127.0.0.1	kiwibobby-55937.portmap.io
+127.0.0.1	mcjacademy.cyou
+127.0.0.1	salesmanpaypals-52908.portmap.io
+127.0.0.1	three-comparative.gl.at.ply.gg
+127.0.0.1	direct-conventional.gl.at.ply.gg
+127.0.0.1	foundation-appropriate.gl.at.ply.gg
+127.0.0.1	gotoaa.sytes.net
+127.0.0.1	veltyzo.shop
+127.0.0.1	dgtseso-sedes.cfd
+127.0.0.1	elcctrum.cc
+127.0.0.1	desablums.com
+127.0.0.1	tcangcm.com
+127.0.0.1	trusltwcllct.com
+127.0.0.1	coiincmi.com
+127.0.0.1	0maill.com
+127.0.0.1	us-ledger.io
+127.0.0.1	theuni-swap.com
+127.0.0.1	webexone.org
+127.0.0.1	raw.foxthreatnointel.vip
+127.0.0.1	accountfun.digital
+127.0.0.1	homelecyfi.digital
+127.0.0.1	gobacknihq.digital
+127.0.0.1	suiadris.digital
+127.0.0.1	caverimared.digital
 127.0.0.1	coms-gs.com
 127.0.0.1	bmjpaperpqck.com
 127.0.0.1	wfyzizcy.eza
@@ -64378,15 +64404,4 @@
 127.0.0.1	a1047148.xsph.ru
 127.0.0.1	reebokfm.beget.tech
 127.0.0.1	cs40967.tw1.ru
-127.0.0.1	tougn.website
-127.0.0.1	fdute32sdajfsda.hopto.org
-127.0.0.1	api-flowerc2.online
-127.0.0.1	onyxvpn.co
-127.0.0.1	rxqtuest.top
-127.0.0.1	ip241.ip-51-81-135.us
-127.0.0.1	ip240.ip-51-81-135.us
-127.0.0.1	strategies.mvpstrat.com
-127.0.0.1	21oct.duckdns.org
-127.0.0.1	sostregd.duckdns.org
-127.0.0.1	mercro.com
-# Number of entries: 64383
+# Number of entries: 64398
