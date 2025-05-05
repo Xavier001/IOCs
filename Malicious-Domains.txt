@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-04 18:42:23 UTC                        #
+# Last updated: 2025-05-05 00:01:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mersh.co
+127.0.0.1	urbanbloo.shop
+127.0.0.1	novacrat.shop
 127.0.0.1	dimmergauntlet.ru
 127.0.0.1	web.raihelp.top
 127.0.0.1	tybhelp.top
@@ -64325,7 +64328,4 @@
 127.0.0.1	f0992583.xsph.ru
 127.0.0.1	cdngetmyname.biz
 127.0.0.1	letmespellmoons.com
-127.0.0.1	ip67-217-244-177.pbiaas.com
-127.0.0.1	yalemensi.com
-127.0.0.1	tzone1vs.top
 # Number of entries: 64322
