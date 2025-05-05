@@ -1,11 +1,35 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-05 12:00:58 UTC                        #
+# Last updated: 2025-05-05 17:19:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	maxiv.press
+127.0.0.1	nenyz.press
+127.0.0.1	homeeick.com
+127.0.0.1	doneloby-42986.portmap.io
+127.0.0.1	unlimited.servebeer.com
+127.0.0.1	vaviq.press
+127.0.0.1	eomaguera.com
+127.0.0.1	zesuz.press
+127.0.0.1	wilwinson.com
+127.0.0.1	adspixle.com
+127.0.0.1	jamaz.press
+127.0.0.1	pekob.press
+127.0.0.1	wuxoq.press
+127.0.0.1	lsacare.help
+127.0.0.1	lalaq.press
+127.0.0.1	powlopski.com
+127.0.0.1	poelpin.com
+127.0.0.1	order.meetandeatsac.com
+127.0.0.1	mcrsftuptade.pro
+127.0.0.1	wubod.press
+127.0.0.1	u1.dynamicrename.run
+127.0.0.1	666.20250503.xyz
+127.0.0.1	hezob.press
+127.0.0.1	u1.parasailkisser.today
 127.0.0.1	www.buyofferproduct.store
 127.0.0.1	bipyv.press
 127.0.0.1	kyfuf.press
@@ -64532,22 +64556,4 @@
 127.0.0.1	parduawarj.site
 127.0.0.1	80-253-246-234.cprapid.com
 127.0.0.1	sevjp17vt.top
-127.0.0.1	a1049238.xsph.ru
-127.0.0.1	fivjp5vt.top
-127.0.0.1	tweljp12vt.top
-127.0.0.1	newellada.com
-127.0.0.1	bestinformations.com
-127.0.0.1	congyiyl.net
-127.0.0.1	coridalelara.net
-127.0.0.1	folgengeronline.com
-127.0.0.1	moereng.com
-127.0.0.1	capitalsbank.com
-127.0.0.1	f1032430.xsph.ru
-127.0.0.1	pizdi2m7.beget.tech
-127.0.0.1	hsiwhfhdjwkkfncdn.lol
-127.0.0.1	ip197.ip-51-81-100.us
-127.0.0.1	izoa.netsons.org
-127.0.0.1	www.lootbot.su
-127.0.0.1	chat2cams.com
-127.0.0.1	a1049078.xsph.ru
-# Number of entries: 64544
+# Number of entries: 64550
