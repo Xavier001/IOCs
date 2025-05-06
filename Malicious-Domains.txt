@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-05 17:19:51 UTC                        #
+# Last updated: 2025-05-06 02:53:55 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wincertfm.store
+127.0.0.1	vpn.coupmgrki.org
 127.0.0.1	maxiv.press
 127.0.0.1	nenyz.press
 127.0.0.1	homeeick.com
@@ -64554,6 +64556,4 @@
 127.0.0.1	d.dovip.win
 127.0.0.1	7zlp2024.shop
 127.0.0.1	parduawarj.site
-127.0.0.1	80-253-246-234.cprapid.com
-127.0.0.1	sevjp17vt.top
 # Number of entries: 64550
