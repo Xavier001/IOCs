@@ -1,11 +1,39 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-06 11:11:50 UTC                        #
+# Last updated: 2025-05-06 18:11:15 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wyban.run
+127.0.0.1	demseladini.com
+127.0.0.1	woselamas.com
+127.0.0.1	news.zf-emea.com
+127.0.0.1	homemick.live
+127.0.0.1	okunevv.com
+127.0.0.1	cciincmi.com
+127.0.0.1	electrum-wcllet.com
+127.0.0.1	trust-wcllet.com
+127.0.0.1	alexricardoblog.com
+127.0.0.1	ncrdlpcss.com
+127.0.0.1	tangem-wcllet.com
+127.0.0.1	cloud-b2cx.com
+127.0.0.1	atticusblahblahblah.com
+127.0.0.1	bdagly.com
+127.0.0.1	trezor.network-w3.com
+127.0.0.1	grabyourbookhere.com
+127.0.0.1	returnboxesss.com
+127.0.0.1	vsmml.press
+127.0.0.1	mcmaster.giize.com
+127.0.0.1	skfwp.press
+127.0.0.1	pumatools.hu
+127.0.0.1	blzqq.press
+127.0.0.1	xfgvj.press
+127.0.0.1	email.gwlawgroupattorneys.com
+127.0.0.1	cecilioc2.xyz
+127.0.0.1	wvnqb.press
+127.0.0.1	qweznxplkudrmcvasjthoby.com
 127.0.0.1	serholders.pro
 127.0.0.1	statisticapp.asia
 127.0.0.1	wallsekker.store
@@ -64777,16 +64805,4 @@
 127.0.0.1	admin-panels.info
 127.0.0.1	cf97623.tw1.ru
 127.0.0.1	sixjp6sr.top
-127.0.0.1	daniibcy.beget.tech
-127.0.0.1	a1049588.xsph.ru
-127.0.0.1	mdm.adunas.cloud
-127.0.0.1	aye2mar280502016.ddns.net
-127.0.0.1	comidafood.con-ip.com
-127.0.0.1	a1049460.xsph.ru
-127.0.0.1	urgenlums.com
-127.0.0.1	ca26657.tw1.ru
-127.0.0.1	girlsgifs.com
-127.0.0.1	myodin.red
-127.0.0.1	pedrobyst.beget.tech
-127.0.0.1	onejp1vt.top
-# Number of entries: 64783
+# Number of entries: 64799
