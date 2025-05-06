@@ -1,11 +1,51 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-06 02:53:55 UTC                        #
+# Last updated: 2025-05-06 06:53:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nates.press
+127.0.0.1	majos.press
+127.0.0.1	pdfusdt.shop
+127.0.0.1	wejic.press
+127.0.0.1	ssacare.top
+127.0.0.1	kissfinger.xyz
+127.0.0.1	monkeyactor.icu
+127.0.0.1	geecare.help
+127.0.0.1	aureliae.run
+127.0.0.1	aeneasq.live
+127.0.0.1	drypingzyr.run
+127.0.0.1	starfiswh.live
+127.0.0.1	eur-norway.gl.at.ply.gg
+127.0.0.1	kirill121212-26976.portmap.host
+127.0.0.1	pinis13f-46039.portmap.host
+127.0.0.1	w-gtk.gl.at.ply.gg
+127.0.0.1	mrxmrxking459-35024.portmap.host
+127.0.0.1	caidume1368.ddns.net
+127.0.0.1	ali-ali88.no-ip.biz
+127.0.0.1	lover33.no-ip.biz
+127.0.0.1	newlinedesign.org
+127.0.0.1	angry-bird.cloud
+127.0.0.1	novexaa.shop
+127.0.0.1	zuvexaa.shop
+127.0.0.1	cajuc.press
+127.0.0.1	api.goretep.com
+127.0.0.1	ansy4abril.duckdns.org
+127.0.0.1	fehin.press
+127.0.0.1	vekat.press
+127.0.0.1	n51v.pages.dev
+127.0.0.1	lelah.press
+127.0.0.1	medikalbitkisel.net
+127.0.0.1	medicalbitkisel.org
+127.0.0.1	medikalbitkisel.org
+127.0.0.1	e.overallwobbly.ru
+127.0.0.1	lightsoi.pages.dev
+127.0.0.1	pusob.press
+127.0.0.1	security.yourclodd.com
+127.0.0.1	memsiug.com
+127.0.0.1	naqod.press
 127.0.0.1	wincertfm.store
 127.0.0.1	vpn.coupmgrki.org
 127.0.0.1	maxiv.press
@@ -64549,11 +64589,4 @@
 127.0.0.1	pedrobyst.beget.tech
 127.0.0.1	onejp1vt.top
 127.0.0.1	moviecentral-petparade.com
-127.0.0.1	tventjp20vt.top
-127.0.0.1	painttfel.fun
-127.0.0.1	votae.top
-127.0.0.1	dovip.win
-127.0.0.1	d.dovip.win
-127.0.0.1	7zlp2024.shop
-127.0.0.1	parduawarj.site
-# Number of entries: 64550
+# Number of entries: 64583
