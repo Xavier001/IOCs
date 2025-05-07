@@ -1,11 +1,38 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-07 04:01:06 UTC                        #
+# Last updated: 2025-05-07 10:18:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	serer.run
+127.0.0.1	tiffanyearringforwomen.top
+127.0.0.1	anncrman.com
+127.0.0.1	bulon.duckdns.org
+127.0.0.1	lited-mafia.ddns.net
+127.0.0.1	main.oooservers.kro.kr
+127.0.0.1	takibotnet.duckdns.org
+127.0.0.1	takidayne.duckdns.org
+127.0.0.1	eaonxeypl.localto.net
+127.0.0.1	0kydwb3k6.localto.net
+127.0.0.1	tipaq.run
+127.0.0.1	webis.run
+127.0.0.1	kycaj.run
+127.0.0.1	fadoj.run
+127.0.0.1	dvcloud.myddns.me
+127.0.0.1	ip-50-116-22-186.cloudezapp.io
+127.0.0.1	zogun.run
+127.0.0.1	cyruh.run
+127.0.0.1	gozog.run
+127.0.0.1	christianlouboutin2017.top
+127.0.0.1	qyhux.run
+127.0.0.1	nagyg.run
+127.0.0.1	nodeapiintegrate.com
+127.0.0.1	watchesbest.top
+127.0.0.1	lgsdesign.co.uk
+127.0.0.1	levciavia.top
+127.0.0.1	lysys.run
 127.0.0.1	mail.94-156-189-245.cprapid.com
 127.0.0.1	smusxath.socalmediazone.com
 127.0.0.1	emreizol.com
@@ -64802,6 +64829,4 @@
 127.0.0.1	acidevenstrisj.pw
 127.0.0.1	actgrievny.fun
 127.0.0.1	admplous.pw
-127.0.0.1	gospirt.top
-127.0.0.1	a1049646.xsph.ru
-# Number of entries: 64798
+# Number of entries: 64823
