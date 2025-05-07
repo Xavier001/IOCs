@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-06 18:11:15 UTC                        #
+# Last updated: 2025-05-07 04:01:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mail.94-156-189-245.cprapid.com
+127.0.0.1	smusxath.socalmediazone.com
+127.0.0.1	emreizol.com
 127.0.0.1	wyban.run
 127.0.0.1	demseladini.com
 127.0.0.1	woselamas.com
@@ -64801,8 +64804,4 @@
 127.0.0.1	admplous.pw
 127.0.0.1	gospirt.top
 127.0.0.1	a1049646.xsph.ru
-127.0.0.1	www.kskskhhw.ddns.info
-127.0.0.1	admin-panels.info
-127.0.0.1	cf97623.tw1.ru
-127.0.0.1	sixjp6sr.top
-# Number of entries: 64799
+# Number of entries: 64798
