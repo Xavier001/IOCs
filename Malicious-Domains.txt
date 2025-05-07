@@ -1,11 +1,52 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-07 11:32:55 UTC                        #
+# Last updated: 2025-05-07 20:01:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	myaccount.acc-cnter.site
+127.0.0.1	www.bestoffersfortoday.store
+127.0.0.1	jskxw.run
+127.0.0.1	qstfs.run
+127.0.0.1	jerseysus.top
+127.0.0.1	scf.com
+127.0.0.1	lmtdb.run
+127.0.0.1	insidegrah.run
+127.0.0.1	grizzlqzuk.live
+127.0.0.1	approach.ilovegaysex.su
+127.0.0.1	lane.ilovegaysex.su
+127.0.0.1	ministry.ilovegaysex.su
+127.0.0.1	first.pokerstarus.kro.kr
+127.0.0.1	geckoz.digital
+127.0.0.1	fypal.run
+127.0.0.1	horsebbv.run
+127.0.0.1	koalagf.run
+127.0.0.1	guppycv.live
+127.0.0.1	grizzlxy.run
+127.0.0.1	dingor.run
+127.0.0.1	antelopej.run
+127.0.0.1	flaminguo.run
+127.0.0.1	elephatnt.live
+127.0.0.1	giraffei.live
+127.0.0.1	twilightwiarp.digital
+127.0.0.1	norwecono.run
+127.0.0.1	kzgrowthq.live
+127.0.0.1	nigecoy.run
+127.0.0.1	mexicodarta.live
+127.0.0.1	nigerecuon.live
+127.0.0.1	maxpecoe.run
+127.0.0.1	oreconp.live
+127.0.0.1	cloudflare.eradigitalibl.com
+127.0.0.1	vovoh.run
+127.0.0.1	din.akurasiibl.com
+127.0.0.1	charity.cafedantorels.com
+127.0.0.1	xotap.run
+127.0.0.1	bisaj.run
+127.0.0.1	systimezone.center
+127.0.0.1	ms-healthcheck.ru
+127.0.0.1	quxap.run
 127.0.0.1	topax.run
 127.0.0.1	calub.run
 127.0.0.1	mugtrimol37.top
@@ -64564,10 +64605,4 @@
 127.0.0.1	onyxcb44xvqra35m3lp3z26kf2pxrlbn64nbzvyvzjyc3uykzrwcjdid.onion
 127.0.0.1	onyxcgfg4pjevvp5h34zvhaj45kbft3dg5r33j5vu3nyp7xic3vrzvad.onion
 127.0.0.1	sookshumlabs.com
-127.0.0.1	sixjp16vt.top
-127.0.0.1	eightjp8sr.top
-127.0.0.1	fivetjp15vt.top
-127.0.0.1	fivjp5sr.top
-127.0.0.1	ninjp19vt.top
-127.0.0.1	onejp1sr.top
-# Number of entries: 64564
+# Number of entries: 64599
