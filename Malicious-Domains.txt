@@ -64597,12 +64597,8 @@
 127.0.0.1	kbulot.com.br
 127.0.0.1	mail.944893debb9760702.temporary.link
 127.0.0.1	www.944893debb9760702.temporary.link
-127.0.0.1	lastofdr51.mywire.org
-127.0.0.1	nightmare15.strangled.net
-127.0.0.1	darkenssnight.ydns.eu
 127.0.0.1	helldown.org
 127.0.0.1	onyxcym4mjilrsptk5uo2dhesbwntuban55mvww2olk5ygqafhu3i3yd.onion
 127.0.0.1	onyxcb44xvqra35m3lp3z26kf2pxrlbn64nbzvyvzjyc3uykzrwcjdid.onion
 127.0.0.1	onyxcgfg4pjevvp5h34zvhaj45kbft3dg5r33j5vu3nyp7xic3vrzvad.onion
-127.0.0.1	sookshumlabs.com
-# Number of entries: 64599
+# Number of entries: 64595
