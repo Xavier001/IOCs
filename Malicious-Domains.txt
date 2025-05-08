@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-08 09:26:25 UTC                        #
+# Last updated: 2025-05-08 12:01:31 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wizardly-cannon.51-195-229-85.plesk.page
+127.0.0.1	setup.bestoffersfortoday.store
+127.0.0.1	37-72-168-146.static.hvvc.us
+127.0.0.1	snhnv.run
+127.0.0.1	noxajb.top
+127.0.0.1	voznessxyy.life
+127.0.0.1	clatteqrpq.digital
+127.0.0.1	ninepicchf.bet
+127.0.0.1	colliel.live
+127.0.0.1	fhtnt.run
+127.0.0.1	xtkdt.run
 127.0.0.1	nshpd.run
 127.0.0.1	npknn.run
 127.0.0.1	life.judyfay.com
@@ -64707,17 +64718,4 @@
 127.0.0.1	azureboot.com
 127.0.0.1	azureliveapps.com
 127.0.0.1	sremc.duckdns.org
-127.0.0.1	cleanrecentapp.monster
-127.0.0.1	fastgalaxyapps.monster
-127.0.0.1	getgalaxyapps.monster
-127.0.0.1	speedrecentapp.monster
-127.0.0.1	vipgalaxyapps.monster
-127.0.0.1	webgalaxyapps.monster
-127.0.0.1	storeappweb.com
-127.0.0.1	pulsera.tibiaguildtools.com
-127.0.0.1	www.mt2gm.org
-127.0.0.1	www.gstpainel.fun
-127.0.0.1	vmi2121811.contaboserver.net
-127.0.0.1	gstpainel.fun
-127.0.0.1	kbulot.com.br
-# Number of entries: 64714
+# Number of entries: 64712
