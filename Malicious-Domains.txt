@@ -1,11 +1,33 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-08 12:01:31 UTC                        #
+# Last updated: 2025-05-08 20:41:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	fsdlaowaa.top
+127.0.0.1	mskisdakw.top
+127.0.0.1	fecif.run
+127.0.0.1	fanpuy.com
+127.0.0.1	minak.run
+127.0.0.1	genow.run
+127.0.0.1	sohaeidacademy.com
+127.0.0.1	myspecialdot.com
+127.0.0.1	sihen.run
+127.0.0.1	jodob.run
+127.0.0.1	mehig.run
+127.0.0.1	appli-cff.com
+127.0.0.1	cagom.run
+127.0.0.1	daqev.run
+127.0.0.1	53d6c5e5e04f7e079df5d5d77bc259ea.us
+127.0.0.1	johnoton.live
+127.0.0.1	motocyclenews.top
+127.0.0.1	territoirespaysagistes.com
+127.0.0.1	ttxch.run
+127.0.0.1	www.thefertilemine.com
+127.0.0.1	mobile-cff.app
+127.0.0.1	mzrln.run
 127.0.0.1	wizardly-cannon.51-195-229-85.plesk.page
 127.0.0.1	setup.bestoffersfortoday.store
 127.0.0.1	37-72-168-146.static.hvvc.us
@@ -64662,60 +64684,4 @@
 127.0.0.1	doc.gmail.com.gyehddhrggdii323sdhnshiswh2udhqjwdhhfjcjeuejcj.zhblz.com
 127.0.0.1	117.54.129.180.unknown.m1.com.sg.prodejdilu.cz
 127.0.0.1	184.88.78.218.dial.xw.sh.dynamic.163data.com.cn.prodejdilu.cz
-127.0.0.1	americajobmail.site
-127.0.0.1	390698.ru
-127.0.0.1	49246.sx
-127.0.0.1	56204.sx
-127.0.0.1	70332.club
-127.0.0.1	836833.cc
-127.0.0.1	94783.club
-127.0.0.1	953388.cc
-127.0.0.1	963388.cc
-127.0.0.1	admin.tradingviewlll.com
-127.0.0.1	734439.com
-127.0.0.1	admin.tradingviewll.com
-127.0.0.1	tradingviewll.com
-127.0.0.1	tradingviewlll.com
-127.0.0.1	applyzxcksdia.shop
-127.0.0.1	arriveoxpzxo.shop
-127.0.0.1	barebrilliancedkoso.shop
-127.0.0.1	bindceasdiwozx.shop
-127.0.0.1	catchddkxozvp.shop
-127.0.0.1	conferencefreckewl.shop
-127.0.0.1	conformfucdioz.shop
-127.0.0.1	contemplateodszsv.shop
-127.0.0.1	considerrycurrentyws.shop
-127.0.0.1	declaredczxi.shop
-127.0.0.1	deprivedrinkyfaiir.shop
-127.0.0.1	detailbaconroollyws.shop
-127.0.0.1	falseaudiencekd.shop
-127.0.0.1	feighminoritsjda.shop
-127.0.0.1	flourhishdiscovrw.shop
-127.0.0.1	freezetdopzx.shop
-127.0.0.1	justifycanddidatewd.shop
-127.0.0.1	liabiliytshareodlkv.shop
-127.0.0.1	marathonbeedksow.shop
-127.0.0.1	messtimetabledkolvk.shop
-127.0.0.1	notoriousdcellkw.shop
-127.0.0.1	ohfantasyproclaiwlo.shop
-127.0.0.1	horsedwollfedrwos.shop
-127.0.0.1	landdumpycolorwskfw.shop
-127.0.0.1	parallelmercywksoffw.shop
-127.0.0.1	patternapplauderw.shop
-127.0.0.1	pleasurenarrowsdla.shop
-127.0.0.1	raiseboltskdlwpow.shop
-127.0.0.1	relaxtionflouwerwi.shop
-127.0.0.1	replacedoxcjzp.shop
-127.0.0.1	richardflorespoew.shop
-127.0.0.1	strwawrunnygjwu.shop
-127.0.0.1	tribepresentaitsi.shop
-127.0.0.1	varianntyfeecterd.shop
-127.0.0.1	understanndtytonyguw.shop
-127.0.0.1	councilofwizards.com
-127.0.0.1	storeroot.duckdns.org
-127.0.0.1	azure-dbupdate.cloud
-127.0.0.1	roamingslivedb.com
-127.0.0.1	azureboot.com
-127.0.0.1	azureliveapps.com
-127.0.0.1	sremc.duckdns.org
-# Number of entries: 64712
+# Number of entries: 64678
