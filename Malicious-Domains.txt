@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-08 20:41:43 UTC                        #
+# Last updated: 2025-05-08 22:55:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	olympusgo.com
 127.0.0.1	fsdlaowaa.top
 127.0.0.1	mskisdakw.top
 127.0.0.1	fecif.run
@@ -64682,6 +64683,4 @@
 127.0.0.1	docs.google.com.spreadsheets.d.1ip6eeakdebmwteh36vana4hu-glaeksstsht-boujdk.zhblz.com
 127.0.0.1	mail.zhblz.com
 127.0.0.1	doc.gmail.com.gyehddhrggdii323sdhnshiswh2udhqjwdhhfjcjeuejcj.zhblz.com
-127.0.0.1	117.54.129.180.unknown.m1.com.sg.prodejdilu.cz
-127.0.0.1	184.88.78.218.dial.xw.sh.dynamic.163data.com.cn.prodejdilu.cz
-# Number of entries: 64678
+# Number of entries: 64677
