@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-10 08:43:25 UTC                        #
+# Last updated: 2025-05-10 12:22:55 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hye87lws0.localto.net
+127.0.0.1	mctestnoip0403.ddns.net
+127.0.0.1	rep.realmensw.life
+127.0.0.1	sort.realmensw.icu
+127.0.0.1	tvq.realmensw.click
+127.0.0.1	huy1612-24727.portmap.io
+127.0.0.1	7sesh-58077.portmap.io
+127.0.0.1	nnmirai.duckdns.org
+127.0.0.1	takine.duckdns.org
+127.0.0.1	kujim.run
+127.0.0.1	zumil.run
+127.0.0.1	static.195.89.27.37.clients.your-server.de
+127.0.0.1	b95bca55387d2a9ba0d7.webredirect.org
 127.0.0.1	soreb.run
 127.0.0.1	aa.hostasa.org
 127.0.0.1	whois.checkokdomain.com
@@ -64637,6 +64650,4 @@
 127.0.0.1	twelja12sb.top
 127.0.0.1	ninja19sb.top
 127.0.0.1	healthprosystems.com
-127.0.0.1	adp-login.com
-127.0.0.1	adp-auth.com
-# Number of entries: 64633
+# Number of entries: 64644
