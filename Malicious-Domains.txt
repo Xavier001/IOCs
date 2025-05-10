@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-09 19:15:49 UTC                        #
+# Last updated: 2025-05-10 02:54:34 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	jasad.lol
+127.0.0.1	cc6w584kc0zsp.cfc-execute.bj.baidubce.com
+127.0.0.1	97e790ebyt425.cfc-execute.bj.baidubce.com
+127.0.0.1	xizaf.run
 127.0.0.1	wwwcioudflare.com
 127.0.0.1	wasar.run
 127.0.0.1	76561199845513035
@@ -64569,5 +64573,4 @@
 127.0.0.1	repostebhu.sbs
 127.0.0.1	tamedgeesy.sbs
 127.0.0.1	brownieyuz.sbs
-127.0.0.1	185-215-113-209.cprapid.com
-# Number of entries: 64564
+# Number of entries: 64567
