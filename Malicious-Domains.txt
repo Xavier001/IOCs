@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-10 12:22:55 UTC                        #
+# Last updated: 2025-05-10 14:04:20 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	photoreport.roamdetail.com
 127.0.0.1	hye87lws0.localto.net
 127.0.0.1	mctestnoip0403.ddns.net
 127.0.0.1	rep.realmensw.life
@@ -64632,22 +64633,4 @@
 127.0.0.1	gsttrust.org
 127.0.0.1	ol.d123f23f32.ip-ddns.com
 127.0.0.1	193.255.70.34.bc.googleusercontent.com
-127.0.0.1	mail.izoa.netsons.org
-127.0.0.1	vmi1669379.contaboserver.net
-127.0.0.1	wanderlust-gadgetnews.shop
-127.0.0.1	tech-tribune.online
-127.0.0.1	joinykeryzi.fun
-127.0.0.1	intentiongi.cyou
-127.0.0.1	omg.rekugg.pro
-127.0.0.1	elejpi11ht.top
-127.0.0.1	fvtest5pt.top
-127.0.0.1	tenja10sb.top
-127.0.0.1	eightja8sb.top
-127.0.0.1	fivjp5ht.top
-127.0.0.1	sixjp6ht.top
-127.0.0.1	i97889ae.beget.tech
-127.0.0.1	fvteja5sb.top
-127.0.0.1	twelja12sb.top
-127.0.0.1	ninja19sb.top
-127.0.0.1	healthprosystems.com
-# Number of entries: 64644
+# Number of entries: 64627
