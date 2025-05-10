@@ -1,18 +1,93 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-10 02:54:34 UTC                        #
+# Last updated: 2025-05-10 08:43:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	soreb.run
+127.0.0.1	aa.hostasa.org
+127.0.0.1	whois.checkokdomain.com
+127.0.0.1	winrar.monstervp.com
+127.0.0.1	wwwsyju.digital
+127.0.0.1	sumeriavgv.digital
+127.0.0.1	ingratgmit.digital
+127.0.0.1	aigjmr.digital
+127.0.0.1	joinfoulnz.digital
+127.0.0.1	tendolihyy.digital
+127.0.0.1	labradycau.digital
+127.0.0.1	jinglexhsg.digital
+127.0.0.1	villaggcag.digital
+127.0.0.1	famprid.digital
+127.0.0.1	flushelett.digital
+127.0.0.1	triphoy.digital
+127.0.0.1	parftv.digital
+127.0.0.1	genmxz.digital
+127.0.0.1	pitchbcmst.digital
+127.0.0.1	inflexcytv.digital
+127.0.0.1	sociolimtj.digital
+127.0.0.1	salivanmbm.digital
+127.0.0.1	familyclif.digital
+127.0.0.1	stylefnez.digital
+127.0.0.1	parrisrohy.digital
+127.0.0.1	getatasgop.digital
+127.0.0.1	excesskyke.digital
+127.0.0.1	supryov.digital
+127.0.0.1	apxtfy.digital
+127.0.0.1	conynbud.digital
+127.0.0.1	qpuppypla.shop
+127.0.0.1	chafjx.digital
+127.0.0.1	ranjwa.digital
+127.0.0.1	polifd.digital
+127.0.0.1	serldp.digital
+127.0.0.1	herosdecos.digital
+127.0.0.1	transmcvrs.digital
+127.0.0.1	achoerurdv.digital
+127.0.0.1	tossdelak.digital
+127.0.0.1	realiseglg.digital
+127.0.0.1	satynp.digital
+127.0.0.1	unlimirxam.digital
+127.0.0.1	missiodowt.digital
+127.0.0.1	bearseduic.digital
+127.0.0.1	guineayqfp.digital
+127.0.0.1	bringfznnn.digital
+127.0.0.1	groundtusl.digital
+127.0.0.1	ealdz.digital
+127.0.0.1	coloniqlhi.digital
+127.0.0.1	slashegqnp.digital
+127.0.0.1	mothprjyqw.digital
+127.0.0.1	metropoli.shop
+127.0.0.1	free-vpn.soffts.com
+127.0.0.1	www.quickload.cloud
+127.0.0.1	nvergerghtyh.ihatelv.com
+127.0.0.1	ecs-123-60-83-46.compute.hwclouds-dns.com
+127.0.0.1	flow.invstfund.io
+127.0.0.1	security.cliufgurad.com
+127.0.0.1	totyc.run
+127.0.0.1	memonzi.com
+127.0.0.1	h1.postedtipped.top
+127.0.0.1	taleweaiver.run
+127.0.0.1	valvulnsuq.run
+127.0.0.1	rundowrlgr.run
+127.0.0.1	daggerpewl.run
+127.0.0.1	h1.unlimitedblandness.bet
+127.0.0.1	campylloir.run
+127.0.0.1	mail.iaa-airferight.com
+127.0.0.1	mamiraoniv.xyz
+127.0.0.1	adingannk.xyz
+127.0.0.1	mail.chinaplasticsac.com
+127.0.0.1	fvlc.live
+127.0.0.1	ugive.live
+127.0.0.1	fyyl.live
+127.0.0.1	p.dpard.live
+127.0.0.1	hyvin.run
 127.0.0.1	jasad.lol
 127.0.0.1	cc6w584kc0zsp.cfc-execute.bj.baidubce.com
 127.0.0.1	97e790ebyt425.cfc-execute.bj.baidubce.com
 127.0.0.1	xizaf.run
 127.0.0.1	wwwcioudflare.com
 127.0.0.1	wasar.run
-127.0.0.1	76561199845513035
 127.0.0.1	a.hbweb.icu
 127.0.0.1	zuvul.run
 127.0.0.1	wwwc1oudflare.com
@@ -64564,13 +64639,4 @@
 127.0.0.1	healthprosystems.com
 127.0.0.1	adp-login.com
 127.0.0.1	adp-auth.com
-127.0.0.1	rottieud.sbs
-127.0.0.1	thinkyyokej.sbs
-127.0.0.1	slippyhost.cfd
-127.0.0.1	ducksringjk.sbs
-127.0.0.1	explainvees.sbs
-127.0.0.1	relalingj.sbs
-127.0.0.1	repostebhu.sbs
-127.0.0.1	tamedgeesy.sbs
-127.0.0.1	brownieyuz.sbs
-# Number of entries: 64567
+# Number of entries: 64633
