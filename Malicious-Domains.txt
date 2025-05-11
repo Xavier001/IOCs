@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-11 08:15:32 UTC                        #
+# Last updated: 2025-05-11 10:45:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ftp.fosna.net
+127.0.0.1	ftp.haliza.com.my
+127.0.0.1	ftp.hitplas.ro
 127.0.0.1	niggerkiller69.duckdns.org
 127.0.0.1	cov.ph4nt0m.fr
 127.0.0.1	irc.xinxin.cam
@@ -64629,29 +64632,4 @@
 127.0.0.1	brewtea.online
 127.0.0.1	vmi2189079.contaboserver.net
 127.0.0.1	ten10stats.top
-127.0.0.1	neinja9sb.top
-127.0.0.1	sixja6sb.top
-127.0.0.1	thirp13ht.top
-127.0.0.1	ten10sb.top
-127.0.0.1	onebt1ht.top
-127.0.0.1	sivbb6ht.top
-127.0.0.1	threbb3ht.top
-127.0.0.1	twobb2ht.top
-127.0.0.1	eightbb8sb.top
-127.0.0.1	sevji7vt.top
-127.0.0.1	f1037098.xsph.ru
-127.0.0.1	cd29847.tw1.ru
-127.0.0.1	a1050733.xsph.ru
-127.0.0.1	a1050793.xsph.ru
-127.0.0.1	a1050477.xsph.ru
-127.0.0.1	cz59288.tw1.ru
-127.0.0.1	qlauncher.ru
-127.0.0.1	a1008315.xsph.ru
-127.0.0.1	a1005850.xsph.ru
-127.0.0.1	a1045709.xsph.ru
-127.0.0.1	a1045278.xsph.ru
-127.0.0.1	a1047806.xsph.ru
-127.0.0.1	a1047912.xsph.ru
-127.0.0.1	eleja11sb.top
-127.0.0.1	sivbb6sb.top
-# Number of entries: 64648
+# Number of entries: 64626
