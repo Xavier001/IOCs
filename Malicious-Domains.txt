@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-10 14:04:20 UTC                        #
+# Last updated: 2025-05-11 00:01:31 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sliv.ph4nt0m.fr
 127.0.0.1	photoreport.roamdetail.com
 127.0.0.1	hye87lws0.localto.net
 127.0.0.1	mctestnoip0403.ddns.net
@@ -64629,8 +64630,4 @@
 127.0.0.1	eleja11sb.top
 127.0.0.1	sivbb6sb.top
 127.0.0.1	events.socalpocis.org
-127.0.0.1	46.200.psinetpa.net.prodejdilu.cz
-127.0.0.1	gsttrust.org
-127.0.0.1	ol.d123f23f32.ip-ddns.com
-127.0.0.1	193.255.70.34.bc.googleusercontent.com
-# Number of entries: 64627
+# Number of entries: 64624
