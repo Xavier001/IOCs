@@ -1,11 +1,30 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-11 10:45:29 UTC                        #
+# Last updated: 2025-05-11 19:39:15 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cv.cbrw.ru
+127.0.0.1	sorov.run
+127.0.0.1	kepov.run
+127.0.0.1	pexab.run
+127.0.0.1	ciwid.run
+127.0.0.1	mygar.run
+127.0.0.1	electrurn.com
+127.0.0.1	electrurn.org
+127.0.0.1	skyprotech.ru
+127.0.0.1	ns1.shamless.sbs
+127.0.0.1	metalliko-industr.ru
+127.0.0.1	lancery.digital
+127.0.0.1	samrat4-56907.portmap.io
+127.0.0.1	dhaker.ddns.net
+127.0.0.1	raypun.eastus.cloudapp.azure.com
+127.0.0.1	magical-lumiere.94-156-177-241.plesk.page
+127.0.0.1	login.mexc-signin.kro.kr
+127.0.0.1	1re0-61442.portmap.io
+127.0.0.1	djkms-32561.portmap.host
 127.0.0.1	ftp.fosna.net
 127.0.0.1	ftp.haliza.com.my
 127.0.0.1	ftp.hitplas.ro
@@ -64630,6 +64649,4 @@
 127.0.0.1	jerry2024.oss-cn-beijing.aliyuncs.com
 127.0.0.1	jerryrat2024.oss-cn-beijing.aliyuncs.com
 127.0.0.1	brewtea.online
-127.0.0.1	vmi2189079.contaboserver.net
-127.0.0.1	ten10stats.top
-# Number of entries: 64626
+# Number of entries: 64643
