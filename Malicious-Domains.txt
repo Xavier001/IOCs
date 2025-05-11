@@ -1,11 +1,36 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-11 00:01:31 UTC                        #
+# Last updated: 2025-05-11 08:15:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	niggerkiller69.duckdns.org
+127.0.0.1	cov.ph4nt0m.fr
+127.0.0.1	irc.xinxin.cam
+127.0.0.1	xenqxd-42269.portmap.host
+127.0.0.1	zizo.myftp.org
+127.0.0.1	enzomtp.dragonia-pvp.fr
+127.0.0.1	dn-master.ddns.net
+127.0.0.1	fepez.run
+127.0.0.1	www.joydome.xyz
+127.0.0.1	pixelpitstop.xyz
+127.0.0.1	gamespheres.xyz
+127.0.0.1	cpcalendars.tempoestil.com
+127.0.0.1	electrunn.org
+127.0.0.1	kyjej.run
+127.0.0.1	jyjev.run
+127.0.0.1	cyleb.run
+127.0.0.1	araucahkbm.live
+127.0.0.1	posseswsnc.top
+127.0.0.1	featurlyin.top
+127.0.0.1	google-chrome.western-servers.net
+127.0.0.1	www.google-chrome.info
+127.0.0.1	fiwyj.run
+127.0.0.1	flowerexju.bet
+127.0.0.1	easterxeen.run
+127.0.0.1	wybod.run
 127.0.0.1	sliv.ph4nt0m.fr
 127.0.0.1	photoreport.roamdetail.com
 127.0.0.1	hye87lws0.localto.net
@@ -64629,5 +64654,4 @@
 127.0.0.1	a1047912.xsph.ru
 127.0.0.1	eleja11sb.top
 127.0.0.1	sivbb6sb.top
-127.0.0.1	events.socalpocis.org
-# Number of entries: 64624
+# Number of entries: 64648
