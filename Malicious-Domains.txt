@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-11 19:39:15 UTC                        #
+# Last updated: 2025-05-12 02:53:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	14j1eqpwe044f.cfc-execute.bj.baidubce.com
+127.0.0.1	bestwallet.my-profai.com
+127.0.0.1	tradingview.little-mouse.xyz
+127.0.0.1	sijyh.run
 127.0.0.1	cv.cbrw.ru
 127.0.0.1	sorov.run
 127.0.0.1	kepov.run
@@ -64649,4 +64653,4 @@
 127.0.0.1	jerry2024.oss-cn-beijing.aliyuncs.com
 127.0.0.1	jerryrat2024.oss-cn-beijing.aliyuncs.com
 127.0.0.1	brewtea.online
-# Number of entries: 64643
+# Number of entries: 64647
