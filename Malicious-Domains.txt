@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-12 09:53:42 UTC                        #
+# Last updated: 2025-05-12 12:02:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cp.exchangeodds.live
+127.0.0.1	net-2-45-248-130.cust.vodafonedsl.it
+127.0.0.1	jeqov.run
+127.0.0.1	tofukai.cfd
 127.0.0.1	kabla.duckdns.org
 127.0.0.1	byamba.webredirect.org
 127.0.0.1	www.rimeone.fun
@@ -64820,4 +64824,4 @@
 127.0.0.1	tolefarma.com
 127.0.0.1	porelinofigoventa.com
 127.0.0.1	fencingfriends.com
-# Number of entries: 64814
+# Number of entries: 64818
