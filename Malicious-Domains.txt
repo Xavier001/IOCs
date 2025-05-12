@@ -1,11 +1,36 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-12 12:02:01 UTC                        #
+# Last updated: 2025-05-12 21:54:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ffjdc.run
+127.0.0.1	vclpg.run
+127.0.0.1	asusupdateserver.asuscomm.com
+127.0.0.1	suave0316.ddns.net
+127.0.0.1	aliendemon.no-ip.org
+127.0.0.1	williamou.no-ip.biz
+127.0.0.1	hackeroibambini-38888.portmap.io
+127.0.0.1	kpnoq8eil.localto.net
+127.0.0.1	licz.run
+127.0.0.1	balp.run
+127.0.0.1	nygz.run
+127.0.0.1	junm.run
+127.0.0.1	biuropgcnc.duckdns.org
+127.0.0.1	biuropgcncbk.duckdns.org
+127.0.0.1	sulf.run
+127.0.0.1	jipg.run
+127.0.0.1	xelw.run
+127.0.0.1	qupt.run
+127.0.0.1	lykr.run
+127.0.0.1	chinapark.top
+127.0.0.1	www.roammco.com
+127.0.0.1	totalsolucao.com
+127.0.0.1	dynk.run
+127.0.0.1	tvmovies.online
+127.0.0.1	udevd.microsoftools.com
 127.0.0.1	cp.exchangeodds.live
 127.0.0.1	net-2-45-248-130.cust.vodafonedsl.it
 127.0.0.1	jeqov.run
@@ -24200,9 +24225,9 @@
 127.0.0.1	taramigo.life
 127.0.0.1	shootings.life
 127.0.0.1	weaponswh.run
-127.0.0.1	loadoutle.life/kplsoam
-127.0.0.1	caliberc.today/kowpqll
-127.0.0.1	weaponwo.life/nghsaya
+127.0.0.1	https://loadoutle.life/kplsoam
+127.0.0.1	https://caliberc.today/kowpqll
+127.0.0.1	https://weaponwo.life/nghsaya
 127.0.0.1	pistolpra.bet/dabyyaz
 127.0.0.1	armamenti.world/dsioqn
 127.0.0.1	selfdefens.bet/dasbuz
@@ -64820,8 +64845,4 @@
 127.0.0.1	ignofinisheui.icu
 127.0.0.1	approvfoor.com
 127.0.0.1	harpmanxd.com
-127.0.0.1	ksdjwi.eye-network.ru
-127.0.0.1	tolefarma.com
-127.0.0.1	porelinofigoventa.com
-127.0.0.1	fencingfriends.com
-# Number of entries: 64818
+# Number of entries: 64839
