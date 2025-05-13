@@ -1,11 +1,27 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-12 21:54:00 UTC                        #
+# Last updated: 2025-05-13 03:46:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	rhbqx.run
+127.0.0.1	jvlmr.run
+127.0.0.1	nrfwj.run
+127.0.0.1	pksns.run
+127.0.0.1	login.accountyahoo.posteid-a365.com
+127.0.0.1	yahoorecovery.posteid-a365.com
+127.0.0.1	ebanking-ch1.ebanking-ch1.posteid-a365.com
+127.0.0.1	www.dhl.posteid-a365.com
+127.0.0.1	onlineservices.onlineservices.posteid-a365.com
+127.0.0.1	login.livelogin.posteid-a365.com
+127.0.0.1	cdn.login.posteid-a365.com
+127.0.0.1	zdassets.loginpaxful.posteid-a365.com
+127.0.0.1	www.accountgoogle.posteid-a365.com
+127.0.0.1	myaccount.google.posteid-a365.com
+127.0.0.1	mmgdt.run
+127.0.0.1	aliyun-prvhqgdlsj.cn-hangzhou.fcapp.run
 127.0.0.1	ffjdc.run
 127.0.0.1	vclpg.run
 127.0.0.1	asusupdateserver.asuscomm.com
@@ -64844,5 +64860,4 @@
 127.0.0.1	approvedne.fun
 127.0.0.1	ignofinisheui.icu
 127.0.0.1	approvfoor.com
-127.0.0.1	harpmanxd.com
-# Number of entries: 64839
+# Number of entries: 64854
