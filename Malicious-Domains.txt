@@ -1,11 +1,52 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-13 12:01:33 UTC                        #
+# Last updated: 2025-05-13 18:20:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	lx7v9.top
+127.0.0.1	cylud.ru
+127.0.0.1	jevun.ru
+127.0.0.1	bedym.ru
+127.0.0.1	cloud.fitcloud.ip-ddns.com
+127.0.0.1	mail.exchangeodds.live
+127.0.0.1	really-laundry.gl.at.ply.gg
+127.0.0.1	wizz111.duckdns.org
+127.0.0.1	server3.retoti.com
+127.0.0.1	server3.trumops.com
+127.0.0.1	server4.retoti.com
+127.0.0.1	server4.trumops.com
+127.0.0.1	server5.retoti.com
+127.0.0.1	server5.trumops.com
+127.0.0.1	server6.retoti.com
+127.0.0.1	server6.trumops.com
+127.0.0.1	server7.retoti.com
+127.0.0.1	server7.trumops.com
+127.0.0.1	server8.retoti.com
+127.0.0.1	server8.trumops.com
+127.0.0.1	server9.retoti.com
+127.0.0.1	server9.trumops.com
+127.0.0.1	server1.retoti.com
+127.0.0.1	server1.trumops.com
+127.0.0.1	server10.retoti.com
+127.0.0.1	server10.trumops.com
+127.0.0.1	server2.retoti.com
+127.0.0.1	server2.trumops.com
+127.0.0.1	fetdmpg7z.localto.net
+127.0.0.1	dyky.press
+127.0.0.1	metatrader5.info
+127.0.0.1	ledger-en.pro
+127.0.0.1	kihqk.run
+127.0.0.1	settings-win-data-microsoft.live
+127.0.0.1	zovdt.run
+127.0.0.1	electnum.org
+127.0.0.1	soap2dayfree.top
+127.0.0.1	daviddarle.fr
+127.0.0.1	www.oceandentalcare.com
+127.0.0.1	kypa.press
+127.0.0.1	wydi.press
 127.0.0.1	darlon2025.duckdns.org
 127.0.0.1	cornerdurv.top
 127.0.0.1	testcawepr.run
@@ -65463,8 +65504,4 @@
 127.0.0.1	ycombinator.serveblog.net
 127.0.0.1	ddrtot.shop
 127.0.0.1	83aky1z.localto.net
-127.0.0.1	bestmarsgood.com
-127.0.0.1	cerwintifed.com
-127.0.0.1	burjog.com
-127.0.0.1	samomol.com
-# Number of entries: 65461
+# Number of entries: 65498
