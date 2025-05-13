@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-13 09:04:31 UTC                        #
+# Last updated: 2025-05-13 12:01:33 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	darlon2025.duckdns.org
+127.0.0.1	cornerdurv.top
+127.0.0.1	testcawepr.run
 127.0.0.1	sc.0x504.com
 127.0.0.1	ahmiok.no-ip.biz
 127.0.0.1	dtd.gcdxw.space
@@ -65464,6 +65467,4 @@
 127.0.0.1	cerwintifed.com
 127.0.0.1	burjog.com
 127.0.0.1	samomol.com
-127.0.0.1	leehoi02.ddns.net
-127.0.0.1	areabill.duckdns.org
-# Number of entries: 65460
+# Number of entries: 65461
