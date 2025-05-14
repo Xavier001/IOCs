@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-13 18:20:52 UTC                        #
+# Last updated: 2025-05-14 02:54:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	132.162.30.34.bc.googleusercontent.com
 127.0.0.1	lx7v9.top
 127.0.0.1	cylud.ru
 127.0.0.1	jevun.ru
@@ -65504,4 +65505,4 @@
 127.0.0.1	ycombinator.serveblog.net
 127.0.0.1	ddrtot.shop
 127.0.0.1	83aky1z.localto.net
-# Number of entries: 65498
+# Number of entries: 65499
