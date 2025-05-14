@@ -1,11 +1,57 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-14 02:54:29 UTC                        #
+# Last updated: 2025-05-14 09:57:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	stoshiloversdie.top
+127.0.0.1	6t.czlw.ru
+127.0.0.1	gamingglide.fun
+127.0.0.1	forthepape.shop
+127.0.0.1	metatrader5.pw
+127.0.0.1	guarda.su
+127.0.0.1	lobstergroowingto.sbs
+127.0.0.1	asdkjczxmeuw.click
+127.0.0.1	zxvnqwejlkgh.click
+127.0.0.1	mznvqiweurty.click
+127.0.0.1	plmzxqwieruo.click
+127.0.0.1	vxmnsdkjweqz.click
+127.0.0.1	qpwalskdjzmx.click
+127.0.0.1	xnzwoeirplad.click
+127.0.0.1	qwenmzlxktyu.click
+127.0.0.1	zmxncvaoiwqe.click
+127.0.0.1	nmasdqwpeiru.click
+127.0.0.1	qowuensmzxcv.click
+127.0.0.1	wqemzxncpiou.click
+127.0.0.1	zbqwmnzxopru.click
+127.0.0.1	xpoiwnzqlaks.click
+127.0.0.1	qpeuwmxnzvka.click
+127.0.0.1	zcnvqpweoriu.click
+127.0.0.1	lksmzqwenxop.click
+127.0.0.1	oby2349.giize.com
+127.0.0.1	envio07.duckdns.org
+127.0.0.1	qweiozmnxvla.click
+127.0.0.1	lkjzmxnqpwer.click
+127.0.0.1	naroowlagendbend.sbs
+127.0.0.1	lygep.ru
+127.0.0.1	oct-estimation.gl.at.ply.gg
+127.0.0.1	elon20252025subdominmain2025.duckdns.org
+127.0.0.1	hsjafklweqmn.click
+127.0.0.1	manlichcopfbeet.top
+127.0.0.1	cujob.ru
+127.0.0.1	entrinidad.cfd
+127.0.0.1	qaxib.ru
+127.0.0.1	gypuq.ru
+127.0.0.1	eduardocaballero5070.duckdns.org
+127.0.0.1	barmgek.digital
+127.0.0.1	wordinfos.com
+127.0.0.1	digiscap.com
+127.0.0.1	nzxtsh.duckdns.org
+127.0.0.1	soundcloudxyinialol14881.duckdns.org
+127.0.0.1	ammarsy.no-ip.biz
+127.0.0.1	shiroweb-52633.portmap.host
 127.0.0.1	132.162.30.34.bc.googleusercontent.com
 127.0.0.1	lx7v9.top
 127.0.0.1	cylud.ru
@@ -65503,6 +65549,4 @@
 127.0.0.1	1a47fcf8d303239e3f77df623892b6f2.com
 127.0.0.1	225cfc578a22846b4fc28a6916f68d0e.com
 127.0.0.1	ycombinator.serveblog.net
-127.0.0.1	ddrtot.shop
-127.0.0.1	83aky1z.localto.net
-# Number of entries: 65499
+# Number of entries: 65543
