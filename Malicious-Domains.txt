@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-14 20:55:56 UTC                        #
+# Last updated: 2025-05-15 04:02:15 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ecs-113-44-39-1.compute.hwclouds-dns.com
+127.0.0.1	dvwct.ru
+127.0.0.1	ec2-54-183-101-23.us-west-1.compute.amazonaws.com
+127.0.0.1	zdqdc.ru
+127.0.0.1	ndgpt.ru
 127.0.0.1	ns1.xzbxhy.com
 127.0.0.1	ns1.protmotion.org
 127.0.0.1	bklbd.ru
@@ -65595,4 +65600,4 @@
 127.0.0.1	brake-effect.cyou
 127.0.0.1	gidcldeaccadneh.top
 127.0.0.1	gum4t.sbs
-# Number of entries: 65589
+# Number of entries: 65594
