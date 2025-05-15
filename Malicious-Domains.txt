@@ -1,11 +1,42 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-15 04:02:15 UTC                        #
+# Last updated: 2025-05-15 09:51:20 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	jerusd.digital
+127.0.0.1	golconz.digital
+127.0.0.1	cladwybn.digital
+127.0.0.1	anna-akhmatova.com
+127.0.0.1	16.16.4t.com
+127.0.0.1	bootplate.info
+127.0.0.1	sistertable.xyz
+127.0.0.1	blameaowi.run
+127.0.0.1	changenwg.run
+127.0.0.1	flamingof.run
+127.0.0.1	tool.municipiodechepo.org
+127.0.0.1	api.incapdns.kz
+127.0.0.1	blog.jasonlees.com
+127.0.0.1	report.monicabellucci.kz
+127.0.0.1	developer.master.org.kz
+127.0.0.1	cast.voxcdn.kz
+127.0.0.1	host.moresecurity.kz
+127.0.0.1	ryanberardi.com
+127.0.0.1	onlinemail.kz
+127.0.0.1	contactlistsagregator.com
+127.0.0.1	frederichoms.com
+127.0.0.1	silver-map.gl.at.ply.gg
+127.0.0.1	brandenfrancseet.sbs
+127.0.0.1	fmovies123.top
+127.0.0.1	flowergrandeseen.sbs
+127.0.0.1	console24.online
+127.0.0.1	mahsa2283qt9.mahsaaminivpn.com
+127.0.0.1	webpanel.elementfx.com
+127.0.0.1	laminaflbx.shop
+127.0.0.1	emphatakpn.bet
+127.0.0.1	saxecocnak.live
 127.0.0.1	ecs-113-44-39-1.compute.hwclouds-dns.com
 127.0.0.1	dvwct.ru
 127.0.0.1	ec2-54-183-101-23.us-west-1.compute.amazonaws.com
@@ -65596,8 +65627,4 @@
 127.0.0.1	postposted-dat-realistic-email.trycloudflare.com
 127.0.0.1	vicrin.com
 127.0.0.1	to110.cyou
-127.0.0.1	ngt-techs.com
-127.0.0.1	brake-effect.cyou
-127.0.0.1	gidcldeaccadneh.top
-127.0.0.1	gum4t.sbs
-# Number of entries: 65594
+# Number of entries: 65621
