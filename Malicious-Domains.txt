@@ -1,11 +1,23 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-15 11:54:16 UTC                        #
+# Last updated: 2025-05-15 19:35:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	8r.czlw.ru
+127.0.0.1	badgervolleyball.org
+127.0.0.1	qv.gahq.ru
+127.0.0.1	awndsjkduiukekwltdadjwadawds.ru
+127.0.0.1	pentagonstealer.ru
+127.0.0.1	pentagon.cy
+127.0.0.1	testwebsite01-70h.pages.dev
+127.0.0.1	www.rivercitymech.biz
+127.0.0.1	stealer.cy
+127.0.0.1	ou.qymj.ru
+127.0.0.1	fanclubsemantics.sbs
+127.0.0.1	wss.telegrma.app
 127.0.0.1	aneesh-technomakest.duckdns.org
 127.0.0.1	aneesh-technomakestbk.duckdns.org
 127.0.0.1	jerusd.digital
@@ -65629,4 +65641,4 @@
 127.0.0.1	postposted-dat-realistic-email.trycloudflare.com
 127.0.0.1	vicrin.com
 127.0.0.1	to110.cyou
-# Number of entries: 65623
+# Number of entries: 65635
