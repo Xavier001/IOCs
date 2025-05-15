@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-15 09:51:20 UTC                        #
+# Last updated: 2025-05-15 11:54:16 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	aneesh-technomakest.duckdns.org
+127.0.0.1	aneesh-technomakestbk.duckdns.org
 127.0.0.1	jerusd.digital
 127.0.0.1	golconz.digital
 127.0.0.1	cladwybn.digital
@@ -65627,4 +65629,4 @@
 127.0.0.1	postposted-dat-realistic-email.trycloudflare.com
 127.0.0.1	vicrin.com
 127.0.0.1	to110.cyou
-# Number of entries: 65621
+# Number of entries: 65623
