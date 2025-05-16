@@ -1,11 +1,27 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-16 12:01:53 UTC                        #
+# Last updated: 2025-05-16 20:54:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ns2.taipower.energy
+127.0.0.1	ns1.taipower.energy
+127.0.0.1	abuwire123.duckdns.org
+127.0.0.1	jackthyfuc.run
+127.0.0.1	narrathfpt.top
+127.0.0.1	onehunqpom.life
+127.0.0.1	lordphoenix.net
+127.0.0.1	itrtruck.com
+127.0.0.1	events-datamicrosoft.org
+127.0.0.1	majorfund.pro
+127.0.0.1	biz-buradayiiz.shop
+127.0.0.1	problem.cloudboats.vip
+127.0.0.1	medpagetoday.icu
+127.0.0.1	n6shbbkm-88.usw3.devtunnels.ms
+127.0.0.1	d1ecnze4r6f2q.cfc-execute.bj.baidubce.com
+127.0.0.1	qianab2.anondns.net
 127.0.0.1	xn--indirm-gunu-3zb.shop
 127.0.0.1	productos.zongamervid.com
 127.0.0.1	betbot.mchbee.cloud
@@ -65645,19 +65661,4 @@
 127.0.0.1	aiddoscnc.aisysmddos.com
 127.0.0.1	paper-cancelled.gl.at.ply.gg
 127.0.0.1	leatherbook.org
-127.0.0.1	crickout.com
-127.0.0.1	thicktoys.sbs
-127.0.0.1	fleez-inc.sbs
-127.0.0.1	3xc1aimbl0w.sbs
-127.0.0.1	pull-trucker.sbs
-127.0.0.1	bored-light.sbs
-127.0.0.1	300snails.sbs
-127.0.0.1	faintbl0w.sbs
-127.0.0.1	crib-endanger.sbs
-127.0.0.1	silversky.club
-127.0.0.1	toleratedbaybo.cyou
-127.0.0.1	rshank.com
-127.0.0.1	postposted-dat-realistic-email.trycloudflare.com
-127.0.0.1	vicrin.com
-127.0.0.1	to110.cyou
-# Number of entries: 65654
+# Number of entries: 65655
