@@ -1,11 +1,26 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-16 00:02:00 UTC                        #
+# Last updated: 2025-05-16 10:06:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	primivo.click
+127.0.0.1	anon26.ddns.net
+127.0.0.1	aiddesk.help
+127.0.0.1	ip66-179-94-187.pbiaas.com
+127.0.0.1	hunterinrx.run
+127.0.0.1	memelock.app
+127.0.0.1	pump.fun.ong
+127.0.0.1	uhie2025.duckdns.org
+127.0.0.1	voc.no-ip.org
+127.0.0.1	zrysdxnzmo.antiwifi.cc
+127.0.0.1	newjourneynewstartfreshthingforfuture.duckdns.org
+127.0.0.1	yxta.top
+127.0.0.1	sindio.organiccrap.com
+127.0.0.1	mythic.cseccon.de
+127.0.0.1	ecs-1-92-100-230.compute.hwclouds-dns.com
 127.0.0.1	159-89-17-182.cprapid.com
 127.0.0.1	8r.czlw.ru
 127.0.0.1	badgervolleyball.org
@@ -65642,4 +65657,4 @@
 127.0.0.1	postposted-dat-realistic-email.trycloudflare.com
 127.0.0.1	vicrin.com
 127.0.0.1	to110.cyou
-# Number of entries: 65636
+# Number of entries: 65651
