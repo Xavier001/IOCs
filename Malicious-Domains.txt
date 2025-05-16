@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-16 10:06:04 UTC                        #
+# Last updated: 2025-05-16 12:01:53 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	xn--indirm-gunu-3zb.shop
+127.0.0.1	productos.zongamervid.com
+127.0.0.1	betbot.mchbee.cloud
 127.0.0.1	primivo.click
 127.0.0.1	anon26.ddns.net
 127.0.0.1	aiddesk.help
@@ -65657,4 +65660,4 @@
 127.0.0.1	postposted-dat-realistic-email.trycloudflare.com
 127.0.0.1	vicrin.com
 127.0.0.1	to110.cyou
-# Number of entries: 65651
+# Number of entries: 65654
