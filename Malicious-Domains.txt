@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-16 20:54:38 UTC                        #
+# Last updated: 2025-05-17 04:01:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	overcast2384.crabdance.com
+127.0.0.1	api.saicfinance.work
 127.0.0.1	ns2.taipower.energy
 127.0.0.1	ns1.taipower.energy
 127.0.0.1	abuwire123.duckdns.org
@@ -65661,4 +65663,4 @@
 127.0.0.1	aiddoscnc.aisysmddos.com
 127.0.0.1	paper-cancelled.gl.at.ply.gg
 127.0.0.1	leatherbook.org
-# Number of entries: 65655
+# Number of entries: 65657
