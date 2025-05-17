@@ -1,11 +1,40 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-17 10:11:03 UTC                        #
+# Last updated: 2025-05-17 19:09:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wps.nbpmmkrb.cn
+127.0.0.1	td.ldxwpedf.cn
+127.0.0.1	app.sparrowallet.net
+127.0.0.1	all.tcphangjews.lol
+127.0.0.1	katana.tcphangjews.lol
+127.0.0.1	lipaisanigger.niekot.xyz
+127.0.0.1	deathbotnet.lol
+127.0.0.1	wolf.tcphangjews.lol
+127.0.0.1	botnet.s3oox.com
+127.0.0.1	koegje.digital
+127.0.0.1	skjym.digital
+127.0.0.1	normacw.digital
+127.0.0.1	chmydt.digital
+127.0.0.1	sinb.digital
+127.0.0.1	towhnl.digital
+127.0.0.1	brapl.digital
+127.0.0.1	feidm.digital
+127.0.0.1	conmog.digital
+127.0.0.1	intabg.digital
+127.0.0.1	swizcpll.digital
+127.0.0.1	alleup.digital
+127.0.0.1	royat.digital
+127.0.0.1	wilgch.digital
+127.0.0.1	gratcf.digital
+127.0.0.1	kizscs.digital
+127.0.0.1	comstmo.digital
+127.0.0.1	garyb.digital
+127.0.0.1	teoja.digital
+127.0.0.1	timertvey.top
 127.0.0.1	gets-surfaces.gl.at.ply.gg
 127.0.0.1	www.ucued.com
 127.0.0.1	yiowaaeuiemuicoe.xyz
@@ -65928,5 +65957,4 @@
 127.0.0.1	else-directors.gl.at.ply.gg
 127.0.0.1	aiddoscnc.aisysmddos.com
 127.0.0.1	paper-cancelled.gl.at.ply.gg
-127.0.0.1	leatherbook.org
-# Number of entries: 65923
+# Number of entries: 65951
