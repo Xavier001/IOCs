@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-18 02:54:18 UTC                        #
+# Last updated: 2025-05-18 08:05:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	host.tempoestil.com
+127.0.0.1	kniznetwork.duckdns.org
+127.0.0.1	economic-rob.gl.at.ply.gg
+127.0.0.1	warrant764-45540.portmap.io
+127.0.0.1	makes-girl.gl.at.ply.gg
 127.0.0.1	giajgdfgcs63da2s.ksf123.icu
 127.0.0.1	www.emelowebshop.hu
 127.0.0.1	wps.nbpmmkrb.cn
@@ -65953,10 +65958,4 @@
 127.0.0.1	petshopsg.com
 127.0.0.1	hrhugeagency.site
 127.0.0.1	d0cumentview.info
-127.0.0.1	rosinande.xyz
-127.0.0.1	trumru.lol
-127.0.0.1	fuare.xyz
-127.0.0.1	else-directors.gl.at.ply.gg
-127.0.0.1	aiddoscnc.aisysmddos.com
-127.0.0.1	paper-cancelled.gl.at.ply.gg
-# Number of entries: 65953
+# Number of entries: 65952
