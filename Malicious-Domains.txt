@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-17 19:09:23 UTC                        #
+# Last updated: 2025-05-18 02:54:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	giajgdfgcs63da2s.ksf123.icu
+127.0.0.1	www.emelowebshop.hu
 127.0.0.1	wps.nbpmmkrb.cn
 127.0.0.1	td.ldxwpedf.cn
 127.0.0.1	app.sparrowallet.net
@@ -65957,4 +65959,4 @@
 127.0.0.1	else-directors.gl.at.ply.gg
 127.0.0.1	aiddoscnc.aisysmddos.com
 127.0.0.1	paper-cancelled.gl.at.ply.gg
-# Number of entries: 65951
+# Number of entries: 65953
