@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-18 08:05:47 UTC                        #
+# Last updated: 2025-05-18 19:49:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nig.ck.io.vn
+127.0.0.1	ikechukwu.duckdns.org
+127.0.0.1	lbgl2.login.5gfxwkdnci5fgoda27vad7snijqazv.info
+127.0.0.1	ulgroup.login.5gfxwkdnci5fgoda27vad7snijqazv.info
+127.0.0.1	next.avianix.tech
 127.0.0.1	host.tempoestil.com
 127.0.0.1	kniznetwork.duckdns.org
 127.0.0.1	economic-rob.gl.at.ply.gg
@@ -65909,53 +65914,4 @@
 127.0.0.1	genhil.com
 127.0.0.1	maximum-blame.gl.at.ply.gg
 127.0.0.1	inayatullah.com
-127.0.0.1	rigzuvzi3bnz3.top
-127.0.0.1	pbizntettbvs.top
-127.0.0.1	anfndfhijhdalkk.top
-127.0.0.1	bkldalmefllgfcd.top
-127.0.0.1	kjjgafjaeeenlgb.top
-127.0.0.1	fihkaagldmlgcln.top
-127.0.0.1	ahfnaidhcfenibl.top
-127.0.0.1	igdcbdaebmlgagj.top
-127.0.0.1	dfcgbllaafenfkh.top
-127.0.0.1	meajbfilanlglbf.top
-127.0.0.1	hdmnbafhngdacgd.top
-127.0.0.1	bckccicemnkhikb.top
-127.0.0.1	kbigcdnblgdaaba.top
-127.0.0.1	fagjclklkakhffm.top
-127.0.0.1	imdcdadeiakhdai.top
-127.0.0.1	fcikmcdklkmgncb.top
-127.0.0.1	abgnmlahkdfnfhn.top
-127.0.0.1	jaedmfldjkmgkml.top
-127.0.0.1	dncgnaiaiefnccj.top
-127.0.0.1	mmbkniflhlmgihh.top
-127.0.0.1	hlnnncchgefnnlf.top
-127.0.0.1	dhdhlceabcgmnil.top
-127.0.0.1	fjjlkfakeinfkid.top
-127.0.0.1	hfaalfmhacgmkdh.top
-127.0.0.1	hmaajijghahmhij.top
-127.0.0.1	jcgijjkddehkfli.top
-127.0.0.1	jhfdkihdcinfhdn.top
-127.0.0.1	kdkhmigamdfnhmd.top
-127.0.0.1	kklhjldafbgmedf.top
-127.0.0.1	mgbkllbkajnfemj.top
-127.0.0.1	mjjagccfegadkej.top
-127.0.0.1	aihaknlhdbgmcnb.top
-127.0.0.1	bdmgeiiifihjckk.top
-127.0.0.1	cemdlnjdnjmgchf.top
-127.0.0.1	clmejcgdginfnnh.top
-127.0.0.1	danknlmmaahlimg.top
-127.0.0.1	rigzuvzi3bnz3.top
-127.0.0.1	nextnewupdationsforu.duckdns.org
-127.0.0.1	staff.plenarykcg.com
-127.0.0.1	additioniqqwu.shop
-127.0.0.1	localwanderer.shop
-127.0.0.1	lunarminds.shop
-127.0.0.1	moonlight-glow.shop
-127.0.0.1	naturevibes.shop
-127.0.0.1	thrusstedmdwqni.shop
-127.0.0.1	eliztalks.com
-127.0.0.1	petshopsg.com
-127.0.0.1	hrhugeagency.site
-127.0.0.1	d0cumentview.info
-# Number of entries: 65952
+# Number of entries: 65908
