@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-18 19:49:14 UTC                        #
+# Last updated: 2025-05-19 04:01:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	acc.webreq.plasma.synlab.com
+127.0.0.1	acc.hu.webreqjobs.plasma.synlab.com
+127.0.0.1	fortisinstructure.de
+127.0.0.1	css.xsjl7932.top
 127.0.0.1	nig.ck.io.vn
 127.0.0.1	ikechukwu.duckdns.org
 127.0.0.1	lbgl2.login.5gfxwkdnci5fgoda27vad7snijqazv.info
@@ -65914,4 +65918,4 @@
 127.0.0.1	genhil.com
 127.0.0.1	maximum-blame.gl.at.ply.gg
 127.0.0.1	inayatullah.com
-# Number of entries: 65908
+# Number of entries: 65912
