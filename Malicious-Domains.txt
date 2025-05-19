@@ -1,11 +1,31 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-19 04:01:07 UTC                        #
+# Last updated: 2025-05-19 09:05:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	gettoknwg.life
+127.0.0.1	leasegjjr.digital
+127.0.0.1	haircuirfm.top
+127.0.0.1	threatqjqy.top
+127.0.0.1	winterghzp.digital
+127.0.0.1	bubblezdjw.live
+127.0.0.1	moderation-x.com
+127.0.0.1	amounn.com
+127.0.0.1	cpanel.tempoestil.com
+127.0.0.1	p455w0rd.blackhatethicalhacking.com
+127.0.0.1	ecs-60-204-152-14.compute.hwclouds-dns.com
+127.0.0.1	amazonamc.co
+127.0.0.1	ecs-166-108-200-194.compute.hwclouds-dns.com
+127.0.0.1	cnc.rspay.top
+127.0.0.1	process-lips.gl.at.ply.gg
+127.0.0.1	toygamin-28778.portmap.io
+127.0.0.1	football987654321-55635.portmap.io
+127.0.0.1	bothehedoxiahihi.zapto.org
+127.0.0.1	botnet.exiled.rip
+127.0.0.1	zbtgzbt.duckdns.org
 127.0.0.1	acc.webreq.plasma.synlab.com
 127.0.0.1	acc.hu.webreqjobs.plasma.synlab.com
 127.0.0.1	fortisinstructure.de
@@ -65915,7 +65935,4 @@
 127.0.0.1	dashnex.plexusmarket.fund
 127.0.0.1	safigdata.com
 127.0.0.1	eegqzvxd.shop
-127.0.0.1	genhil.com
-127.0.0.1	maximum-blame.gl.at.ply.gg
-127.0.0.1	inayatullah.com
-# Number of entries: 65912
+# Number of entries: 65929
