@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-19 09:05:46 UTC                        #
+# Last updated: 2025-05-19 11:15:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	astroidd.shop
+127.0.0.1	modihq.digital
+127.0.0.1	sourpw.digital
+127.0.0.1	whitne.digital
+127.0.0.1	bbmthe.digital
+127.0.0.1	blnpa.digital
+127.0.0.1	crpcto.digital
+127.0.0.1	grobw.digital
+127.0.0.1	textu.digital
+127.0.0.1	bassb.digital
+127.0.0.1	sfacqwl.digital
+127.0.0.1	osbhob.digital
+127.0.0.1	mooncarc.top
 127.0.0.1	gettoknwg.life
 127.0.0.1	leasegjjr.digital
 127.0.0.1	haircuirfm.top
@@ -65935,4 +65948,4 @@
 127.0.0.1	dashnex.plexusmarket.fund
 127.0.0.1	safigdata.com
 127.0.0.1	eegqzvxd.shop
-# Number of entries: 65929
+# Number of entries: 65942
