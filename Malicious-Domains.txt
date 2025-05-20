@@ -1,11 +1,29 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-19 20:54:00 UTC                        #
+# Last updated: 2025-05-20 04:09:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	crossfitolathe.com
+127.0.0.1	img6.rnidwayrentafence.com
+127.0.0.1	img1.rnidwayrentafence.com
+127.0.0.1	gui.rnidwayrentafence.com
+127.0.0.1	ok.rnidwayrentafence.com
+127.0.0.1	outlook.rnidwayrentafence.com
+127.0.0.1	events.api.rnidwayrentafence.com
+127.0.0.1	csp.rnidwayrentafence.com
+127.0.0.1	sso.rnidwayrentafence.com
+127.0.0.1	acc.rnidwayrentafence.com
+127.0.0.1	acc.webreqjobs.plasma.synlab.com
+127.0.0.1	51r7x0m2-8081.asse.devtunnels.ms
+127.0.0.1	g.sst.rnidwayrentafence.com
+127.0.0.1	reporting.rnidwayrentafence.com
+127.0.0.1	login.rnidwayrentafence.com
+127.0.0.1	live.rnidwayrentafence.com
+127.0.0.1	ec2-3-71-71-121.eu-central-1.compute.amazonaws.com
+127.0.0.1	b.udate.sbs
 127.0.0.1	metal.qq11.me
 127.0.0.1	logis.qq11.me
 127.0.0.1	energy.qq11.me
@@ -65950,6 +65968,4 @@
 127.0.0.1	badmiles.ddns.net
 127.0.0.1	reateberam.com
 127.0.0.1	xboxapicenter.com
-127.0.0.1	azurestorage.world
-127.0.0.1	fwaax.life
-# Number of entries: 65946
+# Number of entries: 65962
