@@ -1,11 +1,37 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-20 04:09:23 UTC                        #
+# Last updated: 2025-05-20 09:17:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mjoatboating.ydns.eu
+127.0.0.1	web.mryhelp.top
+127.0.0.1	nprcare.help
+127.0.0.1	okta.rnidwayrentafence.com
+127.0.0.1	account.rnidwayrentafence.com
+127.0.0.1	pcircle.duckdns.org
+127.0.0.1	pcubed.duckdns.org
+127.0.0.1	snapcans.top
+127.0.0.1	citellcagt.top
+127.0.0.1	escczlv.top
+127.0.0.1	caitraohvi.bet
+127.0.0.1	galijd.shop
+127.0.0.1	maxmtsq.bet
+127.0.0.1	laodocument.com
+127.0.0.1	tangem.ing
+127.0.0.1	cdn.belladonnarestaurant.co.uk
+127.0.0.1	shock-relations-enhancement-picks.trycloudflare.com
+127.0.0.1	anesthwtcm.run
+127.0.0.1	jugulagklc.live
+127.0.0.1	ofttimkong.run
+127.0.0.1	retechlabp.run
+127.0.0.1	strengbllk.live
+127.0.0.1	worldpofadventure.today
+127.0.0.1	hours-affected-personals-grey.trycloudflare.com
+127.0.0.1	sublime-tragedy-counties-sculpture.trycloudflare.com
+127.0.0.1	apponflyd.duckdns.org
 127.0.0.1	crossfitolathe.com
 127.0.0.1	img6.rnidwayrentafence.com
 127.0.0.1	img1.rnidwayrentafence.com
@@ -65966,6 +65992,4 @@
 127.0.0.1	nyciot.com
 127.0.0.1	segurofinalizar.shop
 127.0.0.1	badmiles.ddns.net
-127.0.0.1	reateberam.com
-127.0.0.1	xboxapicenter.com
-# Number of entries: 65962
+# Number of entries: 65986
