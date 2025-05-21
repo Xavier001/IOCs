@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-20 18:54:13 UTC                        #
+# Last updated: 2025-05-21 04:01:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	acc.hu.webreqadmin.plasma.synlab.com
+127.0.0.1	acc.hu.results.plasma.synlab.com
 127.0.0.1	tube.qq11.me
 127.0.0.1	country-lying.gl.at.ply.gg
 127.0.0.1	unknown-7222-47030.portmap.io
@@ -66428,4 +66430,4 @@
 127.0.0.1	1huvyn540lvf.live
 127.0.0.1	20vg4bnmsm2g.live
 127.0.0.1	remcosnov24.duckdns.org
-# Number of entries: 66422
+# Number of entries: 66424
