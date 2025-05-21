@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-21 12:24:29 UTC                        #
+# Last updated: 2025-05-21 20:10:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nk.zujer.ru
+127.0.0.1	jakestrack.com
+127.0.0.1	www.alifsemi.com
+127.0.0.1	ogotwin.ddns.net
+127.0.0.1	5pas9tdmjcs4y.cfc-execute.bj.baidubce.com
 127.0.0.1	mstore.framfarmers.co.uk
 127.0.0.1	oxygenisempty.com
 127.0.0.1	building-and-forum.com
@@ -69863,10 +69868,4 @@
 127.0.0.1	jaipurraj.com
 127.0.0.1	elizgallery.com
 127.0.0.1	codereviewerss.com
-127.0.0.1	sbft.ru
-127.0.0.1	rnyhbarwallet.com
-127.0.0.1	kingstonwikkerink.dyn
-127.0.0.1	modernkeys.org
-127.0.0.1	swaceapp.com
-127.0.0.1	cee.work.gd
-# Number of entries: 69863
+# Number of entries: 69862
