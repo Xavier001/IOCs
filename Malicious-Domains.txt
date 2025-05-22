@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-21 20:10:18 UTC                        #
+# Last updated: 2025-05-22 02:54:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	apimicrososerver.fh328fehu.xyz
+127.0.0.1	webmail.detfec.com
 127.0.0.1	nk.zujer.ru
 127.0.0.1	jakestrack.com
 127.0.0.1	www.alifsemi.com
@@ -69868,4 +69870,4 @@
 127.0.0.1	jaipurraj.com
 127.0.0.1	elizgallery.com
 127.0.0.1	codereviewerss.com
-# Number of entries: 69862
+# Number of entries: 69864
