@@ -1,11 +1,38 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-22 02:54:58 UTC                        #
+# Last updated: 2025-05-22 10:06:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ow.lyzyf.ru
+127.0.0.1	senmuxy-27509.portmap.host
+127.0.0.1	callxw2025.duckdns.org
+127.0.0.1	camp.zapto.org
+127.0.0.1	cats.ext
+127.0.0.1	billionairegangs2025.freemyip.com
+127.0.0.1	wealthybankinc2025.ddns.net
+127.0.0.1	wealthybillionaireman007.duckdns.org
+127.0.0.1	wealthymanbanks007.kozow.com
+127.0.0.1	gold-camcorder.gl.at.ply.gg
+127.0.0.1	qrpn9be.localto.net
+127.0.0.1	hacker99.no-ip.biz
+127.0.0.1	ggdropnet.ddns.net
+127.0.0.1	dbmcare.help
+127.0.0.1	cc.so.printf.store
+127.0.0.1	intelligent-rubin.94-156-177-241.plesk.page
+127.0.0.1	www.sandivartgallery.com
+127.0.0.1	ljozz.duckdns.org
+127.0.0.1	manufacturer-covering.gl.at.ply.gg
+127.0.0.1	lang3666.top
+127.0.0.1	phantomw.net
+127.0.0.1	bogtkr.top
+127.0.0.1	diecam.top
+127.0.0.1	korxddl.top
+127.0.0.1	localixbiw.top
+127.0.0.1	cp.envisionfonddulac.biz
+127.0.0.1	mhzlh11223344-34671.portmap.io
 127.0.0.1	apimicrososerver.fh328fehu.xyz
 127.0.0.1	webmail.detfec.com
 127.0.0.1	nk.zujer.ru
@@ -69866,8 +69893,4 @@
 127.0.0.1	fvtekk5pn.top
 127.0.0.1	exp0ns.sbs
 127.0.0.1	ducnhan.duckdns.org
-127.0.0.1	cases.pcohenlaw.com
-127.0.0.1	jaipurraj.com
-127.0.0.1	elizgallery.com
-127.0.0.1	codereviewerss.com
-# Number of entries: 69864
+# Number of entries: 69887
