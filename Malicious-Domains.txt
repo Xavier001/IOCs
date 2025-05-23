@@ -1,11 +1,90 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-23 08:55:22 UTC                        #
+# Last updated: 2025-05-23 12:21:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	server11.filesdumpplace.org
+127.0.0.1	server12.filesdumpplace.org
+127.0.0.1	server13.filesdumpplace.org
+127.0.0.1	server14.filesdumpplace.org
+127.0.0.1	server4.filesdumpplace.org
+127.0.0.1	server5.filesdumpplace.org
+127.0.0.1	server6.filesdumpplace.org
+127.0.0.1	server7.filesdumpplace.org
+127.0.0.1	server8.filesdumpplace.org
+127.0.0.1	server9.filesdumpplace.org
+127.0.0.1	server10.filesdumpplace.org
+127.0.0.1	server10.statsexplorer.org
+127.0.0.1	server11.statsexplorer.org
+127.0.0.1	server12.statsexplorer.org
+127.0.0.1	server13.statsexplorer.org
+127.0.0.1	server14.statsexplorer.org
+127.0.0.1	server1.filesdumpplace.org
+127.0.0.1	server2.filesdumpplace.org
+127.0.0.1	server3.filesdumpplace.org
+127.0.0.1	server12.cdneurops.shop
+127.0.0.1	server13.cdneurops.shop
+127.0.0.1	server14.cdneurops.shop
+127.0.0.1	server1.statsexplorer.org
+127.0.0.1	server2.statsexplorer.org
+127.0.0.1	server3.statsexplorer.org
+127.0.0.1	server4.statsexplorer.org
+127.0.0.1	server5.statsexplorer.org
+127.0.0.1	server6.statsexplorer.org
+127.0.0.1	server7.statsexplorer.org
+127.0.0.1	server8.statsexplorer.org
+127.0.0.1	server9.statsexplorer.org
+127.0.0.1	server10.nisdably.com
+127.0.0.1	server11.nisdably.com
+127.0.0.1	server12.nisdably.com
+127.0.0.1	server13.nisdably.com
+127.0.0.1	server14.nisdably.com
+127.0.0.1	server1.cdneurops.shop
+127.0.0.1	server2.cdneurops.shop
+127.0.0.1	server3.cdneurops.shop
+127.0.0.1	server4.cdneurops.shop
+127.0.0.1	server5.cdneurops.shop
+127.0.0.1	server6.cdneurops.shop
+127.0.0.1	server7.cdneurops.shop
+127.0.0.1	server8.cdneurops.shop
+127.0.0.1	server9.cdneurops.shop
+127.0.0.1	server10.cdneurops.shop
+127.0.0.1	server11.cdneurops.shop
+127.0.0.1	server9.cdneurops.health
+127.0.0.1	server10.cdneurops.health
+127.0.0.1	server11.cdneurops.health
+127.0.0.1	server12.cdneurops.health
+127.0.0.1	server13.cdneurops.health
+127.0.0.1	server14.cdneurops.health
+127.0.0.1	server1.nisdably.com
+127.0.0.1	server2.nisdably.com
+127.0.0.1	server3.nisdably.com
+127.0.0.1	server4.nisdably.com
+127.0.0.1	server5.nisdably.com
+127.0.0.1	server6.nisdably.com
+127.0.0.1	server7.nisdably.com
+127.0.0.1	server8.nisdably.com
+127.0.0.1	server9.nisdably.com
+127.0.0.1	server1.cdneurops.health
+127.0.0.1	server2.cdneurops.health
+127.0.0.1	server3.cdneurops.health
+127.0.0.1	server4.cdneurops.health
+127.0.0.1	server5.cdneurops.health
+127.0.0.1	server6.cdneurops.health
+127.0.0.1	server7.cdneurops.health
+127.0.0.1	server8.cdneurops.health
+127.0.0.1	mrtamdas-37068.portmap.io
+127.0.0.1	d3.7.4t.com
+127.0.0.1	843m.securenethub.ru
+127.0.0.1	cnierw.jhpublicaffairs.ie
+127.0.0.1	g43e0x.bullpas.ru
+127.0.0.1	lkenwz.jhpublicaffairs.ie
+127.0.0.1	info.seac0cruree-den0ee-reei9-90.su
+127.0.0.1	9o7fiy.bullpas.ru
+127.0.0.1	g43og.bullpas.ru
 127.0.0.1	2faxdyf64cvmf.cfc-execute.gz.baidubce.com
 127.0.0.1	sssi1u9sakjsddsq.com
 127.0.0.1	bubatrampo.online
@@ -69740,26 +69819,4 @@
 127.0.0.1	p3ar11fter.sbs
 127.0.0.1	berandonosas.store
 127.0.0.1	assetoutdoor.shop
-127.0.0.1	vietsuncorp-vn.com
-127.0.0.1	empoximwave245768.shop
-127.0.0.1	toxrfusion19156.shop
-127.0.0.1	unxevibe123459.shop
-127.0.0.1	eoiumdlight987656.shop
-127.0.0.1	topcularaktaricisisedat.shop
-127.0.0.1	evcilkusbesleme.shop
-127.0.0.1	verdilerbizeikiadam.shop
-127.0.0.1	tokatmotorcukuryesi.top
-127.0.0.1	arackiralamacankiri.com
-127.0.0.1	ahaber.com
-127.0.0.1	trendyshop57899.shop
-127.0.0.1	techhubshop24578.shop
-127.0.0.1	organicshop89105.shop
-127.0.0.1	vibrantlifeshop12345.shop
-127.0.0.1	artgalleryxshop98765.shop
-127.0.0.1	thopris578993215.shop
-127.0.0.1	filomarinakiraci.top
-127.0.0.1	cannakliyat.top
-127.0.0.1	uzaktasimaatasehir.xyz
-127.0.0.1	kopekuyuztedavicisi.xyz
-127.0.0.1	hayvanyemekveriyoruz.top
-# Number of entries: 69756
+# Number of entries: 69813
