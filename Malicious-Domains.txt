@@ -1,11 +1,59 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-23 12:21:50 UTC                        #
+# Last updated: 2025-05-23 18:16:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	katzstealer.com
+127.0.0.1	twist2katz.com
+127.0.0.1	pub-ce02802067934e0eb072f69bf6427bf6.r2.dev
+127.0.0.1	katz-panel.com
+127.0.0.1	katz-stealer.com
+127.0.0.1	a1120606.xsph.ru
+127.0.0.1	rysevdij.beget.tech
+127.0.0.1	a1121096.xsph.ru
+127.0.0.1	a1120460.xsph.ru
+127.0.0.1	a1120527.xsph.ru
+127.0.0.1	cg83978.tw1.ru
+127.0.0.1	cz52816.tw1.ru
+127.0.0.1	root.darkproducts.ru
+127.0.0.1	ct57262.tw1.ru
+127.0.0.1	cr11351.tw1.ru
+127.0.0.1	a1122138.xsph.ru
+127.0.0.1	a1106686.xsph.ru
+127.0.0.1	a1040033.xsph.ru
+127.0.0.1	ck52959.tw1.ru
+127.0.0.1	site.furi.webtm.ru
+127.0.0.1	a0988419.xsph.ru
+127.0.0.1	cn45664.tw1.ru
+127.0.0.1	a0937776.xsph.ru
+127.0.0.1	a0947093.xsph.ru
+127.0.0.1	fixx5vs.top
+127.0.0.1	trex3sr.top
+127.0.0.1	tvthre3vs.top
+127.0.0.1	xzthre3pn.top
+127.0.0.1	butbot.sytes.net
+127.0.0.1	hkomv94te.localto.net
+127.0.0.1	v10.events.logc.msft-api.net
+127.0.0.1	performance.edge.msft-api.net
+127.0.0.1	eqybaskreen.top
+127.0.0.1	medthermography.com
+127.0.0.1	prepare.adroitbookkeeping.com
+127.0.0.1	milqq.info
+127.0.0.1	vpdf.online
+127.0.0.1	nic-svc.net
+127.0.0.1	live-co.org
+127.0.0.1	org-liv.net
+127.0.0.1	info-lanka.org
+127.0.0.1	onlinestatus.live
+127.0.0.1	updates-installer.store
+127.0.0.1	bismi.pro
+127.0.0.1	viewdoc.online
+127.0.0.1	dwnlld.info
+127.0.0.1	www.xiaoji12.top
+127.0.0.1	writintrvh.top
 127.0.0.1	server11.filesdumpplace.org
 127.0.0.1	server12.filesdumpplace.org
 127.0.0.1	server13.filesdumpplace.org
@@ -69810,13 +69858,4 @@
 127.0.0.1	gay.nguyenletriloc.pro
 127.0.0.1	keoqiqigggqkcykq.xyz
 127.0.0.1	saw-shirts.gl.at.ply.gg
-127.0.0.1	frogs-severz.sbs
-127.0.0.1	month-format.cyou
-127.0.0.1	processhol.sbs
-127.0.0.1	p10tgrace.sbs
-127.0.0.1	peepburry828.sbs
-127.0.0.1	3xp3cts1aim.sbs
-127.0.0.1	p3ar11fter.sbs
-127.0.0.1	berandonosas.store
-127.0.0.1	assetoutdoor.shop
-# Number of entries: 69813
+# Number of entries: 69852
