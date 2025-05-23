@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-22 18:10:55 UTC                        #
+# Last updated: 2025-05-22 23:55:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.luc-logistics.tech
+127.0.0.1	wiew.weihuikang.com
+127.0.0.1	msg.msdegeup.com
+127.0.0.1	ej4e1ns3pm9as.cfc-execute.gz.baidubce.com
+127.0.0.1	fuckjapanese.microsoftcloudapi.com
 127.0.0.1	windomstatetheater.com
 127.0.0.1	bookpopoq.shop
 127.0.0.1	fork.trace467.com
@@ -69819,4 +69824,4 @@
 127.0.0.1	just-in-timelog.com
 127.0.0.1	raw.igxhost.ru
 127.0.0.1	disco-la-cola.de
-# Number of entries: 69813
+# Number of entries: 69818
