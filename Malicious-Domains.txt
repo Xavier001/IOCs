@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-24 00:01:24 UTC                        #
+# Last updated: 2025-05-24 08:01:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	injector.ddns.net
+127.0.0.1	files.catbox.moe
+127.0.0.1	have-printing.gl.at.ply.gg
+127.0.0.1	hackerhacker312312-57133.portmap.io
+127.0.0.1	server25.mentality.cloud
+127.0.0.1	iwishiamhappy.zapto.org
+127.0.0.1	feedback-pearl.gl.at.ply.gg
+127.0.0.1	async.uhdengine.com
 127.0.0.1	www.sasha-solzhenicyn.ru
 127.0.0.1	fedor-turin.ru
 127.0.0.1	katzstealer.com
@@ -69852,12 +69860,4 @@
 127.0.0.1	dsivhbuz383hbv.top
 127.0.0.1	annadegismen.com
 127.0.0.1	bnzyewtreugbhbw.top
-127.0.0.1	hospital-selling.gl.at.ply.gg
-127.0.0.1	rm.anonbaba.net
-127.0.0.1	anonbaba.net
-127.0.0.1	vlha.shop
-127.0.0.1	audio-ham.gl.at.ply.gg
-127.0.0.1	gay.nguyenletriloc.pro
-127.0.0.1	keoqiqigggqkcykq.xyz
-127.0.0.1	saw-shirts.gl.at.ply.gg
 # Number of entries: 69854
