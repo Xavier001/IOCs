@@ -1,11 +1,65 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-24 08:01:29 UTC                        #
+# Last updated: 2025-05-24 11:14:16 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	marupizza.com
+127.0.0.1	security.fcloduare.com
+127.0.0.1	security.guarcflar.com
+127.0.0.1	holiperz.com
+127.0.0.1	security.cloofagrd.com
+127.0.0.1	senamod.com
+127.0.0.1	security.guradclare.com
+127.0.0.1	demoian.com
+127.0.0.1	joekdo.com
+127.0.0.1	anallyticsnodde.com
+127.0.0.1	windowsmsn-cn.live
+127.0.0.1	4-slovo.ru
+127.0.0.1	lkorxddl.top
+127.0.0.1	yarnwool.xyz
+127.0.0.1	yeardegree.icu
+127.0.0.1	0advennture.top
+127.0.0.1	0citellcagt.top
+127.0.0.1	1techsyncq.run
+127.0.0.1	2bogtkr.top
+127.0.0.1	3clarmodq.top
+127.0.0.1	3y7korxddl.top
+127.0.0.1	5techguidet.digital
+127.0.0.1	8escczlv.top
+127.0.0.1	998parakehjet.run
+127.0.0.1	9blackljjwc.run
+127.0.0.1	bidausid.live
+127.0.0.1	bnarrathfpt.top
+127.0.0.1	cescczlv.top
+127.0.0.1	dgalijd.shop
+127.0.0.1	dordntx.top
+127.0.0.1	ezenithcorde.top
+127.0.0.1	gcitellcagt.top
+127.0.0.1	ibuzzarddf.live
+127.0.0.1	klocalixbiw.top
+127.0.0.1	kqstrejqt.bet
+127.0.0.1	aphidojwdm.live
+127.0.0.1	bullhevrgg.live
+127.0.0.1	daggioc.run
+127.0.0.1	defender.kim
+127.0.0.1	gmmfjz.run
+127.0.0.1	windows.defender.kim
+127.0.0.1	gofzm.digital
+127.0.0.1	incqtq.run
+127.0.0.1	blockhubr.live
+127.0.0.1	5bubblezdjw.live
+127.0.0.1	8winterghzp.digital
+127.0.0.1	ehaircuirfm.top
+127.0.0.1	fiftyblob.boats
+127.0.0.1	hourdigestion.icu
+127.0.0.1	icureq.live
+127.0.0.1	nervehorse.icu
+127.0.0.1	quillexperience.icu
+127.0.0.1	railwaystomach.xyz
+127.0.0.1	wishson.icu
 127.0.0.1	injector.ddns.net
 127.0.0.1	files.catbox.moe
 127.0.0.1	have-printing.gl.at.ply.gg
@@ -69858,6 +69912,4 @@
 127.0.0.1	vuau3v3z.top
 127.0.0.1	bi99ebz.top
 127.0.0.1	dsivhbuz383hbv.top
-127.0.0.1	annadegismen.com
-127.0.0.1	bnzyewtreugbhbw.top
-# Number of entries: 69854
+# Number of entries: 69906
