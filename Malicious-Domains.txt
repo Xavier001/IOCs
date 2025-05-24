@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-24 11:14:16 UTC                        #
+# Last updated: 2025-05-24 16:02:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mail0.hswl.shop
+127.0.0.1	sunground.info
+127.0.0.1	mintborder.icu
+127.0.0.1	eggisland.info
+127.0.0.1	web.ucucuga.tech
 127.0.0.1	marupizza.com
 127.0.0.1	security.fcloduare.com
 127.0.0.1	security.guarcflar.com
@@ -69904,12 +69909,4 @@
 127.0.0.1	b2een.xyz
 127.0.0.1	testprodad.duckdns.org
 127.0.0.1	sokopar55.store
-127.0.0.1	sweethomejp.duckdns.org
-127.0.0.1	masakiku.thddns.net
-127.0.0.1	testhub.thddns.net
-127.0.0.1	okplus.thddns.net
-127.0.0.1	oslink.thddns.net
-127.0.0.1	vuau3v3z.top
-127.0.0.1	bi99ebz.top
-127.0.0.1	dsivhbuz383hbv.top
-# Number of entries: 69906
+# Number of entries: 69903
