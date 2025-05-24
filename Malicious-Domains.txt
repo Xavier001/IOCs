@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-23 18:16:02 UTC                        #
+# Last updated: 2025-05-24 00:01:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.sasha-solzhenicyn.ru
+127.0.0.1	fedor-turin.ru
 127.0.0.1	katzstealer.com
 127.0.0.1	twist2katz.com
 127.0.0.1	pub-ce02802067934e0eb072f69bf6427bf6.r2.dev
@@ -69858,4 +69860,4 @@
 127.0.0.1	gay.nguyenletriloc.pro
 127.0.0.1	keoqiqigggqkcykq.xyz
 127.0.0.1	saw-shirts.gl.at.ply.gg
-# Number of entries: 69852
+# Number of entries: 69854
