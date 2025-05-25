@@ -70003,5 +70003,4 @@
 127.0.0.1	source.scriptsafedata.com
 127.0.0.1	reviewtypes.com
 127.0.0.1	modandcrackedapk.com
-127.0.0.1	opporeno8.com
-# Number of entries: 69998
+# Number of entries: 69997
