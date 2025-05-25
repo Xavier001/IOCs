@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-24 16:02:09 UTC                        #
+# Last updated: 2025-05-25 04:12:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	jucnglecrea.bet
+127.0.0.1	electronicpgioneers.live
+127.0.0.1	ec2-18-228-31-163.sa-east-1.compute.amazonaws.com
+127.0.0.1	rustore.sasha-solzhenicyn.ru
 127.0.0.1	mail0.hswl.shop
 127.0.0.1	sunground.info
 127.0.0.1	mintborder.icu
@@ -69909,4 +69913,4 @@
 127.0.0.1	b2een.xyz
 127.0.0.1	testprodad.duckdns.org
 127.0.0.1	sokopar55.store
-# Number of entries: 69903
+# Number of entries: 69907
