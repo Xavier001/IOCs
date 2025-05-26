@@ -1,11 +1,91 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-26 09:46:14 UTC                        #
+# Last updated: 2025-05-26 20:13:20 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tjporktrace.com
+127.0.0.1	trazeall.com
+127.0.0.1	ugspy.com
+127.0.0.1	vbeltdrives.com
+127.0.0.1	vuwzer.com
+127.0.0.1	yvngvualr.com
+127.0.0.1	bexarmg.com
+127.0.0.1	bikeabq.com
+127.0.0.1	bitcowe.com
+127.0.0.1	chantalrae.com
+127.0.0.1	downloadmacos.com
+127.0.0.1	escapeesrvelub.com
+127.0.0.1	etechnix.com
+127.0.0.1	fioregarden.com
+127.0.0.1	followerstik.com
+127.0.0.1	gadesive.com
+127.0.0.1	gardenierbi.com
+127.0.0.1	hesingue.com
+127.0.0.1	kbcokc.com
+127.0.0.1	kosmosgrid.com
+127.0.0.1	lenoreinc.com
+127.0.0.1	lildevi.com
+127.0.0.1	m-e-a-s.com
+127.0.0.1	mrkenallen.com
+127.0.0.1	novalur.com
+127.0.0.1	nullitax.com
+127.0.0.1	peperinty.com
+127.0.0.1	pixoos.com
+127.0.0.1	planetajanta.com
+127.0.0.1	posesinpanni.com
+127.0.0.1	realtorrohe.com
+127.0.0.1	sabbih.com
+127.0.0.1	simchatime.com
+127.0.0.1	stickynuggzinc.com
+127.0.0.1	stivaliserna.com
+127.0.0.1	superbaccessories.com
+127.0.0.1	thotlog.com
+127.0.0.1	afhousing.com
+127.0.0.1	arisheema.com
+127.0.0.1	asoonworld.com
+127.0.0.1	azaanamjad.com
+127.0.0.1	bedavavideoizle.com
+127.0.0.1	lolzshop.space
+127.0.0.1	mail.zelen.space
+127.0.0.1	cvzco.run
+127.0.0.1	devotiwpad.live
+127.0.0.1	untgst.run
+127.0.0.1	machack-45210.portmap.io
+127.0.0.1	elfin.duckdns.org
+127.0.0.1	catonzaza-25876.portmap.io
+127.0.0.1	published-refined.gl.at.ply.gg
+127.0.0.1	cleaningenering.top
+127.0.0.1	cleaningpro.top
+127.0.0.1	suchwoni13.duckdns.org
+127.0.0.1	sumeriieab.shop
+127.0.0.1	calyxtwldk.shop
+127.0.0.1	spdbey.digital
+127.0.0.1	lomeas.digital
+127.0.0.1	cyavf.digital
+127.0.0.1	terrgl.digital
+127.0.0.1	pelcxt.digital
+127.0.0.1	medbnel.digital
+127.0.0.1	siilvlt.digital
+127.0.0.1	privwk.digital
+127.0.0.1	dimelb.digital
+127.0.0.1	horrduia.digital
+127.0.0.1	cabzka.digital
+127.0.0.1	coavgdc.digital
+127.0.0.1	lioqki.digital
+127.0.0.1	hehspdw.digital
+127.0.0.1	abubhj.digital
+127.0.0.1	seiyrd.digital
+127.0.0.1	hadibg.digital
+127.0.0.1	frevzb.digital
+127.0.0.1	static.noleggiodisci.com
+127.0.0.1	greengwjz.top
+127.0.0.1	harumseeiw.top
+127.0.0.1	donation.benjaminssoldiers.com
+127.0.0.1	home.33893306.xyz
+127.0.0.1	cv9bpfn9kk9vq.cfc-execute.bj.baidubce.com
 127.0.0.1	security.closecurflae.com
 127.0.0.1	aldoep.com
 127.0.0.1	pancakebag.xyz
@@ -70205,9 +70285,4 @@
 127.0.0.1	z-v2-071924.kailib.com
 127.0.0.1	vidar.cc
 127.0.0.1	frogmen-smell.sbs
-127.0.0.1	bsfchile.com
-127.0.0.1	mytlcjobs.com
-127.0.0.1	freeaccessclinic.com
-127.0.0.1	www.syofi.com
-127.0.0.1	blaekindustry.com
-# Number of entries: 70204
+# Number of entries: 70279
