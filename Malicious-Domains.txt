@@ -1,11 +1,28 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-26 00:01:57 UTC                        #
+# Last updated: 2025-05-26 09:46:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	security.closecurflae.com
+127.0.0.1	aldoep.com
+127.0.0.1	pancakebag.xyz
+127.0.0.1	smarttorg.world
+127.0.0.1	beemorning.icu
+127.0.0.1	birthteeth.xyz
+127.0.0.1	lowspacewish.site
+127.0.0.1	megabuy24.xyz
+127.0.0.1	radio-boating.gl.at.ply.gg
+127.0.0.1	besttrailwithgreatstartingpointforhimgvf.duckdns.org
+127.0.0.1	cashmoneyinc2025.casacam.net
+127.0.0.1	naimshekh-39648.portmap.io
+127.0.0.1	wealthismine.duckdns.org
+127.0.0.1	hilly6969-57199.portmap.io
+127.0.0.1	negob80122-48657.portmap.io
+127.0.0.1	betnot.duck
+127.0.0.1	zxczxczxczxc.twist2katz.com
 127.0.0.1	www.cciczy.com
 127.0.0.1	youdaoruun.icu
 127.0.0.1	youdaosunwi.top
@@ -70193,8 +70210,4 @@
 127.0.0.1	freeaccessclinic.com
 127.0.0.1	www.syofi.com
 127.0.0.1	blaekindustry.com
-127.0.0.1	crypto-way.pro
-127.0.0.1	naturealmikaly.sytes.net
-127.0.0.1	pozza.cyou
-127.0.0.1	nastictac.com
-# Number of entries: 70191
+# Number of entries: 70204
