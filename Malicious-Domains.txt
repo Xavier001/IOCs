@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-25 21:19:15 UTC                        #
+# Last updated: 2025-05-26 00:01:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.cciczy.com
 127.0.0.1	youdaoruun.icu
 127.0.0.1	youdaosunwi.top
 127.0.0.1	youdaouakw.icu
@@ -70196,4 +70197,4 @@
 127.0.0.1	naturealmikaly.sytes.net
 127.0.0.1	pozza.cyou
 127.0.0.1	nastictac.com
-# Number of entries: 70190
+# Number of entries: 70191
