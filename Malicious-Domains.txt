@@ -1,11 +1,31 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-26 20:13:20 UTC                        #
+# Last updated: 2025-05-27 08:36:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	en.veres-m.hu
+127.0.0.1	www.hr.cargo-ni.co.rs
+127.0.0.1	ae.7.4t.com
+127.0.0.1	camilorestrepo905070.duckdns.org
+127.0.0.1	privatedns.uhdengine.com
+127.0.0.1	privatedns.buildmedic.com
+127.0.0.1	mroffice.hopto.org
+127.0.0.1	uplink-routes.asia
+127.0.0.1	krgroup.com
+127.0.0.1	customelisa.com
+127.0.0.1	24hrkpop.com
+127.0.0.1	art-albany.gl.at.ply.gg
+127.0.0.1	kolgah.ddns.net
+127.0.0.1	events-data-microsoft.com
+127.0.0.1	lopeid.com
+127.0.0.1	security.cloofshield.com
+127.0.0.1	maidforyou1985.com
+127.0.0.1	zt45gg.top
+127.0.0.1	year-developers.gl.at.ply.gg
+127.0.0.1	twosisterswine.com.au
 127.0.0.1	tjporktrace.com
 127.0.0.1	trazeall.com
 127.0.0.1	ugspy.com
@@ -70281,8 +70301,4 @@
 127.0.0.1	pweobmxdlboi.com
 127.0.0.1	premiosdosul.com
 127.0.0.1	hydroquebec-client.info
-127.0.0.1	weeatsome.com
-127.0.0.1	z-v2-071924.kailib.com
-127.0.0.1	vidar.cc
-127.0.0.1	frogmen-smell.sbs
-# Number of entries: 70279
+# Number of entries: 70295
