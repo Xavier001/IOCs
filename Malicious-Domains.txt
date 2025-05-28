@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-28 08:42:16 UTC                        #
+# Last updated: 2025-05-28 12:21:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	binduserdoc.p-e.kry.o-r.kr
+127.0.0.1	addes.top
+127.0.0.1	adldas.top
+127.0.0.1	promo.summat10n.org
 127.0.0.1	news.computer-centa.com
 127.0.0.1	industry-decreased.gl.at.ply.gg
 127.0.0.1	dnsg-windows-ds-data.live
@@ -70375,4 +70379,4 @@
 127.0.0.1	01.symsym.info
 127.0.0.1	4i9o.l.time4vps.cloud
 127.0.0.1	lustcdn.ru
-# Number of entries: 70369
+# Number of entries: 70373
