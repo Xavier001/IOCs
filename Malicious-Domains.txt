@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-27 20:01:59 UTC                        #
+# Last updated: 2025-05-28 04:01:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.owa.fedor-turin.ru
+127.0.0.1	1.tcp.hk.cpolar.io
+127.0.0.1	ec2-44-211-135-190.compute-1.amazonaws.com
 127.0.0.1	tinnhiemmang.xyz
 127.0.0.1	tock.pwnyfarm.com
 127.0.0.1	www.wa.fedor-turin.ru
@@ -70404,5 +70407,4 @@
 127.0.0.1	electrum-waves.org
 127.0.0.1	electrum-neo.com
 127.0.0.1	electrum-ada.org
-127.0.0.1	tripeggyun.fun
-# Number of entries: 70399
+# Number of entries: 70401
