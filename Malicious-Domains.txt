@@ -1,11 +1,79 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-29 02:53:27 UTC                        #
+# Last updated: 2025-05-29 07:50:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	kjdgsb.duckdns.org
+127.0.0.1	lender-router-exclusively-fraction.trycloudflare.com
+127.0.0.1	babuinocdt2025.ddns.net
+127.0.0.1	babuinocdt2025.duckdns.org
+127.0.0.1	bundaleleba2025.accesscam.org
+127.0.0.1	bundaleleba2025.ddns.net
+127.0.0.1	cdtmaestrodabahia.duckdns.org
+127.0.0.1	ondamalucacdt.ddns.net
+127.0.0.1	ondamalucacdt.duckdns.org
+127.0.0.1	skynetx2025.accesscam.org
+127.0.0.1	skynetx2025.ddns.net
+127.0.0.1	qatar.uhdengine.com
+127.0.0.1	sevstats.top
+127.0.0.1	sixtestats.top
+127.0.0.1	thirtstat.top
+127.0.0.1	twelvestats.top
+127.0.0.1	partnervrft.com
+127.0.0.1	hekpaharma.com
+127.0.0.1	nid-naveruhr.myvnc.com
+127.0.0.1	nid-naveruyy.serveftp.com
+127.0.0.1	nid-navervjb.myvnc.com
+127.0.0.1	nid-naverway.ddnsking.com
+127.0.0.1	nid-naverwza.servecounterstrike.com
+127.0.0.1	yagorf.myvnc.com
+127.0.0.1	ajerbairjan.store
+127.0.0.1	deponline.p-e.kr
+127.0.0.1	edoc.deponline.p-e.kr
+127.0.0.1	handora.site
+127.0.0.1	hasery.store
+127.0.0.1	uropeanva.store
+127.0.0.1	variylelocation.site
+127.0.0.1	verifiruewtyu.store
+127.0.0.1	yokirae.store
+127.0.0.1	yunkuogn.store
+127.0.0.1	mexc.navers.fun
+127.0.0.1	nid-naverdqw.servequake.com
+127.0.0.1	nid-naveriro.onthewifi.com
+127.0.0.1	nid-naverixo.servemp3.com
+127.0.0.1	nid-naverjlm.ddnsking.com
+127.0.0.1	nid-naverkga.servemp3.com
+127.0.0.1	nid-naverlqd.servecounterstrike.com
+127.0.0.1	nid-navermfn.servepics.com
+127.0.0.1	nid-navermid.serveftp.com
+127.0.0.1	nid-navernrr.servequake.com
+127.0.0.1	nid-navernvj.servequake.com
+127.0.0.1	nid-naveroar.servemp3.com
+127.0.0.1	nid-naverosa.servecounterstrike.com
+127.0.0.1	nid-naveroyq.servemp3.com
+127.0.0.1	nid-naverqcr.servepics.com
+127.0.0.1	nid-naverslf.servegame.com
+127.0.0.1	nid-naversno.servecounterstrike.com
+127.0.0.1	retailparkderventa.com
+127.0.0.1	asset.kyc.mexc-service.store
+127.0.0.1	daumepb.servehttp.com
+127.0.0.1	daumflt.onthewifi.com
+127.0.0.1	m-service.space
+127.0.0.1	mexc.m-service.space
+127.0.0.1	clatdk.live
+127.0.0.1	store-tiktok.com
+127.0.0.1	poker-venues.gl.at.p
+127.0.0.1	brutico2025aprende.kozow.com
+127.0.0.1	friendlyman69.ddns.net
+127.0.0.1	danishcent.duckdns.org
+127.0.0.1	ssh.ddos-cc.org
+127.0.0.1	pielsteel.top
+127.0.0.1	www.vacconnect.com
+127.0.0.1	security.flaweguaard.com
+127.0.0.1	kolepti.com
 127.0.0.1	ss1x1.demonjoe.site
 127.0.0.1	nwww.sasha-solzhenicyn.ru
 127.0.0.1	www.russtore.fedor-turin.ru
@@ -70365,11 +70433,4 @@
 127.0.0.1	wrath-full.cyou
 127.0.0.1	wrench-test.cyou
 127.0.0.1	wrong-oily.cyou
-127.0.0.1	hearforpower.org
-127.0.0.1	blessedwirrow.org
-127.0.0.1	smthwentwrong.com
-127.0.0.1	emv1.hearforpower.org
-127.0.0.1	fushishandm.info
-127.0.0.1	mirailogin.xyz
-127.0.0.1	kotov.lol
-# Number of entries: 70366
+# Number of entries: 70427
