@@ -1,11 +1,98 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-29 11:41:03 UTC                        #
+# Last updated: 2025-05-29 20:38:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.robstuder.com
+127.0.0.1	iqb1.ru
+127.0.0.1	chaojiwang.top
+127.0.0.1	www.azaleacapital.com
+127.0.0.1	ns2.flashcloud.icu
+127.0.0.1	ns1.flashcloud.icu
+127.0.0.1	104075625139-l53k83pb6jbbc2qbreo4i5a0vepen41j.apps.googleusercontent.com
+127.0.0.1	cloud.msapp.workers.dev
+127.0.0.1	pubs.infinityfreeapp.com
+127.0.0.1	resource.infinityfreeapp.com
+127.0.0.1	term-restore-satisfied-hence.trycloudflare.com
+127.0.0.1	ways-sms-pmc-shareholders.trycloudflare.com
+127.0.0.1	word.msapp.workers.dev
+127.0.0.1	nufloo-60946.portmap.io
+127.0.0.1	infra.hitius.bar
+127.0.0.1	blaskjar.xyz
+127.0.0.1	meow.analystic-see.de
+127.0.0.1	api.fiho.at
+127.0.0.1	t2.fiho.at
+127.0.0.1	www.ssistenciiaveiculpr.fun
+127.0.0.1	www.t0it0.top
+127.0.0.1	www.twafalyfpr.xyz
+127.0.0.1	www.ufarm.net
+127.0.0.1	www.ultiplosseguidores.shop
+127.0.0.1	www.undacja-ibd.online
+127.0.0.1	www.usmmsa.net
+127.0.0.1	www.ustom-fences-superior.sbs
+127.0.0.1	www.x072.top
+127.0.0.1	www.xa95w.top
+127.0.0.1	www.xx.blue
+127.0.0.1	www.yncuv.net
+127.0.0.1	www.yoko.services
+127.0.0.1	www.lpdzjz.studio
+127.0.0.1	www.lugyx.top
+127.0.0.1	www.mergingvaccines.net
+127.0.0.1	www.mj12.top
+127.0.0.1	www.ndlessjewelry.store
+127.0.0.1	www.ndnewunq.lol
+127.0.0.1	www.nyuhan.xyz
+127.0.0.1	www.obinrezwan.live
+127.0.0.1	www.oczta-polska-pl.top
+127.0.0.1	www.oftfilmsubstitute.online
+127.0.0.1	www.omesticviolenceourtreach.online
+127.0.0.1	www.ouhael.club
+127.0.0.1	www.ov-jkt.win
+127.0.0.1	www.roundsales.store
+127.0.0.1	www.s86-y9rr7y-sa6vm.xyz
+127.0.0.1	www.emont24-nova.online
+127.0.0.1	www.etheonlyplug.store
+127.0.0.1	www.ey5hl.top
+127.0.0.1	www.frcloud.fun
+127.0.0.1	www.gaciti.net
+127.0.0.1	www.govia.ngo
+127.0.0.1	www.hdbx.net
+127.0.0.1	www.hefixedbusiness.info
+127.0.0.1	www.heknockoffs.band
+127.0.0.1	www.hermobarrier.casa
+127.0.0.1	www.hrzsp.bond
+127.0.0.1	www.ifetimehardwoodfloors.net
+127.0.0.1	www.izehow.top
+127.0.0.1	www.ktuel.store
+127.0.0.1	www.lowed.shop
+127.0.0.1	www.9trq.top
+127.0.0.1	www.akaw114.top
+127.0.0.1	www.alaksino.casino
+127.0.0.1	www.asihmurahdulu.live
+127.0.0.1	www.atagoniaconsultants.net
+127.0.0.1	www.bline.pro
+127.0.0.1	www.bsagency.net
+127.0.0.1	www.ccioali.vip
+127.0.0.1	www.cofun.biz
+127.0.0.1	www.cqddf.top
+127.0.0.1	www.dasrt.xyz
+127.0.0.1	www.des.bio
+127.0.0.1	www.ealthmaker.net
+127.0.0.1	www.ealtorsynclair.online
+127.0.0.1	www.ecoverycenter.health
+127.0.0.1	www.edicar.group
+127.0.0.1	www.10af.top
+127.0.0.1	www.21ng.top
+127.0.0.1	www.470fv.top
+127.0.0.1	www.73df.top
+127.0.0.1	www.7783h.top
+127.0.0.1	www.83f7n.top
+127.0.0.1	ry8fjzbwal.execute-api.ap-southeast-1.amazonaws.com
+127.0.0.1	8ajmswdkjya6r.cfc-execute.bj.baidubce.com
+127.0.0.1	3smqt0fdwhnc5.cfc-execute.bj.baidubce.com
 127.0.0.1	booking.extranet-listing.com
 127.0.0.1	partnervrft.com
 127.0.0.1	thundeqqbw.bet
@@ -70442,4 +70529,4 @@
 127.0.0.1	wrath-full.cyou
 127.0.0.1	wrench-test.cyou
 127.0.0.1	wrong-oily.cyou
-# Number of entries: 70436
+# Number of entries: 70523
