@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-29 07:50:54 UTC                        #
+# Last updated: 2025-05-29 11:41:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	booking.extranet-listing.com
+127.0.0.1	partnervrft.com
+127.0.0.1	thundeqqbw.bet
+127.0.0.1	browser-update.lesalid.com
+127.0.0.1	citrixget.com
+127.0.0.1	cloudtflare.com
+127.0.0.1	nodedock.shop
+127.0.0.1	abo3skr-27041.portmap.io
+127.0.0.1	poker-venues.gl.at.ply.gg
 127.0.0.1	kjdgsb.duckdns.org
 127.0.0.1	lender-router-exclusively-fraction.trycloudflare.com
 127.0.0.1	babuinocdt2025.ddns.net
@@ -70433,4 +70442,4 @@
 127.0.0.1	wrath-full.cyou
 127.0.0.1	wrench-test.cyou
 127.0.0.1	wrong-oily.cyou
-# Number of entries: 70427
+# Number of entries: 70436
