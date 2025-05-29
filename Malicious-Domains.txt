@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-28 18:06:44 UTC                        #
+# Last updated: 2025-05-29 02:53:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ss1x1.demonjoe.site
+127.0.0.1	nwww.sasha-solzhenicyn.ru
+127.0.0.1	www.russtore.fedor-turin.ru
+127.0.0.1	www.nrustore.sasha-solzhenicyn.ru
+127.0.0.1	www.rustore.fedor-turin.ru
 127.0.0.1	risk-extraordinary.gl.at.ply.gg
 127.0.0.1	bkngvvfer.com
 127.0.0.1	sunsetvismarketsoliocosca.com
@@ -70367,4 +70372,4 @@
 127.0.0.1	fushishandm.info
 127.0.0.1	mirailogin.xyz
 127.0.0.1	kotov.lol
-# Number of entries: 70361
+# Number of entries: 70366
