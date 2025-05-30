@@ -1,11 +1,44 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-30 02:54:24 UTC                        #
+# Last updated: 2025-05-30 08:00:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	b2sys.eu
+127.0.0.1	web.ydhjs4.top
+127.0.0.1	web.hrtp46.top
+127.0.0.1	wpthelp.top
+127.0.0.1	battlefled.top
+127.0.0.1	spartel.com
+127.0.0.1	ogw-srl.com
+127.0.0.1	slamarama.org
+127.0.0.1	account.mexc-en.kro.kr
+127.0.0.1	allowservice.store
+127.0.0.1	check-gooqle.site
+127.0.0.1	ejioasd.top
+127.0.0.1	login.mexc-ko.kro.kr
+127.0.0.1	myaccount.check-gooqle.site
+127.0.0.1	pasevperson.store
+127.0.0.1	peopellifesuccess.site
+127.0.0.1	force-cylinder.gl.at.ply.gg
+127.0.0.1	azido.zapto.org
+127.0.0.1	mxsuname.gotdns.ch
+127.0.0.1	valeasy-25091.portmap.io
+127.0.0.1	valeasy.ddns.net
+127.0.0.1	cnc.r00ts.online
+127.0.0.1	milkor723.duckdns.org
+127.0.0.1	ooo.asdfcompany.o-r.kr
+127.0.0.1	urabenet.ddns.net
+127.0.0.1	bkngnet.com
+127.0.0.1	205.181.174.34.bc.googleusercontent.com
+127.0.0.1	ecs-113-44-148-65.compute.hwclouds-dns.com
+127.0.0.1	3dmaine.com
+127.0.0.1	kingdomholding.top
+127.0.0.1	security.flreshieelds.com
+127.0.0.1	wekosle.com
+127.0.0.1	analytiscnode.com
 127.0.0.1	geo.cwlabtes.shop
 127.0.0.1	m.login1-sow.com
 127.0.0.1	4cc3c767-806f-4deb-a2f0-9260e37035c4.sasha-solzhenicyn.ru
@@ -70532,4 +70565,4 @@
 127.0.0.1	wrath-full.cyou
 127.0.0.1	wrench-test.cyou
 127.0.0.1	wrong-oily.cyou
-# Number of entries: 70526
+# Number of entries: 70559
