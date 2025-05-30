@@ -1,11 +1,78 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-30 08:00:49 UTC                        #
+# Last updated: 2025-05-30 12:01:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ip85.ip-51-195-229.eu
+127.0.0.1	ahmadkurda.ddns.net
+127.0.0.1	labza-hack.no-ip.biz
+127.0.0.1	www.tefanaboxhorn.info
+127.0.0.1	www.ualitybeautyhk.clinic
+127.0.0.1	www.urlightelectrical.online
+127.0.0.1	www.usbud.nyc
+127.0.0.1	www.ustlink.top
+127.0.0.1	www.w2zf.cyou
+127.0.0.1	www.weiriicdhjs.shop
+127.0.0.1	www.yvux.town
+127.0.0.1	www.z9m17.cfd
+127.0.0.1	www.ocinas.net
+127.0.0.1	www.ocorporatesolar.net
+127.0.0.1	www.op-sidenko-pdr.online
+127.0.0.1	www.opsexes.net
+127.0.0.1	www.ordserialer.top
+127.0.0.1	www.pzen.art
+127.0.0.1	www.randelektra.online
+127.0.0.1	www.rcakubpj4i7xem.buzz
+127.0.0.1	www.redit-cards-realtime-454.sbs
+127.0.0.1	www.rql9d.top
+127.0.0.1	www.rrnuveo.top
+127.0.0.1	www.studiomh.store
+127.0.0.1	www.t402.top
+127.0.0.1	www.heexpress.net
+127.0.0.1	www.hepedipro.info
+127.0.0.1	www.hewaters.net
+127.0.0.1	www.hisliturgicallife.net
+127.0.0.1	www.hkql.shop
+127.0.0.1	www.homas-et-dorothee.shop
+127.0.0.1	www.hskvm.xyz
+127.0.0.1	www.igtaskforce.top
+127.0.0.1	www.iviral.net
+127.0.0.1	www.k-travel-ce8119a9.bond
+127.0.0.1	www.k6rp.cyou
+127.0.0.1	www.ksp680.top
+127.0.0.1	www.ljhhx.loan
+127.0.0.1	www.mdgmgmdfm.xyz
+127.0.0.1	www.bjvs.town
+127.0.0.1	www.ea4xu.top
+127.0.0.1	www.edartech.store
+127.0.0.1	www.eet-new-people-95417.bond
+127.0.0.1	www.elvetvoiceocean.website
+127.0.0.1	www.elvorn.cfd
+127.0.0.1	www.eoul-bestmassage9.xyz
+127.0.0.1	www.ercep88megahoki.online
+127.0.0.1	www.erezdondurmacisi.online
+127.0.0.1	www.est-k.online
+127.0.0.1	www.estzeny.shop
+127.0.0.1	www.etrox.shop
+127.0.0.1	www.ettersfromthefront.online
+127.0.0.1	www.fertasvivas.shop
+127.0.0.1	www.fvendas.online
+127.0.0.1	www.11320a.buzz
+127.0.0.1	www.329-nearsightedness-01.cfd
+127.0.0.1	www.33dz.top
+127.0.0.1	www.41244.club
+127.0.0.1	www.63-gd.pro
+127.0.0.1	www.7ev5.net
+127.0.0.1	www.88es.top
+127.0.0.1	www.915b.app
+127.0.0.1	www.aglelakerecovery.net
+127.0.0.1	www.anarysocied.info
+127.0.0.1	www.argill-invest.top
+127.0.0.1	www.aser-skin-treatment-88304.bond
+127.0.0.1	www.avision.store
 127.0.0.1	b2sys.eu
 127.0.0.1	web.ydhjs4.top
 127.0.0.1	web.hrtp46.top
@@ -70565,4 +70632,4 @@
 127.0.0.1	wrath-full.cyou
 127.0.0.1	wrench-test.cyou
 127.0.0.1	wrong-oily.cyou
-# Number of entries: 70559
+# Number of entries: 70626
