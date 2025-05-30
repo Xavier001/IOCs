@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-29 20:38:47 UTC                        #
+# Last updated: 2025-05-30 02:54:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	geo.cwlabtes.shop
+127.0.0.1	m.login1-sow.com
+127.0.0.1	4cc3c767-806f-4deb-a2f0-9260e37035c4.sasha-solzhenicyn.ru
 127.0.0.1	www.robstuder.com
 127.0.0.1	iqb1.ru
 127.0.0.1	chaojiwang.top
@@ -70529,4 +70532,4 @@
 127.0.0.1	wrath-full.cyou
 127.0.0.1	wrench-test.cyou
 127.0.0.1	wrong-oily.cyou
-# Number of entries: 70523
+# Number of entries: 70526
