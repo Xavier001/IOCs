@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-30 21:09:29 UTC                        #
+# Last updated: 2025-05-31 02:53:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cdn.pollogreatagain.click
+127.0.0.1	tavge.duckdns.org
+127.0.0.1	s4cc3c767-806f-4deb-a2f0-9260e37035c4.sasha-solzhenicyn.ru
+127.0.0.1	sitemaps.sasha-solzhenicyn.ru
+127.0.0.1	sitemaps.fedor-turin.ru
+127.0.0.1	asdxxcg.top
+127.0.0.1	802y5hys810na.cfc-execute.gz.baidubce.com
 127.0.0.1	jkpod.duckdns.org
 127.0.0.1	southern-monsters.gl.at.ply.gg
 127.0.0.1	amafiles.net
@@ -70872,4 +70879,4 @@
 127.0.0.1	wrath-full.cyou
 127.0.0.1	wrench-test.cyou
 127.0.0.1	wrong-oily.cyou
-# Number of entries: 70866
+# Number of entries: 70873
