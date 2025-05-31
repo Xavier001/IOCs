@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-31 09:22:03 UTC                        #
+# Last updated: 2025-05-31 19:01:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ns1.cxtwh.top
+127.0.0.1	law-nc.gl.at.ply.gg
+127.0.0.1	flytouur.shop
+127.0.0.1	jefati5198-31022.portmap.io
+127.0.0.1	nanotism.nolanwh.cf
+127.0.0.1	affiliate-47437.portmap.io
+127.0.0.1	eliteaffiliate-24198.portmap.io
+127.0.0.1	chahid123.no-ip.biz
+127.0.0.1	138-201-220-186.top
+127.0.0.1	updaterswindows.com
+127.0.0.1	631dgmj9-8085.usw3.devtunnels.ms
 127.0.0.1	multiperfect.cloud
 127.0.0.1	kimbeech.cfd
 127.0.0.1	yie-cpj.pages.dev
@@ -70902,4 +70913,4 @@
 127.0.0.1	wrath-full.cyou
 127.0.0.1	wrench-test.cyou
 127.0.0.1	wrong-oily.cyou
-# Number of entries: 70896
+# Number of entries: 70907
