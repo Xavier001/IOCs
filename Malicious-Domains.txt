@@ -1,11 +1,34 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-31 02:53:32 UTC                        #
+# Last updated: 2025-05-31 09:22:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	multiperfect.cloud
+127.0.0.1	kimbeech.cfd
+127.0.0.1	yie-cpj.pages.dev
+127.0.0.1	orange-service.xyz
+127.0.0.1	erika-mugia.mikahouse.my.id
+127.0.0.1	www.arcadealley.fun
+127.0.0.1	185-36-145-226.static.sslip.io
+127.0.0.1	security.gurradfclre.com
+127.0.0.1	loakens.com
+127.0.0.1	brefif.run
+127.0.0.1	majlkj.live
+127.0.0.1	makeyrlo.top
+127.0.0.1	racueu.run
+127.0.0.1	stockyslam.top
+127.0.0.1	windowsmsn-cn.live
+127.0.0.1	anichind.com
+127.0.0.1	held-isle.gl.at.ply.gg
+127.0.0.1	rcglobo.duckdns.org
+127.0.0.1	takerhumble.duckdns.org
+127.0.0.1	lordegypt.no-ip.org
+127.0.0.1	supersha256.run.place
+127.0.0.1	shilex.dyndns.org
+127.0.0.1	hold-asy.duckdns.org
 127.0.0.1	cdn.pollogreatagain.click
 127.0.0.1	tavge.duckdns.org
 127.0.0.1	s4cc3c767-806f-4deb-a2f0-9260e37035c4.sasha-solzhenicyn.ru
@@ -70879,4 +70902,4 @@
 127.0.0.1	wrath-full.cyou
 127.0.0.1	wrench-test.cyou
 127.0.0.1	wrong-oily.cyou
-# Number of entries: 70873
+# Number of entries: 70896
