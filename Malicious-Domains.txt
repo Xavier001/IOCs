@@ -1,11 +1,104 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-01 11:58:29 UTC                        #
+# Last updated: 2025-06-01 20:07:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	snugglcycloud.life
+127.0.0.1	stepupnwr.live
+127.0.0.1	stoatrt.live
+127.0.0.1	stratinfot.live
+127.0.0.1	striketr.live
+127.0.0.1	stxarnavig.live
+127.0.0.1	tacticaltalks.live
+127.0.0.1	thrumgh.live
+127.0.0.1	tidalqhbf.live
+127.0.0.1	woodhlandsong.life
+127.0.0.1	renewxc.live
+127.0.0.1	risehighq.live
+127.0.0.1	royalwuet.live
+127.0.0.1	salmonqw.live
+127.0.0.1	samedicq.live
+127.0.0.1	sectorecoo.live
+127.0.0.1	serenecomhfort.life
+127.0.0.1	setfreecxz.live
+127.0.0.1	silveyrmoon.live
+127.0.0.1	simplifyq.live
+127.0.0.1	skunkxd.live
+127.0.0.1	slovenecow.live
+127.0.0.1	smelterc.live
+127.0.0.1	medievalarth.live
+127.0.0.1	modrisey.live
+127.0.0.1	modteamo.live
+127.0.0.1	moldwaye.live
+127.0.0.1	mutedhofrn.live
+127.0.0.1	mygadgety.live
+127.0.0.1	netgizmow.live
+127.0.0.1	noblequestx.live
+127.0.0.1	nxaturepals.life
+127.0.0.1	pixelupf.live
+127.0.0.1	precisionde.live
+127.0.0.1	quantdatai.live
+127.0.0.1	quokkauy.live
+127.0.0.1	hoparround.live
+127.0.0.1	improvsv.live
+127.0.0.1	indoeconw.live
+127.0.0.1	innovdg.live
+127.0.0.1	insulaey.live
+127.0.0.1	live.irlecont
+127.0.0.1	live.ironloxp.live
+127.0.0.1	issuehouf.live
+127.0.0.1	jumpstarbt.live
+127.0.0.1	lemonwsljq.live
+127.0.0.1	lunarayl.live
+127.0.0.1	magnetvxss.live
+127.0.0.1	maximusw.live
+127.0.0.1	doorwanzeh.live
+127.0.0.1	drbettere.live
+127.0.0.1	dryeyewqpx.live
+127.0.0.1	ecomtechv.live
+127.0.0.1	econbult.live
+127.0.0.1	econdeni.live
+127.0.0.1	fcushionpillow.live
+127.0.0.1	forgeitu.live
+127.0.0.1	flighthon.life
+127.0.0.1	lunafixg.life
+127.0.0.1	freedompoa.live
+127.0.0.1	futurizez.live
+127.0.0.1	glarefamik.live
+127.0.0.1	handgunhan.live
+127.0.0.1	heraldmstaff.live
+127.0.0.1	bardsyies.live
+127.0.0.1	battlewlds.live
+127.0.0.1	bitteam.info
+127.0.0.1	boostmodw.live
+127.0.0.1	breuhiag.live
+127.0.0.1	bulletiner.life
+127.0.0.1	castifye.live
+127.0.0.1	castmanb.live
+127.0.0.1	citydream.live
+127.0.0.1	corgiw.live
+127.0.0.1	datacuet.live
+127.0.0.1	cyberheive.life
+127.0.0.1	deviatemow.live
+127.0.0.1	devloopt.live
+127.0.0.1	digimodt.live
+127.0.0.1	axionexv.life
+127.0.0.1	aiupdatesd.live
+127.0.0.1	ammoanaly.live
+127.0.0.1	antikidi.live
+127.0.0.1	antilcvope.live
+127.0.0.1	autodiscorver.fedor-turin.ru
+127.0.0.1	www.12333333.sasha-solzhenicyn.ru
+127.0.0.1	wa.sasha-solzhenicyn.ru
+127.0.0.1	autodiscover.sasha-solzhenicyn.ru
+127.0.0.1	create-mechanism.gl.at.ply.gg
+127.0.0.1	cdlink3.duckdns.org
+127.0.0.1	search-email.com
+127.0.0.1	mail.ssadownload.top
+127.0.0.1	medellin2029.duckdns.org
 127.0.0.1	sd693.com
 127.0.0.1	jolertipor33.top
 127.0.0.1	hagitkoren.online
@@ -70761,8 +70854,4 @@
 127.0.0.1	trc20.kcgrocks.com
 127.0.0.1	melkie.cyou
 127.0.0.1	cloud.sentinelonebit.com
-127.0.0.1	botnet.arismstress.us
-127.0.0.1	arismstress.us
-127.0.0.1	arismstress.us
-127.0.0.1	botnet.arismstress.us
-# Number of entries: 70759
+# Number of entries: 70848
