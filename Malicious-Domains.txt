@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-05-31 19:01:09 UTC                        #
+# Last updated: 2025-06-01 04:00:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.rua.fedor-turin.ru
+127.0.0.1	vv4.qpalzmonline.uk
+127.0.0.1	www.inphyra.com
+127.0.0.1	ip-89-40-31-203.hosted-by-hosterdaddy.com
+127.0.0.1	www.rurusstore.fedor-turin.ru
 127.0.0.1	ns1.cxtwh.top
 127.0.0.1	law-nc.gl.at.ply.gg
 127.0.0.1	flytouur.shop
@@ -70809,7 +70814,6 @@
 127.0.0.1	serbubet.store
 127.0.0.1	gladim.sbs
 127.0.0.1	bfd78.biz
-127.0.0.1	vidar.su
 127.0.0.1	www.teleproservice.com
 127.0.0.1	breminantores.shop
 127.0.0.1	bigtasty.shop
@@ -70913,4 +70917,4 @@
 127.0.0.1	wrath-full.cyou
 127.0.0.1	wrench-test.cyou
 127.0.0.1	wrong-oily.cyou
-# Number of entries: 70907
+# Number of entries: 70911
