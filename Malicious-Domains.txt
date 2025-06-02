@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-02 08:55:20 UTC                        #
+# Last updated: 2025-06-02 10:25:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tinklertjp.bet
 127.0.0.1	xx.7.4t.com
 127.0.0.1	analyticnodes.com
 127.0.0.1	security.claufgaurd.com
@@ -70876,4 +70877,4 @@
 127.0.0.1	lumjebyhiu.shop
 127.0.0.1	lumvelvettouch.shop
 127.0.0.1	lumcrystalclear.shop
-# Number of entries: 70870
+# Number of entries: 70871
