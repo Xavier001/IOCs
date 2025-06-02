@@ -1,11 +1,28 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-02 04:01:19 UTC                        #
+# Last updated: 2025-06-02 08:55:20 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	xx.7.4t.com
+127.0.0.1	analyticnodes.com
+127.0.0.1	security.claufgaurd.com
+127.0.0.1	security.clodaflare.com
+127.0.0.1	security.clodujflare.com
+127.0.0.1	security.cloofalerg.com
+127.0.0.1	security.clouodgrd.com
+127.0.0.1	security.cloudstwr.com
+127.0.0.1	security.flclodshield.com
+127.0.0.1	security.flearegaurdc.com
+127.0.0.1	security.shieldclouds.com
+127.0.0.1	security.flflaegaurd.com
+127.0.0.1	core.sopeited.info
+127.0.0.1	core.sopeited.com
+127.0.0.1	core.sopeited.org
+127.0.0.1	elomaio.com
+127.0.0.1	hi-nurses.gl.at.ply.gg
 127.0.0.1	ecs-189-1-223-179.compute.hwclouds-dns.com
 127.0.0.1	1254528c-235e-4b9b-9bf3-850214133e82.selcdn.net
 127.0.0.1	cat.fedor-turin.ru
@@ -70859,7 +70876,4 @@
 127.0.0.1	lumjebyhiu.shop
 127.0.0.1	lumvelvettouch.shop
 127.0.0.1	lumcrystalclear.shop
-127.0.0.1	trc20.kcgrocks.com
-127.0.0.1	melkie.cyou
-127.0.0.1	cloud.sentinelonebit.com
-# Number of entries: 70856
+# Number of entries: 70870
