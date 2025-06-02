@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-01 20:07:24 UTC                        #
+# Last updated: 2025-06-02 04:01:19 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ecs-189-1-223-179.compute.hwclouds-dns.com
+127.0.0.1	1254528c-235e-4b9b-9bf3-850214133e82.selcdn.net
+127.0.0.1	cat.fedor-turin.ru
+127.0.0.1	www.owa.sasha-solzhenicyn.ru
+127.0.0.1	4cc3c767-806f-4deb-a2f0-9260e37035c4.fedor-turin.ru
+127.0.0.1	www.rurua.fedor-turin.ru
+127.0.0.1	cdn.moneycomesagain.click
+127.0.0.1	548125.com
 127.0.0.1	snugglcycloud.life
 127.0.0.1	stepupnwr.live
 127.0.0.1	stoatrt.live
@@ -70854,4 +70862,4 @@
 127.0.0.1	trc20.kcgrocks.com
 127.0.0.1	melkie.cyou
 127.0.0.1	cloud.sentinelonebit.com
-# Number of entries: 70848
+# Number of entries: 70856
