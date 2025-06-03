@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-02 17:04:13 UTC                        #
+# Last updated: 2025-06-03 04:01:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ruowa.fedor-turin.ru
+127.0.0.1	23-95-197-208.cprapid.com
+127.0.0.1	adfsrss.pullovereshirt.xyz
+127.0.0.1	portal.pullovereshirt.xyz
 127.0.0.1	zvv007n2e9.execute-api.ap-southeast-1.amazonaws.com
 127.0.0.1	29.ip.gl.ply.gg
 127.0.0.1	prior-organizational.gl.at.ply.gg
@@ -70535,4 +70539,4 @@
 127.0.0.1	lemon.geoiplookup.live
 127.0.0.1	loans-hamburg.gl.at.ply.gg
 127.0.0.1	cnet-contracting.gl.at.ply.gg
-# Number of entries: 70529
+# Number of entries: 70533
