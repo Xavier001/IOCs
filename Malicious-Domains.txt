@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-03 09:47:57 UTC                        #
+# Last updated: 2025-06-03 12:22:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	kubarekauction.com
+127.0.0.1	downloadtech.duckdns.org
+127.0.0.1	mikrusuft.com
+127.0.0.1	3xczyxef1vqnf.cfc-execute.bj.baidubce.com
 127.0.0.1	bookpopow.shop
 127.0.0.1	ankul.vmcentra.top
 127.0.0.1	gs45.duckdns.org
@@ -70721,5 +70725,4 @@
 127.0.0.1	fr.elite-api.su
 127.0.0.1	q8ds.net
 127.0.0.1	www.oleonidas.gr
-127.0.0.1	cities-constraints.gl.at.ply.gg
-# Number of entries: 70716
+# Number of entries: 70719
