@@ -1,11 +1,81 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-03 18:08:56 UTC                        #
+# Last updated: 2025-06-04 10:05:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	blacktds.ai
+127.0.0.1	hard-gulf.gl.at.ply.gg
+127.0.0.1	www.vincnakliye.xyz
+127.0.0.1	www.wall-repair-10251.bond
+127.0.0.1	www.whichwe.live
+127.0.0.1	www.whuastp.info
+127.0.0.1	www.work-abroad-52523.bond
+127.0.0.1	www.xinshengyou.xyz
+127.0.0.1	www.xzgdp.autos
+127.0.0.1	www.your-swsolutions.info
+127.0.0.1	www.yuuk1.click
+127.0.0.1	www.zainnova.shop
+127.0.0.1	www.pagamentoseguroficial.pro
+127.0.0.1	www.parposaltguide.cyou
+127.0.0.1	www.perfectdrishti.info
+127.0.0.1	www.pin-up-slot-fast.buzz
+127.0.0.1	www.pl-oferta2759576.cfd
+127.0.0.1	www.rockystatue.shop
+127.0.0.1	www.roofing-jobs-26086.bond
+127.0.0.1	www.roofing-services-34072.bond
+127.0.0.1	www.security-jobs-cl-3.today
+127.0.0.1	www.setpink.life
+127.0.0.1	www.sharelaunch.xyz
+127.0.0.1	www.simplycandles.shop
+127.0.0.1	www.soggilysootsstative.cloud
+127.0.0.1	www.tdnimji.buzz
+127.0.0.1	www.thinkhuman.net
+127.0.0.1	www.topisalpert.shop
+127.0.0.1	www.ufalosdmsz.shop
+127.0.0.1	www.video-games-97741.bond
+127.0.0.1	www.video1.net
+127.0.0.1	www.guidacorsa.corsica
+127.0.0.1	www.idlersinduedinfeft.cloud
+127.0.0.1	www.influencer-marketing-61296.bond
+127.0.0.1	www.j2st.info
+127.0.0.1	www.jfdjn.autos
+127.0.0.1	www.knapsackdisplay.shop
+127.0.0.1	www.l2d35efae0yw1rvt9qefw8cfg.net
+127.0.0.1	www.leadmagnetcpa.shop
+127.0.0.1	www.leadmagnetppc.shop
+127.0.0.1	www.mantispms.net
+127.0.0.1	www.marpiset.shop
+127.0.0.1	www.marvelterbang.shop
+127.0.0.1	www.matalan.jobs
+127.0.0.1	www.newcarfi.info
+127.0.0.1	www.olding-beds-61261.bond
+127.0.0.1	www.oxvia.homes
+127.0.0.1	www.100449.net
+127.0.0.1	www.59hl.net
+127.0.0.1	www.77578.shop
+127.0.0.1	www.87445.pizza
+127.0.0.1	www.952734073.xyz
+127.0.0.1	www.abandoned-houses-38551.bond
+127.0.0.1	www.aborteracciteadmetus.cloud
+127.0.0.1	www.binarybingenbiscay.cloud
+127.0.0.1	www.cars-3549835.zone
+127.0.0.1	www.cataract-surgery-63955.bond
+127.0.0.1	www.chinaclean.xyz
+127.0.0.1	www.cjc-nm.vip
+127.0.0.1	www.cleaning-services-40215.bond
+127.0.0.1	www.cvkisegy.shop
+127.0.0.1	www.estieaaa.xyz
+127.0.0.1	www.fashionstore1999.shop
+127.0.0.1	www.frau-tonis-parfum.shop
+127.0.0.1	www.fromscratch.top
+127.0.0.1	www.greenblockventures.net
+127.0.0.1	www.0v3py92izrp23yy.xyz
+127.0.0.1	security.flagguart.com
+127.0.0.1	masteringjscode.com
+127.0.0.1	kolepz.com
 127.0.0.1	ar-bn.guidzin.com
 127.0.0.1	baihuah.top
 127.0.0.1	www.intellegrationllc.com
@@ -71716,11 +71786,4 @@
 127.0.0.1	dr0id.best
 127.0.0.1	k358a192.ala.dedicated.aws.emqxcloud.com
 127.0.0.1	ie721f2d.ala.dedicated.aws.emqxcloud.com
-127.0.0.1	blackshelter.org
-127.0.0.1	fileoutput.pro
-127.0.0.1	flagsair.com
-127.0.0.1	nfcgov.com
-127.0.0.1	kresk.lol
-127.0.0.1	rt.mod0.ch
-127.0.0.1	sleepy-khorana.193-239-86-216.plesk.page
-# Number of entries: 71717
+# Number of entries: 71780
