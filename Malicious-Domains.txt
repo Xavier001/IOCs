@@ -1,11 +1,37 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-04 10:05:23 UTC                        #
+# Last updated: 2025-06-04 20:01:41 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	timesync-utc.org
+127.0.0.1	ec2-13-229-126-45.ap-southeast-1.compute.amazonaws.com
+127.0.0.1	ec2-54-227-80-194.compute-1.amazonaws.com
+127.0.0.1	51.e1.4t.com
+127.0.0.1	mypopy.ddns.net
+127.0.0.1	djksandjkandsa-58893.portmap.io
+127.0.0.1	e3qieuj3qidwsa-60573.portmap.io
+127.0.0.1	vvvvvvase2314e214re21-22848.portmap.io
+127.0.0.1	aneesh-technomakestbk3.duckdns.org
+127.0.0.1	dreadfulnighttime.ddns.net
+127.0.0.1	hackerhussien00000.no-ip.biz
+127.0.0.1	028.portmap.host
+127.0.0.1	haneyr2.noip.me
+127.0.0.1	hollowin.000webhostapp.com
+127.0.0.1	rxrphar.duckdns.org
+127.0.0.1	xleee90.duckdns.org
+127.0.0.1	algfbg.live
+127.0.0.1	autogearw.live
+127.0.0.1	magwaeg.live
+127.0.0.1	screhwc.live
+127.0.0.1	proccess-verify.com
+127.0.0.1	tqidskreen.top
+127.0.0.1	zmfcc.es
+127.0.0.1	qytwba.anondns.net
+127.0.0.1	hamr.shop
+127.0.0.1	cpanel.doggiefountain.com
 127.0.0.1	blacktds.ai
 127.0.0.1	hard-gulf.gl.at.ply.gg
 127.0.0.1	www.vincnakliye.xyz
@@ -71769,17 +71795,4 @@
 127.0.0.1	28558-46574.bacloud.info
 127.0.0.1	original-financial.gl.at.ply.gg
 127.0.0.1	ikores.sbs
-127.0.0.1	sha-mara.com
-127.0.0.1	chronicsmovie.com
-127.0.0.1	kemrox.com
-127.0.0.1	moneyluck.duckdns.org
-127.0.0.1	moneyluckwork.ddns.net
-127.0.0.1	stipamana.com
-127.0.0.1	renqidm.info
-127.0.0.1	wavec2.joaophillip.dev
-127.0.0.1	xoomep1.com
-127.0.0.1	xoomep2.com
-127.0.0.1	labudanka2.com
-127.0.0.1	gribidi2.com
-127.0.0.1	www.stipamana.com
-# Number of entries: 71776
+# Number of entries: 71789
