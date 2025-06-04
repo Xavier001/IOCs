@@ -71782,8 +71782,4 @@
 127.0.0.1	labudanka2.com
 127.0.0.1	gribidi2.com
 127.0.0.1	www.stipamana.com
-127.0.0.1	load.webdatahoster.com
-127.0.0.1	dr0id.best
-127.0.0.1	k358a192.ala.dedicated.aws.emqxcloud.com
-127.0.0.1	ie721f2d.ala.dedicated.aws.emqxcloud.com
-# Number of entries: 71780
+# Number of entries: 71776
