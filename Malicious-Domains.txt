@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-05 09:04:28 UTC                        #
+# Last updated: 2025-06-05 10:23:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	domaincrop.fun
+127.0.0.1	plaxyrj.run
+127.0.0.1	runtnwq.run
+127.0.0.1	tyrpsrl.live
+127.0.0.1	wepwwd.live
+127.0.0.1	arcticprivate.duckdns.go
+127.0.0.1	arcticprivate.duckdns.org
+127.0.0.1	net.drillrp.com
+127.0.0.1	krakep.duckdns.org
+127.0.0.1	shop.xuebimc.com
 127.0.0.1	super.mrflame.cfd
 127.0.0.1	microsofte.zapto.org
 127.0.0.1	bravo-rewards.com
@@ -71791,4 +71801,4 @@
 127.0.0.1	law.kimsavagelaw.com
 127.0.0.1	connect.resourcecloud.shop
 127.0.0.1	klipdajemua0.shop
-# Number of entries: 71785
+# Number of entries: 71795
