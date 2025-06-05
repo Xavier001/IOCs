@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-05 03:03:03 UTC                        #
+# Last updated: 2025-06-05 09:04:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	super.mrflame.cfd
+127.0.0.1	microsofte.zapto.org
+127.0.0.1	bravo-rewards.com
+127.0.0.1	chat.mrflame.cfd
+127.0.0.1	basicvitals.com
+127.0.0.1	mastercardkeys.world
+127.0.0.1	jetjetbrzil.shop
+127.0.0.1	security.guaedfleres.com
+127.0.0.1	nemaodi.com
+127.0.0.1	robertocalimera.icu
 127.0.0.1	callbak.link.com
 127.0.0.1	timesync-utc.org
 127.0.0.1	ec2-13-229-126-45.ap-southeast-1.compute.amazonaws.com
@@ -71781,7 +71791,4 @@
 127.0.0.1	law.kimsavagelaw.com
 127.0.0.1	connect.resourcecloud.shop
 127.0.0.1	klipdajemua0.shop
-127.0.0.1	www.friendly-curie.193-239-86-216.plesk.page
-127.0.0.1	gallant-pike.193-239-86-216.plesk.page
-127.0.0.1	103-152-255-69.cprapid.com
-# Number of entries: 71778
+# Number of entries: 71785
