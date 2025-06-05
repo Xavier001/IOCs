@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-04 20:01:41 UTC                        #
+# Last updated: 2025-06-05 03:03:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	callbak.link.com
 127.0.0.1	timesync-utc.org
 127.0.0.1	ec2-13-229-126-45.ap-southeast-1.compute.amazonaws.com
 127.0.0.1	ec2-54-227-80-194.compute-1.amazonaws.com
@@ -71783,16 +71784,4 @@
 127.0.0.1	www.friendly-curie.193-239-86-216.plesk.page
 127.0.0.1	gallant-pike.193-239-86-216.plesk.page
 127.0.0.1	103-152-255-69.cprapid.com
-127.0.0.1	www.lqwpl.fun
-127.0.0.1	visit.statclick.net
-127.0.0.1	share.clickstat360.com
-127.0.0.1	zips.duckdns.org
-127.0.0.1	gracious-hellman.193-239-86-216.plesk.page
-127.0.0.1	gallant-wright.193-239-86-216.plesk.page
-127.0.0.1	securemicrosoftonline.in
-127.0.0.1	139-162-48-242.ip.linodeusercontent.com
-127.0.0.1	mcasproxy.crsdorg.in
-127.0.0.1	28558-46574.bacloud.info
-127.0.0.1	original-financial.gl.at.ply.gg
-127.0.0.1	ikores.sbs
-# Number of entries: 71789
+# Number of entries: 71778
