@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-05 18:41:52 UTC                        #
+# Last updated: 2025-06-06 02:53:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ns1.admlistdel.com
 127.0.0.1	3gvvbrdve1gqr.cfc-execute.bj.baidubce.com
 127.0.0.1	3.cc.4t.com
 127.0.0.1	51.e2.4t.com
@@ -71775,7 +71776,6 @@
 127.0.0.1	kitbennett.com
 127.0.0.1	mybellycast.com
 127.0.0.1	windsorcancerresearch.ca
-127.0.0.1	lesoiseauxivres.com
 127.0.0.1	eventpiggy.com
 127.0.0.1	clickgotheshears.com
 127.0.0.1	synergeahealthcentre.com
