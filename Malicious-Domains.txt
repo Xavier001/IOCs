@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-06 06:24:33 UTC                        #
+# Last updated: 2025-06-06 12:15:31 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	pulseriseglobal.com
+127.0.0.1	administration-ssa-gov.3d-proseriseconn.com
+127.0.0.1	masterclaserok.ddns-ip.net
+127.0.0.1	fethifethi.zapto.org
 127.0.0.1	diamotrix.world
 127.0.0.1	diamotrix.club
 127.0.0.1	lepidobdkn.digital
@@ -71792,4 +71796,4 @@
 127.0.0.1	dcaa.info
 127.0.0.1	casibom.cyou
 127.0.0.1	czzz.com
-# Number of entries: 71786
+# Number of entries: 71790
