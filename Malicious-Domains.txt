@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-07 09:19:15 UTC                        #
+# Last updated: 2025-06-07 11:34:20 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	rootoverflow.pro
+127.0.0.1	prior-automotive.gl.at.ply.gg
+127.0.0.1	image-quote.gl.at.ply.gg
+127.0.0.1	lsdmetin2.duckdns.org
 127.0.0.1	tools-helicopter.gl.at.ply.gg
 127.0.0.1	puppyluv645cmdoc-37214.portmap.io
 127.0.0.1	rekrra.run
@@ -72199,4 +72203,4 @@
 127.0.0.1	332137453981d0595033c23.com
 127.0.0.1	34437453981d0595033c23.com
 127.0.0.1	3637453981d0595033c23.com
-# Number of entries: 72193
+# Number of entries: 72197
