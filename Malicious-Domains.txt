@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-08 09:51:38 UTC                        #
+# Last updated: 2025-06-08 12:01:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	breachforums.live
 127.0.0.1	feed-option.gl.at.ply.gg
 127.0.0.1	krasnov-20846.portmap.io
 127.0.0.1	outside-sand.gl.at.ply.gg
@@ -72229,4 +72230,4 @@
 127.0.0.1	lumsuxinya.shop
 127.0.0.1	lummunaqea.shop
 127.0.0.1	bot.spine8797.com
-# Number of entries: 72223
+# Number of entries: 72224
