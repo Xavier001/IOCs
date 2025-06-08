@@ -1,11 +1,36 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-08 12:01:49 UTC                        #
+# Last updated: 2025-06-08 20:54:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	s1gnal-39566.portmap.io
+127.0.0.1	numbers-passion.gl.at.ply.gg
+127.0.0.1	kingdom-reject.gl.at.ply.gg
+127.0.0.1	new-cite.gl.at.ply.gg
+127.0.0.1	florida-deaths.gl.at.ply.gg
+127.0.0.1	mamuttt53-60020.portmap.io
+127.0.0.1	teste0001.ddns.net
+127.0.0.1	join-critical.gl.at.ply.gg
+127.0.0.1	javv-36324.portmap.io
+127.0.0.1	dlkjkoifdjewilkj-37923.portmap.io
+127.0.0.1	cybersim-44901.portmap.io
+127.0.0.1	sandbox-64001.portmap.io
+127.0.0.1	zylora-30517.portmap.io
+127.0.0.1	run-basement.gl.at.ply.gg
+127.0.0.1	paper-improved.gl.at.ply.gg
+127.0.0.1	websiteorgek.duckdns.org
+127.0.0.1	ayham-hacked.sytes.net
+127.0.0.1	autistabot-64075.portmap.io
+127.0.0.1	crimson-unit-2561.kopis56799.workers.dev
+127.0.0.1	ec2-server-noisy-band-0fe8.focapaj280.workers.dev
+127.0.0.1	twinkfinder.nl
+127.0.0.1	proportmapper04-43455.portmap.io
+127.0.0.1	lieri.ru
+127.0.0.1	cba.abc92.ru
+127.0.0.1	apply-orange.gl.at.ply.gg
 127.0.0.1	breachforums.live
 127.0.0.1	feed-option.gl.at.ply.gg
 127.0.0.1	krasnov-20846.portmap.io
@@ -72202,32 +72227,4 @@
 127.0.0.1	wwwsecure.icu
 127.0.0.1	gostrm.shop
 127.0.0.1	888online.asia
-127.0.0.1	puta-key.com
-127.0.0.1	safemangoapp.monster
-127.0.0.1	lumbluesky.shop
-127.0.0.1	lumramavyy.shop
-127.0.0.1	lumpeguwey.shop
-127.0.0.1	lumdukekiy.shop
-127.0.0.1	lumzacynuy.shop
-127.0.0.1	lummozudey.shop
-127.0.0.1	lumkymenau.shop
-127.0.0.1	lumcozynest.shop
-127.0.0.1	lummomusuo.shop
-127.0.0.1	lumkecuq.shop
-127.0.0.1	lumlasolyo.shop
-127.0.0.1	lumtovusao.shop
-127.0.0.1	lumfokim.shop
-127.0.0.1	lumlacumii.shop
-127.0.0.1	lumlideweo.shop
-127.0.0.1	lumqalij.shop
-127.0.0.1	lumzulyj.shop
-127.0.0.1	lumcyjukui.shop
-127.0.0.1	lumgentlewave.shop
-127.0.0.1	lumtechtribune.shop
-127.0.0.1	lumzenspace.shop
-127.0.0.1	lumquvonee.shop
-127.0.0.1	lumsawedua.shop
-127.0.0.1	lumsuxinya.shop
-127.0.0.1	lummunaqea.shop
-127.0.0.1	bot.spine8797.com
-# Number of entries: 72224
+# Number of entries: 72221
