@@ -72164,5 +72164,4 @@
 127.0.0.1	mustang666.ru
 127.0.0.1	iognews.com
 127.0.0.1	rc1g3as.top
-127.0.0.1	gomotest.premiumprotectiondis.org
-# Number of entries: 72159
+# Number of entries: 72158
