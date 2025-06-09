@@ -1,11 +1,43 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-09 10:02:17 UTC                        #
+# Last updated: 2025-06-09 12:09:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	favgqu.shop
+127.0.0.1	wilvrdu.top
+127.0.0.1	plapwf.top
+127.0.0.1	abezgec.top
+127.0.0.1	totalqt.xyz
+127.0.0.1	lixkyf.xyz
+127.0.0.1	opalxrr.xyz
+127.0.0.1	shutvg.xyz
+127.0.0.1	wellrmy.xyz
+127.0.0.1	frustreghm.xyz
+127.0.0.1	countrnncn.xyz
+127.0.0.1	kinwlyo.xyz
+127.0.0.1	coedxz.xyz
+127.0.0.1	cryymd.xyz
+127.0.0.1	geglrx.xyz
+127.0.0.1	swydug.xyz
+127.0.0.1	psalgd.xyz
+127.0.0.1	totplh.xyz
+127.0.0.1	garexqz.xyz
+127.0.0.1	fullnjd.xyz
+127.0.0.1	herwxtx.xyz
+127.0.0.1	thicew.xyz
+127.0.0.1	wojbi.xyz
+127.0.0.1	dicyth.xyz
+127.0.0.1	stomrnd.xyz
+127.0.0.1	bevm.fun
+127.0.0.1	playontoy.run
+127.0.0.1	lasbmt.xyz
+127.0.0.1	miyelv.xyz
+127.0.0.1	jailykingi.site
+127.0.0.1	wbvhelp.top
+127.0.0.1	hotel.wildhorsehotel.net
 127.0.0.1	cp71691.tw1.ru
 127.0.0.1	take-sherman.gl.at.ply.gg
 127.0.0.1	elromio-50314.portmap.io
@@ -72230,4 +72262,4 @@
 127.0.0.1	jitcom.info
 127.0.0.1	habfan.com
 127.0.0.1	material.amstillroofing.com
-# Number of entries: 72224
+# Number of entries: 72256
