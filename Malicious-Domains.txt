@@ -1,11 +1,35 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-08 20:54:28 UTC                        #
+# Last updated: 2025-06-09 10:02:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cp71691.tw1.ru
+127.0.0.1	take-sherman.gl.at.ply.gg
+127.0.0.1	elromio-50314.portmap.io
+127.0.0.1	ishimmiri1.duckdns.org
+127.0.0.1	ishimmiri1bk.duckdns.org
+127.0.0.1	liberator247.pagekite.me
+127.0.0.1	photographers-ecological.with.playit.plus
+127.0.0.1	drug-demonstrated.gl.at.ply.gg
+127.0.0.1	m1dni9ht.ddns.net
+127.0.0.1	test.galaxias.cc
+127.0.0.1	cable-knife.gl.at.ply.gg
+127.0.0.1	ulljq8tna.localto.net
+127.0.0.1	includes-contents.gl.at.ply.gg
+127.0.0.1	jcapi.xboxwl.com
+127.0.0.1	khalifarema.zapto.org
+127.0.0.1	hatem2youssef.duckdns.org
+127.0.0.1	hatem2youssef2.duckdns.org
+127.0.0.1	department-monica.gl.at.ply.gg
+127.0.0.1	assistance-trash.gl.at.ply.gg
+127.0.0.1	www.zestarcade.xyz
+127.0.0.1	analyticanods.com
+127.0.0.1	security.garudflores.com
+127.0.0.1	koslep.com
+127.0.0.1	latarelisafi.pro
 127.0.0.1	s1gnal-39566.portmap.io
 127.0.0.1	numbers-passion.gl.at.ply.gg
 127.0.0.1	kingdom-reject.gl.at.ply.gg
@@ -72206,25 +72230,4 @@
 127.0.0.1	jitcom.info
 127.0.0.1	habfan.com
 127.0.0.1	material.amstillroofing.com
-127.0.0.1	yhgger.top
-127.0.0.1	bacai.xyz
-127.0.0.1	mythic.0xharshsec.tech
-127.0.0.1	elastic.net-v2-status.net
-127.0.0.1	silly-swirles.207-246-119-197.plesk.page
-127.0.0.1	okta.microsoft.upgrade1.zip
-127.0.0.1	www.dmrcorg.com
-127.0.0.1	health.securehosting.es
-127.0.0.1	out.mllcrosoft.com
-127.0.0.1	g.sst.microsoft.upgrade1.zip
-127.0.0.1	g.sst.mllcrosoft.com
-127.0.0.1	cpanel.wltstockinsights.com
-127.0.0.1	funkytimery.com
-127.0.0.1	outlook.microsoft.upgrade1.zip
-127.0.0.1	www.icicisecuritie.com
-127.0.0.1	www.wltstockinsights.com
-127.0.0.1	www.gallant-wright.193-239-86-216.plesk.page
-127.0.0.1	u48631907.ct.sendgrid.net
-127.0.0.1	wwwsecure.icu
-127.0.0.1	gostrm.shop
-127.0.0.1	888online.asia
-# Number of entries: 72221
+# Number of entries: 72224
