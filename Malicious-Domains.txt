@@ -1,11 +1,27 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-10 11:45:02 UTC                        #
+# Last updated: 2025-06-10 21:32:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tao081018.ddnsfree.com
+127.0.0.1	ns2.stack-drive.com
+127.0.0.1	ns1.stack-drive.com
+127.0.0.1	microsoftdatacenter-57447.portmap.io
+127.0.0.1	mylol-28375.portmap.io
+127.0.0.1	labina.work.gd
+127.0.0.1	cjfrde8g2386q.cfc-execute.bj.baidubce.com
+127.0.0.1	advertipros.com
+127.0.0.1	dev.couplesparks.com
+127.0.0.1	auto-london.gl.at.ply.gg
+127.0.0.1	huge-description.gl.at.ply.gg
+127.0.0.1	date-enclosed.gl.at.ply.gg
+127.0.0.1	xeilodaa-38185.portmap.io
+127.0.0.1	crazydns.bumbleshrimp.com
+127.0.0.1	zzylos.ddns.net
+127.0.0.1	venecia.club
 127.0.0.1	uzlehalo.duckdns.org
 127.0.0.1	1sou.top
 127.0.0.1	apex-consultant.com
@@ -72287,30 +72303,4 @@
 127.0.0.1	clever-jennings.93-123-85-19.plesk.page
 127.0.0.1	download.bugmakerx.cn
 127.0.0.1	wusaryy5.shop
-127.0.0.1	mybotnetxd.duckdns.org
-127.0.0.1	marketrealist.shop
-127.0.0.1	checkpointone.world
-127.0.0.1	mexocey.shop
-127.0.0.1	lumcopiqua6.shop
-127.0.0.1	kemuvao.shop
-127.0.0.1	gribov.net
-127.0.0.1	kycol.net
-127.0.0.1	theartofshare.com
-127.0.0.1	phsujibusy4ubad.top
-127.0.0.1	bnaye4ybvgzueb.top
-127.0.0.1	factudescarga.com
-127.0.0.1	www.factudescarga.com
-127.0.0.1	bottest.factudescarga.com
-127.0.0.1	nasweir.com
-127.0.0.1	kafka001.bliln.com
-127.0.0.1	vpn.chd.one
-127.0.0.1	nagurui.shop
-127.0.0.1	ganeres2.com
-127.0.0.1	ganeres1.com
-127.0.0.1	jhubzgv3.top
-127.0.0.1	microdet.world
-127.0.0.1	bigdealcenter.world
-127.0.0.1	unitedcommunity.world
-127.0.0.1	lamartesana.info
-127.0.0.1	dechromo.com
-# Number of entries: 72307
+# Number of entries: 72297
