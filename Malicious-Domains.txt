@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-09 19:14:19 UTC                        #
+# Last updated: 2025-06-10 02:52:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	api.cdn-zoom-cloudflare.live
+127.0.0.1	38y1qea3nzt8e.cfc-execute.bj.baidubce.com
+127.0.0.1	s16.service-tiktok.cam
+127.0.0.1	b9c17ffc.host.njalla.net
 127.0.0.1	yes-dominican.gl.at.ply.gg
 127.0.0.1	efjeqfqe.ddns.net
 127.0.0.1	ratsertification.hopto.org
@@ -72271,4 +72275,4 @@
 127.0.0.1	cxlugg.sbs
 127.0.0.1	doqevue.shop
 127.0.0.1	keqirai.shop
-# Number of entries: 72265
+# Number of entries: 72269
