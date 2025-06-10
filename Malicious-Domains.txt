@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-10 08:35:26 UTC                        #
+# Last updated: 2025-06-10 11:45:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	uzlehalo.duckdns.org
+127.0.0.1	1sou.top
+127.0.0.1	apex-consultant.com
 127.0.0.1	afdprox.icu
 127.0.0.1	mxcnss.dns04.com
 127.0.0.1	registry.gitlab.paps.pro
@@ -72310,4 +72313,4 @@
 127.0.0.1	unitedcommunity.world
 127.0.0.1	lamartesana.info
 127.0.0.1	dechromo.com
-# Number of entries: 72304
+# Number of entries: 72307
