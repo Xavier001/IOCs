@@ -1,11 +1,35 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-11 04:04:49 UTC                        #
+# Last updated: 2025-06-11 08:38:26 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ethnugm.xyz
+127.0.0.1	unvkoj.xyz
+127.0.0.1	lakxd.xyz
+127.0.0.1	mordpdv.xyz
+127.0.0.1	callbacywo.xyz
+127.0.0.1	mindlevqtg.xyz
+127.0.0.1	shaqgn.xyz
+127.0.0.1	shool.digital
+127.0.0.1	zwiirl.xyz
+127.0.0.1	sldnys.xyz
+127.0.0.1	resdcv.xyz
+127.0.0.1	anzkb.xyz
+127.0.0.1	ineyay.xyz
+127.0.0.1	assixny.xyz
+127.0.0.1	clirujf.xyz
+127.0.0.1	triobm.xyz
+127.0.0.1	negqjcj.xyz
+127.0.0.1	horavd.xyz
+127.0.0.1	ravisrq.xyz
+127.0.0.1	billing.roofnrack.us
+127.0.0.1	chromeparts.icu
+127.0.0.1	diegoluis.no-ip.org
+127.0.0.1	mexko.ddns.net
+127.0.0.1	32.0.4t.com
 127.0.0.1	etnxin63.tk10.top
 127.0.0.1	outlook.optimumcs.org
 127.0.0.1	etnsg6.nicetk.top
@@ -72546,22 +72570,4 @@
 127.0.0.1	erurughvi34.cn
 127.0.0.1	ewrbs.top
 127.0.0.1	asdjiive.icu
-127.0.0.1	troubledinco.click
-127.0.0.1	karishmaerik324.com
-127.0.0.1	cocomethode.de
-127.0.0.1	ooihu.shop
-127.0.0.1	key-keys.com
-127.0.0.1	key-license1.com
-127.0.0.1	key-pack.com
-127.0.0.1	wildbuns.com
-127.0.0.1	jfbsht.easypanel.host
-127.0.0.1	www.cool-mirzakhani.193-239-86-216.plesk.page
-127.0.0.1	ulweb.club
-127.0.0.1	vigilant-gagarin.193-239-86-216.plesk.page
-127.0.0.1	inspiring-ramanujan.193-239-86-216.plesk.page
-127.0.0.1	ratatioe.store
-127.0.0.1	outlook.onlyfame.icu
-127.0.0.1	clever-jennings.93-123-85-19.plesk.page
-127.0.0.1	download.bugmakerx.cn
-127.0.0.1	wusaryy5.shop
-# Number of entries: 72558
+# Number of entries: 72564
