@@ -1,11 +1,65 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-11 21:43:37 UTC                        #
+# Last updated: 2025-06-12 08:57:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	automovileshubert.com
+127.0.0.1	zpaymant.com
+127.0.0.1	ltqcgdkrlhuc1zr6plf4z7qev4y2-1f29a27d56871a58180ed7b698887003.eu5.myvolumio.org
+127.0.0.1	rufus-dyer.com
+127.0.0.1	gjdnf.deltashop.pl
+127.0.0.1	cavtat.biz
+127.0.0.1	brooijmansbct.com
+127.0.0.1	saddleaxbt.site
+127.0.0.1	www.ftp.lucky31spin.com
+127.0.0.1	new-porn-zwwxr.blogspot.am
+127.0.0.1	bythedrink.com
+127.0.0.1	criccode.info
+127.0.0.1	www.retirement-communities988.online
+127.0.0.1	www.root.urskeenbeauty.com
+127.0.0.1	victoria.systems
+127.0.0.1	angularapiworld.com
+127.0.0.1	jqueryapihelpers.com
+127.0.0.1	supabasekong-v4080cgc4cgcks8k0k4004sc.cloud1.bogdanna.com
+127.0.0.1	goldenclear.top
+127.0.0.1	ulgroup.optimumcs.org
+127.0.0.1	vanceteo.run
+127.0.0.1	vqalkyrieong.run
+127.0.0.1	webpointsl.run
+127.0.0.1	wolfestandt.run
+127.0.0.1	woodrebough.run
+127.0.0.1	xmedresp.run
+127.0.0.1	zootechq.run
+127.0.0.1	bulgecont.run
+127.0.0.1	coldshpwyb.run
+127.0.0.1	firstezkpg.run
+127.0.0.1	madagaeyrk.run
+127.0.0.1	maiantfuuk.run
+127.0.0.1	nightloqv.run
+127.0.0.1	noblefamo.run
+127.0.0.1	politewtod.run
+127.0.0.1	reflecwemy.run
+127.0.0.1	subnorrepg.run
+127.0.0.1	taskrunp.run
+127.0.0.1	astrivee.world
+127.0.0.1	globetrotfe.world
+127.0.0.1	orbitixg.world
+127.0.0.1	pillowcxloud.world
+127.0.0.1	statibesearch.world
+127.0.0.1	triphmind.world
+127.0.0.1	trsipbeat.world
+127.0.0.1	quityt.digital
+127.0.0.1	raisezx.run
+127.0.0.1	slowdomkaf.run
+127.0.0.1	smartdatac.run
+127.0.0.1	soarxvc.run
+127.0.0.1	valuesads.run
+127.0.0.1	security.fgoarrdes.com
+127.0.0.1	peosiv.com
+127.0.0.1	10.aa.uploadraja.com
 127.0.0.1	spring-looks.gl.at.ply.gg
 127.0.0.1	velisariosantiago7080.duckdns.org
 127.0.0.1	camilorestrepo9050702.duckdns.org
@@ -72440,14 +72494,4 @@
 127.0.0.1	kac0t.springpoitn.xyz
 127.0.0.1	fdy0p.springpoitn.xyz
 127.0.0.1	digitech99.com
-127.0.0.1	modernfirewall.ru
-127.0.0.1	riders.50kfor50years.com
-127.0.0.1	ffmikjcfenjanii.top
-127.0.0.1	connect.microsoftonlne.fr
-127.0.0.1	www.jovial-galois.193-239-86-216.plesk.page
-127.0.0.1	account.secure-d.center
-127.0.0.1	ec2-13-40-115-95.eu-west-2.compute.amazonaws.com
-127.0.0.1	ec2-34-216-3-35.us-west-2.compute.amazonaws.com
-127.0.0.1	ec2-13-127-114-160.ap-south-1.compute.amazonaws.com
-127.0.0.1	grahm.xyz
-# Number of entries: 72444
+# Number of entries: 72488
