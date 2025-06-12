@@ -1,11 +1,43 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-12 08:57:06 UTC                        #
+# Last updated: 2025-06-12 11:03:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sbexv.xyz
+127.0.0.1	bowoqur.xyz
+127.0.0.1	centjp.xyz
+127.0.0.1	coqqxn.xyz
+127.0.0.1	cobxlm.xyz
+127.0.0.1	proqei.xyz
+127.0.0.1	canpnh.xyz
+127.0.0.1	decmzf.xyz
+127.0.0.1	caltgc.xyz
+127.0.0.1	immkay.xyz
+127.0.0.1	config-edge-assets.live
+127.0.0.1	showing-bl-order-skiing.trycloudflare.com
+127.0.0.1	scary-halo-designing-time.trycloudflare.com
+127.0.0.1	ears-circus-cam-lake.trycloudflare.com
+127.0.0.1	reached-loose-cashiers-logic.trycloudflare.com
+127.0.0.1	never-powered-agency-hear.trycloudflare.com
+127.0.0.1	obs-studio.live
+127.0.0.1	streamcore.pro
+127.0.0.1	fb-extension.com
+127.0.0.1	instchr.icu
+127.0.0.1	aderir.com
+127.0.0.1	producto.mueblesaccesoriosxi.com
+127.0.0.1	propios.gleeze.com
+127.0.0.1	usuariofebrero25.dedyn.io
+127.0.0.1	vectorwod.vectorwod.com
+127.0.0.1	butbot.ddns.net
+127.0.0.1	fusion-api.nl
+127.0.0.1	hihi.trumdvfb.com
+127.0.0.1	nmsl.cnmnm.top
+127.0.0.1	testbotgame.zapto.org
+127.0.0.1	envio1010.duckdns.org
+127.0.0.1	envio1919.duckdns.org
 127.0.0.1	automovileshubert.com
 127.0.0.1	zpaymant.com
 127.0.0.1	ltqcgdkrlhuc1zr6plf4z7qev4y2-1f29a27d56871a58180ed7b698887003.eu5.myvolumio.org
@@ -72491,7 +72523,4 @@
 127.0.0.1	onnetmais.org
 127.0.0.1	djnito.com
 127.0.0.1	prajapatisamaj.info
-127.0.0.1	kac0t.springpoitn.xyz
-127.0.0.1	fdy0p.springpoitn.xyz
-127.0.0.1	digitech99.com
-# Number of entries: 72488
+# Number of entries: 72517
