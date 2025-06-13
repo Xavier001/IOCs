@@ -1,11 +1,26 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-13 11:24:28 UTC                        #
+# Last updated: 2025-06-13 19:54:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	something-newfoundland.gl.at.ply.gg
+127.0.0.1	soskaxasy.duckdns.org
+127.0.0.1	warzones12.duckdns.org
+127.0.0.1	procesoexitos1.duckdns.org
+127.0.0.1	informesespeciales123.duckdns.org
+127.0.0.1	newrecaerga1.duckdns.org
+127.0.0.1	companianuevoano.duckdns.org
+127.0.0.1	estreno1-caso.duckdns.org
+127.0.0.1	mariocar1406.duckdns.org
+127.0.0.1	iyrdadxx.ddns.net
+127.0.0.1	nadine21347-42251.portmap.io
+127.0.0.1	football-wonder.gl.at.ply.gg
+127.0.0.1	app.qms2go.com
+127.0.0.1	universaltechnology.top
+127.0.0.1	northwindimmigration.com
 127.0.0.1	www.vesglobal.org
 127.0.0.1	quanthic.cloud
 127.0.0.1	jblaki.duckdns.org
@@ -72607,27 +72622,4 @@
 127.0.0.1	themeduza.net
 127.0.0.1	ec2-18-117-226-96.us-east-2.compute.amazonaws.com
 127.0.0.1	vpn185778048.softether.net
-127.0.0.1	cyrpt.amidaaccountancy.com
-127.0.0.1	platiindustries.com
-127.0.0.1	mahmoudabu9pos.ddns.net
-127.0.0.1	poucette.info
-127.0.0.1	nilsenfk.biz
-127.0.0.1	deafeninggeh.biz
-127.0.0.1	jonagye.shop
-127.0.0.1	effecterectz.xyz
-127.0.0.1	immureprech.biz
-127.0.0.1	debonairnukk.xyz
-127.0.0.1	diffuculttan.xyz
-127.0.0.1	elite-api.su
-127.0.0.1	asdfui.elite-api.su
-127.0.0.1	patch-hub.org
-127.0.0.1	msft-distribution.com
-127.0.0.1	ms-service-patch.com
-127.0.0.1	sc-patch.org
-127.0.0.1	opgears.com
-127.0.0.1	security-patches.systems
-127.0.0.1	gxgsxy.info
-127.0.0.1	audio-clouds.gl.at.ply.gg
-127.0.0.1	devtools.bond
-127.0.0.1	cyberupdate.systems
-# Number of entries: 72624
+# Number of entries: 72616
