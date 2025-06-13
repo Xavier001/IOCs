@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-13 10:14:00 UTC                        #
+# Last updated: 2025-06-13 11:24:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.vesglobal.org
+127.0.0.1	quanthic.cloud
+127.0.0.1	jblaki.duckdns.org
+127.0.0.1	jblakibk.duckdns.org
+127.0.0.1	ktsol.help
 127.0.0.1	wmieventlogonlinehelp.duckdns.org
 127.0.0.1	wershishir.duckdns.org
 127.0.0.1	i58fca.com
@@ -72625,4 +72630,4 @@
 127.0.0.1	audio-clouds.gl.at.ply.gg
 127.0.0.1	devtools.bond
 127.0.0.1	cyberupdate.systems
-# Number of entries: 72619
+# Number of entries: 72624
