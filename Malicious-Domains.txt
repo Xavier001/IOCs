@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-13 19:54:24 UTC                        #
+# Last updated: 2025-06-14 09:22:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	units-jewish.gl.at.ply.gg
+127.0.0.1	tavkz.duckdns.org
+127.0.0.1	topmicrosoftmarketing.com
+127.0.0.1	o.optimumcs.org
+127.0.0.1	yingjiachuwei.com
+127.0.0.1	secure.optimumcs.org
+127.0.0.1	cas-aws.optimumcs.org
+127.0.0.1	fokeniz.com
+127.0.0.1	security.gyqardfilares.com
 127.0.0.1	something-newfoundland.gl.at.ply.gg
 127.0.0.1	soskaxasy.duckdns.org
 127.0.0.1	warzones12.duckdns.org
@@ -72619,6 +72628,4 @@
 127.0.0.1	a1.b25615.xyz
 127.0.0.1	a5.b25615.xyz
 127.0.0.1	mssql.shakmansolutions.com
-127.0.0.1	themeduza.net
-127.0.0.1	ec2-18-117-226-96.us-east-2.compute.amazonaws.com
-# Number of entries: 72615
+# Number of entries: 72622
