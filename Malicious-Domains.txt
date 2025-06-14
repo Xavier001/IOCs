@@ -72621,5 +72621,4 @@
 127.0.0.1	mssql.shakmansolutions.com
 127.0.0.1	themeduza.net
 127.0.0.1	ec2-18-117-226-96.us-east-2.compute.amazonaws.com
-127.0.0.1	vpn185778048.softether.net
-# Number of entries: 72616
+# Number of entries: 72615
