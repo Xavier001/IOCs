@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-14 09:22:58 UTC                        #
+# Last updated: 2025-06-14 12:22:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cryptoinfo-allnews.com
+127.0.0.1	appxmacos.com
+127.0.0.1	counterstrike2-cheats.com
 127.0.0.1	units-jewish.gl.at.ply.gg
 127.0.0.1	tavkz.duckdns.org
 127.0.0.1	topmicrosoftmarketing.com
@@ -72615,17 +72618,4 @@
 127.0.0.1	edwardscdn.azureedge.net
 127.0.0.1	gkn33hxueub.top
 127.0.0.1	sdrce.com
-127.0.0.1	outlet-shoullder.site
-127.0.0.1	account.crsdorg.in
-127.0.0.1	www.practical-elbakyan.193-239-86-216.plesk.page
-127.0.0.1	www.xn--mcdonas-vib.com
-127.0.0.1	172-208-106-5.cprapid.com
-127.0.0.1	api.vscodeapp.com
-127.0.0.1	www.optimistic-beaver.193-239-86-216.plesk.page
-127.0.0.1	troublenm.com
-127.0.0.1	adoring-matsumoto.193-239-86-216.plesk.page
-127.0.0.1	practical-elbakyan.193-239-86-216.plesk.page
-127.0.0.1	a1.b25615.xyz
-127.0.0.1	a5.b25615.xyz
-127.0.0.1	mssql.shakmansolutions.com
-# Number of entries: 72622
+# Number of entries: 72612
