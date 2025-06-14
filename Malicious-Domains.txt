@@ -1,11 +1,26 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-14 12:22:05 UTC                        #
+# Last updated: 2025-06-14 19:48:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	fierdevivre.duckdns.org
+127.0.0.1	embargogo2378.duckdns.org
+127.0.0.1	forsondu92.duckdns.org
+127.0.0.1	aprcare.help
+127.0.0.1	aryxnw.xyz
+127.0.0.1	nil.group.found
+127.0.0.1	joshuasmith-59211.portmap.io
+127.0.0.1	mersenne502.noip.me
+127.0.0.1	izumi-test.f5.si
+127.0.0.1	sigmaboi.duckdns.org
+127.0.0.1	leedelectronics.top
+127.0.0.1	mail.leedelectronics.top
+127.0.0.1	pidorasina.ru
+127.0.0.1	emailreddit.com
+127.0.0.1	web.hvgeb.top
 127.0.0.1	cryptoinfo-allnews.com
 127.0.0.1	appxmacos.com
 127.0.0.1	counterstrike2-cheats.com
@@ -72578,44 +72593,4 @@
 127.0.0.1	cineft.online
 127.0.0.1	gfknoux.localto.net
 127.0.0.1	international-linked.gl.at.ply.gg
-127.0.0.1	login-donor.gl.at.ply.gg
-127.0.0.1	sayrich.ddns.net
-127.0.0.1	sixxstat.top
-127.0.0.1	twelvekg12pt.top
-127.0.0.1	eighttg8ht.top
-127.0.0.1	neintg9ht.top
-127.0.0.1	onetg1ht.top
-127.0.0.1	sixtg6ht.top
-127.0.0.1	tentg10ht.top
-127.0.0.1	eightstat.top
-127.0.0.1	ninestat.top
-127.0.0.1	onestats.top
-127.0.0.1	tentg10pt.top
-127.0.0.1	onetg1sb.top
-127.0.0.1	elevenkg11sr.top
-127.0.0.1	satisfacao-stan.online
-127.0.0.1	weiston12858yw318.com
-127.0.0.1	redpetkarca.com
-127.0.0.1	5631sdgsgsdgdgdh557sdg.com
-127.0.0.1	523768db37e5e2f5a7fbc0fe1fee5b311.com
-127.0.0.1	5621sdgsgsdgdgdh556sdg.com
-127.0.0.1	seabreezehf.top
-127.0.0.1	4795da52c05863884febb8736223be98.org
-127.0.0.1	1faadfe3c30c98f8dfc1812ac605f96a.shop
-127.0.0.1	3e364fc53c09a1e521581f335674157b.online
-127.0.0.1	96255553981d0595033c23.xyz
-127.0.0.1	27f6e0b96e666d7fee14a96f17ac104d.com
-127.0.0.1	662333981d0595033c23.xyz
-127.0.0.1	nightfallqk.top
-127.0.0.1	skylinejr.top
-127.0.0.1	basganbasgan52ewdfwbasgan.com
-127.0.0.1	33d6287fc674232610f37f2ae62ae618.xyz
-127.0.0.1	79eed3e3238599e497588a718bfd219f.in
-127.0.0.1	cfc2716de742817c44f8465ba0e42bf0.info
-127.0.0.1	28237453981d0595033c23.xyz
-127.0.0.1	mint-stealer.pw
-127.0.0.1	panel.mint-stealer.pw
-127.0.0.1	edwardscdn.azureedge.net
-127.0.0.1	gkn33hxueub.top
-127.0.0.1	sdrce.com
-# Number of entries: 72612
+# Number of entries: 72587
