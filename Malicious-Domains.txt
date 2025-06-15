@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-14 19:48:24 UTC                        #
+# Last updated: 2025-06-15 02:53:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	svchost.iqiyia.top
+127.0.0.1	optimosphere.com
 127.0.0.1	fierdevivre.duckdns.org
 127.0.0.1	embargogo2378.duckdns.org
 127.0.0.1	forsondu92.duckdns.org
@@ -72593,4 +72595,4 @@
 127.0.0.1	cineft.online
 127.0.0.1	gfknoux.localto.net
 127.0.0.1	international-linked.gl.at.ply.gg
-# Number of entries: 72587
+# Number of entries: 72589
