@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-15 09:35:58 UTC                        #
+# Last updated: 2025-06-15 12:02:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	soc-team.de
 127.0.0.1	members-aye.gl.at.ply.gg
 127.0.0.1	3389.iis7.net
 127.0.0.1	3389.iis7.com
@@ -72681,5 +72682,4 @@
 127.0.0.1	t1p9jbex8g.silentlegion.duckdns.org
 127.0.0.1	www.silentlegion.duckdns.org
 127.0.0.1	matelitcleaning.com
-127.0.0.1	dirklend.com
 # Number of entries: 72676
