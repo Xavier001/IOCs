@@ -1,11 +1,98 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-15 12:02:18 UTC                        #
+# Last updated: 2025-06-15 21:12:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	stores-replace.gl.at.ply.gg
+127.0.0.1	alexkasa-53195.portmap.io
+127.0.0.1	gazaru-21459.portmap.io
+127.0.0.1	anonam39-41248.portmap.io
+127.0.0.1	xikhudog2.duckdns.org
+127.0.0.1	fernandolopez105040.duckdns.org
+127.0.0.1	tibiaserver.ddns.net
+127.0.0.1	odogwuvisual123.duckdns.org
+127.0.0.1	teamfavour222.ddns.net
+127.0.0.1	otherwise-puzzle.gl.at.ply.gg
+127.0.0.1	council-its.gl.at.ply.gg
+127.0.0.1	greqjfu.xyz
+127.0.0.1	firddy.xyz
+127.0.0.1	uncombsguq.xyz
+127.0.0.1	sushst.xyz
+127.0.0.1	shaeb.xyz
+127.0.0.1	gisqe.xyz
+127.0.0.1	agnioysz.xyz
+127.0.0.1	roriwfq.xyz
+127.0.0.1	kiddykk.xyz
+127.0.0.1	irrbi.xyz
+127.0.0.1	guttexq.xyz
+127.0.0.1	genusie.xyz
+127.0.0.1	gasguip.xyz
+127.0.0.1	deangp.xyz
+127.0.0.1	crowfza.xyz
+127.0.0.1	stranlk.xyz
+127.0.0.1	recipnh.xyz
+127.0.0.1	praimr.xyz
+127.0.0.1	negotm.xyz
+127.0.0.1	matkdpy.xyz
+127.0.0.1	fritron.xyz
+127.0.0.1	colonj.xyz
+127.0.0.1	cemeepv.xyz
+127.0.0.1	bowmzf.xyz
+127.0.0.1	boysvf.xyz
+127.0.0.1	blolln.xyz
+127.0.0.1	restcr.xyz
+127.0.0.1	norcgdu.xyz
+127.0.0.1	monxxb.xyz
+127.0.0.1	drafxc.xyz
+127.0.0.1	blotzm.xyz
+127.0.0.1	voluntv.xyz
+127.0.0.1	proxgn.xyz
+127.0.0.1	monteyh.xyz
+127.0.0.1	markwbp.xyz
+127.0.0.1	masor.xyz
+127.0.0.1	leftlam.xyz
+127.0.0.1	electis.xyz
+127.0.0.1	crowngm.xyz
+127.0.0.1	bowikth.xyz
+127.0.0.1	atrojr.xyz
+127.0.0.1	twiory.xyz
+127.0.0.1	splizl.xyz
+127.0.0.1	kuwtpt.xyz
+127.0.0.1	eyermug.xyz
+127.0.0.1	disunu.xyz
+127.0.0.1	catachq.xyz
+127.0.0.1	butaqud.xyz
+127.0.0.1	bokcgjf.xyz
+127.0.0.1	atlgqc.xyz
+127.0.0.1	anizwlg.xyz
+127.0.0.1	wrenthu.xyz
+127.0.0.1	transzw.xyz
+127.0.0.1	thuyrxi.xyz
+127.0.0.1	sunssek.xyz
+127.0.0.1	stacdqi.xyz
+127.0.0.1	shaypy.xyz
+127.0.0.1	schrvk.xyz
+127.0.0.1	rabqjz.xyz
+127.0.0.1	pyrolqi.xyz
+127.0.0.1	thumse.xyz
+127.0.0.1	tamnmx.xyz
+127.0.0.1	swejog.xyz
+127.0.0.1	strinth.xyz
+127.0.0.1	spliba.xyz
+127.0.0.1	silvyg.xyz
+127.0.0.1	shawq.xyz
+127.0.0.1	scihvh.xyz
+127.0.0.1	quailnf.xyz
+127.0.0.1	naturuk.xyz
+127.0.0.1	monbd.xyz
+127.0.0.1	mincpiu.xyz
+127.0.0.1	inflvy.xyz
+127.0.0.1	galeuqqi.xyz
+127.0.0.1	fantpx.xyz
+127.0.0.1	wiggmyq.xyz
 127.0.0.1	soc-team.de
 127.0.0.1	members-aye.gl.at.ply.gg
 127.0.0.1	3389.iis7.net
@@ -72681,5 +72768,4 @@
 127.0.0.1	carolina-oxide.gl.at.ply.gg
 127.0.0.1	t1p9jbex8g.silentlegion.duckdns.org
 127.0.0.1	www.silentlegion.duckdns.org
-127.0.0.1	matelitcleaning.com
-# Number of entries: 72676
+# Number of entries: 72762
