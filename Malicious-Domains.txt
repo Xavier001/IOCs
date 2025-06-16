@@ -1,11 +1,54 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-15 21:12:54 UTC                        #
+# Last updated: 2025-06-16 09:35:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	long-importantly.gl.at.ply.gg
+127.0.0.1	pacific-astronomy.gl.at.ply.gg
+127.0.0.1	dewaw64518-23532.portmap.io
+127.0.0.1	africa-manufacturing.gl.at.ply.gg
+127.0.0.1	brostoplookingformyc2-21003.portmap.io
+127.0.0.1	darkarmteam-41484.portmap.io
+127.0.0.1	b-proper.gl.at.ply.gg
+127.0.0.1	mexico-shopper.gl.at.ply.gg
+127.0.0.1	harunet.airdns.org
+127.0.0.1	pulsar-tcp.at.remote.it
+127.0.0.1	githubrdp-22467.portmap.io
+127.0.0.1	engineering-ebay.gl.at.ply.gg
+127.0.0.1	fully-expensive.gl.at.ply.gg
+127.0.0.1	r.aartzz.pp.ua
+127.0.0.1	gta5rppppp-61894.portmap.io
+127.0.0.1	lines-flags.gl.at.ply.gg
+127.0.0.1	accommodation-specialist.gl.at.ply.gg
+127.0.0.1	his-varied.gl.at.ply.gg
+127.0.0.1	repair-oscar.gl.at.ply.gg
+127.0.0.1	specter699-31351.portmap.io
+127.0.0.1	enans-33358.portmap.io
+127.0.0.1	dugites-44896.portmap.io
+127.0.0.1	ilikefemboys1234-38334.portmap.io
+127.0.0.1	jamierose-42682.portmap.io
+127.0.0.1	associated-bk.gl.at.ply.gg
+127.0.0.1	ckfejrnet.airdns.org
+127.0.0.1	rule-covers.gl.at.ply.gg
+127.0.0.1	imhimlmai-61691.portmap.io
+127.0.0.1	includes-whose.gl.at.ply.gg
+127.0.0.1	svhost.mine.nu
+127.0.0.1	if-definition.gl.at.ply.gg
+127.0.0.1	iliketacos12341-30048.portmap.io
+127.0.0.1	big-expressed.gl.at.ply.gg
+127.0.0.1	cd-checking.gl.at.ply.gg
+127.0.0.1	hackergtx-23464.portmap.io
+127.0.0.1	qwzarterlol.ddns.net
+127.0.0.1	izumisv1.cc
+127.0.0.1	mdnditly.gotdns.ch
+127.0.0.1	19.171.learnblockchain101.com
+127.0.0.1	security.cleodgiflaoer.com
+127.0.0.1	emeoxm.com
+127.0.0.1	ec2-63-33-82-34.eu-west-1.compute.amazonaws.com
+127.0.0.1	down.ponjs.com
 127.0.0.1	stores-replace.gl.at.ply.gg
 127.0.0.1	alexkasa-53195.portmap.io
 127.0.0.1	gazaru-21459.portmap.io
@@ -72751,19 +72794,4 @@
 127.0.0.1	cq13555.tw1.ru
 127.0.0.1	fivegr5sb.top
 127.0.0.1	twentygr20sb.top
-127.0.0.1	klarnaportal.icu
-127.0.0.1	ferp.googledns.io
-127.0.0.1	hk-dns.secssl.com
-127.0.0.1	hk-dns.winsiked.com
-127.0.0.1	hk-dns.wkossclsaleklddeff.is
-127.0.0.1	hk-dns.wkossclsaleklddeff.io
-127.0.0.1	www.sleepy-khorana.193-239-86-216.plesk.page
-127.0.0.1	portal.avina.cloud
-127.0.0.1	capitalunionbank.co
-127.0.0.1	ec2-54-234-71-196.compute-1.amazonaws.com
-127.0.0.1	ec2-98-84-163-18.compute-1.amazonaws.com
-127.0.0.1	sedone.online
-127.0.0.1	sectors.bowentaxlaw.com
-127.0.0.1	theinb.com
-127.0.0.1	carolina-oxide.gl.at.ply.gg
-# Number of entries: 72760
+# Number of entries: 72788
