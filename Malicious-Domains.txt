@@ -72766,6 +72766,4 @@
 127.0.0.1	sectors.bowentaxlaw.com
 127.0.0.1	theinb.com
 127.0.0.1	carolina-oxide.gl.at.ply.gg
-127.0.0.1	t1p9jbex8g.silentlegion.duckdns.org
-127.0.0.1	www.silentlegion.duckdns.org
-# Number of entries: 72762
+# Number of entries: 72760
