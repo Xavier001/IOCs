@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-17 07:09:59 UTC                        #
+# Last updated: 2025-06-17 12:11:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	macxapp.com
+127.0.0.1	9.yubaby.top
+127.0.0.1	a6dzlc7fyp7uy.swedencentral.cloudapp.azure.com
+127.0.0.1	activedirectory-windowsazure.com
+127.0.0.1	api.lcmeng.fun
+127.0.0.1	api.burbankskincancercenter.com
+127.0.0.1	carpoly.ru
+127.0.0.1	igmp.sc.cmcc.transportesturela.com
+127.0.0.1	kf.pinkpp.site
+127.0.0.1	techsupportconnect.com
+127.0.0.1	tv-box-cdn.xiaoyinzhen.com
 127.0.0.1	romanovas.duckdns.org
 127.0.0.1	agent24.space
 127.0.0.1	actwindowdsdrivers.duckdns.org
@@ -72799,8 +72810,4 @@
 127.0.0.1	lojaprincipiaoficial.online
 127.0.0.1	mes-deofertasml.online
 127.0.0.1	selmanc.com
-127.0.0.1	thirtgt13pn.top
-127.0.0.1	home.fivetk5pn.top
-127.0.0.1	home.thirtgt13pn.top
-127.0.0.1	tentk10pn.top
-# Number of entries: 72797
+# Number of entries: 72804
