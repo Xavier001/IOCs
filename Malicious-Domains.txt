@@ -1,11 +1,32 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-17 00:02:37 UTC                        #
+# Last updated: 2025-06-17 07:09:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	romanovas.duckdns.org
+127.0.0.1	agent24.space
+127.0.0.1	actwindowdsdrivers.duckdns.org
+127.0.0.1	11.130.storysaverr.app
+127.0.0.1	jjk1241255325324523.duckdns.org
+127.0.0.1	redslide13-42748.portmap.io
+127.0.0.1	dddf.com
+127.0.0.1	hnoo17.no-ip.biz
+127.0.0.1	flux.zapto.org
+127.0.0.1	almghamrh073.ddns.net
+127.0.0.1	rfcahelp.us
+127.0.0.1	web.gtysx.top
+127.0.0.1	jrzlive.help
+127.0.0.1	itdcare.help
+127.0.0.1	6hms.top
+127.0.0.1	sinofreights.com
+127.0.0.1	cellinifurniture.com
+127.0.0.1	login-li.ve-microsoft.org
+127.0.0.1	security.fjeareshiedls.com
+127.0.0.1	folepfa.com
+127.0.0.1	host-5-58-172-98.bitternet.ua
 127.0.0.1	lh3.accountsgoogle.loginlivemiscrosoftonline.duckdns.org
 127.0.0.1	port-storage.ddns.net
 127.0.0.1	play.accountsgoogle.loginlivemiscrosoftonline.duckdns.org
@@ -72782,39 +72803,4 @@
 127.0.0.1	home.fivetk5pn.top
 127.0.0.1	home.thirtgt13pn.top
 127.0.0.1	tentk10pn.top
-127.0.0.1	www.electrum.la
-127.0.0.1	electrum.la
-127.0.0.1	elektrum.sbs
-127.0.0.1	elektrum.cfd
-127.0.0.1	elektrum.icu
-127.0.0.1	klarnaportal.live
-127.0.0.1	avaliacaodobem.online
-127.0.0.1	coinlite.vip
-127.0.0.1	portal-klarna.live
-127.0.0.1	zut2.shop
-127.0.0.1	flofunrintum.medicarium.help
-127.0.0.1	vatanfungem.medicarium.icu
-127.0.0.1	proxonpenfer.estereomedic.help
-127.0.0.1	prifer554.estereomedic.homes
-127.0.0.1	craal.medicarium.help
-127.0.0.1	plitonlinfil40.medicarium.homes
-127.0.0.1	drolenpendiz.estereomedic.homes
-127.0.0.1	strepor.estereomedic.beauty
-127.0.0.1	ploconwel.estereomedic.icu
-127.0.0.1	brulenronvel.medicesterium.help
-127.0.0.1	frusom.medicesterium.beauty
-127.0.0.1	striqual46.medicarium.icu
-127.0.0.1	crocil.estereomedic.icu
-127.0.0.1	graminbanfer.estereomedic.beauty
-127.0.0.1	stripuncandiz.medicarium.beauty
-127.0.0.1	drotanbil.medicesterium.help
-127.0.0.1	brupor.medicarium.beauty
-127.0.0.1	crafentar.medicarium.homes
-127.0.0.1	crolencil.medicesterium.beauty
-127.0.0.1	taktlat.xyz
-127.0.0.1	danojeo.shop
-127.0.0.1	xohivao.shop
-127.0.0.1	nykidio.shop
-127.0.0.1	sibyree.shop
-127.0.0.1	ecs-110-41-185-80.compute.hwclouds-dns.com
-# Number of entries: 72811
+# Number of entries: 72797
