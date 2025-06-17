@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-16 20:05:47 UTC                        #
+# Last updated: 2025-06-17 00:02:37 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	lh3.accountsgoogle.loginlivemiscrosoftonline.duckdns.org
+127.0.0.1	port-storage.ddns.net
+127.0.0.1	play.accountsgoogle.loginlivemiscrosoftonline.duckdns.org
 127.0.0.1	gasfeesethereum.icu
 127.0.0.1	idriss.icu
 127.0.0.1	memecor.icu
@@ -72814,7 +72817,4 @@
 127.0.0.1	nykidio.shop
 127.0.0.1	sibyree.shop
 127.0.0.1	ecs-110-41-185-80.compute.hwclouds-dns.com
-127.0.0.1	www.chat.edureel.ai
-127.0.0.1	www.elastic-merkle.194-26-192-207.plesk.page
-127.0.0.1	62.133.63.114.sslip.io
 # Number of entries: 72811
