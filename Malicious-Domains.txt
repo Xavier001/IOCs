@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-17 21:38:33 UTC                        #
+# Last updated: 2025-06-18 04:06:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	singtelcom.site
+127.0.0.1	play.accountsgooogle.loginlivemiscrosoftonline.duckdns.org
+127.0.0.1	100.56.171.34.bc.googleusercontent.com
+127.0.0.1	apis.accountsgoogle.loginlivemiscrosoftonline.duckdns.org
 127.0.0.1	michikoak51.duckdns.org
 127.0.0.1	michikoa.duckdns.org
 127.0.0.1	garden-enable.gl.at.ply.gg
@@ -72814,8 +72818,6 @@
 127.0.0.1	science-attract.gl.at.ply.gg
 127.0.0.1	pentest-setup.eastus.cloudapp.azure.com
 127.0.0.1	ssl.gstatlc.org
-127.0.0.1	gstatlc.org
-127.0.0.1	gstatis.co
 127.0.0.1	jsdelivr.at
 127.0.0.1	jqueri.at
-# Number of entries: 72812
+# Number of entries: 72814
