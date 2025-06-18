@@ -1,12 +1,42 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-18 04:06:30 UTC                        #
+# Last updated: 2025-06-18 09:34:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nupdate0625.com
+127.0.0.1	cloused-flow.site
+127.0.0.1	debianlist.cfd
+127.0.0.1	cdnnode-01.cfd
+127.0.0.1	servicesmesh.pro
+127.0.0.1	ncloud-servers.shop
+127.0.0.1	brokpolok.shop
+127.0.0.1	d-nodes.shop
+127.0.0.1	uplink-mirrors.shop
+127.0.0.1	securityhealthsystray.accesscam.org
+127.0.0.1	securityhealthmonitor.duckdns.org
+127.0.0.1	givedem2.duckdns.org
+127.0.0.1	givedem.duckdns.org
+127.0.0.1	boyz2346.duckdns.org
+127.0.0.1	updatedrvier.duckdns.org
+127.0.0.1	actwindowdsdriver.duckdns.org
+127.0.0.1	boss2468.duckdns.org
+127.0.0.1	greatthingsstillhappen.duckdns.org
+127.0.0.1	eraqron.shop
+127.0.0.1	9.20.storysaverr.app
+127.0.0.1	nnnpanel.top
+127.0.0.1	wepolix.com
+127.0.0.1	security.fizaregiyard.com
+127.0.0.1	www.ssatech.online
+127.0.0.1	www.waillyrx5.com
 127.0.0.1	singtelcom.site
+127.0.0.1	ssl.accountsgoogle.loginlivemiscrosoftonline.duckdns.org
+127.0.0.1	mta73.bwcasino.email
+127.0.0.1	santutxuht.eus
+127.0.0.1	zoutailian.jlx9.asia
+127.0.0.1	ecs-113-44-144-145.compute.hwclouds-dns.com
 127.0.0.1	play.accountsgooogle.loginlivemiscrosoftonline.duckdns.org
 127.0.0.1	100.56.171.34.bc.googleusercontent.com
 127.0.0.1	apis.accountsgoogle.loginlivemiscrosoftonline.duckdns.org
@@ -72812,12 +72842,4 @@
 127.0.0.1	a15.nbdsnb2.top
 127.0.0.1	a15.yydsnb1.top
 127.0.0.1	a15aaa1.oss-cn-hongkong.aliyuncs.com
-127.0.0.1	muuxxu.com
-127.0.0.1	cronoze.com
-127.0.0.1	dogirafer.com
-127.0.0.1	science-attract.gl.at.ply.gg
-127.0.0.1	pentest-setup.eastus.cloudapp.azure.com
-127.0.0.1	ssl.gstatlc.org
-127.0.0.1	jsdelivr.at
-127.0.0.1	jqueri.at
-# Number of entries: 72814
+# Number of entries: 72836
