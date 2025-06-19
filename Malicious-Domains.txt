@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-18 18:11:57 UTC                        #
+# Last updated: 2025-06-19 00:03:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	guce.newservicedotup.de
 127.0.0.1	yj233.e1.luyouxia.net
 127.0.0.1	yukselofficial.duckdns.org
 127.0.0.1	shnf-47787.portmap.io
@@ -72774,4 +72775,4 @@
 127.0.0.1	tacitglibbr.biz
 127.0.0.1	fabricattewu.click
 127.0.0.1	kliptizq.shop
-# Number of entries: 72768
+# Number of entries: 72769
