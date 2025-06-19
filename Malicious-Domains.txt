@@ -1,11 +1,42 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-19 12:19:04 UTC                        #
+# Last updated: 2025-06-19 21:26:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sleach.zapto.org
+127.0.0.1	nyzzrat-64271.portmap.io
+127.0.0.1	catherinekey1965-40831.portmap.io
+127.0.0.1	finix.newsnewth365.com
+127.0.0.1	mygokerman.casacam.net
+127.0.0.1	wedbest02.ddns.net
+127.0.0.1	wedbest001.duckdns.org
+127.0.0.1	wedbest002.duckdns.org
+127.0.0.1	wedbest004.kozow.com
+127.0.0.1	wedbest004.camdvr.org
+127.0.0.1	wedbest012.duckdns.org
+127.0.0.1	wedbest021.zapto.org
+127.0.0.1	amaprox.icu
+127.0.0.1	nmsl.onen.site
+127.0.0.1	aave-crypto.com
+127.0.0.1	baseswap-new.typedream.app
+127.0.0.1	swedrent.com
+127.0.0.1	b1.gawkheading.lat
+127.0.0.1	talktuahthehand-42154.portmap.io
+127.0.0.1	behind-welcome.gl.at.ply.gg
+127.0.0.1	source-determination.gl.at.ply.gg
+127.0.0.1	calendar-background.gl.at.ply.gg
+127.0.0.1	fat-changes.gl.at.ply.gg
+127.0.0.1	other-mins.gl.at.ply.gg
+127.0.0.1	kalitest.ddns.net
+127.0.0.1	doc.sougou365.online
+127.0.0.1	www.domainup6l9.xyz
+127.0.0.1	sleach.dns.army
+127.0.0.1	www.stirngo.com
+127.0.0.1	lumma-market.ru
+127.0.0.1	reexmv.top
 127.0.0.1	macxapp.org
 127.0.0.1	cryptonews-info.com
 127.0.0.1	gewgb.xyz
@@ -73867,9 +73898,4 @@
 127.0.0.1	dosmac.top
 127.0.0.1	dosmax.top
 127.0.0.1	ip69-48-204-229.pbiaas.com
-127.0.0.1	dosmax.top
-127.0.0.1	aadcdn.fortinet.app
-127.0.0.1	adfs.fortinet.app
-127.0.0.1	212.47.173.34.bc.googleusercontent.com
-127.0.0.1	floratranslator.live
-# Number of entries: 73866
+# Number of entries: 73892
