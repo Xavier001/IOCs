@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-19 08:40:43 UTC                        #
+# Last updated: 2025-06-19 12:19:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	macxapp.org
+127.0.0.1	cryptonews-info.com
+127.0.0.1	gewgb.xyz
+127.0.0.1	skjgx.xyz
+127.0.0.1	ropyi.xyz
+127.0.0.1	spjeo.xyz
+127.0.0.1	accounts.accountsgooogle.loginlivemiscrosoftonline.duckdns.org
+127.0.0.1	myaccount.google.loginlivemiscrosoftonline.duckdns.org
 127.0.0.1	overplanteasiest.top
 127.0.0.1	productnews.online
 127.0.0.1	firstfromsep.online
@@ -73864,6 +73872,4 @@
 127.0.0.1	adfs.fortinet.app
 127.0.0.1	212.47.173.34.bc.googleusercontent.com
 127.0.0.1	floratranslator.live
-127.0.0.1	gwcomics.com
-127.0.0.1	esondent.com
-# Number of entries: 73860
+# Number of entries: 73866
