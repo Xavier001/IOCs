@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-19 21:26:56 UTC                        #
+# Last updated: 2025-06-20 02:53:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	c.testcs888.com
+127.0.0.1	c2.moustartline.com
+127.0.0.1	v361422.hosted-by-vdsina.com
+127.0.0.1	www.uyghur.eu.org
+127.0.0.1	8xney90cqcr5m.cfc-execute.su.baidubce.com
 127.0.0.1	sleach.zapto.org
 127.0.0.1	nyzzrat-64271.portmap.io
 127.0.0.1	catherinekey1965-40831.portmap.io
@@ -73897,5 +73902,4 @@
 127.0.0.1	excluderhsh.click
 127.0.0.1	dosmac.top
 127.0.0.1	dosmax.top
-127.0.0.1	ip69-48-204-229.pbiaas.com
-# Number of entries: 73892
+# Number of entries: 73896
