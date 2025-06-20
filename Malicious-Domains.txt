@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-20 02:53:00 UTC                        #
+# Last updated: 2025-06-20 08:55:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cf.testcs888.com
+127.0.0.1	cf.1v5sd1c2ds.com
+127.0.0.1	8vz75cfcfmey5.cfc-execute.bj.baidubce.com
+127.0.0.1	reason-tribal.gl.at.ply.gg
+127.0.0.1	we-referring.gl.at.ply.gg
+127.0.0.1	yn.eoow.cn
+127.0.0.1	us.worldisendmail.ml
+127.0.0.1	tax-warrior.gl.at.ply.gg
+127.0.0.1	analytticasnoden.com
+127.0.0.1	security.fweragyrads.com
+127.0.0.1	foepsa.com
+127.0.0.1	update.applefilesync.com
+127.0.0.1	mathiasputzola.com
 127.0.0.1	c.testcs888.com
 127.0.0.1	c2.moustartline.com
 127.0.0.1	v361422.hosted-by-vdsina.com
@@ -73891,15 +73904,4 @@
 127.0.0.1	hamptoninnbelton.com
 127.0.0.1	hdtele.com
 127.0.0.1	ti.twilight.zip
-127.0.0.1	ext.delightfulgrass-a1c0fe70.canadaeast.azurecontainerapps.io
-127.0.0.1	asdasw21.icu
-127.0.0.1	nen4.vpnfree.site
-127.0.0.1	odziezrobocza.biz
-127.0.0.1	fat-pads.gl.at.ply.gg
-127.0.0.1	latest-springer.gl.at.ply.gg
-127.0.0.1	frostman.shop
-127.0.0.1	longelizzaw.click
-127.0.0.1	excluderhsh.click
-127.0.0.1	dosmac.top
-127.0.0.1	dosmax.top
-# Number of entries: 73896
+# Number of entries: 73898
