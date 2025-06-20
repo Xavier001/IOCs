@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-20 08:55:30 UTC                        #
+# Last updated: 2025-06-20 12:25:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.googleapi.top
+127.0.0.1	api.micosoftr.icu
 127.0.0.1	cf.testcs888.com
 127.0.0.1	cf.1v5sd1c2ds.com
 127.0.0.1	8vz75cfcfmey5.cfc-execute.bj.baidubce.com
@@ -73903,5 +73905,4 @@
 127.0.0.1	brideeded.duckdns.org
 127.0.0.1	hamptoninnbelton.com
 127.0.0.1	hdtele.com
-127.0.0.1	ti.twilight.zip
-# Number of entries: 73898
+# Number of entries: 73899
