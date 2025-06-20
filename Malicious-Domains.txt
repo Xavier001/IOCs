@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-20 12:25:32 UTC                        #
+# Last updated: 2025-06-20 20:52:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.ddddddddguashjdka.top
+127.0.0.1	2tuff-33336.portmap.io
+127.0.0.1	junie15.duckdns.org
+127.0.0.1	lespencer.duckdns.org
+127.0.0.1	district-graphical.gl.at.ply.gg
+127.0.0.1	0.0.mastermaths.com.sg
+127.0.0.1	app.symphoniabags.com
+127.0.0.1	gitlab.sbs
+127.0.0.1	r-cdn.icu
+127.0.0.1	api.googleapi.top
+127.0.0.1	api.r-cdn.icu
+127.0.0.1	down.gitlab.sbs
+127.0.0.1	d.tstcs888.com
 127.0.0.1	www.googleapi.top
 127.0.0.1	api.micosoftr.icu
 127.0.0.1	cf.testcs888.com
@@ -73901,8 +73914,4 @@
 127.0.0.1	premiumprotectiondis.org
 127.0.0.1	www.genghiskhanof21century.online
 127.0.0.1	mail.172-208-106-5.cprapid.com
-127.0.0.1	niewiemcodac.ddns.net
-127.0.0.1	brideeded.duckdns.org
-127.0.0.1	hamptoninnbelton.com
-127.0.0.1	hdtele.com
-# Number of entries: 73899
+# Number of entries: 73908
