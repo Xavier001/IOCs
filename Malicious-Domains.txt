@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-20 20:52:12 UTC                        #
+# Last updated: 2025-06-21 04:01:19 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ec2-54-250-175-201.ap-northeast-1.compute.amazonaws.com
+127.0.0.1	dd.tstcs888.com
+127.0.0.1	ns4.jk001.cc
+127.0.0.1	office.soft-storelive.com
+127.0.0.1	ns3.jk001.cc
+127.0.0.1	ns1.asdxxcg.top
+127.0.0.1	ns1.asianinvasion.net
+127.0.0.1	jk002.cc
+127.0.0.1	log.nongfushan.org
+127.0.0.1	apps.soft-storelive.com
 127.0.0.1	www.ddddddddguashjdka.top
 127.0.0.1	2tuff-33336.portmap.io
 127.0.0.1	junie15.duckdns.org
@@ -73911,7 +73921,4 @@
 127.0.0.1	genghiskhanof21century.online
 127.0.0.1	toptek.sbs
 127.0.0.1	ecs-189-1-242-182.compute.hwclouds-dns.com
-127.0.0.1	premiumprotectiondis.org
-127.0.0.1	www.genghiskhanof21century.online
-127.0.0.1	mail.172-208-106-5.cprapid.com
-# Number of entries: 73908
+# Number of entries: 73915
