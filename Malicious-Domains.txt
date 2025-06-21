@@ -1,16 +1,31 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-21 11:57:15 UTC                        #
+# Last updated: 2025-06-21 18:55:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ns3.admlistdel.com
+127.0.0.1	ns2.todesks.help
+127.0.0.1	ns2.mailinfo.life
+127.0.0.1	ns2.admlistdel.com
+127.0.0.1	ns1.mailinfo.life
+127.0.0.1	ns1.todesks.help
+127.0.0.1	api.todesks.help
+127.0.0.1	mkidech.zapto.org
+127.0.0.1	foncar.duckdns.org
+127.0.0.1	www.commicaute.com
+127.0.0.1	security.fpwergwavrd.com
+127.0.0.1	posugxa.com
+127.0.0.1	microsoftcdnlicense.putinswin.es
 127.0.0.1	hamster-exchange.top
 127.0.0.1	return-aug.gl.at.ply.gg
 127.0.0.1	anyukov-43802.portmap.io
 127.0.0.1	webapi.360se.dpdns.org
 127.0.0.1	ec2-54-250-175-201.ap-northeast-1.compute.amazonaws.com
+127.0.0.1	120.32.198.104.bc.googleusercontent.com
+127.0.0.1	172.91.188.35.bc.googleusercontent.com
 127.0.0.1	dd.tstcs888.com
 127.0.0.1	ns4.jk001.cc
 127.0.0.1	office.soft-storelive.com
@@ -73922,5 +73937,4 @@
 127.0.0.1	vikingriorityboost.com
 127.0.0.1	spellshagey.biz
 127.0.0.1	heuristic-gould.45-77-46-13.plesk.page
-127.0.0.1	genghiskhanof21century.online
-# Number of entries: 73917
+# Number of entries: 73931
