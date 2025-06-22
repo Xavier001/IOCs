@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-21 18:55:13 UTC                        #
+# Last updated: 2025-06-21 23:05:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ms-pupils.gl.at.ply.gg
+127.0.0.1	ansy10jun.duckdns.org
+127.0.0.1	asegurar3octubre.duckdns.org
+127.0.0.1	asegurar2octubre.duckdns.org
+127.0.0.1	zombiedomain.sytes.net
+127.0.0.1	catherinekey1965-28715.portmap.io
+127.0.0.1	ratforme.ddns.net
 127.0.0.1	ns3.admlistdel.com
 127.0.0.1	ns2.todesks.help
 127.0.0.1	ns2.mailinfo.life
@@ -73937,4 +73944,4 @@
 127.0.0.1	vikingriorityboost.com
 127.0.0.1	spellshagey.biz
 127.0.0.1	heuristic-gould.45-77-46-13.plesk.page
-# Number of entries: 73931
+# Number of entries: 73938
