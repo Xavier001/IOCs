@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-21 23:05:54 UTC                        #
+# Last updated: 2025-06-22 08:40:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	trezor-io-start.typedream.app
+127.0.0.1	justhk.saoken.me
+127.0.0.1	www.dulcidora.com.br
+127.0.0.1	ns1.basicvitals.com
+127.0.0.1	security.gyredoflzares.com
+127.0.0.1	gowqpaz.com
+127.0.0.1	test.manageenglne.com
+127.0.0.1	elgg.santutxuht.eus
+127.0.0.1	ecs-113-44-139-80.compute.hwclouds-dns.com
 127.0.0.1	ms-pupils.gl.at.ply.gg
 127.0.0.1	ansy10jun.duckdns.org
 127.0.0.1	asegurar3octubre.duckdns.org
@@ -22,6 +31,47 @@
 127.0.0.1	api.todesks.help
 127.0.0.1	mkidech.zapto.org
 127.0.0.1	foncar.duckdns.org
+127.0.0.1	pzbx.xyz
+127.0.0.1	abgzg.xyz
+127.0.0.1	gumkq.xyz
+127.0.0.1	pluepf.xyz
+127.0.0.1	ferzja.xyz
+127.0.0.1	shfsz.xyz
+127.0.0.1	clgsh.xyz
+127.0.0.1	siplv.xyz
+127.0.0.1	roaein.xyz
+127.0.0.1	tuead.xyz
+127.0.0.1	bardj.xyz
+127.0.0.1	basmsz.xyz
+127.0.0.1	geczs.xyz
+127.0.0.1	insye.xyz
+127.0.0.1	eboknt.xyz
+127.0.0.1	przqv.xyz
+127.0.0.1	regkjw.xyz
+127.0.0.1	lifyg.xyz
+127.0.0.1	adsay.xyz
+127.0.0.1	tymvd.xyz
+127.0.0.1	nafuq.xyz
+127.0.0.1	gizqt.xyz
+127.0.0.1	didli.xyz
+127.0.0.1	vervzv.xyz
+127.0.0.1	mflqsm.xyz
+127.0.0.1	genhqq.xyz
+127.0.0.1	beyxm.xyz
+127.0.0.1	squafu.xyz
+127.0.0.1	opcez.xyz
+127.0.0.1	cojcx.xyz
+127.0.0.1	thigk.xyz
+127.0.0.1	antvu.xyz
+127.0.0.1	titco.xyz
+127.0.0.1	battrf.xyz
+127.0.0.1	annwt.xyz
+127.0.0.1	maroui.xyz
+127.0.0.1	nepjz.xyz
+127.0.0.1	dryzc.xyz
+127.0.0.1	detru.xyz
+127.0.0.1	capxw.xyz
+127.0.0.1	contnm.xyz
 127.0.0.1	www.commicaute.com
 127.0.0.1	security.fpwergwavrd.com
 127.0.0.1	posugxa.com
@@ -73944,4 +73994,4 @@
 127.0.0.1	vikingriorityboost.com
 127.0.0.1	spellshagey.biz
 127.0.0.1	heuristic-gould.45-77-46-13.plesk.page
-# Number of entries: 73938
+# Number of entries: 73988
