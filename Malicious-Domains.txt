@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-22 08:40:49 UTC                        #
+# Last updated: 2025-06-22 12:24:37 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	asasas44-58548.portmap.io
+127.0.0.1	season-clothes.gl.at.ply.gg
+127.0.0.1	waohsfs-48136.portmap.io
+127.0.0.1	de5.localto.net
+127.0.0.1	regional-evaluate.gl.at.ply.gg
 127.0.0.1	trezor-io-start.typedream.app
 127.0.0.1	justhk.saoken.me
 127.0.0.1	www.dulcidora.com.br
@@ -73993,5 +73998,4 @@
 127.0.0.1	aspecteirs.lat
 127.0.0.1	vikingriorityboost.com
 127.0.0.1	spellshagey.biz
-127.0.0.1	heuristic-gould.45-77-46-13.plesk.page
-# Number of entries: 73988
+# Number of entries: 73992
