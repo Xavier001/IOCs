@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-22 12:24:37 UTC                        #
+# Last updated: 2025-06-22 20:54:55 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sp.b0t.me
+127.0.0.1	ns2.ns.xiaotusu.top
+127.0.0.1	ns1.ns.xiaotusu.top
+127.0.0.1	johncollins55-29335.portmap.io
+127.0.0.1	espinyskibidi-40205.portmap.host
+127.0.0.1	b1.cornmealjustly.lat
+127.0.0.1	panel333222111.icu
+127.0.0.1	holycrappycrap.no-ip.org
+127.0.0.1	snezze-27701.portmap.io
+127.0.0.1	hackblue.zapto.org
+127.0.0.1	myhost5.ddns.net
 127.0.0.1	asasas44-58548.portmap.io
 127.0.0.1	season-clothes.gl.at.ply.gg
 127.0.0.1	waohsfs-48136.portmap.io
@@ -73948,54 +73959,4 @@
 127.0.0.1	gracefulcallou.click
 127.0.0.1	sweepyribs.lat
 127.0.0.1	icyidentifysu.click
-127.0.0.1	thirtkt13sb.top
-127.0.0.1	twentytk20vt.top
-127.0.0.1	home.twentytk20pt.top
-127.0.0.1	ninetk9pt.top
-127.0.0.1	onetk1sb.top
-127.0.0.1	sixtk6pt.top
-127.0.0.1	tentk10ht.top
-127.0.0.1	tentk10pt.top
-127.0.0.1	twentytk20pt.top
-127.0.0.1	thirtgt13pt.top
-127.0.0.1	thirtgt13ht.top
-127.0.0.1	twentytk20ht.top
-127.0.0.1	twentytk20sb.top
-127.0.0.1	eightk8pt.top
-127.0.0.1	fivetk5ht.top
-127.0.0.1	home.fivetk5ht.top
-127.0.0.1	home.sixtk6pt.top
-127.0.0.1	home.tentk10ht.top
-127.0.0.1	home.tentk10pt.top
-127.0.0.1	home.thirtgt13pt.top
-127.0.0.1	home.fivetk5sb.top
-127.0.0.1	eightk8sb.top
-127.0.0.1	fivetk5pt.top
-127.0.0.1	fortkt14sb.top
-127.0.0.1	home.sixtk6sb.top
-127.0.0.1	home.twentytk20ht.top
-127.0.0.1	ninetk9sb.top
-127.0.0.1	sixtk6sb.top
-127.0.0.1	tentk10sb.top
-127.0.0.1	fivetk5sb.top
-127.0.0.1	eightk8ht.top
-127.0.0.1	onetk1ht.top
-127.0.0.1	onetk1pt.top
-127.0.0.1	sixtk6ht.top
-127.0.0.1	home.eightk8ht.top
-127.0.0.1	home.onetk1ht.top
-127.0.0.1	164.92.226.28.sslip.io
-127.0.0.1	c.cc13.cn
-127.0.0.1	qamar-alsharqia.com
-127.0.0.1	sokrpro.com
-127.0.0.1	crayonutteh.click
-127.0.0.1	discokeyus.lat
-127.0.0.1	energyaffai.lat
-127.0.0.1	necklacebudi.lat
-127.0.0.1	crosshuaht.lat
-127.0.0.1	grannyejh.lat
-127.0.0.1	sustainskelet.lat
-127.0.0.1	aspecteirs.lat
-127.0.0.1	vikingriorityboost.com
-127.0.0.1	spellshagey.biz
-# Number of entries: 73992
+# Number of entries: 73953
