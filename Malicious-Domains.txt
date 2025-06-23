@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-22 22:53:13 UTC                        #
+# Last updated: 2025-06-23 08:06:33 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	f3.xo.mastermaths.com.sg
+127.0.0.1	security.flinaregaozrd.com
+127.0.0.1	faospe.com
+127.0.0.1	onmolatori.icu
+127.0.0.1	static.161.152.69.159.clients.your-server.de
+127.0.0.1	photo.suziestuder.com
+127.0.0.1	app2.symphoniabags.com
 127.0.0.1	fazstpgnpnqb0.cfc-execute.bj.baidubce.com
 127.0.0.1	1357965137-bafd04zr1t.ap-guangzhou.tencentscf.com
 127.0.0.1	sp.b0t.me
@@ -73938,21 +73945,4 @@
 127.0.0.1	nouisser.de
 127.0.0.1	bremerhaven-mail.de
 127.0.0.1	tenth10pn.top
-127.0.0.1	swamfoxinnc.com
-127.0.0.1	saveyourdata.shop
-127.0.0.1	umeharasyo.one
-127.0.0.1	office.enewlaw.com
-127.0.0.1	brasseriehub3.com
-127.0.0.1	clockersspic.click
-127.0.0.1	6t.lc
-127.0.0.1	respectfulnesses.makeup
-127.0.0.1	bewailable.hair
-127.0.0.1	969d6a2f.respectfulnesses.makeup
-127.0.0.1	asylumejkr.icu
-127.0.0.1	ec2-3-114-169-53.ap-northeast-1.compute.amazonaws.com
-127.0.0.1	fb.cdn-10.mylnix.com
-127.0.0.1	publicspeaking.co.id
-127.0.0.1	clickminded.agency
-127.0.0.1	principledjs.click
-127.0.0.1	neqi.shop
-# Number of entries: 73949
+# Number of entries: 73939
