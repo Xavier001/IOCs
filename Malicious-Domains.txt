@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-22 20:54:55 UTC                        #
+# Last updated: 2025-06-22 22:53:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	fazstpgnpnqb0.cfc-execute.bj.baidubce.com
+127.0.0.1	1357965137-bafd04zr1t.ap-guangzhou.tencentscf.com
 127.0.0.1	sp.b0t.me
 127.0.0.1	ns2.ns.xiaotusu.top
 127.0.0.1	ns1.ns.xiaotusu.top
@@ -73949,14 +73951,8 @@
 127.0.0.1	asylumejkr.icu
 127.0.0.1	ec2-3-114-169-53.ap-northeast-1.compute.amazonaws.com
 127.0.0.1	fb.cdn-10.mylnix.com
-127.0.0.1	satpr.com
 127.0.0.1	publicspeaking.co.id
 127.0.0.1	clickminded.agency
 127.0.0.1	principledjs.click
 127.0.0.1	neqi.shop
-127.0.0.1	www.exciting-goldberg.193-239-86-216.plesk.page
-127.0.0.1	mail.coinhako.us
-127.0.0.1	gracefulcallou.click
-127.0.0.1	sweepyribs.lat
-127.0.0.1	icyidentifysu.click
-# Number of entries: 73953
+# Number of entries: 73949
