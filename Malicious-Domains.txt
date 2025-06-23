@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-23 08:06:33 UTC                        #
+# Last updated: 2025-06-23 12:07:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	surfshark.pw
+127.0.0.1	shallowrepurpose.top
 127.0.0.1	f3.xo.mastermaths.com.sg
 127.0.0.1	security.flinaregaozrd.com
 127.0.0.1	faospe.com
@@ -73942,7 +73944,4 @@
 127.0.0.1	ec2-52-215-25-229.eu-west-1.compute.amazonaws.com
 127.0.0.1	dcfei.xyz
 127.0.0.1	bijutr.shop
-127.0.0.1	nouisser.de
-127.0.0.1	bremerhaven-mail.de
-127.0.0.1	tenth10pn.top
-# Number of entries: 73939
+# Number of entries: 73938
