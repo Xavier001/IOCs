@@ -1,11 +1,25 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-23 12:07:39 UTC                        #
+# Last updated: 2025-06-23 20:01:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mythcc.evilpony.win
+127.0.0.1	olympiwurer.biz
+127.0.0.1	vmi1705427.contaboserver.net
+127.0.0.1	s4ntiselac0m3-44679.portmap.io
+127.0.0.1	am164aa.kro.kr
+127.0.0.1	selectbackup.ddns.net
+127.0.0.1	vselectbrasil.ddns.net
+127.0.0.1	conhostlogsdown.sytes.net
+127.0.0.1	apple-go.gl.at.ply.gg
+127.0.0.1	would-pepper.gl.at.ply.gg
+127.0.0.1	people-climbing.gl.at.ply.gg
+127.0.0.1	kids-indeed.gl.at.ply.gg
+127.0.0.1	wwwsec.top
+127.0.0.1	search.2y3rn846.com
 127.0.0.1	surfshark.pw
 127.0.0.1	shallowrepurpose.top
 127.0.0.1	f3.xo.mastermaths.com.sg
@@ -73909,39 +73923,4 @@
 127.0.0.1	web.app-cloud.link
 127.0.0.1	www.team-endurancecom.sofianeyaya.fr
 127.0.0.1	mail.pinkveda.com
-127.0.0.1	gajaechkfhfghal.top
-127.0.0.1	maddhouzz.com
-127.0.0.1	chat.edureel.ai
-127.0.0.1	www.cool-cartwright.193-239-86-216.plesk.page
-127.0.0.1	ip189.ip-51-254-238.eu
-127.0.0.1	boneyn.com
-127.0.0.1	eihz18ht.top
-127.0.0.1	sixz6pt.top
-127.0.0.1	currentheadlines.top
-127.0.0.1	krakenlpay.com
-127.0.0.1	29358cm.darkproducts.ru
-127.0.0.1	a1067345.xsph.ru
-127.0.0.1	f1064463.xsph.ru
-127.0.0.1	a1066647.xsph.ru
-127.0.0.1	steamtp2.beget.tech
-127.0.0.1	pw323.castledev.ru
-127.0.0.1	f1039159.xsph.ru
-127.0.0.1	cg83870.tw1.ru
-127.0.0.1	sevz7sr.top
-127.0.0.1	erectystickj.click
-127.0.0.1	volcanoyev.click
-127.0.0.1	wordyfindy.lat
-127.0.0.1	slipperyloo.lat
-127.0.0.1	manyrestro.lat
-127.0.0.1	shapestickyr.lat
-127.0.0.1	talkynicer.lat
-127.0.0.1	curverpluch.lat
-127.0.0.1	tentabatte.lat
-127.0.0.1	bashfulacid.lat
-127.0.0.1	home.fortth14pn.top
-127.0.0.1	fortth14pn.top
-127.0.0.1	twentyth20pn.top
-127.0.0.1	ec2-52-215-25-229.eu-west-1.compute.amazonaws.com
-127.0.0.1	dcfei.xyz
-127.0.0.1	bijutr.shop
-# Number of entries: 73938
+# Number of entries: 73917
