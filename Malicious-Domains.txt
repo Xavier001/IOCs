@@ -73929,6 +73929,4 @@
 127.0.0.1	dhusch.com
 127.0.0.1	trailbuddymaps.com
 127.0.0.1	ec2-13-43-58-188.eu-west-2.compute.amazonaws.com
-127.0.0.1	thirtth13pn.top
-127.0.0.1	observerfry.lat
-# Number of entries: 73925
+# Number of entries: 73923
