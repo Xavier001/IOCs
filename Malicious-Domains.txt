@@ -1,11 +1,38 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-24 08:01:41 UTC                        #
+# Last updated: 2025-06-24 16:53:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cdn.panggexxx9823.top
+127.0.0.1	b2.xs.mastermaths.com.sg
+127.0.0.1	deepholeintheworld.com
+127.0.0.1	newdayplss.duckdns.org
+127.0.0.1	security-territory.gl.at.ply.gg
+127.0.0.1	talk-chief.gl.at.ply.gg
+127.0.0.1	skido.hopto.org
+127.0.0.1	lohoainam2008-36048.portmap.io
+127.0.0.1	noneeds.dynuddns.com
+127.0.0.1	zip.mysynology.net
+127.0.0.1	basefashionsbd.duckdns.org
+127.0.0.1	www.screence.store
+127.0.0.1	www.ferrylin.com
+127.0.0.1	connectdadad.ddns.net
+127.0.0.1	yzs-42879.portmap.host
+127.0.0.1	dez3452-33187.portmap.host
+127.0.0.1	microsoftsys.ddns.net
+127.0.0.1	letsqooo-62766.portmap.host
+127.0.0.1	tpinauskas-54803.portmap.host
+127.0.0.1	dgost5.duckdns.org
+127.0.0.1	top-inform.gl.at.ply.gg
+127.0.0.1	folders.emeraldpinesolutions.com
+127.0.0.1	profile.kerneltaskmanager.com
+127.0.0.1	owa.kerneltaskmanager.com
+127.0.0.1	kerneltaskmanager.com
+127.0.0.1	28k85x5jb1k9a.cfc-execute.bj.baidubce.com
+127.0.0.1	1357965137-hnjcoxitoz.ap-guangzhou.tencentscf.com
 127.0.0.1	securityhealthsystray.ydns.eu
 127.0.0.1	adiobast.icu
 127.0.0.1	wmieventlogonlinehelp.ydns.eu
@@ -73921,12 +73948,4 @@
 127.0.0.1	haimasher.xyz
 127.0.0.1	suclub.xyz
 127.0.0.1	ecs-119-3-154-143.compute.hwclouds-dns.com
-127.0.0.1	cryp-domedows.com
-127.0.0.1	egypt2.camdvr.org
-127.0.0.1	sasaa.kozow.com
-127.0.0.1	we-careu.xyz
-127.0.0.1	srvy.vlrt-gap.com
-127.0.0.1	dhusch.com
-127.0.0.1	trailbuddymaps.com
-127.0.0.1	ec2-13-43-58-188.eu-west-2.compute.amazonaws.com
-# Number of entries: 73923
+# Number of entries: 73942
