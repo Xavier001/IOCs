@@ -1,11 +1,27 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-25 10:53:35 UTC                        #
+# Last updated: 2025-06-25 21:33:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nickman12-46565.portmap.io
+127.0.0.1	models-diesel.gl.at.ply.gg
+127.0.0.1	chingru.direct.quickconnect.to
+127.0.0.1	wedemkioa.duckdns.org
+127.0.0.1	b1.discernchevron.world
+127.0.0.1	weight-q.gl.at.ply.gg
+127.0.0.1	dczip.duckdns.org
+127.0.0.1	mannieha246.duckdns.org
+127.0.0.1	www.holzbrenaaa.xyz
+127.0.0.1	chido246.duckdns.org
+127.0.0.1	www.holzbrenzii.com
+127.0.0.1	www.holzbrenzzz.xyz
+127.0.0.1	martin-servers.gl.at.ply.gg
+127.0.0.1	shopping-bundle.gl.at.ply.gg
+127.0.0.1	archives-cnet.gl.at.ply.gg
+127.0.0.1	cpanel.productdevelopmentplan.com
 127.0.0.1	8k8hj9277yjde.cfc-execute.bj.baidubce.com
 127.0.0.1	event-time-microsoft.org
 127.0.0.1	event-datamicrosoft.live
@@ -73953,9 +73969,4 @@
 127.0.0.1	google-br.duckdns.org
 127.0.0.1	company-telecom.gl.at.ply.gg
 127.0.0.1	problems-onion.gl.at.ply.gg
-127.0.0.1	abaftebeetl.biz
-127.0.0.1	fastard.com
-127.0.0.1	charsi.sbs
-127.0.0.1	d4chil.xyz
-127.0.0.1	prapor03212.ddns.net
-# Number of entries: 73952
+# Number of entries: 73963
