@@ -1,12 +1,28 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-25 04:00:38 UTC                        #
+# Last updated: 2025-06-25 09:51:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	event-time-microsoft.org
+127.0.0.1	event-datamicrosoft.live
+127.0.0.1	windows-msgas.com
+127.0.0.1	eventdata-microsoft.live
+127.0.0.1	varying-rentals-calgary-predict.trycloudflare.com
+127.0.0.1	cdnhelofin.pro
+127.0.0.1	michikodom.duckdns.org
+127.0.0.1	mctannask-waiiet.io-ex1.xyz/en
+127.0.0.1	security.fjaregarads.com
+127.0.0.1	oswyka.com
+127.0.0.1	phamtom.com.op-v4.world/en
 127.0.0.1	114-34-241-92.hinet-ip.hinet.net
+127.0.0.1	fls-na.rubyhall.in.net
+127.0.0.1	ogs.accounts.rubyhall.in.net
+127.0.0.1	www2.rubyhall.in.net
+127.0.0.1	barniclespine.com
+127.0.0.1	huxpurak.xjslsd.com
 127.0.0.1	mujust.fenmila.me
 127.0.0.1	cdn.panggexxx9823.top
 127.0.0.1	b2.xs.mastermaths.com.sg
@@ -73944,10 +73960,4 @@
 127.0.0.1	chinagov.one
 127.0.0.1	api.edureel.ai
 127.0.0.1	consirepdi.biz
-127.0.0.1	aa.charming-feistel.194-26-192-29.plesk.page
-127.0.0.1	ncuahsd.top
-127.0.0.1	www.sapress.help
-127.0.0.1	haimasher.xyz
-127.0.0.1	suclub.xyz
-127.0.0.1	ecs-119-3-154-143.compute.hwclouds-dns.com
-# Number of entries: 73944
+# Number of entries: 73954
