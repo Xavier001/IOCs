@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-25 09:51:58 UTC                        #
+# Last updated: 2025-06-25 10:53:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	8k8hj9277yjde.cfc-execute.bj.baidubce.com
 127.0.0.1	event-time-microsoft.org
 127.0.0.1	event-datamicrosoft.live
 127.0.0.1	windows-msgas.com
@@ -73957,7 +73958,4 @@
 127.0.0.1	charsi.sbs
 127.0.0.1	d4chil.xyz
 127.0.0.1	prapor03212.ddns.net
-127.0.0.1	chinagov.one
-127.0.0.1	api.edureel.ai
-127.0.0.1	consirepdi.biz
-# Number of entries: 73954
+# Number of entries: 73952
