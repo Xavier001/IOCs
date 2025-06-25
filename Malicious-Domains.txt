@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-24 16:53:45 UTC                        #
+# Last updated: 2025-06-25 04:00:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	114-34-241-92.hinet-ip.hinet.net
+127.0.0.1	mujust.fenmila.me
 127.0.0.1	cdn.panggexxx9823.top
 127.0.0.1	b2.xs.mastermaths.com.sg
 127.0.0.1	deepholeintheworld.com
@@ -73948,4 +73950,4 @@
 127.0.0.1	haimasher.xyz
 127.0.0.1	suclub.xyz
 127.0.0.1	ecs-119-3-154-143.compute.hwclouds-dns.com
-# Number of entries: 73942
+# Number of entries: 73944
