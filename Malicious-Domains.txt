@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-26 03:53:56 UTC                        #
+# Last updated: 2025-06-26 08:19:16 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	quickswap-us.com
+127.0.0.1	112.ip-37-59-108.eu
+127.0.0.1	11.c.mastermaths.com.sg
+127.0.0.1	2025.ip138.com
+127.0.0.1	pub-0d6190b2679343a7816c69b4460b0c0c.r2.dev
+127.0.0.1	pub-dd31af7a3b8d488ea6d842df5958ec46.r2.dev
+127.0.0.1	pub-24faabfae89041cda3b7cdd7318e9acb.r2.dev
+127.0.0.1	mythic.mustansirg.in
 127.0.0.1	security.fgewrgoald.com
 127.0.0.1	kerewz.com
 127.0.0.1	dev-testprvpgfextext2bdc1c5-pg1.postgres.database.azure.com
@@ -73967,9 +73975,4 @@
 127.0.0.1	triptrip.melody-wave.shop
 127.0.0.1	fantassyzwi.click
 127.0.0.1	treehoneyi.click
-127.0.0.1	stock.letsgoautomotive.com
-127.0.0.1	165-22-250-3.cprapid.com
-127.0.0.1	google-br.duckdns.org
-127.0.0.1	company-telecom.gl.at.ply.gg
-127.0.0.1	problems-onion.gl.at.ply.gg
-# Number of entries: 73966
+# Number of entries: 73969
