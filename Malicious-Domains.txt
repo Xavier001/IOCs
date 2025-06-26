@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-26 08:19:16 UTC                        #
+# Last updated: 2025-06-26 12:29:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cloud-flaer-verif.com
+127.0.0.1	newstartnewjournyevamygirllovesalotwithm.duckdns.org
+127.0.0.1	mountsys.ddnsking.com
+127.0.0.1	jw8ndw9ev.localto.net
+127.0.0.1	obomo.ydns.eu
+127.0.0.1	overall-bachelor.gl.at.ply.gg
 127.0.0.1	quickswap-us.com
 127.0.0.1	112.ip-37-59-108.eu
 127.0.0.1	11.c.mastermaths.com.sg
@@ -73964,15 +73970,4 @@
 127.0.0.1	fortth14vt.top
 127.0.0.1	home.sixth6vt.top
 127.0.0.1	successroadway.com
-127.0.0.1	undesirabkel.click
-127.0.0.1	justyffyr.click
-127.0.0.1	slimmybearz.click
-127.0.0.1	klipsyzogey.shop
-127.0.0.1	locketplyxx.click
-127.0.0.1	panelmaideus.click
-127.0.0.1	notebookgi.click
-127.0.0.1	senc1.melody-wave.shop
-127.0.0.1	triptrip.melody-wave.shop
-127.0.0.1	fantassyzwi.click
-127.0.0.1	treehoneyi.click
-# Number of entries: 73969
+# Number of entries: 73964
