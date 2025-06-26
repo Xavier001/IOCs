@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-25 21:33:43 UTC                        #
+# Last updated: 2025-06-26 03:53:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	security.fgewrgoald.com
+127.0.0.1	kerewz.com
+127.0.0.1	dev-testprvpgfextext2bdc1c5-pg1.postgres.database.azure.com
 127.0.0.1	nickman12-46565.portmap.io
 127.0.0.1	models-diesel.gl.at.ply.gg
 127.0.0.1	chingru.direct.quickconnect.to
@@ -73969,4 +73972,4 @@
 127.0.0.1	google-br.duckdns.org
 127.0.0.1	company-telecom.gl.at.ply.gg
 127.0.0.1	problems-onion.gl.at.ply.gg
-# Number of entries: 73963
+# Number of entries: 73966
