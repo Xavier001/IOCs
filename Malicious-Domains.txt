@@ -1,11 +1,91 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-27 02:52:45 UTC                        #
+# Last updated: 2025-06-27 08:45:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	subpulsaratlog.duckdns.org
+127.0.0.1	pulsaratlog.duckdns.org
+127.0.0.1	pulsa2ndrdpview.duckdns.org
+127.0.0.1	kingso.ydns.eu
+127.0.0.1	oog07m.easypanel.host
+127.0.0.1	a7.69.mastermaths.com.sg
+127.0.0.1	cirugia4k.con-ip.com
+127.0.0.1	asdasd23-23269.portmap.io
+127.0.0.1	www.wwwq47.com
+127.0.0.1	www.xue.ltd
+127.0.0.1	www.zhaofu-duanzi.com
+127.0.0.1	www.zurich-host.com
+127.0.0.1	www.sebister.com
+127.0.0.1	www.simpleloansutah.com
+127.0.0.1	www.sonorandesertenvironmental.com
+127.0.0.1	www.squaremeed.club
+127.0.0.1	www.stevehurtz.photography
+127.0.0.1	www.swissed.info
+127.0.0.1	www.thinkalease.info
+127.0.0.1	www.tunisiemploi.net
+127.0.0.1	www.turboserviceindia.com
+127.0.0.1	www.twwdserve.com
+127.0.0.1	www.victoria-brand.com
+127.0.0.1	www.vienyhocthuocnam.com
+127.0.0.1	www.wns6698.com
+127.0.0.1	www.www7817v.com
+127.0.0.1	www.mmgiuaz.com
+127.0.0.1	www.mmluav52.com
+127.0.0.1	www.mobi-phone.com
+127.0.0.1	www.monkeyswithdice.com
+127.0.0.1	www.mydownloaddomain.com
+127.0.0.1	www.nexanix.com
+127.0.0.1	www.nisenkeji.com
+127.0.0.1	www.ozon-avia.life
+127.0.0.1	www.playmymood.com
+127.0.0.1	www.poiiun.info
+127.0.0.1	www.pontosappareltrading.com
+127.0.0.1	www.ptabu.com
+127.0.0.1	www.rfnpt.com
+127.0.0.1	www.rnbsc.com
+127.0.0.1	www.sanwealth.com
+127.0.0.1	www.gee-ac.com
+127.0.0.1	www.georgieos.com
+127.0.0.1	www.gilkeycky.com
+127.0.0.1	www.granadoespadavis.com
+127.0.0.1	www.happyjpin.com
+127.0.0.1	www.jasminetsonblog.com
+127.0.0.1	www.jonathandrainey.com
+127.0.0.1	www.kalacng.com
+127.0.0.1	www.leechandlerbusinessloans.com
+127.0.0.1	www.lemai-china.com
+127.0.0.1	www.manpukutokyo.com
+127.0.0.1	www.mansiobbok.info
+127.0.0.1	www.marijuanasmokingaccessories.com
+127.0.0.1	www.mauirpm.com
+127.0.0.1	www.afromystique.com
+127.0.0.1	www.alluklifeinsurancesok.live
+127.0.0.1	www.artbymarigold.com
+127.0.0.1	www.bikinitennis.com
+127.0.0.1	www.broparking.com
+127.0.0.1	www.buffaloeld.net
+127.0.0.1	www.cablingdepot.net
+127.0.0.1	www.cantstopwontstoprealestate.com
+127.0.0.1	www.cash-vip.com
+127.0.0.1	www.cc1418.com
+127.0.0.1	www.chuyennhathanhhung247vn.info
+127.0.0.1	www.discoverthepoweroftouch.com
+127.0.0.1	www.eec-lean.com
+127.0.0.1	www.energy-miracle.com
+127.0.0.1	www.-dealt.sb
+127.0.0.1	www.10s4life.com
+127.0.0.1	www.65way.com
+127.0.0.1	www.6n8c.com
+127.0.0.1	www.a88a888.com
+127.0.0.1	acc3nturefederal.com
+127.0.0.1	chat.svc.pics
+127.0.0.1	212-83-148-39.rev.poneytelecom.eu
+127.0.0.1	security.frarenguaced.com
+127.0.0.1	kapefex.com
+127.0.0.1	analyticznodec.com
 127.0.0.1	jobs.qtelcloud.com
 127.0.0.1	image-oieeodlcsb.cn-hangzhou.fcapp.run
 127.0.0.1	sander123321-63281.portmap.io
@@ -74089,29 +74169,4 @@
 127.0.0.1	potentie24nl.xyz
 127.0.0.1	fortth14ht.top
 127.0.0.1	home.fortth14ht.top
-127.0.0.1	v-tamin.lol
-127.0.0.1	fa5lt.xyz
-127.0.0.1	www.t1p9jbex8g.silentlegion.duckdns.org
-127.0.0.1	s0licitud-virtual-enlinea.top
-127.0.0.1	digoperonodice3.online
-127.0.0.1	ladybughge.click
-127.0.0.1	pickduccker.click
-127.0.0.1	tougheryer.click
-127.0.0.1	hollowrefuz.click
-127.0.0.1	chillysalvagk.click
-127.0.0.1	breezysmiterz.click
-127.0.0.1	wellofflyric.click
-127.0.0.1	volcanohushe.click
-127.0.0.1	peelyitemsn.click
-127.0.0.1	tubnzy3uvz.top
-127.0.0.1	begguinnerz.biz
-127.0.0.1	107-172-159-50-host.colocrossing.com
-127.0.0.1	pinlateofficial.xyz
-127.0.0.1	www.micheeasodh.top
-127.0.0.1	plutoc2.site
-127.0.0.1	unitedkingdomdiplomat.org
-127.0.0.1	enethost.com
-127.0.0.1	amcikressimleri.xyz
-127.0.0.1	klipnogijuu.shop
-127.0.0.1	mindhandru.buzz
-# Number of entries: 74108
+# Number of entries: 74163
