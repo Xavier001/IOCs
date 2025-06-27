@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-26 21:01:15 UTC                        #
+# Last updated: 2025-06-27 02:52:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	jobs.qtelcloud.com
+127.0.0.1	image-oieeodlcsb.cn-hangzhou.fcapp.run
 127.0.0.1	sander123321-63281.portmap.io
 127.0.0.1	fee-lu.gl.at.ply.gg
 127.0.0.1	ogash96-21208.portmap.io
@@ -74112,5 +74114,4 @@
 127.0.0.1	amcikressimleri.xyz
 127.0.0.1	klipnogijuu.shop
 127.0.0.1	mindhandru.buzz
-127.0.0.1	www.sofakingclean.pro
-# Number of entries: 74107
+# Number of entries: 74108
