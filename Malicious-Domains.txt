@@ -74167,6 +74167,4 @@
 127.0.0.1	discoves.com
 127.0.0.1	eldercity.xyz
 127.0.0.1	potentie24nl.xyz
-127.0.0.1	fortth14ht.top
-127.0.0.1	home.fortth14ht.top
-# Number of entries: 74163
+# Number of entries: 74161
