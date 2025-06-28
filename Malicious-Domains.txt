@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-28 10:05:59 UTC                        #
+# Last updated: 2025-06-28 10:53:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dns1.globalcdn.autos
 127.0.0.1	dsh.fvsrchps.cn
 127.0.0.1	ttkks.cc
 127.0.0.1	zuiopppkurban.sytes.net
@@ -74130,4 +74131,4 @@
 127.0.0.1	parallellywko.shop
 127.0.0.1	tightuteop.shop
 127.0.0.1	ambiwa.com
-# Number of entries: 74124
+# Number of entries: 74125
