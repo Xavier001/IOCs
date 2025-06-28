@@ -1,11 +1,28 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-28 10:53:12 UTC                        #
+# Last updated: 2025-06-28 15:40:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	write-document.freedynamicdns.org
+127.0.0.1	document-downloads.ddns.net
+127.0.0.1	document-prok.freedynamicdns.org
+127.0.0.1	downloads-document.freedynamicdns.org
+127.0.0.1	google-pdf.redirectme.net
+127.0.0.1	print-documents.freedynamicdns.net
+127.0.0.1	eu.p.redc.eu.org
+127.0.0.1	rodicicle.info
+127.0.0.1	robinkiss.info
+127.0.0.1	airportmonth.info
+127.0.0.1	producesound.xyz
+127.0.0.1	c2.zerotr4ce.online
+127.0.0.1	azelsan.com.tr
+127.0.0.1	security.fpwereguared.com
+127.0.0.1	deopins.com
+127.0.0.1	protocol.stakesolv.com
+127.0.0.1	legacyshare.io
 127.0.0.1	dns1.globalcdn.autos
 127.0.0.1	dsh.fvsrchps.cn
 127.0.0.1	ttkks.cc
@@ -74110,25 +74127,4 @@
 127.0.0.1	ec2-15-206-66-46.ap-south-1.compute.amazonaws.com
 127.0.0.1	vpn636567983.softether.net
 127.0.0.1	n8229h55.sprintdatacenter.net
-127.0.0.1	security.cecbank.online
-127.0.0.1	cmaster-57540.portmap.io
-127.0.0.1	edge.microcoft.co
-127.0.0.1	harlemsupport.com
-127.0.0.1	twentyth20ht.top
-127.0.0.1	home.fiveth5sb.top
-127.0.0.1	fortth14sb.top
-127.0.0.1	thirtth13sb.top
-127.0.0.1	nineth9sb.top
-127.0.0.1	tenth10sb.top
-127.0.0.1	thirtth13ht.top
-127.0.0.1	sixth6sb.top
-127.0.0.1	twentyth20sb.top
-127.0.0.1	eighth8sb.top
-127.0.0.1	oneth1sb.top
-127.0.0.1	home.twentyth20ht.top
-127.0.0.1	fiveth5sb.top
-127.0.0.1	alleybikeru.click
-127.0.0.1	parallellywko.shop
-127.0.0.1	tightuteop.shop
-127.0.0.1	ambiwa.com
-# Number of entries: 74125
+# Number of entries: 74121
