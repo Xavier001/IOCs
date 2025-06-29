@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-28 15:40:05 UTC                        #
+# Last updated: 2025-06-29 00:01:41 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	leexsirzz.safepanel.my.id
 127.0.0.1	write-document.freedynamicdns.org
 127.0.0.1	document-downloads.ddns.net
 127.0.0.1	document-prok.freedynamicdns.org
@@ -74125,6 +74126,4 @@
 127.0.0.1	nwweek.sbs
 127.0.0.1	vidars.su
 127.0.0.1	ec2-15-206-66-46.ap-south-1.compute.amazonaws.com
-127.0.0.1	vpn636567983.softether.net
-127.0.0.1	n8229h55.sprintdatacenter.net
-# Number of entries: 74121
+# Number of entries: 74120
