@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-29 12:01:30 UTC                        #
+# Last updated: 2025-06-29 20:30:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sssssoj9u99uy-54788.portmap.io
+127.0.0.1	screen-squad.gl.at.ply.gg
+127.0.0.1	country-suggesting.gl.at.ply.gg
+127.0.0.1	entoiz.com
+127.0.0.1	ow5dirasuek.com
+127.0.0.1	mkkuei4kdsz.com
+127.0.0.1	lousta.net
+127.0.0.1	standard-suited.gl.at.ply.gg
+127.0.0.1	dofucks.com
+127.0.0.1	private115.duckdns.org
 127.0.0.1	onedrive-office.com
 127.0.0.1	laiu.org
 127.0.0.1	danger2026.duckdns.org
@@ -74308,9 +74318,4 @@
 127.0.0.1	kurama.ltd
 127.0.0.1	hstdb234.xyz
 127.0.0.1	usps-online-safe.com
-127.0.0.1	ksmshop.fr
-127.0.0.1	25php.duckdns.org
-127.0.0.1	www.api.edureel.ai
-127.0.0.1	mail.kapilapiii.com
-127.0.0.1	www.miner.2025ca.site
-# Number of entries: 74307
+# Number of entries: 74312
