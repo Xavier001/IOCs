@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-06-30 10:02:07 UTC                        #
+# Last updated: 2025-06-30 12:02:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	iujqdwh-61305.portmap.io
+127.0.0.1	java-romance.gl.at.ply.gg
+127.0.0.1	advertising-mary.gl.at.ply.gg
+127.0.0.1	backupindvy.duckdns.org
+127.0.0.1	bit-bathrooms.gl.at.ply.gg
+127.0.0.1	rbmlh.xyz
 127.0.0.1	osetigolumdede.duckdns.org
 127.0.0.1	b0dnyoxrn.localto.net
 127.0.0.1	uwammunachimso.duckdns.org
@@ -74330,11 +74336,4 @@
 127.0.0.1	ffkk212.duckdns.org
 127.0.0.1	im0.site
 127.0.0.1	g982890f.beget.tech
-127.0.0.1	5-154-181-87.cprapid.com
-127.0.0.1	autodiscover.pe.194-59-30-152.cprapid.com
-127.0.0.1	cpanel.pf.194-59-30-152.cprapid.com
-127.0.0.1	sdoout.lol
-127.0.0.1	klipzyroloo.shop
-127.0.0.1	learningypr.click
-127.0.0.1	deduhko.klipzyroloo.shop
-# Number of entries: 74331
+# Number of entries: 74330
