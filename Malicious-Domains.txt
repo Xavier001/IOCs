@@ -74315,7 +74315,4 @@
 127.0.0.1	dfgh.online
 127.0.0.1	fannleadyn.click
 127.0.0.1	gripfizz.click
-127.0.0.1	kurama.ltd
-127.0.0.1	hstdb234.xyz
-127.0.0.1	usps-online-safe.com
-# Number of entries: 74312
+# Number of entries: 74309
