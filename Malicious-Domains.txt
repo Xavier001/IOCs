@@ -1,11 +1,48 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-01 02:53:30 UTC                        #
+# Last updated: 2025-07-01 10:14:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	islamabadpolice.org
+127.0.0.1	safecityctd.com
+127.0.0.1	mofa.gov.bd.mofa-govbd.com
+127.0.0.1	mofa-govbd.org
+127.0.0.1	yahoo.com.mofa-govbd.com
+127.0.0.1	mail.mofa-govbd.com
+127.0.0.1	mod.mofa-govbd.com
+127.0.0.1	mhapsd.gov.bd.mofa-govbd.com
+127.0.0.1	mofa-govbd.com
+127.0.0.1	tod.treasury.gov.lk.mofa-govbd.com
+127.0.0.1	erd.gov.lk.mofa-govbd.com
+127.0.0.1	ftp.mofa-govbd.com
+127.0.0.1	mofagovbd.com
+127.0.0.1	nvloi.mofagovbd.com
+127.0.0.1	mofa-gov-bd.com
+127.0.0.1	mofa-govpk.co
+127.0.0.1	mofagovpk-hq.co
+127.0.0.1	cons.mofagovpk.co
+127.0.0.1	cuttingedgetechworks.com
+127.0.0.1	languagenose.info
+127.0.0.1	cnm.h0xtopsec.vip
+127.0.0.1	intelligentopennetworkingawards.com
+127.0.0.1	storeshomeestudiosfluworks.xyz
+127.0.0.1	buukas.duckdns.org
+127.0.0.1	bulon.trumdvfb.com
+127.0.0.1	vip.jbvipnetwork.cc
+127.0.0.1	hot-filing.gl.at.ply.gg
+127.0.0.1	nulltraces-38627.portmap.io
+127.0.0.1	nulltraces-62756.portmap.io
+127.0.0.1	along-rid.gl.at.ply.gg
+127.0.0.1	web-rabby.org
+127.0.0.1	security.fsealengurrad.com
+127.0.0.1	poqers.com
+127.0.0.1	susni-swap.net
+127.0.0.1	dexsceerner.org
+127.0.0.1	play.rubyhall.in.net
+127.0.0.1	win2officialgray.win
 127.0.0.1	360sec-dns.com
 127.0.0.1	accounts.podform.site
 127.0.0.1	www.csgo-csgo-go.it.com
@@ -67388,10 +67425,4 @@
 127.0.0.1	usps-mydeliver.com
 127.0.0.1	wisdom-echoes.shop
 127.0.0.1	outlookyn.cyou
-127.0.0.1	s4.serv00.com
-127.0.0.1	raw.cloudboats.vip
-127.0.0.1	ecs-110-41-4-69.compute.hwclouds-dns.com
-127.0.0.1	ocqztwhhfipaggkyloea.infinitum.space
-127.0.0.1	www.103-152-255-69.cprapid.com
-127.0.0.1	ip66-179-240-177.pbiaas.com
-# Number of entries: 67388
+# Number of entries: 67419
