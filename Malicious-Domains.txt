@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-01 12:01:32 UTC                        #
+# Last updated: 2025-07-01 18:56:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	malahh.oixrv2gn.com
+127.0.0.1	suchdevil-25933.portmap.io
+127.0.0.1	exper.mywire.org
+127.0.0.1	dczip3.duckdns.org
+127.0.0.1	vltalmex.com.mx
+127.0.0.1	00283643bbm.duckdns.org
+127.0.0.1	cpanel.thekooljack.com
+127.0.0.1	amaprox.shop
+127.0.0.1	fbsvm.cam
+127.0.0.1	accounts.directllinegroup.co.uk
+127.0.0.1	0.x.exifit.eu.org
+127.0.0.1	www.autoauctionsdirect.net
+127.0.0.1	47sqwjxze4941.cfc-execute.su.baidubce.com
 127.0.0.1	mdnsserver.com
 127.0.0.1	lionvs.gotdns.ch
 127.0.0.1	mxsunamz.gotdns.ch
@@ -67436,8 +67449,4 @@
 127.0.0.1	ntsteallers.com
 127.0.0.1	bot.lingfengfs.com
 127.0.0.1	account.fortinet.app
-127.0.0.1	chatapi.edureel.ai
-127.0.0.1	usps-mydeliver.com
-127.0.0.1	wisdom-echoes.shop
-127.0.0.1	outlookyn.cyou
-# Number of entries: 67434
+# Number of entries: 67443
