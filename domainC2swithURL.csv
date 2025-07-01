@@ -2,6 +2,10 @@
 1357965137-hnjcoxitoz.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/zako/lolisuccubus1.php
 28k85x5jb1k9a.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/v1/get
 2za55fsge8fbj.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/wechat
+3579aa21-b85e-4701-88d2-54dd514f650e-00-2vzn8n5ipmxv2.pike.replit.dev,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
+360brain.360aisec.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
+360sec-dns.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
+360sec-dns.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 3se9ewodke339f0e82.connectivitytests.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 4gjhr5qxhyaj1.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/load
 548125.com,Possible Cobalt Strike C2 Domain,/s/58462514417
@@ -10,7 +14,7 @@
 8vz75cfcfmey5.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x
 a89kswn22cnkn.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x
 accesserdsc.com,Possible Cobalt Strike C2 Domain,/pixel
-api.co-operativefinance.com,Possible Cobalt Strike C2 Domain,/visit.js
+api.co-operativefinance.com,Possible Cobalt Strike C2 Domain,/cx
 api.cryptpro.cloud,Possible Cobalt Strike C2 Fronting Domain,/dhl
 api.cryptpro.cloud,Possible Cobalt Strike C2 Fronting Domain,/fam_newspaper
 api.uploads.winhomesky.com,Possible Cobalt Strike C2 Domain,/GovSistema/76e6f4821267ec98f94336ad5c500b21/download
@@ -68,6 +72,7 @@ dy.dcpc.com,Possible Cobalt Strike C2 Fronted Domain,/public/asset/font/script.j
 dzeninfra.site,Possible Cobalt Strike C2 Fronted Domain,/mg.css
 dzeninfra.xyz,Possible Cobalt Strike C2 Fronted Domain,/mg.css
 e6y14fa81bd39.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/v1/get
+ehchq7m7rpvdr.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/siie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=
 fazstpgnpnqb0.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x
 file1.amelicen.com,Possible Cobalt Strike C2 Domain,/owa/oBdoLTRDQTuAO2AgO8Vg1
 file2.amelicen.com,Possible Cobalt Strike C2 Domain,/owa/oBdoLTRDQTuAO2AgO8Vg1
@@ -76,6 +81,7 @@ fk.fdsfdsdfdsf.co,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 frontendtest.nfcos.net.cn,Possible Cobalt Strike C2 Fronted Domain,/gateway/api/user
 google.baobecgiang.net,Possible Cobalt Strike C2 Domain,/socialapiVersion=1.1
 helloworld-aogxlrocvl.cn-hangzhou.fcapp.run,Possible Cobalt Strike C2 Domain,/cm
+home.33893306.xyz,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 huiyan.lenovo.com.cn,Possible Cobalt Strike C2 Fronted Domain,/index/bj/index_100_100.html
 image-oieeodlcsb.cn-hangzhou.fcapp.run,Possible Cobalt Strike C2 Domain,/image/
 jk002.cc,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -163,6 +169,8 @@ printermaintenanceservice.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min
 profile.kerneltaskmanager.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 profile.printermaintenanceservice.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 pull.portal.10086.cn,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
+qaz.shoplineapp.cn,Possible Cobalt Strike C2 Fronting Domain,/dist/css/bootstrap.min.css
+qms.jasolar.com,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css
 res.antenna.cool,Possible Cobalt Strike C2 Fronting Domain,/ptj
 sdkreport.happilygame.com,Possible Cobalt Strike C2 Fronted Domain,/jquerys-6.3.5.max.js
 search.2y3rn846.com,Possible Cobalt Strike C2 Domain,/api/3
@@ -188,6 +196,7 @@ wincertfm.store,Possible Cobalt Strike C2 Domain,/remove
 www.591de.com,Possible Cobalt Strike C2 Fronted Domain,/api/getit
 www.cioudfiear.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.commicaute.com,Possible Cobalt Strike C2 Domain,/pixel
+www.csgo-csgo-go.it.com,Possible Cobalt Strike C2 Domain,/api/v1/get
 www.dptech.com,Possible Cobalt Strike C2 Fronting Domain,/jquerys-6.3.5.max.js
 www.dyshop.online,Possible Cobalt Strike C2 Domain,/login.js
 www.mail163.com.pl,Possible Cobalt Strike C2 Domain,/dot.gif
