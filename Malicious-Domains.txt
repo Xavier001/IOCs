@@ -1,11 +1,26 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-01 10:14:35 UTC                        #
+# Last updated: 2025-07-01 12:01:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mdnsserver.com
+127.0.0.1	lionvs.gotdns.ch
+127.0.0.1	mxsunamz.gotdns.ch
+127.0.0.1	wigroups.com
+127.0.0.1	weneedverysweetgirlwholovesmebetterthana.duckdns.org
+127.0.0.1	zenforexpvtltd.hopto.org
+127.0.0.1	ofkkfd24.work.gd
+127.0.0.1	djlmwd9b-80.euw.devtunnels.ms
+127.0.0.1	greenpop.info
+127.0.0.1	hreatlittleheaven.info
+127.0.0.1	ksecure.bio
+127.0.0.1	pineappleworld.info
+127.0.0.1	plumpinr.info
+127.0.0.1	sunmelonontheway.info
+127.0.0.1	vibrantforest.info
 127.0.0.1	islamabadpolice.org
 127.0.0.1	safecityctd.com
 127.0.0.1	mofa.gov.bd.mofa-govbd.com
@@ -67425,4 +67440,4 @@
 127.0.0.1	usps-mydeliver.com
 127.0.0.1	wisdom-echoes.shop
 127.0.0.1	outlookyn.cyou
-# Number of entries: 67419
+# Number of entries: 67434
