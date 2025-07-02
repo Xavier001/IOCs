@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-02 12:11:09 UTC                        #
+# Last updated: 2025-07-02 18:47:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	admin.027dzjl.com
+127.0.0.1	pan.crooods.com
+127.0.0.1	dilin2345-47228.portmap.io
+127.0.0.1	net.botwork.cc
+127.0.0.1	musicdownloader.top
+127.0.0.1	kabarbhayangkara.com
+127.0.0.1	continue-relationships.gl.at.ply.gg
+127.0.0.1	images.venthalpyapp.com
+127.0.0.1	265ea973-18d6-47d2-8796-29db4decc888-00-lq5hf5va4e7m.pike.replit.dev
 127.0.0.1	3.s.exifit.eu.org
 127.0.0.1	kardan35.zapto.org
 127.0.0.1	www.denisa.shop
@@ -67610,43 +67619,4 @@
 127.0.0.1	traversecityspringbreak.com
 127.0.0.1	incomputersolutions.com
 127.0.0.1	pentester03.gleeze.com
-127.0.0.1	tenth10vs.top
-127.0.0.1	thirtth13vs.top
-127.0.0.1	twentyth20vs.top
-127.0.0.1	tentj10ht.top
-127.0.0.1	thirttj13vt.top
-127.0.0.1	twentytj20ht.top
-127.0.0.1	twentytj20vt.top
-127.0.0.1	tentj10vt.top
-127.0.0.1	onetj1vt.top
-127.0.0.1	fivetj5vt.top
-127.0.0.1	home.eleventj11ht.top
-127.0.0.1	home.fortth14vs.top
-127.0.0.1	home.eightj8vt.top
-127.0.0.1	eleventj11ht.top
-127.0.0.1	forttj14ht.top
-127.0.0.1	forttj14vt.top
-127.0.0.1	home.tentj10vt.top
-127.0.0.1	ninetj9ht.top
-127.0.0.1	ninetj9vt.top
-127.0.0.1	sixtj6vt.top
-127.0.0.1	112025ct.darkproducts.ru
-127.0.0.1	93752cm.darkproducts.ru
-127.0.0.1	a1070366.xsph.ru
-127.0.0.1	romanopi.beget.tech
-127.0.0.1	a1070107.xsph.ru
-127.0.0.1	eesdtr23c4e.atwebpages.com
-127.0.0.1	f1070723.xsph.ru
-127.0.0.1	olegpivo.tw1.ru
-127.0.0.1	ci26757.tw1.ru
-127.0.0.1	eightj8vt.top
-127.0.0.1	fivetj5ht.top
-127.0.0.1	panel.pokemulti.fr
-127.0.0.1	login.upgrade1.zip
-127.0.0.1	sixtj6ht.top
-127.0.0.1	eightj8ht.top
-127.0.0.1	onetj1ht.top
-127.0.0.1	yoursd.site
-127.0.0.1	mail.cryp-domedows.com
-127.0.0.1	vmi2283794.contaboserver.net
-# Number of entries: 67643
+# Number of entries: 67613
