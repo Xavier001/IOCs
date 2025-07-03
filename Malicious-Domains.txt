@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-03 02:54:15 UTC                        #
+# Last updated: 2025-07-03 09:03:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	rabby.en-web3.com
+127.0.0.1	add-adolescent.gl.at.ply.gg
+127.0.0.1	katanaa.zapto.org
+127.0.0.1	n-survivors.gl.at.ply.gg
+127.0.0.1	1ri7zwh3k.localto.net
+127.0.0.1	namit-37666.portmap.io
+127.0.0.1	perjaxs.com
+127.0.0.1	security.folapegiaurd.com
+127.0.0.1	partopikoto.live
 127.0.0.1	user.thinkg.cc
 127.0.0.1	api.xiaomis.lol
 127.0.0.1	admin.027dzjl.com
@@ -67612,12 +67621,4 @@
 127.0.0.1	digitalarmor.cyou
 127.0.0.1	solve.jrqr.org
 127.0.0.1	maguagency.site
-127.0.0.1	webdisk.p2.194-59-31-47.cprapid.com
-127.0.0.1	cdn.withrental.com
-127.0.0.1	patbunn.co
-127.0.0.1	goaccredited.biz
-127.0.0.1	readytostartsomething.com
-127.0.0.1	mypost-usps.com
-127.0.0.1	traversecityspringbreak.com
-127.0.0.1	incomputersolutions.com
-# Number of entries: 67614
+# Number of entries: 67615
