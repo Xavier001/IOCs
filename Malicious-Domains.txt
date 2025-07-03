@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-03 09:03:50 UTC                        #
+# Last updated: 2025-07-03 12:03:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	myhost.servepics.com
+127.0.0.1	myhost.misecure.com
+127.0.0.1	ec2-13-114-32-108.ap-northeast-1.compute.amazonaws.com
+127.0.0.1	show.thailisting.net
+127.0.0.1	80.t.exifit.eu.org
 127.0.0.1	rabby.en-web3.com
 127.0.0.1	add-adolescent.gl.at.ply.gg
 127.0.0.1	katanaa.zapto.org
@@ -67616,9 +67621,4 @@
 127.0.0.1	a1060175.xsph.ru
 127.0.0.1	gqcsmfau.beget.tech
 127.0.0.1	a1070463.xsph.ru
-127.0.0.1	usbkits.com
-127.0.0.1	keramiccircle.net
-127.0.0.1	digitalarmor.cyou
-127.0.0.1	solve.jrqr.org
-127.0.0.1	maguagency.site
 # Number of entries: 67615
