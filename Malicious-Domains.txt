@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-02 18:47:25 UTC                        #
+# Last updated: 2025-07-03 02:54:15 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	user.thinkg.cc
+127.0.0.1	api.xiaomis.lol
 127.0.0.1	admin.027dzjl.com
 127.0.0.1	pan.crooods.com
 127.0.0.1	dilin2345-47228.portmap.io
@@ -67618,5 +67620,4 @@
 127.0.0.1	mypost-usps.com
 127.0.0.1	traversecityspringbreak.com
 127.0.0.1	incomputersolutions.com
-127.0.0.1	pentester03.gleeze.com
-# Number of entries: 67613
+# Number of entries: 67614
