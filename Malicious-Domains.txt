@@ -1,11 +1,84 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-04 12:10:34 UTC                        #
+# Last updated: 2025-07-04 22:12:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	city-communicate.gl.at.ply.gg
+127.0.0.1	got-incurred.gl.at.ply.gg
+127.0.0.1	let12345-61544.portmap.io
+127.0.0.1	connecetwise.com
+127.0.0.1	rates-north.gl.at.ply.gg
+127.0.0.1	second-spyware.gl.at.ply.gg
+127.0.0.1	azuredbclitest-tkbum.rs-f815c4c85fb6.postgres.database.azure.com
+127.0.0.1	omgwtfbbq123.sytes.net
+127.0.0.1	not-sized.gl.at.ply.gg
+127.0.0.1	rathole.icu
+127.0.0.1	dmaap.link
+127.0.0.1	selmanaged.fun
+127.0.0.1	rasteks.org
+127.0.0.1	knv.one
+127.0.0.1	gazladder.top
+127.0.0.1	optica.expert
+127.0.0.1	dltc.xyz
+127.0.0.1	strah.biz
+127.0.0.1	feredo.online
+127.0.0.1	iroibk.lat
+127.0.0.1	pupkvw.pics
+127.0.0.1	duxoq.pics
+127.0.0.1	dupldaw.pics
+127.0.0.1	bouzxme.shop
+127.0.0.1	bitjbpc.top
+127.0.0.1	uneqclj.pics
+127.0.0.1	jumpkwo.pics
+127.0.0.1	halnbb.pics
+127.0.0.1	jumclx.pics
+127.0.0.1	cennqq.lat
+127.0.0.1	fifdtm.lat
+127.0.0.1	creewuh.shop
+127.0.0.1	delnsc.pics
+127.0.0.1	deepvqy.shop
+127.0.0.1	cucujxc.shop
+127.0.0.1	concvek.shop
+127.0.0.1	blisao.pics
+127.0.0.1	vegwrwv.pics
+127.0.0.1	gaylw.shop
+127.0.0.1	gastrci.lat
+127.0.0.1	gamtxto.pics
+127.0.0.1	marktth.shop
+127.0.0.1	trarzcr.top
+127.0.0.1	loxmbi.shop
+127.0.0.1	kgqxaa.top
+127.0.0.1	letoxtk.shop
+127.0.0.1	lelurr.top
+127.0.0.1	invdfgq.pics
+127.0.0.1	imasau.pics
+127.0.0.1	shiqgvx.shop
+127.0.0.1	riamoyi.top
+127.0.0.1	radlomr.lat
+127.0.0.1	quaagq.lat
+127.0.0.1	prkovy.shop
+127.0.0.1	poioblz.pics
+127.0.0.1	pilqdx.shop
+127.0.0.1	nooinys.lat
+127.0.0.1	mieydn.lat
+127.0.0.1	masmkl.lat
+127.0.0.1	whiydg.shop
+127.0.0.1	werdqs.lat
+127.0.0.1	wesajkh.top
+127.0.0.1	venxvrc.top
+127.0.0.1	varjdih.shop
+127.0.0.1	vafonp.top
+127.0.0.1	unsmka.top
+127.0.0.1	tamwzen.lat
+127.0.0.1	spiioyt.top
+127.0.0.1	feedback.bigsightsystems.com
+127.0.0.1	countryview.info
+127.0.0.1	middleshape.info
+127.0.0.1	sonplane.info
+127.0.0.1	boytheory.xyz
 127.0.0.1	xt.exifit.eu.org
 127.0.0.1	funmusic.servebeer.com
 127.0.0.1	risk.preech.top
@@ -67650,12 +67723,4 @@
 127.0.0.1	img6.mllcrosoft.com
 127.0.0.1	gui.microsoft.upgrade1.zip
 127.0.0.1	reporting.microsoft.upgrade1.zip
-127.0.0.1	events.api.upgrade1.zip
-127.0.0.1	pixelize.cloud
-127.0.0.1	between-youth.gl.at.ply.gg
-127.0.0.1	broworker5s.com
-127.0.0.1	browork2er.cc
-127.0.0.1	lemonsmp.work.gd
-127.0.0.1	qq.ouyang7770.com
-127.0.0.1	ddosme.twilight.zip
-# Number of entries: 67652
+# Number of entries: 67717
