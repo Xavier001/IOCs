@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-04 09:31:47 UTC                        #
+# Last updated: 2025-07-04 12:10:34 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	xt.exifit.eu.org
+127.0.0.1	funmusic.servebeer.com
+127.0.0.1	risk.preech.top
+127.0.0.1	ksa-h4ck.ddns.net
+127.0.0.1	results-sand.gl.at.ply.gg
+127.0.0.1	securityhealthsystrays.duckdns.org
+127.0.0.1	securityhealthmonitorgiize.duckdns.org
+127.0.0.1	windowsupdatetoasticon.issmarterthanyou.com
+127.0.0.1	vietololm.duckdns.org
 127.0.0.1	staman.top
 127.0.0.1	swigddmb.top
 127.0.0.1	impvmg.pics
@@ -67649,8 +67658,4 @@
 127.0.0.1	lemonsmp.work.gd
 127.0.0.1	qq.ouyang7770.com
 127.0.0.1	ddosme.twilight.zip
-127.0.0.1	gui.mllcrosoft.com
-127.0.0.1	www.globalsystemsupport.com
-127.0.0.1	account.upgrade1.zip
-127.0.0.1	sumup.live
-# Number of entries: 67647
+# Number of entries: 67652
