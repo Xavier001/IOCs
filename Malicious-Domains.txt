@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-04 22:12:27 UTC                        #
+# Last updated: 2025-07-05 02:54:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	204.178.153.160.host.secureserver.net
+127.0.0.1	azuredbclitest-tkbum.postgres.database.azure.com
+127.0.0.1	probrad.no-ip.org
+127.0.0.1	maxo.4cloud.click
+127.0.0.1	tutatara.no-ip.info
+127.0.0.1	changeintoafly.no-ip.biz
+127.0.0.1	r3nt3r.no-ip.org
+127.0.0.1	sonytester.no-ip.biz
+127.0.0.1	stpmarche.no-ip.org
 127.0.0.1	city-communicate.gl.at.ply.gg
 127.0.0.1	got-incurred.gl.at.ply.gg
 127.0.0.1	let12345-61544.portmap.io
@@ -67723,4 +67732,4 @@
 127.0.0.1	img6.mllcrosoft.com
 127.0.0.1	gui.microsoft.upgrade1.zip
 127.0.0.1	reporting.microsoft.upgrade1.zip
-# Number of entries: 67717
+# Number of entries: 67726
