@@ -33,6 +33,8 @@ at3.227api.com,Possible Cobalt Strike C2 Domain,/ga.js
 baidu.611110.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 c.testcs888.com,Possible Cobalt Strike C2 Domain,/j.ad
 c2.moustartline.com,Possible Cobalt Strike C2 Domain,/updates.rss
+ca.qianxin.com,Possible Cobalt Strike C2 Fronting Domain,/__utm.gif
+ca.qianxin.com.dsa.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/__utm.gif
 casaos.oss-cn-shanghai.aliyuncs.com,Possible Cobalt Strike C2 Fronting Domain,/gateway/api/user
 catmyinfo.top,Possible Cobalt Strike C2 Domain,/api/catinfo
 cdn.looklook.sbs,Possible Cobalt Strike C2 Domain,/img/logo.jpg
@@ -46,7 +48,6 @@ check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cladonia.team,Possible Cobalt Strike C2 Fronted Domain,/jquerys-6.3.5.max.js
 cryptpro.cloud,Possible Cobalt Strike C2 Fronted Domain,/fam_newspaper
 cryptpro.pro,Possible Cobalt Strike C2 Fronted Domain,/dhl
-cs-scf-tvbgoqlklq.cn-hangzhou.fcapp.run,Possible Cobalt Strike C2 Domain,/developer-server/online/_next/static/png
 cs.xsjl7932.top,Possible Cobalt Strike C2 Domain,/public/css/style.css
 csdnsnew1.awscloudfont.com,Possible Cobalt Strike C2 Domain,/push
 csdnsnew2.awscloudfont.com,Possible Cobalt Strike C2 Domain,/pixel.gif
@@ -83,7 +84,6 @@ js.sfqj321.buzz,Possible Cobalt Strike C2 Domain,/apiv1/baga/going/js/jquery-3.3
 jspassport.ssl.qhimg.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 jspassport.ssl.qhimg.com.cdn.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 kerneltaskmanager.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-log.nongfushan.org,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
 m.bestseller.com.cn,Possible Cobalt Strike C2 Fronted Domain,/gateway/api/user
 m.only.cn,Possible Cobalt Strike C2 Fronted Domain,/gateway/api/user
 mail-exchange.phermera.ru,Possible Cobalt Strike C2 Domain,/__utm.gif
