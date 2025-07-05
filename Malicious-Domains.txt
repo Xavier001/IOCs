@@ -1,11 +1,98 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-05 02:54:21 UTC                        #
+# Last updated: 2025-07-05 09:53:37 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	format-associations.gl.at.ply.gg
+127.0.0.1	senior-biology.gl.at.ply.gg
+127.0.0.1	xm.lnpntkd9vth0tup2.rest
+127.0.0.1	wendigagah212.ddns.net
+127.0.0.1	bot.networkbot.org
+127.0.0.1	botnet.eu.cc
+127.0.0.1	jbvpshosti.ink
+127.0.0.1	www.yingyuelawyer.com
+127.0.0.1	www.z4666.com
+127.0.0.1	www.opebet516.com
+127.0.0.1	www.opensourcepsychedelics.com
+127.0.0.1	www.painlessassignments.com
+127.0.0.1	www.paripassuboutique.com
+127.0.0.1	www.phtileind.com
+127.0.0.1	www.physicalwebmedia.com
+127.0.0.1	www.printtheprinter.info
+127.0.0.1	www.protectionaustralia.com
+127.0.0.1	www.readjusthealth.com
+127.0.0.1	www.relate.ltd
+127.0.0.1	www.rosetta-contract.info
+127.0.0.1	www.sanitok.com
+127.0.0.1	www.shenxianqinyuan.com
+127.0.0.1	www.sienagirls1984.com
+127.0.0.1	www.sieuthiionkiem.com
+127.0.0.1	www.solarvalued.com
+127.0.0.1	www.sonarclaims.com
+127.0.0.1	www.supermeczo.com
+127.0.0.1	www.surcultural.info
+127.0.0.1	www.tapinadvert.com
+127.0.0.1	www.totalmicro.systems
+127.0.0.1	www.vnailw.info
+127.0.0.1	www.waychanging.com
+127.0.0.1	www.wori.site
+127.0.0.1	www.coinvenient.info
+127.0.0.1	www.cryptoworld.review
+127.0.0.1	www.electriccar.rent
+127.0.0.1	www.exent.online
+127.0.0.1	www.faraoneshop.com
+127.0.0.1	www.fernandosqualitypainting.com
+127.0.0.1	www.fyffn.com
+127.0.0.1	www.gdleen.com
+127.0.0.1	www.gengshijiapu.com
+127.0.0.1	www.getdemystified.com
+127.0.0.1	www.gozofarms.com
+127.0.0.1	www.gzljkt.men
+127.0.0.1	www.haowan.ltd
+127.0.0.1	www.hdfysp.men
+127.0.0.1	www.hellogorgeoushopping.com
+127.0.0.1	www.hsqqs.com
+127.0.0.1	www.icehelp.net
+127.0.0.1	www.iqtsc.com
+127.0.0.1	www.jaysnbrwn.com
+127.0.0.1	www.juntide.com
+127.0.0.1	www.kannbann.com
+127.0.0.1	www.khwdel.men
+127.0.0.1	www.krystaboehm.com
+127.0.0.1	www.marijuanadoctor.clinic
+127.0.0.1	www.megatopo.com
+127.0.0.1	www.merkabahspa.com
+127.0.0.1	www.nuopex.com
+127.0.0.1	www.201851.top
+127.0.0.1	www.330321.com
+127.0.0.1	www.79cregarroad.info
+127.0.0.1	www.alexisderrien.com
+127.0.0.1	www.alinasalo.com
+127.0.0.1	www.allvoices.foundation
+127.0.0.1	www.altura.coffee
+127.0.0.1	www.atelierrizzi.com
+127.0.0.1	www.bestrestaurant.site
+127.0.0.1	www.bnshd.com
+127.0.0.1	www.btgjjg.com
+127.0.0.1	www.cogigo.com
+127.0.0.1	ad15.bootcdn.net.dsa.dnsv1.com.cn
+127.0.0.1	help.clickckckck.click
+127.0.0.1	jwapi.junnwei.com
+127.0.0.1	ivxtest.junnwei.com
+127.0.0.1	m83-186-111-162.cust.tele2.se
+127.0.0.1	www.battle.plasticshark.shop
+127.0.0.1	tipperopal.icu
+127.0.0.1	ahmadkiswani.myftp.biz
+127.0.0.1	hostservice.sytes.net
+127.0.0.1	job2.fdwehzitx.cn
+127.0.0.1	exchange-reasonably.gl.at.ply.gg
+127.0.0.1	ratit.ddns.net
+127.0.0.1	brave.webredirect.org
+127.0.0.1	www.documentfliers.com
+127.0.0.1	www.documentflies.com
 127.0.0.1	204.178.153.160.host.secureserver.net
 127.0.0.1	azuredbclitest-tkbum.postgres.database.azure.com
 127.0.0.1	probrad.no-ip.org
@@ -67724,12 +67811,4 @@
 127.0.0.1	alondrabowmanjake.com
 127.0.0.1	rodgersluciecassy.com
 127.0.0.1	events.api.mllcrosoft.com
-127.0.0.1	both-foundations.gl.at.ply.gg
-127.0.0.1	quils.shop
-127.0.0.1	login.microsoft-onedrive.trunetkings.xyz.trunetkings.xyz
-127.0.0.1	vm4.deneb.it
-127.0.0.1	cpcalendars.sumup.live
-127.0.0.1	img6.mllcrosoft.com
-127.0.0.1	gui.microsoft.upgrade1.zip
-127.0.0.1	reporting.microsoft.upgrade1.zip
-# Number of entries: 67726
+# Number of entries: 67805
