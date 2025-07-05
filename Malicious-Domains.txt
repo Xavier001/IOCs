@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-05 09:53:37 UTC                        #
+# Last updated: 2025-07-05 12:01:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	blogmail.pro
+127.0.0.1	evil-inc.no-ip.biz
+127.0.0.1	person-files.gl.at.ply.gg
+127.0.0.1	hold-mayre.duckdns.org
+127.0.0.1	something-relation.gl.at.ply.gg
 127.0.0.1	format-associations.gl.at.ply.gg
 127.0.0.1	senior-biology.gl.at.ply.gg
 127.0.0.1	xm.lnpntkd9vth0tup2.rest
@@ -67808,7 +67813,4 @@
 127.0.0.1	cnmm.int-secure.org
 127.0.0.1	commerce-gov-pk.directt888.com
 127.0.0.1	paknavy.mofa.live
-127.0.0.1	alondrabowmanjake.com
-127.0.0.1	rodgersluciecassy.com
-127.0.0.1	events.api.mllcrosoft.com
-# Number of entries: 67805
+# Number of entries: 67807
