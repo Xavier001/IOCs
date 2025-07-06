@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-05 20:01:12 UTC                        #
+# Last updated: 2025-07-06 04:01:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ozzytzy-anomali-adminjomok.panel-store-pterodactyl.my.id
+127.0.0.1	h.yangthousand.hair
+127.0.0.1	dadanyohoocloud.com
+127.0.0.1	analytics.digitalflowcloud.com
 127.0.0.1	ec2-3-121-114-119.eu-central-1.compute.amazonaws.com
 127.0.0.1	mainsdos.hopto.org
 127.0.0.1	hugo123.no-ip.biz
@@ -67727,5 +67731,4 @@
 127.0.0.1	www.mllcrosoft.com
 127.0.0.1	microsoft.upgrade1.zip
 127.0.0.1	reporting.upgrade1.zip
-127.0.0.1	212a947ce8a77f478fc25a920d4cf6e0.com
-# Number of entries: 67722
+# Number of entries: 67725
