@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-06 09:36:12 UTC                        #
+# Last updated: 2025-07-06 12:02:15 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mohooooo.zapto.org
+127.0.0.1	mohamedmmk.zapto.org
+127.0.0.1	wizwormskiddoleakexpose-22797.portmap.io
+127.0.0.1	urchamadi.ddns.net
+127.0.0.1	jmaxx2.duckdns.org
 127.0.0.1	chernobyl.webhop.me
 127.0.0.1	hacking702-35743.portmap.io
 127.0.0.1	shitfaced.tk
@@ -67729,4 +67734,4 @@
 127.0.0.1	eleventj11vs.top
 127.0.0.1	thirttj13vs.top
 127.0.0.1	cvannieuwburg.nl
-# Number of entries: 67723
+# Number of entries: 67728
