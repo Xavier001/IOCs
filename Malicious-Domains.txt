@@ -1,11 +1,29 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-06 04:01:00 UTC                        #
+# Last updated: 2025-07-06 09:36:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	chernobyl.webhop.me
+127.0.0.1	hacking702-35743.portmap.io
+127.0.0.1	shitfaced.tk
+127.0.0.1	360.huiyuan8.vip
+127.0.0.1	dubstep33.ddns.net
+127.0.0.1	ec2-13-250-159-36.ap-southeast-1.compute.amazonaws.com
+127.0.0.1	island-towns.gl.at.ply.gg
+127.0.0.1	kingdom-nu.gl.at.ply.gg
+127.0.0.1	unique-heard.gl.at.ply.gg
+127.0.0.1	yu.troutbunion.bet
+127.0.0.1	31.213.176.34.bc.googleusercontent.com
+127.0.0.1	thecrazyboyyy.no-ip.biz
+127.0.0.1	hacker9393.ddns.net
+127.0.0.1	sidalibelkercha.ddns.net
+127.0.0.1	rrs123.no-ip.org
+127.0.0.1	1ms0rry-35873.portmap.io
+127.0.0.1	respaldofinal.kozow.com
+127.0.0.1	nsxauth.duckdns.org
 127.0.0.1	ozzytzy-anomali-adminjomok.panel-store-pterodactyl.my.id
 127.0.0.1	h.yangthousand.hair
 127.0.0.1	dadanyohoocloud.com
@@ -67711,24 +67729,4 @@
 127.0.0.1	eleventj11vs.top
 127.0.0.1	thirttj13vs.top
 127.0.0.1	cvannieuwburg.nl
-127.0.0.1	zone.ebuilderssource.com
-127.0.0.1	lanhub.dreamhack-leipzig.de
-127.0.0.1	ilyasautotech.com.au
-127.0.0.1	cfffee.sbs
-127.0.0.1	www.laboursupplychains-za.org
-127.0.0.1	mypajnel.x24hr.com
-127.0.0.1	gate.0xbot.cc
-127.0.0.1	64.176.65.49.sslip.io
-127.0.0.1	64-176-59-232.ipv4.staticdns3.io
-127.0.0.1	vmi2262496.contaboserver.net
-127.0.0.1	webdisk.sumup.live
-127.0.0.1	nice-raman.154-216-18-93.plesk.page
-127.0.0.1	ssl.upgrade1.zip
-127.0.0.1	res.microsoft.upgrade1.zip
-127.0.0.1	csp.upgrade1.zip
-127.0.0.1	g.mllcrosoft.com
-127.0.0.1	ssl.microsoft.upgrade1.zip
-127.0.0.1	www.mllcrosoft.com
-127.0.0.1	microsoft.upgrade1.zip
-127.0.0.1	reporting.upgrade1.zip
-# Number of entries: 67725
+# Number of entries: 67723
