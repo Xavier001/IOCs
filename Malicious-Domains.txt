@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-06 18:02:48 UTC                        #
+# Last updated: 2025-07-07 09:22:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	lbkequityexchange.com
+127.0.0.1	node.ozzytzy-anomali-adminjomok.panel-store-pterodactyl.my.id
+127.0.0.1	uranet.duckdns.org
+127.0.0.1	madara21-54023.portmap.io
+127.0.0.1	296azure-64092.portmap.io
+127.0.0.1	nuevboprogreso.duckdns.org
+127.0.0.1	nnnnssss-64548.portmap.io
+127.0.0.1	legder-live-desktop.net
+127.0.0.1	forbescheck.top
+127.0.0.1	b1.a.exifit.ir
 127.0.0.1	ratosorrateiro.hopto.org
 127.0.0.1	cantante1.no-ip.org
 127.0.0.1	ak1.ksdcks2.org
@@ -67610,13 +67620,4 @@
 127.0.0.1	pursyst.com
 127.0.0.1	myguyjeremy.x10.mx
 127.0.0.1	quils.live
-127.0.0.1	booking.billchchkoutrequst.com
-127.0.0.1	www.microsoft.upgrade1.zip
-127.0.0.1	grutt.click
-127.0.0.1	ip-89-38-128-94-106854.vps.hosted-by-mvps.net
-127.0.0.1	155.138.133.23.vultrusercontent.com
-127.0.0.1	img6.upgrade1.zip
-127.0.0.1	editor.successphp.com
-127.0.0.1	chrome.downloading.icu
-127.0.0.1	gambit.pw
-# Number of entries: 67613
+# Number of entries: 67614
