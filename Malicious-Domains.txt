@@ -1,11 +1,33 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-07 12:01:27 UTC                        #
+# Last updated: 2025-07-07 20:10:33 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	17.5.exifit.ir
+127.0.0.1	support.desktop.wales
+127.0.0.1	ns3.bsetop.top
+127.0.0.1	ns2.bsetop.top
+127.0.0.1	ns1.bsetop.top
+127.0.0.1	login.ictstudents.help
+127.0.0.1	dns2.e-twfpg.com
+127.0.0.1	blog.ictstudents.help
+127.0.0.1	tarek777.no-ip.biz
+127.0.0.1	reportedfall.no-ip.biz
+127.0.0.1	amazon.capeturk.com
+127.0.0.1	nglocalhost.com
+127.0.0.1	rem.specialtyfoodnetwork.site
+127.0.0.1	slitterline.xyz
+127.0.0.1	windows11.webredirect.org
+127.0.0.1	ambakgroup.com
+127.0.0.1	en.earthen.io
+127.0.0.1	anoteryo.top
+127.0.0.1	videoproduction.demostagingserver.com
+127.0.0.1	c83-249-230-189.bredband.tele2.se
+127.0.0.1	mugu3.ydns.eu
+127.0.0.1	stable.lanpdt.info
 127.0.0.1	wisedreams-53895.portmap.io
 127.0.0.1	hajouts8koumis910.duckdns.org
 127.0.0.1	hajouts8koumis9.duckdns.org
@@ -67597,32 +67619,4 @@
 127.0.0.1	2ajeeps.info
 127.0.0.1	outlook.offfec.me
 127.0.0.1	www.sumup.live
-127.0.0.1	dalsksafksdlgskgdkhdfkfhdflhkdkkdrt.rodeo
-127.0.0.1	jdcdn.life
-127.0.0.1	preisefurmaannerpillen.life
-127.0.0.1	onobote.org
-127.0.0.1	myunfiltered.org
-127.0.0.1	channelsafrica.org
-127.0.0.1	peeranalytics.org
-127.0.0.1	teddyatuluku.org
-127.0.0.1	treasurelight.org
-127.0.0.1	www.denoyabsplace.theeyef.org
-127.0.0.1	akwaabafoundation.org
-127.0.0.1	dspsng.theeyef.org
-127.0.0.1	doggonechannel.org
-127.0.0.1	engratiaatuluku.org
-127.0.0.1	theivorypalace.org
-127.0.0.1	cultural-auxiliaries.org
-127.0.0.1	luqmanedu.org
-127.0.0.1	rccgloveinaction.org
-127.0.0.1	leapleadershipinstitute.org
-127.0.0.1	cqnc.org
-127.0.0.1	pelpay.org
-127.0.0.1	light247.org
-127.0.0.1	ok.mllcrosoft.com
-127.0.0.1	shjhfhafgh.top
-127.0.0.1	pablogutierrez.life
-127.0.0.1	aiiqinga.life
-127.0.0.1	jjdgdeffjimfgne.top
-127.0.0.1	pursyst.com
-# Number of entries: 67619
+# Number of entries: 67613
