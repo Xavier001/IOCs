@@ -67619,19 +67619,4 @@
 127.0.0.1	editor.successphp.com
 127.0.0.1	chrome.downloading.icu
 127.0.0.1	gambit.pw
-127.0.0.1	www.ultimatesocial.shop
-127.0.0.1	gui.upgrade1.zip
-127.0.0.1	login.microsoft.upgrade1.zip
-127.0.0.1	stattscheck.com
-127.0.0.1	185.103.102.219.sslip.io
-127.0.0.1	webdisk.apri.194-59-31-25.cprapid.com
-127.0.0.1	webdisk.vedi.194-59-31-25.cprapid.com
-127.0.0.1	csp.microsoft.upgrade1.zip
-127.0.0.1	d1.persiatm.com
-127.0.0.1	sso.mllcrosoft.com
-127.0.0.1	ghostopbr2-31034.portmap.host
-127.0.0.1	www.2ajeeps.info
-127.0.0.1	brabuk.info
-127.0.0.1	autodiscover.sumup.live
-127.0.0.1	www.nftgamewatch.info
-# Number of entries: 67628
+# Number of entries: 67613
