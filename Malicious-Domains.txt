@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-07 09:22:44 UTC                        #
+# Last updated: 2025-07-07 12:01:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wisedreams-53895.portmap.io
+127.0.0.1	hajouts8koumis910.duckdns.org
+127.0.0.1	hajouts8koumis9.duckdns.org
+127.0.0.1	remdynu2.accesscam.org
+127.0.0.1	remdynu1.accesscam.org
+127.0.0.1	farahsaamer.duckdns.org
+127.0.0.1	summer25hot.org
 127.0.0.1	lbkequityexchange.com
 127.0.0.1	node.ozzytzy-anomali-adminjomok.panel-store-pterodactyl.my.id
 127.0.0.1	uranet.duckdns.org
@@ -67618,6 +67625,4 @@
 127.0.0.1	aiiqinga.life
 127.0.0.1	jjdgdeffjimfgne.top
 127.0.0.1	pursyst.com
-127.0.0.1	myguyjeremy.x10.mx
-127.0.0.1	quils.live
-# Number of entries: 67614
+# Number of entries: 67619
