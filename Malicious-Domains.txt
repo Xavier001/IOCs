@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-07 20:10:33 UTC                        #
+# Last updated: 2025-07-08 02:55:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	personal.regpad.net
+127.0.0.1	cdn.bitttrrix.ru
+127.0.0.1	apiprod.regpad.net
+127.0.0.1	api.regpad.net
 127.0.0.1	17.5.exifit.ir
 127.0.0.1	support.desktop.wales
 127.0.0.1	ns3.bsetop.top
@@ -67615,8 +67619,4 @@
 127.0.0.1	liftgoodus.cfd
 127.0.0.1	fastysticke.sbs
 127.0.0.1	check.qlkwr.com
-127.0.0.1	accounts.app-cloud.link
-127.0.0.1	2ajeeps.info
-127.0.0.1	outlook.offfec.me
-127.0.0.1	www.sumup.live
 # Number of entries: 67613
