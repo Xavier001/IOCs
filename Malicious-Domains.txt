@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-08 06:59:45 UTC                        #
+# Last updated: 2025-07-08 12:03:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hunterbry.no-ip.biz
+127.0.0.1	webdevs.vip
+127.0.0.1	security-malware.com
+127.0.0.1	citadelcdn.pro
+127.0.0.1	hotroutingcdn.asia
+127.0.0.1	filedisterbuter.icu
+127.0.0.1	perkoj.shop
+127.0.0.1	metopypv.top
+127.0.0.1	idrnmk.top
+127.0.0.1	whitfmz.top
+127.0.0.1	anfdfq.pics
 127.0.0.1	qeel.xyz
 127.0.0.1	lnofi.xyz
 127.0.0.1	ryxpq.xyz
@@ -67616,4 +67627,4 @@
 127.0.0.1	raysre.com
 127.0.0.1	forttj14vs.top
 127.0.0.1	five5vt.top
-# Number of entries: 67610
+# Number of entries: 67621

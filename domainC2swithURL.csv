@@ -11,7 +11,6 @@
 3w.cn,Possible Cobalt Strike C2 Fronted Domain,/api/v1/get
 47sqwjxze4941.cfc-execute.su.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x
 519nmcj312v7y.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
-548125.com,Possible Cobalt Strike C2 Domain,/s/58462514417
 6gpwqae72132.cfc-execute.gz.baidubce.com,Possible Cobalt Strike C2 Domain,/api/v1/get
 73w6tr0x1tnay.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x
 8k8hj9277yjde.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -79,7 +78,6 @@ dzeninfra.site,Possible Cobalt Strike C2 Fronted Domain,/mg.css
 dzeninfra.xyz,Possible Cobalt Strike C2 Fronted Domain,/mg.css
 e6y14fa81bd39.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/v1/get
 ehchq7m7rpvdr.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/siie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=
-fazstpgnpnqb0.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x
 file.flash-oss.info,Possible Cobalt Strike C2 Domain,/api/3
 file1.amelicen.com,Possible Cobalt Strike C2 Domain,/owa/oBdoLTRDQTuAO2AgO8Vg1
 file2.amelicen.com,Possible Cobalt Strike C2 Domain,/owa/oBdoLTRDQTuAO2AgO8Vg1
@@ -200,6 +198,7 @@ ui.chnaiuincom.cfd,Possible Cobalt Strike C2 Domain,/ca
 ui.chnaiuincom.cfd,Possible Cobalt Strike C2 Domain,/pixel
 update.mloadspring.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 update.wztgyh.com,Possible Cobalt Strike C2 Fronting Domain,/assets/login_guide.js
+updatery.ai,Possible Cobalt Strike C2 Fronted Domain,/image/
 upgrade.mloadspring.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 user.thinkg.cc,Possible Cobalt Strike C2 Domain,/wc/58462514417
 video.mca.gov.cn,Possible Cobalt Strike C2 Fronted Domain,/public/asset/font/script.js
@@ -215,10 +214,11 @@ www.csgo-csgo-go.it.com,Possible Cobalt Strike C2 Domain,/api/v1/get
 www.dptech.com,Possible Cobalt Strike C2 Fronting Domain,/jquerys-6.3.5.max.js
 www.dyshop.online,Possible Cobalt Strike C2 Domain,/login.js
 www.enlio.com,Possible Cobalt Strike C2 Fronted Domain,/api/v1/get
+www.googleupdatetask.tk,Possible Cobalt Strike C2 Fronting Domain,/image/
 www.mail163.com.pl,Possible Cobalt Strike C2 Domain,/dot.gif
 www.menedy.top,Possible Cobalt Strike C2 Fronted Domain,/index/bj/index_100_100.html
 www.mfmni.shop,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
-www.tsesec.site,Possible Cobalt Strike C2 Domain,/faq.css
+www.tsesec.site,Possible Cobalt Strike C2 Domain,/sq.css
 www.xcxke.com,Possible Cobalt Strike C2 Fronted Domain,/api/v1/get
 yci416ame.5b0qyh1qd.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 zxsmartauto.com,Possible Cobalt Strike C2 Fronted Domain,/gateway/api/user
