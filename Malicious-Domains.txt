@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-08 02:55:49 UTC                        #
+# Last updated: 2025-07-08 06:59:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	qeel.xyz
+127.0.0.1	lnofi.xyz
+127.0.0.1	ryxpq.xyz
+127.0.0.1	dzyzb.xyz
+127.0.0.1	dkkig.xyz
+127.0.0.1	lodib.xyz
+127.0.0.1	genmkh.xyz
+127.0.0.1	vaykhon.ddns.net
+127.0.0.1	mokveid.duckdns.org
+127.0.0.1	page4work.mywire.org
+127.0.0.1	net-2-45-246-28.cust.vodafonedsl.it
 127.0.0.1	personal.regpad.net
 127.0.0.1	cdn.bitttrrix.ru
 127.0.0.1	apiprod.regpad.net
@@ -67605,18 +67616,4 @@
 127.0.0.1	raysre.com
 127.0.0.1	forttj14vs.top
 127.0.0.1	five5vt.top
-127.0.0.1	bxikebdyxv.com
-127.0.0.1	ssl.mllcrosoft.com
-127.0.0.1	www.phantom-security.com
-127.0.0.1	hangotouic.xyz
-127.0.0.1	biznessclinic.life
-127.0.0.1	charteredpracticingprofessionals.org
-127.0.0.1	loveinactiongroup.org
-127.0.0.1	finzydev.click
-127.0.0.1	wltk03.sbs
-127.0.0.1	therbo.org
-127.0.0.1	twistforcepo.cfd
-127.0.0.1	liftgoodus.cfd
-127.0.0.1	fastysticke.sbs
-127.0.0.1	check.qlkwr.com
-# Number of entries: 67613
+# Number of entries: 67610
