@@ -1,11 +1,30 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-09 12:01:06 UTC                        #
+# Last updated: 2025-07-09 22:10:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	xp.w.minewise.fun
+127.0.0.1	karlosar.no-ip.org
+127.0.0.1	siembonik-44853.portmap.host
+127.0.0.1	uid2024-28522.portmap.io
+127.0.0.1	uid2024-24182.portmap.io
+127.0.0.1	uid2024-49856.portmap.io
+127.0.0.1	uid2024-24218.portmap.io
+127.0.0.1	beenpaidwoo-20559.portmap.host
+127.0.0.1	uid2024-48532.portmap.io
+127.0.0.1	30.ip.gl.ply.gg
+127.0.0.1	enter-sierra.gl.at.ply.gg
+127.0.0.1	pa-speech.gl.at.ply.gg
+127.0.0.1	c-cure.gl.at.ply.gg
+127.0.0.1	german-exhibitions.gl.at.ply.gg
+127.0.0.1	abel2024-29427.portmap.host
+127.0.0.1	ducktipo.duckdns.org
+127.0.0.1	bot.nightbotnet.my.id
+127.0.0.1	cnnetwork.uk
+127.0.0.1	assets.studermfg.com
 127.0.0.1	novermber12.dynamic-dns.net
 127.0.0.1	goodhost.work.gd
 127.0.0.1	late-starting.gl.at.ply.gg
@@ -67590,53 +67609,4 @@
 127.0.0.1	yogupay.net
 127.0.0.1	stellan.click
 127.0.0.1	versyasist.sbs
-127.0.0.1	onetj1vs.top
-127.0.0.1	ptreten13vt.top
-127.0.0.1	ptwenten20.top
-127.0.0.1	pforten14.top
-127.0.0.1	oneyt1vt.top
-127.0.0.1	bashusolici.sbs
-127.0.0.1	freefacerz.sbs
-127.0.0.1	flockanxiius.sbs
-127.0.0.1	thumpecnskeak.biz
-127.0.0.1	fraggielek.biz
-127.0.0.1	spookycappy.biz
-127.0.0.1	nuttyshopr.biz
-127.0.0.1	grandiouseziu.biz
-127.0.0.1	punishzement.biz
-127.0.0.1	truculengisau.biz
-127.0.0.1	reallycaster.cyou
-127.0.0.1	lumbersayr.cyou
-127.0.0.1	exultanturue.cyou
-127.0.0.1	greatvacuutos.cyou
-127.0.0.1	convergelivek.cyou
-127.0.0.1	nippypreciosu.cyou
-127.0.0.1	desiredirefus.cyou
-127.0.0.1	charminammoc.cyou
-127.0.0.1	induceboori.cyou
-127.0.0.1	inventcopper.cyou
-127.0.0.1	lethalrleju.cyou
-127.0.0.1	imbibegoos.cyou
-127.0.0.1	relatiounces.cyou
-127.0.0.1	fishubuckerz.cyou
-127.0.0.1	breathauthorit.cyou
-127.0.0.1	robinwindyu.click
-127.0.0.1	chiefdramatico.click
-127.0.0.1	brasspausez.click
-127.0.0.1	migratteabid.click
-127.0.0.1	advicebedsu.click
-127.0.0.1	shearairybom.click
-127.0.0.1	secretarydiff.click
-127.0.0.1	artemcw8.beget.tech
-127.0.0.1	a1037709.xsph.ru
-127.0.0.1	a1070543.xsph.ru
-127.0.0.1	f1072439.xsph.ru
-127.0.0.1	cg15356.tw1.ru
-127.0.0.1	f1072181.xsph.ru
-127.0.0.1	o0p2e195m0-34052.portmap.host
-127.0.0.1	bingazo.digital
-127.0.0.1	hoppricerwir.cyou
-127.0.0.1	exodvs.com
-127.0.0.1	clamfluffys.click
-127.0.0.1	binoto.site
-# Number of entries: 67633
+# Number of entries: 67603
