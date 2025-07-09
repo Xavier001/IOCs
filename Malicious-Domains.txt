@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-08 21:28:59 UTC                        #
+# Last updated: 2025-07-09 02:56:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	baidu-cdn29.shop
+127.0.0.1	test10.scacasdxc.love
+127.0.0.1	edge3.bsqb.ru
 127.0.0.1	www.thelist2win.com
 127.0.0.1	bruconriz72.futurox.store
 127.0.0.1	iwine.top
@@ -67562,10 +67565,4 @@
 127.0.0.1	r2build.shop
 127.0.0.1	woo-headless-bcknd.maksimer.es
 127.0.0.1	www.microsoft-onedrive.trunetkings.xyz.trunetkings.xyz
-127.0.0.1	res.upgrade1.zip
-127.0.0.1	www.brabuk.info
-127.0.0.1	acc.microsoft.upgrade1.zip
-127.0.0.1	ok.microsoft.upgrade1.zip
-127.0.0.1	events.api.microsoft.upgrade1.zip
-127.0.0.1	myaccount.app-cloud.link
-# Number of entries: 67562
+# Number of entries: 67559

@@ -29,6 +29,7 @@ asusupdateserver.asuscomm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min
 at1.227api.com,Possible Cobalt Strike C2 Domain,/pixel,154.83.12.115
 at2.227api.com,Possible Cobalt Strike C2 Domain,/dot.gif,154.83.12.115
 at3.227api.com,Possible Cobalt Strike C2 Domain,/ga.js,154.83.12.115
+baidu-cdn29.shop,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,106.52.49.247
 baidu.611110.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,158.180.74.142
 blog.ictstudents.help,Possible Cobalt Strike C2 Domain,/ictstudents-get,48.220.32.191
 c.testcs888.com,Possible Cobalt Strike C2 Domain,/j.ad,45.141.233.66
@@ -57,6 +58,7 @@ cs.xsjl7932.top,Possible Cobalt Strike C2 Domain,/public/css/style.css,111.229.0
 csdnsnew1.awscloudfont.com,Possible Cobalt Strike C2 Domain,/push,45.154.1.195
 csdnsnew2.awscloudfont.com,Possible Cobalt Strike C2 Domain,/pixel.gif,45.154.1.195
 d.tstcs888.com,Possible Cobalt Strike C2 Domain,/ga.js,45.141.233.66
+dadanyohoocloud.com,Possible Cobalt Strike C2 Domain,/www/handle/doc,18.162.56.61
 dadanyohoocloud.com,Possible Cobalt Strike C2 Domain,/www/handle/doc,43.133.177.17
 dd.tstcs888.com,Possible Cobalt Strike C2 Domain,/updates.rss,45.141.233.66
 demo.ez-wms.com,Possible Cobalt Strike C2 Fronting Domain,/api/getit,120.24.64.74
@@ -74,6 +76,7 @@ dq54wdwq5d4.jocker.space,Possible Cobalt Strike C2 Domain,/wc/58462514417,142.17
 dzeninfra.site,Possible Cobalt Strike C2 Fronted Domain,/mg.css,84.21.172.89
 dzeninfra.xyz,Possible Cobalt Strike C2 Fronted Domain,/mg.css,84.21.172.89
 e6y14fa81bd39.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/v1/get,113.45.175.15
+edge3.bsqb.ru,Possible Cobalt Strike C2 Domain,/__utm.gif,116.203.96.2
 ehchq7m7rpvdr.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/siie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=,82.156.156.160
 file.flash-oss.info,Possible Cobalt Strike C2 Domain,/api/3,107.175.158.208
 file1.amelicen.com,Possible Cobalt Strike C2 Domain,/owa/oBdoLTRDQTuAO2AgO8Vg1,216.238.121.119
@@ -101,6 +104,7 @@ manage.flash-oss.info,Possible Cobalt Strike C2 Domain,/api/3,47.243.26.247
 media.update.updrv.com,Possible Cobalt Strike C2 Fronted Domain,/jquerys-6.3.5.max.js,101.35.109.246
 meizu.info,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,193.42.63.158
 n1.johnchen88.com,Possible Cobalt Strike C2 Domain,/load,43.139.189.54
+nas.gddsw.top,Possible Cobalt Strike C2 Domain,/updates.rss,27.17.188.137
 nas.gddsw.top,Possible Cobalt Strike C2 Domain,/updates.rss,27.18.19.29
 ncs.e-twfpg.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,35.77.36.214
 nicefeide.top,Possible Cobalt Strike C2 Domain,/match,8.210.78.137
@@ -182,14 +186,15 @@ static.usesless.com,Possible Cobalt Strike C2 Fronted Domain,/gateway/api/user,4
 sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain,/image/,111.229.187.190
 support.desktop.wales,Possible Cobalt Strike C2 Domain,/g.pixel,5.188.86.168
 szyzs.szunicom.com,Possible Cobalt Strike C2 Fronted Domain,/gateway/api/user,47.98.134.252
-test2.scacasdxc.love,Possible Cobalt Strike C2 Domain,/dpixel,34.203.227.204
-test3.scacasdxc.love,Possible Cobalt Strike C2 Domain,/visit.js,34.203.227.204
-test4.scacasdxc.love,Possible Cobalt Strike C2 Domain,/ptj,34.203.227.204
-test5.scacasdxc.love,Possible Cobalt Strike C2 Domain,/__utm.gif,34.203.227.204
-test6.scacasdxc.love,Possible Cobalt Strike C2 Domain,/load,34.203.227.204
-test7.scacasdxc.love,Possible Cobalt Strike C2 Domain,/activity,34.203.227.204
-test8.scacasdxc.love,Possible Cobalt Strike C2 Domain,/__utm.gif,34.203.227.204
-test9.scacasdxc.love,Possible Cobalt Strike C2 Domain,/ca,34.203.227.204
+test10.scacasdxc.love,Possible Cobalt Strike C2 Domain,/pixel.gif,34.203.227.204
+test2.scacasdxc.love,Possible Cobalt Strike C2 Domain,/pixel,34.203.227.204
+test3.scacasdxc.love,Possible Cobalt Strike C2 Domain,/j.ad,34.203.227.204
+test4.scacasdxc.love,Possible Cobalt Strike C2 Domain,/pixel,34.203.227.204
+test5.scacasdxc.love,Possible Cobalt Strike C2 Domain,/j.ad,34.203.227.204
+test6.scacasdxc.love,Possible Cobalt Strike C2 Domain,/ca,34.203.227.204
+test7.scacasdxc.love,Possible Cobalt Strike C2 Domain,/ca,34.203.227.204
+test8.scacasdxc.love,Possible Cobalt Strike C2 Domain,/fwlink,34.203.227.204
+test9.scacasdxc.love,Possible Cobalt Strike C2 Domain,/push,34.203.227.204
 ui.chnaiuincom.cfd,Possible Cobalt Strike C2 Domain,/ca,36.41.71.241
 ui.chnaiuincom.cfd,Possible Cobalt Strike C2 Domain,/pixel,36.41.71.241
 update.mloadspring.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,70.34.196.238
