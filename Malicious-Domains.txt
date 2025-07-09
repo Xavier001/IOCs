@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-09 08:11:08 UTC                        #
+# Last updated: 2025-07-09 12:01:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	novermber12.dynamic-dns.net
+127.0.0.1	goodhost.work.gd
+127.0.0.1	late-starting.gl.at.ply.gg
+127.0.0.1	game-charleston.gl.at.ply.gg
 127.0.0.1	108.8.sarijayaco.my.id
 127.0.0.1	secfileshare.com
 127.0.0.1	kpuszkiev.com
@@ -67635,6 +67639,4 @@
 127.0.0.1	exodvs.com
 127.0.0.1	clamfluffys.click
 127.0.0.1	binoto.site
-127.0.0.1	okta.mllcrosoft.com
-127.0.0.1	csp.mllcrosoft.com
-# Number of entries: 67631
+# Number of entries: 67633
