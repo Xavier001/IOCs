@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-10 10:08:37 UTC                        #
+# Last updated: 2025-07-10 12:01:16 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	artists-drew.gl.at.ply.gg
+127.0.0.1	taker202.ddns.net
+127.0.0.1	taker202.duckdns.org
+127.0.0.1	newpage44.mywire.org
+127.0.0.1	iykemonii.ydns.eu
+127.0.0.1	kingmethod.sytes.net
 127.0.0.1	1v6pqsve9hg3gy.org
 127.0.0.1	7p788ywb3z9fwe.org
 127.0.0.1	vzf1g0it8gpvq7.org
@@ -67475,19 +67481,4 @@
 127.0.0.1	www.servgate.me
 127.0.0.1	mice.jvsov.top
 127.0.0.1	cs.catdogcs.top
-127.0.0.1	marzorevenger.duckdns.org
-127.0.0.1	client.fahrerscheinonlineholen.de
-127.0.0.1	xclient.fahrerscheinonlineholen.de
-127.0.0.1	serverlumen.ddns.net
-127.0.0.1	alshamtech.nl
-127.0.0.1	versyasist.guru
-127.0.0.1	versyasist.cfd
-127.0.0.1	versyasist.site
-127.0.0.1	versyasist.website
-127.0.0.1	versyasist.shop
-127.0.0.1	versyasist.live
-127.0.0.1	versyasist.online
-127.0.0.1	versyasist.pics
-127.0.0.1	versyasist.space
-127.0.0.1	versyasist.click
-# Number of entries: 67484
+# Number of entries: 67475
