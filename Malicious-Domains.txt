@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-10 12:01:16 UTC                        #
+# Last updated: 2025-07-10 18:03:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	daliascon.ddnsfree.com
+127.0.0.1	filter-load.gl.at.ply.gg
+127.0.0.1	chiwalk79.duckdns.org
+127.0.0.1	hi-auto.gl.at.ply.gg
+127.0.0.1	doc.office365update.cn
 127.0.0.1	artists-drew.gl.at.ply.gg
 127.0.0.1	taker202.ddns.net
 127.0.0.1	taker202.duckdns.org
@@ -67451,34 +67456,4 @@
 127.0.0.1	f.jujue.fun
 127.0.0.1	*.stock.letsgoautomotive.com
 127.0.0.1	ledgerdiagnostics.com
-127.0.0.1	proxyapi.modemfirewall.ru
-127.0.0.1	api.modemfirewall.ru
-127.0.0.1	easynation.duckdns.org
-127.0.0.1	openlievenj.sbs
-127.0.0.1	toemagnifuy.biz
-127.0.0.1	marketlumpe.biz
-127.0.0.1	whisperusz.biz
-127.0.0.1	littlenotii.biz
-127.0.0.1	enthuasticsa.cyou
-127.0.0.1	homelessdejs.cyou
-127.0.0.1	rampnatleadk.click
-127.0.0.1	annoyingth.click
-127.0.0.1	chessimpendero.click
-127.0.0.1	loosearendos.shop
-127.0.0.1	a1071997.xsph.ru
-127.0.0.1	co91798.tw1.ru
-127.0.0.1	lololocu.beget.tech
-127.0.0.1	a1072615.xsph.ru
-127.0.0.1	a1072183.xsph.ru
-127.0.0.1	nevergiverup1977.com
-127.0.0.1	arekiteskola.se
-127.0.0.1	knadorad.se
-127.0.0.1	ninedragonsfortress.com
-127.0.0.1	62-210-116-3.rev.poneytelecom.eu
-127.0.0.1	13.ip-51-178-83.eu
-127.0.0.1	apex-shop.online
-127.0.0.1	glccf.com
-127.0.0.1	www.servgate.me
-127.0.0.1	mice.jvsov.top
-127.0.0.1	cs.catdogcs.top
-# Number of entries: 67475
+# Number of entries: 67450
