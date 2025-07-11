@@ -1,11 +1,30 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-11 02:49:16 UTC                        #
+# Last updated: 2025-07-11 09:53:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	atlantqlpt.bet
+127.0.0.1	armorratdns.ddns.net
+127.0.0.1	cameldomain1.n-e.kr
+127.0.0.1	cdn.valgap.org
+127.0.0.1	1.izumisv1.cc
+127.0.0.1	abc.izumisv1.cc
+127.0.0.1	7kmynviev.localto.net
+127.0.0.1	chat.kongfupro.shop
+127.0.0.1	dogcsdogcs.js
+127.0.0.1	subasyncratlog.duckdns.org
+127.0.0.1	correctwion.click
+127.0.0.1	helpfullyk.click
+127.0.0.1	discoveronline.top
+127.0.0.1	altopew.com
+127.0.0.1	getin.top
+127.0.0.1	security.fbaregwaurd.com
+127.0.0.1	images.mildecommercialrealestate.com
+127.0.0.1	blue.o7lab.me
+127.0.0.1	brimaganla.duckdns.org
 127.0.0.1	www.cloudpacket.xyz
 127.0.0.1	pe40.com
 127.0.0.1	armando.ns.cloudflare.com
@@ -19,7 +38,73 @@
 127.0.0.1	filter-load.gl.at.ply.gg
 127.0.0.1	chiwalk79.duckdns.org
 127.0.0.1	hi-auto.gl.at.ply.gg
+127.0.0.1	least-crack.gl.at.ply.gg
+127.0.0.1	unit-reproductive.gl.at.ply.gg
+127.0.0.1	bikkiayan-31518.portmap.io
+127.0.0.1	show-copy.gl.at.ply.gg
+127.0.0.1	clothing-wooden.gl.at.ply.gg
+127.0.0.1	connect.jssaytcp.lat
+127.0.0.1	pma.jarry.online
+127.0.0.1	scan.rainb0w69.xyz
+127.0.0.1	scan.darkiot.net
+127.0.0.1	seven.nadns.info
+127.0.0.1	cnc.botbuji.xyz
+127.0.0.1	scan.ccie.cash
+127.0.0.1	waitwhatisthis.societynetwork.xyz
+127.0.0.1	keke.stolevpn.xyz
+127.0.0.1	casino1929299910.o-r.kr
+127.0.0.1	scan.atomdata.xyz
+127.0.0.1	scan.stolevpn.xyz
+127.0.0.1	p.x86thx.xyz
+127.0.0.1	c.overflow.ltd
+127.0.0.1	bot.vac.lol
+127.0.0.1	cnc.301.church
+127.0.0.1	majnon-hack.no-ip.org
+127.0.0.1	miz.lspmodz.ml
+127.0.0.1	s.overflow.ltd
+127.0.0.1	cnc.rainb0w69.xyz
+127.0.0.1	bot.skylablool.live
+127.0.0.1	cnc.404verified.xyz
+127.0.0.1	narco.thotiana.live
+127.0.0.1	cnc.ccie.cash
+127.0.0.1	random.societynetwork.xyz
+127.0.0.1	winmonitor97435hr463n.hopto.org
+127.0.0.1	doufou.no-ip.org
+127.0.0.1	phunktech.no-ip.info
+127.0.0.1	olol.ddns.net
+127.0.0.1	ayyashio.no-ip.biz
+127.0.0.1	emek.sytes.net
+127.0.0.1	codeeatsass.zapto.org
+127.0.0.1	radhan.no-ip.org
+127.0.0.1	bahoi.zapto.org
+127.0.0.1	tri5.no-ip.biz
+127.0.0.1	foihacked.no-ip.org
+127.0.0.1	ufuq51.serveftp.com
+127.0.0.1	hhost5.zapto.org
+127.0.0.1	skywebhost.zapto.org
+127.0.0.1	zerefy99.noip.me
+127.0.0.1	goulis.no-ip.biz
+127.0.0.1	beao.zapto.org
+127.0.0.1	radhan.no-ip.info
+127.0.0.1	ftd69ud5g.top
+127.0.0.1	bbrendanbl42.xyz
+127.0.0.1	sjk2048emma.xyz
+127.0.0.1	fomatic.ddns.net
+127.0.0.1	windns.ddns.net
+127.0.0.1	photocharges.ddnsgeek.com
 127.0.0.1	doc.office365update.cn
+127.0.0.1	workingmiracles.3utilities.com
+127.0.0.1	ctdt.ddns.net
+127.0.0.1	educational-scores.gl.at.ply.gg
+127.0.0.1	cieloo2.duckdns.org
+127.0.0.1	ronymahmoud.camdvr.org
+127.0.0.1	envio01.ddns.net
+127.0.0.1	sdashboard.ddns-ip.net
+127.0.0.1	news-previous.gl.at.ply.gg
+127.0.0.1	loudpub.ru
+127.0.0.1	filelist.zapto.org
+127.0.0.1	multi-laid.gl.at.ply.gg
+127.0.0.1	goatdjdj-59021.portmap.io
 127.0.0.1	artists-drew.gl.at.ply.gg
 127.0.0.1	taker202.ddns.net
 127.0.0.1	taker202.duckdns.org
@@ -67459,9 +67544,4 @@
 127.0.0.1	shop.linzlin.top
 127.0.0.1	jpa1.zync.us.kg
 127.0.0.1	aadcdn.upgrade1.zip
-127.0.0.1	remalarm.ddns.net
-127.0.0.1	secure002.com
-127.0.0.1	zksrdmff9.localto.net
-127.0.0.1	f.jujue.fun
-127.0.0.1	*.stock.letsgoautomotive.com
-# Number of entries: 67458
+# Number of entries: 67538
