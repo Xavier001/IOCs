@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-11 09:53:14 UTC                        #
+# Last updated: 2025-07-11 12:01:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	usr-smithsonian.gl.at.ply.gg
+127.0.0.1	freemadness.duckdns.org
+127.0.0.1	johngavins12311860.ddns.net
+127.0.0.1	johngavins2311860.ddns.net
 127.0.0.1	atlantqlpt.bet
 127.0.0.1	armorratdns.ddns.net
 127.0.0.1	cameldomain1.n-e.kr
@@ -67543,5 +67547,4 @@
 127.0.0.1	solve.porw.org
 127.0.0.1	shop.linzlin.top
 127.0.0.1	jpa1.zync.us.kg
-127.0.0.1	aadcdn.upgrade1.zip
-# Number of entries: 67538
+# Number of entries: 67541
