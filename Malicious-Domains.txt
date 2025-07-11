@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-10 18:03:04 UTC                        #
+# Last updated: 2025-07-11 02:49:16 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.cloudpacket.xyz
+127.0.0.1	pe40.com
+127.0.0.1	armando.ns.cloudflare.com
+127.0.0.1	a26.nbdsnb2.top
+127.0.0.1	a19.nbdsnb2.top
+127.0.0.1	about-source.gl.at.ply.gg
+127.0.0.1	hallo2222-49080.portmap.host
+127.0.0.1	2305133156.a1.luyouxia.net
+127.0.0.1	bestpeoplesaroundtheworldwithbeautifullt.duckdns.org
 127.0.0.1	daliascon.ddnsfree.com
 127.0.0.1	filter-load.gl.at.ply.gg
 127.0.0.1	chiwalk79.duckdns.org
@@ -67455,5 +67464,4 @@
 127.0.0.1	zksrdmff9.localto.net
 127.0.0.1	f.jujue.fun
 127.0.0.1	*.stock.letsgoautomotive.com
-127.0.0.1	ledgerdiagnostics.com
-# Number of entries: 67450
+# Number of entries: 67458
