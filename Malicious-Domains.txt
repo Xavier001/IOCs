@@ -1,11 +1,56 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-11 12:01:22 UTC                        #
+# Last updated: 2025-07-11 18:01:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	included-integration.gl.at.ply.gg
+127.0.0.1	mybabygirlevangilnegoodfirlgirlbabybgirl.duckdns.org
+127.0.0.1	location-caring.gl.at.ply.gg
+127.0.0.1	thederekmainblogportal.com
+127.0.0.1	quikstartmaindiloflare.com
+127.0.0.1	fadiomasdpir.com
+127.0.0.1	bagonamaditrohds.com
+127.0.0.1	geoternalkoddfiso.com
+127.0.0.1	rolkdsgwasagt.com
+127.0.0.1	juliavirafoklios.com
+127.0.0.1	iondrivinos34.com
+127.0.0.1	tidxuxisudolia.com
+127.0.0.1	trolsfigabubu.com
+127.0.0.1	irectashasdri.com
+127.0.0.1	barobgpsa.com
+127.0.0.1	aliondrifdions.com
+127.0.0.1	wasagtrolkdsg.com
+127.0.0.1	winfrauikol.com
+127.0.0.1	gorahripliys.com
+127.0.0.1	hhrrtyusdfar.com
+127.0.0.1	wilowiklayd.com
+127.0.0.1	klafiokindw.com
+127.0.0.1	llojikartid.com
+127.0.0.1	larioiokolid.com
+127.0.0.1	ttryiptiytre.com
+127.0.0.1	titiytreip.com
+127.0.0.1	marokolidoss.com
+127.0.0.1	titiprostertuk.com
+127.0.0.1	lilasdorycomsik.com
+127.0.0.1	dosyposycom.com
+127.0.0.1	visafropik.com
+127.0.0.1	valifoprofsto.com
+127.0.0.1	higtwebgenis.com
+127.0.0.1	domtrst455.com
+127.0.0.1	daringdesigners.com
+127.0.0.1	lofiramegi.com
+127.0.0.1	rofleratom.com
+127.0.0.1	topguningit.com
+127.0.0.1	node-leexsirzz.safepanel.my.id
+127.0.0.1	ireblogthedomsiki.com
+127.0.0.1	buyedmeds.top
+127.0.0.1	accountsitte.com
+127.0.0.1	josyfs.shop
+127.0.0.1	ai-dev.overscaleconsulting.com
+127.0.0.1	3wz63jwcct4de.cfc-execute.bj.baidubce.com
 127.0.0.1	usr-smithsonian.gl.at.ply.gg
 127.0.0.1	freemadness.duckdns.org
 127.0.0.1	johngavins12311860.ddns.net
@@ -67507,44 +67552,4 @@
 127.0.0.1	vscodeapp.com
 127.0.0.1	corepatchcraft.com
 127.0.0.1	www.g.mllcrosoft.com
-127.0.0.1	lunarproducts.net
-127.0.0.1	nebulabot.net
-127.0.0.1	deutsche-telekommunikation.de
-127.0.0.1	brickwork-solutions.xyz
-127.0.0.1	45.128.233.186.sslip.io
-127.0.0.1	nyc-7900-01.sour.host
-127.0.0.1	brabue.info
-127.0.0.1	fahrzeugtechnik24zusatzfeder.de
-127.0.0.1	marka4.cyou
-127.0.0.1	applesactti.click
-127.0.0.1	arvimon.fun
-127.0.0.1	bearboll.fun
-127.0.0.1	butchane.fun
-127.0.0.1	ch33sep3ts.cyou
-127.0.0.1	choserowboatfly.fun
-127.0.0.1	closedcarvuo.click
-127.0.0.1	closhemone.fun
-127.0.0.1	curtainjors.fun
-127.0.0.1	divineservicecity.fun
-127.0.0.1	farformafor.fun
-127.0.0.1	fileforex.xyz
-127.0.0.1	formiklass.fun
-127.0.0.1	gogobad.fun
-127.0.0.1	impossiblekdo.click
-127.0.0.1	malenursenect.fun
-127.0.0.1	mazerah.fun
-127.0.0.1	milkwithlacto.fun
-127.0.0.1	mrcrubsaf.fun
-127.0.0.1	pantswallov.fun
-127.0.0.1	printcess.fun
-127.0.0.1	slingbirdsy.click
-127.0.0.1	spuriotis.click
-127.0.0.1	worldtopnews.fun
-127.0.0.1	phh79b4.localto.net
-127.0.0.1	img1.microsoft.upgrade1.zip
-127.0.0.1	upgrade1.zip
-127.0.0.1	bapalal.com
-127.0.0.1	solve.porw.org
-127.0.0.1	shop.linzlin.top
-127.0.0.1	jpa1.zync.us.kg
-# Number of entries: 67541
+# Number of entries: 67546
