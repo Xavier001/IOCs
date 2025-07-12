@@ -1,11 +1,26 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-11 18:01:13 UTC                        #
+# Last updated: 2025-07-12 08:49:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	iot.stellar-iot.net
+127.0.0.1	server1.stellar-iot.net
+127.0.0.1	masike4.preech.top
+127.0.0.1	westcnds.asia
+127.0.0.1	linkedservlet.pro
+127.0.0.1	eyertyn.lat
+127.0.0.1	www.jpchacha.com
+127.0.0.1	ltdvjvr.top
+127.0.0.1	uponmap.com
+127.0.0.1	jojo-ent.com
+127.0.0.1	resutato.com
+127.0.0.1	security.flearengauurd.com
+127.0.0.1	haciver.com
+127.0.0.1	smithenv.com
+127.0.0.1	ecs-123-60-142-31.compute.hwclouds-dns.com
 127.0.0.1	included-integration.gl.at.ply.gg
 127.0.0.1	mybabygirlevangilnegoodfirlgirlbabybgirl.duckdns.org
 127.0.0.1	location-caring.gl.at.ply.gg
@@ -67546,9 +67561,4 @@
 127.0.0.1	24.ip.gl.ply.gg
 127.0.0.1	25.ip.gl.ply.gg
 127.0.0.1	cycahao.shop
-127.0.0.1	leechon.hackcrack.io
-127.0.0.1	zcbcpapp.com
-127.0.0.1	ecs-121-36-222-101.compute.hwclouds-dns.com
-127.0.0.1	vscodeapp.com
-127.0.0.1	corepatchcraft.com
-# Number of entries: 67545
+# Number of entries: 67555
