@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-13 07:21:50 UTC                        #
+# Last updated: 2025-07-13 12:01:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	page-prostores.gl.at.ply.gg
+127.0.0.1	solutions-samsung.gl.at.ply.gg
+127.0.0.1	analyticasnodez.com
+127.0.0.1	security.faraleshiaeld.com
+127.0.0.1	xn--2vrub.cc
+127.0.0.1	solpendi.com
+127.0.0.1	157-230-34-254.cprapid.com
+127.0.0.1	biaderibra.info
 127.0.0.1	partner-expedia.gl.at.ply.gg
 127.0.0.1	second-ep.gl.at.ply.gg
 127.0.0.1	envrem07.duckdns.org
@@ -67199,17 +67207,4 @@
 127.0.0.1	wordpress-secure.org
 127.0.0.1	serverproxy-v2homes.life
 127.0.0.1	panel-alert-v1.homes
-127.0.0.1	floradocs.live
-127.0.0.1	accommodation-necessity.gl.at.ply.gg
-127.0.0.1	likejunk-40343.portmap.host
-127.0.0.1	vpsdns.casacam.net
-127.0.0.1	email.gov.in.ministryofdefenceindia.link
-127.0.0.1	fixxyplanterv.click
-127.0.0.1	mutterunurse.click
-127.0.0.1	fqbe23.xyz
-127.0.0.1	prpages.com
-127.0.0.1	valhafather.xyz
-127.0.0.1	offerszone.click
-127.0.0.1	sharethewebs.cfd
-127.0.0.1	alshamtech.nl
-# Number of entries: 67206
+# Number of entries: 67201
