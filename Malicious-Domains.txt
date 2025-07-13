@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-12 19:22:44 UTC                        #
+# Last updated: 2025-07-12 23:10:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	10.0.minewise.xyz
 127.0.0.1	data.reversesync.com
 127.0.0.1	collect.installeranalytics.com
 127.0.0.1	testermania.theworkpc.com
@@ -67273,9 +67274,4 @@
 127.0.0.1	dckhgjimeghemhl.top
 127.0.0.1	daxon.giize.com
 127.0.0.1	p8stolo-29468.portmap.host
-127.0.0.1	wings.pokemulti.fr
-127.0.0.1	info.royalreturns.org
-127.0.0.1	g.sst.upgrade1.zip
-127.0.0.1	cpcontacts.sumup.live
-127.0.0.1	res.mllcrosoft.com
-# Number of entries: 67272
+# Number of entries: 67268
