@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-14 10:10:27 UTC                        #
+# Last updated: 2025-07-14 12:01:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	kitchen-english.gl.at.ply.gg
 127.0.0.1	www.t.minewise.xyz
 127.0.0.1	manager-americans.gl.at.ply.gg
 127.0.0.1	our-ukraine.gl.at.ply.gg
@@ -162,7 +163,6 @@
 127.0.0.1	brimaganla.duckdns.org
 127.0.0.1	www.cloudpacket.xyz
 127.0.0.1	pe40.com
-127.0.0.1	armando.ns.cloudflare.com
 127.0.0.1	a26.nbdsnb2.top
 127.0.0.1	a19.nbdsnb2.top
 127.0.0.1	about-source.gl.at.ply.gg
@@ -67082,46 +67082,4 @@
 127.0.0.1	ekbnfghmhcaldid.top
 127.0.0.1	sso.upgrade1.zip
 127.0.0.1	vpce.gdw55e.upgrade1.zip
-127.0.0.1	dock4.deneb.it
-127.0.0.1	dapp-allthingslemon.com
-127.0.0.1	fastcloudforcecdn.com
-127.0.0.1	exchange-bullish.com
-127.0.0.1	app-oku.trade
-127.0.0.1	compras-miclaro-pe.com
-127.0.0.1	customers-salik-ae.com
-127.0.0.1	my-tasjeel-ae.com
-127.0.0.1	topuplfow.com
-127.0.0.1	www-kodi.com
-127.0.0.1	my-aeserver.com
-127.0.0.1	orion-managerwp.com
-127.0.0.1	idenfity-wpenglne.com
-127.0.0.1	idenfity-wpengine.com
-127.0.0.1	web-etrade.pro
-127.0.0.1	wpundev.com
-127.0.0.1	my-nexcecs.net
-127.0.0.1	seacraftsgallery.com
-127.0.0.1	wpmanager-orion.com
-127.0.0.1	wpumdev.net
-127.0.0.1	mynexecss.com
-127.0.0.1	wp-umbrelia.com
-127.0.0.1	mykinsta-cloud.com
-127.0.0.1	secure1-imnotionhosting.com
-127.0.0.1	my-nexecss.net
-127.0.0.1	falconx.tech
-127.0.0.1	www-kinsta.com
-127.0.0.1	admin-heteml.com
-127.0.0.1	orion-managewp.com
-127.0.0.1	my-nexecss.com
-127.0.0.1	my-kinsta.net
-127.0.0.1	apps-falconx.io
-127.0.0.1	platform-copper.co
-127.0.0.1	my-kinsta.com
-127.0.0.1	web-order-london-lmaxdigital.com
-127.0.0.1	www-mysau.com
-127.0.0.1	login-rackspace.com
-127.0.0.1	web-kinsta.com
-127.0.0.1	login-liquidweb.com
-127.0.0.1	client-mysau.com
-127.0.0.1	nexen-bnynellom.com
-127.0.0.1	panel-descom-es.com
-# Number of entries: 67118
+# Number of entries: 67076
