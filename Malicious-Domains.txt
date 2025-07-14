@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-13 19:01:46 UTC                        #
+# Last updated: 2025-07-14 02:48:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	gd-gd.top
+127.0.0.1	1302498057-jifjeq2q25.na-siliconvalley.tencentscf.com
 127.0.0.1	attack.emocc.cc
 127.0.0.1	darkhacker07.no-ip.biz
 127.0.0.1	already-ibm.gl.at.ply.gg
@@ -67114,5 +67116,4 @@
 127.0.0.1	floradocs.live
 127.0.0.1	sub172.duckdns.org
 127.0.0.1	jumplilltk.cfd
-127.0.0.1	live.microsoft.upgrade1.zip
-# Number of entries: 67109
+# Number of entries: 67110
