@@ -1,11 +1,30 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-14 02:48:30 UTC                        #
+# Last updated: 2025-07-14 10:10:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.t.minewise.xyz
+127.0.0.1	manager-americans.gl.at.ply.gg
+127.0.0.1	our-ukraine.gl.at.ply.gg
+127.0.0.1	vecotr.viewdns.net
+127.0.0.1	vipcncnetwork.com
+127.0.0.1	kk09.duckdns.org
+127.0.0.1	her-quest.gl.at.ply.gg
+127.0.0.1	ailletll.top
+127.0.0.1	zhuyao.icu
+127.0.0.1	vicesmile.loseyourip.com
+127.0.0.1	kingsddns.kozow.com
+127.0.0.1	baby-technological.gl.at.ply.gg
+127.0.0.1	allinline.localto.net
+127.0.0.1	security.fralegwaard.com
+127.0.0.1	kopewv.com
+127.0.0.1	shipcg.top
+127.0.0.1	ecs-121-36-27-251.compute.hwclouds-dns.com
+127.0.0.1	ec2-34-221-83-3.us-west-2.compute.amazonaws.com
+127.0.0.1	ec2-3-85-192-21.compute-1.amazonaws.com
 127.0.0.1	gd-gd.top
 127.0.0.1	1302498057-jifjeq2q25.na-siliconvalley.tencentscf.com
 127.0.0.1	attack.emocc.cc
@@ -67105,15 +67124,4 @@
 127.0.0.1	client-mysau.com
 127.0.0.1	nexen-bnynellom.com
 127.0.0.1	panel-descom-es.com
-127.0.0.1	maxcgi.com
-127.0.0.1	comtekinc.com
-127.0.0.1	apm.vpce.gdw55e.microsoft.upgrade1.zip
-127.0.0.1	twelveff12pn.top
-127.0.0.1	fortenb14vs.top
-127.0.0.1	twentenb20vs.top
-127.0.0.1	smijpg.ghostsofthesophomoreclass.com
-127.0.0.1	prepforce.site
-127.0.0.1	floradocs.live
-127.0.0.1	sub172.duckdns.org
-127.0.0.1	jumplilltk.cfd
-# Number of entries: 67110
+# Number of entries: 67118
