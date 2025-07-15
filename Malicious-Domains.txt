@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-14 19:10:25 UTC                        #
+# Last updated: 2025-07-14 22:48:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.yubo.life
 127.0.0.1	mx.minewise.xyz
 127.0.0.1	flhg.pics
 127.0.0.1	winres-43090.portmap.io
@@ -66928,7 +66929,6 @@
 127.0.0.1	webmail.wltstockinsights.com
 127.0.0.1	cpcontacts.wltstockinsights.com
 127.0.0.1	t11.wltstockinsights.com
-127.0.0.1	wltstockinsights.com
 127.0.0.1	wststis05.wltstockinsights.com
 127.0.0.1	wststis01.wltstockinsights.com
 127.0.0.1	hdebljjjfidlnec.top
@@ -66948,7 +66948,4 @@
 127.0.0.1	killbaidu.top
 127.0.0.1	bot.tianyadd.top
 127.0.0.1	c0vid.ddns.net
-127.0.0.1	ns3177629.ip-51-195-60.eu
-127.0.0.1	vpn567288128.softether.net
-127.0.0.1	acc.upgrade1.zip
-# Number of entries: 66945
+# Number of entries: 66942
