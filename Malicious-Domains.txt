@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-15 08:01:54 UTC                        #
+# Last updated: 2025-07-15 12:02:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	omnivva.shop
+127.0.0.1	host0.quoteconsumers.biz
+127.0.0.1	record-examined.gl.at.ply.gg
+127.0.0.1	rovider.net
+127.0.0.1	mcaumnb.shop
+127.0.0.1	daruubs.top
+127.0.0.1	cidtfhh.shop
+127.0.0.1	rayrhs.top
+127.0.0.1	furwmsx.shop
+127.0.0.1	monkkn.top
+127.0.0.1	jekwuserver.ydns.eu
+127.0.0.1	nwa2323.ydns.eu
+127.0.0.1	st.w.sachdevalawpublishers.com
 127.0.0.1	hwsrv-1285168.hostwindsdns.com
 127.0.0.1	b3kylyu7z.localto.net
 127.0.0.1	ecs-124-71-152-57.compute.hwclouds-dns.com
@@ -66932,4 +66945,4 @@
 127.0.0.1	0a5uo.com
 127.0.0.1	t-push-erneuerung.com
 127.0.0.1	kvxnvbdvv.com
-# Number of entries: 66926
+# Number of entries: 66939
