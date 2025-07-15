@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-14 22:48:44 UTC                        #
+# Last updated: 2025-07-15 08:01:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hwsrv-1285168.hostwindsdns.com
+127.0.0.1	b3kylyu7z.localto.net
+127.0.0.1	ecs-124-71-152-57.compute.hwclouds-dns.com
+127.0.0.1	pre-order.sodakconcretecoatings.com
+127.0.0.1	security.guaerdflfare.com
+127.0.0.1	jemriz.com
+127.0.0.1	still-ie.gl.at.ply.gg
+127.0.0.1	alcapulco.duckdns.org
+127.0.0.1	abremeh.top
+127.0.0.1	rdlaw.mywire.org
 127.0.0.1	www.yubo.life
 127.0.0.1	mx.minewise.xyz
 127.0.0.1	flhg.pics
@@ -66922,30 +66932,4 @@
 127.0.0.1	0a5uo.com
 127.0.0.1	t-push-erneuerung.com
 127.0.0.1	kvxnvbdvv.com
-127.0.0.1	weixe.ir
-127.0.0.1	hi-tin.gl.at.ply.gg
-127.0.0.1	365safemail.com
-127.0.0.1	driveswindows.duckdns.org
-127.0.0.1	webmail.wltstockinsights.com
-127.0.0.1	cpcontacts.wltstockinsights.com
-127.0.0.1	t11.wltstockinsights.com
-127.0.0.1	wststis05.wltstockinsights.com
-127.0.0.1	wststis01.wltstockinsights.com
-127.0.0.1	hdebljjjfidlnec.top
-127.0.0.1	dlnelagmjgeaime.top
-127.0.0.1	deecmnfemamgjed.top
-127.0.0.1	ehjdilgfljdimkg.top
-127.0.0.1	mgubu48bnxi43.top
-127.0.0.1	lalclenfjhkinbn.top
-127.0.0.1	business-activation.net
-127.0.0.1	hink-ruth.gl.at.ply.gg
-127.0.0.1	furniture-tray.gl.at.ply.gg
-127.0.0.1	treeofwealth.freemyip.com
-127.0.0.1	treeofwealthyz.freemyip.com
-127.0.0.1	rnyim-54-151-198-235.a.free.pinggy.link
-127.0.0.1	toolsbox.ydns.eu
-127.0.0.1	crystalc2.duckdns.org
-127.0.0.1	killbaidu.top
-127.0.0.1	bot.tianyadd.top
-127.0.0.1	c0vid.ddns.net
-# Number of entries: 66942
+# Number of entries: 66926
