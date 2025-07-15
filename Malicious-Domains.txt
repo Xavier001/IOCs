@@ -1,11 +1,25 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-15 12:02:00 UTC                        #
+# Last updated: 2025-07-15 20:01:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	blockchain-projects.com
+127.0.0.1	witherisagoat-20650.portmap.host
+127.0.0.1	8fhd2idhacas.click
+127.0.0.1	8nioqhxciwoqc.click
+127.0.0.1	8hdfiqowchq.click
+127.0.0.1	8eh18dhq9wd.click
+127.0.0.1	8fnuawbfuac.click
+127.0.0.1	madmrx.duckdns.org
+127.0.0.1	envios25.duckdns.org
+127.0.0.1	flyrbeengeek-25127.portmap.io
+127.0.0.1	ec2-18-168-225-154.eu-west-2.compute.amazonaws.com
+127.0.0.1	files.tucsonrenovationservices.com
+127.0.0.1	bcdc37vn5vr5t.cfc-execute.bj.baidubce.com
+127.0.0.1	1357504293-h43knumeov.ap-guangzhou.tencentscf.com
 127.0.0.1	omnivva.shop
 127.0.0.1	host0.quoteconsumers.biz
 127.0.0.1	record-examined.gl.at.ply.gg
@@ -66945,4 +66959,4 @@
 127.0.0.1	0a5uo.com
 127.0.0.1	t-push-erneuerung.com
 127.0.0.1	kvxnvbdvv.com
-# Number of entries: 66939
+# Number of entries: 66953
