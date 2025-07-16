@@ -1,11 +1,91 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-16 04:01:06 UTC                        #
+# Last updated: 2025-07-16 09:01:42 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tharq.shop
+127.0.0.1	niazw.pics
+127.0.0.1	main.minefarm19.o-r.kr
+127.0.0.1	anranapi.xyz
+127.0.0.1	cnc.mutao.in
+127.0.0.1	cns.mutao.in
+127.0.0.1	www.uziweilai.top
+127.0.0.1	www.vhlkau0.xyz
+127.0.0.1	www.viary.lol
+127.0.0.1	www.wxyn3.top
+127.0.0.1	www.olarisfinance.pro
+127.0.0.1	www.oldchain-br037.sbs
+127.0.0.1	www.oma.club
+127.0.0.1	www.ook.photo
+127.0.0.1	www.oungandassociatesmusic.net
+127.0.0.1	www.ov-imhg.live
+127.0.0.1	www.ov-pukr.cfd
+127.0.0.1	www.pcigieikmfhw.website
+127.0.0.1	www.pujosa.top
+127.0.0.1	www.rand-bewin.pro
+127.0.0.1	www.rbetano.app
+127.0.0.1	www.tbi5r.top
+127.0.0.1	www.uckice.shop
+127.0.0.1	www.uestrasenda.cloud
+127.0.0.1	www.uperstar360.net
+127.0.0.1	www.uxe.rent
+127.0.0.1	www.ireoverseasgroup.shop
+127.0.0.1	www.itrinkizi20.xyz
+127.0.0.1	www.ittledeath.art
+127.0.0.1	www.j5.top
+127.0.0.1	www.levatedynamics.net
+127.0.0.1	www.lmj8zx.pro
+127.0.0.1	www.mersdty.xyz
+127.0.0.1	www.mphmu.top
+127.0.0.1	www.mstj.xyz
+127.0.0.1	www.ndke.top
+127.0.0.1	www.ndovsjepangkemarin7.buzz
+127.0.0.1	www.nerrj.vip
+127.0.0.1	www.nr1fp.top
+127.0.0.1	www.nugglebuds.net
+127.0.0.1	www.okerdom0398.buzz
+127.0.0.1	www.apply.xyz
+127.0.0.1	www.aptrailhunterzone.click
+127.0.0.1	www.aroon.media
+127.0.0.1	www.ataract-surgery-85805.bond
+127.0.0.1	www.atchehub.xyz
+127.0.0.1	www.avinnorris.shop
+127.0.0.1	www.awangmburiabang.sbs
+127.0.0.1	www.c3471.top
+127.0.0.1	www.cto.design
+127.0.0.1	www.diryacare.xyz
+127.0.0.1	www.edresans.cfd
+127.0.0.1	www.emoreplay.shop
+127.0.0.1	www.evxxw.top
+127.0.0.1	www.h44x.top
+127.0.0.1	www.iberacaaodigital.shop
+127.0.0.1	www.ingerie-22584.bond
+127.0.0.1	www.0qpd5.click
+127.0.0.1	www.1f8zn.click
+127.0.0.1	www.3-155-18-241.lol
+127.0.0.1	www.46.top
+127.0.0.1	www.66ny5.top
+127.0.0.1	www.89clubb.art
+127.0.0.1	www.8vip135.net
+127.0.0.1	www.ailseent.cfd
+127.0.0.1	www.alank.ltd
+127.0.0.1	www.amtech.dev
+127.0.0.1	www.ancyglobal.capital
+127.0.0.1	www.anopyops.net
+127.0.0.1	www.ansenlan.net
+127.0.0.1	www.apitronis.xyz
+127.0.0.1	myhoster123.zapto.org
+127.0.0.1	faho-24634.portmap.host
+127.0.0.1	cdnperf.asia
+127.0.0.1	archivedcnd-s1.asia
+127.0.0.1	landing.kamal1.cs2.dk
+127.0.0.1	job3.trnebaiek.cn
+127.0.0.1	asegurar.mysynology.net
+127.0.0.1	sirlegacy1.duckdns.org
+127.0.0.1	sirlegacy.duckdns.org
 127.0.0.1	beni.bigbankorg.com
 127.0.0.1	www.blofin.live
 127.0.0.1	dashboard.nm.xevil.cn
@@ -67076,8 +67156,4 @@
 127.0.0.1	w98snw73idknf486g37d9ijn3u.duckdns.org
 127.0.0.1	gh-hr.cn
 127.0.0.1	reviewofficed.click
-127.0.0.1	cryptorgram.com
-127.0.0.1	taglala.com
-127.0.0.1	0a5uo.com
-127.0.0.1	t-push-erneuerung.com
-# Number of entries: 67074
+# Number of entries: 67150
