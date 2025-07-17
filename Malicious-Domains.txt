@@ -1,11 +1,31 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-17 04:01:44 UTC                        #
+# Last updated: 2025-07-17 10:10:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mx.francotamouls.com
+127.0.0.1	skdgh.top
+127.0.0.1	unxyng.top
+127.0.0.1	trbxlj.top
+127.0.0.1	gehkmx.top
+127.0.0.1	sacrp.top
+127.0.0.1	dktnd.top
+127.0.0.1	as5yo.top
+127.0.0.1	lpdesigns.uk
+127.0.0.1	ageillaxnv.a.pinggy.link
+127.0.0.1	visa.identity-shield.org
+127.0.0.1	beblbdzjhs.a.pinggy.link
+127.0.0.1	person-vc.gl.at.ply.gg
+127.0.0.1	wisk43.top
+127.0.0.1	www.amazonlivenews.com
+127.0.0.1	wemoips.com
+127.0.0.1	security.fcolareguaard.com
+127.0.0.1	lumen.radium.lol
+127.0.0.1	us10.killall.sh
+127.0.0.1	yiyiscrm.com
 127.0.0.1	pakistan-itsupport.serveblog.net
 127.0.0.1	news.kaspersky.icu
 127.0.0.1	7fsnaewwwq6r3.cfc-execute.bj.baidubce.com
@@ -67111,64 +67131,4 @@
 127.0.0.1	eur-agriculture.gl.at.ply.gg
 127.0.0.1	elevenuu11th.top
 127.0.0.1	reporting.mllcrosoft.com
-127.0.0.1	republicadominica2025.ip-ddns.com
-127.0.0.1	edealselite.shop
-127.0.0.1	rosettahome.cn
-127.0.0.1	components-stages.gl.at.ply.gg
-127.0.0.1	boetz.duckdns.org
-127.0.0.1	sizefixeds.icu
-127.0.0.1	ywsfalsysy.duckdns.org
-127.0.0.1	feheecfmkmhfiij.top
-127.0.0.1	diebinjmajbkhhg.top
-127.0.0.1	lggknhaffleahbh.top
-127.0.0.1	jjdgdeffjimfgne.top
-127.0.0.1	veadytgffttw.top
-127.0.0.1	kcehmenjdibnmni.top
-127.0.0.1	gajaechkfhfghal.top
-127.0.0.1	fortyuu14th.top
-127.0.0.1	niness9sr.top
-127.0.0.1	angerinfecute.cyou
-127.0.0.1	regetgoos.cyou
-127.0.0.1	longingfluffyr.cyou
-127.0.0.1	aquaticteachu.cyou
-127.0.0.1	foreigoiru.cyou
-127.0.0.1	lyingcollage.cyou
-127.0.0.1	yokeseddat.shop
-127.0.0.1	whitebeauti.shop
-127.0.0.1	winnyhelplejsu.shop
-127.0.0.1	wordemnyauop.shop
-127.0.0.1	burnsubstract.shop
-127.0.0.1	infamouszeia.shop
-127.0.0.1	crowsudysto.shop
-127.0.0.1	f1069418.xsph.ru
-127.0.0.1	a1075044.xsph.ru
-127.0.0.1	twelveff20pn.top
-127.0.0.1	crookedfoshe.bond
-127.0.0.1	fcan.kliphigafue.shop
-127.0.0.1	growthselec.bond
-127.0.0.1	immolatechallen.bond
-127.0.0.1	jarry-deatile.bond
-127.0.0.1	jarry-fixxer.bond
-127.0.0.1	pain-temper.bond
-127.0.0.1	steelysacckz.shop
-127.0.0.1	stripedre-lot.bond
-127.0.0.1	strivehelpeu.bond
-127.0.0.1	scodt.sbs
-127.0.0.1	elasticchees.help
-127.0.0.1	cratevexxer.icu
-127.0.0.1	lyricalamuuso.shop
-127.0.0.1	www.baidu-image.top
-127.0.0.1	scan.daztar.com
-127.0.0.1	sosgo.top
-127.0.0.1	ns4.toptencent.com
-127.0.0.1	ns1.falsh.cc
-127.0.0.1	fingerswinger.net
-127.0.0.1	jhg.australiasoutheast.cloudapp.azure.com
-127.0.0.1	cdn.looklook.sbs
-127.0.0.1	api.seamrrobots.ddns-ip.net
-127.0.0.1	at1.227api.com
-127.0.0.1	at2.227api.com
-127.0.0.1	at3.227api.com
-127.0.0.1	0sbs.sbs
-127.0.0.1	agamwizard.duckdns.org
-# Number of entries: 67165
+# Number of entries: 67125
