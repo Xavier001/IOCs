@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-16 18:16:12 UTC                        #
+# Last updated: 2025-07-17 04:01:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	pakistan-itsupport.serveblog.net
+127.0.0.1	news.kaspersky.icu
+127.0.0.1	7fsnaewwwq6r3.cfc-execute.bj.baidubce.com
+127.0.0.1	ec2-35-73-179-148.ap-northeast-1.compute.amazonaws.com
+127.0.0.1	ns3.nsebseshop.cloud
+127.0.0.1	ns2.nsebseshop.cloud
+127.0.0.1	ns1.nsebseshop.cloud
 127.0.0.1	genuine-seahorse-f5e9c4.netlify.app
 127.0.0.1	cvko-56792.portmap.host
 127.0.0.1	white-edited.gl.at.ply.gg
@@ -67164,4 +67171,4 @@
 127.0.0.1	at3.227api.com
 127.0.0.1	0sbs.sbs
 127.0.0.1	agamwizard.duckdns.org
-# Number of entries: 67158
+# Number of entries: 67165
