@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-17 10:10:28 UTC                        #
+# Last updated: 2025-07-17 12:12:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	zerolendnow.top
+127.0.0.1	city-applicants.gl.at.ply.gg
+127.0.0.1	zinghome.vn
+127.0.0.1	host0.blockchain-projects.com
+127.0.0.1	server.weex-marketing.com
+127.0.0.1	dogbij.top
+127.0.0.1	famigh.shop
+127.0.0.1	sleevesleeve.shop
+127.0.0.1	rdmfile.eu
 127.0.0.1	mx.francotamouls.com
 127.0.0.1	skdgh.top
 127.0.0.1	unxyng.top
@@ -67128,7 +67137,4 @@
 127.0.0.1	diligent-health.org
 127.0.0.1	interior-gov-pk.mail-govt.org
 127.0.0.1	midhkalfmddcece.top
-127.0.0.1	eur-agriculture.gl.at.ply.gg
-127.0.0.1	elevenuu11th.top
-127.0.0.1	reporting.mllcrosoft.com
-# Number of entries: 67125
+# Number of entries: 67131
