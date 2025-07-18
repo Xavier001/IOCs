@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-17 20:48:44 UTC                        #
+# Last updated: 2025-07-18 04:01:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	aafastservice.top
+127.0.0.1	m.fbwatch.live
+127.0.0.1	ftp.p4.bukharielectro.pk
 127.0.0.1	fk99sqx08gdcw.cfc-execute.bj.baidubce.com
 127.0.0.1	ip-93-115-21-186-122360.vps.hosted-by-mvps.net
 127.0.0.1	penkridge-television.com
@@ -67126,4 +67129,4 @@
 127.0.0.1	litellusef.com
 127.0.0.1	matchippsi.com
 127.0.0.1	drpras.duckdns.org
-# Number of entries: 67120
+# Number of entries: 67123
