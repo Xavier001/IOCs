@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-18 10:11:50 UTC                        #
+# Last updated: 2025-07-18 12:00:16 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	police-turkish.gl.at.ply.gg
 127.0.0.1	cooawbi.top
 127.0.0.1	ourkbpw.top
 127.0.0.1	sleaqwad.shop
@@ -67074,21 +67075,4 @@
 127.0.0.1	solve.fizq.net
 127.0.0.1	deduhko2.kliphuwatey.shop
 127.0.0.1	defender.aelookupsvc.us.kg
-127.0.0.1	ifuckyourpc.win
-127.0.0.1	ptbaconsulting.com
-127.0.0.1	resonantpasot.icu
-127.0.0.1	badgerkis.cam
-127.0.0.1	healthreiuvw.click
-127.0.0.1	misha-lomonosov.com
-127.0.0.1	sputnik-1985.com
-127.0.0.1	lev-tolstoi.com
-127.0.0.1	mittensootsjz.cyou
-127.0.0.1	seekwiggleuz.shop
-127.0.0.1	stewwybravez.click
-127.0.0.1	unwrittenuzy.shop
-127.0.0.1	uprootquincju.shop
-127.0.0.1	efffe.top
-127.0.0.1	rentenfonds.top
-127.0.0.1	todohornos.top
-127.0.0.1	nfwatches.top
-# Number of entries: 67085
+# Number of entries: 67069
