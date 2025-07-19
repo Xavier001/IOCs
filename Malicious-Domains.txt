@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-19 07:10:19 UTC                        #
+# Last updated: 2025-07-19 11:19:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	net.botwork.africa
+127.0.0.1	rhiuit.shop
+127.0.0.1	srlemnhg.top
+127.0.0.1	rootino.top
+127.0.0.1	zxoms.top
+127.0.0.1	anxtaun.fit
+127.0.0.1	dumv.online
+127.0.0.1	dampg.shop
+127.0.0.1	siniavzv.life
+127.0.0.1	permwgp.xyz
+127.0.0.1	recopcwr.top
+127.0.0.1	seruneqy.live
+127.0.0.1	strujqwn.xyz
 127.0.0.1	eplive.help
 127.0.0.1	mdycare.help
 127.0.0.1	hblive.help
@@ -67012,8 +67025,4 @@
 127.0.0.1	play.upgrade1.zip
 127.0.0.1	verifynavycu.com
 127.0.0.1	www.nemonet.top
-127.0.0.1	accounts.upgrade1.zip
-127.0.0.1	content.upgrade1.zip
-127.0.0.1	accounts.youtube.upgrade1.zip
-127.0.0.1	apis.upgrade1.zip
-# Number of entries: 67010
+# Number of entries: 67019
