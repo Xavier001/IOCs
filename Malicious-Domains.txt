@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-18 20:01:00 UTC                        #
+# Last updated: 2025-07-19 02:48:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	inventscience.st
+127.0.0.1	gh.optionchain.dpdns.org
 127.0.0.1	vmi2330570.contaboserver.net
 127.0.0.1	socketapiupdates.com
 127.0.0.1	cichau.lat
@@ -67008,8 +67010,4 @@
 127.0.0.1	ie-serving.gl.at.ply.gg
 127.0.0.1	103-152-254-149.cprapid.com
 127.0.0.1	piaozz.vip
-127.0.0.1	account.microsoft.upgrade1.zip
-127.0.0.1	git.deneb.it
-127.0.0.1	outlook.upgrade1.zip
-127.0.0.1	annulation-mabanquebnp.com
-# Number of entries: 67006
+# Number of entries: 67004
