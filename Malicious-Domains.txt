@@ -1,11 +1,61 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-19 02:48:35 UTC                        #
+# Last updated: 2025-07-19 07:10:19 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	eplive.help
+127.0.0.1	mdycare.help
+127.0.0.1	hblive.help
+127.0.0.1	rose-pole-chip.pages.dev
+127.0.0.1	sugarpotfun.fly.storage.tigris.dev
+127.0.0.1	vendictio.com
+127.0.0.1	manwithedhelp.top
+127.0.0.1	jiezishijie.top
+127.0.0.1	security.gwardfilaer.com
+127.0.0.1	hopeldo.com
+127.0.0.1	security.flmesecgaurd.com
+127.0.0.1	fermigz.com
+127.0.0.1	security.falagyrarde.com
+127.0.0.1	oldinax.com
+127.0.0.1	security.folagaiurd.com
+127.0.0.1	nenilac.com
+127.0.0.1	analyticacnodec.com
+127.0.0.1	security.flwcereguaard.com
+127.0.0.1	tepolix.com
+127.0.0.1	security.fleapecguadr.com
+127.0.0.1	repoloik.com
+127.0.0.1	security.gvaerdflarle.com
+127.0.0.1	kapoleq.com
+127.0.0.1	security.fanlareguward.com
+127.0.0.1	holandeso.com
+127.0.0.1	security.fhaugaaurd.com
+127.0.0.1	nenopizo.com
+127.0.0.1	lebensversicherungvergleich.top
+127.0.0.1	javiergomezmontero.eu
+127.0.0.1	gtl.ci
+127.0.0.1	madeinci.ci
+127.0.0.1	retcap.eu
+127.0.0.1	bleulab.ci
+127.0.0.1	ardiellifornasa.ge
+127.0.0.1	clasoftmedia.ci
+127.0.0.1	centroecoformativosanmartin.eu
+127.0.0.1	gomezmontero.eu
+127.0.0.1	rafelink.life
+127.0.0.1	cloudflare.blazing-cloud.com
+127.0.0.1	security.fjarlegiuard.com
+127.0.0.1	noswexa.com
+127.0.0.1	buildingjobs.xyz
+127.0.0.1	ignifugacionsarguix.com
+127.0.0.1	alekzhero.no-ip.org
+127.0.0.1	fnahaga-41990.portmap.io
+127.0.0.1	yessir12.duckdns.org
+127.0.0.1	karenmuir.hopto.org
+127.0.0.1	anonuevovidanueva20212021.duckdns.org
+127.0.0.1	guardameplata.kozow.com
+127.0.0.1	www.haoxueaibang.com
 127.0.0.1	inventscience.st
 127.0.0.1	gh.optionchain.dpdns.org
 127.0.0.1	vmi2330570.contaboserver.net
@@ -66966,48 +67016,4 @@
 127.0.0.1	content.upgrade1.zip
 127.0.0.1	accounts.youtube.upgrade1.zip
 127.0.0.1	apis.upgrade1.zip
-127.0.0.1	sensatiogener.sbs
-127.0.0.1	bellgoodysu.cyou
-127.0.0.1	purringsawwyuz.cyou
-127.0.0.1	aggresiwevommen.cyou
-127.0.0.1	clammyrobiny.cyou
-127.0.0.1	glibvisitiru.click
-127.0.0.1	writerendangez.click
-127.0.0.1	smootycomper.click
-127.0.0.1	givecuubys.click
-127.0.0.1	comptetscant.shop
-127.0.0.1	imitiatcarvvh.shop
-127.0.0.1	steepfright.shop
-127.0.0.1	bikedtwittg.shop
-127.0.0.1	joinresperct.shop
-127.0.0.1	imperialmaru.shop
-127.0.0.1	coattoystreet.shop
-127.0.0.1	kidimprinyj.shop
-127.0.0.1	stewkickyuope.shop
-127.0.0.1	weardawwerz.shop
-127.0.0.1	permussiduebuz.shop
-127.0.0.1	voyageprivato.bond
-127.0.0.1	skistarteriz.bond
-127.0.0.1	yndo-pepper.bond
-127.0.0.1	cz41806.tw1.ru
-127.0.0.1	gaming0558.mygamesonline.org
-127.0.0.1	cv38351.tw1.ru
-127.0.0.1	a1075712.xsph.ru
-127.0.0.1	thirtevv13fr.top
-127.0.0.1	twelveuu12th.top
-127.0.0.1	fivess5sb.top
-127.0.0.1	levels-lcd.gl.at.ply.gg
-127.0.0.1	yet-involving.gl.at.ply.gg
-127.0.0.1	kela-vahvistaa.net
-127.0.0.1	deedcompetlk.cyou
-127.0.0.1	fnnkcnemajnnaja.top
-127.0.0.1	confidespill.top
-127.0.0.1	vladimir-ulyanov.com
-127.0.0.1	post-to-me.com
-127.0.0.1	jammy-crusher.bond
-127.0.0.1	ssx.is
-127.0.0.1	homekoen.uswin.com.tr
-127.0.0.1	ie-serving.gl.at.ply.gg
-127.0.0.1	103-152-254-149.cprapid.com
-127.0.0.1	piaozz.vip
-# Number of entries: 67004
+# Number of entries: 67010
