@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-19 18:02:05 UTC                        #
+# Last updated: 2025-07-20 02:48:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tip.emailsv.org
 127.0.0.1	startitit2-23969.portmap.host
 127.0.0.1	mail-eco.gl.at.ply.gg
 127.0.0.1	jptech202.ddnsking.com
@@ -67103,8 +67104,4 @@
 127.0.0.1	solve.hhxe.org
 127.0.0.1	store-locator.org
 127.0.0.1	rednosehorse.com
-127.0.0.1	node1.playpokeninjas.com
-127.0.0.1	portaal-belastingdienst.info
-127.0.0.1	www.gstatic.upgrade1.zip
-127.0.0.1	aadcdn.microsoft-onedrive.upgrade1.zip
-# Number of entries: 67101
+# Number of entries: 67098
