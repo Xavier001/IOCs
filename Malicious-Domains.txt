@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-20 20:01:13 UTC                        #
+# Last updated: 2025-07-21 00:01:08 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	vmi2586980.contaboserver.net
 127.0.0.1	willbayley.com
 127.0.0.1	carbonxiv.ooguy.com
 127.0.0.1	luisnicaragua.zapto.org
@@ -65956,13 +65957,4 @@
 127.0.0.1	yokecarvekio.cyou
 127.0.0.1	youngsweays.my
 127.0.0.1	letsago.freemyip.com
-127.0.0.1	online-veiligdoorverbinden.com
-127.0.0.1	indiana317.com
-127.0.0.1	ledger-manage.com
-127.0.0.1	p2fverifynow.com
-127.0.0.1	pagesupport-activation.net
-127.0.0.1	panel.zackaria.net
-127.0.0.1	at-port.net
-127.0.0.1	gotoolinks.org
-127.0.0.1	hh.ltsc.name
-# Number of entries: 65959
+# Number of entries: 65951
