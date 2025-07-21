@@ -1,11 +1,27 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-21 00:01:08 UTC                        #
+# Last updated: 2025-07-21 06:45:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	broker.nm.xevil.cn
+127.0.0.1	vault-360-nexus.com
+127.0.0.1	theblumiles.com
+127.0.0.1	misshon.com
+127.0.0.1	goatramz.com
+127.0.0.1	couriontesy.com
+127.0.0.1	jupagroup.com
+127.0.0.1	vivianvalora.com
+127.0.0.1	redempti.com
+127.0.0.1	laccalhdc.com
+127.0.0.1	ekochist.com
+127.0.0.1	scygas.com
+127.0.0.1	aspotan.com
+127.0.0.1	memory-julia.gl.at.ply.gg
+127.0.0.1	person-consumer.gl.at.ply.gg
+127.0.0.1	profile-indians.gl.at.ply.gg
 127.0.0.1	vmi2586980.contaboserver.net
 127.0.0.1	willbayley.com
 127.0.0.1	carbonxiv.ooguy.com
@@ -65930,31 +65946,4 @@
 127.0.0.1	cdn.saycold.com
 127.0.0.1	apiapi.fdsfdsdfdsf.co
 127.0.0.1	50r4nny5m9wtm.cfc-execute.bj.baidubce.com
-127.0.0.1	solve.pvsu.org
-127.0.0.1	awake-weaves.cyou
-127.0.0.1	sordid-snaked.cyou
-127.0.0.1	demeijer.cfd
-127.0.0.1	praanic.cfd
-127.0.0.1	floratechnology.live
-127.0.0.1	bitcoin4u.store
-127.0.0.1	alibababet.space
-127.0.0.1	rtpneraca69.site
-127.0.0.1	firstcoltd.com
-127.0.0.1	dirtysocks.phd
-127.0.0.1	cpcalendars.firstcoltd.com
-127.0.0.1	mail.firstcoltd.com
-127.0.0.1	floratechnology.live
-127.0.0.1	entrarviaverde.com
-127.0.0.1	pitchbookfinance.co
-127.0.0.1	floratrans.live
-127.0.0.1	lfissrtg.rest
-127.0.0.1	ijthear.cyou
-127.0.0.1	ec2-18-183-60-128.ap-northeast-1.compute.amazonaws.com
-127.0.0.1	www.receive.llc
-127.0.0.1	solve.xtxy.org
-127.0.0.1	craveinjuur.shop
-127.0.0.1	contractsmell.cyou
-127.0.0.1	yokecarvekio.cyou
-127.0.0.1	youngsweays.my
-127.0.0.1	letsago.freemyip.com
-# Number of entries: 65951
+# Number of entries: 65940
