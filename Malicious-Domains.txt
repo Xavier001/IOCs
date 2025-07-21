@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-21 06:45:47 UTC                        #
+# Last updated: 2025-07-21 12:01:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ptdpro-46069.portmap.host
+127.0.0.1	login.login.x-fit.ch
+127.0.0.1	dozyremco.sbs
+127.0.0.1	donjhkkr.kicks-ass.org
+127.0.0.1	www.bakerhughas.com
+127.0.0.1	www.lcdlcds.com
+127.0.0.1	www.campoyitierra.com
+127.0.0.1	fee-largest.gl.at.ply.gg
+127.0.0.1	heqcare.help
+127.0.0.1	aslive.help
 127.0.0.1	broker.nm.xevil.cn
 127.0.0.1	vault-360-nexus.com
 127.0.0.1	theblumiles.com
@@ -65946,4 +65956,4 @@
 127.0.0.1	cdn.saycold.com
 127.0.0.1	apiapi.fdsfdsdfdsf.co
 127.0.0.1	50r4nny5m9wtm.cfc-execute.bj.baidubce.com
-# Number of entries: 65940
+# Number of entries: 65950
