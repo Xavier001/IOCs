@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-22 09:21:28 UTC                        #
+# Last updated: 2025-07-22 12:11:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bkp.mail.organica.tv
+127.0.0.1	kinky82.zapto.org
+127.0.0.1	phephelipinho.no-ip.org
+127.0.0.1	mar-vietnamese.gl.at.ply.gg
+127.0.0.1	procesos2025.duckdns.org
+127.0.0.1	republic-ins.gl.at.ply.gg
+127.0.0.1	photography-tools.gl.at.ply.gg
+127.0.0.1	genusuvk.xyz
+127.0.0.1	keepnody.top
+127.0.0.1	mosaicia.top
+127.0.0.1	familkqo.xyz
+127.0.0.1	headtechnologies.xyz
+127.0.0.1	clientes.sangrecreativa.com
 127.0.0.1	www.split2econd.com
 127.0.0.1	mysticaltrekking.com
 127.0.0.1	www.airdriediamondcabs.ca
@@ -65852,8 +65865,4 @@
 127.0.0.1	fuck.looklook13.sbs
 127.0.0.1	clould.ip-ddns.com
 127.0.0.1	api.wlndows.net
-127.0.0.1	kdjdajdijijff.com
-127.0.0.1	skatteverkett.com
-127.0.0.1	kosha.cbu.net
-127.0.0.1	sendandendco.dynu.net
-# Number of entries: 65850
+# Number of entries: 65859
