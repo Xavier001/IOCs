@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-21 18:01:15 UTC                        #
+# Last updated: 2025-07-22 03:10:26 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	s2.mx.mottogrotto.com
+127.0.0.1	caq71hz7x2ccj.cfc-execute.bj.baidubce.com
+127.0.0.1	zereoo.zapto.org
+127.0.0.1	zereoo.duckdns.org
 127.0.0.1	snitch2025.pagekite.me
 127.0.0.1	silver-teaching.gl.at.ply.gg
 127.0.0.1	testinghigger-42471.portmap.host
@@ -65860,4 +65864,4 @@
 127.0.0.1	nhjndjemlimakmk.top
 127.0.0.1	ikebnbckbjlmfjf.top
 127.0.0.1	gbkiafbmhbmbkkl.top
-# Number of entries: 65854
+# Number of entries: 65858
