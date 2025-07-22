@@ -1,11 +1,33 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-22 12:11:03 UTC                        #
+# Last updated: 2025-07-22 20:49:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.goodle.cyou
+127.0.0.1	s798860.foxcdn.net
+127.0.0.1	ns2.vmupdate.org
+127.0.0.1	ns1.vmupdate.org
+127.0.0.1	heo.ddns.net
+127.0.0.1	selection-links.gl.at.ply.gg
+127.0.0.1	ygfbasync.duckdns.org
+127.0.0.1	tvsanarch.duckdns.org
+127.0.0.1	venomfhd.duckdns.org
+127.0.0.1	reservamarina0011.duckdns.org
+127.0.0.1	test.www.organica.tv
+127.0.0.1	arb-swap.net
+127.0.0.1	brainbotfilebeatsave.com
+127.0.0.1	vericlyd.com
+127.0.0.1	genuschs.top
+127.0.0.1	throseu.shop
+127.0.0.1	djibbg.shop
+127.0.0.1	world-safest.asia
+127.0.0.1	teplinks.co.ke
+127.0.0.1	calc.diversifieddebtsolutions.com
+127.0.0.1	rubidin.top
+127.0.0.1	download.microsoftwindows.biz
 127.0.0.1	bkp.mail.organica.tv
 127.0.0.1	kinky82.zapto.org
 127.0.0.1	phephelipinho.no-ip.org
@@ -65826,43 +65848,4 @@
 127.0.0.1	tenuu10th.top
 127.0.0.1	thirteuu12th.top
 127.0.0.1	twelvii12vt.top
-127.0.0.1	versedkinfe.sbs
-127.0.0.1	reflecpolit.shop
-127.0.0.1	markedgroud.shop
-127.0.0.1	it-ords.ru
-127.0.0.1	dimksseo.beget.tech
-127.0.0.1	cj79318.tw1.ru
-127.0.0.1	dimkssfx.beget.tech
-127.0.0.1	a1076853.xsph.ru
-127.0.0.1	thirtii13vt.top
-127.0.0.1	yogeshlond.cfd
-127.0.0.1	hdking.cfd
-127.0.0.1	bfgnet.cfd
-127.0.0.1	explosem.cfd
-127.0.0.1	shaileshvisionaryastrologer.com
-127.0.0.1	meming-28826.portmap.host
-127.0.0.1	ns2.zonstcom.com
-127.0.0.1	ns1.zonstcom.com
-127.0.0.1	vglweb.com
-127.0.0.1	ensentoto.cloud
-127.0.0.1	www.idrift.net
-127.0.0.1	emza.xyz
-127.0.0.1	wiftly.company
-127.0.0.1	mindap.xyz
-127.0.0.1	ng.623866.xyz
-127.0.0.1	ad-stayed.gl.at.ply.gg
-127.0.0.1	publication-glossary.gl.at.ply.gg
-127.0.0.1	station-gps.gl.at.ply.gg
-127.0.0.1	simply-exotic.gl.at.ply.gg
-127.0.0.1	tlfiyat.shop
-127.0.0.1	liveskortv.icu
-127.0.0.1	teamt.com
-127.0.0.1	embabirealestate.com
-127.0.0.1	prihodafabricduct.com
-127.0.0.1	mspexteriors.com
-127.0.0.1	ceresenvironmental.com
-127.0.0.1	www.groundonemn.com
-127.0.0.1	fuck.looklook13.sbs
-127.0.0.1	clould.ip-ddns.com
-127.0.0.1	api.wlndows.net
-# Number of entries: 65859
+# Number of entries: 65842
