@@ -65829,23 +65829,4 @@
 127.0.0.1	sbdar.com
 127.0.0.1	asping.klipnozenui.shop
 127.0.0.1	bit.kliplubuziy.shop
-127.0.0.1	market-streams.com
-127.0.0.1	video.on-demand.market-streams.com
-127.0.0.1	cloud.services.market-streams.com
-127.0.0.1	static.nowdealtech.online
-127.0.0.1	m.nowdealtech.online
-127.0.0.1	thirtyss13sb.top
-127.0.0.1	twelvpp12vs.top
-127.0.0.1	twenss20sb.top
-127.0.0.1	elevenqq11vt.top
-127.0.0.1	tenvv10fr.top
-127.0.0.1	elevenpp11vs.top
-127.0.0.1	tenii10vt.top
-127.0.0.1	niness9sb.top
-127.0.0.1	ninevv9fr.top
-127.0.0.1	oness1sb.top
-127.0.0.1	tenpp10vs.top
-127.0.0.1	tenuu10th.top
-127.0.0.1	thirteuu12th.top
-127.0.0.1	twelvii12vt.top
-# Number of entries: 65842
+# Number of entries: 65823
