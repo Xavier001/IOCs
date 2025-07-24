@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-23 20:02:04 UTC                        #
+# Last updated: 2025-07-24 04:01:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	fast.mirzazizo.https443.net
+127.0.0.1	bxmv1taxbxr8p.cfc-execute.bj.baidubce.com
+127.0.0.1	main.db.review.digital
+127.0.0.1	accounts.secure-verifications.es
 127.0.0.1	23-92-20-65.ip.linodeusercontent.com
 127.0.0.1	t.ptib.su
 127.0.0.1	test.c2test.cn
@@ -65578,5 +65582,4 @@
 127.0.0.1	priolonis.host
 127.0.0.1	whoisther.com
 127.0.0.1	royalsailtravel.ru
-127.0.0.1	outlook.microsoft-onedrive.upgrade1.zip
-# Number of entries: 65573
+# Number of entries: 65576
