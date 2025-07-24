@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-24 09:44:44 UTC                        #
+# Last updated: 2025-07-24 12:01:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	spain-posters.gl.at.ply.gg
+127.0.0.1	biotec-imc.xyz
+127.0.0.1	kreon.one
+127.0.0.1	siltapl.fun
+127.0.0.1	potosuz.fun
+127.0.0.1	wagnvp.fun
 127.0.0.1	royaltbn.xyz
 127.0.0.1	columnez.shop
 127.0.0.1	mixp.digital
@@ -65828,11 +65834,4 @@
 127.0.0.1	eddd.ultihost.net
 127.0.0.1	solve.gyke.org
 127.0.0.1	apiapi.it121fdg.com
-127.0.0.1	bot.dstat.ovh
-127.0.0.1	travelbrands.onboarding-support.com
-127.0.0.1	indybike.shop
-127.0.0.1	xmm.register.below
-127.0.0.1	cimedaorb.pw
-127.0.0.1	dluow.pw
-127.0.0.1	gnirra.pw
-# Number of entries: 65829
+# Number of entries: 65828
