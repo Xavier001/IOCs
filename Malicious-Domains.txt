@@ -1,11 +1,39 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-25 04:01:36 UTC                        #
+# Last updated: 2025-07-25 10:20:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	log-bi.gl.at.ply.gg
+127.0.0.1	nortlmm.com
+127.0.0.1	molefkx.com
+127.0.0.1	sponfht.com
+127.0.0.1	runuxs.org
+127.0.0.1	follcp.org
+127.0.0.1	remotuw.org
+127.0.0.1	boltex.net
+127.0.0.1	detrewb.net
+127.0.0.1	berijng.net
+127.0.0.1	mx.smtp.review.digital
+127.0.0.1	neocskfj.lol
+127.0.0.1	pulsarrr-33300.portmap.io
+127.0.0.1	procesosnew07.mysynology.net
+127.0.0.1	heheszon-32961.portmap.io
+127.0.0.1	inspector.gl.at.ply.gg
+127.0.0.1	ceb2069bc35e64.lhr.life
+127.0.0.1	facilities-queen.gl.at.ply.gg
+127.0.0.1	perpenab.icu
+127.0.0.1	onyxistn.bet
+127.0.0.1	keulkgl.fun
+127.0.0.1	passoverstruck.top
+127.0.0.1	vericloudix.com
+127.0.0.1	veriqcloud.com
+127.0.0.1	analyticssnoden.com
+127.0.0.1	security.flioreshielld.com
+127.0.0.1	homsertip.com
+127.0.0.1	ecs-1-94-134-161.compute.hwclouds-dns.com
 127.0.0.1	ec2-35-180-234-10.eu-west-3.compute.amazonaws.com
 127.0.0.1	pasttslv.click
 127.0.0.1	choice.ydns.eu
@@ -65642,20 +65670,4 @@
 127.0.0.1	mint-stealer.sh
 127.0.0.1	support.sftech.one
 127.0.0.1	ecs-121-36-198-211.compute.hwclouds-dns.com
-127.0.0.1	navylk.webmailarmy.com
-127.0.0.1	ww5.fithiphealthy.com
-127.0.0.1	showviteadobe.com
-127.0.0.1	siste-nytt.com
-127.0.0.1	indianaroadassist.com
-127.0.0.1	zk-drop.com
-127.0.0.1	trumpclaim.org
-127.0.0.1	wy.gyhx.xyz
-127.0.0.1	l3mon.dailycheapdeals.com
-127.0.0.1	mail.mindfulinvoice.online
-127.0.0.1	strattchboster.cyou
-127.0.0.1	oweshaggyerbe.cyou
-127.0.0.1	oj42315j346ng2134.myvnc.com
-127.0.0.1	countefireman.cyou
-127.0.0.1	hookmowerz.cyou
-127.0.0.1	emptytoyreor.cyou
-# Number of entries: 65652
+# Number of entries: 65664
