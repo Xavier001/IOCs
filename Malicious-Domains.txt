@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-24 20:35:33 UTC                        #
+# Last updated: 2025-07-25 04:01:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ec2-35-180-234-10.eu-west-3.compute.amazonaws.com
+127.0.0.1	pasttslv.click
 127.0.0.1	choice.ydns.eu
 127.0.0.1	fadingannk.xyz
 127.0.0.1	anasofia.duckdns.org
@@ -65656,9 +65658,4 @@
 127.0.0.1	countefireman.cyou
 127.0.0.1	hookmowerz.cyou
 127.0.0.1	emptytoyreor.cyou
-127.0.0.1	viraluxstore.com
-127.0.0.1	autodiscover.fithiphealthy.com
-127.0.0.1	static.it-sharepoint.com
-127.0.0.1	ads.it-sharepoint.com
-127.0.0.1	adviseur-oakk.nl
-# Number of entries: 65655
+# Number of entries: 65652
