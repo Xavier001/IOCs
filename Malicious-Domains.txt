@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-26 08:35:56 UTC                        #
+# Last updated: 2025-07-26 12:01:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	vigorous-vaughan.206-123-128-81.plesk.page
+127.0.0.1	mosasil583-48581.portmap.host
+127.0.0.1	existing-vincent.gl.at.ply.gg
+127.0.0.1	ds.web.review.technology
 127.0.0.1	cousmf.lat
 127.0.0.1	sabrkqw.lol
 127.0.0.1	rndge-2a00-102a-506d-54c6-34d9-4f5e-8f2a-2e91.a.free.pinggy.link
@@ -65493,5 +65497,4 @@
 127.0.0.1	beachviopeo.top
 127.0.0.1	armysmootevop.top
 127.0.0.1	stam.nactrace.com
-127.0.0.1	annetteborn.info
-# Number of entries: 65488
+# Number of entries: 65491
