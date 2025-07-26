@@ -1,11 +1,27 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-26 12:01:23 UTC                        #
+# Last updated: 2025-07-26 18:49:16 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dns2.fjhfkjgfoufruyduyd.org
+127.0.0.1	dns1.fjhfkjgfoufruyduyd.org
+127.0.0.1	helpfandaven.org
+127.0.0.1	ploatvoatin.ydns.eu
+127.0.0.1	floataboat.strangled.net
+127.0.0.1	ethefi.org
+127.0.0.1	hawla2016.hopto.org
+127.0.0.1	updateservice.bounceme.net
+127.0.0.1	ccc1qarush1ccc.no-ip.org
+127.0.0.1	uku8541.top
+127.0.0.1	kingmalkawe8.no-ip.biz
+127.0.0.1	learn-springfield.gl.at.ply.gg
+127.0.0.1	vpn-vds22.eleos.pro
+127.0.0.1	states-jc.gl.at.ply.gg
+127.0.0.1	ossyqztest.oss-cn-beijing.aliyuncs.com
+127.0.0.1	cioud.nsebseshop.cloud
 127.0.0.1	vigorous-vaughan.206-123-128-81.plesk.page
 127.0.0.1	mosasil583-48581.portmap.host
 127.0.0.1	existing-vincent.gl.at.ply.gg
@@ -65471,30 +65487,4 @@
 127.0.0.1	mail.fithiphealthy.com
 127.0.0.1	caa9.ecologyqf.com
 127.0.0.1	www.comitia.online
-127.0.0.1	phobicharmno.shop
-127.0.0.1	leerborisup.shop
-127.0.0.1	a1076119.xsph.ru
-127.0.0.1	a1067734.xsph.ru
-127.0.0.1	a1078067.xsph.ru
-127.0.0.1	ponos228.mywebcommunity.org
-127.0.0.1	a1031033.xsph.ru
-127.0.0.1	a1078153.xsph.ru
-127.0.0.1	14881cm.darkproducts.ru
-127.0.0.1	fivemm5fr.top
-127.0.0.1	frtmm14fr.top
-127.0.0.1	twntmm20fr.top
-127.0.0.1	chat.pythondeveloperonline.ir
-127.0.0.1	understand-drugs.gl.at.ply.gg
-127.0.0.1	network-shakespeare.gl.at.ply.gg
-127.0.0.1	downlogz.info
-127.0.0.1	caplinks.buzz
-127.0.0.1	bunzpowe.info
-127.0.0.1	severgreys.info
-127.0.0.1	162-33-178-135.cprapid.com
-127.0.0.1	mail.162-33-178-135.cprapid.com
-127.0.0.1	craftscapes.info
-127.0.0.1	thefashionist.top
-127.0.0.1	beachviopeo.top
-127.0.0.1	armysmootevop.top
-127.0.0.1	stam.nactrace.com
-# Number of entries: 65491
+# Number of entries: 65481
