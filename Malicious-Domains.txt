@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-25 18:48:28 UTC                        #
+# Last updated: 2025-07-26 02:48:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	web.vnpti.uk
+127.0.0.1	5ndg65b68274v.cfc-execute.bj.baidubce.com
 127.0.0.1	1318387972-34ie6xy56d.ap-guangzhou.tencentscf.com
 127.0.0.1	parischor.duckdns.org
 127.0.0.1	private.dynuddns.net
@@ -65612,12 +65614,4 @@
 127.0.0.1	anldfaggmdbglen.top
 127.0.0.1	heavyraintoday.com
 127.0.0.1	heavyraintoday.net
-127.0.0.1	cpcontacts.fithiphealthy.com
-127.0.0.1	mail.185-196-8-68.cprapid.com
-127.0.0.1	testeold.duckdns.org
-127.0.0.1	server.omidnerd.ir
-127.0.0.1	khs.parkeermijnsite.nl
-127.0.0.1	nfcuaccounthelp.net
-127.0.0.1	ns2.nactrace.com
-127.0.0.1	ns1.nactrace.com
-# Number of entries: 65614
+# Number of entries: 65608
