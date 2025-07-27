@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-26 18:49:16 UTC                        #
+# Last updated: 2025-07-26 23:10:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	xt.dev.review.technology
 127.0.0.1	dns2.fjhfkjgfoufruyduyd.org
 127.0.0.1	dns1.fjhfkjgfoufruyduyd.org
 127.0.0.1	helpfandaven.org
@@ -65484,7 +65485,4 @@
 127.0.0.1	solve.lqwt.org
 127.0.0.1	sazgig.ddns.net
 127.0.0.1	zunteer.zzux.com
-127.0.0.1	mail.fithiphealthy.com
-127.0.0.1	caa9.ecologyqf.com
-127.0.0.1	www.comitia.online
-# Number of entries: 65481
+# Number of entries: 65479
