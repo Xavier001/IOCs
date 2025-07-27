@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-27 08:02:21 UTC                        #
+# Last updated: 2025-07-27 12:01:34 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mail.letlama.com
+127.0.0.1	mareczek123-27222.portmap.host
 127.0.0.1	smp.rodeo
 127.0.0.1	xurekodip.com
 127.0.0.1	utvp1.net
@@ -65455,12 +65457,4 @@
 127.0.0.1	adsdadbp.beget.tech
 127.0.0.1	holdabchoneypots.p-e.kr
 127.0.0.1	app.connectect.nl
-127.0.0.1	bparibas-oppositions.com
-127.0.0.1	shpylink.com
-127.0.0.1	kobo2025rmc.duckdns.org
-127.0.0.1	roblox.airdns.org
-127.0.0.1	gregarded.website
-127.0.0.1	poperitte.host
-127.0.0.1	suprecien.host
-127.0.0.1	wedrain.buzz
-# Number of entries: 65457
+# Number of entries: 65451
