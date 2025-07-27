@@ -1,11 +1,25 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-27 12:01:34 UTC                        #
+# Last updated: 2025-07-27 19:25:53 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	lol.0x504.com
+127.0.0.1	botnet.iris-security.xyz
+127.0.0.1	api.hammz.kapakhost.my.id
+127.0.0.1	www.ddos678.com
+127.0.0.1	electronics-peaceful.gl.at.ply.gg
+127.0.0.1	database-bio.gl.at.ply.gg
+127.0.0.1	release-deficit.gl.at.ply.gg
+127.0.0.1	n-colony.gl.at.ply.gg
+127.0.0.1	between-tank.gl.at.ply.gg
+127.0.0.1	british-perfectly.gl.at.ply.gg
+127.0.0.1	brycedice0904-24065.portmap.host
+127.0.0.1	doneloby12131-39622.portmap.host
+127.0.0.1	xenquz-46850.portmap.host
+127.0.0.1	www.expects-crucial-pest-bubble.club
 127.0.0.1	mail.letlama.com
 127.0.0.1	mareczek123-27222.portmap.host
 127.0.0.1	smp.rodeo
@@ -65447,14 +65461,4 @@
 127.0.0.1	85-10-144-98.colo.transip.net
 127.0.0.1	omatomo.pp.ua
 127.0.0.1	aio-oc.net
-127.0.0.1	opticna.com
-127.0.0.1	pictureiol.top
-127.0.0.1	solve.dpqx.org
-127.0.0.1	hardware-proceeds.gl.at.ply.gg
-127.0.0.1	if-eventually.gl.at.ply.gg
-127.0.0.1	authmgv.info
-127.0.0.1	pwedereihge.shop
-127.0.0.1	adsdadbp.beget.tech
-127.0.0.1	holdabchoneypots.p-e.kr
-127.0.0.1	app.connectect.nl
-# Number of entries: 65451
+# Number of entries: 65455
