@@ -1,11 +1,30 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-29 02:48:50 UTC                        #
+# Last updated: 2025-07-29 08:19:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	lfv1zhpwz.localto.net
+127.0.0.1	ec2-3-19-222-192.us-east-2.compute.amazonaws.com
+127.0.0.1	monclerjackets.top
+127.0.0.1	server-cd2.bipewi2747.workers.dev
+127.0.0.1	security.fluargueds.com
+127.0.0.1	menpogisa.com
+127.0.0.1	ex-02.ankk.uk
+127.0.0.1	includes-net.gl.at.ply.gg
+127.0.0.1	ansy25jul.duckdns.org
+127.0.0.1	luisd444.duckdns.org
+127.0.0.1	crrypte-23119.portmap.io
+127.0.0.1	animal-expressions.gl.at.ply.gg
+127.0.0.1	effective-psychological.gl.at.ply.gg
+127.0.0.1	children-hughes.gl.at.ply.gg
+127.0.0.1	myth0249-43397.portmap.io
+127.0.0.1	zxcmisha5963-26454.portmap.host
+127.0.0.1	test-mariah.gl.at.ply.gg
+127.0.0.1	v4lcs-58756.portmap.host
+127.0.0.1	previous-vietnamese.gl.at.ply.gg
 127.0.0.1	test111-1302872009.cos.ap-shanghai.myqcloud.com
 127.0.0.1	edufinder.ir
 127.0.0.1	logrecovery.com
@@ -65560,30 +65579,4 @@
 127.0.0.1	akmcons.com
 127.0.0.1	vps-zap984637-1.zap-srv.com
 127.0.0.1	solve.eyuy.org
-127.0.0.1	solve.uayy.org
-127.0.0.1	solve.yiie.org
-127.0.0.1	emorista.org
-127.0.0.1	patchpharos.com
-127.0.0.1	srgsougshfouaoehfagdhae.net
-127.0.0.1	ouauooaoaoeeutr.io
-127.0.0.1	fmnljjmaeihehge.top
-127.0.0.1	solve.rywi.org
-127.0.0.1	workedeatch.biz
-127.0.0.1	spottyalle.biz
-127.0.0.1	recordeperishi.biz
-127.0.0.1	muscleinitai.biz
-127.0.0.1	miniattured.biz
-127.0.0.1	friencontorle.biz
-127.0.0.1	lieneedles.biz
-127.0.0.1	extendequeai.biz
-127.0.0.1	classifyagnru.biz
-127.0.0.1	antynewwr.biz
-127.0.0.1	naturelovetop.top
-127.0.0.1	thehealthylifesstop.top
-127.0.0.1	uniquetopstop.top
-127.0.0.1	wellnessretreatstop.top
-127.0.0.1	subscribe.bigeznola.com
-127.0.0.1	wxhqyfpygelt.shop
-127.0.0.1	www.grupodulcemar.pe
-127.0.0.1	twizt.net
-# Number of entries: 65580
+# Number of entries: 65573
