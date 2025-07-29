@@ -1,11 +1,23 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-29 08:19:11 UTC                        #
+# Last updated: 2025-07-29 12:02:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	14733sss.icu
+127.0.0.1	h43-74.fcsrv.net
+127.0.0.1	effect-bedroom.gl.at.ply.gg
+127.0.0.1	lopez789.kozow.com
+127.0.0.1	bigbelly042.duckdns.org
+127.0.0.1	daily-iraqi.gl.at.ply.gg
+127.0.0.1	mrowx.gaclassics.com
+127.0.0.1	modified-rebecca.gl.at.ply.gg
+127.0.0.1	prakashjadhav74738.ddns.net
+127.0.0.1	legalharuka.com
+127.0.0.1	hoverk.club
+127.0.0.1	meme8.work.gd
 127.0.0.1	lfv1zhpwz.localto.net
 127.0.0.1	ec2-3-19-222-192.us-east-2.compute.amazonaws.com
 127.0.0.1	monclerjackets.top
@@ -65576,7 +65588,4 @@
 127.0.0.1	patientlo.top
 127.0.0.1	piloferstaf.com
 127.0.0.1	ypredoninen.com
-127.0.0.1	akmcons.com
-127.0.0.1	vps-zap984637-1.zap-srv.com
-127.0.0.1	solve.eyuy.org
-# Number of entries: 65573
+# Number of entries: 65582
