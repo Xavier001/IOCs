@@ -1,11 +1,26 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-30 09:10:36 UTC                        #
+# Last updated: 2025-07-30 12:05:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	lb.twilight.zip
+127.0.0.1	umsss-31458.portmap.io
+127.0.0.1	memoryhighan.com
+127.0.0.1	mohxmaya.top
+127.0.0.1	web.colour.fund
+127.0.0.1	web.vdh-solutions.be
+127.0.0.1	fokamoland.stufftoread.com
+127.0.0.1	rla.lessentoerisme.be
+127.0.0.1	muadsd.mywire.org
+127.0.0.1	ci.yourcontentishere.com
+127.0.0.1	babylon987.duckdns.org
+127.0.0.1	longlife.theworkpc.com
+127.0.0.1	xwormlogs8.duckdns.org
+127.0.0.1	focus-princeton.gl.at.ply.gg
+127.0.0.1	fuckrat.ru
 127.0.0.1	1.www.richinimpianti.cloud
 127.0.0.1	xx.xinxiangnancs.com
 127.0.0.1	cezgroup.contact
@@ -65610,86 +65625,4 @@
 127.0.0.1	igwerat.no-ip.biz
 127.0.0.1	cryptoid.bounceme.net
 127.0.0.1	pan0s69.zapto.org
-127.0.0.1	panzerknacker.no-ip.biz
-127.0.0.1	omerkhh.no-ip.biz
-127.0.0.1	pokerking.dyndns.biz
-127.0.0.1	hype0405.no-ip.biz
-127.0.0.1	silentassault.no-ip.biz
-127.0.0.1	webhoster89.zapto.org
-127.0.0.1	lepra.sytes.net
-127.0.0.1	timafia.no-ip.org
-127.0.0.1	limgeoffrey.no-ip.biz
-127.0.0.1	w510.no-ip.info
-127.0.0.1	cybercharlie.servebeer.com
-127.0.0.1	omarv2.no-ip.biz
-127.0.0.1	snkbeatsyou.no-ip.biz
-127.0.0.1	nums9t.hopto.org
-127.0.0.1	kizlar.no-ip.biz
-127.0.0.1	viceroy.no-ip.biz
-127.0.0.1	immi.no-ip.org
-127.0.0.1	dst-marex.zapto.org
-127.0.0.1	zakacinho.no-ip.biz
-127.0.0.1	xxxnullpasswordxxx.no-ip.biz
-127.0.0.1	fbilammer.no-ip.org
-127.0.0.1	modolla.no-ip.biz
-127.0.0.1	cbxbxcb02.no-ip.biz
-127.0.0.1	rashid001butt.no-ip.biz
-127.0.0.1	devr.no-ip.org
-127.0.0.1	midsamir.no-ip.biz
-127.0.0.1	brokenheart55.no-ip.org
-127.0.0.1	hacking22.no-ip.org
-127.0.0.1	marcos11.no-ip.org
-127.0.0.1	uglystories.dyndns.ws
-127.0.0.1	idontexist.no-ip.info
-127.0.0.1	wechrak.no-ip.biz
-127.0.0.1	nicoyu.sytes.net
-127.0.0.1	ntdrl666.no-ip.org
-127.0.0.1	confirmpw.no-ip.org
-127.0.0.1	ali470.no-ip.biz
-127.0.0.1	skirma1111.no-ip.biz
-127.0.0.1	spider-fady.zapto.org
-127.0.0.1	juger.no-ip.biz
-127.0.0.1	xapt.no-ip.org
-127.0.0.1	zer.no-ip.org
-127.0.0.1	troxin1.zapto.org
-127.0.0.1	boivin.no-ip.biz
-127.0.0.1	cybergate.toxiic.info
-127.0.0.1	pedros47.no-ip.biz
-127.0.0.1	lim-geoffrey.no-ip.biz
-127.0.0.1	ece.no-ip.biz
-127.0.0.1	moharib.no-ip.info
-127.0.0.1	provetor.no-ip.biz
-127.0.0.1	muskelihiiri.no-ip.biz
-127.0.0.1	mattyserv2.no-ip.org
-127.0.0.1	hackerschool.zapto.org
-127.0.0.1	fakerr24.no-ip.biz
-127.0.0.1	moha-tktdu16.zapto.org
-127.0.0.1	cpanel.hackcrack.io
-127.0.0.1	suchbad-45151.portmap.host
-127.0.0.1	kkttyy.kro.kr
-127.0.0.1	jmryry.zapto.org
-127.0.0.1	janout21oadstse2.duckdns.org
-127.0.0.1	janout21oadstse4.duckdns.org
-127.0.0.1	janout21oadstse3.duckdns.org
-127.0.0.1	janout21oadstse1.duckdns.org
-127.0.0.1	www.imples.live
-127.0.0.1	www.lapostehotel.one
-127.0.0.1	www.ft0722a9usj38.shop
-127.0.0.1	www.yaqpqljcwmhesaj.buzz
-127.0.0.1	www.stove-10000.bond
-127.0.0.1	www.solar-systems-panels-50320.bond
-127.0.0.1	www.pgfnrecuperacao.store
-127.0.0.1	www.cg-qu.xyz
-127.0.0.1	www.c87xy374jt.bond
-127.0.0.1	www.2tdb3dk65m.skin
-127.0.0.1	www.030003741.xyz
-127.0.0.1	www.foziaclothing.shop
-127.0.0.1	www.nb-event-b2b.online
-127.0.0.1	www.son37.club
-127.0.0.1	www.gsolartech.com
-127.0.0.1	www.go88l.club
-127.0.0.1	www.douromaintenance.info
-127.0.0.1	www.trendy-style.store
-127.0.0.1	www.offersnow-store.shop
-127.0.0.1	www.eurosirel.info
-# Number of entries: 65686
+# Number of entries: 65619
