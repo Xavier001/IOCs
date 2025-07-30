@@ -1,11 +1,92 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-29 20:49:25 UTC                        #
+# Last updated: 2025-07-30 09:10:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	1.www.richinimpianti.cloud
+127.0.0.1	xx.xinxiangnancs.com
+127.0.0.1	cezgroup.contact
+127.0.0.1	stockwises.eu
+127.0.0.1	mailmaster.store
+127.0.0.1	security.flyaergyaurd.com
+127.0.0.1	gebraud.com
+127.0.0.1	prior-notification.gl.at.ply.gg
+127.0.0.1	sale-annie.gl.at.ply.gg
+127.0.0.1	windows-hold.gl.at.ply.gg
+127.0.0.1	anti-hardware.gl.at.ply.gg
+127.0.0.1	tesoro.dynuddns.com
+127.0.0.1	www.okglobalconcept.com
+127.0.0.1	www.okglobalconcept1.name
+127.0.0.1	remove-earnings.gl.at.ply.gg
+127.0.0.1	www.ynfyn.dev
+127.0.0.1	www.zruddot.vip
+127.0.0.1	www.oremotehiresquad.shop
+127.0.0.1	www.oterecs.net
+127.0.0.1	www.ountryside.camp
+127.0.0.1	www.p99k.top
+127.0.0.1	www.qzx00.top
+127.0.0.1	www.r811.top
+127.0.0.1	www.reatcustomersbonuses7.shop
+127.0.0.1	www.renkguds.africa
+127.0.0.1	www.s0ux2.top
+127.0.0.1	www.sd508.top
+127.0.0.1	www.slandworx.net
+127.0.0.1	www.slojy.vip
+127.0.0.1	www.socyipr.xyz
+127.0.0.1	www.stanbulfiboz.click
+127.0.0.1	www.sth9.motorcycles
+127.0.0.1	www.sy223.top
+127.0.0.1	www.tk2027.vip
+127.0.0.1	www.uro-bat.net
+127.0.0.1	www.wearitage.net
+127.0.0.1	www.witzeraccounting.net
+127.0.0.1	www.hykd7.xyz
+127.0.0.1	www.hyoka.shop
+127.0.0.1	www.icobrokers.cloud
+127.0.0.1	www.ictureterrific.top
+127.0.0.1	www.idaluxe.net
+127.0.0.1	www.ightspotusa.shop
+127.0.0.1	www.ingerie-79230.bond
+127.0.0.1	www.ingerie-91105.bond
+127.0.0.1	www.ini-shopping.shop
+127.0.0.1	www.insanuxiq38.top
+127.0.0.1	www.irtualchats.xyz
+127.0.0.1	www.jsq33.shop
+127.0.0.1	www.lestudy.shop
+127.0.0.1	www.lurpacks.shop
+127.0.0.1	www.milylambert.shop
+127.0.0.1	www.mkmku.shop
+127.0.0.1	www.ofa-br-89.today
+127.0.0.1	www.oodprincej.pro
+127.0.0.1	www.ordbar.net
+127.0.0.1	www.7fr2i.top
+127.0.0.1	www.9304.pro
+127.0.0.1	www.9807.vip
+127.0.0.1	www.a2r.vip
+127.0.0.1	www.addycasino-sek.top
+127.0.0.1	www.ae-muki.tech
+127.0.0.1	www.aiefk.top
+127.0.0.1	www.amepiece.net
+127.0.0.1	www.asino-pinco-5.top
+127.0.0.1	www.asinoheyroller.net
+127.0.0.1	www.avaplay.click
+127.0.0.1	www.c2687.top
+127.0.0.1	www.d-899b6.xyz
+127.0.0.1	www.ernelhub.dev
+127.0.0.1	www.etcofqur.shop
+127.0.0.1	www.hcic5.click
+127.0.0.1	www.hertve.xyz
+127.0.0.1	www.hp-asp.xyz
+127.0.0.1	www.0utzm.top
+127.0.0.1	www.2y.top
+127.0.0.1	www.55124.club
+127.0.0.1	www.5q.top
+127.0.0.1	www.7b0a0.click
+127.0.0.1	2825clerkenwell.com
+127.0.0.1	v4lcs-58756.portmap.io
 127.0.0.1	cf2.xinxiangnancs.com
 127.0.0.1	cc.xinxiangnancs.com
 127.0.0.1	meils.info
@@ -65611,15 +65692,4 @@
 127.0.0.1	www.trendy-style.store
 127.0.0.1	www.offersnow-store.shop
 127.0.0.1	www.eurosirel.info
-127.0.0.1	linux-submissions.gl.at.ply.gg
-127.0.0.1	gotob67920-30070.portmap.host
-127.0.0.1	me-teams.gl.at.ply.gg
-127.0.0.1	methods-rats.gl.at.ply.gg
-127.0.0.1	models-needed.gl.at.ply.gg
-127.0.0.1	original-structural.gl.at.ply.gg
-127.0.0.1	say-oops.gl.at.ply.gg
-127.0.0.1	wine-attractions.gl.at.ply.gg
-127.0.0.1	records-spank.gl.at.ply.gg
-127.0.0.1	bot.nulling.io
-127.0.0.1	panel.subdeew.site
-# Number of entries: 65616
+# Number of entries: 65686
