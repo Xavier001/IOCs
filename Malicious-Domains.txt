@@ -1,11 +1,44 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-31 04:21:18 UTC                        #
+# Last updated: 2025-07-31 09:28:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ego34.duckdns.org
+127.0.0.1	check-ringtones.gl.at.ply.gg
+127.0.0.1	gramkintil44.carapicuibacidade.sbs
+127.0.0.1	planfensul.santoscidade.sbs
+127.0.0.1	plininransar.carapicuibacidade.sbs
+127.0.0.1	plolinfil348.aracajucidade.sbs
+127.0.0.1	prasinsil00.aracajucidade.sbs
+127.0.0.1	prekil.londrinacidade.sbs
+127.0.0.1	presar.joinvillecidade.sbs
+127.0.0.1	screzinsanvel.serracidade.sbs
+127.0.0.1	scribil.serracidade.sbs
+127.0.0.1	sprutil50.santoscidade.sbs
+127.0.0.1	staral417.aparecidacidade.sbs
+127.0.0.1	stratenconpaz64.londrinacidade.sbs
+127.0.0.1	blucal.aparecidacidade.sbs
+127.0.0.1	dregonfil.feirasantanacidade.sbs
+127.0.0.1	frejantonpor465.joinvillecidade.sbs
+127.0.0.1	glubondingem.feirasantanacidade.sbs
+127.0.0.1	table-collectors.gl.at.ply.gg
+127.0.0.1	ansyjul28.duckdns.org
+127.0.0.1	nnaeko111.duckdns.org
+127.0.0.1	notes-creates.gl.at.ply.gg
+127.0.0.1	windowsmanager-53471.portmap.host
+127.0.0.1	svhost56.duckdns.org
+127.0.0.1	numbers-sally.gl.at.ply.gg
+127.0.0.1	suezax50.ddns.net
+127.0.0.1	third-threaded.gl.at.ply.gg
+127.0.0.1	cancersincura01.ddns.net
+127.0.0.1	udpppp.icu
+127.0.0.1	api.hammznetx.kapakhost.my.id
+127.0.0.1	meow2137.duckdns.org
+127.0.0.1	scan.saturnbotnet
+127.0.0.1	jufcare.help
 127.0.0.1	security.flwaergurdar.com
 127.0.0.1	lomzikes.com
 127.0.0.1	akkeod.com
@@ -63630,63 +63663,4 @@
 127.0.0.1	masterdow.com
 127.0.0.1	geraupdate.com
 127.0.0.1	wp-cdn.top
-127.0.0.1	solve.wyji.org
-127.0.0.1	eoogg.top
-127.0.0.1	acttwindows.duckdns.org
-127.0.0.1	per-cassette.gl.at.ply.gg
-127.0.0.1	grahthousand-64131.portmap.host
-127.0.0.1	sohit13140-34151.portmap.host
-127.0.0.1	coluich1220.duckdns.org
-127.0.0.1	kaziahlds-23371.portmap.io
-127.0.0.1	happythepeppie.ddns.net
-127.0.0.1	ducksro.duckdns.org
-127.0.0.1	creditagricole.zapto.org
-127.0.0.1	deadpoolstart2035.duckdns.org
-127.0.0.1	deadpoolstart2036.duckdns.org
-127.0.0.1	bertel5.duckdns.org
-127.0.0.1	deadpoolstart2037.duckdns.org
-127.0.0.1	text-eh.gl.at.ply.gg
-127.0.0.1	door-bottom.gl.at.ply.gg
-127.0.0.1	large-weak.gl.at.ply.gg
-127.0.0.1	mean-signal.gl.at.ply.gg
-127.0.0.1	only-desk.gl.at.ply.gg
-127.0.0.1	hall-shine.gl.at.ply.gg
-127.0.0.1	systems-budget.gl.at.ply.gg
-127.0.0.1	put-welfare.gl.at.ply.gg
-127.0.0.1	projects-secretary.gl.at.ply.gg
-127.0.0.1	card-funny.gl.at.ply.gg
-127.0.0.1	rootsaul.work.gd
-127.0.0.1	break-aaron.gl.at.ply.gg
-127.0.0.1	female-adapter.gl.at.ply.gg
-127.0.0.1	egornigga-64579.portmap.host
-127.0.0.1	cheatjunkies.ru
-127.0.0.1	homepage-radios.gl.at.ply.gg
-127.0.0.1	lake-gui.gl.at.ply.gg
-127.0.0.1	conditions-protecting.gl.at.ply.gg
-127.0.0.1	goga123321-28259.portmap.host
-127.0.0.1	tacscc.com
-127.0.0.1	portable2016.top
-127.0.0.1	solve.zyde.org
-127.0.0.1	mstr-x2-giveaway.com
-127.0.0.1	saylor-giveaway.com
-127.0.0.1	saylor-giveaway.info
-127.0.0.1	saylor-giveaway.pro
-127.0.0.1	saylor-giveaways.com
-127.0.0.1	saylor-x2crypto.com
-127.0.0.1	saylor-x2giveaway.co
-127.0.0.1	saylor-x2giveaways.com
-127.0.0.1	saylorgiveaway.net
-127.0.0.1	saylorgiveaway.com
-127.0.0.1	airdrop-xrp.com
-127.0.0.1	bg-xrp.com
-127.0.0.1	brad-2x.com
-127.0.0.1	drop-xrp.com
-127.0.0.1	event-rockstar.com
-127.0.0.1	invest-cardano.com
-127.0.0.1	invest-solana.com
-127.0.0.1	ms2saylor.com
-127.0.0.1	spacex-events.com
-127.0.0.1	j4n6foy.localto.net
-127.0.0.1	solve.feqy.org
-127.0.0.1	ppdpharmaco.com
-# Number of entries: 63683
+# Number of entries: 63657
