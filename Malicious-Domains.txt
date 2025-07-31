@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-30 19:35:34 UTC                        #
+# Last updated: 2025-07-31 04:21:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	security.flwaergurdar.com
+127.0.0.1	lomzikes.com
+127.0.0.1	akkeod.com
+127.0.0.1	test.betbaidu.top
+127.0.0.1	junk-essex-vocals-stays.trycloudflare.com
+127.0.0.1	etcprofile.biying007.xyz
+127.0.0.1	bfm2024.xyz
+127.0.0.1	api.dnstools.im
+127.0.0.1	st.atic.softlinko.com
+127.0.0.1	test-at.fcsrv.net
+127.0.0.1	6hc2nv7aqaejw.cfc-execute.bj.baidubce.com
 127.0.0.1	systemloop.online
 127.0.0.1	ns1.shgsfhdjstjsttjgjzddshgrw.info
 127.0.0.1	dns.shgsfhdjstjsttjgjzddshgrw.info
@@ -63678,11 +63689,4 @@
 127.0.0.1	j4n6foy.localto.net
 127.0.0.1	solve.feqy.org
 127.0.0.1	ppdpharmaco.com
-127.0.0.1	api.adviseur-oakk.nl
-127.0.0.1	accounts2.app-cloud.link
-127.0.0.1	zx.svcsghost.com
-127.0.0.1	qw.svcsghost.com
-127.0.0.1	feltonworkshop.com
-127.0.0.1	as.svcsghost.com
-127.0.0.1	tools-jam.gl.at.ply.gg
-# Number of entries: 63679
+# Number of entries: 63683
