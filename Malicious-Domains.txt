@@ -1,11 +1,34 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-31 09:28:18 UTC                        #
+# Last updated: 2025-07-31 12:29:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	infiuyr.asia
+127.0.0.1	de3.localto.net
+127.0.0.1	vishneviyjazz.ru
+127.0.0.1	ama0899.shop
+127.0.0.1	ec2-3-90-201-175.compute-1.amazonaws.com
+127.0.0.1	subduxxi.duckdns.org
+127.0.0.1	hjanarchydg.duckdns.org
+127.0.0.1	yfasynwv.duckdns.org
+127.0.0.1	jvenysa.duckdns.org
+127.0.0.1	davidlee90109.duckdns.org
+127.0.0.1	angeleviagivenmebestthingsforbetterfeell.duckdns.org
+127.0.0.1	nordiska.cc
+127.0.0.1	whiteshadow1-47388.portmap.host
+127.0.0.1	laserjet-32220.portmap.host
+127.0.0.1	xwormblast6.duckdns.org
+127.0.0.1	multi-designing.gl.at.ply.gg
+127.0.0.1	privatedns.jiahouse.com
+127.0.0.1	qwerty1223.ddns.net
+127.0.0.1	smtp.softlinko.com
+127.0.0.1	comments-jay.gl.at.ply.gg
+127.0.0.1	mocadia.com
+127.0.0.1	invest-place.info
+127.0.0.1	xmas-song-dungeon.world
 127.0.0.1	ego34.duckdns.org
 127.0.0.1	check-ringtones.gl.at.ply.gg
 127.0.0.1	gramkintil44.carapicuibacidade.sbs
@@ -63657,10 +63680,4 @@
 127.0.0.1	solve.qabi.org
 127.0.0.1	office.miicrosofts.org
 127.0.0.1	www.gzxingyu.cloud
-127.0.0.1	change-harvest.gl.at.ply.gg
-127.0.0.1	urabotnet.duckdns.org
-127.0.0.1	geraatualiza.com
-127.0.0.1	masterdow.com
-127.0.0.1	geraupdate.com
-127.0.0.1	wp-cdn.top
-# Number of entries: 63657
+# Number of entries: 63674
