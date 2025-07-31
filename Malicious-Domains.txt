@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-31 12:29:52 UTC                        #
+# Last updated: 2025-07-31 21:10:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	web.softlinko.com
+127.0.0.1	botnet.m85test.xyz
+127.0.0.1	4myrb8zoe.localto.net
+127.0.0.1	www.yinyang.eu.org
+127.0.0.1	darkstore.pw
+127.0.0.1	point-technology.gl.at.ply.gg
+127.0.0.1	structure-nov.gl.at.ply.gg
+127.0.0.1	lower-sam.gl.at.ply.gg
+127.0.0.1	anything-desired.gl.at.ply.gg
+127.0.0.1	download.romeropizza.com
+127.0.0.1	www.qlchacha.top
+127.0.0.1	web.d-you.uk
+127.0.0.1	googlecloudtest.webredirect.org
 127.0.0.1	infiuyr.asia
 127.0.0.1	de3.localto.net
 127.0.0.1	vishneviyjazz.ru
@@ -63657,27 +63670,4 @@
 127.0.0.1	viperoleplay.net
 127.0.0.1	wehelpgood.xyz
 127.0.0.1	js.sfqj321.buzz
-127.0.0.1	cloud-mail.ink
-127.0.0.1	lookup.ink
-127.0.0.1	background-services.net
-127.0.0.1	automation-embedding.com
-127.0.0.1	retaildemo.info
-127.0.0.1	enrollmentdm.com
-127.0.0.1	underwearshopfor.com
-127.0.0.1	rss-feed-monitoring.com
-127.0.0.1	futuresfurnitures.com
-127.0.0.1	lanmangraphics.com
-127.0.0.1	errorreporting.net
-127.0.0.1	internalsecurity.us
-127.0.0.1	tieringservice.com
-127.0.0.1	theeyefirewall.su
-127.0.0.1	helpdesk.technicalsecurityops.org
-127.0.0.1	gameofthronesmemes.top
-127.0.0.1	www.caravanehamburg.de
-127.0.0.1	nicekboupdatedgood.duckdns.org
-127.0.0.1	enviameplata.kozow.com
-127.0.0.1	getyour.cyou
-127.0.0.1	solve.qabi.org
-127.0.0.1	office.miicrosofts.org
-127.0.0.1	www.gzxingyu.cloud
-# Number of entries: 63674
+# Number of entries: 63664
