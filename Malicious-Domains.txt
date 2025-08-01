@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-07-31 21:10:29 UTC                        #
+# Last updated: 2025-08-01 06:13:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	flexreplicahafailoverserver638889507287292352-r32.postgres.database.azure.com
+127.0.0.1	flexreplicahafailoverserver638889507287292352-r32.rs-8fd10fa7e4b4.postgres.database.azure.com
+127.0.0.1	ec2-56-228-12-2.eu-north-1.compute.amazonaws.com
+127.0.0.1	security.florerguaerd.com
+127.0.0.1	monchiels.com
+127.0.0.1	facilities-arizona.gl.at.ply.gg
+127.0.0.1	hexa.dnsframe.com
+127.0.0.1	late-researcher.gl.at.ply.gg
 127.0.0.1	web.softlinko.com
 127.0.0.1	botnet.m85test.xyz
 127.0.0.1	4myrb8zoe.localto.net
@@ -63640,27 +63648,4 @@
 127.0.0.1	mainworkapp.com
 127.0.0.1	home.fivegg5th.top
 127.0.0.1	fivegg5th.top
-127.0.0.1	ffjihcnfkhihlmd.top
-127.0.0.1	lbnfbehmicmkceh.top
-127.0.0.1	webmail.fithiphealthy.com
-127.0.0.1	believezioep.com
-127.0.0.1	cabbagepattof.net
-127.0.0.1	clammypunero.com
-127.0.0.1	garderjjerop.com
-127.0.0.1	plasticreie.com
-127.0.0.1	shunstriderk.net
-127.0.0.1	skirtgrippys.com
-127.0.0.1	vividimaginatigon.top
-127.0.0.1	agroundyogasuspect.shop
-127.0.0.1	gg.agroundyogasuspect.shop
-127.0.0.1	u2.servicelandingkaraoke.shop
-127.0.0.1	pecanclusteredjalapeno.shop
-127.0.0.1	ec2-13-53-166-6.eu-north-1.compute.amazonaws.com
-127.0.0.1	ph-testing.org
-127.0.0.1	solve.wbth.org
-127.0.0.1	solve.xclb.org
-127.0.0.1	cpanel.buyjlindustriesonline.com
-127.0.0.1	yzkp-32965.portmap.host
-127.0.0.1	ciubuc.diicot.net
-127.0.0.1	clinakleee-44561.portmap.host
-# Number of entries: 63657
+# Number of entries: 63642
