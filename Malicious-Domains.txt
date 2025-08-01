@@ -63663,11 +63663,4 @@
 127.0.0.1	yzkp-32965.portmap.host
 127.0.0.1	ciubuc.diicot.net
 127.0.0.1	clinakleee-44561.portmap.host
-127.0.0.1	acctcdn.miicrosofts.org
-127.0.0.1	react.miicrosofts.org
-127.0.0.1	img6.miicrosofts.org
-127.0.0.1	kara2000.info
-127.0.0.1	viperoleplay.net
-127.0.0.1	wehelpgood.xyz
-127.0.0.1	js.sfqj321.buzz
-# Number of entries: 63664
+# Number of entries: 63657
