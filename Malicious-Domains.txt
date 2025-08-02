@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-02 09:32:11 UTC                        #
+# Last updated: 2025-08-02 12:11:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	pub.softlinko.com
+127.0.0.1	omega2.no-ip.biz
+127.0.0.1	nowwework.3utilities.com
+127.0.0.1	programme-newspaper.gl.at.ply.gg
 127.0.0.1	javascriptnest.com
 127.0.0.1	scriptedfunctions.com
 127.0.0.1	updatemicfosoft.com
@@ -60578,4 +60582,4 @@
 127.0.0.1	bin-mud.gl.at.ply.gg
 127.0.0.1	babamirai31.duckdns.org
 127.0.0.1	service-rchqbzvz-1301033415.sh.tencentapigw.com
-# Number of entries: 60572
+# Number of entries: 60576
