@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-01 18:11:09 UTC                        #
+# Last updated: 2025-08-02 02:48:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	logandlog.ddns.net
 127.0.0.1	stat.softlinko.com
 127.0.0.1	cgnnzayodgrdwaez5asqw562abwp74tino45k2aeg2wgz6ohuah5rqid.onion
 127.0.0.1	ecko12.ddns.net
@@ -60491,11 +60492,4 @@
 127.0.0.1	table-hon.gl.at.ply.gg
 127.0.0.1	mm.underarmpresumingsubscript.shop
 127.0.0.1	solve.kxlv.org
-127.0.0.1	ec2-18-170-59-177.eu-west-2.compute.amazonaws.com
-127.0.0.1	wcpstatic.miicrosofts.org
-127.0.0.1	ulgroup.miicrosofts.org
-127.0.0.1	hedra.app-tools.info
-127.0.0.1	goody.work.gd
-127.0.0.1	nas.miuiwang.cn
-127.0.0.1	nino.nakano.top
-# Number of entries: 60492
+# Number of entries: 60486
