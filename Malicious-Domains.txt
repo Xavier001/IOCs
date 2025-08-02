@@ -1,11 +1,27 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-02 12:11:09 UTC                        #
+# Last updated: 2025-08-02 22:10:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	xxx.softlinko.com
+127.0.0.1	araboz.no-ip.biz
+127.0.0.1	liangpao8541.top
+127.0.0.1	swgood.kro.kr
+127.0.0.1	opbrghost-23030.portmap.host
+127.0.0.1	trackopbr2.ddns.net
+127.0.0.1	kecfcnyn-29266.portmap.host
+127.0.0.1	1.tcp.eu.cpolar.io
+127.0.0.1	kallichox22.duckdns.org
+127.0.0.1	co-homeless.gl.at.ply.gg
+127.0.0.1	shim2.vurtobix.com
+127.0.0.1	shim2.zyraq.com
+127.0.0.1	shim3.sylviaklop.com
+127.0.0.1	shim4.familygater.com
+127.0.0.1	bittsgly.my
+127.0.0.1	mx2.bsqd.ru
 127.0.0.1	pub.softlinko.com
 127.0.0.1	omega2.no-ip.biz
 127.0.0.1	nowwework.3utilities.com
@@ -60532,54 +60548,4 @@
 127.0.0.1	adviseur.adviseur-oakk.nl
 127.0.0.1	p1.hamsterservers.boats
 127.0.0.1	pool-1.hamsterservers.boats
-127.0.0.1	parcelinn.com
-127.0.0.1	secure.miicrosofts.org
-127.0.0.1	rivalillicitlytransfer.shop
-127.0.0.1	mac-only.team
-127.0.0.1	solve.nrxk.org
-127.0.0.1	loud-states-matter.loca.lt
-127.0.0.1	are-though.gl.at.ply.gg
-127.0.0.1	memesense.xyz
-127.0.0.1	runnedarred.com
-127.0.0.1	weartemptr.biz
-127.0.0.1	worshipstrar.biz
-127.0.0.1	xenoporren.biz
-127.0.0.1	zoomsedat.biz
-127.0.0.1	peacesallyek.biz
-127.0.0.1	railwaiberred.biz
-127.0.0.1	shakeiarrep.biz
-127.0.0.1	slimdresser.biz
-127.0.0.1	springobtainn.biz
-127.0.0.1	thangolekke.biz
-127.0.0.1	versesoffe.biz
-127.0.0.1	hatesomeber.biz
-127.0.0.1	homellygage.biz
-127.0.0.1	maintainhaat.biz
-127.0.0.1	mannyrahse.biz
-127.0.0.1	operregula.biz
-127.0.0.1	overttriter.biz
-127.0.0.1	drinkeracte.biz
-127.0.0.1	aromaticridz.biz
-127.0.0.1	answerzeypher.biz
-127.0.0.1	wanyajarysu.click
-127.0.0.1	humdrumviosl.click
-127.0.0.1	securesways.click
-127.0.0.1	subduedkinlkly.shop
-127.0.0.1	dcrat1337.atwebpages.com
-127.0.0.1	chwerfw63932.macan.chost.com.ua
-127.0.0.1	tzsixt16sb.top
-127.0.0.1	tzthirt13sb.top
-127.0.0.1	cveight8ht.top
-127.0.0.1	yunger.ddns.cam
-127.0.0.1	uthinker.ddns.cam
-127.0.0.1	bctabsogebtmoutsgs.duckdns.org
-127.0.0.1	deabcbecaconmougot.duckdns.org
-127.0.0.1	trumpsha.mypi.co
-127.0.0.1	usaa.miicrosofts.org
-127.0.0.1	postpix.shop
-127.0.0.1	solve.rlvw.org
-127.0.0.1	late-outdoors.gl.at.ply.gg
-127.0.0.1	bin-mud.gl.at.ply.gg
-127.0.0.1	babamirai31.duckdns.org
-127.0.0.1	service-rchqbzvz-1301033415.sh.tencentapigw.com
-# Number of entries: 60576
+# Number of entries: 60542
