@@ -1,11 +1,101 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-02 02:48:50 UTC                        #
+# Last updated: 2025-08-02 09:32:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	javascriptnest.com
+127.0.0.1	scriptedfunctions.com
+127.0.0.1	updatemicfosoft.com
+127.0.0.1	microsfot.org
+127.0.0.1	discussion-announcement.gl.at.ply.gg
+127.0.0.1	snxppyz.ddns.net
+127.0.0.1	botnet.fakepay.online
+127.0.0.1	sbd.haongmaidong.com
+127.0.0.1	xdxd.hoangmaidong.com
+127.0.0.1	www.ntoines.shop
+127.0.0.1	www.olarlights-40039.bond
+127.0.0.1	www.orjaengenharia.net
+127.0.0.1	www.ouchrajohri.shop
+127.0.0.1	www.owfihjdad.shop
+127.0.0.1	www.qjd2s.top
+127.0.0.1	www.racktor.net
+127.0.0.1	www.rain.watch
+127.0.0.1	www.reshplate.sbs
+127.0.0.1	www.rtservice.cfd
+127.0.0.1	www.s2025.live
+127.0.0.1	www.sint.productions
+127.0.0.1	www.sy442.top
+127.0.0.1	www.trwedb.xyz
+127.0.0.1	www.ubertimer.net
+127.0.0.1	www.ucoarts.llc
+127.0.0.1	www.uno.dev
+127.0.0.1	www.urkifsalife.cfd
+127.0.0.1	www.urovisions.net
+127.0.0.1	www.wxmax.sbs
+127.0.0.1	www.yconadminagent231c.vip
+127.0.0.1	www.ymt1s.top
+127.0.0.1	www.zyh8g.top
+127.0.0.1	www.eg1jy.top
+127.0.0.1	www.ensingtonllc.net
+127.0.0.1	www.estingpodcast.xyz
+127.0.0.1	www.et-supplies-64469.bond
+127.0.0.1	www.fok062.top
+127.0.0.1	www.hickenroadfocusw.pro
+127.0.0.1	www.hs.tokyo
+127.0.0.1	www.hsykj.net
+127.0.0.1	www.iaochengxuqjzh.top
+127.0.0.1	www.ipralex.xyz
+127.0.0.1	www.kc.top
+127.0.0.1	www.lackred.tech
+127.0.0.1	www.lean-room-hl02.click
+127.0.0.1	www.lgopaht.xyz
+127.0.0.1	www.lolaha.top
+127.0.0.1	www.ltea.shop
+127.0.0.1	www.m-yra.lat
+127.0.0.1	www.m62nx.top
+127.0.0.1	www.masilevich.net
+127.0.0.1	www.mlservices.net
+127.0.0.1	www.ncyxunems.shop
+127.0.0.1	www.ngehladosanttos.info
+127.0.0.1	www.nlinefreediplom.top
+127.0.0.1	www.03bub.vip
+127.0.0.1	www.2learn.net
+127.0.0.1	www.2zpi6.top
+127.0.0.1	www.58p.top
+127.0.0.1	www.8051.pro
+127.0.0.1	www.8ight.beauty
+127.0.0.1	www.8tangtang.xyz
+127.0.0.1	www.acredmanuscript.shop
+127.0.0.1	www.adespark.xyz
+127.0.0.1	www.aisy558.shop
+127.0.0.1	www.ali77vip.net
+127.0.0.1	www.angxiaopppp.xyz
+127.0.0.1	www.apakgame.xyz
+127.0.0.1	www.arasrm.shop
+127.0.0.1	www.arvanaemplyomentverfi.net
+127.0.0.1	www.ayfaic.net
+127.0.0.1	www.cngs.xyz
+127.0.0.1	www.decesi.top
+127.0.0.1	www.e403e.click
+127.0.0.1	hiphop13.ddns.net
+127.0.0.1	cnm.mom
+127.0.0.1	z-m-static.xx.allianz-courtage.co
+127.0.0.1	www1.allianz-courtage.co
+127.0.0.1	security.flenieregurd.com
+127.0.0.1	wensibelo.com
+127.0.0.1	flexreplicahafailoverserver638891307695968072.rs-313704a4e866.postgres.database.azure.com
+127.0.0.1	flexreplicahafailoverserver638891307695968072.postgres.database.azure.com
+127.0.0.1	bmw320ikaka.co
+127.0.0.1	rahiwex585-45935.portmap.host
+127.0.0.1	hapafix955-45412.portmap.host
+127.0.0.1	vestcast.co
+127.0.0.1	perfectsemplegas.de
+127.0.0.1	schedule-pci.gl.at.ply.gg
+127.0.0.1	pvpz-th.com
+127.0.0.1	study-leasing.gl.at.ply.gg
 127.0.0.1	logandlog.ddns.net
 127.0.0.1	stat.softlinko.com
 127.0.0.1	cgnnzayodgrdwaez5asqw562abwp74tino45k2aeg2wgz6ohuah5rqid.onion
@@ -60488,8 +60578,4 @@
 127.0.0.1	bin-mud.gl.at.ply.gg
 127.0.0.1	babamirai31.duckdns.org
 127.0.0.1	service-rchqbzvz-1301033415.sh.tencentapigw.com
-127.0.0.1	solve.vsdd.org
-127.0.0.1	table-hon.gl.at.ply.gg
-127.0.0.1	mm.underarmpresumingsubscript.shop
-127.0.0.1	solve.kxlv.org
-# Number of entries: 60486
+# Number of entries: 60572
