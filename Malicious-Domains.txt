@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-02 22:10:50 UTC                        #
+# Last updated: 2025-08-03 00:01:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	apis.verifiedaccesssecure.icu
+127.0.0.1	sece.verifiedaccesssecure.icu
+127.0.0.1	play.verifiedaccesssecure.icu
+127.0.0.1	log.logogogogo.click
 127.0.0.1	xxx.softlinko.com
 127.0.0.1	araboz.no-ip.biz
 127.0.0.1	liangpao8541.top
@@ -60544,8 +60548,4 @@
 127.0.0.1	stchkr.rest
 127.0.0.1	durumm.click
 127.0.0.1	solve.nohz.org
-127.0.0.1	mmcapi.miicrosofts.org
-127.0.0.1	adviseur.adviseur-oakk.nl
-127.0.0.1	p1.hamsterservers.boats
-127.0.0.1	pool-1.hamsterservers.boats
 # Number of entries: 60542
