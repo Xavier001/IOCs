@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-03 08:00:57 UTC                        #
+# Last updated: 2025-08-03 12:04:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	version-affected.gl.at.ply.gg
+127.0.0.1	technology-rome.gl.at.ply.gg
+127.0.0.1	m.allianz-courtage.co
+127.0.0.1	office304.duckdns.org
+127.0.0.1	bbvlljwwd.localto.net
+127.0.0.1	monstr.ddns.net
+127.0.0.1	ww.softlinko.com
 127.0.0.1	fc.verifiedaccesssecure.icu
 127.0.0.1	ezlolsrealisgood-64048.portmap.host
 127.0.0.1	xfini900.duckdns.org
@@ -60440,4 +60447,4 @@
 127.0.0.1	idioinc.com
 127.0.0.1	solve.lnww.org
 127.0.0.1	hub.t1brime-dev.ru
-# Number of entries: 60434
+# Number of entries: 60441
