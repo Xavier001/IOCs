@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-05 10:10:33 UTC                        #
+# Last updated: 2025-08-05 12:01:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	360news10.icu
+127.0.0.1	shareaz1.allianz-courtage.co
+127.0.0.1	static.nulltrace.cloud
+127.0.0.1	utoboolusho1.zapto.org
 127.0.0.1	up.qp.payoopoint.lk
 127.0.0.1	my.cp.payoopoint.lk
 127.0.0.1	172-233-97-159.ip.linodeusercontent.com
@@ -60170,18 +60174,4 @@
 127.0.0.1	ikun.blacktelson.cloudns.ch
 127.0.0.1	microsaft.club
 127.0.0.1	clubfleetwood.com
-127.0.0.1	storeagroculturnaya.ru
-127.0.0.1	summerbag.icu
-127.0.0.1	hotfriction.xyz
-127.0.0.1	access-expenses.gl.at.ply.gg
-127.0.0.1	creatednewauthorstarting.duckdns.org
-127.0.0.1	rooom.zapto.org
-127.0.0.1	check.hobx.run
-127.0.0.1	check.pesa.run
-127.0.0.1	check.lyvc.run
-127.0.0.1	check.munz.run
-127.0.0.1	check.socu.run
-127.0.0.1	check.tugy.run
-127.0.0.1	check.vyrh.run
-127.0.0.1	check.xecy.run
-# Number of entries: 60178
+# Number of entries: 60168
