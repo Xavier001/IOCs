@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-04 20:04:37 UTC                        #
+# Last updated: 2025-08-05 00:01:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	royalmail.com.rx.ns2.name
 127.0.0.1	santoos-63758.portmap.host
 127.0.0.1	net-37-119-171-146.cust.vodafonedsl.it
 127.0.0.1	uzamaki.duckdns.org
@@ -60195,5 +60196,4 @@
 127.0.0.1	check.repw.run
 127.0.0.1	check.repw.run
 127.0.0.1	zoom.callservice.us
-127.0.0.1	78.153.130.17.sslip.io
 # Number of entries: 60190
