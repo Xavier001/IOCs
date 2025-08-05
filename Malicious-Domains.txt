@@ -1,11 +1,26 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-05 00:01:49 UTC                        #
+# Last updated: 2025-08-05 10:10:33 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	up.qp.payoopoint.lk
+127.0.0.1	my.cp.payoopoint.lk
+127.0.0.1	172-233-97-159.ip.linodeusercontent.com
+127.0.0.1	update-office.com
+127.0.0.1	aws.micsoloft.info
+127.0.0.1	security.flaxergaurds.com
+127.0.0.1	temopix.com
+127.0.0.1	meadotdk.qpon
+127.0.0.1	yrokistorii.ru
+127.0.0.1	prince123.no-ip.biz
+127.0.0.1	job3.yjctllgcq.cn
+127.0.0.1	shellexperiencehost.ydns.eu
+127.0.0.1	dooijeweerd.duckdns.org
+127.0.0.1	activities-essays.gl.at.ply.gg
+127.0.0.1	he-purchased.gl.at.ply.gg
 127.0.0.1	royalmail.com.rx.ns2.name
 127.0.0.1	santoos-63758.portmap.host
 127.0.0.1	net-37-119-171-146.cust.vodafonedsl.it
@@ -60169,31 +60184,4 @@
 127.0.0.1	check.tugy.run
 127.0.0.1	check.vyrh.run
 127.0.0.1	check.xecy.run
-127.0.0.1	check.xyms.run
-127.0.0.1	strows.info
-127.0.0.1	ssdru.info
-127.0.0.1	check.wozy.site
-127.0.0.1	check.zyfu.site
-127.0.0.1	check.pylo.site
-127.0.0.1	check.jefx.shop
-127.0.0.1	breakingthroughs.freemyip.com
-127.0.0.1	travelingwealth.duckdns.org
-127.0.0.1	newsite.iapmd.org
-127.0.0.1	natureinspirged.top
-127.0.0.1	alhocobser.digital
-127.0.0.1	certain-advanced.gl.at.ply.gg
-127.0.0.1	discussion-ix.gl.at.ply.gg
-127.0.0.1	phoenixsoulpeace.shop
-127.0.0.1	server-5-252-178-137.da.direct
-127.0.0.1	www.gallant-pike.45-77-153-108.plesk.page
-127.0.0.1	elevatorretreat.shop
-127.0.0.1	check.puvt.run
-127.0.0.1	mj2025.ddns.net
-127.0.0.1	good-engaged.at.playit.gg
-127.0.0.1	supportinformtion.serveirc.com
-127.0.0.1	agdsagds.kro.kr
-127.0.0.1	u1.praisingtummyunless.shop
-127.0.0.1	check.repw.run
-127.0.0.1	check.repw.run
-127.0.0.1	zoom.callservice.us
-# Number of entries: 60190
+# Number of entries: 60178
