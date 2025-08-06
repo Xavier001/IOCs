@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-05 21:10:35 UTC                        #
+# Last updated: 2025-08-06 04:01:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sazwebapiprod.allianz-courtage.co
+127.0.0.1	c95f137f-7f36-4b18-964c-56d0d113b143-00-dc5usg4e8pkl.kirk.replit.dev
 127.0.0.1	api.payoopoint.lk
 127.0.0.1	ealmaz.freeddns.org
 127.0.0.1	ealmaz.loseyourip.com
@@ -60041,7 +60043,4 @@
 127.0.0.1	www.quadriosoulfood.shop
 127.0.0.1	www.universalfeelz.shop
 127.0.0.1	sophoscore.com
-127.0.0.1	bfa.ae
-127.0.0.1	ip115.ip-51-81-104.us
-127.0.0.1	accounts3.app-cloud.link
-# Number of entries: 60038
+# Number of entries: 60037
