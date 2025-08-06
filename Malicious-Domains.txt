@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-06 09:58:59 UTC                        #
+# Last updated: 2025-08-06 12:01:41 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	scontent-cdg4-2.xx.allianz-courtage.co
+127.0.0.1	actwindow.duckdns.org
+127.0.0.1	windowsupdatess.duckdns.org
+127.0.0.1	pasar09enero.duckdns.org
+127.0.0.1	act.windowsdriver.pro
+127.0.0.1	bbyus.ooguy.com
+127.0.0.1	mx.payoopoint.net
 127.0.0.1	soft-gets.com
 127.0.0.1	reaitek.com
 127.0.0.1	templfuw.my
@@ -59859,61 +59866,4 @@
 127.0.0.1	check.lolp.ink
 127.0.0.1	check.amda.ink
 127.0.0.1	check.alku.ink
-127.0.0.1	check.popp.ink
-127.0.0.1	check.smfd.ink
-127.0.0.1	divexpo.com
-127.0.0.1	usa-east.raptoreum.zone
-127.0.0.1	torpdidebar.com
-127.0.0.1	rebeldettern.com
-127.0.0.1	inputrreparnt.com
-127.0.0.1	garulouscuto.com
-127.0.0.1	breedertremnd.com
-127.0.0.1	hopeefreamed.com
-127.0.0.1	importenptoc.com
-127.0.0.1	kicky-tap.sbs
-127.0.0.1	forcenodder.biz
-127.0.0.1	clusterbry.cyou
-127.0.0.1	currentyelcktv.cyou
-127.0.0.1	applicatinyh.cyou
-127.0.0.1	capturefann.cyou
-127.0.0.1	canva5-belief.cyou
-127.0.0.1	shelterryhsbj.cyou
-127.0.0.1	playerjur.cyou
-127.0.0.1	shatt3rhelpfu.cyou
-127.0.0.1	dolly10dge.cyou
-127.0.0.1	candidatersz.cyou
-127.0.0.1	scarpsniffy.click
-127.0.0.1	libraryuehd.click
-127.0.0.1	twinnylogy.click
-127.0.0.1	boredbeliev.click
-127.0.0.1	ethnicchos.click
-127.0.0.1	noticesulk.click
-127.0.0.1	leeryspcieu.click
-127.0.0.1	applyeasyhz.click
-127.0.0.1	hissbringer.click
-127.0.0.1	hopersmarter.click
-127.0.0.1	insultfragie.click
-127.0.0.1	implodehosu.click
-127.0.0.1	sockethingej.click
-127.0.0.1	gleamingvisir.click
-127.0.0.1	enlargeywuz.click
-127.0.0.1	hookylucnh.click
-127.0.0.1	thronethurd.click
-127.0.0.1	jitteryresuqi.click
-127.0.0.1	tramplyfinej.click
-127.0.0.1	murmurloude.click
-127.0.0.1	decorateballz.click
-127.0.0.1	testyhurriedo.click
-127.0.0.1	pattyruralk.click
-127.0.0.1	avangerresi.click
-127.0.0.1	baoilkye.click
-127.0.0.1	cablecrossedi.shop
-127.0.0.1	fangyevasive.shop
-127.0.0.1	epicgramm1.temp.swtest.ru
-127.0.0.1	cq38273.tw1.ru
-127.0.0.1	qwerty3032.temp.swtest.ru
-127.0.0.1	cg79561.tw1.ru
-127.0.0.1	elvngg11sb.top
-127.0.0.1	fivehh5pn.top
-127.0.0.1	check.uhxkj.space
-# Number of entries: 59910
+# Number of entries: 59860
