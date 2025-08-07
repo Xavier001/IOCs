@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-07 07:41:30 UTC                        #
+# Last updated: 2025-08-07 12:32:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	luntpi.xin
+127.0.0.1	land-dies.gl.at.ply.gg
+127.0.0.1	osmshk.org
+127.0.0.1	zxzczxz.ddns.net
+127.0.0.1	responsible-hostel.gl.at.ply.gg
+127.0.0.1	author-pine.gl.at.ply.gg
+127.0.0.1	standard-seas.gl.at.ply.gg
 127.0.0.1	hololive.mozicloud.org
 127.0.0.1	okayuthefoodiecat.mozicloud.org
 127.0.0.1	whois.myserv012.com
@@ -59138,28 +59145,4 @@
 127.0.0.1	ukrtelecom.eu
 127.0.0.1	diegoserranova7208i23v32uy82u.duckdns.org
 127.0.0.1	papersmoneygang.store
-127.0.0.1	check.byzi.site
-127.0.0.1	check.jime.site
-127.0.0.1	recaptha-verify-1n.pages.dev
-127.0.0.1	recaptha-verify-4z.pages.dev
-127.0.0.1	recaptha-verify-7u.pages.dev
-127.0.0.1	recaptha-verify-c1.pages.dev
-127.0.0.1	recaptha-verify-3m.pages.dev
-127.0.0.1	recaptha-verify-2w.pages.dev
-127.0.0.1	recaptha-verify-q3.pages.dev
-127.0.0.1	recaptcha-dns-o5.pages.dev
-127.0.0.1	recaptcha-dns-d9.pages.dev
-127.0.0.1	recaptcha-0d-verify.pages.dev
-127.0.0.1	recaptha-verify-9o.pages.dev
-127.0.0.1	recaptha-verify-7y.pages.dev
-127.0.0.1	dns-resolver-es8.pages.dev
-127.0.0.1	ip-provider.pages.dev
-127.0.0.1	backup-xvc.pages.dev
-127.0.0.1	microsoft-dns-reload-1n.pages.dev
-127.0.0.1	recaptha-verify-6l.pages.dev
-127.0.0.1	check.yiui.site
-127.0.0.1	meme7.work.gd
-127.0.0.1	cnc.axonstress.fun
-127.0.0.1	panel.deewpn.com
-127.0.0.1	check.yiyy.site
-# Number of entries: 59156
+# Number of entries: 59139
