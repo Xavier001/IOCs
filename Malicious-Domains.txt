@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-06 21:04:13 UTC                        #
+# Last updated: 2025-08-07 02:49:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	297d4064-b529-4934-af6f-b3f266e64f8a-00-316tm8g12nc9a.riker.replit.dev
 127.0.0.1	prepintal.campinascidade.sbs
 127.0.0.1	sprolinxonsil.campinascidade.sbs
 127.0.0.1	stabander.portoalegrecidade.sbs
@@ -59224,8 +59225,4 @@
 127.0.0.1	check.zovy.site
 127.0.0.1	zsilvermoonbeam.hair
 127.0.0.1	check.aaao.site
-127.0.0.1	cozyhomevpibes.cyou
-127.0.0.1	cp52181.tw1.ru
-127.0.0.1	a0984458.xsph.ru
-127.0.0.1	fivell5th.top
-# Number of entries: 59222
+# Number of entries: 59219
