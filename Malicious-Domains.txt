@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-08 09:10:29 UTC                        #
+# Last updated: 2025-08-08 12:05:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	d1ge.xyz
+127.0.0.1	laplmav.xin
+127.0.0.1	xxxjjj250711.com
+127.0.0.1	hazesenpai-21866.portmap.host
+127.0.0.1	loan-rv.gl.at.ply.gg
+127.0.0.1	generalboss001.duckdns.org
+127.0.0.1	lk7799.duckdns.org
 127.0.0.1	s3.cdn.k22digital.my.id
 127.0.0.1	ferrariworldabudhabi.pro
 127.0.0.1	banki-ru.pro
@@ -58979,7 +58986,4 @@
 127.0.0.1	check.iavau.site
 127.0.0.1	state-franklin.gl.at.ply.gg
 127.0.0.1	yeniceri99-24578.portmap.io
-127.0.0.1	check.oiwea.site
-127.0.0.1	started-quotations.gl.at.ply.gg
-127.0.0.1	fund-jacob.gl.at.ply.gg
-# Number of entries: 58976
+# Number of entries: 58980
