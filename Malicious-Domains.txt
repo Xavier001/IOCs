@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-08 02:48:47 UTC                        #
+# Last updated: 2025-08-08 09:10:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	s3.cdn.k22digital.my.id
+127.0.0.1	ferrariworldabudhabi.pro
+127.0.0.1	banki-ru.pro
+127.0.0.1	security.flaezguered.com
+127.0.0.1	neopendas.com
+127.0.0.1	paid-location.gl.at.ply.gg
+127.0.0.1	nha2wjgep.localto.net
+127.0.0.1	center-mpeg.gl.at.ply.gg
+127.0.0.1	properties-lf.gl.at.ply.gg
+127.0.0.1	association-fairfield.gl.at.ply.gg
+127.0.0.1	176-58-109-21.ip.linodeusercontent.com
 127.0.0.1	abcdef.886802.xyz
 127.0.0.1	ftp.project-w.xyz
 127.0.0.1	however-fundraising.gl.at.ply.gg
@@ -58971,35 +58982,4 @@
 127.0.0.1	check.oiwea.site
 127.0.0.1	started-quotations.gl.at.ply.gg
 127.0.0.1	fund-jacob.gl.at.ply.gg
-127.0.0.1	feedback-both.gl.at.ply.gg
-127.0.0.1	check.yenai.site
-127.0.0.1	html.hfcxy.cn
-127.0.0.1	pennyspinng.shop
-127.0.0.1	overwrougemny.shop
-127.0.0.1	vastactionu.shop
-127.0.0.1	relymowyiny.shop
-127.0.0.1	islandtosecod.shop
-127.0.0.1	majestimowwer.shop
-127.0.0.1	disgustingxtta.shop
-127.0.0.1	f1082777.xsph.ru
-127.0.0.1	a1082676.xsph.ru
-127.0.0.1	sh1goto.org.swtest.ru
-127.0.0.1	a1077792.xsph.ru
-127.0.0.1	f1082834.xsph.ru
-127.0.0.1	check.aotoa.site
-127.0.0.1	check.uydaa.site
-127.0.0.1	ool-4573c502.dyn.optonline.net
-127.0.0.1	solofeelings.shop
-127.0.0.1	www.mypeaceofpeace.shop
-127.0.0.1	check.ouhoi.site
-127.0.0.1	county-organize.gl.at.ply.gg
-127.0.0.1	sep-reseller.gl.at.ply.gg
-127.0.0.1	ad59t82g.com
-127.0.0.1	hub.unlimitedcashflowevent.com
-127.0.0.1	warmwhearts.cloud
-127.0.0.1	jakker-udsalg.top
-127.0.0.1	websitedirectory.top
-127.0.0.1	jmvjpwl3o.localto.net
-127.0.0.1	novermber12.duckdns.org
-127.0.0.1	novermber12.freeddns.org
-# Number of entries: 58996
+# Number of entries: 58976
