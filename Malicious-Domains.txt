@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-07 18:03:04 UTC                        #
+# Last updated: 2025-08-08 02:48:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	abcdef.886802.xyz
+127.0.0.1	ftp.project-w.xyz
 127.0.0.1	however-fundraising.gl.at.ply.gg
 127.0.0.1	send-deferred.gl.at.ply.gg
 127.0.0.1	august-ibm.gl.at.ply.gg
@@ -59000,5 +59002,4 @@
 127.0.0.1	jmvjpwl3o.localto.net
 127.0.0.1	novermber12.duckdns.org
 127.0.0.1	novermber12.freeddns.org
-127.0.0.1	adobe.azurefd.net
-# Number of entries: 58995
+# Number of entries: 58996
