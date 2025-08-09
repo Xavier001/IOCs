@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-08 20:01:47 UTC                        #
+# Last updated: 2025-08-09 01:10:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	pub.k22digital.my.id
+127.0.0.1	shareaz.allianz-courtage.co
+127.0.0.1	autodiscover.project-w.xyz
 127.0.0.1	webdisk.project-w.xyz
 127.0.0.1	cost-snap.gl.at.ply.gg
 127.0.0.1	anything-javascript.gl.at.ply.gg
@@ -58883,4 +58886,4 @@
 127.0.0.1	updfile.cc
 127.0.0.1	check.rofai.site
 127.0.0.1	evetesttech.net
-# Number of entries: 58877
+# Number of entries: 58880
