@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-09 09:27:33 UTC                        #
+# Last updated: 2025-08-09 12:10:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sudo.polarissonic.biz.id
+127.0.0.1	eijmdixci.cn
+127.0.0.1	conditions-lake.gl.at.ply.gg
+127.0.0.1	eliotexe0110-26529.portmap.host
+127.0.0.1	corepulsesync.ydns.eu
+127.0.0.1	cannonistanbulsskyss.duckdns.org
+127.0.0.1	official-ol.gl.at.ply.gg
+127.0.0.1	type-modules.gl.at.ply.gg
+127.0.0.1	vaganetka.ru
+127.0.0.1	ichmidt.com
 127.0.0.1	nameless-mouse-2f97.gogohoog546.workers.dev
 127.0.0.1	vinsodg.top
 127.0.0.1	xworm7.duckdns.org
@@ -58805,5 +58815,4 @@
 127.0.0.1	maestriasenillinois.com
 127.0.0.1	www.impresacostruire.it
 127.0.0.1	check.identity1.shop
-127.0.0.1	check.cedar1.online
-# Number of entries: 58800
+# Number of entries: 58809
