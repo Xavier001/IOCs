@@ -1,11 +1,26 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-09 12:10:30 UTC                        #
+# Last updated: 2025-08-09 20:10:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ftp.polarissonic.biz.id
+127.0.0.1	ssa-personalservices.com
+127.0.0.1	chrisbekner02.duckdns.org
+127.0.0.1	w1lz.ddnsking.com
+127.0.0.1	me-work.com
+127.0.0.1	businesses-extensive.gl.at.ply.gg
+127.0.0.1	dc-historic.gl.at.ply.gg
+127.0.0.1	mr-fold.gl.at.ply.gg
+127.0.0.1	love-interpreted.gl.at.ply.gg
+127.0.0.1	stage-edinburgh.gl.at.ply.gg
+127.0.0.1	arch.wsf-steel.com
+127.0.0.1	flaskproxy-fedg.onrender.com
+127.0.0.1	superclouds.website
+127.0.0.1	syntrva.forum
+127.0.0.1	hermitimplode.shop
 127.0.0.1	sudo.polarissonic.biz.id
 127.0.0.1	eijmdixci.cn
 127.0.0.1	conditions-lake.gl.at.ply.gg
@@ -58802,17 +58817,4 @@
 127.0.0.1	ns2.ddav.top
 127.0.0.1	neti.openioc.us
 127.0.0.1	ns1.ddav.top
-127.0.0.1	genericfixer.com
-127.0.0.1	phidev.duckdns.org
-127.0.0.1	j4bgkks2.giize.com
-127.0.0.1	pensun.xyz
-127.0.0.1	c.hcdsbkma.com
-127.0.0.1	check.cufflink1.xyz
-127.0.0.1	mealkittens.cfd
-127.0.0.1	armaunt.xyz
-127.0.0.1	check.waking.pro
-127.0.0.1	vpn741424698.softether.net
-127.0.0.1	maestriasenillinois.com
-127.0.0.1	www.impresacostruire.it
-127.0.0.1	check.identity1.shop
-# Number of entries: 58809
+# Number of entries: 58811
