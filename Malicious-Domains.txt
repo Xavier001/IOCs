@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-09 20:10:28 UTC                        #
+# Last updated: 2025-08-10 02:49:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	client.hosthlior.com
+127.0.0.1	ftp.aigirlfriend.altervista.org
+127.0.0.1	xxcaocs.556688.eu.org
 127.0.0.1	ftp.polarissonic.biz.id
 127.0.0.1	ssa-personalservices.com
 127.0.0.1	chrisbekner02.duckdns.org
@@ -58813,8 +58816,4 @@
 127.0.0.1	amazbingjourneys.cyou
 127.0.0.1	optvimalwellness.cyou
 127.0.0.1	check.autistic.store
-127.0.0.1	confessionofwars.beauty
-127.0.0.1	ns2.ddav.top
-127.0.0.1	neti.openioc.us
-127.0.0.1	ns1.ddav.top
-# Number of entries: 58811
+# Number of entries: 58810
