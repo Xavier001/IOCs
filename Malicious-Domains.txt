@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-10 22:10:30 UTC                        #
+# Last updated: 2025-08-10 22:48:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cdachyd-mil.serveftp.com
 127.0.0.1	pcx.polarissonic.biz.id
 127.0.0.1	vmi2025279.contaboserver.net
 127.0.0.1	xxx20250710.com
@@ -58181,8 +58182,4 @@
 127.0.0.1	iconcss.com
 127.0.0.1	human-verify.shop
 127.0.0.1	check.reunite.online
-127.0.0.1	search.appauthservice.online
-127.0.0.1	ulgroup.appauthservice.online
-127.0.0.1	oidc.mail.appauthservice.online
-127.0.0.1	jrnsfwf.wenopc.tech
-# Number of entries: 58179
+# Number of entries: 58176
