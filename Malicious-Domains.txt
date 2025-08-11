@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-11 09:08:54 UTC                        #
+# Last updated: 2025-08-11 12:01:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	data.utfoundation.net
 127.0.0.1	pnraku.top
 127.0.0.1	dub.polarissonic.biz.id
 127.0.0.1	security.flheregurend.com
@@ -58044,14 +58045,4 @@
 127.0.0.1	openweathermap.top
 127.0.0.1	jacker.8ryqgrqeo.workers.dev
 127.0.0.1	check.jaceq.icu
-127.0.0.1	check.boxiq.icu
-127.0.0.1	recaptcha-verify-me-1c.pages.dev
-127.0.0.1	check.bypan.icu
-127.0.0.1	recaptcha-verify-9n.pages.dev
-127.0.0.1	recaptcha-verify-7z.pages.dev
-127.0.0.1	recaptcha-verify-1t.pages.dev
-127.0.0.1	check.qomay.icu
-127.0.0.1	check.rexie.icu
-127.0.0.1	static-cdn.appauthservice.online
-127.0.0.1	check.roqoi.icu
-# Number of entries: 58048
+# Number of entries: 58039
