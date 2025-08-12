@@ -21,7 +21,6 @@ api.co-operativefinance.com,Possible Cobalt Strike C2 Domain,/fwlink,44.193.202.
 api.cryptpro.cloud,Possible Cobalt Strike C2 Fronting Domain,/dhl,138.124.15.54
 api.cryptpro.cloud,Possible Cobalt Strike C2 Fronting Domain,/fam_newspaper,138.124.15.54
 api.regpad.net,Possible Cobalt Strike C2 Domain,/checkouts/internal/preloads.js,196.251.87.191
-api.teemaaby.dpdns.org,Possible Cobalt Strike C2 Domain,/cryptapi/v2/status,38.47.120.26
 api.uploads.winhomesky.com,Possible Cobalt Strike C2 Domain,/GovSistema/76e6f4821267ec98f94336ad5c500b21/download,8.219.211.139
 apiapi.it121fdg.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,43.163.116.82
 apiprod.regpad.net,Possible Cobalt Strike C2 Domain,/checkouts/internal/preloads.js,196.251.87.191
@@ -122,6 +121,7 @@ ns1.drgeregweg.ip-ddns.com,Possible Cobalt Strike C2 Domain,/load,169.239.129.45
 ns1.hkappdev.com,Possible Cobalt Strike C2 Domain,/__utm.gif,45.32.114.118
 ns1.hostwps.cn,Possible Cobalt Strike C2 Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books,107.174.115.43
 ns1.jquery.cn.com,Possible Cobalt Strike C2 Domain,/link,101.32.203.53
+ns1.kohlerco.site,Possible Cobalt Strike C2 Domain,/ptj,141.164.57.28
 ns1.nsebseshop.cloud,Possible Cobalt Strike C2 Domain,/v/741823546921,47.236.130.154
 ns1.p3bet44.live,Possible Cobalt Strike C2 Domain,/en-us/silentauth,138.68.182.42
 ns1.shgsfhdjstjsttjgjzddshgrw.info,Possible Cobalt Strike C2 Domain,/fwlink,141.98.10.88
@@ -178,7 +178,6 @@ www.333.cc,Possible Cobalt Strike C2 Fronted Domain,/api/v1/get,175.178.85.21
 www.591de.com,Possible Cobalt Strike C2 Fronted Domain,/api/getit,120.24.64.74
 www.ag3battery.com,Possible Cobalt Strike C2 Domain,/updates.rss,213.209.150.214
 www.cannabispatientcare.com,Possible Cobalt Strike C2 Domain,/cm,213.209.150.214
-www.chinagasholdings.space,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,101.133.229.117
 www.chinagasholdings.space,Possible Cobalt Strike C2 Domain,/wc/58462514417,101.133.229.117
 www.cioudfiear.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,18.222.126.236
 www.crownmagnetics.com,Possible Cobalt Strike C2 Domain,/pixel,213.209.150.214
@@ -198,8 +197,6 @@ www.xcxke.com,Possible Cobalt Strike C2 Fronted Domain,/api/v1/get,175.178.85.21
 xx.xinxiangnancs.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,143.92.39.50
 xxcaocs.556688.eu.org,Possible Cobalt Strike C2 Domain,/__utm.gif,103.146.158.129
 xxcaocs.556688.eu.org,Possible Cobalt Strike C2 Domain,/fwlink,103.146.158.129
-xxcaocs.556688.eu.org,Possible Cobalt Strike C2 Domain,/match,103.146.158.129
-xxcaocs.556688.eu.org,Possible Cobalt Strike C2 Domain,/ptj,103.146.158.129
 xxcaocs.556688.eu.org,Possible Cobalt Strike C2 Domain,/push,103.146.158.129
 yanzu.top,Possible Cobalt Strike C2 Domain,/activity,47.120.31.73
 yci416ame.5b0qyh1qd.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,202.144.192.24
