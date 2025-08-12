@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-12 10:17:07 UTC                        #
+# Last updated: 2025-08-12 12:02:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	pasotslv.click
+127.0.0.1	public-officer.gl.at.ply.gg
+127.0.0.1	melolz.3utilities.com
+127.0.0.1	noniggersallowed.ddns.net
+127.0.0.1	and-build.gl.at.ply.gg
+127.0.0.1	ns1.p3bet44.live
 127.0.0.1	pampersnastily.life
 127.0.0.1	rbx.death-angel.shop
 127.0.0.1	makslove.xyz
@@ -57755,5 +57761,4 @@
 127.0.0.1	padariadojoao.shop
 127.0.0.1	brazilmob.com
 127.0.0.1	spainmob.com
-127.0.0.1	check.auaaa.icu
-# Number of entries: 57750
+# Number of entries: 57755
