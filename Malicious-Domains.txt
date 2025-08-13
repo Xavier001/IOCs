@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-12 20:49:25 UTC                        #
+# Last updated: 2025-08-13 02:51:19 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	security.flavregurads.com
+127.0.0.1	dekelins.com
+127.0.0.1	flyinglotuss.shop
+127.0.0.1	okx.death-angel.shop
 127.0.0.1	ns1.kohlerco.site
 127.0.0.1	crypherx.com
 127.0.0.1	embanex.com
@@ -57655,6 +57659,4 @@
 127.0.0.1	hxappycove.cyou
 127.0.0.1	brixghtquest.cyou
 127.0.0.1	check.uueye.icu
-127.0.0.1	www.deskschoolpro.com
-127.0.0.1	cpanel.fithiphealthy.com
-# Number of entries: 57651
+# Number of entries: 57653
