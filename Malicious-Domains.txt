@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-13 20:49:25 UTC                        #
+# Last updated: 2025-08-14 00:02:42 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	amaprox.click
+127.0.0.1	fog.death-angel.shop
 127.0.0.1	test.woet.ip-ddns.com
 127.0.0.1	login.rootvk.messager.my
 127.0.0.1	e.messager.my
@@ -57320,4 +57322,4 @@
 127.0.0.1	movieartisan.info
 127.0.0.1	portal.miaariacademy.com
 127.0.0.1	check.wubav.icu
-# Number of entries: 57314
+# Number of entries: 57316
