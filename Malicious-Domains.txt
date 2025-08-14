@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-14 10:11:14 UTC                        #
+# Last updated: 2025-08-14 12:02:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	shyda6317.club
+127.0.0.1	thomas-compromise.gl.at.ply.gg
+127.0.0.1	agents-bought.gl.at.ply.gg
+127.0.0.1	english-trackbacks.gl.at.ply.gg
+127.0.0.1	msasteelalloys.cc
+127.0.0.1	programs-realty.gl.at.ply.gg
+127.0.0.1	series-segments.gl.at.ply.gg
 127.0.0.1	static.death-angel.shop
 127.0.0.1	antique-proper-prizes-civilian.trycloudflare.com
 127.0.0.1	oxford-sri-fast-eve.trycloudflare.com
@@ -57229,16 +57236,4 @@
 127.0.0.1	caco.blueskyanalytics.net
 127.0.0.1	u1.snorehedging.shop
 127.0.0.1	check.dibeq.icu
-127.0.0.1	certs.ltd
-127.0.0.1	physical-assessing.gl.at.ply.gg
-127.0.0.1	gamingzone90-25909.portmap.io
-127.0.0.1	sabaf-38910.portmap.host
-127.0.0.1	twentyfivev.crabdance.com
-127.0.0.1	service.bentleyalumni.com
-127.0.0.1	sigmagyattohio69420-30849.portmap.host
-127.0.0.1	wexodi1642-33696.portmap.host
-127.0.0.1	cachedump.cachnetdotcom.com
-127.0.0.1	apiexplorerzone.com
-127.0.0.1	check.gesom.icu
-127.0.0.1	twntdd20vt.top
-# Number of entries: 57235
+# Number of entries: 57230
