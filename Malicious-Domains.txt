@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-14 20:36:02 UTC                        #
+# Last updated: 2025-08-15 02:48:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	panel.infodatasinc.com
+127.0.0.1	prod.infodatasinc.com
+127.0.0.1	login.infodatasinc.com
+127.0.0.1	m2th3k.top
+127.0.0.1	dd.death-angel.shop
 127.0.0.1	telamtykina.live
 127.0.0.1	strm.messager.my
 127.0.0.1	host0.tryfancify.com
@@ -57148,7 +57153,4 @@
 127.0.0.1	boldquestq.cyou
 127.0.0.1	calmquzest.cyou
 127.0.0.1	check.qahov.icu
-127.0.0.1	hook.dayangpay.com
-127.0.0.1	ega.serveblog.net
-127.0.0.1	cld.cnkalciwcm.online
-# Number of entries: 57145
+# Number of entries: 57147
