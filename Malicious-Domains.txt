@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-15 10:10:36 UTC                        #
+# Last updated: 2025-08-15 12:02:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	172-104-53-127.ip.linodeusercontent.com
+127.0.0.1	z10nx710011-53037.portmap.host
+127.0.0.1	phentermine-institute.gl.at.ply.gg
 127.0.0.1	demo.shop.plex.name
 127.0.0.1	rianid.ir
 127.0.0.1	ee.vvbb321.com
@@ -57059,16 +57062,4 @@
 127.0.0.1	check.cigog.icu
 127.0.0.1	cs.lihualihua266.us.kg
 127.0.0.1	check.nuviq.icu
-127.0.0.1	check.kybax.icu
-127.0.0.1	check.qojyx.icu
-127.0.0.1	u1.sulkuntie.shop
-127.0.0.1	dynamicyspace.top
-127.0.0.1	newhoriozons.top
-127.0.0.1	lightojourney.top
-127.0.0.1	kaleoidoscopewa.top
-127.0.0.1	boldcyanvas.top
-127.0.0.1	openncanvas.top
-127.0.0.1	octothl.ddnsfree.com
-127.0.0.1	mirai.cinquento.publicvm.com
-127.0.0.1	11111111111111111111111111111111111111112ewdsacafa-32954.portmap.host
-# Number of entries: 57065
+# Number of entries: 57056
