@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-16 08:19:32 UTC                        #
+# Last updated: 2025-08-16 12:02:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	crimey1337-43127.portmap.host
+127.0.0.1	carljas.duckdns.org
+127.0.0.1	an-schema.gl.at.ply.gg
+127.0.0.1	qiuy.org
+127.0.0.1	windows-updates.nice-data.top
+127.0.0.1	9ra2xnnm8v62x.cfc-execute.bj.baidubce.com
 127.0.0.1	storage.givescash.com
 127.0.0.1	security.flqaergwaard.com
 127.0.0.1	bonzevud.com
@@ -57454,4 +57460,4 @@
 127.0.0.1	f1086012.xsph.ru
 127.0.0.1	fivexc5vs.top
 127.0.0.1	fivejj5sr.top
-# Number of entries: 57448
+# Number of entries: 57454
