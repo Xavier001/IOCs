@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-16 02:48:47 UTC                        #
+# Last updated: 2025-08-16 08:19:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	storage.givescash.com
+127.0.0.1	security.flqaergwaard.com
+127.0.0.1	bonzevud.com
+127.0.0.1	api.signatureofdocs.cfd
+127.0.0.1	cdoventures.com
+127.0.0.1	stefanchik.com
+127.0.0.1	cwcstudios.com
+127.0.0.1	laceyanns.com
+127.0.0.1	ratty.mywire.org
+127.0.0.1	ec2-3-146-105-91.us-east-2.compute.amazonaws.com
+127.0.0.1	ec2-16-170-232-86.eu-north-1.compute.amazonaws.com
 127.0.0.1	gitcompay.com
 127.0.0.1	smtp.mx.plex.name
 127.0.0.1	tl.dr.softlinko.com
@@ -57443,68 +57454,4 @@
 127.0.0.1	f1086012.xsph.ru
 127.0.0.1	fivexc5vs.top
 127.0.0.1	fivejj5sr.top
-127.0.0.1	happyhquest.top
-127.0.0.1	hopeqfulhearts.top
-127.0.0.1	ideasphark.top
-127.0.0.1	inspiqredminds.top
-127.0.0.1	jololyquest.top
-127.0.0.1	joyousqvibes.top
-127.0.0.1	kindredqspirits.top
-127.0.0.1	lnovewave.top
-127.0.0.1	luminousqpath.top
-127.0.0.1	nexntvision.top
-127.0.0.1	gratefulhkeart.top
-127.0.0.1	graqcefulstep.top
-127.0.0.1	flouriszhzozne.top
-127.0.0.1	glowpathy.top
-127.0.0.1	elysianfizelds.top
-127.0.0.1	embracekchange.top
-127.0.0.1	flourishklife.top
-127.0.0.1	dreamcrazfters.top
-127.0.0.1	dreamekrspace.top
-127.0.0.1	cherishzmoments.top
-127.0.0.1	creatiyvegroove.top
-127.0.0.1	calhmhaven.top
-127.0.0.1	cherikshedideas.top
-127.0.0.1	blisksfulfuture.top
-127.0.0.1	blissfzuljourney.top
-127.0.0.1	brhightfusion.top
-127.0.0.1	ampklevision.top
-127.0.0.1	aesthzeticday.top
-127.0.0.1	mqindfuljourney.top
-127.0.0.1	naqturewisdom.top
-127.0.0.1	oceanbreoeze.top
-127.0.0.1	opuqlentnest.top
-127.0.0.1	peacqegfulmind.top
-127.0.0.1	peakaspiroe.top
-127.0.0.1	quietreverie.top
-127.0.0.1	quiwetwaveso.top
-127.0.0.1	radiantnpulse.top
-127.0.0.1	rgadiantsoul.top
-127.0.0.1	riqsingstaro.top
-127.0.0.1	segrenewaves.top
-127.0.0.1	thwrivenest.top
-127.0.0.1	tragnquilgrove.top
-127.0.0.1	truenorthn.top
-127.0.0.1	uniggvgersaljoy.top
-127.0.0.1	uyniquequest.top
-127.0.0.1	uniwtysphere.top
-127.0.0.1	visiwonarypath.top
-127.0.0.1	vigbragntflow.top
-127.0.0.1	wzonderfield.top
-127.0.0.1	wkanderlustpath.top
-127.0.0.1	xpzloreideas.top
-127.0.0.1	youzrjoyfulplace.top
-127.0.0.1	zekalousspirit.top
-127.0.0.1	zenfylare.top
-127.0.0.1	zephzyrcloud.top
-127.0.0.1	contributioninspection.info
-127.0.0.1	dreamerfruits.cloud
-127.0.0.1	aheadrarry.help
-127.0.0.1	check.gaxfd.icu
-127.0.0.1	images-hunting.gl.at.ply.gg
-127.0.0.1	not-warm.gl.at.ply.gg
-127.0.0.1	bz-frnd1.ydns.eu
-127.0.0.1	systcisd.ddnsking.com
-127.0.0.1	msiserver.net
-# Number of entries: 57501
+# Number of entries: 57448
