@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-17 07:38:06 UTC                        #
+# Last updated: 2025-08-17 12:02:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	static.140.144.161.5.clients.your-server.de
+127.0.0.1	camerwamper-64923.portmap.host
+127.0.0.1	few-mines.gl.at.ply.gg
 127.0.0.1	l86.wpherc.dev
 127.0.0.1	global-weekends.net
 127.0.0.1	public-radios.gl.at.ply.gg
@@ -57105,14 +57108,4 @@
 127.0.0.1	nice.0818000.xyz
 127.0.0.1	endxlesspossi.tech
 127.0.0.1	check.wybps.icu
-127.0.0.1	ly.ardentlysqueamish.autos
-127.0.0.1	check.kedkq.icu
-127.0.0.1	xu1.dijiafuzhu.xyz
-127.0.0.1	travel.image-gene-saver.it.com
-127.0.0.1	ns2.drgeregweg.ip-ddns.com
-127.0.0.1	ns3.drgeregweg.ip-ddns.com
-127.0.0.1	ns1.drgeregweg.ip-ddns.com
-127.0.0.1	check.xomkb.icu
-127.0.0.1	vessweb.com
-127.0.0.1	check.jewsl.icu
-# Number of entries: 57109
+# Number of entries: 57102
