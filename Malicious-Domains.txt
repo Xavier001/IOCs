@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-18 07:10:25 UTC                        #
+# Last updated: 2025-08-18 12:02:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	185-196-10-10.cprapid.com
+127.0.0.1	ulkum.duckdns.org
+127.0.0.1	account-reached.gl.at.ply.gg
+127.0.0.1	trendmnicro.qzz.io
+127.0.0.1	sliv.ogzhenren.com
 127.0.0.1	t.dev.drakeinternationalagency.com
 127.0.0.1	customer-cheats.gl.at.ply.gg
 127.0.0.1	up.drivers-bp.com
@@ -57007,7 +57012,4 @@
 127.0.0.1	lestagames.world
 127.0.0.1	check.psjvt.icu
 127.0.0.1	unruffled-mccarthy.45-143-99-196.plesk.page
-127.0.0.1	check.ltxgh.icu
-127.0.0.1	rapiddevapi.com
-127.0.0.1	check.hdfkc.icu
-# Number of entries: 57004
+# Number of entries: 57006
