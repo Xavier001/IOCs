@@ -1,11 +1,30 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-18 12:02:39 UTC                        #
+# Last updated: 2025-08-18 20:02:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	pbj.cukurukuk.fun
+127.0.0.1	epidmov.top
+127.0.0.1	is-www.com
+127.0.0.1	www.is-www.com
+127.0.0.1	in-www.com
+127.0.0.1	www.in-www.com
+127.0.0.1	l5ewog1zc.localto.net
+127.0.0.1	lwtgiajga.localto.net
+127.0.0.1	kecfcnyn-28082.portmap.host
+127.0.0.1	kalilinujikoll-37508.portmap.host
+127.0.0.1	yehsnop.duckdns.org
+127.0.0.1	satybsa.duckdns.org
+127.0.0.1	yehnsops.duckdns.org
+127.0.0.1	started-knives.gl.at.ply.gg
+127.0.0.1	is-www.com
+127.0.0.1	www.is-www.com
+127.0.0.1	in-www.com
+127.0.0.1	www.in-www.com
+127.0.0.1	cpanel.northtru.net
 127.0.0.1	185-196-10-10.cprapid.com
 127.0.0.1	ulkum.duckdns.org
 127.0.0.1	account-reached.gl.at.ply.gg
@@ -56947,69 +56966,4 @@
 127.0.0.1	portal.edge-akadns.net
 127.0.0.1	ras.nzdfmil.nz
 127.0.0.1	again.sftech.one
-127.0.0.1	frtgg14th.top
-127.0.0.1	eightjj8sr.top
-127.0.0.1	frtncc14vs.top
-127.0.0.1	frtnhh14pn.top
-127.0.0.1	twntjj20sr.top
-127.0.0.1	tnwnthh20pn.top
-127.0.0.1	fivgg5sb.top
-127.0.0.1	frtggsb.top
-127.0.0.1	thrtgg13sb.top
-127.0.0.1	twntgg20th.top
-127.0.0.1	twntpp20sb.top
-127.0.0.1	onehh1pn.top
-127.0.0.1	frtnpp14sb.top
-127.0.0.1	tenjj10sr.top
-127.0.0.1	sixjj6sr.top
-127.0.0.1	twntcc20vs.top
-127.0.0.1	smoothsprin.click
-127.0.0.1	a1040668.xsph.ru
-127.0.0.1	a1080277.xsph.ru
-127.0.0.1	a1080822.xsph.ru
-127.0.0.1	a1080799.xsph.ru
-127.0.0.1	f1068264.xsph.ru
-127.0.0.1	ct18031.tw1.ru
-127.0.0.1	f1081725.xsph.ru
-127.0.0.1	f1080509.xsph.ru
-127.0.0.1	fivecc5vs.top
-127.0.0.1	sixcc6vs.top
-127.0.0.1	thrtcc13vs.top
-127.0.0.1	check.jmnfp.icu
-127.0.0.1	yuzbook.info
-127.0.0.1	dns.windowsupdate.cloud
-127.0.0.1	check.jtfsn.icu
-127.0.0.1	api.kaf.jp.eu.org
-127.0.0.1	usdgyzjey4h.top
-127.0.0.1	mioasfybz7y4.top
-127.0.0.1	nfuagy7fgus.top
-127.0.0.1	l284afj165tqz51.top
-127.0.0.1	icciilhkbdgjggn.top
-127.0.0.1	anccvfsrkauefoh.top
-127.0.0.1	kdljlignmgemecf.top
-127.0.0.1	comepreventsur.shop
-127.0.0.1	fraildinerip.shop
-127.0.0.1	crackerdisccre.shop
-127.0.0.1	creppugler.shop
-127.0.0.1	forcehoppen.shop
-127.0.0.1	erracitofge.shop
-127.0.0.1	carrofiwi.shop
-127.0.0.1	actleavvek.shop
-127.0.0.1	cloudsbeeseez.shop
-127.0.0.1	bucketrenouv.shop
-127.0.0.1	cherriestubb.shop
-127.0.0.1	closedsaccke.shop
-127.0.0.1	cavemelodice.shop
-127.0.0.1	achievesalutto.shop
-127.0.0.1	cobwebymitk.shop
-127.0.0.1	beatgoattk.shop
-127.0.0.1	ablekettled.shop
-127.0.0.1	avoidshirru.shop
-127.0.0.1	busheprettuv.shop
-127.0.0.1	urbjanjungle.tech
-127.0.0.1	certificate.hypnotherapy-training.co.nz
-127.0.0.1	mammeporche.top
-127.0.0.1	lestagames.world
-127.0.0.1	check.psjvt.icu
-127.0.0.1	unruffled-mccarthy.45-143-99-196.plesk.page
-# Number of entries: 57006
+# Number of entries: 56960
