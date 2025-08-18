@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-17 18:25:34 UTC                        #
+# Last updated: 2025-08-18 04:10:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	type.plex.name
+127.0.0.1	cloud.defenderblt.com
+127.0.0.1	openapi.messager.my
+127.0.0.1	avatars.messager.my
+127.0.0.1	id.rootvk.messager.my
+127.0.0.1	imgs2.messager.my
+127.0.0.1	acm.messager.my
+127.0.0.1	admiring-newton.86-54-42-217.plesk.page
+127.0.0.1	cukurukuk.fun
 127.0.0.1	bassjj.top
 127.0.0.1	yohlkdt3m.localto.net
 127.0.0.1	j4gn7dcux.localto.net
@@ -57017,6 +57026,4 @@
 127.0.0.1	patchpreseh.help
 127.0.0.1	nestlecompany.world
 127.0.0.1	naiftheking.xyz
-127.0.0.1	ec2-54-251-124-7.ap-southeast-1.compute.amazonaws.com
-127.0.0.1	google.baobecgiang.net
-# Number of entries: 57013
+# Number of entries: 57020
