@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-19 06:02:08 UTC                        #
+# Last updated: 2025-08-19 12:20:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	gitsecguards.com
+127.0.0.1	dfbgvswrtegf.com
+127.0.0.1	wuwu6.cfd
+127.0.0.1	075229cm.nyash.es
+127.0.0.1	is-www.com
+127.0.0.1	www.is-www.com
+127.0.0.1	in-www.com
+127.0.0.1	www.in-www.com
 127.0.0.1	regional-around.gl.at.ply.gg
 127.0.0.1	morning-divorce.gl.at.ply.gg
 127.0.0.1	mail.akastatementspdf.top
@@ -47976,7 +47984,4 @@
 127.0.0.1	service-ryfxx2w6-1305709033.gz.apigw.tencentcs.com
 127.0.0.1	cs.xsjl7932.top
 127.0.0.1	c372ttqm-443.euw.devtunnels.ms
-127.0.0.1	check.oaaye.online
-127.0.0.1	www.tictell.com
-127.0.0.1	check.yyaye.online
-# Number of entries: 47973
+# Number of entries: 47978
