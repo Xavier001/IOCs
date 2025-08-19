@@ -1,11 +1,33 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-19 12:20:57 UTC                        #
+# Last updated: 2025-08-19 21:10:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wew.shipensburginvestmentgroup.com
+127.0.0.1	ccm.messager.my
+127.0.0.1	docs.atlantascales.com
+127.0.0.1	heroicsstipend.top
+127.0.0.1	witasametry.live
+127.0.0.1	70zv5n4wj.localto.net
+127.0.0.1	compare-qualify.gl.at.ply.gg
+127.0.0.1	gmt-prevention.gl.at.ply.gg
+127.0.0.1	restaurants-colonial.gl.at.ply.gg
+127.0.0.1	telemety-sys.lol
+127.0.0.1	telemety-xbox.lol
+127.0.0.1	shagkeg.ru
+127.0.0.1	capitalior.ru
+127.0.0.1	copulardi.ru
+127.0.0.1	cursilibim.ru
+127.0.0.1	retrofik.ru
+127.0.0.1	runmgov.ru
+127.0.0.1	semipervaz.ru
+127.0.0.1	tiltyufaz.ru
+127.0.0.1	microsoft-telemetry.cc
+127.0.0.1	13.107.ihireinternationalagency.com
+127.0.0.1	develop.nxtintel.com
 127.0.0.1	gitsecguards.com
 127.0.0.1	dfbgvswrtegf.com
 127.0.0.1	wuwu6.cfd
@@ -47965,23 +47987,4 @@
 127.0.0.1	pasteflawwed.world
 127.0.0.1	hoyoverse.blog
 127.0.0.1	check.yuuuo.online
-127.0.0.1	gifted-ellis.142-202-240-137.plesk.page
-127.0.0.1	pls-use-a-whitelist.com
-127.0.0.1	helixsynergy.tech
-127.0.0.1	a1059347.xsph.ru
-127.0.0.1	cc28022.tw1.ru
-127.0.0.1	gerais481g.temp.swtest.ru
-127.0.0.1	fivenn5sr.top
-127.0.0.1	www.0e0.jp.eu.org
-127.0.0.1	check.uyeio.online
-127.0.0.1	eager-albattani.45-131-66-229.plesk.page
-127.0.0.1	check.oaoii.online
-127.0.0.1	check.iuuuu.online
-127.0.0.1	onlinelas.com
-127.0.0.1	bongdat7.site
-127.0.0.1	check.euuio.online
-127.0.0.1	check.iuyou.online
-127.0.0.1	service-ryfxx2w6-1305709033.gz.apigw.tencentcs.com
-127.0.0.1	cs.xsjl7932.top
-127.0.0.1	c372ttqm-443.euw.devtunnels.ms
-# Number of entries: 47978
+# Number of entries: 47981
