@@ -1,11 +1,31 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-20 00:03:02 UTC                        #
+# Last updated: 2025-08-20 08:43:33 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	canadianpizza.me
+127.0.0.1	theguardshield.com
+127.0.0.1	cyberguardex.com
+127.0.0.1	ac-backend.sarkhsolution.com
+127.0.0.1	ship-be.gl.at.ply.gg
+127.0.0.1	sophos-upd-srv.info
+127.0.0.1	knoeyyrt.com
+127.0.0.1	run0.cc
+127.0.0.1	soxsox1.twilightparadox.com
+127.0.0.1	studentessaywriting.org
+127.0.0.1	rule-passport.gl.at.ply.gg
+127.0.0.1	now-sight.gl.at.ply.gg
+127.0.0.1	stop-butterfly.gl.at.ply.gg
+127.0.0.1	lopersab.com
+127.0.0.1	miscorof.com
+127.0.0.1	picarrs.com
+127.0.0.1	thelinedesigns.com
+127.0.0.1	znaiweb.com
+127.0.0.1	www.dirigarmenttech.com
+127.0.0.1	msxzvip.top
 127.0.0.1	rootyar.messager.my
 127.0.0.1	auth.messager.my
 127.0.0.1	ec2-75-101-210-201.compute-1.amazonaws.com
@@ -47978,17 +47998,4 @@
 127.0.0.1	jqvmwznu.top
 127.0.0.1	xvaxzoac.top
 127.0.0.1	check.uuuyi.online
-127.0.0.1	lovexlearning.tech
-127.0.0.1	check.iyyuy.online
-127.0.0.1	lachenes.com
-127.0.0.1	kennasoul.shop
-127.0.0.1	bganmcza.top
-127.0.0.1	www.mhgxpcgd.top
-127.0.0.1	ecs-1-94-185-254.compute.hwclouds-dns.com
-127.0.0.1	home.fivenn5sr.top
-127.0.0.1	bloodyeleftor.world
-127.0.0.1	impactsupport.world
-127.0.0.1	pasteflawwed.world
-127.0.0.1	hoyoverse.blog
-127.0.0.1	check.yuuuo.online
-# Number of entries: 47985
+# Number of entries: 47992
