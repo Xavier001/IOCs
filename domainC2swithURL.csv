@@ -64,6 +64,7 @@ dzeninfra.site,Possible Cobalt Strike C2 Fronted Domain,/mg.css
 dzeninfra.xyz,Possible Cobalt Strike C2 Fronted Domain,/mg.css
 e6y14fa81bd39.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/v1/get
 edufinder.ir,Possible Cobalt Strike C2 Domain,/cm
+ehchq7m7rpvdr.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/siie=utf-8&f=8&rsv_bp=1&rsv_idx=1&ch=&tn=baidu&bar=&wd=
 file.flash-oss.info,Possible Cobalt Strike C2 Domain,/api/3
 file1.amelicen.com,Possible Cobalt Strike C2 Domain,/owa/oBdoLTRDQTuAO2AgO8Vg1
 file2.amelicen.com,Possible Cobalt Strike C2 Domain,/owa/oBdoLTRDQTuAO2AgO8Vg1
@@ -151,6 +152,7 @@ qms.jasolar.com,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min
 roaj1om6hh5dchv0xjudgxtt0fcucdjh.scvhost.click,Possible Cobalt Strike C2 Domain,/fwlink
 scan.daztar.com,Possible Cobalt Strike C2 Domain,/images/09.png
 sdkreport.happilygame.com,Possible Cobalt Strike C2 Fronted Domain,/jquerys-6.3.5.max.js
+security.microsoftwindows.biz,Possible Cobalt Strike C2 Domain,/push
 service-pzyf56w9-1304691225.bj.apigw.tencentcs.com,Possible Cobalt Strike C2 Domain,/api/x
 service-rchqbzvz-1301033415.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x
 service-tencentcloud-1317709866.sh.apigw.tencentcs.com,Possible Cobalt Strike C2 Fronting Domain,/api/v1/get
@@ -182,7 +184,6 @@ www.expohsp.com,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min
 www.gxrd.gov.cn,Possible Cobalt Strike C2 Fronted Domain,/gateway/api/user
 www.jmgle.com,Possible Cobalt Strike C2 Fronted Domain,/dist/css/bootstrap.min.css
 www.mfmni.shop,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
-www.microsoftwindows.biz,Possible Cobalt Strike C2 Domain,/__utm.gif
 www.printermaintenanceservice.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.xcxke.com,Possible Cobalt Strike C2 Fronted Domain,/api/v1/get
 xxcaocs.556688.eu.org,Possible Cobalt Strike C2 Domain,/__utm.gif
