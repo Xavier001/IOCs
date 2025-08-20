@@ -1,11 +1,31 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-20 12:10:26 UTC                        #
+# Last updated: 2025-08-20 19:10:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	rtx.shipensburginvestmentgroup.com
+127.0.0.1	kb34vsd.duckdns.org
+127.0.0.1	ksj43ts.duckdns.org
+127.0.0.1	jskeywon.duckdns.org
+127.0.0.1	reply-suits.gl.at.ply.gg
+127.0.0.1	vxnishhisbacl-53480.portmap.host
+127.0.0.1	jul5050quasae.duckdns.org
+127.0.0.1	jul5050quasaf.duckdns.org
+127.0.0.1	jul5050quasab.duckdns.org
+127.0.0.1	jul5050quasac.duckdns.org
+127.0.0.1	jul5050quasad.duckdns.org
+127.0.0.1	jul5050quasa.duckdns.org
+127.0.0.1	688c674cf3f6d.xvest6.ru
+127.0.0.1	stellob.top
+127.0.0.1	sodipuc.top
+127.0.0.1	bradtae.com
+127.0.0.1	introduction-hello.gl.at.ply.gg
+127.0.0.1	newthingsforagirltolovebestpersoninthewo.duckdns.org
+127.0.0.1	demo-ztxhfeoqql.cn-hangzhou.fcapp.run
+127.0.0.1	bbrwyckeadd5e.cfc-execute.bj.baidubce.com
 127.0.0.1	upload.shipensburginvestmentgroup.com
 127.0.0.1	kalelsianox.twilightparadox.com
 127.0.0.1	klm25.zapto.org
@@ -47855,30 +47875,4 @@
 127.0.0.1	br860nfrhp8wt.cfc-execute.bj.baidubce.com
 127.0.0.1	meteoclok.online
 127.0.0.1	www.lihua520.us.kg
-127.0.0.1	www.themamadi.ir
-127.0.0.1	felka.wtf
-127.0.0.1	felka.lol
-127.0.0.1	ns1.ersanca.com
-127.0.0.1	nnmmab.0u8n.com
-127.0.0.1	absensnosed.shop
-127.0.0.1	belongutoppe.shop
-127.0.0.1	casedswarmedo.shop
-127.0.0.1	deprescatve.shop
-127.0.0.1	graduatteusez.shop
-127.0.0.1	horizocoarhe.shop
-127.0.0.1	rationpolicemof.shop
-127.0.0.1	slantposiz.shop
-127.0.0.1	waterubakke.shop
-127.0.0.1	suggesteaco.shop
-127.0.0.1	decreaserid.world
-127.0.0.1	lockepolitter.click
-127.0.0.1	batteryaffin.world
-127.0.0.1	check.uueoe.online
-127.0.0.1	seminary.envisionfonddulac.com
-127.0.0.1	searchweb.top
-127.0.0.1	check.ayieo.online
-127.0.0.1	remaxnoc.com
-127.0.0.1	mx.page.jp.eu.org
-127.0.0.1	update-api.dtbr744y.workers.dev
-127.0.0.1	nicefeide.top
-# Number of entries: 47875
+# Number of entries: 47869
