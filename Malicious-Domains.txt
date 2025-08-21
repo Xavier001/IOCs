@@ -1,11 +1,35 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-21 04:01:06 UTC                        #
+# Last updated: 2025-08-21 10:10:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	api.shipensburginvestmentgroup.com
+127.0.0.1	updates.highendmark.com
+127.0.0.1	friendly-mercy.gl.at.ply.gg
+127.0.0.1	therefore-nothing.gl.at.ply.gg
+127.0.0.1	remcos.as.vip
+127.0.0.1	vivepakx.ddns.net
+127.0.0.1	allahbotnet.duckdns.org
+127.0.0.1	cnc.9257.org
+127.0.0.1	cnc.zinomc.com
+127.0.0.1	codingvix.win
+127.0.0.1	streamcodex.online
+127.0.0.1	p6nnjzgxl.localto.net
+127.0.0.1	4mxlrhcab.localto.net
+127.0.0.1	jdpg1sudz.localto.net
+127.0.0.1	solnoq.top
+127.0.0.1	cybertron.help
+127.0.0.1	mkbr.xyz
+127.0.0.1	lisastevenson-42329.portmap.host
+127.0.0.1	too-decorating.gl.at.ply.gg
+127.0.0.1	devhdfcbank.com
+127.0.0.1	rootyas.messager.my
+127.0.0.1	kws2.messager.my
+127.0.0.1	bbs.blyyzs.com
+127.0.0.1	www.ueuser.com
 127.0.0.1	kws4-1.messager.my
 127.0.0.1	mail.messager.my
 127.0.0.1	favicon.messager.my
@@ -47842,36 +47866,4 @@
 127.0.0.1	obsidian.pagedownload.pro
 127.0.0.1	chrome.downloadlink.icu
 127.0.0.1	check.iauou.online
-127.0.0.1	chatgpt-storage.com
-127.0.0.1	jobstreet-storage.com
-127.0.0.1	calendly-storage.com
-127.0.0.1	deepseek-storage.com
-127.0.0.1	clickup-dashboard.com
-127.0.0.1	workdisposition.com
-127.0.0.1	chatgpt-dashboard.org
-127.0.0.1	check.yayei.online
-127.0.0.1	dianzanla.com
-127.0.0.1	gpt.rim.jp.eu.org
-127.0.0.1	check.ayaiu.online
-127.0.0.1	vps-84323c44.vps.ovh.net
-127.0.0.1	remcosf2025.duckdns.org
-127.0.0.1	halelgeeh8iugoty3.duckdns.org
-127.0.0.1	16enero.con-ip.com
-127.0.0.1	sales778.bounceme.net
-127.0.0.1	halelgeeh8iugoty1.duckdns.org
-127.0.0.1	donato.con-ip.com
-127.0.0.1	halelgeeh8iugoty2.duckdns.org
-127.0.0.1	amuntgroupfree.ip-ddns.com
-127.0.0.1	halelgeeh8iugoty4.duckdns.org
-127.0.0.1	greatkindnessfromgodcoming.duckdns.org
-127.0.0.1	rmc1995.duckdns.org
-127.0.0.1	tama333.duckdns.org
-127.0.0.1	figonenye.duckdns.org
-127.0.0.1	odg01.is-a-landscaper.com
-127.0.0.1	u1.shredderradar.shop
-127.0.0.1	huyandvit-cnc.duckdns.org
-127.0.0.1	woo-headless-bcknd.utvikl.es
-127.0.0.1	penetratebatt.pw
-127.0.0.1	governoagoal.pw
-127.0.0.1	check.eiuau.online
-# Number of entries: 47868
+# Number of entries: 47860
