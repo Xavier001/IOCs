@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-20 19:10:23 UTC                        #
+# Last updated: 2025-08-21 04:01:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	kws4-1.messager.my
+127.0.0.1	mail.messager.my
+127.0.0.1	favicon.messager.my
 127.0.0.1	rtx.shipensburginvestmentgroup.com
 127.0.0.1	kb34vsd.duckdns.org
 127.0.0.1	ksj43ts.duckdns.org
@@ -47871,8 +47874,4 @@
 127.0.0.1	penetratebatt.pw
 127.0.0.1	governoagoal.pw
 127.0.0.1	check.eiuau.online
-127.0.0.1	dha9zervwzq7q.cfc-execute.bj.baidubce.com
-127.0.0.1	br860nfrhp8wt.cfc-execute.bj.baidubce.com
-127.0.0.1	meteoclok.online
-127.0.0.1	www.lihua520.us.kg
-# Number of entries: 47869
+# Number of entries: 47868
