@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-21 10:10:27 UTC                        #
+# Last updated: 2025-08-21 12:02:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	keepmasterr.com
+127.0.0.1	applications-designer.gl.at.ply.gg
+127.0.0.1	heart-hunger.gl.at.ply.gg
+127.0.0.1	authors-recall.gl.at.ply.gg
+127.0.0.1	may-steering.gl.at.ply.gg
 127.0.0.1	api.shipensburginvestmentgroup.com
 127.0.0.1	updates.highendmark.com
 127.0.0.1	friendly-mercy.gl.at.ply.gg
@@ -47866,4 +47871,4 @@
 127.0.0.1	obsidian.pagedownload.pro
 127.0.0.1	chrome.downloadlink.icu
 127.0.0.1	check.iauou.online
-# Number of entries: 47860
+# Number of entries: 47865
