@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-21 21:10:22 UTC                        #
+# Last updated: 2025-08-22 00:01:15 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	skcjdghscjkd9.softether.net
+127.0.0.1	ns2.zhengwubiaoge.top
+127.0.0.1	ns1.zhengwubiaoge.top
 127.0.0.1	stic.shipensburginvestmentgroup.com
 127.0.0.1	prdelb.sgsrmy.org
 127.0.0.1	awsapi.xyz
@@ -47736,6 +47739,4 @@
 127.0.0.1	check.aoyai.online
 127.0.0.1	kurrenpowed.run
 127.0.0.1	check.eiuuu.online
-127.0.0.1	application-update.australiasoutheast.cloudapp.azure.com
-127.0.0.1	www.projectdocs.io
-# Number of entries: 47732
+# Number of entries: 47733
