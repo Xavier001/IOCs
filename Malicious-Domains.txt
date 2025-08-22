@@ -1,11 +1,53 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-22 12:01:47 UTC                        #
+# Last updated: 2025-08-22 20:01:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	api.rootvk.messager.my
+127.0.0.1	g92a8n.hidessh.my.id
+127.0.0.1	coop-digi.de
+127.0.0.1	loeisd.duckdns.org
+127.0.0.1	cloedjw.duckdns.org
+127.0.0.1	wertyhfg.duckdns.org
+127.0.0.1	bckstark54.duckdns.org
+127.0.0.1	newstark54.duckdns.org
+127.0.0.1	friends-optional.gl.at.ply.gg
+127.0.0.1	fucktheworlds.duckdns.org
+127.0.0.1	3zoz.duckdns.org
+127.0.0.1	jacknourssss.duckdns.org
+127.0.0.1	sqcorporation-40357.portmap.host
+127.0.0.1	umbragequartz.pro
+127.0.0.1	forcepear.info
+127.0.0.1	roofspade.info
+127.0.0.1	web.ydihelp.top
+127.0.0.1	web.xvbhelp.top
+127.0.0.1	shzlive.top
+127.0.0.1	awglive.top
+127.0.0.1	solrdt.top
+127.0.0.1	solvqs.top
+127.0.0.1	pnssol.top
+127.0.0.1	portal.manualfinder.app
+127.0.0.1	stormcoming.com
+127.0.0.1	m-appsuite.com
+127.0.0.1	pdfappsuite.com
+127.0.0.1	click4pdf.com
+127.0.0.1	pdfworker.com
+127.0.0.1	pdforsmartminds.com
+127.0.0.1	pdfhubspot.com
+127.0.0.1	pdfideas.com
+127.0.0.1	typdf.com
+127.0.0.1	agipdf.com
+127.0.0.1	gpt-pdf.com
+127.0.0.1	scholarpdf.com
+127.0.0.1	pdf-central.com
+127.0.0.1	fileconverterdownload.com
+127.0.0.1	printappsuite.com
+127.0.0.1	findthemanual.com
+127.0.0.1	morethanmanuals.com
+127.0.0.1	manualsappsuite.com
 127.0.0.1	hope-deutschland.gl.at.ply.gg
 127.0.0.1	2025takby.duckdns.org
 127.0.0.1	googlei.zapto.org
@@ -11381,7 +11423,6 @@
 127.0.0.1	railwaystomach.xyz
 127.0.0.1	wishson.icu
 127.0.0.1	injector.ddns.net
-127.0.0.1	files.catbox.moe
 127.0.0.1	have-printing.gl.at.ply.gg
 127.0.0.1	hackerhacker312312-57133.portmap.io
 127.0.0.1	server25.mentality.cloud
@@ -47682,40 +47723,4 @@
 127.0.0.1	12825.funian.xyz
 127.0.0.1	wxx.aliyunn.uno
 127.0.0.1	ns1.kerrerf.com
-127.0.0.1	host-185-193-126-20.njalla.net
-127.0.0.1	topics22.live
-127.0.0.1	trumpboost.pro
-127.0.0.1	check.iyaea.icu
-127.0.0.1	sponsor.sewacanada.org
-127.0.0.1	check.iauyy.icu
-127.0.0.1	neglectdivid.world
-127.0.0.1	censcusfunw.icu
-127.0.0.1	lawyesaved.today
-127.0.0.1	miscrirarisz.today
-127.0.0.1	reasonablerwi.today
-127.0.0.1	embarkiffe.shop
-127.0.0.1	hearemiscrati.shop
-127.0.0.1	fallerestez.digital
-127.0.0.1	girflekoma.digital
-127.0.0.1	ramatwo.site
-127.0.0.1	trumpboost.vip
-127.0.0.1	front-trader.gl.at.ply.gg
-127.0.0.1	so-cells.gl.at.ply.gg
-127.0.0.1	xtr.all4syrian.com
-127.0.0.1	sembrani.duckdns.org
-127.0.0.1	islands-toy.gl.at.ply.gg
-127.0.0.1	btlryan.webredirect.org
-127.0.0.1	antivir.myq-see.com
-127.0.0.1	783264.zapto.org
-127.0.0.1	started-smtp.gl.at.ply.gg
-127.0.0.1	virus00963.ddns.net
-127.0.0.1	qmffk002.ddns.net
-127.0.0.1	check.eyoiu.icu
-127.0.0.1	sites-ascii.gl.at.ply.gg
-127.0.0.1	check.yieue.icu
-127.0.0.1	fk.fdsfdsdfdsf.co
-127.0.0.1	check.yeiia.icu
-127.0.0.1	check.ayyiy.icu
-127.0.0.1	ubuntu.tel
-127.0.0.1	u1.stungoverhaul.shop
-# Number of entries: 47712
+# Number of entries: 47717
