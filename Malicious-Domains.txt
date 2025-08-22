@@ -1,11 +1,34 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-22 00:01:15 UTC                        #
+# Last updated: 2025-08-22 10:10:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	out.p.socialsalesnaija.com
+127.0.0.1	iwp41178-44386.portmap.host
+127.0.0.1	jj.aass654.com
+127.0.0.1	jj.xxcc789.com
+127.0.0.1	jj.vvbb321.com
+127.0.0.1	jj.jjkk567.com
+127.0.0.1	jj.nnmm234.com
+127.0.0.1	craiglist.ignorelist.com
+127.0.0.1	credit-destroyed.gl.at.ply.gg
+127.0.0.1	countries-degree.gl.at.ply.gg
+127.0.0.1	least-revised.gl.at.ply.gg
+127.0.0.1	image-advantage.gl.at.ply.gg
+127.0.0.1	things-uses.gl.at.ply.gg
+127.0.0.1	myth.instantlypay.org
+127.0.0.1	nexus-cloud-360.com
+127.0.0.1	showypresume.ru
+127.0.0.1	iietrich.cfd
+127.0.0.1	escencearuba.com
+127.0.0.1	boos.caramelmojo.com
+127.0.0.1	onedomainpro.com
+127.0.0.1	suspendedclash.shop
+127.0.0.1	trannlu.top
+127.0.0.1	www.huanyinxagsxy.fun
 127.0.0.1	skcjdghscjkd9.softether.net
 127.0.0.1	ns2.zhengwubiaoge.top
 127.0.0.1	ns1.zhengwubiaoge.top
@@ -47697,46 +47720,4 @@
 127.0.0.1	hairteeth.icu
 127.0.0.1	check.oyyyo.icu
 127.0.0.1	check.oyaoe.icu
-127.0.0.1	web.4t.com
-127.0.0.1	vf5qziznc.theworkpc.com
-127.0.0.1	newcli.bumbleshrimp.com
-127.0.0.1	prideforgek.fun
-127.0.0.1	elvnnn11sr.top
-127.0.0.1	tencc10vs.top
-127.0.0.1	ninecc9vs.top
-127.0.0.1	tennn10sr.top
-127.0.0.1	elvncc11vs.top
-127.0.0.1	uncertainyelemz.bet
-127.0.0.1	reconcilen.cyou
-127.0.0.1	lompappojumm.click
-127.0.0.1	paggerquitl.click
-127.0.0.1	babyedopposer.site
-127.0.0.1	vavstcilke.site
-127.0.0.1	cs44110.tw1.ru
-127.0.0.1	a1002438.xsph.ru
-127.0.0.1	rodina.space
-127.0.0.1	a1083178.xsph.ru
-127.0.0.1	timofezq.beget.tech
-127.0.0.1	tzeight8pn.top
-127.0.0.1	thrtnn13sr.top
-127.0.0.1	sebel.sbs
-127.0.0.1	check.iouii.online
-127.0.0.1	check.yyuea.online
-127.0.0.1	download.cdn-serveri2245-ns.shop
-127.0.0.1	owerenvokken.run
-127.0.0.1	mui.cdn-serveri4345-ns.shop
-127.0.0.1	europeservices-01.sytes.net
-127.0.0.1	a1.nbdsnb2.top
-127.0.0.1	a1.yydsnb1.top
-127.0.0.1	check.iyoio.online
-127.0.0.1	check.aeuye.online
-127.0.0.1	139-162-1-232.ip.linodeusercontent.com
-127.0.0.1	peacefulsuns.shop
-127.0.0.1	envisionfonddulac.envisionfonddulac.org
-127.0.0.1	y3yy5434yg3y4y-35188.portmap.host
-127.0.0.1	mrkoko-25195.portmap.io
-127.0.0.1	arthurus36.duckdns.org
-127.0.0.1	check.aoyai.online
-127.0.0.1	kurrenpowed.run
-127.0.0.1	check.eiuuu.online
-# Number of entries: 47733
+# Number of entries: 47714
