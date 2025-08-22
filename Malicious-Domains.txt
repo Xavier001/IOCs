@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-22 10:10:22 UTC                        #
+# Last updated: 2025-08-22 12:01:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hope-deutschland.gl.at.ply.gg
+127.0.0.1	2025takby.duckdns.org
+127.0.0.1	googlei.zapto.org
+127.0.0.1	itzprocabal.ddns.net
 127.0.0.1	out.p.socialsalesnaija.com
 127.0.0.1	iwp41178-44386.portmap.host
 127.0.0.1	jj.aass654.com
@@ -47714,10 +47718,4 @@
 127.0.0.1	check.ayyiy.icu
 127.0.0.1	ubuntu.tel
 127.0.0.1	u1.stungoverhaul.shop
-127.0.0.1	trumpsbtc.com
-127.0.0.1	rakeidea.xyz
-127.0.0.1	booksstamp.icu
-127.0.0.1	hairteeth.icu
-127.0.0.1	check.oyyyo.icu
-127.0.0.1	check.oyaoe.icu
-# Number of entries: 47714
+# Number of entries: 47712
