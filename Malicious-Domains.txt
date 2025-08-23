@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-23 12:00:42 UTC                        #
+# Last updated: 2025-08-23 20:01:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	filin.messager.my
+127.0.0.1	mflo2t-24280.portmap.host
+127.0.0.1	kws5.messager.my
+127.0.0.1	lm.p.socialsalesnaija.com
 127.0.0.1	domaninspalillos.duckdns.org
 127.0.0.1	shadow2515.duckdns.org
 127.0.0.1	edpisblacklmfao-38234.portmap.host
@@ -47516,33 +47520,4 @@
 127.0.0.1	cpcalendars.police-mt077.website
 127.0.0.1	webmail.ufabetgameslover.xyz
 127.0.0.1	techniccell.click
-127.0.0.1	u1.shalebrussels.shop
-127.0.0.1	check.sinev.icu
-127.0.0.1	webdisk.businesshostz.xyz
-127.0.0.1	cpanel.domizmusk.website
-127.0.0.1	cpanel.fieldznorms.xyz
-127.0.0.1	cpcontacts.generalztipsal.xyz
-127.0.0.1	webdisk.businesswithloyal.website
-127.0.0.1	webmail.dgmrtktnewz.website
-127.0.0.1	webmail.businesspros.xyz
-127.0.0.1	cpanel.dmfortsites.xyz
-127.0.0.1	cpcontacts.artnewzdaily.xyz
-127.0.0.1	webmail.homeremodel.website
-127.0.0.1	cpcontacts.bestgamesofufabet.xyz
-127.0.0.1	webmail.sportsfootball.website
-127.0.0.1	webdisk.businesseshub.xyz
-127.0.0.1	webmail.enjoyedufabet.xyz
-127.0.0.1	cpcontacts.fivetopbusiness.xyz
-127.0.0.1	effectsstardust.shop
-127.0.0.1	check.nevyz.icu
-127.0.0.1	sroglad.com
-127.0.0.1	check.fuher.icu
-127.0.0.1	cpanel.sportscasino.website
-127.0.0.1	webmail.10bestbusiness.website
-127.0.0.1	check.zoxod.icu
-127.0.0.1	top.4t.com
-127.0.0.1	check.oeoye.icu
-127.0.0.1	botnet.voct.org
-127.0.0.1	check.aiyay.icu
-127.0.0.1	speedtransitnet.com
-# Number of entries: 47539
+# Number of entries: 47514
