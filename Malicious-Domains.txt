@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-24 06:39:30 UTC                        #
+# Last updated: 2025-08-24 12:10:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	gate.socialsalesnaija.com
+127.0.0.1	staging.germ-ac.com
+127.0.0.1	simple-commerce.gl.at.ply.gg
+127.0.0.1	opinion-stolen.gl.at.ply.gg
+127.0.0.1	artist-singing.gl.at.ply.gg
+127.0.0.1	cable-aged.gl.at.ply.gg
+127.0.0.1	however-extends.gl.at.ply.gg
 127.0.0.1	kk.aass654.com
 127.0.0.1	kk.xxcc789.com
 127.0.0.1	kk.vvbb321.com
@@ -47466,15 +47473,4 @@
 127.0.0.1	check.lefoh.icu
 127.0.0.1	check.mowuf.icu
 127.0.0.1	acuweld.ddns.net
-127.0.0.1	webmail.sports777games.com
-127.0.0.1	webdisk.testmedia89.com
-127.0.0.1	cpcontacts.welovetotogames.com
-127.0.0.1	cpcalendars.tectotechnology.com
-127.0.0.1	cpcontacts.newzwireread.com
-127.0.0.1	webmail.bestnewznetworkofone.com
-127.0.0.1	webdisk.topdmdarama.com
-127.0.0.1	check.wefoj.icu
-127.0.0.1	pasteware172.ddns.net
-127.0.0.1	wonderchristmas.store
-127.0.0.1	netupdates.info
-# Number of entries: 47471
+# Number of entries: 47467
