@@ -1,11 +1,64 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-24 00:10:24 UTC                        #
+# Last updated: 2025-08-24 06:39:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	kk.aass654.com
+127.0.0.1	kk.xxcc789.com
+127.0.0.1	kk.vvbb321.com
+127.0.0.1	kk.jjkk567.com
+127.0.0.1	kk.nnmm234.com
+127.0.0.1	smartpdfzone.com
+127.0.0.1	clickconvertio.com
+127.0.0.1	horoscopesbyonestart.com
+127.0.0.1	launchonestart.co
+127.0.0.1	onestartemplates.com
+127.0.0.1	templatesbyonestart.com
+127.0.0.1	yoursignwithonestart.com
+127.0.0.1	viewpdfonestart.com
+127.0.0.1	printbyappsuite.com
+127.0.0.1	smartpdflab.com
+127.0.0.1	pdfplusconvert.com
+127.0.0.1	pdfhubtoday.com
+127.0.0.1	pdfonestart.ai
+127.0.0.1	pdfbyappsuite.com
+127.0.0.1	pdfguides.com
+127.0.0.1	onestartpdfs.com
+127.0.0.1	onestartprint.com
+127.0.0.1	onestartconverter.com
+127.0.0.1	onestartmanuals.com
+127.0.0.1	onestartpdf.com
+127.0.0.1	launchpdfplus.com
+127.0.0.1	manualsonestart.com
+127.0.0.1	justconvertpdf.com
+127.0.0.1	manualsbyappsuite.com
+127.0.0.1	converterbyonestart.com
+127.0.0.1	convertwithonestart.com
+127.0.0.1	foundpdf.com
+127.0.0.1	astrologyappsuite.com
+127.0.0.1	pdf-working.com
+127.0.0.1	manualsfc.com
+127.0.0.1	ascenti-stage.fiora.agency
+127.0.0.1	easydirectpdf.com
+127.0.0.1	macverification.com
+127.0.0.1	mac-best.com
+127.0.0.1	slowdevaction.com
+127.0.0.1	cdnpoint.guru
+127.0.0.1	nextpage-gwg.pages.dev
+127.0.0.1	fastmirror.click
+127.0.0.1	cnc.504.su
+127.0.0.1	rockwood.call105.net
+127.0.0.1	host117.xtpanel.org
+127.0.0.1	autodiscover.milkir.ro
+127.0.0.1	nonameartie-27276.portmap.host
+127.0.0.1	beginning-chancellor.gl.at.ply.gg
+127.0.0.1	million-sanyo.gl.at.ply.gg
+127.0.0.1	ec2-13-236-179-186.ap-southeast-2.compute.amazonaws.com
+127.0.0.1	ec2-18-220-79-189.us-east-2.compute.amazonaws.com
+127.0.0.1	broker-1.t48zw5f8.data.bizmrg.com
 127.0.0.1	dlp.socialsalesnaija.com
 127.0.0.1	logdz.messager.my
 127.0.0.1	filin.messager.my
@@ -47424,41 +47477,4 @@
 127.0.0.1	pasteware172.ddns.net
 127.0.0.1	wonderchristmas.store
 127.0.0.1	netupdates.info
-127.0.0.1	check.zasek.icu
-127.0.0.1	cpanel.testmedia89.com
-127.0.0.1	cpanel.techdeepart.com
-127.0.0.1	cpanel.bestnewznetworks.com
-127.0.0.1	cpcontacts.gamesofalltoto.com
-127.0.0.1	cpcontacts.newzofnetworksera.com
-127.0.0.1	webmail.sportsdhub.com
-127.0.0.1	cpcalendars.gamesofsportsandtoto.com
-127.0.0.1	webmail.topmediainfos.com
-127.0.0.1	webmail.gamesofsportsandtoto.com
-127.0.0.1	cpcalendars.theonesevennews.com
-127.0.0.1	avtest.salsaspots.com
-127.0.0.1	salsaspots.com
-127.0.0.1	cpanel.allthefiver.com
-127.0.0.1	jin11.xiaodong88.cn
-127.0.0.1	bill-finite.gl.at.ply.gg
-127.0.0.1	group-rats.gl.at.ply.gg
-127.0.0.1	jvurrwti4.localto.net
-127.0.0.1	story-secondary.gl.at.ply.gg
-127.0.0.1	fpaul-nw.gl.at.ply.gg
-127.0.0.1	dwasf-31668.portmap.host
-127.0.0.1	wooff-21122.portmap.host
-127.0.0.1	freshserver.ddns.net
-127.0.0.1	sunrisebcg.duckdns.org
-127.0.0.1	zyg.ydns.eu
-127.0.0.1	opy.ydns.eu
-127.0.0.1	filirat.ddns.net
-127.0.0.1	lxtihmjohnson163.airdns.org
-127.0.0.1	suprasrvoknew.giize.com
-127.0.0.1	supercellcalls.com
-127.0.0.1	somakeawish.com
-127.0.0.1	ortain7histos1.duckdns.org
-127.0.0.1	check.losex.icu
-127.0.0.1	sketctedpilld.digital
-127.0.0.1	surveycupboar.digital
-127.0.0.1	mosquwinteck.digital
-127.0.0.1	physicalsnowwer.digital
-# Number of entries: 47455
+# Number of entries: 47471
