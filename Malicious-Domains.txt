@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-23 20:01:27 UTC                        #
+# Last updated: 2025-08-24 00:10:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dlp.socialsalesnaija.com
+127.0.0.1	logdz.messager.my
 127.0.0.1	filin.messager.my
 127.0.0.1	mflo2t-24280.portmap.host
 127.0.0.1	kws5.messager.my
@@ -47459,65 +47461,4 @@
 127.0.0.1	surveycupboar.digital
 127.0.0.1	mosquwinteck.digital
 127.0.0.1	physicalsnowwer.digital
-127.0.0.1	cpanel.bigmedianetwrk.com
-127.0.0.1	webdisk.businesstimehub.com
-127.0.0.1	cpcalendars.onebusinessportal.xyz
-127.0.0.1	webdisk.paranewslivesab.xyz
-127.0.0.1	cpcontacts.trendingbstuisports.xyz
-127.0.0.1	cpanel.bestufaneedsgames.xyz
-127.0.0.1	cpcalendars.bestnewznetworks.com
-127.0.0.1	cpanel.totobestliv.com
-127.0.0.1	cpcalendars.homeimprovementbusiness.xyz
-127.0.0.1	webmail.onlinegameshub.xyz
-127.0.0.1	cavite.eu
-127.0.0.1	cpcalendars.textcentrzdmnewz.xyz
-127.0.0.1	cpanel.mindfulwellnesshq.xyz
-127.0.0.1	webdisk.police-mt077.website
-127.0.0.1	webmail.bestonenewznet.com
-127.0.0.1	cpcalendars.levelfrstdm.xyz
-127.0.0.1	cpanel.techspilotx.website
-127.0.0.1	webmail.pointtotechiworld.xyz
-127.0.0.1	cpcalendars.bottomofbusiness.xyz
-127.0.0.1	webdisk.pointtotechiworld.xyz
-127.0.0.1	webdisk.mindfulwellnesshq.xyz
-127.0.0.1	cpcalendars.businessnewznetwork.com
-127.0.0.1	cpcalendars.fortlivenewzshub.xyz
-127.0.0.1	webmail.takeufagame1111.xyz
-127.0.0.1	webmail.games777games.xyz
-127.0.0.1	cpanel.apexhomeimprovement.website
-127.0.0.1	cpcontacts.gamesofalltotobest.xyz
-127.0.0.1	cpcontacts.ufabetgames1010.xyz
-127.0.0.1	cpcalendars.toplavishnewz43.xyz
-127.0.0.1	cpcontacts.levelfrstdm.xyz
-127.0.0.1	webdisk.homesemupo.xyz
-127.0.0.1	cpanel.businesssabart.xyz
-127.0.0.1	webdisk.apexhomeimprovement.xyz
-127.0.0.1	cpanel.businesswithloyal.xyz
-127.0.0.1	webmail.toriters7.xyz
-127.0.0.1	test250223.iqiyib.icu
-127.0.0.1	cpcalendars.bottomofbusiness.website
-127.0.0.1	cpanel.totogames1network.xyz
-127.0.0.1	webmail.toriters1.website
-127.0.0.1	cpanel.ufabetgames1010.xyz
-127.0.0.1	webmail.time2levelz.xyz
-127.0.0.1	cpcontacts.fieldznorms.xyz
-127.0.0.1	cpcalendars.homeimprovementbloopers.website
-127.0.0.1	cpanel.tectotechnologynewzz.xyz
-127.0.0.1	cpcalendars.totogames1network.xyz
-127.0.0.1	webmail.ufatopgames.website
-127.0.0.1	webmail.homeimprovementbox.website
-127.0.0.1	cpanel.fivetopbusiness.website
-127.0.0.1	webdisk.welovetotogames.xyz
-127.0.0.1	cpcalendars.gamesoftotoandtotoof.xyz
-127.0.0.1	cpanel.paranewslivesab.xyz
-127.0.0.1	webmail.bestteamofufabetgames.xyz
-127.0.0.1	webmail.ashionof121.xyz
-127.0.0.1	cpcontacts.ufabets.website
-127.0.0.1	cpanel.topgadgettechnewz1.xyz
-127.0.0.1	cpanel.bottomofbusiness.xyz
-127.0.0.1	webdisk.digitalbusineszclub.xyz
-127.0.0.1	webdisk.topzbuscartio.xyz
-127.0.0.1	cpcalendars.police-mt077.website
-127.0.0.1	webmail.ufabetgameslover.xyz
-127.0.0.1	techniccell.click
-# Number of entries: 47514
+# Number of entries: 47455
