@@ -1,11 +1,23 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-25 09:10:24 UTC                        #
+# Last updated: 2025-08-25 12:01:31 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	clck.messager.my
+127.0.0.1	nuovosarto.com
+127.0.0.1	blackyywire.ddns.net
+127.0.0.1	oneoptionforeverling.mysynology.net
+127.0.0.1	brasilselectbackup.ddns.net
+127.0.0.1	heyguyswelcomebacktoanotheryoutubevideo-23337.portmap.host
+127.0.0.1	female-ebay.gl.at.ply.gg
+127.0.0.1	hostermasterplug.duckdns.org
+127.0.0.1	code-api.site
+127.0.0.1	conn.elbbird.zip
+127.0.0.1	www.66chat3.org
+127.0.0.1	ck1.bnwqdudbwqxxbiqwnjdwnqw.cfd
 127.0.0.1	db.socialsalesnaija.com
 127.0.0.1	xray.messager.my
 127.0.0.1	stag.cukurukuk.fun
@@ -47336,22 +47348,4 @@
 127.0.0.1	presentymusse.world
 127.0.0.1	boltetuurked.digital
 127.0.0.1	blissfulmirzakhani.zscaler.skytapdns.com
-127.0.0.1	webmail.expressnewzgames.com
-127.0.0.1	webdisk.canvatechsports.com
-127.0.0.1	cpanel.topdmdarama.com
-127.0.0.1	cpcalendars.magazinebestnetworkz.com
-127.0.0.1	cpcontacts.ranknewzmedia.com
-127.0.0.1	cpanel.toto7vgames.com
-127.0.0.1	cpcalendars.techdeepart.com
-127.0.0.1	cpcontacts.theonesevennews.com
-127.0.0.1	check.wivp.shop
-127.0.0.1	check.johw.shop
-127.0.0.1	check.sult.shop
-127.0.0.1	check.wiqn.shop
-127.0.0.1	ly.depraveddivinelyresubmit.shop
-127.0.0.1	check.zajp.shop
-127.0.0.1	software.adx-crm.com
-127.0.0.1	greengrocery.dreamteamuser.com
-127.0.0.1	omd.tap-fap.net
-127.0.0.1	g35gra2c2.duckdns.org
-# Number of entries: 47348
+# Number of entries: 47342
