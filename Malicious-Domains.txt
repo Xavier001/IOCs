@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-25 22:12:13 UTC                        #
+# Last updated: 2025-08-26 00:01:19 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	objective-morse.45-138-16-249.plesk.page
+127.0.0.1	runiloe2.ru
 127.0.0.1	tyhavau6.ru
 127.0.0.1	qifokya5.ru
 127.0.0.1	nonononon-23162.portmap.host
@@ -47152,32 +47154,4 @@
 127.0.0.1	hitchil.cc
 127.0.0.1	logchim.cc
 127.0.0.1	ssofhoseuegsgrfnu.ru
-127.0.0.1	168-100-10-21.cprapid.com
-127.0.0.1	cpcalendars.onlinebesttotogames.com
-127.0.0.1	oitopharma.parceirodocontador.com.br
-127.0.0.1	cpcontacts.expressnewzgames.com
-127.0.0.1	cpcontacts.topdmdarama.com
-127.0.0.1	webdisk.gamesfunzartsz.com
-127.0.0.1	cpanel.bestofnewzandgames.com
-127.0.0.1	webdisk.dailypromos.xyz
-127.0.0.1	webmail.gamesofufabet.website
-127.0.0.1	cpcalendars.topdmdarama.com
-127.0.0.1	info.gov-hr.org
-127.0.0.1	cpcontacts.stockmrtktlite.xyz
-127.0.0.1	cpanel.hostbesttech.website
-127.0.0.1	cpanel.b2bbsuiness.website
-127.0.0.1	webdisk.totopolice031.website
-127.0.0.1	webmail.bestonenewznets.xyz
-127.0.0.1	webdisk.reprtgeneralshub.xyz
-127.0.0.1	cpcontacts.takeufagame1111.xyz
-127.0.0.1	cpanel.bookslinedzmod.xyz
-127.0.0.1	cpcontacts.bestpotworldzhb.xyz
-127.0.0.1	cpcalendars.gamesofufabet.website
-127.0.0.1	cpcontacts.ashionof121.xyz
-127.0.0.1	webmail.bestufaneedsgames.xyz
-127.0.0.1	cpcontacts.b2bbsuiness.xyz
-127.0.0.1	cpcalendars.bestufaneedsgames.xyz
-127.0.0.1	cpcalendars.bjshomeimprovement.xyz
-127.0.0.1	cpcalendars.ufa4games.website
-127.0.0.1	webmail.newdmkey.xyz
-# Number of entries: 47174
+# Number of entries: 47148
