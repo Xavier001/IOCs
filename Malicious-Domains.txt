@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-27 10:02:20 UTC                        #
+# Last updated: 2025-08-27 12:22:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bezyhio9.ru
+127.0.0.1	zdqxdcj7s.localto.net
+127.0.0.1	its-nil.gl.at.ply.gg
+127.0.0.1	look-polo.gl.at.ply.gg
+127.0.0.1	bigwso.playit.love
+127.0.0.1	tofyjoi0.ru
+127.0.0.1	xixonua5.ru
+127.0.0.1	job-danish.gl.at.ply.gg
+127.0.0.1	jijeruy2.ru
+127.0.0.1	xoqywoa2.ru
 127.0.0.1	joneroa1.ru
 127.0.0.1	qepucyy2.ru
 127.0.0.1	rysaryo0.ru
@@ -46812,20 +46822,4 @@
 127.0.0.1	check.basyg.icu
 127.0.0.1	www.xiaoda112.beauty
 127.0.0.1	file.flash-oss.info
-127.0.0.1	check.rikez.icu
-127.0.0.1	unclezekes.com
-127.0.0.1	api.driversnap.cloud
-127.0.0.1	api.drivercamhub.cloud
-127.0.0.1	api.videodriverzone.cloud
-127.0.0.1	api.videocarddrivers.cloud
-127.0.0.1	api.driverstream.cloud
-127.0.0.1	cpcontacts.techdeepart.com
-127.0.0.1	webdisk.sports777games.com
-127.0.0.1	webdisk.generalnewzsab.com
-127.0.0.1	webdisk.newzwireread.com
-127.0.0.1	cpanel.ipmnewsworld.com
-127.0.0.1	cpanel.allnewznetworksofarts.com
-127.0.0.1	cpanel.gamesofsportsandtoto.com
-127.0.0.1	cpcalendars.gamesofalltoto.com
-127.0.0.1	cpcontacts.blogssab.com
-# Number of entries: 46822
+# Number of entries: 46816
