@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-26 20:01:43 UTC                        #
+# Last updated: 2025-08-27 04:01:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	650c4138-96f4e-80104-9167-81hate8c91b4-671c6hj.com
+127.0.0.1	proxy.messager.my
+127.0.0.1	balamand.net
 127.0.0.1	cdndz.messager.my
 127.0.0.1	a7.nbdsnb2.top
 127.0.0.1	gael20242.kozow.com
@@ -46919,52 +46922,4 @@
 127.0.0.1	check.digoc.icu
 127.0.0.1	tumbl.design-x.xyz
 127.0.0.1	ert67-o9.pages.dev
-127.0.0.1	cpcalendars.totopolice031.website
-127.0.0.1	cpcontacts.topandbestnews.com
-127.0.0.1	webmail.livebengsnnewz.xyz
-127.0.0.1	webdisk.onlinebesttotogamesnewz.xyz
-127.0.0.1	cpcalendars.toplavishnewz.com
-127.0.0.1	webmail.allthefiver.com
-127.0.0.1	webmail.tectotechnologynewzz.xyz
-127.0.0.1	cpcalendars.topdigihub.com
-127.0.0.1	cpcalendars.testmedia89.com
-127.0.0.1	wpzvlds.gleeze.com
-127.0.0.1	test.venenof7.top
-127.0.0.1	cpanel.bjshomeimprovement.website
-127.0.0.1	cpcontacts.b2bbsuiness.website
-127.0.0.1	cpcontacts.homeimprovementbrad.website
-127.0.0.1	cpanel.mtpolice21.website
-127.0.0.1	webmail.domizmusk.website
-127.0.0.1	webmail.mtpolice21.website
-127.0.0.1	cpanel.topfiveufabetgames.xyz
-127.0.0.1	cpanel.reprtgeneralshub.xyz
-127.0.0.1	webdisk.okiamwithtotogames.xyz
-127.0.0.1	cpcontacts.homeimprovementbloopers.website
-127.0.0.1	cpcontacts.bestonlinegamez.xyz
-127.0.0.1	webdisk.medtopzhub.xyz
-127.0.0.1	webmail.businesswithloyal.xyz
-127.0.0.1	psychologyed54.cyou
-127.0.0.1	pastoralkyu.click
-127.0.0.1	screwpadder.click
-127.0.0.1	unwieldypower.click
-127.0.0.1	wisecreak.site
-127.0.0.1	contexthoster.site
-127.0.0.1	willpowerwav.site
-127.0.0.1	a1089269.xsph.ru
-127.0.0.1	a1088535.xsph.ru
-127.0.0.1	a1089655.xsph.ru
-127.0.0.1	a1089520.xsph.ru
-127.0.0.1	f1085813.xsph.ru
-127.0.0.1	azamatpa.beget.tech
-127.0.0.1	f1090404.xsph.ru
-127.0.0.1	a1046211.xsph.ru
-127.0.0.1	cs38450.tw1.ru
-127.0.0.1	tips-suggestion.gl.at.ply.gg
-127.0.0.1	pisses.duckdns.org
-127.0.0.1	ns4.eshintechs.shop
-127.0.0.1	ns5.eshintechs.shop
-127.0.0.1	ns6.eshintechs.shop
-127.0.0.1	ks.habr.life
-127.0.0.1	blonde-british-satisfaction-lying.trycloudflare.com
-127.0.0.1	a8tkf5twd0gk0.cfc-execute.bj.baidubce.com
-# Number of entries: 46961
+# Number of entries: 46916
