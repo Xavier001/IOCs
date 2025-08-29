@@ -1,11 +1,60 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-28 23:10:24 UTC                        #
+# Last updated: 2025-08-29 09:08:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	oneflof.ru
+127.0.0.1	epitherd.ru
+127.0.0.1	backab.ru
+127.0.0.1	eigwos.ru
+127.0.0.1	rs.messager.my
+127.0.0.1	wblspc.com
+127.0.0.1	es6featureshub.com
+127.0.0.1	mityxyo4.ru
+127.0.0.1	prototypechain.com
+127.0.0.1	debuggingscripts.com
+127.0.0.1	typescripttools.com
+127.0.0.1	cudefoe9.ru
+127.0.0.1	javascriptbasics.com
+127.0.0.1	buvusio6.ru
+127.0.0.1	files.taxibleapp.com
+127.0.0.1	mql5.offers-special.com
+127.0.0.1	mykutea4.ru
+127.0.0.1	spider-wamp.com
+127.0.0.1	linomu.com
+127.0.0.1	freaks.icu
+127.0.0.1	salvmps.top
+127.0.0.1	saocloud.icu
+127.0.0.1	swrcfjlm.top
+127.0.0.1	nimdelcapital.com
+127.0.0.1	proteamgroup.info
+127.0.0.1	axiscx.com
+127.0.0.1	qhost.ro
+127.0.0.1	healthstation1.com
+127.0.0.1	washerv.ru
+127.0.0.1	noggs.ru
+127.0.0.1	georgej.ru
+127.0.0.1	macusa.best
+127.0.0.1	tadanohito.com
+127.0.0.1	cloudflare-c9g.pages.dev
+127.0.0.1	macnaved.pages.dev
+127.0.0.1	cloudflarev-pfm.pages.dev
+127.0.0.1	cloudverify-1ua.pages.dev
+127.0.0.1	cloudfarev.pages.dev
+127.0.0.1	animailshealthyfoodsline.top
+127.0.0.1	susedey1.ru
+127.0.0.1	tirohua7.ru
+127.0.0.1	dugoreu2.ru
+127.0.0.1	complete-youth.gl.at.ply.gg
+127.0.0.1	pepesigmarespect.servemp3.com
+127.0.0.1	62e993f98a75.ngrok-free.app
+127.0.0.1	connections.ignorelist.com
+127.0.0.1	grandoner.cloudns.pro
+127.0.0.1	testconnection.servemp3.com
+127.0.0.1	www.qinyue.cc
 127.0.0.1	2ch.im.versiononefinance.com
 127.0.0.1	reklama.messager.my
 127.0.0.1	g100cf.ddns.net
@@ -46754,37 +46803,4 @@
 127.0.0.1	vinisbeautyartladiescenter.com
 127.0.0.1	landmarkhomesearch.pro
 127.0.0.1	lp.intaarya.com
-127.0.0.1	check.vehom.icu
-127.0.0.1	myagentproperties.ad-wize.xyz
-127.0.0.1	www.madraspestcontrol.com
-127.0.0.1	webdisk.bestblogznews.com
-127.0.0.1	webdisk.onlinebesttotogames.com
-127.0.0.1	webdisk.whartpzz.com
-127.0.0.1	webdisk.gamesofsportsandtoto.com
-127.0.0.1	cpcontacts.businesstimehub.com
-127.0.0.1	webdisk.top10gamesofoto.com
-127.0.0.1	smileclinic.london
-127.0.0.1	brotesnativos.cl
-127.0.0.1	xxx-cf.pages.dev
-127.0.0.1	earthsymphzony.today
-127.0.0.1	wealthestored.icu
-127.0.0.1	21ene.ip-ddns.com
-127.0.0.1	advertising-interfaces.gl.at.ply.gg
-127.0.0.1	lakikishop.duckdns.org
-127.0.0.1	globalasiagroup.com
-127.0.0.1	video-ondemand.webexglobal.com
-127.0.0.1	api.huangjin66.com
-127.0.0.1	21tradingcobd.com
-127.0.0.1	www.environment.go.ke
-127.0.0.1	www.extintoresadok.com
-127.0.0.1	www.wiseequinevet.com
-127.0.0.1	nhakhoalehanh.com
-127.0.0.1	hasagot.sapphiretechnologies.live
-127.0.0.1	aiqinsights.icu
-127.0.0.1	chlenvaginakz.icu
-127.0.0.1	99wc.top
-127.0.0.1	ulacine.urbananchortravel.com
-127.0.0.1	gomyhalf.com
-127.0.0.1	symence.org
-127.0.0.1	check.lavow.icu
-# Number of entries: 46781
+# Number of entries: 46797
