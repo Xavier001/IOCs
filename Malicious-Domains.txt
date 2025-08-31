@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-31 07:43:27 UTC                        #
+# Last updated: 2025-08-31 12:10:53 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	41.13.voltexpressdelivery.com
+127.0.0.1	qqa.preech.top
+127.0.0.1	img.messager.my
+127.0.0.1	trk.messager.my
+127.0.0.1	kws5-1.messager.my
+127.0.0.1	otoekekasa233.dynuddns.com
+127.0.0.1	adamblackie12312312-62714.portmap.host
 127.0.0.1	ac.cuzolia9.ru
 127.0.0.1	yz.mexyxei9.ru
 127.0.0.1	alk.cuzolia9.ru
@@ -46959,31 +46966,4 @@
 127.0.0.1	www.orenesdistribucion.com
 127.0.0.1	hypo-dance.pages.dev
 127.0.0.1	lumichain.pro
-127.0.0.1	check.fafyd.icu
-127.0.0.1	api.masjesu.zip
-127.0.0.1	wawanewsglobal.com
-127.0.0.1	circujitstorm.bet
-127.0.0.1	cfkdfw.org
-127.0.0.1	lestimes.com
-127.0.0.1	hardswarehub.today
-127.0.0.1	hardrwarehaven.run
-127.0.0.1	codxefusion.top
-127.0.0.1	techpxioneers.run
-127.0.0.1	246.157.59.34.bc.googleusercontent.com
-127.0.0.1	cpanel.bestnewznetworkofone.com
-127.0.0.1	webmail.hostsportstoto9.com
-127.0.0.1	cpcontacts.magazinebestnetworkz.com
-127.0.0.1	28wm5bg94879.vicp.fun
-127.0.0.1	yydsisnull.sbs
-127.0.0.1	check.xapus.icu
-127.0.0.1	www.pontsolidari.org
-127.0.0.1	www.fiscosmart.it
-127.0.0.1	einfacherezepte.ssat4tech.com
-127.0.0.1	wowsweets.ae
-127.0.0.1	cdadiagnostico.com.br
-127.0.0.1	res.microsecurity.xyz
-127.0.0.1	check.luboz.icu
-127.0.0.1	vinisbeautyartladiescenter.com
-127.0.0.1	landmarkhomesearch.pro
-127.0.0.1	lp.intaarya.com
-# Number of entries: 46980
+# Number of entries: 46960
