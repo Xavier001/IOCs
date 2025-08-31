@@ -1,11 +1,43 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-30 22:23:48 UTC                        #
+# Last updated: 2025-08-31 07:43:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ac.cuzolia9.ru
+127.0.0.1	yz.mexyxei9.ru
+127.0.0.1	alk.cuzolia9.ru
+127.0.0.1	jd.cuzolia9.ru
+127.0.0.1	yi.cuzolia9.ru
+127.0.0.1	dm.cuzolia9.ru
+127.0.0.1	yy.cuzolia9.ru
+127.0.0.1	tl.reluxiy6.ru
+127.0.0.1	ym.vadykoe7.ru
+127.0.0.1	qg.tyjysoe0.ru
+127.0.0.1	siradyo1.ru
+127.0.0.1	kywuzeo4.ru
+127.0.0.1	zyxyqie.ru
+127.0.0.1	ziqyrae.ru
+127.0.0.1	hyhiqaa.ru
+127.0.0.1	rihuwuo.ru
+127.0.0.1	cevyfoy.ru
+127.0.0.1	lb.mexyxei9.ru
+127.0.0.1	cj.mexyxei9.ru
+127.0.0.1	qke.mexyxei9.ru
+127.0.0.1	jp.xibovyu5.ru
+127.0.0.1	zm.mexyxei9.ru
+127.0.0.1	yje.xibovyu5.ru
+127.0.0.1	appinstall.app
+127.0.0.1	snh.xibovyu5.ru
+127.0.0.1	keyapp.biz
+127.0.0.1	tl.xibovyu5.ru
+127.0.0.1	fv.xibovyu5.ru
+127.0.0.1	pv.libityi2.ru
+127.0.0.1	rat.nicosoft.xyz
+127.0.0.1	ec2-3-134-251-168.us-east-2.compute.amazonaws.com
+127.0.0.1	auth.xinzyun.cn
 127.0.0.1	attaocc.top
 127.0.0.1	limcuz.ru
 127.0.0.1	justitt.top
@@ -46954,37 +46986,4 @@
 127.0.0.1	vinisbeautyartladiescenter.com
 127.0.0.1	landmarkhomesearch.pro
 127.0.0.1	lp.intaarya.com
-127.0.0.1	check.vehom.icu
-127.0.0.1	myagentproperties.ad-wize.xyz
-127.0.0.1	www.madraspestcontrol.com
-127.0.0.1	webdisk.bestblogznews.com
-127.0.0.1	webdisk.onlinebesttotogames.com
-127.0.0.1	webdisk.whartpzz.com
-127.0.0.1	webdisk.gamesofsportsandtoto.com
-127.0.0.1	cpcontacts.businesstimehub.com
-127.0.0.1	webdisk.top10gamesofoto.com
-127.0.0.1	smileclinic.london
-127.0.0.1	brotesnativos.cl
-127.0.0.1	xxx-cf.pages.dev
-127.0.0.1	earthsymphzony.today
-127.0.0.1	wealthestored.icu
-127.0.0.1	21ene.ip-ddns.com
-127.0.0.1	advertising-interfaces.gl.at.ply.gg
-127.0.0.1	lakikishop.duckdns.org
-127.0.0.1	globalasiagroup.com
-127.0.0.1	video-ondemand.webexglobal.com
-127.0.0.1	api.huangjin66.com
-127.0.0.1	21tradingcobd.com
-127.0.0.1	www.environment.go.ke
-127.0.0.1	www.extintoresadok.com
-127.0.0.1	www.wiseequinevet.com
-127.0.0.1	nhakhoalehanh.com
-127.0.0.1	hasagot.sapphiretechnologies.live
-127.0.0.1	aiqinsights.icu
-127.0.0.1	chlenvaginakz.icu
-127.0.0.1	99wc.top
-127.0.0.1	ulacine.urbananchortravel.com
-127.0.0.1	gomyhalf.com
-127.0.0.1	symence.org
-127.0.0.1	check.lavow.icu
-# Number of entries: 46981
+# Number of entries: 46980
