@@ -1,11 +1,45 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-01 10:13:09 UTC                        #
+# Last updated: 2025-09-01 12:28:53 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	teaspdj.top
+127.0.0.1	devel.asurans.com
+127.0.0.1	almiighty-47767.portmap.host
+127.0.0.1	visual-cp.gl.at.ply.gg
+127.0.0.1	dfdfhdhdrgethftrj.duckdns.org
+127.0.0.1	hbws.cc
+127.0.0.1	honeyportsecurityresearchteam.duckdns.org
+127.0.0.1	kbs-frb.cc
+127.0.0.1	rmdns.servesarcasm.com
+127.0.0.1	www.saleskunshan.com
+127.0.0.1	sswad-48767.portmap.host
+127.0.0.1	bebe228855.hopto.org
+127.0.0.1	dv2.bbanddd.com
+127.0.0.1	drooby.ddns.net
+127.0.0.1	cnc.48101.online
+127.0.0.1	feepro1.ddns.net
+127.0.0.1	k24cwchgd.localto.net
+127.0.0.1	fan-rui.xyz
+127.0.0.1	i.stasismyfuture.com
+127.0.0.1	x.stasismyfuture.com
+127.0.0.1	daddadasd-29521.portmap.host
+127.0.0.1	dns.njalla.pl
+127.0.0.1	dns.njalla.si
+127.0.0.1	account.messager.my
+127.0.0.1	800flower.cyou
+127.0.0.1	amarrepago25.dynuddns.net
+127.0.0.1	fteamez7iurs01.duckdns.org
+127.0.0.1	hirox81444-21878.portmap.host
+127.0.0.1	saftycar.com.br
+127.0.0.1	up.qenogia7.ru
+127.0.0.1	poertywindow.com
+127.0.0.1	futurenaturallistic.com
+127.0.0.1	tr.qenogia7.ru
+127.0.0.1	nx.qenogia7.ru
 127.0.0.1	savoref.top
 127.0.0.1	rur.qenogia7.ru
 127.0.0.1	dirtdsbv.top
@@ -46516,70 +46550,4 @@
 127.0.0.1	cybgerlaunch.digital
 127.0.0.1	check.wowuk.icu
 127.0.0.1	towerymodest.top
-127.0.0.1	providencehospitalsouthfield.com
-127.0.0.1	protech.al
-127.0.0.1	leoclubhammamet.com
-127.0.0.1	pcriver.com
-127.0.0.1	ranchhandweekend.com
-127.0.0.1	ims-servis.ba
-127.0.0.1	www.protectedsound.digital
-127.0.0.1	check.gejop.icu
-127.0.0.1	portal.onlineauth2-client4765445b-32c6-49b0-83e6-1d93765276.com
-127.0.0.1	aadcdn.onlineauth2-client4765445b-32c6-49b0-83e6-1d93765276.com
-127.0.0.1	ipv6.104-168-101-23.cprapid.com
-127.0.0.1	cpcontacts.sportsdhub.com
-127.0.0.1	cpanel.topthounds.com
-127.0.0.1	nn.retroki.ink
-127.0.0.1	cpcontacts.onlinebesttotogames.com
-127.0.0.1	www.185-38-142-181.cprapid.com
-127.0.0.1	check.gytec.icu
-127.0.0.1	kaher.no-ip.biz
-127.0.0.1	232222222223-43449.portmap.host
-127.0.0.1	peterpanjack.no-ip.org
-127.0.0.1	rundll32.hopto.org
-127.0.0.1	quiet-cloud-77052.pktriot.net
-127.0.0.1	frontofficefax20.home-webserver.de
-127.0.0.1	malware.hopto.org
-127.0.0.1	general-affiliates.gl.at.ply.gg
-127.0.0.1	thanks-viewers.gl.at.ply.gg
-127.0.0.1	required-mold.gl.at.ply.gg
-127.0.0.1	boards-baltimore.gl.at.ply.gg
-127.0.0.1	reply-noted.gl.at.ply.gg
-127.0.0.1	points-challenges.gl.at.ply.gg
-127.0.0.1	trying-fails.gl.at.ply.gg
-127.0.0.1	ilovesteppers-38473.portmap.host
-127.0.0.1	all-te.gl.at.ply.gg
-127.0.0.1	xinclas.vmcentra.top
-127.0.0.1	prices-loved.gl.at.ply.gg
-127.0.0.1	bxwrmjames.duckdns.org
-127.0.0.1	fuckscammers.accesscam.org
-127.0.0.1	associates-reef.gl.at.ply.gg
-127.0.0.1	march-occasion.gl.at.ply.gg
-127.0.0.1	navigation-salaries.gl.at.ply.gg
-127.0.0.1	registered-spectacular.gl.at.ply.gg
-127.0.0.1	expresswealthz.duckdns.org
-127.0.0.1	esetnode32-antiviru.ydns.eu
-127.0.0.1	winter-pennsylvania.gl.at.ply.gg
-127.0.0.1	way-eyes.gl.at.ply.gg
-127.0.0.1	bendecido3.ydns.eu
-127.0.0.1	maryvenom19.duckdns.org
-127.0.0.1	aliweq.ddnsgeek.com
-127.0.0.1	gz-sakura.xyz
-127.0.0.1	went-startup.gl.at.ply.gg
-127.0.0.1	mhmad1.work.gd
-127.0.0.1	kenanachy.duckdns.org
-127.0.0.1	ashleyasync.duckdns.org
-127.0.0.1	bendecido2.ydns.eu
-127.0.0.1	mhmad1.accesscam.org
-127.0.0.1	stains-38249.portmap.host
-127.0.0.1	windwosenjoyer12-23053.portmap.host
-127.0.0.1	vamshin-44474.portmap.host
-127.0.0.1	age-showcase.gl.at.ply.gg
-127.0.0.1	stains-57509.portmap.host
-127.0.0.1	figure-bobby.gl.at.ply.gg
-127.0.0.1	last-forces.gl.at.ply.gg
-127.0.0.1	check.danob.icu
-127.0.0.1	check.zixeq.icu
-127.0.0.1	cpanel.lawyersfederalcourt.com
-127.0.0.1	check.pidal.icu
-# Number of entries: 46576
+# Number of entries: 46544
