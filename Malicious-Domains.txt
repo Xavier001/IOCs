@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-08-31 20:28:09 UTC                        #
+# Last updated: 2025-09-01 04:01:33 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	syswolupdatesupp1.com
+127.0.0.1	ucx.lulugiy2.ru
+127.0.0.1	my.lulugiy2.ru
 127.0.0.1	earffgm.top
 127.0.0.1	spripof.top
 127.0.0.1	loudfci.top
@@ -46547,45 +46550,4 @@
 127.0.0.1	oxx.hopto.org
 127.0.0.1	oz.waw.pl
 127.0.0.1	myhaani.ddns.net
-127.0.0.1	smgroup-kundendienst.de
-127.0.0.1	www.nurses.my
-127.0.0.1	schultzauctioneerslandmarkrealty.com
-127.0.0.1	xn--tff-sna.no
-127.0.0.1	cpcontacts.toplavishnewz.com
-127.0.0.1	cpcalendars.gamesfunzartsz.com
-127.0.0.1	webmail.newzwireread.com
-127.0.0.1	webmail.topdigihub.com
-127.0.0.1	webdisk.tectotechnologynewzz.xyz
-127.0.0.1	webdisk.8761gamesofarts.xyz
-127.0.0.1	webmail.businessportal.website
-127.0.0.1	cpcalendars.magzineviralzhubz.xyz
-127.0.0.1	webmail.teamofufabetgames.xyz
-127.0.0.1	webmail.police-mt077.website
-127.0.0.1	cpanel.ufatopgames.website
-127.0.0.1	webdisk.textagenai.xyz
-127.0.0.1	webdisk.toplavishnewz43.xyz
-127.0.0.1	webdisk.enjoyufabet.xyz
-127.0.0.1	cpcontacts.onebusinessportal.website
-127.0.0.1	cpanel.bsttoolswx.website
-127.0.0.1	webmail.totopolice031.website
-127.0.0.1	webmail.homeimprovementbloopers.website
-127.0.0.1	webmail.bestonlinegamez.xyz
-127.0.0.1	cpanel.bestpotworldzhb.xyz
-127.0.0.1	cpanel.mtpolice077.website
-127.0.0.1	cpanel.digitalbusineszclub.xyz
-127.0.0.1	webmail.8761gamesofarts.xyz
-127.0.0.1	webmail.textcentrzdmnewz.xyz
-127.0.0.1	1fin.uz
-127.0.0.1	abret.org
-127.0.0.1	packaging.k-way.com
-127.0.0.1	vaultcord.net
-127.0.0.1	www.trinity-group.com
-127.0.0.1	tecnicasandinas.com
-127.0.0.1	acskompozit.com
-127.0.0.1	www.telcoinfinity.com
-127.0.0.1	www.t3r.sg
-127.0.0.1	virtual.urban-orthodontics.com
-127.0.0.1	employhrrequest.realidadiruamlusoria.it.com
-127.0.0.1	7329548758.sbs
-127.0.0.1	6032451419.sbs
-# Number of entries: 46582
+# Number of entries: 46544
