@@ -1,11 +1,44 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-02 12:01:25 UTC                        #
+# Last updated: 2025-09-02 20:30:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	loe.jujosuu4.ru
+127.0.0.1	ewg.jujosuu4.ru
+127.0.0.1	ns2.microoosoft.com
+127.0.0.1	ns1.microoosoft.com
+127.0.0.1	crisp.cucy.ru
+127.0.0.1	manual-terminology.gl.at.ply.gg
+127.0.0.1	click-constraints.gl.at.ply.gg
+127.0.0.1	fund-eyes.gl.at.ply.gg
+127.0.0.1	change-america.gl.at.ply.gg
+127.0.0.1	brand-courses.gl.at.ply.gg
+127.0.0.1	dfm.qacacoe3.ru
+127.0.0.1	ashigaruwallet.rs
+127.0.0.1	kwk.burydyu0.ru
+127.0.0.1	load.granivit.hu
+127.0.0.1	zip.sewumoa.ru
+127.0.0.1	kws4.messager.my
+127.0.0.1	ec2-63-178-148-142.eu-central-1.compute.amazonaws.com
+127.0.0.1	up.xonulee9.ru
+127.0.0.1	auf.nelypuu5.ru
+127.0.0.1	wb.kesogio6.ru
+127.0.0.1	szh.saqehyo1.ru
+127.0.0.1	wv.safofoe5.ru
+127.0.0.1	mu.nelypuu5.ru
+127.0.0.1	vcsinfo.com
+127.0.0.1	info-2go.com
+127.0.0.1	wood-simple.com
+127.0.0.1	yh.qacacoe3.ru
+127.0.0.1	uq.xexykuo2.ru
+127.0.0.1	alv.lotegeo7.ru
+127.0.0.1	samples.salondeguitaredemontreal.com
+127.0.0.1	updates.highendmark.com
+127.0.0.1	remixripiolo.con-ip.com
+127.0.0.1	the-xxxy.uk
 127.0.0.1	www.libertydroid-metabu.top
 127.0.0.1	remcodit.top
 127.0.0.1	posted-ethnic.gl.at.ply.gg
@@ -46369,51 +46402,4 @@
 127.0.0.1	cpcalendars.gamesandufabetpro.website
 127.0.0.1	sms.qr-share.online
 127.0.0.1	ec2-3-1-228-240.ap-southeast-1.compute.amazonaws.com
-127.0.0.1	pevemtnchil.live
-127.0.0.1	cpcontacts.top10gamesofoto1.xyz
-127.0.0.1	cpcalendars.bookdmsab.xyz
-127.0.0.1	cpanel.odysseyoutlook.xyz
-127.0.0.1	webmail.livninspot.xyz
-127.0.0.1	webdisk.bestufaneedsgames.xyz
-127.0.0.1	cpcalendars.homeaddition.xyz
-127.0.0.1	webdisk.bottomofbusiness.xyz
-127.0.0.1	cpcalendars.youandmewtoto.xyz
-127.0.0.1	cpcalendars.b2bbsuiness.xyz
-127.0.0.1	webmail.bjshomeimprovement.xyz
-127.0.0.1	webmail.dmustkpoint.xyz
-127.0.0.1	webdisk.mtpolice21.website
-127.0.0.1	webdisk.wealthwrknetwork.xyz
-127.0.0.1	securitygroup.pro
-127.0.0.1	cpcalendars.ufabetgameslover89.xyz
-127.0.0.1	cpcontacts.onlinebesttotogamesnewz.xyz
-127.0.0.1	webdisk.theyestechnewsz.xyz
-127.0.0.1	cpanel.dmspotzera.xyz
-127.0.0.1	hellonew2025.kozow.com
-127.0.0.1	example.servidor.world
-127.0.0.1	check.jaxim.icu
-127.0.0.1	check.gykem.icu
-127.0.0.1	scan.bigboats.icu
-127.0.0.1	porn-inedit-miakhalifa.xn--mdicis-bva.com
-127.0.0.1	unitedexpressmailservice.com
-127.0.0.1	cpcontacts.homeimprovementbusiness.xyz
-127.0.0.1	check.wezop.icu
-127.0.0.1	prox.zematic.host
-127.0.0.1	1adminmctopiamc1.pl
-127.0.0.1	s1-node1.1adminmctopiamc1.pl
-127.0.0.1	s1.1adminmctopiamc1.pl
-127.0.0.1	touchable.lol
-127.0.0.1	toxic-c2.de
-127.0.0.1	xjust.xyz
-127.0.0.1	catfirewall.ru
-127.0.0.1	secure.overdose.sbs
-127.0.0.1	tcp.bbos.lol
-127.0.0.1	dreamproxy.cc
-127.0.0.1	egirls.fun
-127.0.0.1	ewqrt.com
-127.0.0.1	feetpics.us
-127.0.0.1	nigga.party
-127.0.0.1	pastebin.lol
-127.0.0.1	boomhavoc.r-e.kr
-127.0.0.1	check.somiv.icu
-127.0.0.1	api.instagramcdn.com
-# Number of entries: 46410
+# Number of entries: 46396
