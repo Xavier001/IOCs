@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-03 09:43:15 UTC                        #
+# Last updated: 2025-09-03 12:03:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	exelelo.webhop.me
+127.0.0.1	tls.sharesoffices.com
+127.0.0.1	insurance-statistical.gl.at.ply.gg
+127.0.0.1	macsoon.duckdns.org
+127.0.0.1	cd.nejofea9.ru
+127.0.0.1	eleccqt.bet
+127.0.0.1	10.a3.bijakbuatduit.com
+127.0.0.1	stu.lysyrei3.ru
+127.0.0.1	sas.kidizue6.ru
+127.0.0.1	craftss.bumbleshrimp.com
+127.0.0.1	tuk.vuzojiu9.ru
 127.0.0.1	wug.hekulei5.ru
 127.0.0.1	jys.qecufey7.ru
 127.0.0.1	ib.vuzojiu9.ru
@@ -46373,12 +46384,4 @@
 127.0.0.1	exclusive.nobogoods.com
 127.0.0.1	www.xxxb.shop
 127.0.0.1	api.baidupro.com
-127.0.0.1	phygcsforum.life
-127.0.0.1	explorebieology.run
-127.0.0.1	moderzysics.top
-127.0.0.1	growtesitte.life
-127.0.0.1	check.lojem.icu
-127.0.0.1	labnewgaily.world
-127.0.0.1	webdisk.ipmnewsworld.com
-127.0.0.1	webmail.generalnewzsab.com
-# Number of entries: 46375
+# Number of entries: 46378
