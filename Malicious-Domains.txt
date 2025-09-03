@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-02 20:30:14 UTC                        #
+# Last updated: 2025-09-03 02:49:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.fwefwefwe.xyz
+127.0.0.1	r.messager.my
+127.0.0.1	www.landownerdozenguard.com
 127.0.0.1	loe.jujosuu4.ru
 127.0.0.1	ewg.jujosuu4.ru
 127.0.0.1	ns2.microoosoft.com
@@ -46379,27 +46382,4 @@
 127.0.0.1	pub-8b65b4d5d27642419264ab33c38db17f.r2.dev
 127.0.0.1	check.wygoq.icu
 127.0.0.1	check.tubyf.icu
-127.0.0.1	cpcalendars.topbusineszworldk.xyz
-127.0.0.1	webdisk.gamesofalltotobest.xyz
-127.0.0.1	webmail.topdmdarama.com
-127.0.0.1	webdisk.dmustkpoint.xyz
-127.0.0.1	webmail.sportscasino.website
-127.0.0.1	cpanel.playufabetgames.xyz
-127.0.0.1	cpanel.bestgamesufabet.xyz
-127.0.0.1	cpanel.10bestgamesofufabet.xyz
-127.0.0.1	cpanel.stockmrtktlite.xyz
-127.0.0.1	cpanel.homesemupo.xyz
-127.0.0.1	webdisk.ufabetandcasinos.website
-127.0.0.1	cpcontacts.gamesofufabet.website
-127.0.0.1	webmail.superbbusiness.website
-127.0.0.1	cpcalendars.eragamshub.xyz
-127.0.0.1	cpanel.cgibusiness.xyz
-127.0.0.1	cpanel.generalspotline.org
-127.0.0.1	cpcalendars.artisansrealm.xyz
-127.0.0.1	cpcalendars.broadcnnewz.xyz
-127.0.0.1	havoccf.evilpony.win
-127.0.0.1	cpanel.homeremodel.website
-127.0.0.1	cpcalendars.gamesandufabetpro.website
-127.0.0.1	sms.qr-share.online
-127.0.0.1	ec2-3-1-228-240.ap-southeast-1.compute.amazonaws.com
-# Number of entries: 46396
+# Number of entries: 46376
