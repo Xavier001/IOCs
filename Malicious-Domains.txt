@@ -1,12 +1,59 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-04 04:01:35 UTC                        #
+# Last updated: 2025-09-04 09:27:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	allupdateservices.com
+127.0.0.1	flac.fozomya6.ru
+127.0.0.1	saewh.com
+127.0.0.1	bpm.w0rkz.com
+127.0.0.1	ug.velyzeu3.ru
+127.0.0.1	xjk.luxemyy2.ru
+127.0.0.1	wod.qehucuu5.ru
+127.0.0.1	jerrytech2020.duckdns.org
+127.0.0.1	c2.sombras.space
+127.0.0.1	makarovs839.duckdns.org
+127.0.0.1	adobesystem.duckdns.org
+127.0.0.1	decena10.duckdns.org
+127.0.0.1	marzo2020.duckdns.org
+127.0.0.1	teamvievwerup.duckdns.org
+127.0.0.1	maravillas12.duckdns.org
+127.0.0.1	julio2020.duckdns.org
+127.0.0.1	dload.chatology.my
+127.0.0.1	jt.gyjyvyy6.ru
+127.0.0.1	dc.burydyu0.ru
+127.0.0.1	payload.tahirvoip.shop
+127.0.0.1	then-northeast.gl.at.ply.gg
+127.0.0.1	cd.winenoy5.ru
+127.0.0.1	mno.winenoy5.ru
+127.0.0.1	pqr.lysyrei3.ru
+127.0.0.1	ab.hihijie3.ru
+127.0.0.1	pqr.hihijie3.ru
+127.0.0.1	jc.zelojue1.ru
+127.0.0.1	vx.rogosie4.ru
+127.0.0.1	dl.vuzojiu9.ru
+127.0.0.1	ip.qecufey7.ru
+127.0.0.1	ou.nufypiy1.ru
+127.0.0.1	phoenix-brands.dev
+127.0.0.1	streamin.style
+127.0.0.1	lzh.fr
+127.0.0.1	pyscalp.com
+127.0.0.1	iaed.link
+127.0.0.1	voando26.com
+127.0.0.1	digitbasket.com
+127.0.0.1	marvelvod.com
+127.0.0.1	iv.qehucuu5.ru
+127.0.0.1	zr.velyzeu3.ru
+127.0.0.1	gqy.zelojue1.ru
+127.0.0.1	bbj.subozaa7.ru
+127.0.0.1	xux.xonulee9.ru
 127.0.0.1	static.38.171.181.135.clients.your-server.de
+127.0.0.1	inst.institutionjosephdcharles.com
+127.0.0.1	accounts.snapchat.com.5t8.pw
+127.0.0.1	ad.messager.my
 127.0.0.1	idf-dev.nacc.store
 127.0.0.1	un.qehucuu5.ru
 127.0.0.1	plasticjoin.info
@@ -46168,30 +46215,4 @@
 127.0.0.1	cpcalendars.fashionof11.com
 127.0.0.1	cpcalendars.offonnetwork.com
 127.0.0.1	check.qukex.icu
-127.0.0.1	tripplebanks.duckdns.org
-127.0.0.1	intellisense.live
-127.0.0.1	piaktrip.online
-127.0.0.1	check.mevif.icu
-127.0.0.1	d.mx.goldenloafuae.com
-127.0.0.1	muffins.chat
-127.0.0.1	pastelab.xyz
-127.0.0.1	cpcalendars.thebestofbests.com
-127.0.0.1	cpanel.newzwireread.com
-127.0.0.1	webmail.toto7vgames.com
-127.0.0.1	srolangvan.com
-127.0.0.1	prodatos.com
-127.0.0.1	synaptic.co.tz
-127.0.0.1	weareharrisons.sombrainfinita.eu
-127.0.0.1	173-255-204-48.ip.linodeusercontent.com
-127.0.0.1	cpcontacts.gamesoffashion.com
-127.0.0.1	6881984750.sbs
-127.0.0.1	pencilfight.click
-127.0.0.1	curly-scene-201f.kyliejenner0921.workers.dev
-127.0.0.1	unitedcredible.com
-127.0.0.1	6128385340.sbs
-127.0.0.1	check.xajax.icu
-127.0.0.1	democratoze.space
-127.0.0.1	reslinsights.shop
-127.0.0.1	publication.garyjobeferguson.com
-127.0.0.1	herald12x-35830.portmap.host
-# Number of entries: 46188
+# Number of entries: 46209
