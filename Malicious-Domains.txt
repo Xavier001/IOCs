@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-04 09:27:51 UTC                        #
+# Last updated: 2025-09-04 12:01:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	lethals.duckdns.org
+127.0.0.1	centralserver.theworkpc.com
+127.0.0.1	cyb3rw0lf.xyz
+127.0.0.1	through-nearest.gl.at.ply.gg
+127.0.0.1	nh.kidizue6.ru
+127.0.0.1	doll.fozomya6.ru
+127.0.0.1	razer.chatology.my
+127.0.0.1	ice.qecufey7.ru
+127.0.0.1	dll.vuzojiu9.ru
 127.0.0.1	allupdateservices.com
 127.0.0.1	flac.fozomya6.ru
 127.0.0.1	saewh.com
@@ -46211,8 +46220,4 @@
 127.0.0.1	8143612848.sbs
 127.0.0.1	digitalflwr.com
 127.0.0.1	intellisense.live
-127.0.0.1	cpanel.latestsportshub.com
-127.0.0.1	cpcalendars.fashionof11.com
-127.0.0.1	cpcalendars.offonnetwork.com
-127.0.0.1	check.qukex.icu
-# Number of entries: 46209
+# Number of entries: 46214
