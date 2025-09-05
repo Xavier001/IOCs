@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-04 21:10:25 UTC                        #
+# Last updated: 2025-09-05 03:10:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sx.11.duitmasyuk.asia
+127.0.0.1	cv.bizahao.ru
+127.0.0.1	cv.jikeqye.ru
+127.0.0.1	widgets.messager.my
+127.0.0.1	pogoda.messager.my
+127.0.0.1	cv.kogudoo.ru
 127.0.0.1	ho.11.duitmasyuk.asia
 127.0.0.1	rst.winenoy5.ru
 127.0.0.1	cv.bezyweo.ru
@@ -46132,21 +46138,4 @@
 127.0.0.1	check.qozab.icu
 127.0.0.1	kokosinka1.com
 127.0.0.1	kokosinka2.com
-127.0.0.1	cpanel.gamesfunzartsz.com
-127.0.0.1	cpcalendars.settotoupbmart.com
-127.0.0.1	webdisk.youandmewtoto.xyz
-127.0.0.1	cpanel.blogssab.com
-127.0.0.1	cpcontacts.odysseyoutlook.xyz
-127.0.0.1	cpanel.bestreadup.xyz
-127.0.0.1	webmail.ufabetlover10.xyz
-127.0.0.1	cpcontacts.allthefiver.com
-127.0.0.1	webmail.levelfrstdm.xyz
-127.0.0.1	cpcalendars.stockmrtktlite.xyz
-127.0.0.1	webdisk.bottomofbusiness.website
-127.0.0.1	cpcontacts.enjoyufabet.xyz
-127.0.0.1	cpcalendars.shakdmisab.xyz
-127.0.0.1	webmail.top10gamesofoto1.xyz
-127.0.0.1	webmail.10bestufabetgames.xyz
-127.0.0.1	webdisk.livninspot.xyz
-127.0.0.1	modtuning.world
-# Number of entries: 46143
+# Number of entries: 46132
