@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-05 08:01:38 UTC                        #
+# Last updated: 2025-09-05 12:17:16 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ab.qawimii0.ru
+127.0.0.1	names-accident.gl.at.ply.gg
+127.0.0.1	daten-sicher.click
+127.0.0.1	othmanesp.ddns.net
+127.0.0.1	www.dlvatecsl.com
+127.0.0.1	choose-pixel.gl.at.ply.gg
+127.0.0.1	memory-smilies.gl.at.ply.gg
+127.0.0.1	petro4prime.ydns.eu
+127.0.0.1	style-tropical.gl.at.ply.gg
 127.0.0.1	www.miconestaffing.us
 127.0.0.1	op.puwalyy6.ru
 127.0.0.1	pqr.cofepoi2.ru
@@ -46082,58 +46091,4 @@
 127.0.0.1	api.360s.ltd
 127.0.0.1	check.pafoc.icu
 127.0.0.1	5794515135.sbs
-127.0.0.1	cpcontacts.thebestofbests.com
-127.0.0.1	webdisk.settotoupbmart.com
-127.0.0.1	api.videodriverzone.cloud
-127.0.0.1	api.videotechdrivers.cloud
-127.0.0.1	api.driversnap.cloud
-127.0.0.1	api.camdriverstore.cloud
-127.0.0.1	api.driverstream.cloud
-127.0.0.1	api.videocarddrivers.cloud
-127.0.0.1	api.drivercamhub.cloud
-127.0.0.1	check.najem.icu
-127.0.0.1	api.cameradriverx.cloud
-127.0.0.1	api.camdrivers.cloud
-127.0.0.1	api.camdriverhub.cloud
-127.0.0.1	api.vcamdriverupdate.cloud
-127.0.0.1	api.provideodrivers.cloud
-127.0.0.1	api.vcamsupport.cloud
-127.0.0.1	api.webcamfix.cloud
-127.0.0.1	bokhoreshonline.com
-127.0.0.1	check.dycib.icu
-127.0.0.1	api.vidtechhub.cloud
-127.0.0.1	5616799786.sbs
-127.0.0.1	shillaglavis.com
-127.0.0.1	swapme.fun
-127.0.0.1	nivuti.com
-127.0.0.1	gitrok.com
-127.0.0.1	9x9o.com
-127.0.0.1	canvas.pet
-127.0.0.1	check.miwun.icu
-127.0.0.1	tvfift15pt.top
-127.0.0.1	tvfourt14pt.top
-127.0.0.1	tvsevt17pt.top
-127.0.0.1	tvthirt13pt.top
-127.0.0.1	tvtwenty20ht.top
-127.0.0.1	tvtwenty20pt.top
-127.0.0.1	twthre3vs.top
-127.0.0.1	tvfor4pn.top
-127.0.0.1	tvthirt13sr.top
-127.0.0.1	twtwo2pt.top
-127.0.0.1	tveight18ht.top
-127.0.0.1	tveight18pt.top
-127.0.0.1	tveight8vt.top
-127.0.0.1	emergixience.bet
-127.0.0.1	biochextryhub.bet
-127.0.0.1	urbanfzgproject.bet
-127.0.0.1	dazcientists.bet
-127.0.0.1	raiduyrumny.cyou
-127.0.0.1	theorxhysics.shop
-127.0.0.1	yariksca.beget.tech
-127.0.0.1	a0993730.xsph.ru
-127.0.0.1	cl32012.tw1.ru
-127.0.0.1	villagerae.temp.swtest.ru
-127.0.0.1	a1096844.xsph.ru
-127.0.0.1	a1097362.xsph.ru
-127.0.0.1	tvninet19pt.top
-# Number of entries: 46130
+# Number of entries: 46085
