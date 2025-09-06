@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-05 21:50:03 UTC                        #
+# Last updated: 2025-09-06 01:54:37 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mx.puva6ey2.ru
+127.0.0.1	yp.rijo6oe1.ru
+127.0.0.1	rka.firu6ui8.ru
+127.0.0.1	kws1.messager.my
+127.0.0.1	ng.firu6ui8.ru
+127.0.0.1	bwa.mize0ao1.ru
+127.0.0.1	ck.mize0ao1.ru
+127.0.0.1	zmu.gily1yo3.ru
 127.0.0.1	lj.gily1yo3.ru
 127.0.0.1	tpr.hati3ea0.ru
 127.0.0.1	cv.wolyviy.ru
@@ -46005,31 +46013,4 @@
 127.0.0.1	nnoq.pages.dev
 127.0.0.1	bytes.microstorage.shop
 127.0.0.1	fmoz.pages.dev
-127.0.0.1	webdisk.toplavishnewz.com
-127.0.0.1	cpcalendars.bestofufabetgames.xyz
-127.0.0.1	cpanel.genralnewzupdates.xyz
-127.0.0.1	cpcalendars.onebusinessportal.website
-127.0.0.1	webdisk.policemt76.website
-127.0.0.1	webmail.gamesoffashion45.xyz
-127.0.0.1	cpcalendars.cgibusiness.xyz
-127.0.0.1	webmail.onebusinessportal.xyz
-127.0.0.1	cpcontacts.superbbusiness.website
-127.0.0.1	cpanel.enjoyufabet.xyz
-127.0.0.1	cpcontacts.firstgamezzdiary.website
-127.0.0.1	webdisk.ufabetgameslover89.xyz
-127.0.0.1	webdisk.dmfortsites.xyz
-127.0.0.1	webdisk.eragamshub.xyz
-127.0.0.1	cpcalendars.bestgamesufabet.xyz
-127.0.0.1	webmail.fivetopbusiness.xyz
-127.0.0.1	cpanel.fashionsforts.website
-127.0.0.1	cpcontacts.newdmkey.xyz
-127.0.0.1	cpanel.bestonenewznets.xyz
-127.0.0.1	cpcontacts.textagenai.xyz
-127.0.0.1	webdisk.betufa.website
-127.0.0.1	havocedge.evilpony.win
-127.0.0.1	webdisk.standlivemode.xyz
-127.0.0.1	fantalemon.co.uk
-127.0.0.1	webmail.ufabetandcasinos.website
-127.0.0.1	webdisk.bestgamesufabet.xyz
-127.0.0.1	ms-cdn-update.ru
-# Number of entries: 46026
+# Number of entries: 46007
