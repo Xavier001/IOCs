@@ -1,11 +1,25 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-06 07:28:51 UTC                        #
+# Last updated: 2025-09-06 12:01:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	rem0925.duckdns.org
+127.0.0.1	www.ctsapa.com
+127.0.0.1	rem31rem.duckdns.org
+127.0.0.1	2septiembrerem.duckdns.org
+127.0.0.1	others-beastality.gl.at.ply.gg
+127.0.0.1	dcrat0106.duckdns.org
+127.0.0.1	alm.qapyfyi0.ru
+127.0.0.1	jhab.qapyfyi0.ru
+127.0.0.1	hpqr.qapyfyi0.ru
+127.0.0.1	dhst.qapyfyi0.ru
+127.0.0.1	suvw.qapyfyi0.ru
+127.0.0.1	hdxy.somipaa9.ru
+127.0.0.1	hhcd.somipaa9.ru
+127.0.0.1	ks.nyho0io9.ru
 127.0.0.1	awxy.vekoloe8.ru
 127.0.0.1	ajk.vekoloe8.ru
 127.0.0.1	vwsol.help
@@ -45888,22 +45902,4 @@
 127.0.0.1	appp.file-factory.pro
 127.0.0.1	check.huhop.icu
 127.0.0.1	neurozovery.life
-127.0.0.1	nextgenideas2023.top
-127.0.0.1	digitaldreams101.top
-127.0.0.1	techworld2025.top
-127.0.0.1	fuurxchnologies.top
-127.0.0.1	criticuscoke.pw
-127.0.0.1	strangerwrehcw.click
-127.0.0.1	cowzycomforts.shop
-127.0.0.1	foodsktyproject.shop
-127.0.0.1	farmandfamilylife.shop
-127.0.0.1	manageaccess.info
-127.0.0.1	ca09284.tw1.ru
-127.0.0.1	a1072193.xsph.ru
-127.0.0.1	sixbs6sr.top
-127.0.0.1	onebs1sr.top
-127.0.0.1	cpcontacts.gamesfunzartsz.com
-127.0.0.1	cpcontacts.bestonenewznet.com
-127.0.0.1	farmingtzricks.top
-127.0.0.1	check.zoxog.icu
-# Number of entries: 45900
+# Number of entries: 45896
