@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-07 09:48:11 UTC                        #
+# Last updated: 2025-09-07 12:01:10 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	fireblazecorrect.duckdns.org
+127.0.0.1	maintainthefeex.duckdns.org
+127.0.0.1	masqingtestformat.gleeze.com
+127.0.0.1	bank-danny.gl.at.ply.gg
+127.0.0.1	qn.xapomyo.ru
+127.0.0.1	stc.s3.masterclasstonewow.com
 127.0.0.1	tz.vikidii.ru
 127.0.0.1	a6.nbdsnb2.top
 127.0.0.1	anonam39-21749.portmap.io
@@ -45437,17 +45443,4 @@
 127.0.0.1	support-wp.shop
 127.0.0.1	aweekofromance.com
 127.0.0.1	check.papeb.icu
-127.0.0.1	webmail.okiamwithtotogames.com
-127.0.0.1	cpanel.onlinebesttotogames.com
-127.0.0.1	cpanel.toplavishnewz.com
-127.0.0.1	webmail.testmedia89.com
-127.0.0.1	smartinnovatte.com
-127.0.0.1	tvrcemejeff.tvrcemeheff.euinnos.com
-127.0.0.1	gold-patterns.gl.at.ply.gg
-127.0.0.1	snuegglypillow.top
-127.0.0.1	spikyscaldeo.cyou
-127.0.0.1	ck66916.tw1.ru
-127.0.0.1	porsik9j.beget.tech
-127.0.0.1	gentlera.com
-127.0.0.1	trumpshare.com
-# Number of entries: 45444
+# Number of entries: 45437
