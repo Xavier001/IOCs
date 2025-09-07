@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-07 02:56:56 UTC                        #
+# Last updated: 2025-09-07 09:48:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tz.vikidii.ru
+127.0.0.1	a6.nbdsnb2.top
+127.0.0.1	anonam39-21749.portmap.io
+127.0.0.1	electronics-webmaster.gl.at.ply.gg
+127.0.0.1	www.gondeen.com
+127.0.0.1	cx3fbungd.localto.net
+127.0.0.1	box-dealer.gl.at.ply.gg
+127.0.0.1	hit-calculation.gl.at.ply.gg
 127.0.0.1	dr.hulenao.ru
 127.0.0.1	gri.cyzukae.ru
 127.0.0.1	vm.cyzukae.ru
@@ -45442,95 +45450,4 @@
 127.0.0.1	porsik9j.beget.tech
 127.0.0.1	gentlera.com
 127.0.0.1	trumpshare.com
-127.0.0.1	webdisk.sportsdhub.com
-127.0.0.1	logchim.cc
-127.0.0.1	rzegzwre.top
-127.0.0.1	ga1yo3wu78v48hh.top
-127.0.0.1	agroecologyguide.digital
-127.0.0.1	cropcircleforum.today
-127.0.0.1	check.xylor.icu
-127.0.0.1	ezlols-61193.portmap.host
-127.0.0.1	ak8-20226.portmap.host
-127.0.0.1	imthat1guyfrfr-36577.portmap.host
-127.0.0.1	association-lectures.gl.at.ply.gg
-127.0.0.1	editor-monitoring.gl.at.ply.gg
-127.0.0.1	known-savage.gl.at.ply.gg
-127.0.0.1	orders-ic.gl.at.ply.gg
-127.0.0.1	places-y.gl.at.ply.gg
-127.0.0.1	small-patricia.gl.at.ply.gg
-127.0.0.1	today-modules.gl.at.ply.gg
-127.0.0.1	geikus.myaddr.io
-127.0.0.1	www.oyalthaiherb.net
-127.0.0.1	www.parkautotransport.website
-127.0.0.1	www.pdld.net
-127.0.0.1	www.phconline.info
-127.0.0.1	www.pvoqftnckomcx.shop
-127.0.0.1	www.redit-cards-46185.bond
-127.0.0.1	www.ressconversation.run
-127.0.0.1	www.rview.net
-127.0.0.1	www.sgazaproject.net
-127.0.0.1	www.tgr.pro
-127.0.0.1	www.tudy-in-spain-58534.bond
-127.0.0.1	www.umpsiconi.shop
-127.0.0.1	www.urseryinfo.net
-127.0.0.1	www.vwhay.info
-127.0.0.1	www.wmzotvekqsnbaxvf.shop
-127.0.0.1	www.yperpigmentation-45231.bond
-127.0.0.1	www.zhexifniu.top
-127.0.0.1	www.ixel49.shop
-127.0.0.1	www.kin-rejuvenation-60489.bond
-127.0.0.1	www.kin-rejuvenation-67012.bond
-127.0.0.1	www.log987resultbest.shop
-127.0.0.1	www.mcb.info
-127.0.0.1	www.nmali.top
-127.0.0.1	www.nolises.shop
-127.0.0.1	www.ntesa.group
-127.0.0.1	www.obahrainiioyiq.shop
-127.0.0.1	www.oho.uno
-127.0.0.1	www.olawanliao33.click
-127.0.0.1	www.ollipop.group
-127.0.0.1	www.oloactive.college
-127.0.0.1	www.ome-loans-72725.bond
-127.0.0.1	www.onda1.cloud
-127.0.0.1	www.ontacttracingwristband.net
-127.0.0.1	www.oorso.live
-127.0.0.1	www.ootox.xyz
-127.0.0.1	www.orussiansthub987q.shop
-127.0.0.1	www.aycrk.net
-127.0.0.1	www.b777.top
-127.0.0.1	www.bgripl.xyz
-127.0.0.1	www.ddanything.win
-127.0.0.1	www.dtech.team
-127.0.0.1	www.ecurity-jobs-61871.bond
-127.0.0.1	www.ell-property-32572.bond
-127.0.0.1	www.emglobal.net
-127.0.0.1	www.enesiscorporation.tech
-127.0.0.1	www.estdrivencompliance.net
-127.0.0.1	www.etoxsecrets.today
-127.0.0.1	www.exbjfpbxhjcgzsdgumh.shop
-127.0.0.1	www.fqbjnaw.xyz
-127.0.0.1	www.g-poc.net
-127.0.0.1	www.hestarterkit.xyz
-127.0.0.1	www.hiseledvisions.art
-127.0.0.1	www.ihdwt.info
-127.0.0.1	www.itchens-31.bond
-127.0.0.1	www.1gv52.top
-127.0.0.1	www.4109a37a693.xyz
-127.0.0.1	www.51je936qi.sbs
-127.0.0.1	www.6m86.xyz
-127.0.0.1	www.abysitter-service-32322.bond
-127.0.0.1	www.ags-under-999516409.click
-127.0.0.1	www.andoes.tech
-127.0.0.1	www.anglore-flats-gov01.today
-127.0.0.1	www.archattinfobreach2024.net
-127.0.0.1	www.arehouse-jobs-43584.bond
-127.0.0.1	www.aybankz.click
-127.0.0.1	check.dalut.icu
-127.0.0.1	check.vavoj.icu
-127.0.0.1	check.nyrar.icu
-127.0.0.1	ec2-18-140-53-230.ap-southeast-1.compute.amazonaws.com
-127.0.0.1	pagos2-tst.travelpay.cl.arkaviaredteam.cl
-127.0.0.1	ecs-115-120-250-85.compute.hwclouds-dns.com
-127.0.0.1	check.hegop.icu
-127.0.0.1	check.fyjig.icu
-# Number of entries: 45527
+# Number of entries: 45444
