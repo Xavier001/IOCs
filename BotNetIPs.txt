@@ -4,13 +4,13 @@
  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html>
   <head>
-    <title>503 Request timedout</title>
+    <title>503 certificate has expired</title>
   </head>
   <body>
-    <h1>Error 503 Request timedout</h1>
-    <p>Request timedout</p>
+    <h1>Error 503 certificate has expired</h1>
+    <p>certificate has expired</p>
     <h3>Error 54113</h3>
-    <p>Details: cache-iad-kiad7000082-IAD 1757248300 2069053185</p>
+    <p>Details: cache-chi-kigq8000080-CHI 1757283350 2072154507</p>
     <hr>
     <p>Varnish cache server</p>
   </body>
