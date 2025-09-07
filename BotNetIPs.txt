@@ -10,7 +10,7 @@
     <h1>Error 503 certificate has expired</h1>
     <p>certificate has expired</p>
     <h3>Error 54113</h3>
-    <p>Details: cache-dfw-kdal2120030-DFW 1757196947 1190250362</p>
+    <p>Details: cache-bur-kbur8200115-BUR 1757218404 119931922</p>
     <hr>
     <p>Varnish cache server</p>
   </body>
