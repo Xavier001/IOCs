@@ -1,11 +1,43 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-08 03:10:25 UTC                        #
+# Last updated: 2025-09-08 10:06:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	us.bavyzeo47.ru
+127.0.0.1	way.cawyfie51.ru
+127.0.0.1	it.bavyzeo47.ru
+127.0.0.1	no.bavyzeo47.ru
+127.0.0.1	air.bavyzeo47.ru
+127.0.0.1	rock-in-rio-statetments-fil3945489pdf.pages.dev
+127.0.0.1	not-bloom.gl.at.ply.gg
+127.0.0.1	method-attendance.gl.at.ply.gg
+127.0.0.1	fun.cawyfie51.ru
+127.0.0.1	eotoatotlasldkd.com
+127.0.0.1	oaszasktktaktl.com
+127.0.0.1	soinpharmaceuticals.com
+127.0.0.1	levonpharma.com
+127.0.0.1	rst.lypelya2.ru
+127.0.0.1	ncloud.icu
+127.0.0.1	to.pobinei39.ru
+127.0.0.1	csp.jocijyu.ru
+127.0.0.1	dtc.jocijyu.ru
+127.0.0.1	me.pobinei39.ru
+127.0.0.1	ausral.cfd
+127.0.0.1	meditean.cfd
+127.0.0.1	windowshost.click
+127.0.0.1	ray.pobinei39.ru
+127.0.0.1	go.dihijio22.ru
+127.0.0.1	day.sypyguu85.ru
+127.0.0.1	hi.dihijio22.ru
+127.0.0.1	sky.dihijio22.ru
+127.0.0.1	sea.dihijio22.ru
+127.0.0.1	joy.sypyguu85.ru
+127.0.0.1	do.cawyfie51.ru
+127.0.0.1	so.cawyfie51.ru
+127.0.0.1	bms.tld56.cn
 127.0.0.1	db.vm.masterclasstonewow.com
 127.0.0.1	bs.messager.my
 127.0.0.1	kws1-1.messager.my
@@ -45110,30 +45142,4 @@
 127.0.0.1	webdisk.topandbestnews.com
 127.0.0.1	cpanel.okiamwithtotogames.com
 127.0.0.1	check.votao.icu
-127.0.0.1	webdisk.bestnewznetworkofone.com
-127.0.0.1	cpcontacts.totogamesnetwork.com
-127.0.0.1	ip72.ip-198-244-227.eu
-127.0.0.1	check.fyvuz.icu
-127.0.0.1	check.nuhiq.icu
-127.0.0.1	check.wanah.icu
-127.0.0.1	hrewsburysocialclub.org
-127.0.0.1	cpth-cant.com
-127.0.0.1	lydbonkersbimpjc.blogspot.com
-127.0.0.1	bookimanagerev.com
-127.0.0.1	customer-performances.gl.at.ply.gg
-127.0.0.1	defined-literary.gl.at.ply.gg
-127.0.0.1	freeetradingzone.duckdns.org
-127.0.0.1	stay-type.gl.at.ply.gg
-127.0.0.1	4.ip.gl.ply.gg
-127.0.0.1	check.tuqyq.icu
-127.0.0.1	check.zudab.icu
-127.0.0.1	check.matur.icu
-127.0.0.1	webdisk.timehrnews.com
-127.0.0.1	cpcontacts.gamesofsportsandtoto.com
-127.0.0.1	cpanel.canvatechsports.com
-127.0.0.1	treatment-met.gl.at.ply.gg
-127.0.0.1	check.kutyl.icu
-127.0.0.1	check.socek.icu
-127.0.0.1	check.qulin.icu
-127.0.0.1	check.gerit.icu
-# Number of entries: 45130
+# Number of entries: 45136

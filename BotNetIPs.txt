@@ -1,17 +1,12 @@
-
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
- "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-  <head>
-    <title>503 certificate has expired</title>
-  </head>
-  <body>
-    <h1>Error 503 certificate has expired</h1>
-    <p>certificate has expired</p>
-    <h3>Error 54113</h3>
-    <p>Details: cache-chi-kigq8000083-CHI 1757304855 2295816983</p>
-    <hr>
-    <p>Varnish cache server</p>
-  </body>
-</html>
+################################################################
+# abuse.ch Feodo Tracker Botnet C2 IP Blocklist (IPs only)     #
+# Last updated: 2025-09-07 08:16:29 UTC                        #
+#                                                              #
+# Terms Of Use: https://feodotracker.abuse.ch/blocklist/       #
+# For questions please contact feodotracker [at] abuse.ch      #
+################################################################
+#
+# DstIP
+162.243.103.246
+79.194.143.100
+# END 2 entries
