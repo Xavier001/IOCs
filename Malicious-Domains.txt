@@ -1,11 +1,96 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-08 10:06:52 UTC                        #
+# Last updated: 2025-09-08 12:27:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	top.harekae65.ru
+127.0.0.1	868id.com
+127.0.0.1	cs01.shop
+127.0.0.1	881vn.com
+127.0.0.1	custpub.com
+127.0.0.1	jayw8724-39348.portmap.host
+127.0.0.1	microsoft-graphics.ddns.net
+127.0.0.1	modam3r.linkpc.net
+127.0.0.1	evelynnrank1.duckdns.org
+127.0.0.1	uraniumc2.ddns.net
+127.0.0.1	www.sy124.top
+127.0.0.1	www.uhma.shop
+127.0.0.1	www.usjy.town
+127.0.0.1	www.utomation-tools-78123.bond
+127.0.0.1	www.vd-global.vip
+127.0.0.1	www.yushe.shop
+127.0.0.1	www.otalbalans.shop
+127.0.0.1	www.otculua.shop
+127.0.0.1	www.ou-meme.xyz
+127.0.0.1	www.ovbns.vip
+127.0.0.1	www.ovesaint.art
+127.0.0.1	www.p7s5272.xyz
+127.0.0.1	www.qyqima0.xyz
+127.0.0.1	www.raceora.tech
+127.0.0.1	www.rchitectseo.net
+127.0.0.1	www.rownmt.net
+127.0.0.1	www.rumpwif.club
+127.0.0.1	www.rvkoae.xyz
+127.0.0.1	www.rygreentechrenewables.click
+127.0.0.1	www.stanbulcidot.click
+127.0.0.1	www.loatingdragon.cfd
+127.0.0.1	www.loe-consulting.net
+127.0.0.1	www.lohaadvantage.xyz
+127.0.0.1	www.nstructify.tech
+127.0.0.1	www.nviodigitaloficial.shop
+127.0.0.1	www.oastalweddingsandeventsca.xyz
+127.0.0.1	www.odegashift.net
+127.0.0.1	www.odhiwaters.net
+127.0.0.1	www.odydocai.net
+127.0.0.1	www.om-ezpeug.vip
+127.0.0.1	www.oncrete-companies-near-me.top
+127.0.0.1	www.onstruction-management-klm.sbs
+127.0.0.1	www.osteo-aups.top
+127.0.0.1	www.efinn.click
+127.0.0.1	www.ehrrg.top
+127.0.0.1	www.eiegrmkzp.top
+127.0.0.1	www.ennisritchie.shop
+127.0.0.1	www.eomines.top
+127.0.0.1	www.extgenfargo.xyz
+127.0.0.1	www.gq.top
+127.0.0.1	www.hirtwillle.xyz
+127.0.0.1	www.hoenixance.shop
+127.0.0.1	www.hy-is-linzess-dangerous.cfd
+127.0.0.1	www.icole484.forum
+127.0.0.1	www.ighllight.net
+127.0.0.1	www.iolinoddlinkopen.christmas
+127.0.0.1	www.latformliga8etongame.lat
+127.0.0.1	www.lberta-mortgagebrokers.xyz
+127.0.0.1	www.ailamericabailbonds.net
+127.0.0.1	www.aimao42.top
+127.0.0.1	www.alk7.shop
+127.0.0.1	www.alwaonline.xyz
+127.0.0.1	www.angdachui.xyz
+127.0.0.1	www.aohang9838-2-11.vip
+127.0.0.1	www.artyislandrentals.net
+127.0.0.1	www.atevideo-call-service-in13.bond
+127.0.0.1	www.bbvps.xyz
+127.0.0.1	www.bcxot.xyz
+127.0.0.1	www.bwb41c.top
+127.0.0.1	www.c36669.vip
+127.0.0.1	www.c5421.top
+127.0.0.1	www.30311.xyz
+127.0.0.1	www.568yn.top
+127.0.0.1	www.73jvs.top
+127.0.0.1	www.8484.town
+127.0.0.1	jfl4kvbv6.localto.net
+127.0.0.1	he.harekae65.ru
+127.0.0.1	ndlive.help
+127.0.0.1	sicher-de.click
+127.0.0.1	days-announce.gl.at.ply.gg
+127.0.0.1	move-did.gl.at.ply.gg
+127.0.0.1	dasrilkosdirosado.com
+127.0.0.1	to.harekae65.ru
+127.0.0.1	cpanel.destroythebrainonline.com
+127.0.0.1	run.bavyzeo47.ru
 127.0.0.1	us.bavyzeo47.ru
 127.0.0.1	way.cawyfie51.ru
 127.0.0.1	it.bavyzeo47.ru
@@ -45131,15 +45216,4 @@
 127.0.0.1	check.jomea.icu
 127.0.0.1	check.rehoe.icu
 127.0.0.1	moscable77.ru
-127.0.0.1	bossik.ddns.net
-127.0.0.1	josefnnnnn.no-ip.biz
-127.0.0.1	data-center.gotdns.ch
-127.0.0.1	check.havye.icu
-127.0.0.1	acer.tail843d69.ts.net
-127.0.0.1	torbrowser.no-ip.biz
-127.0.0.1	cpanel.sportsdhub.com
-127.0.0.1	cpcontacts.topdigihub.com
-127.0.0.1	webdisk.topandbestnews.com
-127.0.0.1	cpanel.okiamwithtotogames.com
-127.0.0.1	check.votao.icu
-# Number of entries: 45136
+# Number of entries: 45210
