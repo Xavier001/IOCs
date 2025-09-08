@@ -1,11 +1,96 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-08 12:27:39 UTC                        #
+# Last updated: 2025-09-08 22:01:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dmybfje.qpon
+127.0.0.1	sec.b.xifuhalim.com
+127.0.0.1	bp.muzodoa.ru
+127.0.0.1	disloef.bet
+127.0.0.1	explodd.bet
+127.0.0.1	keoghvg.bet
+127.0.0.1	lactoxn.bet
+127.0.0.1	leasebu.bet
+127.0.0.1	mugbool.bet
+127.0.0.1	neutray.bet
+127.0.0.1	slipxzx.bet
+127.0.0.1	helltlt.bet
+127.0.0.1	genuysf.bet
+127.0.0.1	innervn.bet
+127.0.0.1	islamil.bet
+127.0.0.1	kennetk.bet
+127.0.0.1	polytgh.bet
+127.0.0.1	radialz.bet
+127.0.0.1	roomysc.bet
+127.0.0.1	ideofvb.bet
+127.0.0.1	lapsqyq.bet
+127.0.0.1	setbnhy.bet
+127.0.0.1	trichcd.bet
+127.0.0.1	turrgql.bet
+127.0.0.1	genulop.bet
+127.0.0.1	numeqci.bet
+127.0.0.1	scepxmo.bet
+127.0.0.1	lustmms.bet
+127.0.0.1	spacoai.bet
+127.0.0.1	backfvb.bet
+127.0.0.1	dalocoz.bet
+127.0.0.1	bondixa.qpon
+127.0.0.1	denimmi.qpon
+127.0.0.1	smashaj.qpon
+127.0.0.1	anticlk.qpon
+127.0.0.1	facilin.qpon
+127.0.0.1	batonra.qpon
+127.0.0.1	burkeax.bet
+127.0.0.1	detachs.qpon
+127.0.0.1	subtehi.bet
+127.0.0.1	takepdq.bet
+127.0.0.1	zairezb.bet
+127.0.0.1	easybqy.qpon
+127.0.0.1	mindhlo.qpon
+127.0.0.1	sculcib.qpon
+127.0.0.1	persrbj.qpon
+127.0.0.1	realist.qpon
+127.0.0.1	glibtof.qpon
+127.0.0.1	falsapa.qpon
+127.0.0.1	damagex.qpon
+127.0.0.1	dishine.qpon
+127.0.0.1	enthrqe.bet
+127.0.0.1	hingexr.bet
+127.0.0.1	orienlc.bet
+127.0.0.1	ravishl.qpon
+127.0.0.1	stupide.qpon
+127.0.0.1	unitkgt.qpon
+127.0.0.1	unregun.qpon
+127.0.0.1	threahg.qpon
+127.0.0.1	excesso.qpon
+127.0.0.1	silverk.qpon
+127.0.0.1	novellv.qpon
+127.0.0.1	natione.qpon
+127.0.0.1	winslmk.qpon
+127.0.0.1	icerinh.qpon
+127.0.0.1	proscns.bet
+127.0.0.1	octanzn.bet
+127.0.0.1	bluejwh.bet
+127.0.0.1	capitam.qpon
+127.0.0.1	curdlep.qpon
+127.0.0.1	kejishashasha.cn
+127.0.0.1	sharjahaquarium.com
+127.0.0.1	evaultbuzzfix.com
+127.0.0.1	faq-samuel.gl.at.ply.gg
+127.0.0.1	saqir.ddns.net
+127.0.0.1	due-involvement.gl.at.ply.gg
+127.0.0.1	welcome-lewis.gl.at.ply.gg
+127.0.0.1	zod.fypufea.ru
+127.0.0.1	tma.penodoa.ru
+127.0.0.1	sky.badejie69.ru
+127.0.0.1	ctu.poxyway.ru
+127.0.0.1	sea.badejie69.ru
+127.0.0.1	go.badejie69.ru
+127.0.0.1	ve.penodoa.ru
+127.0.0.1	wa.poxyway.ru
 127.0.0.1	top.harekae65.ru
 127.0.0.1	868id.com
 127.0.0.1	cs01.shop
@@ -5384,7 +5469,6 @@
 127.0.0.1	craftsgamer.4cloud.click
 127.0.0.1	10.0.minewise.xyz
 127.0.0.1	data.reversesync.com
-127.0.0.1	collect.installeranalytics.com
 127.0.0.1	testermania.theworkpc.com
 127.0.0.1	logscomenow.sbs
 127.0.0.1	bambaz0r.zapto.org
@@ -45194,26 +45278,4 @@
 127.0.0.1	webmail.10bestbusiness.xyz
 127.0.0.1	cpcalendars.dmfortsites.xyz
 127.0.0.1	ec2-13-213-182-135.ap-southeast-1.compute.amazonaws.com
-127.0.0.1	cpanel.police-mt077.website
-127.0.0.1	cpcontacts.10bestufabetgames.xyz
-127.0.0.1	cpcalendars.wellcartnewzhub.xyz
-127.0.0.1	cpcalendars.homeimprovementbox.xyz
-127.0.0.1	cpcontacts.betufa.website
-127.0.0.1	cpanel.top10gamesofoto1.xyz
-127.0.0.1	cpanel.newdmkey.xyz
-127.0.0.1	webmail.stockmrtktlite.xyz
-127.0.0.1	cpcontacts.businesswithloyal.xyz
-127.0.0.1	webdisk.fivetopbusiness.website
-127.0.0.1	srv15118837.ultasrv.net
-127.0.0.1	webmail.broadcnnewz.xyz
-127.0.0.1	cpcontacts.viralbookshub.xyz
-127.0.0.1	check.cijii.icu
-127.0.0.1	check.muqey.icu
-127.0.0.1	cpcontacts.sportsfootball.website
-127.0.0.1	webmail.bestblogznews.com
-127.0.0.1	cpcalendars.hostsportstoto9.com
-127.0.0.1	check.xagoe.icu
-127.0.0.1	check.jomea.icu
-127.0.0.1	check.rehoe.icu
-127.0.0.1	moscable77.ru
-# Number of entries: 45210
+# Number of entries: 45272
