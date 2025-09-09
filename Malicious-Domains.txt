@@ -1,11 +1,38 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-09 02:10:56 UTC                        #
+# Last updated: 2025-09-09 06:54:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	us.gesybue11.ru
+127.0.0.1	sec.b.granivit.hu
+127.0.0.1	inoffek.bet
+127.0.0.1	voando.in
+127.0.0.1	mandmqq.bet
+127.0.0.1	trimoeb.bet
+127.0.0.1	polypef.bet
+127.0.0.1	openlkn.bet
+127.0.0.1	pulluoj.bet
+127.0.0.1	up.tydubyo66.ru
+127.0.0.1	day.tydubyo66.ru
+127.0.0.1	do.xudofiu02.ru
+127.0.0.1	joy.tydubyo66.ru
+127.0.0.1	cabunca.mypets.ws
+127.0.0.1	so.xudofiu02.ru
+127.0.0.1	fun.xudofiu02.ru
+127.0.0.1	me.xudofiu02.ru
+127.0.0.1	way.xudofiu02.ru
+127.0.0.1	it.gesybue11.ru
+127.0.0.1	air.gesybue11.ru
+127.0.0.1	smeartj.bet
+127.0.0.1	decuioz.qpon
+127.0.0.1	pow.s.xifuhalim.com
+127.0.0.1	egi0of8.duckdns.org
+127.0.0.1	srv649721.hstgr.cloud
+127.0.0.1	ec2-18-184-8-83.eu-central-1.compute.amazonaws.com
+127.0.0.1	2152761d.langcdn.top
 127.0.0.1	pow.t.xifuhalim.com
 127.0.0.1	jl.dovagua.ru
 127.0.0.1	dmybfje.qpon
@@ -45222,40 +45249,4 @@
 127.0.0.1	cpcalendars.latestsportshub.com
 127.0.0.1	check.jilex.icu
 127.0.0.1	september-touch.gl.at.ply.gg
-127.0.0.1	eighthh8th.top
-127.0.0.1	onehh1th.top
-127.0.0.1	sixhh6th.top
-127.0.0.1	tenhh10th.top
-127.0.0.1	sixbr6vt.top
-127.0.0.1	onebr1vt.top
-127.0.0.1	sixgb6sb.top
-127.0.0.1	eightbs8sr.top
-127.0.0.1	sterpickced.digital
-127.0.0.1	confessnibmle.top
-127.0.0.1	smartsolutions24.top
-127.0.0.1	zfurrycomp.top
-127.0.0.1	dsimensio.bet
-127.0.0.1	followfauc.cyou
-127.0.0.1	f1100076.xsph.ru
-127.0.0.1	code-yandex.ru
-127.0.0.1	tenbs10sr.top
-127.0.0.1	webmail.blogssab.com
-127.0.0.1	cpcalendars.bigmedianetwrk.com
-127.0.0.1	figure-races.gl.at.ply.gg
-127.0.0.1	remember-convenient.gl.at.ply.gg
-127.0.0.1	some-event.gl.at.ply.gg
-127.0.0.1	support-effectiveness.gl.at.ply.gg
-127.0.0.1	imthat1guyfrfr-32310.portmap.host
-127.0.0.1	aboltustimoha-43339.portmap.host
-127.0.0.1	found-politicians.gl.at.ply.gg
-127.0.0.1	2533qwefs-64288.portmap.host
-127.0.0.1	pdf-switched.gl.at.ply.gg
-127.0.0.1	mosayjanobo-38048.portmap.host
-127.0.0.1	botnet1.uapworx1.sbs
-127.0.0.1	check.qinah.icu
-127.0.0.1	pwn.bamuwe.xyz
-127.0.0.1	cpcalendars.sports777games.com
-127.0.0.1	check.jiceo.icu
-127.0.0.1	check.juxoi.icu
-127.0.0.1	check.henuo.icu
-# Number of entries: 45252
+# Number of entries: 45243
