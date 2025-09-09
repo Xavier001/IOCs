@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-09 06:54:07 UTC                        #
+# Last updated: 2025-09-09 12:02:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hidra991.hldns.ru
+127.0.0.1	stachi.ydns.eu
+127.0.0.1	quick-portion.gl.at.ply.gg
+127.0.0.1	enter-dayton.gl.at.ply.gg
+127.0.0.1	run.gesybue11.ru
+127.0.0.1	sea.homohay31.ru
+127.0.0.1	qg.jibiw8aa5.ru
+127.0.0.1	sun.homohay31.ru
 127.0.0.1	us.gesybue11.ru
 127.0.0.1	sec.b.granivit.hu
 127.0.0.1	inoffek.bet
@@ -45239,14 +45247,4 @@
 127.0.0.1	check.cicyb.icu
 127.0.0.1	update.miocrsoft.com
 127.0.0.1	check.jipuh.icu
-127.0.0.1	check.kynoc.icu
-127.0.0.1	check.somyq.icu
-127.0.0.1	webmail.onlinebesttotogames.com
-127.0.0.1	cpcalendars.welovetotogames.com
-127.0.0.1	cpcontacts.thegameof7art.com
-127.0.0.1	cpcontacts.tectotechnology.com
-127.0.0.1	webmail.gamesoffashion.com
-127.0.0.1	cpcalendars.latestsportshub.com
-127.0.0.1	check.jilex.icu
-127.0.0.1	september-touch.gl.at.ply.gg
-# Number of entries: 45243
+# Number of entries: 45241
