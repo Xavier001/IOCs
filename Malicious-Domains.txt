@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-10 10:14:44 UTC                        #
+# Last updated: 2025-09-10 12:02:42 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dmoneii.com
+127.0.0.1	hs.fypufea.ru
+127.0.0.1	tiv.lizusey.ru
+127.0.0.1	ym.lizusey.ru
 127.0.0.1	lup.gowuhei.ru
 127.0.0.1	dr.gowuhei.ru
 127.0.0.1	two.zanax6aa1.ru
@@ -45282,8 +45286,4 @@
 127.0.0.1	www.657839.club
 127.0.0.1	www.729709.bid
 127.0.0.1	maicrosoft365.com
-127.0.0.1	webdisk.bigmedianetwrk.com
-127.0.0.1	webmail.shalownewssab.com
-127.0.0.1	cpanel.welovetotogames.com
-127.0.0.1	cod.fhshan.com.cn
 # Number of entries: 45280
