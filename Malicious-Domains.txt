@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-10 22:00:11 UTC                        #
+# Last updated: 2025-09-11 01:10:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	suu.sed-i.org
 127.0.0.1	ks.rawimoi.ru
 127.0.0.1	laputau.qpon
 127.0.0.1	syapboc.qpon
@@ -44970,18 +44971,4 @@
 127.0.0.1	c4.tonxin.top
 127.0.0.1	check.kabuq.icu
 127.0.0.1	check.gijuz.icu
-127.0.0.1	webmail.artnewzdaily.xyz
-127.0.0.1	cpcalendars.whartpzz.com
-127.0.0.1	cpanel.generalnewzsab.com
-127.0.0.1	cpcontacts.fashionsforts.website
-127.0.0.1	ec2-3-91-134-143.compute-1.amazonaws.com
-127.0.0.1	portal.thomsonreutors.com
-127.0.0.1	ii.hastleup.ink
-127.0.0.1	cpanel.dgmrtktnewz.website
-127.0.0.1	cpcontacts.toptenufabetgames.xyz
-127.0.0.1	cpcontacts.genralnewzupdates.xyz
-127.0.0.1	webdisk.mtstronggame7.xyz
-127.0.0.1	cpanel.homeimprovementbox.xyz
-127.0.0.1	webdisk.fashionsforts.website
-127.0.0.1	webmail.top5business.website
-# Number of entries: 44978
+# Number of entries: 44965
