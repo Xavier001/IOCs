@@ -1,11 +1,27 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-11 08:50:47 UTC                        #
+# Last updated: 2025-09-11 12:10:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	px.vumarifa.com
+127.0.0.1	americanos2000.duckdns.org
+127.0.0.1	northsalls.com
+127.0.0.1	goodangelgivenbestbabygirlevacamebackbea.duckdns.org
+127.0.0.1	md.rexykye2.ru
+127.0.0.1	xrp.dasurie36.ru
+127.0.0.1	srf.sed-i.org
+127.0.0.1	fj.wofelee.ru
+127.0.0.1	then.wofaraa29.ru
+127.0.0.1	they.wofaraa29.ru
+127.0.0.1	moon.gytogii12.ru
+127.0.0.1	mon.gytogii12.ru
+127.0.0.1	best.gytogii12.ru
+127.0.0.1	mtmra.com
+127.0.0.1	lot.dasurie36.ru
+127.0.0.1	most.dasurie36.ru
 127.0.0.1	laid.wofaraa29.ru
 127.0.0.1	deal.wofaraa29.ru
 127.0.0.1	voyagecelery.xyz
@@ -44748,9 +44764,4 @@
 127.0.0.1	u1.drizzleraving.shop
 127.0.0.1	u1.puckerlinguist.shop
 127.0.0.1	u1.overuseunderuse.shop
-127.0.0.1	v2202501250277308833.bestsrv.de
-127.0.0.1	furryfinkders.digital
-127.0.0.1	latchclan.shop
-127.0.0.1	pillowtouzch.shop
-127.0.0.1	sockvoicep.live
-# Number of entries: 44747
+# Number of entries: 44758
