@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-11 22:04:39 UTC                        #
+# Last updated: 2025-09-12 02:48:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.aliyunupdate.shop
+127.0.0.1	qd.fa6eq.ru
+127.0.0.1	mro.cubaqay.ru
 127.0.0.1	za.cubaqay.ru
 127.0.0.1	stp.vumarifa.com
 127.0.0.1	gifted-swirles.41-216-188-199.plesk.page
@@ -44699,21 +44702,4 @@
 127.0.0.1	aegieuueueuuruiee.top
 127.0.0.1	aegieuueueuuruime.top
 127.0.0.1	aegieuueueuuruire.top
-127.0.0.1	cpcalendars.dmhubnewsz.website
-127.0.0.1	cpanel.theyestechnewsz.xyz
-127.0.0.1	www.dyshop.online
-127.0.0.1	t1.nestquicks.com
-127.0.0.1	ns1.svchost.ddns-ip.net
-127.0.0.1	ns01.certis-cisco.click
-127.0.0.1	ns02.certis-cisco.click
-127.0.0.1	data.australiasoutheast.cloudapp.azure.com
-127.0.0.1	cpanel.games777games.xyz
-127.0.0.1	cpcontacts.techspilotx.website
-127.0.0.1	cpcontacts.handufabetgames.xyz
-127.0.0.1	cpcalendars.livebengsnnewz.xyz
-127.0.0.1	cpanel.sportsfootball.website
-127.0.0.1	outlook.tekbalam.com
-127.0.0.1	cpcalendars.newdmkey.xyz
-127.0.0.1	webmail.cgibusiness.xyz
-127.0.0.1	webmail.apexhomeimprovement.xyz
-# Number of entries: 44710
+# Number of entries: 44696
