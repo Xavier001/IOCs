@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-12 10:10:30 UTC                        #
+# Last updated: 2025-09-12 12:10:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tht.vumarifa.com
+127.0.0.1	htgeruyukwhyj.duckdns.org
+127.0.0.1	bigpappa.duckdns.org
+127.0.0.1	function-assembled.gl.at.ply.gg
+127.0.0.1	pc.mo5un.ru
 127.0.0.1	ura.vumarifa.com
 127.0.0.1	mv.mo5un.ru
 127.0.0.1	me.fo1od.ru
@@ -44649,8 +44654,4 @@
 127.0.0.1	menuedgarli.shop
 127.0.0.1	sweetmdreampillow.today
 127.0.0.1	artemcd9.beget.tech
-127.0.0.1	webmail.bestnewznetworks.com
-127.0.0.1	cpcalendars.newzofnetworksera.com
-127.0.0.1	cityscapea.run
-127.0.0.1	check.baruy.icu
-# Number of entries: 44647
+# Number of entries: 44648
