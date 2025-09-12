@@ -1,11 +1,66 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-12 12:10:24 UTC                        #
+# Last updated: 2025-09-12 20:04:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	md.cykugeu.ru
+127.0.0.1	microupdater.ignorelist.com
+127.0.0.1	xml-suggestions.gl.at.ply.gg
+127.0.0.1	yassinea-24570.portmap.host
+127.0.0.1	yassinea2-47754.portmap.host
+127.0.0.1	as.ty1un.ru
+127.0.0.1	shiporitoy.sbs
+127.0.0.1	shiteafirs.live
+127.0.0.1	shiteathre.sbs
+127.0.0.1	shiteatwop.sbs
+127.0.0.1	qsetshi.live
+127.0.0.1	shiwa.sbs
+127.0.0.1	ntv.vumarifa.com
+127.0.0.1	masmbv.asia
+127.0.0.1	repzzm.asia
+127.0.0.1	fladiw.asia
+127.0.0.1	bucrew.asia
+127.0.0.1	do.boku-0.ru
+127.0.0.1	go.boku-0.ru
+127.0.0.1	he.boku-0.ru
+127.0.0.1	1308344827-4bya137jfj.ap-guangzhou.tencentscf.com
+127.0.0.1	www.lastsentinelflock.org
+127.0.0.1	titan.tail922ba4.ts.net
+127.0.0.1	updater-internal.mooo.com
+127.0.0.1	news.heix-energietechnik.com
+127.0.0.1	webdisk.umathurman.org
+127.0.0.1	wo.by3iq.ru
+127.0.0.1	teachingbutter.info
+127.0.0.1	weatherforce.info
+127.0.0.1	l.bi3ux.ru
+127.0.0.1	an.boku0.ru
+127.0.0.1	qv.bi3ux.ru
+127.0.0.1	zpa.bi3ux.ru
+127.0.0.1	kj.by3iq.ru
+127.0.0.1	secure.happyhatterreviews.com
+127.0.0.1	nl.qe3yn.ru
+127.0.0.1	ha.bi3ux.ru
+127.0.0.1	mri.bi3ux.ru
+127.0.0.1	zu.wi9ik.ru
+127.0.0.1	prinscibuck.s3.us-east-1.amazonaws.com
+127.0.0.1	nectixboost.xyz
+127.0.0.1	nectixboost.org
+127.0.0.1	manageengine.su
+127.0.0.1	rq.fo1od.ru
+127.0.0.1	bti.fo1od.ru
+127.0.0.1	cy.fo1od.ru
+127.0.0.1	jo.qe3yn.ru
+127.0.0.1	vex.qe3yn.ru
+127.0.0.1	webcre8.com
+127.0.0.1	4revergreen.com
+127.0.0.1	pokelv.com
+127.0.0.1	ta.qe3yn.ru
+127.0.0.1	pru.qe3yn.ru
+127.0.0.1	avapmpvegyw0c.cfc-execute.su.baidubce.com
+127.0.0.1	hb.wi9ik.ru
 127.0.0.1	tht.vumarifa.com
 127.0.0.1	htgeruyukwhyj.duckdns.org
 127.0.0.1	bigpappa.duckdns.org
@@ -44628,30 +44683,4 @@
 127.0.0.1	carsrpg.online
 127.0.0.1	cpcontacts.gamesoffashion45.xyz
 127.0.0.1	cpcalendars.onlinebesttotogamesnewz.xyz
-127.0.0.1	jsfiles-bqq.pages.dev
-127.0.0.1	bbb1-9we.pages.dev
-127.0.0.1	items.kycc-camera.shop
-127.0.0.1	cpcalendars.ufabetandcasinos.website
-127.0.0.1	webdisk.domizmusk.website
-127.0.0.1	cpcalendars.fastnewclub.xyz
-127.0.0.1	cpcalendars.ufabets.website
-127.0.0.1	cpanel.fivetopbusiness.xyz
-127.0.0.1	webdisk.gamesandufabetpro.website
-127.0.0.1	webdisk.bsttoolswx.xyz
-127.0.0.1	cpcalendars.dmustkpoint.xyz
-127.0.0.1	webdisk.modegenerlshub.xyz
-127.0.0.1	company.fithiphealthy.com
-127.0.0.1	cpcalendars.wealthwrknetwork.xyz
-127.0.0.1	cpcontacts.onebusinessportal.xyz
-127.0.0.1	ip70-185-170-81.mc.at.cox.net
-127.0.0.1	webmail.newzmediaworld.xyz
-127.0.0.1	cpcontacts.fortnewzoutlooks.xyz
-127.0.0.1	7paa3sg1yhyax.cfc-execute.bj.baidubce.com
-127.0.0.1	market-lum.fun
-127.0.0.1	gov.nic-in.com
-127.0.0.1	backup.timebrokepush.com
-127.0.0.1	kbracketba.shop
-127.0.0.1	menuedgarli.shop
-127.0.0.1	sweetmdreampillow.today
-127.0.0.1	artemcd9.beget.tech
-# Number of entries: 44648
+# Number of entries: 44677
