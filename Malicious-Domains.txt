@@ -1,11 +1,29 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-13 02:48:38 UTC                        #
+# Last updated: 2025-09-13 08:48:20 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	client.defenderblt.com
+127.0.0.1	m.zo1ah.ru
+127.0.0.1	mlcrosoft.v6.navy
+127.0.0.1	cllcktlme.com
+127.0.0.1	if.boku-0.ru
+127.0.0.1	is.buno8.ru
+127.0.0.1	cmqsqomiwwksmcsw.xyz
+127.0.0.1	me.buno8.ru
+127.0.0.1	no.buno8.ru
+127.0.0.1	on.ciqe8.ru
+127.0.0.1	so.ciqe8.ru
+127.0.0.1	up.ciqe8.ru
+127.0.0.1	we.devy3.ru
+127.0.0.1	hv.bi0ic.ru
+127.0.0.1	q.bi0ic.ru
+127.0.0.1	am.devy3.ru
+127.0.0.1	enyxma.diegosr.es
+127.0.0.1	cheyipiao.hello4am.com
 127.0.0.1	ypk.sechub.com.cn
 127.0.0.1	1.fe1it.ru
 127.0.0.1	hap.vumarifa.com
@@ -44662,15 +44680,4 @@
 127.0.0.1	weaponrywo.digital
 127.0.0.1	electryuonicpulse.world
 127.0.0.1	ce43370.tw1.ru
-127.0.0.1	d.p.formaxprime.co.uk
-127.0.0.1	ip212-227-245-12.pbiaas.com
-127.0.0.1	webmail.answerallnewz.com
-127.0.0.1	webdisk.toto7vgames.com
-127.0.0.1	cpcontacts.generalnewzsab.com
-127.0.0.1	cpcalendars.expressnewzgames.com
-127.0.0.1	check.cudol.icu
-127.0.0.1	verynicepeoplesforsweetkiss.duckdns.org
-127.0.0.1	cpanel.hostsportstoto9.com
-127.0.0.1	check.hehoi.icu
-127.0.0.1	check.fesuy.icu
-# Number of entries: 44667
+# Number of entries: 44674
