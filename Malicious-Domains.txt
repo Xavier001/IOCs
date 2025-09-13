@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-12 20:04:25 UTC                        #
+# Last updated: 2025-09-13 02:48:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ypk.sechub.com.cn
+127.0.0.1	1.fe1it.ru
+127.0.0.1	hap.vumarifa.com
+127.0.0.1	go.fe1it.ru
 127.0.0.1	md.cykugeu.ru
 127.0.0.1	microupdater.ignorelist.com
 127.0.0.1	xml-suggestions.gl.at.ply.gg
@@ -44669,18 +44673,4 @@
 127.0.0.1	cpanel.hostsportstoto9.com
 127.0.0.1	check.hehoi.icu
 127.0.0.1	check.fesuy.icu
-127.0.0.1	burnsmcd.co
-127.0.0.1	mcnn.ru
-127.0.0.1	webmail.mtstronggame7.xyz
-127.0.0.1	webmail.b2bbsuiness.xyz
-127.0.0.1	cpcontacts.top5business.website
-127.0.0.1	cpanel.homeimprovementbloopers.xyz
-127.0.0.1	ip234.ip-51-81-171.us
-127.0.0.1	cpcontacts.gamesoftotoandtotoof.xyz
-127.0.0.1	webmail.fortnewzoutlooks.xyz
-127.0.0.1	cpanel.onebusinessportal.xyz
-127.0.0.1	webmail.paranewslivesab.xyz
-127.0.0.1	carsrpg.online
-127.0.0.1	cpcontacts.gamesoffashion45.xyz
-127.0.0.1	cpcalendars.onlinebesttotogamesnewz.xyz
-# Number of entries: 44677
+# Number of entries: 44667
