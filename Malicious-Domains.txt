@@ -1,11 +1,32 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-14 09:38:58 UTC                        #
+# Last updated: 2025-09-14 12:14:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	pick.cewyzui61.ru
+127.0.0.1	year.cewyzui61.ru
+127.0.0.1	pin.cewyzui61.ru
+127.0.0.1	an.k5b2q.ru
+127.0.0.1	cnn9001.duckdns.org
+127.0.0.1	223.ip.gl.ply.gg
+127.0.0.1	killkill.myftp.biz
+127.0.0.1	mix.cofidyu58.ru
+127.0.0.1	star.cofidyu58.ru
+127.0.0.1	full.cofidyu58.ru
+127.0.0.1	rat.vudujiu33.ru
+127.0.0.1	gold.vudujiu33.ru
+127.0.0.1	lot.cofidyu58.ru
+127.0.0.1	pool.qilaliy87.ru
+127.0.0.1	root.qilaliy87.ru
+127.0.0.1	past.qilaliy87.ru
+127.0.0.1	let.qilaliy87.ru
+127.0.0.1	us.qilaliy87.ru
+127.0.0.1	hope.cewyzui61.ru
+127.0.0.1	xbm.amajed.com
+127.0.0.1	xbm.schermgebroken.nl
 127.0.0.1	openai-diversifies-with-ai.com
 127.0.0.1	genpyb.asia
 127.0.0.1	pancred.qpon
@@ -44536,7 +44557,4 @@
 127.0.0.1	check.tevoh.icu
 127.0.0.1	paulsss.com
 127.0.0.1	check.momas.icu
-127.0.0.1	hovno.yummypear.cz
-127.0.0.1	cpcontacts.topmediainfos.com
-127.0.0.1	ec2-54-216-72-51.eu-west-1.compute.amazonaws.com
-# Number of entries: 44533
+# Number of entries: 44551
