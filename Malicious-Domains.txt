@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-13 19:24:03 UTC                        #
+# Last updated: 2025-09-14 00:10:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wbm.schermgebroken.nl
+127.0.0.1	wbm.amajed.com
+127.0.0.1	ec2-3-123-17-149.eu-central-1.compute.amazonaws.com
 127.0.0.1	suit.tatyziu58.ru
 127.0.0.1	banabmw.qpon
 127.0.0.1	archlnr.qpon
@@ -44804,11 +44807,4 @@
 127.0.0.1	www.andalend.xyz
 127.0.0.1	www.antx.buzz
 127.0.0.1	www.assaustreetcapitalplanning.info
-127.0.0.1	cpcalendars.topandbestnews.com
-127.0.0.1	cpcalendars.ipmnewsworld.com
-127.0.0.1	cpcontacts.10bestbusiness.website
-127.0.0.1	webmail.takeufagame1212.xyz
-127.0.0.1	www.of123pro.online
-127.0.0.1	ejones.b-cdn.net
-127.0.0.1	cattwo.top
-# Number of entries: 44805
+# Number of entries: 44801
