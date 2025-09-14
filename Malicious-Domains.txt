@@ -1,11 +1,39 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-14 12:14:04 UTC                        #
+# Last updated: 2025-09-14 21:10:26 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dpi.amajed.com
+127.0.0.1	dpi.schermgebroken.nl
+127.0.0.1	webmail.146-190-137-132.cprapid.com
+127.0.0.1	rhusdniw.shop
+127.0.0.1	flnsyfb.qpon
+127.0.0.1	blackrz.shop
+127.0.0.1	fissiklo.shop
+127.0.0.1	scombxu.shop
+127.0.0.1	incocrrm.shop
+127.0.0.1	constkj.shop
+127.0.0.1	mannewd.shop
+127.0.0.1	vitambio.shop
+127.0.0.1	bazttlew.shop
+127.0.0.1	costs-na.gl.at.ply.gg
+127.0.0.1	gta5.servegame.com
+127.0.0.1	wso-50081.portmap.host
+127.0.0.1	tra.schermgebroken.nl
+127.0.0.1	tra.amajed.com
+127.0.0.1	jeu60.dedyn.io
+127.0.0.1	ae.g7r7s.ru
+127.0.0.1	bd.r3l1x.ru
+127.0.0.1	k.r3l1x.ru
+127.0.0.1	bg.t4c5d.ru
+127.0.0.1	au.d3g7t.ru
+127.0.0.1	p.t4c5d.ru
+127.0.0.1	madibase.tech
+127.0.0.1	u.r0z8r.ru
+127.0.0.1	aa.q1s6c.ru
 127.0.0.1	pick.cewyzui61.ru
 127.0.0.1	year.cewyzui61.ru
 127.0.0.1	pin.cewyzui61.ru
@@ -44523,38 +44551,4 @@
 127.0.0.1	cpanel.welovetotogames.xyz
 127.0.0.1	cpanel.ufabets.website
 127.0.0.1	cpcontacts.totomaker1.website
-127.0.0.1	check.nocun.icu
-127.0.0.1	check.xojyz.icu
-127.0.0.1	webmail.generalztipsal.xyz
-127.0.0.1	webdisk.dmspotzera.xyz
-127.0.0.1	webmail.dailypromos.xyz
-127.0.0.1	cpcontacts.10bestgamesofufabet.xyz
-127.0.0.1	cpcalendars.10bestgamesofufabet.xyz
-127.0.0.1	r.p.formaxprime.co.uk
-127.0.0.1	patchflow.org
-127.0.0.1	check.qalyj.icu
-127.0.0.1	sphayer66jugaru1.duckdns.org
-127.0.0.1	q1bkhvr2eqfd.cfc-execute.bj.baidubce.com
-127.0.0.1	c2.dsn.ovh
-127.0.0.1	con.isn.ovh
-127.0.0.1	botnet.dexcfw.dev
-127.0.0.1	gemcoverinc.org
-127.0.0.1	webmail.mtpolice12.website
-127.0.0.1	cpcontacts.playufabetgames.xyz
-127.0.0.1	webinspisrve.icu
-127.0.0.1	rixggingrang.shop
-127.0.0.1	pillowconxnection.shop
-127.0.0.1	hingehjan.shop
-127.0.0.1	pistolsan.digital
-127.0.0.1	citywand.live
-127.0.0.1	93757283cm.whiteproducts.ru
-127.0.0.1	ssh.getsolara.info
-127.0.0.1	botz.packetware.cc
-127.0.0.1	check.tudim.icu
-127.0.0.1	jojo.ath.cx
-127.0.0.1	glitterygadgets.shop
-127.0.0.1	check.geguk.icu
-127.0.0.1	check.tevoh.icu
-127.0.0.1	paulsss.com
-127.0.0.1	check.momas.icu
-# Number of entries: 44551
+# Number of entries: 44545
