@@ -1,6 +1,6 @@
 #domain,ioc,uri_path
 1258922563-2333n6dmlx.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/Test/protect/JZJ8DALCUB
-1308344827-4bya137jfj.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/getit
+1308344827-4bya137jfj.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/get
 2n9kf8y7533c0.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/ws/10898251926
 2za55fsge8fbj.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/wechat
 3se9ewodke339f0e82.connectivitytests.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
@@ -8,6 +8,7 @@
 5ndg65b68274v.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x
 6hc2nv7aqaejw.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x
 8k8hj9277yjde.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x
+abcd.gamesen.icu,Possible Cobalt Strike C2 Domain,/cm
 accesserdsc.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 adminalis.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 adminals.com,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
@@ -125,6 +126,7 @@ s1.wmw.sh,Possible Cobalt Strike C2 Fronted Domain,/api/metting/5ad625w14417
 sdkreport.happilygame.com,Possible Cobalt Strike C2 Fronted Domain,/jquerys-6.3.5.max.js
 service-rchqbzvz-1301033415.sh.tencentapigw.com,Possible Cobalt Strike C2 Domain,/api/x
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/zOMGAPT
+ssl.gamesen.icu,Possible Cobalt Strike C2 Domain,/match
 sso.dzeninfra.site,Possible Cobalt Strike C2 Fronting Domain,/mg.css
 staos.microsoft.com,Possible Cobalt Strike C2 Fronting Domain,/public/asset/font/script.js
 sts.tencentopenapi.xyz,Possible Cobalt Strike C2 Domain,/image/

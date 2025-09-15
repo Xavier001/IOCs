@@ -1,11 +1,37 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-15 12:01:07 UTC                        #
+# Last updated: 2025-09-15 20:49:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ssl.gamesen.icu
+127.0.0.1	abcd.gamesen.icu
+127.0.0.1	corsapi.messager.my
+127.0.0.1	outlook.microsoft-account-security.com
+127.0.0.1	storage.microsoft-account-security.com
+127.0.0.1	admin.jhaexpress.com
+127.0.0.1	74-48-140-110.nip.io
+127.0.0.1	iusefatalbtw-63960.portmap.host
+127.0.0.1	instantaoprime.dynuddns.net
+127.0.0.1	winsrvc.ddns.net
+127.0.0.1	industrial-vegetation.gl.at.ply.gg
+127.0.0.1	remdefrem.duckdns.org
+127.0.0.1	www.qqq.qweqq.p-e.kr
+127.0.0.1	glibbixzorptweezleprang.top
+127.0.0.1	cpcontacts.146-190-137-132.cprapid.com
+127.0.0.1	yunded.com
+127.0.0.1	ae.j1g3k.ru
+127.0.0.1	iskiddedapythonratfromgithubandmadeitwebbased.xyzlol.xyz
+127.0.0.1	wopu.live
+127.0.0.1	o.j1g3k.ru
+127.0.0.1	math1st.com
+127.0.0.1	cpanel.trailsyamahamotor.com
+127.0.0.1	h.g3w2p.ru
+127.0.0.1	m.g3w2p.ru
+127.0.0.1	bs.j1g3k.ru
+127.0.0.1	bb.j1g3k.ru
 127.0.0.1	generatoryieldlab.com
 127.0.0.1	b.g3w2p.ru
 127.0.0.1	br.g3w2p.ru
@@ -44469,33 +44495,4 @@
 127.0.0.1	webmail.c.multi-canale.com
 127.0.0.1	cpcalendars.generalnewzsab.com
 127.0.0.1	cpcontacts.youandmewtoto.xyz
-127.0.0.1	webdisk.fortlivenewzshub.xyz
-127.0.0.1	webmail.dmhubnewsz.website
-127.0.0.1	cpcalendars.enjoyedufabet.xyz
-127.0.0.1	cpanel.broadcnnewz.xyz
-127.0.0.1	cpcontacts.apexhomeimprovement.xyz
-127.0.0.1	cpcontacts.ufabetandcasinos.website
-127.0.0.1	cpcalendars.10bestbusiness.xyz
-127.0.0.1	cpanel.10bestbusiness.xyz
-127.0.0.1	webmail.touchufabetgames.xyz
-127.0.0.1	webdisk.takeufagame1111.xyz
-127.0.0.1	cpanel.b2bbsuiness.xyz
-127.0.0.1	webdisk.businessnewznetwork.xyz
-127.0.0.1	cpcalendars.medtopzhub.xyz
-127.0.0.1	check.fibit.icu
-127.0.0.1	reg.gakken-meds.jp
-127.0.0.1	getmanyme.com
-127.0.0.1	webmail.ufa4games.website
-127.0.0.1	cpanel.mtpolice12.website
-127.0.0.1	webmail.b2bbsuiness.website
-127.0.0.1	webmail.odysseyoutlook.xyz
-127.0.0.1	gunlovers.top
-127.0.0.1	firsatlarsenin.com
-127.0.0.1	qpillowlove.shop
-127.0.0.1	tacticaltr.shop
-127.0.0.1	furxnishpla.shop
-127.0.0.1	triggerte.digital
-127.0.0.1	firearmsfe.live
-127.0.0.1	a1102442.xsph.ru
-127.0.0.1	destinationy.help
-# Number of entries: 44492
+# Number of entries: 44489
