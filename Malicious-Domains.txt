@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-16 10:10:43 UTC                        #
+# Last updated: 2025-09-16 12:02:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	xperiencehostwindows.ydns.eu
+127.0.0.1	tooblessed2bcursed.duckdns.org
+127.0.0.1	kt.7-fd.ru
+127.0.0.1	3z.7-fd.ru
+127.0.0.1	u.w6n2t.ru
+127.0.0.1	a.7-fd.ru
+127.0.0.1	mersinet.com
 127.0.0.1	dot.margencymedia.com
 127.0.0.1	j.w6n2t.ru
 127.0.0.1	ar.w6n2t.ru
@@ -44532,9 +44539,4 @@
 127.0.0.1	keritysuc.xyz
 127.0.0.1	vmd163234.contaboserver.net
 127.0.0.1	cn.sdkgzd.top
-127.0.0.1	cpcalendars.webprocediweb.com
-127.0.0.1	webmail.i.web-app-on.com
-127.0.0.1	server1988.ignorelist.com
-127.0.0.1	savanews.com
-127.0.0.1	check.fohatua9.icu
-# Number of entries: 44531
+# Number of entries: 44533
