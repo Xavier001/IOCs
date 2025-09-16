@@ -1,11 +1,68 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-16 12:02:22 UTC                        #
+# Last updated: 2025-09-16 21:10:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dsu.aztu.edu.az
+127.0.0.1	r.k26i.ru
+127.0.0.1	md.jaxusoo.ru
+127.0.0.1	dsu.demoserviciopcmendoza.com.ar
+127.0.0.1	wq9.l48i.ru
+127.0.0.1	k.97qm.ru
+127.0.0.1	5n.97qm.ru
+127.0.0.1	n.l48i.ru
+127.0.0.1	tf.hecynya.ru
+127.0.0.1	resolution-during.gl.at.ply.gg
+127.0.0.1	ablelifepurp.ydns.eu
+127.0.0.1	k8uh0-bfc.duckdns.org
+127.0.0.1	9c.81dm.ru
+127.0.0.1	uspeh888.com
+127.0.0.1	a1x.81dm.ru
+127.0.0.1	swifew.asia
+127.0.0.1	studygrowknow.com
+127.0.0.1	forbeseditions.com
+127.0.0.1	l.x-ai.win
+127.0.0.1	weafrc.asia
+127.0.0.1	greued.asia
+127.0.0.1	stozft.asia
+127.0.0.1	haleyzq.shop
+127.0.0.1	labiali.shop
+127.0.0.1	maiwau.asia
+127.0.0.1	strmuc.asia
+127.0.0.1	faspub.asia
+127.0.0.1	reformd.asia
+127.0.0.1	rosajd.asia
+127.0.0.1	resplem.shop
+127.0.0.1	hitwaze.asia
+127.0.0.1	reptlc.asia
+127.0.0.1	lectola.asia
+127.0.0.1	poloxj.asia
+127.0.0.1	tadolq.asia
+127.0.0.1	malfln.asia
+127.0.0.1	scruuj.asia
+127.0.0.1	www.rootshift.ru
+127.0.0.1	www.pussyserver.cfd
+127.0.0.1	d.7-gb.ru
+127.0.0.1	z7.7-gb.ru
+127.0.0.1	qf.7-gb.ru
+127.0.0.1	8u2.7-gb.ru
+127.0.0.1	r.81dm.ru
+127.0.0.1	t6.81dm.ru
+127.0.0.1	pa1.aztu.edu.az
+127.0.0.1	geartopciklorek.com
+127.0.0.1	milder-go.com
+127.0.0.1	4reverinmymind.com
+127.0.0.1	kiwisandblasters.com
+127.0.0.1	0e.8-fr.ru
+127.0.0.1	hp.8-fr.ru
+127.0.0.1	pas.margencymedia.com
+127.0.0.1	pas.aztu.edu.az
+127.0.0.1	x9d.7-fd.ru
+127.0.0.1	m.8-fr.ru
+127.0.0.1	v1.8-fr.ru
 127.0.0.1	xperiencehostwindows.ydns.eu
 127.0.0.1	tooblessed2bcursed.duckdns.org
 127.0.0.1	kt.7-fd.ru
@@ -44509,34 +44566,4 @@
 127.0.0.1	autodiscover.adesso-online.com
 127.0.0.1	vpn385336453.softether.net
 127.0.0.1	1329742060-h4vggsc19t.ap-guangzhou.tencentscf.com
-127.0.0.1	fcrosshairc.life
-127.0.0.1	dmrodularmall.top
-127.0.0.1	gunownersg.top
-127.0.0.1	targett.top
-127.0.0.1	weaponwo.life
-127.0.0.1	blackeblast.run
-127.0.0.1	setfupstore.icu
-127.0.0.1	selfdefens.bet
-127.0.0.1	pistolpra.bet
-127.0.0.1	loadoutle.life
-127.0.0.1	rugbybrign.life
-127.0.0.1	armoryarch.shop
-127.0.0.1	tacticalte.shop
-127.0.0.1	targetsand.shop
-127.0.0.1	caliberc.today
-127.0.0.1	gunhandl.today
-127.0.0.1	armamenti.world
-127.0.0.1	a1102719.xsph.ru
-127.0.0.1	ce64450.tw1.ru
-127.0.0.1	a1016039.xsph.ru
-127.0.0.1	elfarbta3y.duckdns.org
-127.0.0.1	oracle.javadns.icu
-127.0.0.1	cpvnxker.xyz
-127.0.0.1	ironandfir.shop
-127.0.0.1	elaviltabs.run
-127.0.0.1	partparcadi.shop
-127.0.0.1	uqtilityutop.shop
-127.0.0.1	keritysuc.xyz
-127.0.0.1	vmd163234.contaboserver.net
-127.0.0.1	cn.sdkgzd.top
-# Number of entries: 44533
+# Number of entries: 44560
