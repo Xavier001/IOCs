@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-15 20:49:04 UTC                        #
+# Last updated: 2025-09-16 02:10:34 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	pdf.margencymedia.com
+127.0.0.1	pdf.aztu.edu.az
+127.0.0.1	datacalls.azure-api.net
+127.0.0.1	microsoft-telemetry.at
 127.0.0.1	ssl.gamesen.icu
 127.0.0.1	abcd.gamesen.icu
 127.0.0.1	corsapi.messager.my
@@ -44484,15 +44488,4 @@
 127.0.0.1	cpcontacts.d.ora-0-web.com
 127.0.0.1	continueoraweb.com
 127.0.0.1	cpanel.oraonweb.com
-127.0.0.1	cpanel.gestisciweb.com
-127.0.0.1	autodiscover.e.multi-canale.com
-127.0.0.1	cpcalendars.adesso-online.com
-127.0.0.1	webmail.b.multi-canale.com
-127.0.0.1	webmail.gestisciweb.com
-127.0.0.1	dreamhome.lat
-127.0.0.1	cpanel.businesstimehub.com
-127.0.0.1	webdisk.answerallnewz.com
-127.0.0.1	webmail.c.multi-canale.com
-127.0.0.1	cpcalendars.generalnewzsab.com
-127.0.0.1	cpcontacts.youandmewtoto.xyz
-# Number of entries: 44489
+# Number of entries: 44482
