@@ -1,11 +1,40 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-17 12:23:57 UTC                        #
+# Last updated: 2025-09-17 21:10:31 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	yyi.demoserviciopcmendoza.com.ar
+127.0.0.1	yyi.aztu.edu.az
+127.0.0.1	n.c2y8.ru
+127.0.0.1	qp.cnmnmb.top
+127.0.0.1	most-la.gl.at.ply.gg
+127.0.0.1	soblessedagain.duckdns.org
+127.0.0.1	www.ammsaue.com
+127.0.0.1	www.desalator.com
+127.0.0.1	www.treemmesrl-eu.com
+127.0.0.1	dvd-oxygen.gl.at.ply.gg
+127.0.0.1	mountain-percent.gl.at.ply.gg
+127.0.0.1	skin-literary.gl.at.ply.gg
+127.0.0.1	famixsk.shop
+127.0.0.1	sirtpwv.shop
+127.0.0.1	chirkqa.shop
+127.0.0.1	chimxik.shop
+127.0.0.1	unapjjh.shop
+127.0.0.1	undutayx.shop
+127.0.0.1	subdvivw.shop
+127.0.0.1	bouncuid.shop
+127.0.0.1	houshan.shop
+127.0.0.1	pis.demoserviciopcmendoza.com.ar
+127.0.0.1	pis.aztu.edu.az
+127.0.0.1	bv.m7e4.ru
+127.0.0.1	bj.m7e4.ru
+127.0.0.1	edge.lugerd.com
+127.0.0.1	p.m7e4.ru
+127.0.0.1	alpha.lugerd.com
+127.0.0.1	bm.m7e4.ru
 127.0.0.1	promiseallrace.com
 127.0.0.1	br.x0e8.ru
 127.0.0.1	x.x0e8.ru
@@ -44604,17 +44633,4 @@
 127.0.0.1	metamask-recoveryform.185-236-231-168.plesk.page
 127.0.0.1	cs.zonstcom.com
 127.0.0.1	8ym9pwyra3tyz.cfc-execute.bj.baidubce.com
-127.0.0.1	qohelp.top
-127.0.0.1	opteme.com
-127.0.0.1	ucqire.com
-127.0.0.1	xinroi.org
-127.0.0.1	scenarisacri.top
-127.0.0.1	urbanodys.top
-127.0.0.1	pilloswdelight.bet
-127.0.0.1	firearmsv.digital
-127.0.0.1	a1003563.xsph.ru
-127.0.0.1	login.icvpartners.com
-127.0.0.1	screensconnectpro.com
-127.0.0.1	yqz-bucket.oss-cn-beijing.aliyuncs.com
-127.0.0.1	api.aabysszg.cyou
-# Number of entries: 44611
+# Number of entries: 44627
