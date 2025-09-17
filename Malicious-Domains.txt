@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-16 21:10:25 UTC                        #
+# Last updated: 2025-09-17 02:10:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ret.demoserviciopcmendoza.com.ar
+127.0.0.1	ret.aztu.edu.az
+127.0.0.1	cm0.s57o.ru
+127.0.0.1	v5.s57o.ru
+127.0.0.1	z.s57o.ru
+127.0.0.1	ctu.demoserviciopcmendoza.com.ar
+127.0.0.1	k3x.k26i.ru
+127.0.0.1	a1.k26i.ru
 127.0.0.1	dsu.aztu.edu.az
 127.0.0.1	r.k26i.ru
 127.0.0.1	md.jaxusoo.ru
@@ -44560,10 +44568,4 @@
 127.0.0.1	hfdjb.pages.dev
 127.0.0.1	text.cherry-pink.shop
 127.0.0.1	check.tivadiu1.icu
-127.0.0.1	webdisk.eversioneweb.com
-127.0.0.1	www.chaitin.cloud
-127.0.0.1	richemont.tech
-127.0.0.1	autodiscover.adesso-online.com
-127.0.0.1	vpn385336453.softether.net
-127.0.0.1	1329742060-h4vggsc19t.ap-guangzhou.tencentscf.com
-# Number of entries: 44560
+# Number of entries: 44562
