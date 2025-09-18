@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-18 09:43:24 UTC                        #
+# Last updated: 2025-09-18 12:20:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bn.g6i2.ru
+127.0.0.1	pir.demoserviciopcmendoza.com.ar
+127.0.0.1	pir.aztu.edu.az
+127.0.0.1	bi.w9a5.ru
+127.0.0.1	au.w9a5.ru
+127.0.0.1	j.c8i0.ru
+127.0.0.1	porsasystem.com
+127.0.0.1	ap.c8i0.ru
+127.0.0.1	az.b8a2.ru
+127.0.0.1	trannynet.adgods.uk
+127.0.0.1	bp.b8a2.ru
+127.0.0.1	h.b8a2.ru
+127.0.0.1	ah.w9a5.ru
 127.0.0.1	at.b8a2.ru
 127.0.0.1	bh.c8i0.ru
 127.0.0.1	as.c8i0.ru
@@ -44662,4 +44675,4 @@
 127.0.0.1	kakamakasaka.duckdns.org
 127.0.0.1	wlukyy-30879.portmap.io
 127.0.0.1	obscureduser-22226.portmap.host
-# Number of entries: 44656
+# Number of entries: 44669
