@@ -1,18 +1,46 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-18 03:10:29 UTC                        #
+# Last updated: 2025-09-18 09:43:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	at.b8a2.ru
+127.0.0.1	bh.c8i0.ru
+127.0.0.1	as.c8i0.ru
+127.0.0.1	bt.q6o4.ru
+127.0.0.1	cb.q6o4.ru
+127.0.0.1	carexie.top
+127.0.0.1	verserun.xyz
+127.0.0.1	twealthybillionaireman.duckdns.org
+127.0.0.1	sweet1617181920.duckdns.org
+127.0.0.1	fnontoplowk-29437.portmap.host
+127.0.0.1	said-spam.gl.at.ply.gg
+127.0.0.1	ab.q6o4.ru
+127.0.0.1	retiregenz.com
+127.0.0.1	an.q6o4.ru
+127.0.0.1	k.j2e6.ru
+127.0.0.1	sanercat.com
+127.0.0.1	bb.j2e6.ru
+127.0.0.1	m.j2e6.ru
 127.0.0.1	zoe.demoserviciopcmendoza.com.ar
 127.0.0.1	zoe.aztu.edu.az
 127.0.0.1	safecs.iqiyi.qpon
+127.0.0.1	bd.j2e6.ru
+127.0.0.1	c.l8o6.ru
+127.0.0.1	bw.l8o6.ru
+127.0.0.1	z.l8o6.ru
 127.0.0.1	yyi.demoserviciopcmendoza.com.ar
 127.0.0.1	yyi.aztu.edu.az
+127.0.0.1	f.l8o6.ru
+127.0.0.1	ba.c2y8.ru
+127.0.0.1	s.c2y8.ru
 127.0.0.1	n.c2y8.ru
+127.0.0.1	ao.x0a3.ru
+127.0.0.1	d.x0a3.ru
 127.0.0.1	qp.cnmnmb.top
+127.0.0.1	ca.x0a3.ru
 127.0.0.1	most-la.gl.at.ply.gg
 127.0.0.1	soblessedagain.duckdns.org
 127.0.0.1	www.ammsaue.com
@@ -21,6 +49,10 @@
 127.0.0.1	dvd-oxygen.gl.at.ply.gg
 127.0.0.1	mountain-percent.gl.at.ply.gg
 127.0.0.1	skin-literary.gl.at.ply.gg
+127.0.0.1	bg.x0a3.ru
+127.0.0.1	ak.r1a4.ru
+127.0.0.1	av.r1a4.ru
+127.0.0.1	af.r1a4.ru
 127.0.0.1	famixsk.shop
 127.0.0.1	sirtpwv.shop
 127.0.0.1	chirkqa.shop
@@ -30,8 +62,12 @@
 127.0.0.1	subdvivw.shop
 127.0.0.1	bouncuid.shop
 127.0.0.1	houshan.shop
+127.0.0.1	ay.r1a4.ru
+127.0.0.1	o.t4a4.ru
 127.0.0.1	pis.demoserviciopcmendoza.com.ar
 127.0.0.1	pis.aztu.edu.az
+127.0.0.1	aj.t4a4.ru
+127.0.0.1	bx.t4a4.ru
 127.0.0.1	bv.m7e4.ru
 127.0.0.1	bj.m7e4.ru
 127.0.0.1	edge.lugerd.com
@@ -44626,10 +44662,4 @@
 127.0.0.1	kakamakasaka.duckdns.org
 127.0.0.1	wlukyy-30879.portmap.io
 127.0.0.1	obscureduser-22226.portmap.host
-127.0.0.1	t.p.formaxprime.co.uk
-127.0.0.1	preoductpark.icu
-127.0.0.1	wilrdadventur.digital
-127.0.0.1	caliberc.life
-127.0.0.1	rblackeblast.run
-127.0.0.1	iarmoryarch.shop
-# Number of entries: 44626
+# Number of entries: 44656
