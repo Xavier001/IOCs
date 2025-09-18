@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-17 21:10:31 UTC                        #
+# Last updated: 2025-09-18 03:10:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	zoe.demoserviciopcmendoza.com.ar
+127.0.0.1	zoe.aztu.edu.az
+127.0.0.1	safecs.iqiyi.qpon
 127.0.0.1	yyi.demoserviciopcmendoza.com.ar
 127.0.0.1	yyi.aztu.edu.az
 127.0.0.1	n.c2y8.ru
@@ -44629,8 +44632,4 @@
 127.0.0.1	caliberc.life
 127.0.0.1	rblackeblast.run
 127.0.0.1	iarmoryarch.shop
-127.0.0.1	eloquent-babbage.185-236-231-168.plesk.page
-127.0.0.1	metamask-recoveryform.185-236-231-168.plesk.page
-127.0.0.1	cs.zonstcom.com
-127.0.0.1	8ym9pwyra3tyz.cfc-execute.bj.baidubce.com
-# Number of entries: 44627
+# Number of entries: 44626
