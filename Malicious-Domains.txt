@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-18 21:37:42 UTC                        #
+# Last updated: 2025-09-19 01:39:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	t.zik9.ru
+127.0.0.1	xq8.juq0.ru
+127.0.0.1	p9.juq0.ru
+127.0.0.1	otr.aztu.edu.az
+127.0.0.1	otr.demoserviciopcmendoza.com.ar
+127.0.0.1	k.juq0.ru
+127.0.0.1	qw2.n-98.ru
+127.0.0.1	h4.n-98.ru
 127.0.0.1	l.n-98.ru
 127.0.0.1	ty3.z-67.ru
 127.0.0.1	k2.z-67.ru
@@ -44512,13 +44520,4 @@
 127.0.0.1	check.opie6.icu
 127.0.0.1	helloworld-f1f.pages.dev
 127.0.0.1	message.zoo-ciry.shop
-127.0.0.1	webdisk.ora-0-web.com
-127.0.0.1	autodiscover.gfjd.104-168-101-27.cprapid.com
-127.0.0.1	webmail.a.multi-canale.com
-127.0.0.1	webmail.e.ora-0-web.com
-127.0.0.1	mail.web-app-on.com
-127.0.0.1	www.illuminarebusiness.com
-127.0.0.1	ec2-51-21-219-123.eu-north-1.compute.amazonaws.com
-127.0.0.1	mail.185-38-142-181.cprapid.com
-127.0.0.1	umarmira055.duckdns.org
-# Number of entries: 44515
+# Number of entries: 44514
