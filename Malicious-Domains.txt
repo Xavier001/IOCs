@@ -1,11 +1,64 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-19 12:08:53 UTC                        #
+# Last updated: 2025-09-19 22:12:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	u5.tbkh.ru
+127.0.0.1	d.tbkh.ru
+127.0.0.1	fck.wnkc.ru
+127.0.0.1	fikysandroisder.com
+127.0.0.1	m.wnkc.ru
+127.0.0.1	b.wnkc.ru
+127.0.0.1	hvc.llamarama.fail
+127.0.0.1	server.tikmaps.com
+127.0.0.1	qz7.twgr.ru
+127.0.0.1	m2.twgr.ru
+127.0.0.1	t.twgr.ru
+127.0.0.1	ydbao6.cyou
+127.0.0.1	tipsept.ydns.eu
+127.0.0.1	ikechukwugrace.duckdns.org
+127.0.0.1	krusty-krab.duckdns.org
+127.0.0.1	qx8.mmwf.ru
+127.0.0.1	z7.mmwf.ru
+127.0.0.1	k.mmwf.ru
+127.0.0.1	pm7.pyp3.ru
+127.0.0.1	www.barefootidaho.com
+127.0.0.1	unitedchemicalsco.com
+127.0.0.1	mail.centraloregonmortgages.com
+127.0.0.1	schoolcloud.tech
+127.0.0.1	u1.pyp3.ru
+127.0.0.1	y.pyp3.ru
+127.0.0.1	maksgofile.xyz
+127.0.0.1	mavenrat.xyz
+127.0.0.1	wz8.qej9.ru
+127.0.0.1	olbanha.com
+127.0.0.1	ghostrio.com
+127.0.0.1	cassandpool2.net
+127.0.0.1	dodge2me.top
+127.0.0.1	yungndcrazy.top
+127.0.0.1	w.vem4.ru
+127.0.0.1	p0.qej9.ru
+127.0.0.1	m1s.van1.ru
+127.0.0.1	thetavaluemetrics.com
+127.0.0.1	emballeplus.com
+127.0.0.1	g.qej9.ru
+127.0.0.1	once-controller.gl.at.ply.gg
+127.0.0.1	k0n.xyc0.ru
+127.0.0.1	p.van1.ru
+127.0.0.1	7m.van1.ru
+127.0.0.1	va.van1.ru
+127.0.0.1	t1z.qeh5.ru
+127.0.0.1	qf.byq3.ru
+127.0.0.1	x8d.byq3.ru
+127.0.0.1	d.xyc0.ru
+127.0.0.1	r8.xyc0.ru
+127.0.0.1	ta.xyc0.ru
+127.0.0.1	b3.qeh5.ru
+127.0.0.1	savuyascas.sbs
+127.0.0.1	r1q.kot9.ru
 127.0.0.1	z.kot9.ru
 127.0.0.1	havij.uk
 127.0.0.1	eepaulisblessed.duckdns.org
@@ -44519,18 +44572,4 @@
 127.0.0.1	webdisk.f.multi-canale.com
 127.0.0.1	webdisk.gfjd.104-168-101-27.cprapid.com
 127.0.0.1	mail.c.multi-canale.com
-127.0.0.1	soothingpitllow.icu
-127.0.0.1	battlefie.shop
-127.0.0.1	flyxaway.live
-127.0.0.1	a1104037.xsph.ru
-127.0.0.1	co35066.tw1.ru
-127.0.0.1	a1104094.xsph.ru
-127.0.0.1	cngov-gov-xejpcmqhyb.cn-shanghai.fcapp.run
-127.0.0.1	cpcalendars.web-app-on.com
-127.0.0.1	webdisk.m.web-app-on.com
-127.0.0.1	autodiscover.versioneonline.com
-127.0.0.1	cpcontacts.web-app-on.com
-127.0.0.1	cpcalendars.i.web-app-on.com
-127.0.0.1	mail.efcommxerce.ru
-127.0.0.1	dongfangshuye.xyz
-# Number of entries: 44527
+# Number of entries: 44566
