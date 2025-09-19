@@ -1,11 +1,23 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-19 10:11:59 UTC                        #
+# Last updated: 2025-09-19 12:08:53 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	z.kot9.ru
+127.0.0.1	havij.uk
+127.0.0.1	eepaulisblessed.duckdns.org
+127.0.0.1	wish-license.gl.at.ply.gg
+127.0.0.1	xworm0106.duckdns.org
+127.0.0.1	q2.jod6.ru
+127.0.0.1	s.byq3.ru
+127.0.0.1	h1.byq3.ru
+127.0.0.1	eg.z-99-l.ru
+127.0.0.1	vk.z-99-l.ru
+127.0.0.1	j.jod6.ru
+127.0.0.1	qa9.pav3.ru
 127.0.0.1	v4.pav3.ru
 127.0.0.1	c.pav3.ru
 127.0.0.1	wd.z-99-l.ru
@@ -44521,7 +44533,4 @@
 127.0.0.1	cpcalendars.i.web-app-on.com
 127.0.0.1	mail.efcommxerce.ru
 127.0.0.1	dongfangshuye.xyz
-127.0.0.1	tecnogrup.com
-127.0.0.1	result-disco.gl.at.ply.gg
-127.0.0.1	gugrant11.duckdns.org
-# Number of entries: 44518
+# Number of entries: 44527
