@@ -1,11 +1,51 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-20 12:01:15 UTC                        #
+# Last updated: 2025-09-20 22:04:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	rk1.6b96.ru
+127.0.0.1	ne.h73n.ru
+127.0.0.1	a2.6b96.ru
+127.0.0.1	st.h73n.ru
+127.0.0.1	in.ditchibuprofen.com
+127.0.0.1	fl.h73n.ru
+127.0.0.1	rm.h73n.ru
+127.0.0.1	t.6b96.ru
+127.0.0.1	cdn.mailinfo.life
+127.0.0.1	iu.g69p.ru
+127.0.0.1	xq7.1v47.ru
+127.0.0.1	m9.1v47.ru
+127.0.0.1	z.g69p.ru
+127.0.0.1	host0.tikmaps.com
+127.0.0.1	q.1v47.ru
+127.0.0.1	chillornet.no-ip.org
+127.0.0.1	chillorbackup.no-ip.org
+127.0.0.1	design-represented.gl.at.ply.gg
+127.0.0.1	click-figured.gl.at.ply.gg
+127.0.0.1	211.ip.gl.ply.gg
+127.0.0.1	materials-plant.gl.at.ply.gg
+127.0.0.1	round-failing.gl.at.ply.gg
+127.0.0.1	8msv1-23655.portmap.host
+127.0.0.1	hmvr4u61p.localto.net
+127.0.0.1	enjoy-silent.gl.at.ply.gg
+127.0.0.1	ever-rx.gl.at.ply.gg
+127.0.0.1	host4.thebookcult.com
+127.0.0.1	hp.f42s.ru
+127.0.0.1	wg.f42s.ru
+127.0.0.1	u1.333-f.ru
+127.0.0.1	tb.f42s.ru
+127.0.0.1	y.333-f.ru
+127.0.0.1	fr.d42n.ru
+127.0.0.1	nn.d42n.ru
+127.0.0.1	bf.d42n.ru
+127.0.0.1	db.f05t.ru
+127.0.0.1	wt.f05t.ru
+127.0.0.1	bg.f05t.ru
+127.0.0.1	oj.f05t.ru
+127.0.0.1	wz8.212-q.ru
 127.0.0.1	p0.212-q.ru
 127.0.0.1	mwq-47258.portmap.host
 127.0.0.1	k.212-q.ru
@@ -44249,17 +44289,4 @@
 127.0.0.1	cpanel.continueoraweb.com
 127.0.0.1	mail.aaa.104-168-101-27.cprapid.com
 127.0.0.1	webmail.e.multi-canale.com
-127.0.0.1	bot.gribostress.pro
-127.0.0.1	vfclan.com
-127.0.0.1	starbits.world
-127.0.0.1	unrealfabricdo.click
-127.0.0.1	check.atuu7.icu
-127.0.0.1	cpcontacts.efcommxerce.ru
-127.0.0.1	azmamiraixd.duckdns.org
-127.0.0.1	vozaspecial.com
-127.0.0.1	oversizes.ghostgames.mom
-127.0.0.1	microsofts.wiki
-127.0.0.1	cngov.oss-cn-shanghai.aliyuncs.com
-127.0.0.1	a-0001.a2-msedge.net
-127.0.0.1	1329742111-h1rmesk2t.ap-guangzhou.tencentscf.com
-# Number of entries: 44256
+# Number of entries: 44283
