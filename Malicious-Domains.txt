@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-20 09:34:47 UTC                        #
+# Last updated: 2025-09-20 12:01:15 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	p0.212-q.ru
+127.0.0.1	mwq-47258.portmap.host
+127.0.0.1	k.212-q.ru
+127.0.0.1	x0r.465-w.ru
 127.0.0.1	d1.465-w.ru
 127.0.0.1	l.465-w.ru
 127.0.0.1	cm0.759-s.ru
@@ -44258,11 +44262,4 @@
 127.0.0.1	cngov.oss-cn-shanghai.aliyuncs.com
 127.0.0.1	a-0001.a2-msedge.net
 127.0.0.1	1329742111-h1rmesk2t.ap-guangzhou.tencentscf.com
-127.0.0.1	autodiscover.m.web-app-on.com
-127.0.0.1	mail.e.ora-0-web.com
-127.0.0.1	cpanel.e.ora-0-web.com
-127.0.0.1	autodiscover.e.ora-0-web.com
-127.0.0.1	autodiscover.web-app-on.com
-127.0.0.1	getfiledata.com
-127.0.0.1	mrgenuis.no-ip.org
-# Number of entries: 44259
+# Number of entries: 44256
