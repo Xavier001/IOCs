@@ -1,11 +1,40 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-20 22:04:44 UTC                        #
+# Last updated: 2025-09-21 04:04:41 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	yl.p93z.ru
+127.0.0.1	bt7.8h66.ru
+127.0.0.1	jt.n96f.ru
+127.0.0.1	m3.8h66.ru
+127.0.0.1	yh.n96f.ru
+127.0.0.1	pg.n96f.ru
+127.0.0.1	z.8h66.ru
+127.0.0.1	wk.n96f.ru
+127.0.0.1	yc.n44s.ru
+127.0.0.1	xq0.6k47.ru
+127.0.0.1	ki.n44s.ru
+127.0.0.1	c5.6k47.ru
+127.0.0.1	af.n44s.ru
+127.0.0.1	l.6k47.ru
+127.0.0.1	ea.n44s.ru
+127.0.0.1	qq.m33h.ru
+127.0.0.1	qm9.2p62.ru
+127.0.0.1	mv.m33h.ru
+127.0.0.1	u1.2p62.ru
+127.0.0.1	hq.m33h.ru
+127.0.0.1	h.2p62.ru
+127.0.0.1	rg.m33h.ru
+127.0.0.1	bo.k25q.ru
+127.0.0.1	pz8.9n75.ru
+127.0.0.1	er.k25q.ru
+127.0.0.1	w4.9n75.ru
+127.0.0.1	lq.k25q.ru
+127.0.0.1	d.9n75.ru
+127.0.0.1	jb.k25q.ru
 127.0.0.1	rk1.6b96.ru
 127.0.0.1	ne.h73n.ru
 127.0.0.1	a2.6b96.ru
@@ -44283,10 +44312,4 @@
 127.0.0.1	sighbtseeing.shop
 127.0.0.1	holidamyup.today
 127.0.0.1	triplooqp.world
-127.0.0.1	webdisk.gestisciweb.com
-127.0.0.1	cpcontacts.continueoraweb.com
-127.0.0.1	autodiscover.f.multi-canale.com
-127.0.0.1	cpanel.continueoraweb.com
-127.0.0.1	mail.aaa.104-168-101-27.cprapid.com
-127.0.0.1	webmail.e.multi-canale.com
-# Number of entries: 44283
+# Number of entries: 44306
