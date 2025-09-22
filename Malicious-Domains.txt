@@ -1,11 +1,50 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-21 21:59:21 UTC                        #
+# Last updated: 2025-09-22 04:04:10 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	xq0.7o3u8.ru
+127.0.0.1	dd.gwut.ru
+127.0.0.1	jd.gjat.ru
+127.0.0.1	c5.7o3u8.ru
+127.0.0.1	hz.gjat.ru
+127.0.0.1	pm.gjat.ru
+127.0.0.1	l.7o3u8.ru
+127.0.0.1	yh.gjat.ru
+127.0.0.1	v2.m-754.ru
+127.0.0.1	qm9.6y0u1.ru
+127.0.0.1	sb.fjot.ru
+127.0.0.1	xm.fjot.ru
+127.0.0.1	u1.6y0u1.ru
+127.0.0.1	zr.fjot.ru
+127.0.0.1	ia.fjot.ru
+127.0.0.1	h.6y0u1.ru
+127.0.0.1	ag.dgod.ru
+127.0.0.1	pz8.9a9o8.ru
+127.0.0.1	ed.dgod.ru
+127.0.0.1	w4.9a9o8.ru
+127.0.0.1	vi.dgod.ru
+127.0.0.1	k.m-754.ru
+127.0.0.1	pe.dgod.ru
+127.0.0.1	d.9a9o8.ru
+127.0.0.1	rk1.6u3o9.ru
+127.0.0.1	dl.bxof.ru
+127.0.0.1	jm.bxof.ru
+127.0.0.1	a2.6u3o9.ru
+127.0.0.1	eg.bxof.ru
+127.0.0.1	v5.k-342.ru
+127.0.0.1	t.6u3o9.ru
+127.0.0.1	ll.bxof.ru
+127.0.0.1	xq7.9i1e6.ru
+127.0.0.1	hl.bwag.ru
+127.0.0.1	k3x.s-537.ru
+127.0.0.1	uo.bwag.ru
+127.0.0.1	r.s-537.ru
+127.0.0.1	ml.n-44-s.ru
+127.0.0.1	m9.9i1e6.ru
 127.0.0.1	hd.n-44-s.ru
 127.0.0.1	k.9i1e6.ru
 127.0.0.1	wq9.n-585.ru
@@ -44005,10 +44044,4 @@
 127.0.0.1	cryptohardware.shop
 127.0.0.1	check.ioqoda.icu
 127.0.0.1	exchange.tuckx.com
-127.0.0.1	cpcalendars.h.web-app-on.com
-127.0.0.1	cpcalendars.ora-0-web.com
-127.0.0.1	cpanel.d.ora-0-web.com
-127.0.0.1	vuln.4pts.online
-127.0.0.1	cs.5seo.co
-127.0.0.1	webdisk.multi-canale.com
-# Number of entries: 44005
+# Number of entries: 44038
