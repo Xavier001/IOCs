@@ -1,11 +1,83 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-22 12:15:47 UTC                        #
+# Last updated: 2025-09-22 22:01:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	b2.mo-49.ru
+127.0.0.1	n.t940.ru
+127.0.0.1	x.mo-49.ru
+127.0.0.1	m7.k987.ru
+127.0.0.1	e1.ja-02.ru
+127.0.0.1	tq1.k987.ru
+127.0.0.1	nsgatetest1.digital
+127.0.0.1	qk2.ja-02.ru
+127.0.0.1	b2.k987.ru
+127.0.0.1	x.k987.ru
+127.0.0.1	narroxp.su
+127.0.0.1	squeaue.su
+127.0.0.1	vicareu.su
+127.0.0.1	ozonelf.su
+127.0.0.1	squatje.su
+127.0.0.1	exposqw.su
+127.0.0.1	bendavo.su
+127.0.0.1	conxmsw.su
+127.0.0.1	u5.ja-02.ru
+127.0.0.1	vh.vwof.ru
+127.0.0.1	e1.s951.ru
+127.0.0.1	pn.vwof.ru
+127.0.0.1	qk2.s951.ru
+127.0.0.1	qc.vwof.ru
+127.0.0.1	r.ja-02.ru
+127.0.0.1	turn-janet.gl.at.ply.gg
+127.0.0.1	omniz-57501.portmap.host
+127.0.0.1	00kla.com
+127.0.0.1	nnamoograce.duckdns.org
+127.0.0.1	u.vjef.ru
+127.0.0.1	k7.me-71.ru
+127.0.0.1	aa9.me-71.ru
+127.0.0.1	nq.vjef.ru
+127.0.0.1	oi.vgof.ru
+127.0.0.1	v2.me-71.ru
+127.0.0.1	r.s951.ru
+127.0.0.1	vps.lonk-fort.ts.net
+127.0.0.1	g.me-71.ru
+127.0.0.1	rh.vgof.ru
+127.0.0.1	q.ny-54.ru
+127.0.0.1	cg.vgof.ru
+127.0.0.1	aa9.q277.ru
+127.0.0.1	spt.boosoo.cn
+127.0.0.1	spt.proksen.com
+127.0.0.1	v2.q277.ru
+127.0.0.1	fb.vbof.ru
+127.0.0.1	bt7.ny-54.ru
+127.0.0.1	kp.vbof.ru
+127.0.0.1	rd.vbof.ru
+127.0.0.1	cstest.mucfc.store
+127.0.0.1	m3.ny-54.ru
+127.0.0.1	rj.ttif.ru
+127.0.0.1	phpmyadmin.westinsinsurance.com
+127.0.0.1	zo.ttif.ru
+127.0.0.1	yg.sjoh.ru
+127.0.0.1	z.ny-54.ru
+127.0.0.1	l.by-64.ru
+127.0.0.1	xp.sjef.ru
+127.0.0.1	bc.pxys.ru
+127.0.0.1	d.xe-96.ru
+127.0.0.1	ov.pxys.ru
+127.0.0.1	z.s167.ru
+127.0.0.1	pt.pqix.ru
+127.0.0.1	of.nxys.ru
+127.0.0.1	l.c267.ru
+127.0.0.1	k.ve-27.ru
+127.0.0.1	am.nwyk.ru
+127.0.0.1	ki.nd-ox.ru
+127.0.0.1	d.k645.ru
+127.0.0.1	kenges-rakishev-investigations.com
+127.0.0.1	k.n791.ru
+127.0.0.1	q.mwop.ru
 127.0.0.1	c5.3i6i4.ru
 127.0.0.1	qg.mjef.ru
 127.0.0.1	krakas.duckdns.org
@@ -44111,24 +44183,4 @@
 127.0.0.1	mail.continueoraweb.com
 127.0.0.1	cpcalendars.gestisciweb.com
 127.0.0.1	mail.adesso-online.com
-127.0.0.1	spacefyu.today
-127.0.0.1	german-kuwait.gl.at.ply.gg
-127.0.0.1	showport2025iii-57523.portmap.host
-127.0.0.1	audiorm6.duckdns.org
-127.0.0.1	minecraftservernlen.ddns.net
-127.0.0.1	flash-recovered.gl.at.ply.gg
-127.0.0.1	these-suites.gl.at.ply.gg
-127.0.0.1	onion366-38169.portmap.host
-127.0.0.1	u871378.nvpn.so
-127.0.0.1	shairwest.com
-127.0.0.1	webdisk.i.web-app-on.com
-127.0.0.1	91.103.253.107.sslip.io
-127.0.0.1	eightvd8th.top
-127.0.0.1	mioww.uebki.one
-127.0.0.1	cn63230.tw1.ru
-127.0.0.1	sixvd6th.top
-127.0.0.1	onevd1th.top
-127.0.0.1	tenvd10th.top
-127.0.0.1	oss-mucigjorqf.cn-beijing.fcapp.run
-127.0.0.1	biolevelerage.com
-# Number of entries: 44125
+# Number of entries: 44177
