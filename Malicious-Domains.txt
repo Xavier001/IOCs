@@ -1,11 +1,43 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-22 22:01:21 UTC                        #
+# Last updated: 2025-09-23 04:09:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	z3.dy-77.ru
+127.0.0.1	pe.dumx.ru
+127.0.0.1	tv.dumx.ru
+127.0.0.1	qm9.dy-77.ru
+127.0.0.1	u1.dy-77.ru
+127.0.0.1	g4.q642.ru
+127.0.0.1	cr.dumx.ru
+127.0.0.1	dz.dumx.ru
+127.0.0.1	pm7.q642.ru
+127.0.0.1	fv.xx-os.ru
+127.0.0.1	u1.q642.ru
+127.0.0.1	y.q642.ru
+127.0.0.1	tw.xx-os.ru
+127.0.0.1	fe.xx-os.ru
+127.0.0.1	z3.k807.ru
+127.0.0.1	fs.xx-os.ru
+127.0.0.1	re.xxos.ru
+127.0.0.1	4aqsbhe9vh44.cfc-execute.bj.baidubce.com
+127.0.0.1	qm9.k807.ru
+127.0.0.1	h.dy-77.ru
+127.0.0.1	n.xxos.ru
+127.0.0.1	r2.dy-53.ru
+127.0.0.1	u1.k807.ru
+127.0.0.1	h.k807.ru
+127.0.0.1	wq9.dy-53.ru
+127.0.0.1	r2.t940.ru
+127.0.0.1	c7.dy-53.ru
+127.0.0.1	n.dy-53.ru
+127.0.0.1	wq9.t940.ru
+127.0.0.1	c7.t940.ru
+127.0.0.1	m7.mo-49.ru
+127.0.0.1	tq1.mo-49.ru
 127.0.0.1	b2.mo-49.ru
 127.0.0.1	n.t940.ru
 127.0.0.1	x.mo-49.ru
@@ -44180,7 +44212,4 @@
 127.0.0.1	senoc43726-29929.portmap.host
 127.0.0.1	microsoft-help.myvnc.com
 127.0.0.1	valerianobritoieufsasd.duckdns.org
-127.0.0.1	mail.continueoraweb.com
-127.0.0.1	cpcalendars.gestisciweb.com
-127.0.0.1	mail.adesso-online.com
-# Number of entries: 44177
+# Number of entries: 44206
