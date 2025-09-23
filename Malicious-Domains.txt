@@ -1,11 +1,30 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-23 09:51:42 UTC                        #
+# Last updated: 2025-09-23 12:08:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	aa9.cdn-568.ru
+127.0.0.1	r.v354y.ru
+127.0.0.1	faris552-36484.portmap.host
+127.0.0.1	upa.uwintech.com
+127.0.0.1	upa.psigestioncomercial.com.ar
+127.0.0.1	v2.cdn-568.ru
+127.0.0.1	aa9.n278o.ru
+127.0.0.1	g.cdn-568.ru
+127.0.0.1	v2.n278o.ru
+127.0.0.1	y.kocq.ru
+127.0.0.1	qm.kokq.ru
+127.0.0.1	mw.kokq.ru
+127.0.0.1	fo.kokq.ru
+127.0.0.1	tc.kokq.ru
+127.0.0.1	eu.lalz.ru
+127.0.0.1	aa9.cdn-779.ru
+127.0.0.1	g.n278o.ru
+127.0.0.1	aa9.h924i.ru
+127.0.0.1	xq0.cdn-779.ru
 127.0.0.1	c5.cdn-779.ru
 127.0.0.1	xq0.h924i.ru
 127.0.0.1	l.cdn-779.ru
@@ -44210,39 +44229,4 @@
 127.0.0.1	crushsftp.org
 127.0.0.1	check.uzuqed.icu
 127.0.0.1	airlightz.shop
-127.0.0.1	check.ugodat.icu
-127.0.0.1	check.alosym.icu
-127.0.0.1	m.knhelp.top
-127.0.0.1	wzuhelp.top
-127.0.0.1	gmthelp.top
-127.0.0.1	bwg-kundendaten.com
-127.0.0.1	www.mr26pan.top
-127.0.0.1	www.prmahelp.top
-127.0.0.1	vjhelp.top
-127.0.0.1	natbhelp.top
-127.0.0.1	www.pthkpan.top
-127.0.0.1	web.opnhelp.top
-127.0.0.1	onyxwatchdog.de
-127.0.0.1	m.opnhelp.top
-127.0.0.1	m.fphelp.top
-127.0.0.1	qprt6-uy.top
-127.0.0.1	m.wpahelp.top
-127.0.0.1	acc.vujhelp.top
-127.0.0.1	cs3699log.dlmhelp.top
-127.0.0.1	m.lrjhelp.top
-127.0.0.1	web.lrjhelp.top
-127.0.0.1	www.kahelp.top
-127.0.0.1	emgj3512.zapto.org
-127.0.0.1	bvft221.ddns.net
-127.0.0.1	www.okhelp.top
-127.0.0.1	nospws.innoxiously.com
-127.0.0.1	mzwuzd.screenvconnects.com
-127.0.0.1	ibhelp.top
-127.0.0.1	jacksgg.com
-127.0.0.1	iu-pks.screensconnectpro.com
-127.0.0.1	spockosw.innoxiously.com
-127.0.0.1	zantmi.innoxiously.com
-127.0.0.1	olarori.yzihelp.top
-127.0.0.1	interstp.live
-127.0.0.1	check.equcym.icu
-# Number of entries: 44239
+# Number of entries: 44223
