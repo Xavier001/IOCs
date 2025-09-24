@@ -1,11 +1,49 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-24 10:02:50 UTC                        #
+# Last updated: 2025-09-24 12:28:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	aa9.gt-70.ru
+127.0.0.1	xq0.gt-70.ru
+127.0.0.1	adssdasdaasd875654-30380.portmap.host
+127.0.0.1	asdasdas32332-32639.portmap.host
+127.0.0.1	sheismybestgirlbabyangelmylovlg.duckdns.org
+127.0.0.1	vetmen.no-ip.biz
+127.0.0.1	divixupdate.zapto.org
+127.0.0.1	fee-capabilities.gl.at.ply.gg
+127.0.0.1	ddnsservice01.theworkpc.com
+127.0.0.1	billiondollarbank.minhacasa.tv
+127.0.0.1	fnbyo-84-84-38-102.a.free.pinggy.link
+127.0.0.1	eeee1231243-40898.portmap.host
+127.0.0.1	responsible-owners.gl.at.ply.gg
+127.0.0.1	s0.z100.vip
+127.0.0.1	dcgretts.duckdns.org
+127.0.0.1	medellin7777.duckdns.org
+127.0.0.1	cr748129.click
+127.0.0.1	envio15.duckdns.org
+127.0.0.1	dcoctubre15.duckdns.org
+127.0.0.1	dcgrezzt.duckdns.org
+127.0.0.1	foundation-trying.gl.at.ply.gg
+127.0.0.1	iusefatalbtw-34401.portmap.host
+127.0.0.1	government-suggesting.gl.at.ply.gg
+127.0.0.1	indian-occupational.gl.at.ply.gg
+127.0.0.1	yayiged372-26061.portmap.host
+127.0.0.1	zen1thblkhat-64408.portmap.host
+127.0.0.1	zen1thblkhat-64927.portmap.host
+127.0.0.1	vq.5e6a.ru
+127.0.0.1	z.3o5i.ru
+127.0.0.1	s.5e6a.ru
+127.0.0.1	b8.5e6a.ru
+127.0.0.1	c5.gt-70.ru
+127.0.0.1	l.gt-70.ru
+127.0.0.1	hx.3o5i.ru
+127.0.0.1	m2.3o5i.ru
+127.0.0.1	q.3o5i.ru
+127.0.0.1	t1v.3o5i.ru
+127.0.0.1	n2.wd-79.ru
 127.0.0.1	phrupmv.su
 127.0.0.1	thujaii.pics
 127.0.0.1	fixatmu.pics
@@ -44126,8 +44164,4 @@
 127.0.0.1	www.ansomwareagile.shop
 127.0.0.1	api-pyciglnrcf.cn-beijing.fcapp.run
 127.0.0.1	dukasbecomeagreatpersonwhowantotbecomegreatnessfor.ydns.eu
-127.0.0.1	cpanel.webprocediweb.com
-127.0.0.1	autodiscover.webprocediweb.com
-127.0.0.1	cometaxk.run
-127.0.0.1	idonetire.duckdns.org
-# Number of entries: 44124
+# Number of entries: 44158
