@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-23 21:48:18 UTC                        #
+# Last updated: 2025-09-24 03:49:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	v2.q210u.ru
+127.0.0.1	j.nq-52.ru
+127.0.0.1	t1.cdn-748.ru
+127.0.0.1	k.q210u.ru
+127.0.0.1	qz9.cdn-748.ru
+127.0.0.1	v2.cdn-748.ru
+127.0.0.1	g4.r852o.ru
+127.0.0.1	k.cdn-748.ru
+127.0.0.1	u1.r852o.ru
+127.0.0.1	pm7.cdn-325.ru
+127.0.0.1	u1.cdn-325.ru
 127.0.0.1	y.cdn-325.ru
 127.0.0.1	z3.cdn-123.ru
 127.0.0.1	z3.q463a.ru
@@ -44264,9 +44275,4 @@
 127.0.0.1	youpteck.com
 127.0.0.1	anti.linkpc.net
 127.0.0.1	dickstops.mahua.one
-127.0.0.1	webdisk.adesso-online.com
-127.0.0.1	autodiscover.a.ora-0-web.com
-127.0.0.1	cpanel.e.multi-canale.com
-127.0.0.1	cdn.ooponoob.xyz
-127.0.0.1	c1.cannimade.xyz
-# Number of entries: 44263
+# Number of entries: 44269
