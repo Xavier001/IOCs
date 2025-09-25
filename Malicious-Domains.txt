@@ -1,26 +1,78 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-25 03:27:00 UTC                        #
+# Last updated: 2025-09-25 09:09:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	gclouds.icu
+127.0.0.1	tip.aztu.edu.az
+127.0.0.1	kis.aztu.edu.az
+127.0.0.1	tip.konebras.com.br
+127.0.0.1	kis.konebras.com.br
+127.0.0.1	mail.honesty-shippings.com
+127.0.0.1	horseswatch.xyz
+127.0.0.1	spaderock.info
+127.0.0.1	fview.xyz
+127.0.0.1	shamefrog.xyz
+127.0.0.1	zoomdocmentdownloader.com
+127.0.0.1	queuedbyn.cyou
+127.0.0.1	fosteryehnit.cyou
+127.0.0.1	arrowxrayboldyeowps.shop
+127.0.0.1	noticedseuh.icu
+127.0.0.1	oega.live
+127.0.0.1	v7rpejh04.localto.net
+127.0.0.1	helpwud.top
+127.0.0.1	dimemilk.xyz
+127.0.0.1	single-routers.gl.at.ply.gg
+127.0.0.1	bullxneo.net
+127.0.0.1	pz8.1z2p9.ru
+127.0.0.1	m7.bw-06.ru
+127.0.0.1	q.myzj.ru
+127.0.0.1	w4.1z2p9.ru
+127.0.0.1	tq1.bw-06.ru
+127.0.0.1	dc.myzj.ru
 127.0.0.1	b2.bw-06.ru
 127.0.0.1	d.1z2p9.ru
+127.0.0.1	hu.myzj.ru
 127.0.0.1	t.6n2q7.ru
+127.0.0.1	b.wehv.ru
 127.0.0.1	x.bw-06.ru
 127.0.0.1	qz9.9s4g2.ru
+127.0.0.1	sq.mizx.ru
 127.0.0.1	m7.9s4g2.ru
+127.0.0.1	s8.xavv.ru
+127.0.0.1	za.xavv.ru
 127.0.0.1	we.6h1p7.ru
+127.0.0.1	t.xavv.ru
 127.0.0.1	us.6h1p7.ru
+127.0.0.1	vw.xavv.ru
 127.0.0.1	up.6h1p7.ru
+127.0.0.1	e.xavv.ru
+127.0.0.1	v.jeml.ru
+127.0.0.1	qg.jeml.ru
+127.0.0.1	z.jeml.ru
+127.0.0.1	p.jeml.ru
+127.0.0.1	zz.jeml.ru
+127.0.0.1	m2n.0u7y.ru
 127.0.0.1	e1.cr-65.ru
+127.0.0.1	hv.0u7y.ru
+127.0.0.1	b5.0u7y.ru
+127.0.0.1	x.0u7y.ru
+127.0.0.1	qt.0u7y.ru
 127.0.0.1	qk2.cr-65.ru
+127.0.0.1	n4.0u7y.ru
 127.0.0.1	so.6h1p7.ru
+127.0.0.1	e.0u7y.ru
+127.0.0.1	t.3u1y.ru
 127.0.0.1	me.9f4s4.ru
+127.0.0.1	rb.3u1y.ru
 127.0.0.1	u5.cr-65.ru
+127.0.0.1	k9.3u1y.ru
+127.0.0.1	g.3u1y.ru
 127.0.0.1	r.cr-65.ru
+127.0.0.1	hm.0y2i.ru
 127.0.0.1	njcolombia8590.duckdns.org
 127.0.0.1	mwq-52537.portmap.host
 127.0.0.1	sdasdsaasdas-62497.portmap.host
@@ -35,8 +87,11 @@
 127.0.0.1	special-practice.gl.at.ply.gg
 127.0.0.1	baronby.pics
 127.0.0.1	melambn.pics
+127.0.0.1	x1.0y2i.ru
 127.0.0.1	if.9f4s4.ru
+127.0.0.1	c6.0y2i.ru
 127.0.0.1	go.4f7m3.ru
+127.0.0.1	y.0y2i.ru
 127.0.0.1	vq.0y2i.ru
 127.0.0.1	do.4f7m3.ru
 127.0.0.1	d7.0y2i.ru
@@ -43949,32 +44004,4 @@
 127.0.0.1	persimmon-turquoise344028.vm-host.com
 127.0.0.1	app.formaxprime.co.uk
 127.0.0.1	se.app.formaxprime.co.uk
-127.0.0.1	webdisk.oraonweb.com
-127.0.0.1	aiwavey.run
-127.0.0.1	byteplusx.digital
-127.0.0.1	skynetxc.live
-127.0.0.1	pixtreev.run
-127.0.0.1	sparkiob.digital
-127.0.0.1	appgridn.live
-127.0.0.1	h.p.formaxprime.co.uk
-127.0.0.1	flame3135-44263.portmap.host
-127.0.0.1	gmt-sherman.gl.at.ply.gg
-127.0.0.1	iii-single.gl.at.ply.gg
-127.0.0.1	pppaa-51102.portmap.host
-127.0.0.1	ruffella1122.duckdns.org
-127.0.0.1	blancoestev27.duckdns.org
-127.0.0.1	mmdrza.ddns.net
-127.0.0.1	5461458.ddns.net
-127.0.0.1	dadfsfsdfasdfasddfgssdfaafsd-63495.portmap.host
-127.0.0.1	trobudrunksz.click
-127.0.0.1	galaxiay.world
-127.0.0.1	hacknestm.run
-127.0.0.1	ksmj.ddns.net
-127.0.0.1	electrum-ravencoin.com
-127.0.0.1	electrum-xmr.net
-127.0.0.1	electrum-avax.com
-127.0.0.1	electrumdoge.com
-127.0.0.1	www.mkdirjava.com
-127.0.0.1	www.amanmail.info
-127.0.0.1	progressiveptgreenvalley.com
-# Number of entries: 43971
+# Number of entries: 43998
