@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-25 09:09:38 UTC                        #
+# Last updated: 2025-09-25 12:17:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	pesacux.pics
+127.0.0.1	up2025.ydns.eu
+127.0.0.1	resources-formerly.gl.at.ply.gg
 127.0.0.1	gclouds.icu
 127.0.0.1	tip.aztu.edu.az
 127.0.0.1	kis.aztu.edu.az
@@ -22510,7 +22513,6 @@
 127.0.0.1	meooow.su
 127.0.0.1	california-arab.gl.at.ply.gg
 127.0.0.1	free-east.gl.at.ply.gg
-127.0.0.1	all.ddnskey.com
 127.0.0.1	public-bracelets.gl.at.ply.gg
 127.0.0.1	paltalkroom.ddns.net
 127.0.0.1	construction-fought.gl.at.ply.gg
@@ -43999,9 +44001,4 @@
 127.0.0.1	kpl-gun77dan.com
 127.0.0.1	higerson.shop
 127.0.0.1	amozon.cc
-127.0.0.1	oct2.xyz
-127.0.0.1	compralibri.com
-127.0.0.1	persimmon-turquoise344028.vm-host.com
-127.0.0.1	app.formaxprime.co.uk
-127.0.0.1	se.app.formaxprime.co.uk
-# Number of entries: 43998
+# Number of entries: 43995
