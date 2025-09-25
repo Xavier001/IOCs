@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-24 21:46:34 UTC                        #
+# Last updated: 2025-09-25 03:27:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	b2.bw-06.ru
+127.0.0.1	d.1z2p9.ru
+127.0.0.1	t.6n2q7.ru
+127.0.0.1	x.bw-06.ru
+127.0.0.1	qz9.9s4g2.ru
+127.0.0.1	m7.9s4g2.ru
+127.0.0.1	we.6h1p7.ru
+127.0.0.1	us.6h1p7.ru
+127.0.0.1	up.6h1p7.ru
 127.0.0.1	e1.cr-65.ru
 127.0.0.1	qk2.cr-65.ru
 127.0.0.1	so.6h1p7.ru
@@ -427,7 +436,6 @@
 127.0.0.1	am.nwyk.ru
 127.0.0.1	ki.nd-ox.ru
 127.0.0.1	d.k645.ru
-127.0.0.1	kenges-rakishev-investigations.com
 127.0.0.1	k.n791.ru
 127.0.0.1	q.mwop.ru
 127.0.0.1	c5.3i6i4.ru
@@ -43969,10 +43977,4 @@
 127.0.0.1	www.mkdirjava.com
 127.0.0.1	www.amanmail.info
 127.0.0.1	progressiveptgreenvalley.com
-127.0.0.1	svchost.iqiyid.icu
-127.0.0.1	mail.b.ora-0-web.com
-127.0.0.1	webdisk.aaa.104-168-101-27.cprapid.com
-127.0.0.1	cpanel.ora-0-web.com
-127.0.0.1	cpcontacts.aaa.104-168-101-27.cprapid.com
-127.0.0.1	cpanel.a.multi-canale.com
-# Number of entries: 43969
+# Number of entries: 43971
