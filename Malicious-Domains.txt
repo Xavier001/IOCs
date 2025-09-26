@@ -1,11 +1,26 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-26 09:38:06 UTC                        #
+# Last updated: 2025-09-26 12:16:08 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	c5.i-574.ru
+127.0.0.1	h.j287y.ru
+127.0.0.1	shadowii0000-45869.portmap.host
+127.0.0.1	pq9.x874a.ru
+127.0.0.1	l.i-574.ru
+127.0.0.1	15.nybh.ru
+127.0.0.1	ol.nybh.ru
+127.0.0.1	teams-download.buzz
+127.0.0.1	ap.nybh.ru
+127.0.0.1	s5.nybh.ru
+127.0.0.1	zc.lobd.ru
+127.0.0.1	rt.lobd.ru
+127.0.0.1	h1.e-134.ru
+127.0.0.1	w3.x874a.ru
+127.0.0.1	d.x874a.ru
 127.0.0.1	pz8.e-134.ru
 127.0.0.1	tm7.z413y.ru
 127.0.0.1	w4.e-134.ru
@@ -44111,11 +44126,4 @@
 127.0.0.1	ccc.ufoxing.com
 127.0.0.1	cdn.chatgpt-cdn.com
 127.0.0.1	86nr8m27y8m94.cfc-execute.bj.baidubce.com
-127.0.0.1	cpcalendars.versioneonline.com
-127.0.0.1	autodiscover.h.web-app-on.com
-127.0.0.1	cpcalendars.m.web-app-on.com
-127.0.0.1	simplepifj.world
-127.0.0.1	check.gytat.icu
-127.0.0.1	check.lipog.icu
-127.0.0.1	check.helij.icu
-# Number of entries: 44112
+# Number of entries: 44120
