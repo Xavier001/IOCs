@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-25 21:38:22 UTC                        #
+# Last updated: 2025-09-26 02:28:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	qz9.o-554.ru
+127.0.0.1	v2.o-554.ru
+127.0.0.1	m3.3r7j7.ru
+127.0.0.1	xq0.9t6p5.ru
+127.0.0.1	k.o-554.ru
 127.0.0.1	xq0.a-344.ru
 127.0.0.1	c5.9t6p5.ru
 127.0.0.1	c5.a-344.ru
@@ -44100,14 +44105,4 @@
 127.0.0.1	servicio.reposterializzart.info
 127.0.0.1	putix.ddns.net
 127.0.0.1	letaryzipthone.ddns.net
-127.0.0.1	mail.b.multi-canale.com
-127.0.0.1	cpanel.d.multi-canale.com
-127.0.0.1	webmail.a.ora-0-web.com
-127.0.0.1	qiaoshen.top
-127.0.0.1	cstest250326.iqiyic.icu
-127.0.0.1	mail.multi-canale.com
-127.0.0.1	login.my.gov.au.upgrade1.zip
-127.0.0.1	ec2-18-167-254-207.ap-east-1.compute.amazonaws.com
-127.0.0.1	confident-archimedes.179-43-176-3.plesk.page
-127.0.0.1	ehchq7m7rpvdr.cfc-execute.bj.baidubce.com
-# Number of entries: 44104
+# Number of entries: 44099
