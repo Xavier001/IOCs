@@ -1,11 +1,55 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-27 09:30:43 UTC                        #
+# Last updated: 2025-09-27 12:24:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	koadbzmlqiyr.cn
+127.0.0.1	hdwyebwfvjs.cn
+127.0.0.1	n.o-096.ru
+127.0.0.1	m7.e-783.ru
+127.0.0.1	0b.nybk.ru
+127.0.0.1	gz.nybk.ru
+127.0.0.1	xq.nybk.ru
+127.0.0.1	pc.mynq.ru
+127.0.0.1	bm.mynq.ru
+127.0.0.1	4j.mynq.ru
+127.0.0.1	dn.mynq.ru
+127.0.0.1	16.mynq.ru
+127.0.0.1	ts.lexz.ru
+127.0.0.1	8f.lexz.ru
+127.0.0.1	vl.lexz.ru
+127.0.0.1	5q.lexz.ru
+127.0.0.1	b5.lexz.ru
+127.0.0.1	maps-scoop.gl.at.ply.gg
+127.0.0.1	tq1.e-783.ru
+127.0.0.1	hyduwkvd.forum
+127.0.0.1	ydobniudivan.ru
+127.0.0.1	hatsalnm.forum
+127.0.0.1	ebuinwgs.forum
+127.0.0.1	synrxvtd.forum
+127.0.0.1	assalafuz.lat
+127.0.0.1	unshyqov.xin
+127.0.0.1	inchapxe.xin
+127.0.0.1	bloodydi.xin
+127.0.0.1	aegiqlfb.xin
+127.0.0.1	paleatgh.xin
+127.0.0.1	ligmfbx.top
+127.0.0.1	secrequ.top
+127.0.0.1	delazvf.forum
+127.0.0.1	orinacg.top
+127.0.0.1	builie.top
+127.0.0.1	gregmhy.lol
+127.0.0.1	sacrakyf.xin
+127.0.0.1	actmwtn.my
+127.0.0.1	neighll.click
+127.0.0.1	b2.e-783.ru
+127.0.0.1	x.e-783.ru
+127.0.0.1	e1.u-989.ru
+127.0.0.1	bigstepix.shop
+127.0.0.1	lgbtmeme.shop
 127.0.0.1	qk2.u-989.ru
 127.0.0.1	u5.u-989.ru
 127.0.0.1	r.u-989.ru
@@ -44076,6 +44120,4 @@
 127.0.0.1	god.qiaoshen.top
 127.0.0.1	cs.qiaoshen.top
 127.0.0.1	check.hulak.icu
-127.0.0.1	mail.i.web-app-on.com
-127.0.0.1	enetlabq.digital
-# Number of entries: 44072
+# Number of entries: 44114
