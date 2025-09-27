@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-26 21:04:44 UTC                        #
+# Last updated: 2025-09-27 02:48:08 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	clearate.cloud
+127.0.0.1	q3n.i-215.ru
+127.0.0.1	m8.i-215.ru
+127.0.0.1	wq9.a-156.ru
 127.0.0.1	c7.a-156.ru
 127.0.0.1	n.a-156.ru
 127.0.0.1	m7.o-279.ru
@@ -44060,15 +44064,4 @@
 127.0.0.1	alloyupr.run
 127.0.0.1	freeimagecdn.com
 127.0.0.1	mvnrepo.net
-127.0.0.1	cpcontacts.c.ora-0-web.com
-127.0.0.1	webmail.continueoraweb.com
-127.0.0.1	autodiscover.d.multi-canale.com
-127.0.0.1	mail.oraonweb.com
-127.0.0.1	web.mhknex555.com
-127.0.0.1	mail.104-168-101-27.cprapid.com
-127.0.0.1	cpcalendars.e.multi-canale.com
-127.0.0.1	webdisk.c.multi-canale.com
-127.0.0.1	jwt.cpyc.at
-127.0.0.1	x.cpyc.at
-127.0.0.1	dashboard.rath3r.xyz
-# Number of entries: 44065
+# Number of entries: 44058
