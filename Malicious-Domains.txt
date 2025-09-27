@@ -1,11 +1,48 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-27 12:24:48 UTC                        #
+# Last updated: 2025-09-27 21:10:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	w4.e-72t.ru
+127.0.0.1	d.e-72t.ru
+127.0.0.1	t1.u-97w.ru
+127.0.0.1	at.hmvu4.ru
+127.0.0.1	qz9.u-97w.ru
+127.0.0.1	v2.u-97w.ru
+127.0.0.1	k.u-97w.ru
+127.0.0.1	t1.a-311.ru
+127.0.0.1	conference-plate.gl.at.ply.gg
+127.0.0.1	kingstare-54289.portmap.host
+127.0.0.1	insurance-scuba.gl.at.ply.gg
+127.0.0.1	qz9.a-311.ru
+127.0.0.1	am.dgzy1.ru
+127.0.0.1	v2.a-311.ru
+127.0.0.1	k.a-311.ru
+127.0.0.1	g4.a-144.ru
+127.0.0.1	pm7.a-144.ru
+127.0.0.1	k4.a-144.ru
+127.0.0.1	y.a-144.ru
+127.0.0.1	z3.u-251.ru
+127.0.0.1	jo.qekz.ru
+127.0.0.1	g.xabz.ru
+127.0.0.1	bx.qekz.ru
+127.0.0.1	jn.qekz.ru
+127.0.0.1	ak.qekz.ru
+127.0.0.1	er.qekz.ru
+127.0.0.1	qm9.u-251.ru
+127.0.0.1	u1.u-251.ru
+127.0.0.1	h.u-251.ru
+127.0.0.1	r2.o-096.ru
+127.0.0.1	n.xabz.ru
+127.0.0.1	wq9.o-096.ru
+127.0.0.1	c7.o-096.ru
+127.0.0.1	wz.xabz.ru
+127.0.0.1	sc.xabz.ru
+127.0.0.1	wl.xabz.ru
+127.0.0.1	wzlive.support
 127.0.0.1	koadbzmlqiyr.cn
 127.0.0.1	hdwyebwfvjs.cn
 127.0.0.1	n.o-096.ru
@@ -44075,49 +44112,4 @@
 127.0.0.1	reserveratinguestid662233.icu
 127.0.0.1	booking-captcha-54367.com
 127.0.0.1	complaintguest2.com
-127.0.0.1	check.sacyd.icu
-127.0.0.1	check.bufok.icu
-127.0.0.1	galactich.today
-127.0.0.1	ty.ap.4t.com
-127.0.0.1	check.tuqad.icu
-127.0.0.1	vds2405267.my-ihor.ru
-127.0.0.1	castlaby.live
-127.0.0.1	metalixq.run
-127.0.0.1	metworkp.run
-127.0.0.1	scrapixo.live
-127.0.0.1	smeltedx.run
-127.0.0.1	moldifye.digital
-127.0.0.1	rodcastx.digital
-127.0.0.1	codemaxq.digital
-127.0.0.1	hacknowl.digital
-127.0.0.1	techbitl.digital
-127.0.0.1	ironwebi.digital
-127.0.0.1	devpathq.digital
-127.0.0.1	techhubq.digital
-127.0.0.1	scraplyo.digital
-127.0.0.1	datagymx.digital
-127.0.0.1	qrtechh.digital
-127.0.0.1	algosetr.digital
-127.0.0.1	weldhubt.digital
-127.0.0.1	appzoner.digital
-127.0.0.1	ironmodw.digital
-127.0.0.1	steeluxz.digital
-127.0.0.1	devcodeu.digital
-127.0.0.1	weldorae.digital
-127.0.0.1	plugboth.digital
-127.0.0.1	ferromny.digital
-127.0.0.1	can-features.gl.at.ply.gg
-127.0.0.1	check.togis.icu
-127.0.0.1	oregearp.run
-127.0.0.1	oreheatq.live
-127.0.0.1	castmaxw.run
-127.0.0.1	smeltingt.run
-127.0.0.1	steelixr.live
-127.0.0.1	steeliow.digital
-127.0.0.1	weldmaxi.digital
-127.0.0.1	forgeitt.digital
-127.0.0.1	www.mail163.com.pl
-127.0.0.1	god.qiaoshen.top
-127.0.0.1	cs.qiaoshen.top
-127.0.0.1	check.hulak.icu
-# Number of entries: 44114
+# Number of entries: 44106
