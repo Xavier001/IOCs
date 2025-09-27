@@ -1,21 +1,54 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-27 02:48:08 UTC                        #
+# Last updated: 2025-09-27 09:30:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	qk2.u-989.ru
+127.0.0.1	u5.u-989.ru
+127.0.0.1	r.u-989.ru
+127.0.0.1	k7.u-885.ru
+127.0.0.1	media-kg.gl.at.ply.gg
+127.0.0.1	aa9.u-885.ru
+127.0.0.1	0.nybk.ru
+127.0.0.1	g.u-885.ru
+127.0.0.1	o.nybk.ru
+127.0.0.1	t1.i-215.ru
+127.0.0.1	3.tiqk.ru
+127.0.0.1	5u.tiqk.ru
+127.0.0.1	gj.tiqk.ru
+127.0.0.1	4f.tiqk.ru
 127.0.0.1	clearate.cloud
 127.0.0.1	q3n.i-215.ru
+127.0.0.1	8a.tiqk.ru
+127.0.0.1	6v.jagc.ru
+127.0.0.1	u0.jagc.ru
 127.0.0.1	m8.i-215.ru
+127.0.0.1	eq.jagc.ru
+127.0.0.1	0m.jagc.ru
+127.0.0.1	y2.jagc.ru
+127.0.0.1	zs.kunb.ru
 127.0.0.1	wq9.a-156.ru
+127.0.0.1	3i.kunb.ru
+127.0.0.1	2.kunb.ru
+127.0.0.1	7.nytk.ru
+127.0.0.1	6.nytk.ru
 127.0.0.1	c7.a-156.ru
+127.0.0.1	ik.nytk.ru
 127.0.0.1	n.a-156.ru
+127.0.0.1	w6.nytk.ru
 127.0.0.1	m7.o-279.ru
+127.0.0.1	79.nytk.ru
+127.0.0.1	s.xyqd.ru
 127.0.0.1	tq1.o-279.ru
+127.0.0.1	di.xyqd.ru
+127.0.0.1	ax.xyqd.ru
 127.0.0.1	b2.o-279.ru
+127.0.0.1	c.xyqd.ru
 127.0.0.1	x.o-279.ru
+127.0.0.1	np.xyqd.ru
 127.0.0.1	iusefatalbtw-48418.portmap.host
 127.0.0.1	dcgerts.duckdns.org
 127.0.0.1	startmenuexperiencehost.ydns.eu
@@ -23,8 +56,11 @@
 127.0.0.1	mean-airline.gl.at.ply
 127.0.0.1	original-fan.gl.at.ply.gg
 127.0.0.1	promole5.ddns.net
+127.0.0.1	fr.wuhp.ru
 127.0.0.1	e1.a-342.ru
+127.0.0.1	b3.wuhp.ru
 127.0.0.1	qk2.a-342.ru
+127.0.0.1	ix.wuhp.ru
 127.0.0.1	ia.wuhp.ru
 127.0.0.1	37.wugh.ru
 127.0.0.1	lexypaster.ddns.net
@@ -44042,26 +44078,4 @@
 127.0.0.1	check.hulak.icu
 127.0.0.1	mail.i.web-app-on.com
 127.0.0.1	enetlabq.digital
-127.0.0.1	w.ap.formaxprime.co.uk
-127.0.0.1	netcorde.run
-127.0.0.1	rumbaya.com
-127.0.0.1	7908pt.4cloud.click
-127.0.0.1	abby.work.gd
-127.0.0.1	envio25-03.duckdns.org
-127.0.0.1	envio25-3.duckdns.org
-127.0.0.1	extr6.duckdns.org
-127.0.0.1	father-ever.gl.at.ply.gg
-127.0.0.1	barcastb.live
-127.0.0.1	anvilixx.run
-127.0.0.1	furnexyz.live
-127.0.0.1	meltwaym.digital
-127.0.0.1	ingotfyx.live
-127.0.0.1	rodstepv.digital
-127.0.0.1	oreflown.run
-127.0.0.1	steelioc.digital
-127.0.0.1	b897b98721.b-cdn.net
-127.0.0.1	blackhats.thehomeserver.net
-127.0.0.1	alloyupr.run
-127.0.0.1	freeimagecdn.com
-127.0.0.1	mvnrepo.net
-# Number of entries: 44058
+# Number of entries: 44072
