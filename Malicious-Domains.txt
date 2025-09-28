@@ -1,11 +1,30 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-28 09:18:29 UTC                        #
+# Last updated: 2025-09-28 12:09:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	m7.o-61x.ru
+127.0.0.1	yvfei.253274554324.com
+127.0.0.1	frp-arm.com
+127.0.0.1	qq.yvfei7770.com
+127.0.0.1	skin-tenant.gl.at.ply.gg
+127.0.0.1	t.hlgy7.ru
+127.0.0.1	a.hlgy7.ru
+127.0.0.1	pz.hlgy7.ru
+127.0.0.1	m7.hlgy7.ru
+127.0.0.1	tq1.o-61x.ru
+127.0.0.1	b2.o-61x.ru
+127.0.0.1	x.o-61x.ru
+127.0.0.1	pn.gzva1.ru
+127.0.0.1	z9m.gzva1.ru
+127.0.0.1	x.gzva1.ru
+127.0.0.1	m2.gzva1.ru
+127.0.0.1	qb.gzva1.ru
+127.0.0.1	e1.a-67x.ru
+127.0.0.1	qk2.a-67x.ru
 127.0.0.1	u5.a-67x.ru
 127.0.0.1	h3.gzva1.ru
 127.0.0.1	r.a-67x.ru
@@ -43896,16 +43915,4 @@
 127.0.0.1	thelightpower.info
 127.0.0.1	check.canez.icu
 127.0.0.1	check.ligaz.icu
-127.0.0.1	mail.ora-0-web.com
-127.0.0.1	cpcalendars.a.ora-0-web.com
-127.0.0.1	check.tisof.icu
-127.0.0.1	ip251.ip-15-204-130.us
-127.0.0.1	renxinguo.com
-127.0.0.1	check.mydiw.icu
-127.0.0.1	naybvyzvemm.top
-127.0.0.1	gkbjkdfghilekfn.top
-127.0.0.1	check.wigiz.icu
-127.0.0.1	check.dolav.icu
-127.0.0.1	dgemmiailgjdlde.top
-127.0.0.1	eirtjzo3i4ec.top
-# Number of entries: 43902
+# Number of entries: 43909
