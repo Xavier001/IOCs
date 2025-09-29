@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-28 21:03:38 UTC                        #
+# Last updated: 2025-09-29 03:27:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	t1.t-20y.ru
+127.0.0.1	qz9.t-20y.ru
+127.0.0.1	v2.t-20y.ru
+127.0.0.1	k.t-20y.ru
+127.0.0.1	t1.e-35w.ru
+127.0.0.1	qz9.e-35w.ru
+127.0.0.1	v2.e-35w.ru
+127.0.0.1	k.e-35w.ru
+127.0.0.1	g4.e-09q.ru
 127.0.0.1	pm7.e-09q.ru
 127.0.0.1	neurold.pics
 127.0.0.1	smiliil.pics
@@ -43579,14 +43588,4 @@
 127.0.0.1	check.nagec.icu
 127.0.0.1	check.ticyb.icu
 127.0.0.1	check.nifom.icu
-127.0.0.1	cpanel.aa.104-168-101-27.cprapid.com
-127.0.0.1	mail.c.ora-0-web.com
-127.0.0.1	cpanel.i.web-app-on.com
-127.0.0.1	autodiscover.aaa.104-168-101-27.cprapid.com
-127.0.0.1	cpanel.adesso-online.com
-127.0.0.1	cpcalendars.eversioneweb.com
-127.0.0.1	webdisk.d.ora-0-web.com
-127.0.0.1	webmail.oraonweb.com
-127.0.0.1	api.faleze.com
-127.0.0.1	cpcalendars.e.ora-0-web.com
-# Number of entries: 43583
+# Number of entries: 43582
