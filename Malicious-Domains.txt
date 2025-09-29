@@ -1,11 +1,62 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-29 03:27:46 UTC                        #
+# Last updated: 2025-09-29 08:48:19 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	g.z-48y.ru
+127.0.0.1	aa9.d-61o.ru
+127.0.0.1	xq0.d-61o.ru
+127.0.0.1	ef.wzhy1.ru
+127.0.0.1	c5.d-61o.ru
+127.0.0.1	do.wzhy1.ru
+127.0.0.1	ed.wzhy1.ru
+127.0.0.1	ff.liberatorpremiercompany.com
+127.0.0.1	xp.liberatorpremiercompany.com
+127.0.0.1	ez.liberatorpremiercompany.com
+127.0.0.1	df.liberatorpremiercompany.com
+127.0.0.1	xs.liberatorpremiercompany.com
+127.0.0.1	pi.liberatorpremiercompany.com
+127.0.0.1	ff.americanmusclecars.eu
+127.0.0.1	xp.americanmusclecars.eu
+127.0.0.1	ez.americanmusclecars.eu
+127.0.0.1	df.americanmusclecars.eu
+127.0.0.1	xs.alexandraparasca.com
+127.0.0.1	pi.alexandraparasca.com
+127.0.0.1	l.d-61o.ru
+127.0.0.1	r3.bvqu-7.ru
+127.0.0.1	da.vwjy7.ru
+127.0.0.1	ay.txso1.ru
+127.0.0.1	ba.txso1.ru
+127.0.0.1	bi.vwjy7.ru
+127.0.0.1	bo.vwjy7.ru
+127.0.0.1	al.tsqe2.ru
+127.0.0.1	am.tvti0.ru
+127.0.0.1	aw.txso1.ru
+127.0.0.1	ar.tvti0.ru
+127.0.0.1	cyber-hawk.live
+127.0.0.1	ax.txso1.ru
+127.0.0.1	ai.tsqe2.ru
+127.0.0.1	ah.tsqe2.ru
+127.0.0.1	ae.tsqe2.ru
+127.0.0.1	ag.tsqe2.ru
+127.0.0.1	ab.tfpe6.ru
+127.0.0.1	ad.tfpe6.ru
+127.0.0.1	aa.tfpe6.ru
+127.0.0.1	cm.bvqu-7.ru
+127.0.0.1	a.tfpe6.ru
+127.0.0.1	u.bvqu-7.ru
+127.0.0.1	y7.bvqu-7.ru
+127.0.0.1	pancakewap.co.com
+127.0.0.1	h1.w-57e.ru
+127.0.0.1	sigmaratohio-52009.portmap.host
+127.0.0.1	hawifo-43198.portmap.host
+127.0.0.1	pz8.w-57e.ru
+127.0.0.1	w4.w-57e.ru
+127.0.0.1	d.w-57e.ru
+127.0.0.1	www.micoestan.es
 127.0.0.1	t1.t-20y.ru
 127.0.0.1	qz9.t-20y.ru
 127.0.0.1	v2.t-20y.ru
@@ -43567,25 +43618,4 @@
 127.0.0.1	check.wumih.icu
 127.0.0.1	check.libij.icu
 127.0.0.1	muddy-scene-7557.sgfsdggfg.workers.dev
-127.0.0.1	check.ryqyn.icu
-127.0.0.1	check.zahyt.icu
-127.0.0.1	webmail.f.multi-canale.com
-127.0.0.1	cpcontacts.b.ora-0-web.com
-127.0.0.1	management.faleze.com
-127.0.0.1	cpanel.multi-canale.com
-127.0.0.1	check.taxaq.icu
-127.0.0.1	nebuxisn.top
-127.0.0.1	indian-alternate.gl.at.ply.gg
-127.0.0.1	resources-legacy.gl.at.ply.gg
-127.0.0.1	someone-manually.gl.at.ply.gg
-127.0.0.1	ticket90867-33014.portmap.host
-127.0.0.1	ddffg-52874.portmap.host
-127.0.0.1	game-glory.gl.at.ply.gg
-127.0.0.1	swertyhgvcfrdewsquiplkjmnb.ydns.eu
-127.0.0.1	verynicepeopleswithgreatnessgivenmebestthings.ydns.eu
-127.0.0.1	chris1212-43098.portmap.host
-127.0.0.1	quassar53-43603.portmap.host
-127.0.0.1	check.nagec.icu
-127.0.0.1	check.ticyb.icu
-127.0.0.1	check.nifom.icu
-# Number of entries: 43582
+# Number of entries: 43612
