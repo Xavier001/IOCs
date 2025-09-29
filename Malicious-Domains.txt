@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-29 08:48:19 UTC                        #
+# Last updated: 2025-09-29 12:00:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	elevatormagnet.duckdns.org
+127.0.0.1	genesisloperalora09.con-ip.com
+127.0.0.1	wllgore.com
+127.0.0.1	during-substantial.gl.at.ply.gg
+127.0.0.1	blksssd.ydns.eu
+127.0.0.1	aa9.z-48y.ru
+127.0.0.1	v2.z-48y.ru
 127.0.0.1	g.z-48y.ru
 127.0.0.1	aa9.d-61o.ru
 127.0.0.1	xq0.d-61o.ru
@@ -43617,5 +43624,4 @@
 127.0.0.1	castmann.run
 127.0.0.1	check.wumih.icu
 127.0.0.1	check.libij.icu
-127.0.0.1	muddy-scene-7557.sgfsdggfg.workers.dev
-# Number of entries: 43612
+# Number of entries: 43618
