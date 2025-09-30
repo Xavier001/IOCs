@@ -1,11 +1,26 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-29 22:00:21 UTC                        #
+# Last updated: 2025-09-30 03:47:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	h1.fa-99.ru
+127.0.0.1	pz8.fa-99.ru
+127.0.0.1	ha.jdho3.ru
+127.0.0.1	ex.jdho3.ru
+127.0.0.1	w4.fa-99.ru
+127.0.0.1	er.jdho3.ru
+127.0.0.1	d.fa-99.ru
+127.0.0.1	hm.jo-59.ru
+127.0.0.1	eh.jdho3.ru
+127.0.0.1	t1.jo-59.ru
+127.0.0.1	ah.qjxo4.ru
+127.0.0.1	qz9.jo-59.ru
+127.0.0.1	v2.jo-59.ru
+127.0.0.1	k.jo-59.ru
+127.0.0.1	t1.w-70a.ru
 127.0.0.1	qz9.w-70a.ru
 127.0.0.1	v2.w-70a.ru
 127.0.0.1	k.w-70a.ru
@@ -43225,13 +43240,4 @@
 127.0.0.1	pro-ram.gl.at.ply.gg
 127.0.0.1	born-pupils.gl.at.ply.gg
 127.0.0.1	control.wolm.life
-127.0.0.1	mail.d.multi-canale.com
-127.0.0.1	webdisk.e.multi-canale.com
-127.0.0.1	cpcalendars.oraonweb.com
-127.0.0.1	cpcontacts.gestisciweb.com
-127.0.0.1	94ad2ccedf2c.edge.sdk.netcloudclick.com
-127.0.0.1	9f813abedf2f.edge.sdk.netcloudclick.com
-127.0.0.1	autodiscover.gestisciweb.com
-127.0.0.1	cpcontacts.gfjd.104-168-101-27.cprapid.com
-127.0.0.1	webdisk.e.ora-0-web.com
-# Number of entries: 43228
+# Number of entries: 43234
