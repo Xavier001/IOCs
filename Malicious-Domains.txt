@@ -1,11 +1,65 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-09-30 12:11:34 UTC                        #
+# Last updated: 2025-09-30 21:59:20 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	t1.nu-96.ru
+127.0.0.1	u5.j86ei.ru
+127.0.0.1	qz9.nu-96.ru
+127.0.0.1	v2.nu-96.ru
+127.0.0.1	r.j86ei.ru
+127.0.0.1	k.nu-96.ru
+127.0.0.1	k7.x12uy.ru
+127.0.0.1	aa9.x12uy.ru
+127.0.0.1	v2.x12uy.ru
+127.0.0.1	www.valorschoolsupplies.com
+127.0.0.1	b1.zi-87.ru
+127.0.0.1	x2.vototao9.ru
+127.0.0.1	g4.zi-87.ru
+127.0.0.1	g.x12uy.ru
+127.0.0.1	pm7.zi-87.ru
+127.0.0.1	c2.chuliusec1.xyz
+127.0.0.1	aa9.r99ae.ru
+127.0.0.1	k4.zi-87.ru
+127.0.0.1	medellin2027.duckdns.org
+127.0.0.1	rjwz.ydns.eu
+127.0.0.1	fahad-airlink.duckdns.org
+127.0.0.1	prakashjadhav74738.hopto.org
+127.0.0.1	xq0.r99ae.ru
+127.0.0.1	y.zi-87.ru
+127.0.0.1	wi.sxqy-9.ru
+127.0.0.1	k4.ri-04.ru
+127.0.0.1	xe.sxqy-9.ru
+127.0.0.1	xa.sxqy-9.ru
+127.0.0.1	wy.sxqy-9.ru
+127.0.0.1	wu.sxqy-9.ru
+127.0.0.1	z3.ri-04.ru
+127.0.0.1	qm9.ri-04.ru
+127.0.0.1	u1.ri-04.ru
+127.0.0.1	c5.r99ae.ru
+127.0.0.1	l.r99ae.ru
+127.0.0.1	h.ri-04.ru
+127.0.0.1	furiolkariomastbe.com
+127.0.0.1	aw.khhu8.ru
+127.0.0.1	ax.khhu8.ru
+127.0.0.1	ay.khhu8.ru
+127.0.0.1	ba.khhu8.ru
+127.0.0.1	fp.realassetsrealtors.com
+127.0.0.1	fp.andreeacomansinger.com
+127.0.0.1	loveinl.pics
+127.0.0.1	flattwg.pics
+127.0.0.1	ascomyl.pics
+127.0.0.1	artteaq.pics
+127.0.0.1	appallf.pics
+127.0.0.1	parliah.pics
+127.0.0.1	bufospp.pics
+127.0.0.1	rollupf.pics
+127.0.0.1	holdonz.pics
+127.0.0.1	milmgqn.pics
+127.0.0.1	zd.qe-10.ru
 127.0.0.1	r2.qe-10.ru
 127.0.0.1	noseasapo.ydns.eu
 127.0.0.1	ysan40kdhs.duckdns.org
@@ -43313,23 +43367,4 @@
 127.0.0.1	api.alipaydns.ggff.net
 127.0.0.1	cpcontacts.a.multi-canale.com
 127.0.0.1	cpcalendars.a.multi-canale.com
-127.0.0.1	www.asistani.com.tr
-127.0.0.1	jeggawire.ddns.net
-127.0.0.1	functions-pressing.gl.at.ply.gg
-127.0.0.1	evolution007.hopto.org
-127.0.0.1	commoffice.xyz
-127.0.0.1	acschoolcatering.com
-127.0.0.1	roofcolor.com
-127.0.0.1	check.hydod.icu
-127.0.0.1	gunlimit.digital
-127.0.0.1	check.botuh.icu
-127.0.0.1	moonishs.live
-127.0.0.1	warbasket.xyz
-127.0.0.1	check.fihoj.icu
-127.0.0.1	lunoxorn.top
-127.0.0.1	ngotronl.run
-127.0.0.1	check.bumac.icu
-127.0.0.1	check.togez.icu
-127.0.0.1	webmail.m.web-app-on.com
-127.0.0.1	security.kasperskys.top
-# Number of entries: 43326
+# Number of entries: 43361
