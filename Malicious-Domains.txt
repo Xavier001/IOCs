@@ -1,11 +1,35 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-01 10:12:49 UTC                        #
+# Last updated: 2025-10-01 12:28:26 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	q7.p2o7l.ru
+127.0.0.1	k7.g-28e.ru
+127.0.0.1	v2.q6t4u.ru
+127.0.0.1	quietshalecompany.com
+127.0.0.1	bd.p2o7l.ru
+127.0.0.1	aa9.g-28e.ru
+127.0.0.1	kamal11.ddns.net
+127.0.0.1	ghddfe.duckdns.org
+127.0.0.1	verygreatjourneyofthebabygirlwholivesfor.duckdns.org
+127.0.0.1	bestwishesfornewstartingwithrems.duckdns.org
+127.0.0.1	film-distinguished.gl.at.ply.gg
+127.0.0.1	participationcontrol.duckdns.org
+127.0.0.1	propracontrolly.duckdns.org
+127.0.0.1	k.q6t4u.ru
+127.0.0.1	x.p2o7l.ru
+127.0.0.1	h9m.p2o7l.ru
+127.0.0.1	tq.p2o7l.ru
+127.0.0.1	z1.p2o7l.ru
+127.0.0.1	u1.x38ii.ru
+127.0.0.1	v2.g-28e.ru
+127.0.0.1	qm9.x38ii.ru
+127.0.0.1	g.g-28e.ru
+127.0.0.1	k4.t99oo.ru
+127.0.0.1	p.n4i2m.ru
 127.0.0.1	routepickle.info
 127.0.0.1	shirtstraw.info
 127.0.0.1	atillawootten.online
@@ -43348,5 +43372,4 @@
 127.0.0.1	police.co.ke
 127.0.0.1	humanrights.co.ke
 127.0.0.1	ee.ap.4t.com
-127.0.0.1	check.nuxiy.icu
-# Number of entries: 43343
+# Number of entries: 43366
