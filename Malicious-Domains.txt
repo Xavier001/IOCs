@@ -1,11 +1,95 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-01 02:51:47 UTC                        #
+# Last updated: 2025-10-01 10:12:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	routepickle.info
+127.0.0.1	shirtstraw.info
+127.0.0.1	atillawootten.online
+127.0.0.1	shoestop.info
+127.0.0.1	aa.d-54y.ru
+127.0.0.1	pm7.t99oo.ru
+127.0.0.1	cm.n4i2m.ru
+127.0.0.1	k8.n4i2m.ru
+127.0.0.1	l.p-55u.ru
+127.0.0.1	g4.t99oo.ru
+127.0.0.1	k.l99oy.ru
+127.0.0.1	y7.n4i2m.ru
+127.0.0.1	u.n4i2m.ru
+127.0.0.1	r3.n4i2m.ru
+127.0.0.1	ve.n4i2m.ru
+127.0.0.1	c5.p-55u.ru
+127.0.0.1	xq0.p-55u.ru
+127.0.0.1	v2.l99oy.ru
+127.0.0.1	qz9.l99oy.ru
+127.0.0.1	aa9.p-55u.ru
+127.0.0.1	girondh.pics
+127.0.0.1	t1.l99oy.ru
+127.0.0.1	m2.p-55u.ru
+127.0.0.1	vip.googleminigames.com
+127.0.0.1	re.andreeamunteanu.com
+127.0.0.1	re.valmetfinance.com
+127.0.0.1	built-hiring.gl.at.ply.gg
+127.0.0.1	daom2gaslioryrocky.com
+127.0.0.1	fexelxilkopory.com
+127.0.0.1	geargasporuion.com
+127.0.0.1	gansroroyfgdst.com
+127.0.0.1	triosdoryumkas.com
+127.0.0.1	ariokliasklfdnok.com
+127.0.0.1	dorevilokpadjghs.com
+127.0.0.1	kwestgidokudiojek.com
+127.0.0.1	lilikutliputsdf.com
+127.0.0.1	sisadfriolkdle.com
+127.0.0.1	sigdalokanolkas.com
+127.0.0.1	signamoykloysd.com
+127.0.0.1	sistoronykastadro.com
+127.0.0.1	sum1oxazaracklary.com
+127.0.0.1	adsqwiolkuerkom.com
+127.0.0.1	afsdloiutropic.com
+127.0.0.1	alfryudabikuta.com
+127.0.0.1	basokilometrsdo.com
+127.0.0.1	blaksdioklery.com
+127.0.0.1	djkloyfarelbister.com
+127.0.0.1	dlinofinopasster.com
+127.0.0.1	doskaevriakjoilo.com
+127.0.0.1	jauiolkerytamp.com
+127.0.0.1	k5aiodybloxdasom.com
+127.0.0.1	ganstopliomalifas.com
+127.0.0.1	gasrihoirteyui.com
+127.0.0.1	h1hundynotesuom.com
+127.0.0.1	jojikloertoys.com
+127.0.0.1	kasldericoname.com
+127.0.0.1	kutakdokliurio.com
+127.0.0.1	gasrobariokley.com
+127.0.0.1	kwjfalvalkloun.com
+127.0.0.1	lounfaslkijsdf.com
+127.0.0.1	fadoklismokley.com
+127.0.0.1	vy.sgdi-6.ru
+127.0.0.1	vu.sgdi-6.ru
+127.0.0.1	vo.sgdi-6.ru
+127.0.0.1	vi.sgdi-6.ru
+127.0.0.1	en.mxta6.ru
+127.0.0.1	em.mxta6.ru
+127.0.0.1	el.mxta6.ru
+127.0.0.1	eh.mxta6.ru
+127.0.0.1	ef.mxta6.ru
+127.0.0.1	do.lkci1.ru
+127.0.0.1	ed.lkci1.ru
+127.0.0.1	di.lkci1.ru
+127.0.0.1	da.lkci1.ru
+127.0.0.1	zo.prli-1.ru
+127.0.0.1	zi.prli-1.ru
+127.0.0.1	google-reviews-5l6.pages.dev
+127.0.0.1	files-transfer.info
+127.0.0.1	ze.prli-1.ru
+127.0.0.1	xy.prli-1.ru
+127.0.0.1	wa.sgdi-6.ru
+127.0.0.1	h.x38ii.ru
+127.0.0.1	w4.d-54y.ru
+127.0.0.1	wq9.z88ae.ru
 127.0.0.1	c7.z88ae.ru
 127.0.0.1	d.d-54y.ru
 127.0.0.1	hm.j-70o.ru
@@ -43265,24 +43349,4 @@
 127.0.0.1	humanrights.co.ke
 127.0.0.1	ee.ap.4t.com
 127.0.0.1	check.nuxiy.icu
-127.0.0.1	autodiscover.c.multi-canale.com
-127.0.0.1	ex.ap.4t.com
-127.0.0.1	tripfjoyq.life
-127.0.0.1	ironloxp.live
-127.0.0.1	meltonep.digital
-127.0.0.1	metalsyo.digital
-127.0.0.1	navstarx.shop
-127.0.0.1	rodformi.run
-127.0.0.1	voyagiei.run
-127.0.0.1	dreliefr.digital
-127.0.0.1	iafec.com
-127.0.0.1	dixiemgmt.com
-127.0.0.1	rules-binary.gl.at.ply.gg
-127.0.0.1	check.giriq.icu
-127.0.0.1	check.poxuv.icu
-127.0.0.1	ferroyxo.run
-127.0.0.1	palivorena.org
-127.0.0.1	bolt.citrixapp.net
-127.0.0.1	check.cymyv.icu
-127.0.0.1	check.pijuk.icu
-# Number of entries: 43279
+# Number of entries: 43343
