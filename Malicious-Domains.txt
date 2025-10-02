@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-02 10:13:02 UTC                        #
+# Last updated: 2025-10-02 12:24:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tq1.i-76t.ru
+127.0.0.1	home.wtt.ink
+127.0.0.1	eririego.top
+127.0.0.1	b2.i-76t.ru
+127.0.0.1	i.qgf-5-e.ru
+127.0.0.1	x.i-76t.ru
+127.0.0.1	m6.j1z2u.ru
+127.0.0.1	n0.i-26h.ru
+127.0.0.1	e1.i-26h.ru
 127.0.0.1	pa.andreeamunteanu.com
 127.0.0.1	pa.jullianacalhau.com.br
 127.0.0.1	qk2.i-26h.ru
@@ -43310,10 +43319,4 @@
 127.0.0.1	chukwuonye.duckdns.org
 127.0.0.1	dcdh4.shop
 127.0.0.1	eiesystems.com
-127.0.0.1	bridge.tree-sock-rain.today
-127.0.0.1	xxx-xx-x-xxx.pages.dev
-127.0.0.1	net-5-88-105-109.cust.vodafonedsl.it
-127.0.0.1	4.fbads.store
-127.0.0.1	ultraddam.co.kr
-127.0.0.1	check.zaqob.icu
-# Number of entries: 43310
+# Number of entries: 43313
