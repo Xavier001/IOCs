@@ -1,11 +1,70 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-02 12:24:35 UTC                        #
+# Last updated: 2025-10-02 21:46:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	m6.u-66r.ru
+127.0.0.1	rp.jullianacalhau.com.br
+127.0.0.1	t1.u-66r.ru
+127.0.0.1	oriolep.pics
+127.0.0.1	rightea.pics
+127.0.0.1	epitomv.pics
+127.0.0.1	retrosa.pics
+127.0.0.1	qz9.u-66r.ru
+127.0.0.1	v2.u-66r.ru
+127.0.0.1	k.u-66r.ru
+127.0.0.1	b1.a-90g.ru
+127.0.0.1	g4.a-90g.ru
+127.0.0.1	pm7.a-90g.ru
+127.0.0.1	k4.a-90g.ru
+127.0.0.1	england-hosting.gl.at.ply.gg
+127.0.0.1	y.a-90g.ru
+127.0.0.1	k4.i-78b.ru
+127.0.0.1	1310084117-cdzk9xw7xy.ap-beijing.tencentscf.com
+127.0.0.1	z3.i-78b.ru
+127.0.0.1	qm9.i-78b.ru
+127.0.0.1	u1.i-78b.ru
+127.0.0.1	chaos.bitcialtrone.com
+127.0.0.1	chaos.web.thegoodfeeder.xyz
+127.0.0.1	jamesriver-ins.com
+127.0.0.1	packetley.com
+127.0.0.1	h.i-78b.ru
+127.0.0.1	zd.i-88b.ru
+127.0.0.1	r2.i-88b.ru
+127.0.0.1	wq9.i-88b.ru
+127.0.0.1	ex.mzvo7.ru
+127.0.0.1	fa.nqju5.ru
+127.0.0.1	c7.i-88b.ru
+127.0.0.1	ew.mzvo7.ru
+127.0.0.1	derfonlyadenmokrsw.com
+127.0.0.1	hisikolarionfire.com
+127.0.0.1	fasiokiurtuiolkads.com
+127.0.0.1	dakiloifhsnuukka.com
+127.0.0.1	erahitopupikloss.com
+127.0.0.1	n.i-88b.ru
+127.0.0.1	er.mzvo7.ru
+127.0.0.1	es.mzvo7.ru
+127.0.0.1	et.mzvo7.ru
+127.0.0.1	k9.i-76t.ru
+127.0.0.1	a7.nibulu.ru
+127.0.0.1	rv.nibulu.ru
+127.0.0.1	t9.nibulu.ru
+127.0.0.1	x2.nibulu.ru
+127.0.0.1	h1n.nibulu.ru
+127.0.0.1	zq.nibulu.ru
+127.0.0.1	h3.bowibo.ru
+127.0.0.1	s.bowibo.ru
+127.0.0.1	storsvc-win.com
+127.0.0.1	pl.bowibo.ru
+127.0.0.1	x.bowibo.ru
+127.0.0.1	aeropeics.com
+127.0.0.1	m2.bowibo.ru
+127.0.0.1	qb.bowibo.ru
+127.0.0.1	z9m.bowibo.ru
+127.0.0.1	m7.i-76t.ru
 127.0.0.1	tq1.i-76t.ru
 127.0.0.1	home.wtt.ink
 127.0.0.1	eririego.top
@@ -43297,26 +43356,4 @@
 127.0.0.1	job.baiqingee.com
 127.0.0.1	cstest.iqiyic.icu
 127.0.0.1	fluheror.run
-127.0.0.1	k.veuwb.live
-127.0.0.1	i.jolttapestry.fun
-127.0.0.1	rlxspoty.run
-127.0.0.1	jrxsafer.top
-127.0.0.1	krxspint.digital
-127.0.0.1	rhxhube.run
-127.0.0.1	grxeasyw.digital
-127.0.0.1	rdmetrics.ru
-127.0.0.1	sub.item518475621531819.fbads.store
-127.0.0.1	item513125621531816.fbads.store
-127.0.0.1	acc.fbads.store
-127.0.0.1	mailbusiness3.fbads.store
-127.0.0.1	gui.fbads.store
-127.0.0.1	id4.fbads.store
-127.0.0.1	23-227-202-141.static.hvvc.us
-127.0.0.1	bukaman.shop
-127.0.0.1	a.uueui.shop
-127.0.0.1	b1.uueui.shop
-127.0.0.1	kestim.shop
-127.0.0.1	chukwuonye.duckdns.org
-127.0.0.1	dcdh4.shop
-127.0.0.1	eiesystems.com
-# Number of entries: 43313
+# Number of entries: 43350
