@@ -1,11 +1,29 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-03 10:01:41 UTC                        #
+# Last updated: 2025-10-03 12:20:08 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	xu.kfko-3.ru
+127.0.0.1	tylorperry.com
+127.0.0.1	m7.jwm-3-e.ru
+127.0.0.1	uh.tfba6.ru
+127.0.0.1	un.tfba6.ru
+127.0.0.1	um.tfba6.ru
+127.0.0.1	xi.kfko-3.ru
+127.0.0.1	tq1.jwm-3-e.ru
+127.0.0.1	b2.jwm-3-e.ru
+127.0.0.1	x.jwm-3-e.ru
+127.0.0.1	ti.tfba6.ru
+127.0.0.1	re.sxqy9.ru
+127.0.0.1	sh.sxqy9.ru
+127.0.0.1	so.sxqy9.ru
+127.0.0.1	si.sxqy9.ru
+127.0.0.1	ta.sxqy9.ru
+127.0.0.1	n0.hqs-9-i.ru
+127.0.0.1	e1.hqs-9-i.ru
 127.0.0.1	qk2.hqs-9-i.ru
 127.0.0.1	u5.hqs-9-i.ru
 127.0.0.1	qi.sqfe6.ru
@@ -43465,5 +43483,4 @@
 127.0.0.1	tesra.shop
 127.0.0.1	freshyu.digital
 127.0.0.1	ywmedici.top
-127.0.0.1	webproinc.com
-# Number of entries: 43460
+# Number of entries: 43477
