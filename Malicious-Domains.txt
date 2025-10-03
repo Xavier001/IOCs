@@ -1,11 +1,25 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-02 21:46:07 UTC                        #
+# Last updated: 2025-10-03 02:10:41 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	l.dxp-5-y.ru
+127.0.0.1	aa.dvn-4-i.ru
+127.0.0.1	ab.qgf-5-e.ru
+127.0.0.1	h1.dvn-4-i.ru
+127.0.0.1	aa.qgf-5-e.ru
+127.0.0.1	pz8.dvn-4-i.ru
+127.0.0.1	w4.dvn-4-i.ru
+127.0.0.1	o.qgf-5-e.ru
+127.0.0.1	d.dvn-4-i.ru
+127.0.0.1	hm.cpc-8-u.ru
+127.0.0.1	t1.cpc-8-u.ru
+127.0.0.1	qz9.cpc-8-u.ru
+127.0.0.1	v2.cpc-8-u.ru
+127.0.0.1	k.cpc-8-u.ru
 127.0.0.1	m6.u-66r.ru
 127.0.0.1	rp.jullianacalhau.com.br
 127.0.0.1	t1.u-66r.ru
@@ -43352,8 +43366,4 @@
 127.0.0.1	serviceverifcloudv.com
 127.0.0.1	o.coccos.live
 127.0.0.1	000-00-000.pages.dev
-127.0.0.1	login-us.farmandconstructionequipment.com
-127.0.0.1	job.baiqingee.com
-127.0.0.1	cstest.iqiyic.icu
-127.0.0.1	fluheror.run
-# Number of entries: 43350
+# Number of entries: 43360
