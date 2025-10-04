@@ -1,11 +1,66 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-04 12:07:58 UTC                        #
+# Last updated: 2025-10-04 21:09:20 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	xt.faqyhi.ru
+127.0.0.1	n5.faqyhi.ru
+127.0.0.1	hm.0-g845.ru
+127.0.0.1	t1.0-g845.ru
+127.0.0.1	b.faqyhi.ru
+127.0.0.1	x.kudaxy.ru
+127.0.0.1	qz9.0-g845.ru
+127.0.0.1	h9m.kudaxy.ru
+127.0.0.1	tq.kudaxy.ru
+127.0.0.1	v2.0-g845.ru
+127.0.0.1	k.0-g845.ru
+127.0.0.1	z1.kudaxy.ru
+127.0.0.1	k4.p-13a.ru
+127.0.0.1	bd.kudaxy.ru
+127.0.0.1	q7.kudaxy.ru
+127.0.0.1	z3.p-13a.ru
+127.0.0.1	g.kudaxy.ru
+127.0.0.1	h7.focove.ru
+127.0.0.1	qm9.p-13a.ru
+127.0.0.1	pv.focove.ru
+127.0.0.1	u1.p-13a.ru
+127.0.0.1	da.tqh-2-e.ru
+127.0.0.1	h.p-13a.ru
+127.0.0.1	a1.focove.ru
+127.0.0.1	listings-stop.gl.at.ply.gg
+127.0.0.1	january-sitemap.gl.at.ply.gg
+127.0.0.1	mean-disease.gl.at.ply.gg
+127.0.0.1	zt.focove.ru
+127.0.0.1	ch.xxx-2-u.ru
+127.0.0.1	zd.j-31u.ru
+127.0.0.1	n3.focove.ru
+127.0.0.1	e.focove.ru
+127.0.0.1	r2.j-31u.ru
+127.0.0.1	hi.xrxo2.ru
+127.0.0.1	ho.xrxo2.ru
+127.0.0.1	if.xrxo2.ru
+127.0.0.1	wq9.j-31u.ru
+127.0.0.1	in.xrxo2.ru
+127.0.0.1	c7.j-31u.ru
+127.0.0.1	n.j-31u.ru
+127.0.0.1	lo.tvti-0.ru
+127.0.0.1	li.tvti-0.ru
+127.0.0.1	k9.n-82o.ru
+127.0.0.1	ma.tvti-0.ru
+127.0.0.1	me.tvti-0.ru
+127.0.0.1	m7.n-82o.ru
+127.0.0.1	tq1.n-82o.ru
+127.0.0.1	mm.vwjy-7.ru
+127.0.0.1	mi.tvti-0.ru
+127.0.0.1	b2.n-82o.ru
+127.0.0.1	my.vwjy-7.ru
+127.0.0.1	mu.vwjy-7.ru
+127.0.0.1	mo.vwjy-7.ru
+127.0.0.1	x.n-82o.ru
+127.0.0.1	n0.m-49e.ru
 127.0.0.1	na.vwjy-7.ru
 127.0.0.1	e1.m-49e.ru
 127.0.0.1	effect-meet.gl.at.ply.gg
@@ -43719,14 +43774,4 @@
 127.0.0.1	dtdgsbsfg.localto.net
 127.0.0.1	autodiscover.ora-0-web.com
 127.0.0.1	mail.a.ora-0-web.com
-127.0.0.1	yuiwan.com
-127.0.0.1	check.gekan.icu
-127.0.0.1	gededewe.shop
-127.0.0.1	anlarilblspureuk.duckdns.org
-127.0.0.1	lancasternh.com
-127.0.0.1	phpmyadmin.emeraldpineventures.com
-127.0.0.1	server.neugumma.monster
-127.0.0.1	run.fox-chair-dust.xyz
-127.0.0.1	check.kedep.icu
-127.0.0.1	4jvm9hwq0d2j4.cfc-execute.gz.baidubce.com
-# Number of entries: 43723
+# Number of entries: 43768
