@@ -1,11 +1,28 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-04 10:10:39 UTC                        #
+# Last updated: 2025-10-04 12:07:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	na.vwjy-7.ru
+127.0.0.1	e1.m-49e.ru
+127.0.0.1	effect-meet.gl.at.ply.gg
+127.0.0.1	northern-unwrap.gl.at.ply.gg
+127.0.0.1	tu.pvzi-1.ru
+127.0.0.1	ty.pvzi-1.ru
+127.0.0.1	va.pvzi-1.ru
+127.0.0.1	ve.pvzi-1.ru
+127.0.0.1	qk2.m-49e.ru
+127.0.0.1	u5.m-49e.ru
+127.0.0.1	r.m-49e.ru
+127.0.0.1	sy.phpa-3.ru
+127.0.0.1	te.pvzi-1.ru
+127.0.0.1	dctask8000.ydns.eu
+127.0.0.1	bo.xxx-2-u.ru
+127.0.0.1	shim1.enrouteltd.com
+127.0.0.1	shim1.umbandung.ac.id
 127.0.0.1	r3.l-75y.ru
 127.0.0.1	bi.xxx-2-u.ru
 127.0.0.1	be.xxx-2-u.ru
@@ -43712,12 +43729,4 @@
 127.0.0.1	run.fox-chair-dust.xyz
 127.0.0.1	check.kedep.icu
 127.0.0.1	4jvm9hwq0d2j4.cfc-execute.gz.baidubce.com
-127.0.0.1	net-5-88-105-146.cust.vodafonedsl.it
-127.0.0.1	vds2386299.my-ihor.ru
-127.0.0.1	neathealth.online
-127.0.0.1	j00.lol
-127.0.0.1	soft-metal-software.cfd
-127.0.0.1	gilokio.website
-127.0.0.1	dynamic-summit-cfd.cfd
-127.0.0.1	tenacious-axiom-8.cfd
-# Number of entries: 43714
+# Number of entries: 43723
