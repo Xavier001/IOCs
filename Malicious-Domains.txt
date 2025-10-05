@@ -1,11 +1,43 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-05 10:09:41 UTC                        #
+# Last updated: 2025-10-05 12:02:41 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	oqslpwgyxjfbxp.top
+127.0.0.1	basis-appropriations.gl.at.ply.gg
+127.0.0.1	canadian-inexpensive.gl.at.ply.gg
+127.0.0.1	tree-assistance.gl.at.ply.gg
+127.0.0.1	wq9.7-j230.ru
+127.0.0.1	er.xhs-8-e.ru
+127.0.0.1	c7.7-j230.ru
+127.0.0.1	et.xhs-8-e.ru
+127.0.0.1	n.7-j230.ru
+127.0.0.1	es.xhs-8-e.ru
+127.0.0.1	k9.2-j695.ru
+127.0.0.1	genuspt.pics
+127.0.0.1	glimmed.pics
+127.0.0.1	spideri.pics
+127.0.0.1	likeheb.pics
+127.0.0.1	anteria.pics
+127.0.0.1	qz.g601c.ru
+127.0.0.1	m9.g601c.ru
+127.0.0.1	r1.g601c.ru
+127.0.0.1	x.g601c.ru
+127.0.0.1	tn.g601c.ru
+127.0.0.1	v2n.g601c.ru
+127.0.0.1	e.f926m.ru
+127.0.0.1	n3.f926m.ru
+127.0.0.1	zt.f926m.ru
+127.0.0.1	a1.f926m.ru
+127.0.0.1	pv.f926m.ru
+127.0.0.1	h7.f926m.ru
+127.0.0.1	xq9.f926m.ru
+127.0.0.1	universal-analytics-cdn.org
+127.0.0.1	m7.2-j695.ru
+127.0.0.1	tq1.2-j695.ru
 127.0.0.1	b2.2-j695.ru
 127.0.0.1	x.2-j695.ru
 127.0.0.1	n0.4-j722.ru
@@ -43815,5 +43847,4 @@
 127.0.0.1	autodiscover.b.ora-0-web.com
 127.0.0.1	account.farmandconstructionequipment.com
 127.0.0.1	debian.whoareu.top
-127.0.0.1	test44401.duckdns.org
-# Number of entries: 43810
+# Number of entries: 43841
