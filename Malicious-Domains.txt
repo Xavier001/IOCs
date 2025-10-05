@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-04 21:09:20 UTC                        #
+# Last updated: 2025-10-05 03:47:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	eh.dbc-8-i.ru
+127.0.0.1	c5.9-f566.ru
+127.0.0.1	l.9-f566.ru
+127.0.0.1	ef.dbc-8-i.ru
+127.0.0.1	aa.0-c448.ru
+127.0.0.1	h1.0-c448.ru
+127.0.0.1	pz8.0-c448.ru
+127.0.0.1	w4.0-c448.ru
+127.0.0.1	d.0-c448.ru
 127.0.0.1	xt.faqyhi.ru
 127.0.0.1	n5.faqyhi.ru
 127.0.0.1	hm.0-g845.ru
@@ -43772,6 +43781,4 @@
 127.0.0.1	cloud.amazehome.xyz
 127.0.0.1	music.amazehome.xyz
 127.0.0.1	dtdgsbsfg.localto.net
-127.0.0.1	autodiscover.ora-0-web.com
-127.0.0.1	mail.a.ora-0-web.com
-# Number of entries: 43768
+# Number of entries: 43775
