@@ -1,11 +1,41 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-05 12:02:41 UTC                        #
+# Last updated: 2025-10-05 21:01:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hm.h-29i.ru
+127.0.0.1	t1.h-29i.ru
+127.0.0.1	qz9.h-29i.ru
+127.0.0.1	v2.h-29i.ru
+127.0.0.1	k.h-29i.ru
+127.0.0.1	m6.4-z493.ru
+127.0.0.1	t1.4-z493.ru
+127.0.0.1	qz9.4-z493.ru
+127.0.0.1	v2.4-z493.ru
+127.0.0.1	k.4-z493.ru
+127.0.0.1	b1.6-b408.ru
+127.0.0.1	g4.6-b408.ru
+127.0.0.1	pm7.6-b408.ru
+127.0.0.1	k4.6-b408.ru
+127.0.0.1	alskaskao44242.dynuddns.com
+127.0.0.1	practice-pf.gl.at.ply.gg
+127.0.0.1	different-walt.gl.at.ply.gg
+127.0.0.1	y.6-b408.ru
+127.0.0.1	person-expansion.gl.at.ply.gg
+127.0.0.1	k4.3-c719.ru
+127.0.0.1	z3.3-c719.ru
+127.0.0.1	qm9.3-c719.ru
+127.0.0.1	u1.3-c719.ru
+127.0.0.1	a.tqh2e.ru
+127.0.0.1	h.3-c719.ru
+127.0.0.1	login.formall.org
+127.0.0.1	zd.7-j230.ru
+127.0.0.1	ex.xhs-8-e.ru
+127.0.0.1	r2.7-j230.ru
+127.0.0.1	ew.xhs-8-e.ru
 127.0.0.1	oqslpwgyxjfbxp.top
 127.0.0.1	basis-appropriations.gl.at.ply.gg
 127.0.0.1	canadian-inexpensive.gl.at.ply.gg
@@ -43847,4 +43877,4 @@
 127.0.0.1	autodiscover.b.ora-0-web.com
 127.0.0.1	account.farmandconstructionequipment.com
 127.0.0.1	debian.whoareu.top
-# Number of entries: 43841
+# Number of entries: 43871
