@@ -1,11 +1,76 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-06 12:29:57 UTC                        #
+# Last updated: 2025-10-06 21:57:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	by.xzb6i.ru
+127.0.0.1	m6.d-76u.ru
+127.0.0.1	thretadm.sbs
+127.0.0.1	fivadm.sbs
+127.0.0.1	onsevadm.sbs
+127.0.0.1	tesshi.live
+127.0.0.1	fouradm.sbs
+127.0.0.1	t1.d-76u.ru
+127.0.0.1	qz9.d-76u.ru
+127.0.0.1	v2.d-76u.ru
+127.0.0.1	noreply1.resgatarcupomipirang.org
+127.0.0.1	api.transbankdevelopers.com
+127.0.0.1	purplehax.com
+127.0.0.1	k.d-76u.ru
+127.0.0.1	b1.w-45u.ru
+127.0.0.1	pdfs.vototao9.ru
+127.0.0.1	g4.w-45u.ru
+127.0.0.1	pm7.w-45u.ru
+127.0.0.1	k4.w-45u.ru
+127.0.0.1	select-laura.gl.at.ply.gg
+127.0.0.1	gloria.freeddns.org
+127.0.0.1	dad9idois-24522.portmap.host
+127.0.0.1	y.w-45u.ru
+127.0.0.1	k4.v-36u.ru
+127.0.0.1	h1.ryzuka.ru
+127.0.0.1	v3.ryzuka.ru
+127.0.0.1	ns3.sotawatanabi.trade
+127.0.0.1	ns2.littllee365c.top
+127.0.0.1	ns2.sotawatanabi.trade
+127.0.0.1	ns1.littllee365c.top
+127.0.0.1	ns1.sotawatanabi.trade
+127.0.0.1	z3.v-36u.ru
+127.0.0.1	ho.andreicerbu.com
+127.0.0.1	ho.gulfscholarships.com
+127.0.0.1	s.ryzuka.ru
+127.0.0.1	r9.kyhely.ru
+127.0.0.1	t1n.kyhely.ru
+127.0.0.1	api.formall.org
+127.0.0.1	qm9.v-36u.ru
+127.0.0.1	pc.kyhely.ru
+127.0.0.1	x2j.kyhely.ru
+127.0.0.1	bq.kyhely.ru
+127.0.0.1	u1.v-36u.ru
+127.0.0.1	h.v-36u.ru
+127.0.0.1	a.kyhely.ru
+127.0.0.1	m8.kyhely.ru
+127.0.0.1	fixstealerthebest.store
+127.0.0.1	zd.p-94u.ru
+127.0.0.1	q.bupuva.ru
+127.0.0.1	xt.bupuva.ru
+127.0.0.1	bibifarisfarilsd.com
+127.0.0.1	feradonmanilosaki.com
+127.0.0.1	laifedorikomakons.com
+127.0.0.1	viadigm.com
+127.0.0.1	h2.bupuva.ru
+127.0.0.1	wz.bupuva.ru
+127.0.0.1	k0n.bupuva.ru
+127.0.0.1	r2.p-94u.ru
+127.0.0.1	c7.p-94u.ru
+127.0.0.1	n.p-94u.ru
+127.0.0.1	b.bupuva.ru
+127.0.0.1	n5.bupuva.ru
+127.0.0.1	k9.w-78i.ru
+127.0.0.1	m7.w-78i.ru
+127.0.0.1	x.favezi.ru
 127.0.0.1	h9m.favezi.ru
 127.0.0.1	tq1.w-78i.ru
 127.0.0.1	q7.favezi.ru
@@ -44022,15 +44087,4 @@
 127.0.0.1	office365.farmandconstructionequipment.com
 127.0.0.1	ec2-18-138-195-208.ap-southeast-1.compute.amazonaws.com
 127.0.0.1	coi.coicoi.filegear-sg.me
-127.0.0.1	candidt.live
-127.0.0.1	ingotyxx.live
-127.0.0.1	liberatuie.run
-127.0.0.1	styleclinic-beautyicon.shop
-127.0.0.1	landing.survival-kitz.co
-127.0.0.1	javv-46764.portmap.host
-127.0.0.1	would-perspectives.gl.at.ply.gg
-127.0.0.1	plantainklj.run
-127.0.0.1	f4jr3v36b1sd7.cfc-execute.bj.baidubce.com
-127.0.0.1	cbqk67k2sd04d.cfc-execute.bj.baidubce.com
-127.0.0.1	af5n6505ezcdp.cfc-execute.bj.baidubce.com
-# Number of entries: 44027
+# Number of entries: 44081
