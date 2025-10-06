@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-05 21:01:56 UTC                        #
+# Last updated: 2025-10-06 03:47:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	xq0.f-07y.ru
+127.0.0.1	c5.f-07y.ru
+127.0.0.1	frienel-blog.duckdns.org
+127.0.0.1	api.updatesreview.com
+127.0.0.1	l.f-07y.ru
+127.0.0.1	aa.m-05o.ru
+127.0.0.1	h1.m-05o.ru
+127.0.0.1	pz8.m-05o.ru
+127.0.0.1	d.m-05o.ru
 127.0.0.1	hm.h-29i.ru
 127.0.0.1	t1.h-29i.ru
 127.0.0.1	qz9.h-29i.ru
@@ -43871,10 +43880,4 @@
 127.0.0.1	captcha-verify-2q7y.com
 127.0.0.1	captcha-verify-6r4x.com
 127.0.0.1	pepperiop.digital
-127.0.0.1	mail.e.multi-canale.com
-127.0.0.1	cpcalendars.b.multi-canale.com
-127.0.0.1	mail.eversioneweb.com
-127.0.0.1	autodiscover.b.ora-0-web.com
-127.0.0.1	account.farmandconstructionequipment.com
-127.0.0.1	debian.whoareu.top
-# Number of entries: 43871
+# Number of entries: 43874
