@@ -1,11 +1,29 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-06 09:55:46 UTC                        #
+# Last updated: 2025-10-06 12:29:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	h9m.favezi.ru
+127.0.0.1	tq1.w-78i.ru
+127.0.0.1	q7.favezi.ru
+127.0.0.1	bd.favezi.ru
+127.0.0.1	z1.favezi.ru
+127.0.0.1	tq.favezi.ru
+127.0.0.1	lsoj0-51746.portmap.host
+127.0.0.1	reservasdelmar888.duckdns.org
+127.0.0.1	x.w-78i.ru
+127.0.0.1	g.favezi.ru
+127.0.0.1	sm4.vototao9.ru
+127.0.0.1	xq9.pisora.ru
+127.0.0.1	d.pisora.ru
+127.0.0.1	n3.pisora.ru
+127.0.0.1	zx.pisora.ru
+127.0.0.1	a1.pisora.ru
+127.0.0.1	pv.pisora.ru
+127.0.0.1	h7.pisora.ru
 127.0.0.1	b2.w-78i.ru
 127.0.0.1	n0.h-23u.ru
 127.0.0.1	e1.h-23u.ru
@@ -44015,4 +44033,4 @@
 127.0.0.1	f4jr3v36b1sd7.cfc-execute.bj.baidubce.com
 127.0.0.1	cbqk67k2sd04d.cfc-execute.bj.baidubce.com
 127.0.0.1	af5n6505ezcdp.cfc-execute.bj.baidubce.com
-# Number of entries: 44009
+# Number of entries: 44027
