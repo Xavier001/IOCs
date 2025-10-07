@@ -1,11 +1,87 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-07 12:22:21 UTC                        #
+# Last updated: 2025-10-07 22:08:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	b1.x-6kox.ru
+127.0.0.1	aw.xkx0o.ru
+127.0.0.1	g4.x-6kox.ru
+127.0.0.1	ax.xkx0o.ru
+127.0.0.1	pm7.x-6kox.ru
+127.0.0.1	k4.x-6kox.ru
+127.0.0.1	am.xkx0o.ru
+127.0.0.1	oh.cpc8u.ru
+127.0.0.1	y.x-6kox.ru
+127.0.0.1	ah.cpc8u.ru
+127.0.0.1	ok.cpc8u.ru
+127.0.0.1	dcnewton5552.duckdns.org
+127.0.0.1	dccomicrat81.duckdns.org
+127.0.0.1	dc9887.duckdns.org
+127.0.0.1	dc9977.duckdns.org
+127.0.0.1	m8.w9k6m9.ru
+127.0.0.1	k4.c-3dax.ru
+127.0.0.1	hi.cpc8u.ru
+127.0.0.1	wz.c2x0b1.ru
+127.0.0.1	a.w9k6m9.ru
+127.0.0.1	so.cpc8u.ru
+127.0.0.1	h2.c2x0b1.ru
+127.0.0.1	z3.c-3dax.ru
+127.0.0.1	g.s4m7v4.ru
+127.0.0.1	q7.s4m7v4.ru
+127.0.0.1	bd.s4m7v4.ru
+127.0.0.1	z1.s4m7v4.ru
+127.0.0.1	tq.s4m7v4.ru
+127.0.0.1	h9m.s4m7v4.ru
+127.0.0.1	x.s4m7v4.ru
+127.0.0.1	b.c2x0b1.ru
+127.0.0.1	n5.c2x0b1.ru
+127.0.0.1	bookings.escapesdollars.com
+127.0.0.1	images.inversionflorida.com
+127.0.0.1	panel.futurainternationalrealty.com
+127.0.0.1	files.cellustrong.com
+127.0.0.1	xt.c2x0b1.ru
+127.0.0.1	concept.mexicanstays.com
+127.0.0.1	cpanel.experiencejiujitsu.com
+127.0.0.1	q.c2x0b1.ru
+127.0.0.1	townnoise.xyz
+127.0.0.1	religionjudge.info
+127.0.0.1	qm9.c-3dax.ru
+127.0.0.1	dramendralux.shop
+127.0.0.1	executive-bath.gl.at.ply.gg
+127.0.0.1	career-sm.gl.at.ply.gg
+127.0.0.1	hitrol-60505.portmap.host
+127.0.0.1	u1.c-3dax.ru
+127.0.0.1	h.c-3dax.ru
+127.0.0.1	zd.z-0xug.ru
+127.0.0.1	r2.z-0xug.ru
+127.0.0.1	wq9.z-0xug.ru
+127.0.0.1	on.vzj1o.ru
+127.0.0.1	c7.z-0xug.ru
+127.0.0.1	xq9.b5k6f4.ru
+127.0.0.1	n.z-0xug.ru
+127.0.0.1	h7.b5k6f4.ru
+127.0.0.1	cfb8.ba5eq.ru
+127.0.0.1	k9.n-7sol.ru
+127.0.0.1	app.orlandodiscounts.com
+127.0.0.1	n3.b5k6f4.ru
+127.0.0.1	zt.b5k6f4.ru
+127.0.0.1	a1.b5k6f4.ru
+127.0.0.1	pv.b5k6f4.ru
+127.0.0.1	m7.n-7sol.ru
+127.0.0.1	n0.n-4daw.ru
+127.0.0.1	z9m.v9r3g1.ru
+127.0.0.1	e.b5k6f4.ru
+127.0.0.1	tq1.n-7sol.ru
+127.0.0.1	m2.v9r3g1.ru
+127.0.0.1	qb.v9r3g1.ru
+127.0.0.1	b2.n-7sol.ru
+127.0.0.1	netsupportsoftware.org
+127.0.0.1	x.v9r3g1.ru
+127.0.0.1	x.n-7sol.ru
+127.0.0.1	no.frl0i.ru
 127.0.0.1	s.v9r3g1.ru
 127.0.0.1	h3.v9r3g1.ru
 127.0.0.1	amgi1.com
@@ -44145,35 +44221,4 @@
 127.0.0.1	cpcontacts.d.multi-canale.com
 127.0.0.1	autodiscover.d.ora-0-web.com
 127.0.0.1	ec2-13-61-8-192.eu-north-1.compute.amazonaws.com
-127.0.0.1	hosting10-38853.portmap.io
-127.0.0.1	language-apnic.gl.at.ply.gg
-127.0.0.1	tesifa-38287.portmap.io
-127.0.0.1	nzobaku.ddns.net
-127.0.0.1	somsom22.duckdns.org
-127.0.0.1	officer-nec.gl.at.ply.gg
-127.0.0.1	service.neugumma.my
-127.0.0.1	heavendie.no-ip.org
-127.0.0.1	zestyasd.run
-127.0.0.1	cureboto.run
-127.0.0.1	requesttendency.icu
-127.0.0.1	demo.spfspassa.xyz
-127.0.0.1	old.spfspassa.xyz
-127.0.0.1	gbtx.duckdns.org
-127.0.0.1	transxx.duckdns.org
-127.0.0.1	texz.jhpublicaffairs.ie
-127.0.0.1	qx.ap.4t.com
-127.0.0.1	opimendu.digital
-127.0.0.1	h1.catnipreggae.shop
-127.0.0.1	easyfwdr.digital
-127.0.0.1	reformzv.digital
-127.0.0.1	hopezx.run
-127.0.0.1	reboundui.live
-127.0.0.1	puerrogfh.live
-127.0.0.1	quavabvc.top
-127.0.0.1	furthert.run
-127.0.0.1	rambutanvcx.run
-127.0.0.1	cf.jolttapestry.fun
-127.0.0.1	6rzj5pnk8zqwt.cfc-execute.bj.baidubce.com
-127.0.0.1	yt3cvkj43ws.pages.dev
-127.0.0.1	nhgfdc-ok.pages.dev
-# Number of entries: 44170
+# Number of entries: 44215
