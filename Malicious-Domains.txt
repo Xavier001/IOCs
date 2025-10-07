@@ -1,11 +1,42 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-07 09:30:53 UTC                        #
+# Last updated: 2025-10-07 12:22:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	s.v9r3g1.ru
+127.0.0.1	h3.v9r3g1.ru
+127.0.0.1	amgi1.com
+127.0.0.1	pl.v9r3g1.ru
+127.0.0.1	my.frl0i.ru
+127.0.0.1	e1.n-4daw.ru
+127.0.0.1	offer-relationships.gl.at.ply.gg
+127.0.0.1	times-initially.gl.at.ply.gg
+127.0.0.1	dckis9.duckdns.org
+127.0.0.1	scooptownscarwash.com
+127.0.0.1	taxlogs.linkpc.net
+127.0.0.1	premiemclient-4570.work.gd
+127.0.0.1	refrech.duckdns.org
+127.0.0.1	me.frl0i.ru
+127.0.0.1	h9.w9v5r4.ru
+127.0.0.1	x8n.w9v5r4.ru
+127.0.0.1	qk2.n-4daw.ru
+127.0.0.1	u5.n-4daw.ru
+127.0.0.1	a.x7f4g2.ru
+127.0.0.1	n3.x7f4g2.ru
+127.0.0.1	zc.x7f4g2.ru
+127.0.0.1	t1.x7f4g2.ru
+127.0.0.1	h7m.x7f4g2.ru
+127.0.0.1	x.x7f4g2.ru
+127.0.0.1	p9.x7f4g2.ru
+127.0.0.1	g.w9v5r4.ru
+127.0.0.1	q4.w9v5r4.ru
+127.0.0.1	bd.w9v5r4.ru
+127.0.0.1	z1.w9v5r4.ru
+127.0.0.1	tq.w9v5r4.ru
+127.0.0.1	r.n-4daw.ru
 127.0.0.1	r3.q-5ket.ru
 127.0.0.1	k7.q-5ket.ru
 127.0.0.1	www.flywing.online
@@ -44145,8 +44176,4 @@
 127.0.0.1	6rzj5pnk8zqwt.cfc-execute.bj.baidubce.com
 127.0.0.1	yt3cvkj43ws.pages.dev
 127.0.0.1	nhgfdc-ok.pages.dev
-127.0.0.1	myvrhost.viottoholdings.com
-127.0.0.1	myaccount.up-edu-mx.shop
-127.0.0.1	accounts.up-edu-mx.shop
-127.0.0.1	gecsge4e1e5427f8.com
-# Number of entries: 44143
+# Number of entries: 44170
