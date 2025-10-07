@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-06 21:57:54 UTC                        #
+# Last updated: 2025-10-07 01:48:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	t1.x-7daf.ru
+127.0.0.1	if.xzb6i.ru
+127.0.0.1	he.xzb6i.ru
+127.0.0.1	qz9.x-7daf.ru
+127.0.0.1	go.xzb6i.ru
+127.0.0.1	v2.x-7daf.ru
+127.0.0.1	k.x-7daf.ru
+127.0.0.1	do.xzb6i.ru
 127.0.0.1	by.xzb6i.ru
 127.0.0.1	m6.d-76u.ru
 127.0.0.1	thretadm.sbs
@@ -44084,7 +44092,4 @@
 127.0.0.1	ec2-54-68-184-184.us-west-2.compute.amazonaws.com
 127.0.0.1	ec2-13-238-124-252.ap-southeast-2.compute.amazonaws.com
 127.0.0.1	foryoumedical.ddns.net
-127.0.0.1	office365.farmandconstructionequipment.com
-127.0.0.1	ec2-18-138-195-208.ap-southeast-1.compute.amazonaws.com
-127.0.0.1	coi.coicoi.filegear-sg.me
-# Number of entries: 44081
+# Number of entries: 44086
