@@ -1,23 +1,87 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-08 03:55:20 UTC                        #
+# Last updated: 2025-10-08 09:55:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	m2.p-99o.ru
+127.0.0.1	aa9.p-99o.ru
+127.0.0.1	rd.rv2o5.ru
+127.0.0.1	xq0.p-99o.ru
+127.0.0.1	pdz.rv2o5.ru
+127.0.0.1	l.p-99o.ru
+127.0.0.1	hv3.rv2o5.ru
+127.0.0.1	shreejayjalaramgroup.com
+127.0.0.1	sr.rv2o5.ru
+127.0.0.1	tj.rv2o5.ru
+127.0.0.1	aa.m-77u.ru
+127.0.0.1	fg.r.ap-execcompliance.vu
+127.0.0.1	tr.d.thejackdawsfly.in
+127.0.0.1	bg.cdn.riannarusu.com
+127.0.0.1	bg.cdn.ahmadarief.com
+127.0.0.1	rf.o.leangeeks.am
+127.0.0.1	tre.m.astrum.vu
+127.0.0.1	go.4.thejackdawsfly.in
+127.0.0.1	h1.m-77u.ru
+127.0.0.1	pz8.m-77u.ru
+127.0.0.1	aue.xr7a0.ru
+127.0.0.1	vps.denissalazar.com
+127.0.0.1	b.yuxuanow.top
+127.0.0.1	w4.m-77u.ru
+127.0.0.1	w4l.xr7a0.ru
+127.0.0.1	d.m-77u.ru
+127.0.0.1	pkf.xr7a0.ru
+127.0.0.1	hm.k-72o.ru
+127.0.0.1	l1.xr7a0.ru
+127.0.0.1	death-net.duckdns.org
+127.0.0.1	lite511.ddns.net
+127.0.0.1	t1.k-72o.ru
+127.0.0.1	axctofwar.correola-com.top
+127.0.0.1	myfreeenedd.ru
+127.0.0.1	srzozkwog.localto.net
+127.0.0.1	vh7.xr7a0.ru
+127.0.0.1	files-health.gl.at.ply.gg
+127.0.0.1	l5shrnoej.localto.net
+127.0.0.1	qz9.k-72o.ru
+127.0.0.1	gq9.xr7a0.ru
+127.0.0.1	s.w5j7z0.ru
+127.0.0.1	h1.w5j7z0.ru
+127.0.0.1	t1n.w9k6m9.ru
+127.0.0.1	r9.w9k6m9.ru
+127.0.0.1	bq.w9k6m9.ru
+127.0.0.1	x2j.w9k6m9.ru
+127.0.0.1	pc.w9k6m9.ru
+127.0.0.1	v2.k-72o.ru
+127.0.0.1	h5z.xr7a0.ru
+127.0.0.1	k.k-72o.ru
+127.0.0.1	vk.fk9e2.ru
+127.0.0.1	au.fk9e2.ru
+127.0.0.1	m6.b-9lyb.ru
+127.0.0.1	36.fk9e2.ru
+127.0.0.1	mail.bels.pw
 127.0.0.1	t1.b-9lyb.ru
+127.0.0.1	vd.fk9e2.ru
 127.0.0.1	id.dvn4i.ru
+127.0.0.1	4ia.fk9e2.ru
 127.0.0.1	qz9.b-9lyb.ru
+127.0.0.1	s04.fk9e2.ru
 127.0.0.1	ho.xkx0o.ru
 127.0.0.1	ha.xkx0o.ru
+127.0.0.1	2xh.fk9e2.ru
+127.0.0.1	1m.w5j7z0.ru
 127.0.0.1	v2.b-9lyb.ru
+127.0.0.1	c8.w5j7z0.ru
 127.0.0.1	ay.xkx0o.ru
 127.0.0.1	k.b-9lyb.ru
+127.0.0.1	p0.w5j7z0.ru
 127.0.0.1	b1.x-6kox.ru
 127.0.0.1	aw.xkx0o.ru
+127.0.0.1	0zq.w5j7z0.ru
 127.0.0.1	g4.x-6kox.ru
 127.0.0.1	ax.xkx0o.ru
+127.0.0.1	v3.w5j7z0.ru
 127.0.0.1	pm7.x-6kox.ru
 127.0.0.1	k4.x-6kox.ru
 127.0.0.1	am.xkx0o.ru
@@ -44202,28 +44266,4 @@
 127.0.0.1	www.bbabet.pro
 127.0.0.1	www.-design.tech
 127.0.0.1	rhrexa.duckdns.org
-127.0.0.1	check.riced.icu
-127.0.0.1	cpanel.a.ora-0-web.com
-127.0.0.1	ezdoll.shop
-127.0.0.1	ototoiititiakkfkfk.com
-127.0.0.1	qd.ap.4t.com
-127.0.0.1	bragawhitx.duckdns.org
-127.0.0.1	grebolugvtx.duckdns.org
-127.0.0.1	joyousczx.live
-127.0.0.1	palpableafs.live
-127.0.0.1	advancesg.live
-127.0.0.1	transporting-displays.with.playit.plus
-127.0.0.1	brkksylunm.duckdns.org
-127.0.0.1	srlyxktyxm.duckdns.org
-127.0.0.1	q32o084df.duckdns.org
-127.0.0.1	marc5858asyn.duckdns.org
-127.0.0.1	keyhall.icu
-127.0.0.1	23-227-199-59.static.hvvc.us
-127.0.0.1	jdjmdlalamlcgfh.top
-127.0.0.1	syflejkmurbsdwp.top
-127.0.0.1	captcha-verify-9h5v.com
-127.0.0.1	cdn.horse-shadow-key.vip
-127.0.0.1	securityverifservice.com
-127.0.0.1	lawofcjdj.com
-127.0.0.1	modgears.run
-# Number of entries: 44220
+# Number of entries: 44260
