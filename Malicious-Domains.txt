@@ -1,11 +1,30 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-08 09:55:21 UTC                        #
+# Last updated: 2025-10-08 12:21:54 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	r3.t-68e.ru
+127.0.0.1	bv0n1d6w.duckdns.org
+127.0.0.1	dz1p-nn0x.duckdns.org
+127.0.0.1	widayou.duckdns.org
+127.0.0.1	nchawa.magizz.com
+127.0.0.1	k7.t-68e.ru
+127.0.0.1	jys.mt3o4.ru
+127.0.0.1	aa9.t-68e.ru
+127.0.0.1	k8u.mt3o4.ru
+127.0.0.1	v2.t-68e.ru
+127.0.0.1	zv.rv2o5.ru
+127.0.0.1	mx.rv2o5.ru
+127.0.0.1	6u1.mt3o4.ru
+127.0.0.1	hyperrbeat.top
+127.0.0.1	g.t-68e.ru
+127.0.0.1	ismailh.pics
+127.0.0.1	stevedw.pics
+127.0.0.1	fightat.pics
+127.0.0.1	citropt.pics
 127.0.0.1	m2.p-99o.ru
 127.0.0.1	aa9.p-99o.ru
 127.0.0.1	rd.rv2o5.ru
@@ -44196,74 +44215,4 @@
 127.0.0.1	customer.adroitbookkeepingsolutions.com
 127.0.0.1	gsejewelers.com
 127.0.0.1	booking.partner-id345871.com
-127.0.0.1	xai830k.com
-127.0.0.1	ikechi2.duckdns.org
-127.0.0.1	oni22.duckdns.org
-127.0.0.1	sixtyfivevsb.ydns.eu
-127.0.0.1	thirtyfivevs.crabdance.com
-127.0.0.1	www.remlinclub.online
-127.0.0.1	www.riplead.shop
-127.0.0.1	www.rvoyager.xyz
-127.0.0.1	www.ursing-home-51.bond
-127.0.0.1	www.vitream4.online
-127.0.0.1	www.wanttoliveathelena57west.net
-127.0.0.1	www.zd.online
-127.0.0.1	www.olehavenq.shop
-127.0.0.1	www.omevisionpro.online
-127.0.0.1	www.oolplusservis.online
-127.0.0.1	www.or-yes.info
-127.0.0.1	www.orcerush.xyz
-127.0.0.1	www.orldofconsumption.shop
-127.0.0.1	www.ouse-cleaning-us-6811.shop
-127.0.0.1	www.pin-win-bonanza.xyz
-127.0.0.1	www.pinrqube.shop
-127.0.0.1	www.playcash.fun
-127.0.0.1	www.portsterminal.xyz
-127.0.0.1	www.rain-pipe-cleaning-4530.bond
-127.0.0.1	www.rbitsgateway.xyz
-127.0.0.1	www.reamcloudpoint.sbs
-127.0.0.1	www.lexavegaspgs22.club
-127.0.0.1	www.linkcopilots.xyz
-127.0.0.1	www.llaadharservices.shop
-127.0.0.1	www.mescorp.online
-127.0.0.1	www.metrxip.online
-127.0.0.1	www.mployment-lawyer-near-me.cfd
-127.0.0.1	www.ngineering-near-me.cfd
-127.0.0.1	www.nimesyentai.biz
-127.0.0.1	www.nline-advertising-23082.bond
-127.0.0.1	www.nventory-software-74785.bond
-127.0.0.1	www.oans-credits-97557.bond
-127.0.0.1	www.obcases.online
-127.0.0.1	www.ocy1f.shop
-127.0.0.1	www.cnba77.sbs
-127.0.0.1	www.esignsmith.online
-127.0.0.1	www.esturist.website
-127.0.0.1	www.ewsinprague.click
-127.0.0.1	www.eyn.ltd
-127.0.0.1	www.givens.info
-127.0.0.1	www.gresale.net
-127.0.0.1	www.gvyv.cfd
-127.0.0.1	www.hewagonbox.club
-127.0.0.1	www.iabetgirisi.net
-127.0.0.1	www.iamtemp2.online
-127.0.0.1	www.igeast.xyz
-127.0.0.1	www.isspoppydesignava.shop
-127.0.0.1	www.itchellstreamhub.online
-127.0.0.1	www.ivevr.online
-127.0.0.1	www.0red.xyz
-127.0.0.1	www.17pcuo430r.shop
-127.0.0.1	www.1garagedoor.online
-127.0.0.1	www.abysitter-service-97519.bond
-127.0.0.1	www.admachin3.shop
-127.0.0.1	www.ainsdrop.fun
-127.0.0.1	www.akeit.studio
-127.0.0.1	www.ampmonkey.net
-127.0.0.1	www.apitalentryplussteerhubweb.xyz
-127.0.0.1	www.arbary.shop
-127.0.0.1	www.atchband.info
-127.0.0.1	www.atlx.net
-127.0.0.1	www.azete.biz
-127.0.0.1	www.bbabet.pro
-127.0.0.1	www.-design.tech
-127.0.0.1	rhrexa.duckdns.org
-# Number of entries: 44260
+# Number of entries: 44209
