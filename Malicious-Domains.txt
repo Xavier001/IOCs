@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-07 22:08:05 UTC                        #
+# Last updated: 2025-10-08 03:55:20 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	t1.b-9lyb.ru
+127.0.0.1	id.dvn4i.ru
+127.0.0.1	qz9.b-9lyb.ru
+127.0.0.1	ho.xkx0o.ru
+127.0.0.1	ha.xkx0o.ru
+127.0.0.1	v2.b-9lyb.ru
+127.0.0.1	ay.xkx0o.ru
+127.0.0.1	k.b-9lyb.ru
 127.0.0.1	b1.x-6kox.ru
 127.0.0.1	aw.xkx0o.ru
 127.0.0.1	g4.x-6kox.ru
@@ -44218,7 +44226,4 @@
 127.0.0.1	securityverifservice.com
 127.0.0.1	lawofcjdj.com
 127.0.0.1	modgears.run
-127.0.0.1	cpcontacts.d.multi-canale.com
-127.0.0.1	autodiscover.d.ora-0-web.com
-127.0.0.1	ec2-13-61-8-192.eu-north-1.compute.amazonaws.com
-# Number of entries: 44215
+# Number of entries: 44220
