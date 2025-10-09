@@ -13,6 +13,7 @@ api.cryptpro.cloud,Possible Cobalt Strike C2 Fronting Domain,/dhl
 api.cryptpro.cloud,Possible Cobalt Strike C2 Fronting Domain,/fam_newspaper
 api.updatesreview.com,Possible Cobalt Strike C2 Domain,/ml.html
 app.cloudservtech.com,Possible Cobalt Strike C2 Domain,/v1/projects/oJpdZnpJQSRjan5vu3a33SR9Rhtm9Pzn/settings
+apple.cobaltstrike.xyz,Possible Cobalt Strike C2 Domain,/updates.rss
 asusupdateserver.asuscomm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 at.cn-windows.xyz,Possible Cobalt Strike C2 Fronted Domain,/api/v1/get
 at1.227api.com,Possible Cobalt Strike C2 Domain,/pixel
@@ -49,6 +50,7 @@ exchanges1.microsoftser.top,Possible Cobalt Strike C2 Domain,/pixel
 exchanges2.microsoftser.top,Possible Cobalt Strike C2 Domain,/push
 flaskproxy-fedg.onrender.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 frienel-blog.duckdns.org,Possible Cobalt Strike C2 Domain,/cm
+gmars.ddns.net,Possible Cobalt Strike C2 Domain,/pixel.gif
 hibmarket.help,Possible Cobalt Strike C2 Domain,/api/v1/get
 jspassport.ssl.qhimg.com,Possible Cobalt Strike C2 Fronting Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books
 jspassport.ssl.qhimg.com.cdn.dnsv1.com,Possible Cobalt Strike C2 Fronted Domain,/s/ref=nb_sb_noss_1/167-3294888-0262949/field-keywords=books

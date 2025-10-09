@@ -1,11 +1,35 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-09 09:43:25 UTC                        #
+# Last updated: 2025-10-09 12:22:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	etl.xg5e7.ru
+127.0.0.1	ci7.xg5e7.ru
+127.0.0.1	cenonyenaro.xyz
+127.0.0.1	hawkeye.v6.army
+127.0.0.1	hawkeye.dns.navy
+127.0.0.1	hawkeye.dns.army
+127.0.0.1	r2.qh-1-a-5.ru
+127.0.0.1	l3mon.freeddns.org
+127.0.0.1	parts-ways.gl.at.ply.gg
+127.0.0.1	h4wk.loseyourip.com
+127.0.0.1	our-tumor.gl.at.ply.gg
+127.0.0.1	yd.xg5e7.ru
+127.0.0.1	wq.qh-1-a-5.ru
+127.0.0.1	c7.qh-1-a-5.ru
+127.0.0.1	kb.fs8e0.ru
+127.0.0.1	me8.rv-2-o-5.ru
+127.0.0.1	61g.rv-2-o-5.ru
+127.0.0.1	5v6.cv3a9.ru
+127.0.0.1	sv.cv3a9.ru
+127.0.0.1	ws.cv3a9.ru
+127.0.0.1	n.qh-1-a-5.ru
+127.0.0.1	gmars.ddns.net
+127.0.0.1	pq.fs8e0.ru
+127.0.0.1	h1.qf-0-u-2.ru
 127.0.0.1	fu6.fs8e0.ru
 127.0.0.1	z9.qf-0-u-2.ru
 127.0.0.1	eu.rv-2-o-5.ru
@@ -44320,7 +44344,4 @@
 127.0.0.1	peggbir.live
 127.0.0.1	dyfot.dyfot.fun
 127.0.0.1	ol.minernaft.com
-127.0.0.1	b.stats.st4b4n.fr
-127.0.0.1	lock.xn--y7aa.cc
-127.0.0.1	efc04b0016686e5b9c1b54af55e8a208.uatider.com
-# Number of entries: 44317
+# Number of entries: 44338
