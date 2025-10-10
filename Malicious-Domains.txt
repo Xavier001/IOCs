@@ -1,11 +1,95 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-10 10:18:52 UTC                        #
+# Last updated: 2025-10-10 12:28:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	z9m.d5y6x.ru
+127.0.0.1	bng.bg-4-o-2.ru
+127.0.0.1	qb.d5y6x.ru
+127.0.0.1	gh2.bg-4-o-2.ru
+127.0.0.1	m2.d5y6x.ru
+127.0.0.1	fegakid809-25883.portmap.host
+127.0.0.1	system-conceptual.gl.at.ply.gg
+127.0.0.1	county-anywhere.gl.at.ply.gg
+127.0.0.1	agency-ch.gl.at.ply.gg
+127.0.0.1	r.bg-4-o-2.ru
+127.0.0.1	x.d5y6x.ru
+127.0.0.1	gserv.mobi
+127.0.0.1	chat-world.site
+127.0.0.1	chat-messenger.site
+127.0.0.1	arab-chat.site
+127.0.0.1	onlineclub.info
+127.0.0.1	free-apps.us
+127.0.0.1	network-lab.info
+127.0.0.1	kikstore.net
+127.0.0.1	oyi.bg-4-o-2.ru
+127.0.0.1	pl.d5y6x.ru
+127.0.0.1	3f.wz-3-a-7.ru
+127.0.0.1	h3.d5y6x.ru
+127.0.0.1	xiongdax.com
+127.0.0.1	wangfada6888.com
+127.0.0.1	buckeyedude.zapto.org
+127.0.0.1	noloho3015cspaus.zapto.org
+127.0.0.1	qboujskql54fd.zapto.org
+127.0.0.1	fodewet662ekuali.zapto.org
+127.0.0.1	vovitoc299merumart.zapto.org
+127.0.0.1	pejoci8009fanwn.zapto.org
+127.0.0.1	redoli8645obirah.zapto.org
+127.0.0.1	limam23874kwifa.zapto.org
+127.0.0.1	mahmoudlamrani.zapto.org
+127.0.0.1	testnetv4.duckdns.org
+127.0.0.1	cnc1.naldlh.lol
+127.0.0.1	p2.dstat.digital
+127.0.0.1	bot.orcacrash.site
+127.0.0.1	allahmisin.musallat.xyz
+127.0.0.1	scan.naldlh.lol
+127.0.0.1	cnc.naldlh.lol
+127.0.0.1	cnc2.naldlh.lol
+127.0.0.1	cnc3.naldlh.lol
+127.0.0.1	the-rekanze.no-ip.biz
+127.0.0.1	sytese.sytes.net
+127.0.0.1	evelynn.redirectme.net
+127.0.0.1	ip.nebulabin.pl
+127.0.0.1	cnc4.naldlh.lol
+127.0.0.1	comobucetas.duckdns.org
+127.0.0.1	almost-circular.gl.at.ply.gg
+127.0.0.1	cata06.kozow.com
+127.0.0.1	dolu123.ddns.net
+127.0.0.1	lulalau2025.ddns.net
+127.0.0.1	internet-uni.gl.at.ply.gg
+127.0.0.1	masterforshizllett.giize.com
+127.0.0.1	anyone-archives.gl.at.ply.gg
+127.0.0.1	madeinmood1-51626.portmap.host
+127.0.0.1	teste.123.com
+127.0.0.1	content-organisations.gl.at.ply.gg
+127.0.0.1	steel-afternoon.gl.at.ply.gg
+127.0.0.1	dc23sep.duckdns.org
+127.0.0.1	lanzary-28116.portmap.host
+127.0.0.1	chapter-evening.gl.at.ply.gg
+127.0.0.1	canada5566.duckdns.org
+127.0.0.1	fun-conduct.gl.at.ply.gg
+127.0.0.1	cawoslix-58635.portmap.host
+127.0.0.1	s.d5y6x.ru
+127.0.0.1	q.wz-3-a-7.ru
+127.0.0.1	x8n.z1u2z.ru
+127.0.0.1	fuck.wz-3-a-7.ru
+127.0.0.1	h9.z1u2z.ru
+127.0.0.1	md4.wz-3-a-7.ru
+127.0.0.1	ff.fk9o0.ru
+127.0.0.1	tq.z1u2z.ru
+127.0.0.1	dm.wz-3-a-7.ru
+127.0.0.1	hf5.fk9o0.ru
+127.0.0.1	z1.z1u2z.ru
+127.0.0.1	bd.z1u2z.ru
+127.0.0.1	u9w.fk9o0.ru
+127.0.0.1	q4.z1u2z.ru
+127.0.0.1	3it.fk9o0.ru
+127.0.0.1	g.z1u2z.ru
+127.0.0.1	5b2.fk9o0.ru
+127.0.0.1	p9.h9u8w.ru
 127.0.0.1	lme.fk-9-o-0.ru
 127.0.0.1	juo.fk9o0.ru
 127.0.0.1	h7m.h9u8w.ru
@@ -44763,22 +44847,4 @@
 127.0.0.1	precorelampago.store
 127.0.0.1	verifcloudiservice.com
 127.0.0.1	iakdajskdaksjdkajd.com
-127.0.0.1	thirsty-curran.85-215-173-244.plesk.page
-127.0.0.1	check.napef.icu
-127.0.0.1	sharecloud.click
-127.0.0.1	closecufre.com
-127.0.0.1	security.closecufre.com
-127.0.0.1	stat.bundlehulu.com
-127.0.0.1	www.cesiabs.com
-127.0.0.1	core.cesiabs.com
-127.0.0.1	www.cesiabs.info
-127.0.0.1	core.cesiabs.org
-127.0.0.1	core.cesiabs.info
-127.0.0.1	u1.aqueductdonor.shop
-127.0.0.1	r.enuff.live
-127.0.0.1	byjs.live
-127.0.0.1	6x7dp6h3w6q3ugjv4yv5gycj3femb24kysgry5b44hhgfwc5ml5qrdad.onion
-127.0.0.1	x6gjpqs4jjvgpfvhghdz2dk7be34emyzluimticj5s5fexf4wa65ngad.onion
-127.0.0.1	decrypts3nln3tic.onion
-127.0.0.1	check.lysyz.icu
-# Number of entries: 44775
+# Number of entries: 44841
