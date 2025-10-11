@@ -1,11 +1,53 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-10 22:07:38 UTC                        #
+# Last updated: 2025-10-11 04:07:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	xt.sa8yn.ru
+127.0.0.1	n4.sa8yn.ru
+127.0.0.1	b.sa8yn.ru
+127.0.0.1	c2n.da2yw.ru
+127.0.0.1	hv.da2yw.ru
+127.0.0.1	x9.da2yw.ru
+127.0.0.1	t.da2yw.ru
+127.0.0.1	pz.da2yw.ru
+127.0.0.1	m7.da2yw.ru
+127.0.0.1	a.da2yw.ru
+127.0.0.1	z9m.vi8im.ru
+127.0.0.1	qb.vi8im.ru
+127.0.0.1	m2.vi8im.ru
+127.0.0.1	x.vi8im.ru
+127.0.0.1	pn.vi8im.ru
+127.0.0.1	h3.vi8im.ru
+127.0.0.1	s.vi8im.ru
+127.0.0.1	z.wi7id.ru
+127.0.0.1	t1v.wi7id.ru
+127.0.0.1	m2.wi7id.ru
+127.0.0.1	q.wi7id.ru
+127.0.0.1	hx.wi7id.ru
+127.0.0.1	d4.wi7id.ru
+127.0.0.1	n.wi7id.ru
+127.0.0.1	p2n.fa6ic.ru
+127.0.0.1	hv.fa6ic.ru
+127.0.0.1	x9.fa6ic.ru
+127.0.0.1	mho.xb-4-e-7.ru
+127.0.0.1	t1.fa6ic.ru
+127.0.0.1	qs.fa6ic.ru
+127.0.0.1	8n5.xb-4-e-7.ru
+127.0.0.1	m8.fa6ic.ru
+127.0.0.1	b.fa6ic.ru
+127.0.0.1	mxt.xb-4-e-7.ru
+127.0.0.1	xq9.ni0uz.ru
+127.0.0.1	sue.xb-4-e-7.ru
+127.0.0.1	h7.ni0uz.ru
+127.0.0.1	pv.ni0uz.ru
+127.0.0.1	1kd.xb-4-e-7.ru
+127.0.0.1	a1.ni0uz.ru
+127.0.0.1	u4g.xb-4-e-7.ru
+127.0.0.1	zt.ni0uz.ru
 127.0.0.1	n3.ni0uz.ru
 127.0.0.1	e.ni0uz.ru
 127.0.0.1	v2n.pi9yj.ru
@@ -44927,8 +44969,4 @@
 127.0.0.1	psub.tsyndicate.com
 127.0.0.1	get-met.gl.at.ply.gg
 127.0.0.1	check.xiwuc.icu
-127.0.0.1	cpcalendars.c.multi-canale.com
-127.0.0.1	cpcalendars.aaa.104-168-101-27.cprapid.com
-127.0.0.1	lummamarket.com
-127.0.0.1	lumc2-market.fun
-# Number of entries: 44925
+# Number of entries: 44963
