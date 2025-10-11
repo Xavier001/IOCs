@@ -1,11 +1,42 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-11 10:12:27 UTC                        #
+# Last updated: 2025-10-11 12:19:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	51p.pf4i2.ru
+127.0.0.1	bt.jt4o0.ru
+127.0.0.1	04j.zv-1-a-0.ru
+127.0.0.1	4n.jt4o0.ru
+127.0.0.1	intltradingcomp.online
+127.0.0.1	qeo.pf4i2.ru
+127.0.0.1	tksexe.ddns.net
+127.0.0.1	tv-starting.gl.at.ply.gg
+127.0.0.1	w0rmlefilou-26308.portmap.host
+127.0.0.1	890.zv-1-a-0.ru
+127.0.0.1	skz.jt4o0.ru
+127.0.0.1	gz.pf4i2.ru
+127.0.0.1	s9.jt4o0.ru
+127.0.0.1	6ci.zv-1-a-0.ru
+127.0.0.1	uik.vj4e5.ru
+127.0.0.1	5u.pf4i2.ru
+127.0.0.1	ddo.vj4e5.ru
+127.0.0.1	se.vj4e5.ru
+127.0.0.1	k6.pf4i2.ru
+127.0.0.1	phd.vj4e5.ru
+127.0.0.1	qbo.sd-4-o-7.ru
+127.0.0.1	092.vj4e5.ru
+127.0.0.1	vh.pf4i2.ru
+127.0.0.1	fx.sd-4-o-7.ru
+127.0.0.1	d90.vj4e5.ru
+127.0.0.1	6ni.nq-8-e-9.ru
+127.0.0.1	jw.vj4e5.ru
+127.0.0.1	wv1.nq-8-e-9.ru
+127.0.0.1	pai.lr2y6.ru
+127.0.0.1	wjs.dk9a6.ru
+127.0.0.1	tbi.lr2y6.ru
 127.0.0.1	ncj.nq-8-e-9.ru
 127.0.0.1	gne.lr2y6.ru
 127.0.0.1	yk.dk9a6.ru
@@ -45022,10 +45053,4 @@
 127.0.0.1	cpanel.gemstonebookkeepingservices.com
 127.0.0.1	check.bugyx.icu
 127.0.0.1	check.wolum.icu
-127.0.0.1	net-5-95-41-119.cust.vodafonedsl.it
-127.0.0.1	cdn.st4b4n.fr
-127.0.0.1	check.mujan.icu
-127.0.0.1	u1.quenchunpaired.shop
-127.0.0.1	check.guqev.icu
-127.0.0.1	check.wetad.icu
-# Number of entries: 45022
+# Number of entries: 45047
