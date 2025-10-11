@@ -1,12 +1,87 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-11 04:07:32 UTC                        #
+# Last updated: 2025-10-11 10:12:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ncj.nq-8-e-9.ru
+127.0.0.1	gne.lr2y6.ru
+127.0.0.1	yk.dk9a6.ru
+127.0.0.1	si3.nq-8-e-9.ru
+127.0.0.1	uy1.lr2y6.ru
+127.0.0.1	jump.hometrendoo.com
+127.0.0.1	ydb.dk9a6.ru
+127.0.0.1	3rv.lr2y6.ru
+127.0.0.1	qtc.nq-8-e-9.ru
+127.0.0.1	astonmartiomanebiklos.com
+127.0.0.1	q3.dk9a6.ru
+127.0.0.1	m9.lr2y6.ru
+127.0.0.1	jej.nq-8-e-9.ru
+127.0.0.1	eah.dk9a6.ru
+127.0.0.1	qs.lr2y6.ru
+127.0.0.1	17s.dk9a6.ru
+127.0.0.1	kk0.pf-4-i-2.ru
+127.0.0.1	04j.gc0o9.ru
+127.0.0.1	mz.sd4o7.ru
+127.0.0.1	vgk.pf-4-i-2.ru
+127.0.0.1	90.gc0o9.ru
+127.0.0.1	4cv.sd4o7.ru
+127.0.0.1	ybg.gc0o9.ru
+127.0.0.1	1je.gc0o9.ru
+127.0.0.1	4o2.sd4o7.ru
+127.0.0.1	890.gc0o9.ru
+127.0.0.1	jsd.pf-4-i-2.ru
+127.0.0.1	l3.gc0o9.ru
+127.0.0.1	td.sd4o7.ru
+127.0.0.1	6ci.gc0o9.ru
+127.0.0.1	yo.pf-4-i-2.ru
+127.0.0.1	cm.su6ak.ru
+127.0.0.1	ffu.sd4o7.ru
+127.0.0.1	8sl.pf-4-i-2.ru
+127.0.0.1	y7.su6ak.ru
+127.0.0.1	u.su6ak.ru
+127.0.0.1	6g.sd4o7.ru
+127.0.0.1	r3.su6ak.ru
+127.0.0.1	uec.pf-4-i-2.ru
+127.0.0.1	ve.su6ak.ru
+127.0.0.1	k8.su6ak.ru
+127.0.0.1	p.su6ak.ru
+127.0.0.1	x.si3un.ru
+127.0.0.1	h9m.si3un.ru
+127.0.0.1	tq.si3un.ru
+127.0.0.1	fixprojectbest.space
+127.0.0.1	entergo.su
+127.0.0.1	mikhail-bulgakov.su
+127.0.0.1	lost-heaven.su
+127.0.0.1	jack-sparrow.su
+127.0.0.1	tengmev.fun
+127.0.0.1	natctqo.fun
+127.0.0.1	z1.si3un.ru
+127.0.0.1	333e.gl.3ply.gg
+127.0.0.1	www.bepansa.com
+127.0.0.1	www.bestcommodites.com
+127.0.0.1	www.volkerhuge.com
+127.0.0.1	bd.si3un.ru
+127.0.0.1	q7.si3un.ru
+127.0.0.1	ydbao4.cyou
+127.0.0.1	downloads-central.gl.at.ply.gg
+127.0.0.1	a.si3un.ru
+127.0.0.1	cm.li7ut.ru
+127.0.0.1	y7.li7ut.ru
+127.0.0.1	u.li7ut.ru
+127.0.0.1	r3.li7ut.ru
+127.0.0.1	ve.li7ut.ru
+127.0.0.1	k8.li7ut.ru
+127.0.0.1	p.li7ut.ru
+127.0.0.1	c1m.sa8yn.ru
+127.0.0.1	wz.sa8yn.ru
+127.0.0.1	h2.sa8yn.ru
+127.0.0.1	q.sa8yn.ru
 127.0.0.1	xt.sa8yn.ru
+127.0.0.1	m.7o.gg
+127.0.0.1	vps-4ce15e9a.vps.ovh.net
 127.0.0.1	n4.sa8yn.ru
 127.0.0.1	b.sa8yn.ru
 127.0.0.1	c2n.da2yw.ru
@@ -44953,20 +45028,4 @@
 127.0.0.1	u1.quenchunpaired.shop
 127.0.0.1	check.guqev.icu
 127.0.0.1	check.wetad.icu
-127.0.0.1	check.cuxor.icu
-127.0.0.1	check.dymyf.icu
-127.0.0.1	mu1.cows-make.mooo.com
-127.0.0.1	check.vuces.icu
-127.0.0.1	eventvegetable.cfd
-127.0.0.1	qu.ap.4t.com
-127.0.0.1	u1.entouragescuff.shop
-127.0.0.1	d1.dyfot.fun
-127.0.0.1	check.zevyg.icu
-127.0.0.1	pack-amber.gl.at.ply.gg
-127.0.0.1	pdel.tsyndicate.com
-127.0.0.1	psub.tsyndicate.com
-127.0.0.1	pdel.tsyndicate.com
-127.0.0.1	psub.tsyndicate.com
-127.0.0.1	get-met.gl.at.ply.gg
-127.0.0.1	check.xiwuc.icu
-# Number of entries: 44963
+# Number of entries: 45022
