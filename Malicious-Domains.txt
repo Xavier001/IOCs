@@ -1,11 +1,47 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-12 10:07:36 UTC                        #
+# Last updated: 2025-10-12 12:23:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sn.ss-9-y-4.ru
+127.0.0.1	v2.fq1y8.ru
+127.0.0.1	nkv.gdyl2.ru
+127.0.0.1	k.fq1y8.ru
+127.0.0.1	o6v.gdyl2.ru
+127.0.0.1	xworm7000.duckdns.org
+127.0.0.1	hm.db3a4.ru
+127.0.0.1	11.ss-9-y-4.ru
+127.0.0.1	omg.gdyl2.ru
+127.0.0.1	pw.ss-9-y-4.ru
+127.0.0.1	t1.db3a4.ru
+127.0.0.1	qx.kjyx7.ru
+127.0.0.1	9h2.rk-8-y-6.ru
+127.0.0.1	qrk.kjyx7.ru
+127.0.0.1	qz9.db3a4.ru
+127.0.0.1	m3.rk-8-y-6.ru
+127.0.0.1	umw.kjyx7.ru
+127.0.0.1	ui.rk-8-y-6.ru
+127.0.0.1	7k.kjyx7.ru
+127.0.0.1	v2.db3a4.ru
+127.0.0.1	6z.rk-8-y-6.ru
+127.0.0.1	l2v.kjyx7.ru
+127.0.0.1	qa.rk-8-y-6.ru
+127.0.0.1	ayl.kjyx7.ru
+127.0.0.1	k.db3a4.ru
+127.0.0.1	s.vss.sh
+127.0.0.1	lyg.kjyx7.ru
+127.0.0.1	1qb.rk-8-y-6.ru
+127.0.0.1	s4.rd1a2.ru
+127.0.0.1	y4.mcej9.ru
+127.0.0.1	hm.rd1a2.ru
+127.0.0.1	ee.fp-0-y-9.ru
+127.0.0.1	0jz.mcej9.ru
+127.0.0.1	2tj.fp-0-y-9.ru
+127.0.0.1	t1.rd1a2.ru
+127.0.0.1	prr.mcej9.ru
 127.0.0.1	uo.mcej9.ru
 127.0.0.1	ubs.fp-0-y-9.ru
 127.0.0.1	qz9.rd1a2.ru
@@ -45346,5 +45382,4 @@
 127.0.0.1	went-postcard.gl.at.ply.gg
 127.0.0.1	dzccd.com
 127.0.0.1	c4wx8kmtsqqba.cfc-execute.bj.baidubce.com
-127.0.0.1	smtp.rupyt.ru
-# Number of entries: 45341
+# Number of entries: 45376
