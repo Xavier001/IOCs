@@ -1,11 +1,50 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-13 10:12:08 UTC                        #
+# Last updated: 2025-10-13 12:28:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	f4zh.zzax4.ru
+127.0.0.1	pc.4fg2n.ru
+127.0.0.1	m8.4fg2n.ru
+127.0.0.1	o34.stix2.ru
+127.0.0.1	a.4fg2n.ru
+127.0.0.1	w12p.zzax4.ru
+127.0.0.1	k0n.7wh2n.ru
+127.0.0.1	slucasanderson.duckdns.org
+127.0.0.1	creativegear001.ddnsfree.com
+127.0.0.1	v2.cntm.edu.vn
+127.0.0.1	v1.cntm.edu.vn
+127.0.0.1	cntm.edu.vn
+127.0.0.1	hgamkado.duckdns.org
+127.0.0.1	gehjas.3utilities.com
+127.0.0.1	wz.7wh2n.ru
+127.0.0.1	k9uv.zzax4.ru
+127.0.0.1	h2.7wh2n.ru
+127.0.0.1	bcm.stix2.ru
+127.0.0.1	q.7wh2n.ru
+127.0.0.1	m3qe.zzax4.ru
+127.0.0.1	xt.7wh2n.ru
+127.0.0.1	z9.stix2.ru
+127.0.0.1	n5.7wh2n.ru
+127.0.0.1	9j.dlun7.ru
+127.0.0.1	t5vo.kqag6.ru
+127.0.0.1	b.7wh2n.ru
+127.0.0.1	d7qx.kqag6.ru
+127.0.0.1	x.9zk8r.ru
+127.0.0.1	y1mc.kqag6.ru
+127.0.0.1	jpv.dlun7.ru
+127.0.0.1	h9m.9zk8r.ru
+127.0.0.1	rb54.kqag6.ru
+127.0.0.1	bj.dlun7.ru
+127.0.0.1	tq.9zk8r.ru
+127.0.0.1	g6ta.kqag6.ru
+127.0.0.1	z1.9zk8r.ru
+127.0.0.1	i7.dlun7.ru
+127.0.0.1	n8yr.kqag6.ru
+127.0.0.1	bd.9zk8r.ru
 127.0.0.1	q7.9zk8r.ru
 127.0.0.1	c3fn.kpyw8.ru
 127.0.0.1	g.9zk8r.ru
@@ -44271,14 +44310,4 @@
 127.0.0.1	check.qutyd.icu
 127.0.0.1	arquivehacks.ddns.net
 127.0.0.1	check.dypit.icu
-127.0.0.1	check.mavew.icu
-127.0.0.1	lip.is
-127.0.0.1	iwashi.biz
-127.0.0.1	kmspicofiles.com
-127.0.0.1	dsoursopsf.run
-127.0.0.1	ixcelmodo.run
-127.0.0.1	revitmodh.run
-127.0.0.1	rliftally.top
-127.0.0.1	check.pedyg.icu
-127.0.0.1	check.bogig.icu
-# Number of entries: 44275
+# Number of entries: 44304
