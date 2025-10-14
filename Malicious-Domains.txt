@@ -1,11 +1,43 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-14 10:08:14 UTC                        #
+# Last updated: 2025-10-14 12:28:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	9xp.aclz9.ru
+127.0.0.1	hoy.tvil-0.ru
+127.0.0.1	b2i.tvil-0.ru
+127.0.0.1	rgu.tvil-0.ru
+127.0.0.1	fp.aclz9.ru
+127.0.0.1	q1h.tvil-0.ru
+127.0.0.1	caleta.ydns.eu
+127.0.0.1	error.ydns.eu
+127.0.0.1	11243debestremcox.duckdns.org
+127.0.0.1	aku7.duckdns.org
+127.0.0.1	akea-44005.portmap.host
+127.0.0.1	bwj.tvil-0.ru
+127.0.0.1	nws.aclz9.ru
+127.0.0.1	o29.tvil-0.ru
+127.0.0.1	ananbabanbensen.online
+127.0.0.1	fgq.llim-8.ru
+127.0.0.1	tm.aclz9.ru
+127.0.0.1	j5.llim-8.ru
+127.0.0.1	bzf.aclz9.ru
+127.0.0.1	d8i.llim-8.ru
+127.0.0.1	dp.aclz9.ru
+127.0.0.1	yt.llim-8.ru
+127.0.0.1	w9x.llim-8.ru
+127.0.0.1	k3.ussn7.ru
+127.0.0.1	wxe.llim-8.ru
+127.0.0.1	t0.llim-8.ru
+127.0.0.1	6l.ussn7.ru
+127.0.0.1	75.fkur-8.ru
+127.0.0.1	f6.ce1im.ru
+127.0.0.1	pz.ussn7.ru
+127.0.0.1	60.fkur-8.ru
+127.0.0.1	dr.fkur-8.ru
 127.0.0.1	pse.fkur-8.ru
 127.0.0.1	3o.ussn7.ru
 127.0.0.1	qph.fkur-8.ru
@@ -44300,7 +44332,4 @@
 127.0.0.1	check.vasih.icu
 127.0.0.1	5k0jev8t9zj4z.cfc-execute.bj.baidubce.com
 127.0.0.1	64t44b9cvcxmy.cfc-execute.bj.baidubce.com
-127.0.0.1	login.st4b4n.fr
-127.0.0.1	static.113.34.217.95.clients.your-server.de
-127.0.0.1	check.sipyf.icu
-# Number of entries: 44297
+# Number of entries: 44326
