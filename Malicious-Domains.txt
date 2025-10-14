@@ -1,11 +1,79 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-13 22:13:10 UTC                        #
+# Last updated: 2025-10-14 04:09:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	n8ys.0-1gc.ru
+127.0.0.1	w2.kpyw-8.ru
+127.0.0.1	c3fp.3-2pd.ru
+127.0.0.1	907.nmys-4.ru
+127.0.0.1	cq.ckyq9.ru
+127.0.0.1	zz1a.3-2pd.ru
+127.0.0.1	hr5.nmys-4.ru
+127.0.0.1	lk.ckyq9.ru
+127.0.0.1	ax74.3-2pd.ru
+127.0.0.1	fd.nmys-4.ru
+127.0.0.1	fn.nmys-4.ru
+127.0.0.1	p0qf.3-2pd.ru
+127.0.0.1	19.nmys-4.ru
+127.0.0.1	u4xv.3-2pd.ru
+127.0.0.1	dnm.nmys-4.ru
+127.0.0.1	h7ln.3-2pd.ru
+127.0.0.1	oc6.nmys-4.ru
+127.0.0.1	red.clevercougar.shop
+127.0.0.1	p9e.hpap-6.ru
+127.0.0.1	vd3j.6-0sg.ru
+127.0.0.1	zok.ckyq9.ru
+127.0.0.1	ye.hpap-6.ru
+127.0.0.1	4t.ckyq9.ru
+127.0.0.1	mt06.6-0sg.ru
+127.0.0.1	aj.hpap-6.ru
+127.0.0.1	q9px.6-0sg.ru
+127.0.0.1	hid.hpap-6.ru
+127.0.0.1	e2rw.6-0sg.ru
+127.0.0.1	xq.ckyq9.ru
+127.0.0.1	nf.hpap-6.ru
+127.0.0.1	ka85.6-0sg.ru
+127.0.0.1	sf5.ckyq9.ru
+127.0.0.1	va.hpap-6.ru
+127.0.0.1	s1oc.6-0sg.ru
+127.0.0.1	py.wqix5.ru
+127.0.0.1	72k.hpap-6.ru
+127.0.0.1	q14.sxuj-7.ru
+127.0.0.1	ch.sxuj-7.ru
+127.0.0.1	xkp.rxir9.ru
+127.0.0.1	dp.sxuj-7.ru
+127.0.0.1	hwj.sxuj-7.ru
+127.0.0.1	xd5.rxir9.ru
+127.0.0.1	o4k.sxuj-7.ru
+127.0.0.1	po4.rxir9.ru
+127.0.0.1	35i.sxuj-7.ru
+127.0.0.1	jm59.4-5sq.ru
+127.0.0.1	u9.sxuj-7.ru
+127.0.0.1	3x.rxir9.ru
+127.0.0.1	wj.gtus-4.ru
+127.0.0.1	g0nz.4-5sq.ru
+127.0.0.1	ug.rxir9.ru
+127.0.0.1	4c.gtus-4.ru
+127.0.0.1	64.rxir9.ru
+127.0.0.1	r2cy.4-5sq.ru
+127.0.0.1	syl.gtus-4.ru
+127.0.0.1	lt3c.4-5sq.ru
+127.0.0.1	pb.gtus-4.ru
+127.0.0.1	5q.ckar4.ru
+127.0.0.1	t4.gtus-4.ru
+127.0.0.1	w9ql.4-5sq.ru
+127.0.0.1	hs.gtus-4.ru
+127.0.0.1	19s.ckar4.ru
+127.0.0.1	tpa.gtus-4.ru
+127.0.0.1	f6ue.4-5sq.ru
+127.0.0.1	do.ckar4.ru
+127.0.0.1	yz.dlun-7.ru
+127.0.0.1	y3ak.7-5wd.ru
+127.0.0.1	b9.dlun-7.ru
 127.0.0.1	9c.ckar4.ru
 127.0.0.1	zn5e.7-5wd.ru
 127.0.0.1	3w5.dlun-7.ru
@@ -44431,6 +44499,4 @@
 127.0.0.1	roundworld.club
 127.0.0.1	christmas-flooring.gl.at.ply.gg
 127.0.0.1	qo.ap.4t.com
-127.0.0.1	cpcalendars.continueoraweb.com
-127.0.0.1	btc.newpepemm.nl
-# Number of entries: 44427
+# Number of entries: 44493
