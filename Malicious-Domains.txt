@@ -1,11 +1,32 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-15 10:18:41 UTC                        #
+# Last updated: 2025-10-15 12:26:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	lx6.ckyq-9.ru
+127.0.0.1	rb56.qihs8.ru
+127.0.0.1	rq8.ckyq-9.ru
+127.0.0.1	428.ckyq-9.ru
+127.0.0.1	akea-24794.portmap.host
+127.0.0.1	11733wednesdayyyyyyyfileeemanagerxxxx.duckdns.org
+127.0.0.1	oo.ckyq-9.ru
+127.0.0.1	kt.ckyq-9.ru
+127.0.0.1	g6tc.qihs8.ru
+127.0.0.1	7l.ckar-4.ru
+127.0.0.1	65y.ckar-4.ru
+127.0.0.1	n8yt.qihs8.ru
+127.0.0.1	mje.ckar-4.ru
+127.0.0.1	fs.ckar-4.ru
+127.0.0.1	c3fs.vorn5.ru
+127.0.0.1	njv.ckar-4.ru
+127.0.0.1	zz1c.vorn5.ru
+127.0.0.1	08.ckar-4.ru
+127.0.0.1	ax75.vorn5.ru
+127.0.0.1	v8.ckar-4.ru
+127.0.0.1	lz.obvp-2.ru
 127.0.0.1	g1s.obvp-2.ru
 127.0.0.1	p0qh.vorn5.ru
 127.0.0.1	gi.obvp-2.ru
@@ -44334,11 +44355,4 @@
 127.0.0.1	correoaergentino.top
 127.0.0.1	correoargenetino.top
 127.0.0.1	check.zezar.icu
-127.0.0.1	ip122.ip-51-195-231.eu
-127.0.0.1	ql.ap.4t.com
-127.0.0.1	oghupimpim.duckdns.org
-127.0.0.1	oghupol.duckdns.org
-127.0.0.1	backup419.duckdns.org
-127.0.0.1	iniiibk.duckdns.org
-127.0.0.1	iniii.duckdns.org
-# Number of entries: 44335
+# Number of entries: 44349
