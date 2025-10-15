@@ -1,11 +1,32 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-14 22:08:27 UTC                        #
+# Last updated: 2025-10-15 02:49:10 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.6119.com.cn
+127.0.0.1	h7lp.vorn5.ru
+127.0.0.1	pox.ibzr-2.ru
+127.0.0.1	n6r.ibzr-2.ru
+127.0.0.1	vd3k.nowc8.ru
+127.0.0.1	uhf.ibzr-2.ru
+127.0.0.1	mt07.nowc8.ru
+127.0.0.1	6mm.ibzr-2.ru
+127.0.0.1	u6.ibzr-2.ru
+127.0.0.1	ppd.ithc-4.ru
+127.0.0.1	q9py.nowc8.ru
+127.0.0.1	wp.ithc-4.ru
+127.0.0.1	e2rx.nowc8.ru
+127.0.0.1	3q6.ithc-4.ru
+127.0.0.1	ka86.nowc8.ru
+127.0.0.1	5v.ithc-4.ru
+127.0.0.1	s1od.nowc8.ru
+127.0.0.1	t5.ithc-4.ru
+127.0.0.1	cmv.ithc-4.ru
+127.0.0.1	jm5a.desj1.ru
+127.0.0.1	ghc.ithc-4.ru
 127.0.0.1	g0nq.desj1.ru
 127.0.0.1	q2.ozxg-5.ru
 127.0.0.1	l0.ozxg-5.ru
@@ -44366,10 +44387,4 @@
 127.0.0.1	server2.sndvoices.com
 127.0.0.1	fotamene.com
 127.0.0.1	fair-functionality.gl.at.ply.gg
-127.0.0.1	vvrn.akkba.cloud
-127.0.0.1	mail.aa.104-168-101-27.cprapid.com
-127.0.0.1	myaccount.mail-googlservice.site
-127.0.0.1	outlook.trpeiprzak.com
-127.0.0.1	cdn.trpeiprzak.com
-127.0.0.1	www.mail-googlservice.site
-# Number of entries: 44366
+# Number of entries: 44381
