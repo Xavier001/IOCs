@@ -1,11 +1,46 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-15 22:07:35 UTC                        #
+# Last updated: 2025-10-16 03:50:19 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	flint.wqix-5.ru
+127.0.0.1	hazel.wqix-5.ru
+127.0.0.1	quartz.wqix-5.ru
+127.0.0.1	willow.wqix-5.ru
+127.0.0.1	brisk.wqix-5.ru
+127.0.0.1	velvet.wqix-5.ru
+127.0.0.1	ember.wqix-5.ru
+127.0.0.1	x8n.5e7i0.ru
+127.0.0.1	h9.5e7i0.ru
+127.0.0.1	tq.5e7i0.ru
+127.0.0.1	z1.5e7i0.ru
+127.0.0.1	bd.5e7i0.ru
+127.0.0.1	q4.5e7i0.ru
+127.0.0.1	g.5e7i0.ru
+127.0.0.1	p9.1o6y4.ru
+127.0.0.1	h7.1o6y4.ru
+127.0.0.1	x.1o6y4.ru
+127.0.0.1	t1.1o6y4.ru
+127.0.0.1	zc.1o6y4.ru
+127.0.0.1	n3.1o6y4.ru
+127.0.0.1	a.1o6y4.ru
+127.0.0.1	q1n.4y2o5.ru
+127.0.0.1	b.4y2o5.ru
+127.0.0.1	www.slickwebads.com
+127.0.0.1	r7.4y2o5.ru
+127.0.0.1	x.4y2o5.ru
+127.0.0.1	vk.4y2o5.ru
+127.0.0.1	m8.4y2o5.ru
+127.0.0.1	s.4y2o5.ru
+127.0.0.1	h7.4a8u6.ru
+127.0.0.1	q9.4a8u6.ru
+127.0.0.1	x.4a8u6.ru
+127.0.0.1	pt.4a8u6.ru
+127.0.0.1	fyh-2.ru
+127.0.0.1	bas-9.ru
 127.0.0.1	zit-5.ru
 127.0.0.1	jix-3.ru
 127.0.0.1	luv-6.ru
@@ -44442,5 +44477,4 @@
 127.0.0.1	security.cloydgvarde.com
 127.0.0.1	check.vegyt.icu
 127.0.0.1	check.babuc.icu
-127.0.0.1	shop.nongfushan.org
-# Number of entries: 44437
+# Number of entries: 44471
