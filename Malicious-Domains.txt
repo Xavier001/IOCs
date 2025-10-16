@@ -1,11 +1,70 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-16 03:50:19 UTC                        #
+# Last updated: 2025-10-16 10:18:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	gold.nqyf-7.ru
+127.0.0.1	white.nqyf-7.ru
+127.0.0.1	heaven.nqyf-7.ru
+127.0.0.1	black.rjuq-3.ru
+127.0.0.1	four.rjuq-3.ru
+127.0.0.1	ultimate.rjuq-3.ru
+127.0.0.1	war.rjuq-3.ru
+127.0.0.1	glue.rjuq-3.ru
+127.0.0.1	forward.rjuq-3.ru
+127.0.0.1	fast.rjuq-3.ru
+127.0.0.1	dog.gdyl-2.ru
+127.0.0.1	slash.gdyl-2.ru
+127.0.0.1	dock.gdyl-2.ru
+127.0.0.1	twelve.gdyl-2.ru
+127.0.0.1	back.gdyl-2.ru
+127.0.0.1	car.gdyl-2.ru
+127.0.0.1	one.gdyl-2.ru
+127.0.0.1	azure.mcej-9.ru
+127.0.0.1	yonder.mcej-9.ru
+127.0.0.1	bral.grupovargas.xyz
+127.0.0.1	md.grupflixca.pro
+127.0.0.1	cont.appsalve.click
+127.0.0.1	cfg.brasilinst.site
+127.0.0.1	zephyr.mcej-9.ru
+127.0.0.1	verge.mcej-9.ru
+127.0.0.1	ultra.mcej-9.ru
+127.0.0.1	bookgiants.info
+127.0.0.1	eggscoach.info
+127.0.0.1	cubmilk.xyz
+127.0.0.1	p.d.myolt.my.id
+127.0.0.1	p.d.compuegypt.net
+127.0.0.1	topaz.mcej-9.ru
+127.0.0.1	sable.mcej-9.ru
+127.0.0.1	jungle.bqet-3.ru
+127.0.0.1	ivory.wtok-2.ru
+127.0.0.1	angelkingsdidthebestfeelingforhislifetog.duckdns.org
+127.0.0.1	www.medicoolpart.com
+127.0.0.1	zsew.pics
+127.0.0.1	coorpfree.duckdns.org
+127.0.0.1	v1.moroccancam.com
+127.0.0.1	v2.moroccancam.com
+127.0.0.1	wowow422421xs.dynuddns.com
+127.0.0.1	breeze.wtok-2.ru
+127.0.0.1	userbot.uswin.com.tr
+127.0.0.1	alemania2059.duckdns.org
+127.0.0.1	adigo.ydns.eu
+127.0.0.1	fteamez7iurs02.duckdns.org
+127.0.0.1	acorn.wtok-2.ru
+127.0.0.1	walnut.wtok-2.ru
+127.0.0.1	saffron.wtok-2.ru
+127.0.0.1	ginger.wtok-2.ru
+127.0.0.1	pepper.wtok-2.ru
+127.0.0.1	sprout.wduh-8.ru
+127.0.0.1	plume.wduh-8.ru
+127.0.0.1	onyx.wduh-8.ru
+127.0.0.1	maple.wduh-8.ru
+127.0.0.1	raven.wduh-8.ru
+127.0.0.1	cobalt.wduh-8.ru
+127.0.0.1	meadow.wduh-8.ru
 127.0.0.1	flint.wqix-5.ru
 127.0.0.1	hazel.wqix-5.ru
 127.0.0.1	quartz.wqix-5.ru
@@ -44444,37 +44503,4 @@
 127.0.0.1	owlfmamir.digital
 127.0.0.1	check.cisyn.icu
 127.0.0.1	main.url-longer.click
-127.0.0.1	snowsro.com
-127.0.0.1	check.hyjaz.icu
-127.0.0.1	maneholding.com
-127.0.0.1	qg.ap.4t.com
-127.0.0.1	security.flearegaurdc.com
-127.0.0.1	ms-azure.azdatastore.workers.dev
-127.0.0.1	pomelohgj.top
-127.0.0.1	microsoftonlines.com
-127.0.0.1	office.rsvp
-127.0.0.1	raedom.store
-127.0.0.1	fjcad.com
-127.0.0.1	greattravelexperiencegettingfromthenewth.duckdns.org
-127.0.0.1	remjouhs9kpiu1.duckdns.org
-127.0.0.1	remjouhs9kpiu2.duckdns.org
-127.0.0.1	remjouhs9kpiu3.duckdns.org
-127.0.0.1	remjouhs9kpiu4.duckdns.org
-127.0.0.1	remjouhs9kpiu5.duckdns.org
-127.0.0.1	kazeku.ddns.net
-127.0.0.1	kazeku.duckdns.org
-127.0.0.1	kazeku.linkpc.net
-127.0.0.1	above-aspect.gl.at.ply.gg
-127.0.0.1	phentermine-colleagues.gl.at.ply.gg
-127.0.0.1	cryptoghost.zapto.org
-127.0.0.1	7sipxslhd.localto.net
-127.0.0.1	a36e-78-175-182-33.ngrok-free.app
-127.0.0.1	asyncratlog.duckdns.org
-127.0.0.1	corporation-handhelds.gl.at.ply.gg
-127.0.0.1	ctaccs.devhelp.top
-127.0.0.1	mythic.swiftlydetecting.com
-127.0.0.1	check.nejyd.icu
-127.0.0.1	security.cloydgvarde.com
-127.0.0.1	check.vegyt.icu
-127.0.0.1	check.babuc.icu
-# Number of entries: 44471
+# Number of entries: 44497
