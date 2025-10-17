@@ -1,11 +1,53 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-16 20:52:48 UTC                        #
+# Last updated: 2025-10-17 04:07:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	q0w9e3.sip-9ta.ru
+127.0.0.1	v6m2a.sip-9ta.ru
+127.0.0.1	b7qk.sip-9ta.ru
+127.0.0.1	z9u4qm1.sip-9-ta.ru
+127.0.0.1	p3hkv8.sip-9-ta.ru
+127.0.0.1	w7c5n2.sip-9-ta.ru
+127.0.0.1	tq1ze.sip-9-ta.ru
+127.0.0.1	m8d4.sip-9-ta.ru
+127.0.0.1	k2w9e7a.pitsburg-2z.ru
+127.0.0.1	r8qv1m.pitsburg-2z.ru
+127.0.0.1	z3n7c4.pitsburg-2z.ru
+127.0.0.1	y0mkq.pitsburg-2z.ru
+127.0.0.1	f5rp.pitsburg-2z.ru
+127.0.0.1	t6e1x9a.pits-burg-2-z.ru
+127.0.0.1	m7yq2p.pits-burg-2-z.ru
+127.0.0.1	c40znm.pits-burg-2-z.ru
+127.0.0.1	w9t7k.pits-burg-2-z.ru
+127.0.0.1	h2qf.pits-burg-2-z.ru
+127.0.0.1	z0rfu3s.mape-3.ru
+127.0.0.1	m1qv9p.mape-3.ru
+127.0.0.1	kz6t3.mape-3.ru
+127.0.0.1	p7e2x.mape-3.ru
+127.0.0.1	b4yn.mape-3.ru
+127.0.0.1	wq3b0k7.fox-ab.ru
+127.0.0.1	c8y4d.fox-ab.ru
+127.0.0.1	t1mze9.fox-ab.ru
+127.0.0.1	rka7q.fox-ab.ru
+127.0.0.1	imap.dmg-tech.com
+127.0.0.1	rdweb.dmg-tech.com
+127.0.0.1	n5h2.fox-ab.ru
+127.0.0.1	u7wq0c9.1a2e6.ru
+127.0.0.1	g2p4n8.1a2e6.ru
+127.0.0.1	xb19f.1a2e6.ru
+127.0.0.1	d7mta.1a2e6.ru
+127.0.0.1	q3kz.1a2e6.ru
+127.0.0.1	hill.vbep-3.ru
+127.0.0.1	cat.1a2e6.ru
+127.0.0.1	ns1.gygiuh.online
+127.0.0.1	tree.4y3e4.ru
+127.0.0.1	13586721moon.1a2e6.ru
+127.0.0.1	quee54949646642n.8y7o4.ru
+127.0.0.1	ro4646623165ck.ndoq-0.ru
 127.0.0.1	e79sx2bnqwew6.cfc-execute.bj.baidubce.com
 127.0.0.1	rice.vbep-3.ru
 127.0.0.1	g46dfgdf65h.8y7o4.ru
@@ -44421,6 +44463,4 @@
 127.0.0.1	cdn.appletelemetry.com
 127.0.0.1	appletelemetry.com
 127.0.0.1	helperection.top
-127.0.0.1	mail.m.web-app-on.com
-127.0.0.1	ec2-18-166-104-119.ap-east-1.compute.amazonaws.com
-# Number of entries: 44417
+# Number of entries: 44457
