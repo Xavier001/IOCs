@@ -1,11 +1,39 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-17 12:02:21 UTC                        #
+# Last updated: 2025-10-17 22:10:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	rig.bit-e.ru
+127.0.0.1	cop.joy-2-way.ru
+127.0.0.1	soar.koq0.ru
+127.0.0.1	er.hop-g-3.ru
+127.0.0.1	cup.tag-b-s3.ru
+127.0.0.1	hum.hop-g3.ru
+127.0.0.1	the-encyclopedia-of-digital-entrepreneurship-and-innovation.com
+127.0.0.1	year.koq0.ru
+127.0.0.1	ash.web-d-n-45.ru
+127.0.0.1	jar.zen-and.ru
+127.0.0.1	case.pot5.ru
+127.0.0.1	axe.run-c-you.ru
+127.0.0.1	raw.fix-fg.ru
+127.0.0.1	must.pot5.ru
+127.0.0.1	no.net-0-prosa.ru
+127.0.0.1	tune.pot5.ru
+127.0.0.1	paw.bit-e.ru
+127.0.0.1	w8y3n2d.vbep-3.ru
+127.0.0.1	vaxlet.duckdns.org
+127.0.0.1	ndocpw5ek.localto.net
+127.0.0.1	emblemfurniture.top
+127.0.0.1	alimmkalo-37356.portmap.host
+127.0.0.1	increase-breath.gl.at.ply.gg
+127.0.0.1	idkvmbox-62519.portmap.host
+127.0.0.1	login.protect-instagram.com
+127.0.0.1	aadcdn.protect-instagram.com
+127.0.0.1	s.k.myolt.my.id
+127.0.0.1	s.k.glinkeg.com
 127.0.0.1	www.blessingsz.com
 127.0.0.1	www.chemeclo.com
 127.0.0.1	www.foodchenn.com
@@ -44358,23 +44386,4 @@
 127.0.0.1	masterspace.design
 127.0.0.1	www.everydayitstimeto.christmas
 127.0.0.1	yci416ame.5b0qyh1qd.xyz
-127.0.0.1	fchangeaie.top
-127.0.0.1	check.nejoc.icu
-127.0.0.1	prodlisle.com
-127.0.0.1	zarar.sms2.online
-127.0.0.1	ns2.maxscend.buzz
-127.0.0.1	ns2.carbonblackupdate.com
-127.0.0.1	ns1.maxscend.buzz
-127.0.0.1	ns1.carbonblackupdate.com
-127.0.0.1	qj.ap.4t.com
-127.0.0.1	ad-samoa.gl.at.ply.gg
-127.0.0.1	letokik616-48803.portmap.io
-127.0.0.1	windows.system32.qpon
-127.0.0.1	get.pinkobmen.com
-127.0.0.1	check.lomac.icu
-127.0.0.1	www.purepassionwellness.com
-127.0.0.1	micros.office365update.cn
-127.0.0.1	nextstepu.live
-127.0.0.1	franecont.run
-127.0.0.1	h1.passionwhenever.shop
-# Number of entries: 44371
+# Number of entries: 44380
