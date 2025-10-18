@@ -1,11 +1,37 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-18 10:04:50 UTC                        #
+# Last updated: 2025-10-18 12:28:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	pat.wkej2.ru
+127.0.0.1	ran.sjyj1.ru
+127.0.0.1	cup.mzas7.ru
+127.0.0.1	fin.gyj0.ru
+127.0.0.1	pepes18921.webredirect.org
+127.0.0.1	late-operates.gl.at.ply.gg
+127.0.0.1	can.jsuv0.ru
+127.0.0.1	nod.qvik5.ru
+127.0.0.1	dusk.gyj0.ru
+127.0.0.1	jet.khoc9.ru
+127.0.0.1	bog.qvik5.ru
+127.0.0.1	fern.luv6.ru
+127.0.0.1	has.cqom9.ru
+127.0.0.1	era.mzas7.ru
+127.0.0.1	clay.luv6.ru
+127.0.0.1	inn.jrih5.ru
+127.0.0.1	its.npoj2.ru
+127.0.0.1	pun.wkej2.ru
+127.0.0.1	rim.luv6.ru
+127.0.0.1	51rteswqa.online
+127.0.0.1	pet.rqyp1.ru
+127.0.0.1	ski.jsuv0.ru
+127.0.0.1	bed.sjyj1.ru
+127.0.0.1	nest.luv6.ru
+127.0.0.1	cat.khoc9.ru
+127.0.0.1	851.93i197934.ru
 127.0.0.1	glow.luv6.ru
 127.0.0.1	06d1.93i197934.ru
 127.0.0.1	7436901.93i197934.ru
@@ -44401,8 +44427,4 @@
 127.0.0.1	zx.regeditscv.com
 127.0.0.1	qw.regeditscv.com
 127.0.0.1	as.regeditscv.com
-127.0.0.1	hnd.stats.st4b4n.fr
-127.0.0.1	check.kubab.icu
-127.0.0.1	lapurralicious.live
-127.0.0.1	spotifystreamssolutions.com
-# Number of entries: 44399
+# Number of entries: 44421
