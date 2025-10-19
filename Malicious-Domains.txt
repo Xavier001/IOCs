@@ -1,11 +1,68 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-19 12:17:11 UTC                        #
+# Last updated: 2025-10-19 21:59:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dig.ckon0.ru
+127.0.0.1	m0ma.ngiz5.ru
+127.0.0.1	big.kpyb0.ru
+127.0.0.1	off.kvus7.ru
+127.0.0.1	rat.wtes4.ru
+127.0.0.1	joy.cpak0.ru
+127.0.0.1	ape.bkud4.ru
+127.0.0.1	try.rkuc9.ru
+127.0.0.1	gas.kduk8.ru
+127.0.0.1	us.hxit8.ru
+127.0.0.1	rag.ckon0.ru
+127.0.0.1	sit.ngiz5.ru
+127.0.0.1	fat.kpyb0.ru
+127.0.0.1	zahcomputers.pk.modpersonnel.support
+127.0.0.1	cloudstore.cam
+127.0.0.1	herandhis.kvus7.ru
+127.0.0.1	casadecampoamazonas.com
+127.0.0.1	few.wtes4.ru
+127.0.0.1	sap.cpak0.ru
+127.0.0.1	me.bkud4.ru
+127.0.0.1	tab.rkuc9.ru
+127.0.0.1	zehir.no-ip.biz
+127.0.0.1	hackingrat.no-ip.org
+127.0.0.1	remmom.ydns.eu
+127.0.0.1	come-social.gl.at.ply.gg
+127.0.0.1	sky7.kduk8.ru
+127.0.0.1	old.hxit8.ru
+127.0.0.1	van.ckon0.ru
+127.0.0.1	top.ngiz5.ru
+127.0.0.1	sip.kpyb0.ru
+127.0.0.1	art.kvus7.ru
+127.0.0.1	odd.wtes4.ru
+127.0.0.1	sun.cpak0.ru
+127.0.0.1	bit.bkud4.ru
+127.0.0.1	gin.rkuc9.ru
+127.0.0.1	sites.dmg-tech.com
+127.0.0.1	providence.nutorus.com
+127.0.0.1	giga.kduk8.ru
+127.0.0.1	cupandhandle.hxit8.ru
+127.0.0.1	see.ckon0.ru
+127.0.0.1	my.ngiz5.ru
+127.0.0.1	den.kpyb0.ru
+127.0.0.1	no555.wtes4.ru
+127.0.0.1	add.bkud4.ru
+127.0.0.1	kit.rkuc9.ru
+127.0.0.1	arm.kduk8.ru
+127.0.0.1	ask4it.hxit8.ru
+127.0.0.1	h0p.ckon0.ru
+127.0.0.1	end.ngiz5.ru
+127.0.0.1	gun4.kpyb0.ru
+127.0.0.1	hen.kvus7.ru
+127.0.0.1	bad.wtes4.ru
+127.0.0.1	tap.cpak0.ru
+127.0.0.1	age.bkud4.ru
+127.0.0.1	banit.rkuc9.ru
+127.0.0.1	n0w.kduk8.ru
+127.0.0.1	keyz.hxit8.ru
 127.0.0.1	bag.ckon0.ru
 127.0.0.1	be1.ngiz5.ru
 127.0.0.1	parsec-47111.portmap.host
@@ -29893,10 +29950,4 @@
 127.0.0.1	autodiscover.aa.104-168-101-27.cprapid.com
 127.0.0.1	react.socalmediazone.com
 127.0.0.1	api.googleshop.xyz
-127.0.0.1	mail2.lasthit.store
-127.0.0.1	mail1.lasthit.store
-127.0.0.1	auth.echelonai.world
-127.0.0.1	check.wewum.icu
-127.0.0.1	yyds.chinaunciom.sbs
-127.0.0.1	4gjhr5qxhyaj1.cfc-execute.bj.baidubce.com
-# Number of entries: 29893
+# Number of entries: 29944
