@@ -1,11 +1,26 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-19 10:07:59 UTC                        #
+# Last updated: 2025-10-19 12:17:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bag.ckon0.ru
+127.0.0.1	be1.ngiz5.ru
+127.0.0.1	parsec-47111.portmap.host
+127.0.0.1	dad.kpyb0.ru
+127.0.0.1	by.kvus7.ru
+127.0.0.1	bee.wtes4.ru
+127.0.0.1	mat.cpak0.ru
+127.0.0.1	pad.bkud4.ru
+127.0.0.1	lab.rkuc9.ru
+127.0.0.1	blackstar.bid5.ru
+127.0.0.1	hip.kduk8.ru
+127.0.0.1	dip.hxit8.ru
+127.0.0.1	net.ckon0.ru
+127.0.0.1	851.u521483.ru
+127.0.0.1	061.u521483.ru
 127.0.0.1	7436901.u521483.ru
 127.0.0.1	lace.bid5.ru
 127.0.0.1	160287.u521483.ru
@@ -29884,7 +29899,4 @@
 127.0.0.1	check.wewum.icu
 127.0.0.1	yyds.chinaunciom.sbs
 127.0.0.1	4gjhr5qxhyaj1.cfc-execute.bj.baidubce.com
-127.0.0.1	lumbersmile.icu
-127.0.0.1	check.colaj.icu
-127.0.0.1	check.hosam.icu
-# Number of entries: 29881
+# Number of entries: 29893
