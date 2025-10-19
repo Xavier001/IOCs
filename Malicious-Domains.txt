@@ -1,11 +1,79 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-19 04:08:32 UTC                        #
+# Last updated: 2025-10-19 10:07:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	7436901.u521483.ru
+127.0.0.1	lace.bid5.ru
+127.0.0.1	160287.u521483.ru
+127.0.0.1	dim.bid5.ru
+127.0.0.1	93055.u521483.ru
+127.0.0.1	4084.u521483.ru
+127.0.0.1	219.u521483.ru
+127.0.0.1	pond.bid5.ru
+127.0.0.1	nano2025.ydns.eu
+127.0.0.1	034d2.u069653.ru
+127.0.0.1	118.u069653.ru
+127.0.0.1	6901420.u069653.ru
+127.0.0.1	bossone.top
+127.0.0.1	777012.u069653.ru
+127.0.0.1	30951.u069653.ru
+127.0.0.1	spark.bid5.ru
+127.0.0.1	8427.u069653.ru
+127.0.0.1	oak.bid5.ru
+127.0.0.1	501.u069653.ru
+127.0.0.1	brim.bid5.ru
+127.0.0.1	581.y438414.ru
+127.0.0.1	0789.y438414.ru
+127.0.0.1	8451203.y438414.ru
+127.0.0.1	nap.wir2.ru
+127.0.0.1	706391.y438414.ru
+127.0.0.1	41002.y438414.ru
+127.0.0.1	twig.wir2.ru
+127.0.0.1	3135.y438414.ru
+127.0.0.1	925.y438414.ru
+127.0.0.1	curl.wir2.ru
+127.0.0.1	72563.i327147.ru
+127.0.0.1	080.i327147.ru
+127.0.0.1	beam.wir2.ru
+127.0.0.1	3998107.i327147.ru
+127.0.0.1	e-cross.gl.at.ply.gg
+127.0.0.1	redirect.dedicated-coords.lol
+127.0.0.1	v1.subgiare.vn
+127.0.0.1	v2.subgiare.vn
+127.0.0.1	gates.subgiare.vn
+127.0.0.1	jaks.ddns.net
+127.0.0.1	ze1exlpvm.localto.net
+127.0.0.1	loft.wir2.ru
+127.0.0.1	610294.i327147.ru
+127.0.0.1	57411.i327147.ru
+127.0.0.1	4920.i327147.ru
+127.0.0.1	gem.wir2.ru
+127.0.0.1	333.i327147.ru
+127.0.0.1	karmina118.sytes.net
+127.0.0.1	karmina119.sytes.net
+127.0.0.1	nibiru4.duckdns.org
+127.0.0.1	nibiru5.duckdns.org
+127.0.0.1	nibiru6.duckdns.org
+127.0.0.1	karmina117.sytes.net
+127.0.0.1	njkb-24236.portmap.host
+127.0.0.1	slsryatdf.localto.net
+127.0.0.1	dc14oct.duckdns.org
+127.0.0.1	sodfhsiuhdvishvisdhivgh.con-ip.com
+127.0.0.1	05b8.i554000.ru
+127.0.0.1	964.i554000.ru
+127.0.0.1	7123001.i554000.ru
+127.0.0.1	180264.i554000.ru
+127.0.0.1	77950.i554000.ru
+127.0.0.1	6003.i554000.ru
+127.0.0.1	201.i554000.ru
+127.0.0.1	913c50.i373582.ru
+127.0.0.1	0482.i373582.ru
+127.0.0.1	169.i373582.ru
+127.0.0.1	7001845.i373582.ru
 127.0.0.1	55027.i373582.ru
 127.0.0.1	8321.i373582.ru
 127.0.0.1	324.i373582.ru
@@ -29819,23 +29887,4 @@
 127.0.0.1	lumbersmile.icu
 127.0.0.1	check.colaj.icu
 127.0.0.1	check.hosam.icu
-127.0.0.1	account.st4b4n.fr
-127.0.0.1	office.socalmediazone.com
-127.0.0.1	www.x6se.buzz
-127.0.0.1	ec2-16-163-161-107.ap-east-1.compute.amazonaws.com
-127.0.0.1	ht.bzmajiang.cn
-127.0.0.1	check.saguf.icu
-127.0.0.1	although-cholesterol.gl.at.ply.gg
-127.0.0.1	interface-owners.gl.at.ply.gg
-127.0.0.1	match-charity.gl.at.ply.gg
-127.0.0.1	o-sufficient.gl.at.ply.gg
-127.0.0.1	rhymers.duckdns.org
-127.0.0.1	9xuj2tcnm.localto.net
-127.0.0.1	go.gets-it.net
-127.0.0.1	four-meme.dev
-127.0.0.1	futuristx.live
-127.0.0.1	synmedsp.live
-127.0.0.1	reddit.co.im
-127.0.0.1	lynmor.com
-127.0.0.1	grrlspace.com
-# Number of entries: 29832
+# Number of entries: 29881
