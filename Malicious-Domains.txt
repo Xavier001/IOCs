@@ -1,11 +1,46 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-20 04:08:11 UTC                        #
+# Last updated: 2025-10-20 10:18:19 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	4920.lb3091.ru
+127.0.0.1	333.lb3091.ru
+127.0.0.1	05b8.8d9691.ru
+127.0.0.1	964.8d9691.ru
+127.0.0.1	7123001.8d9691.ru
+127.0.0.1	v2.xoilaczzzcz.tv
+127.0.0.1	v3.xoilaczzzcz.tv
+127.0.0.1	180264.8d9691.ru
+127.0.0.1	77950.8d9691.ru
+127.0.0.1	6003.8d9691.ru
+127.0.0.1	201.8d9691.ru
+127.0.0.1	913c50.5m9081.ru
+127.0.0.1	0482.5m9081.ru
+127.0.0.1	cdn.myolt.my.id
+127.0.0.1	cdn.italian-ips.com
+127.0.0.1	rtx.anditech.my.id
+127.0.0.1	169.5m9081.ru
+127.0.0.1	admin.mythic.shopify.io
+127.0.0.1	www.jonathanglynnphoto.com
+127.0.0.1	www.studiojordanphoto.com
+127.0.0.1	rtx.kaizensamawati.com
+127.0.0.1	7001845.5m9081.ru
+127.0.0.1	toxi-34642.portmap.io
+127.0.0.1	55027.5m9081.ru
+127.0.0.1	8321.5m9081.ru
+127.0.0.1	324.5m9081.ru
+127.0.0.1	4137.5h4553.ru
+127.0.0.1	0984.5h4553.ru
+127.0.0.1	5002201.5h4553.ru
+127.0.0.1	620714.5h4553.ru
+127.0.0.1	45019.5h4553.ru
+127.0.0.1	1205.5h4553.ru
+127.0.0.1	777.5h4553.ru
+127.0.0.1	07a9.7i091.ru
+127.0.0.1	34972.7i091.ru
 127.0.0.1	028.7i091.ru
 127.0.0.1	7652190.7i091.ru
 127.0.0.1	100587.7i091.ru
@@ -29966,23 +30001,4 @@
 127.0.0.1	check.pikip.icu
 127.0.0.1	technical-equally.gl.at.ply.gg
 127.0.0.1	check.carin.icu
-127.0.0.1	hiesa-56152.portmap.host
-127.0.0.1	feb-travelers.gl.at.ply.gg
-127.0.0.1	bot.argus-services.xyz
-127.0.0.1	boards-essential.gl.at.ply.gg
-127.0.0.1	earth-schedules.gl.at.ply.gg
-127.0.0.1	summer-malaysia.gl.at.ply.gg
-127.0.0.1	technical-equally.gl.at.ply.g
-127.0.0.1	envio10-04-25.duckdns.org
-127.0.0.1	lowwood.xyz
-127.0.0.1	check.pejel.icu
-127.0.0.1	yet-continental.gl.at.ply.gg
-127.0.0.1	ladoicese.org
-127.0.0.1	kaohej.com
-127.0.0.1	core.kaohej.com
-127.0.0.1	kaohej.info
-127.0.0.1	core.kaohej.info
-127.0.0.1	kaohej.org
-127.0.0.1	core.kaohej.org
-127.0.0.1	o.socalmediazone.com
-# Number of entries: 29979
+# Number of entries: 29995
