@@ -1,11 +1,28 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-20 10:18:19 UTC                        #
+# Last updated: 2025-10-20 12:28:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	501.bl8205.ru
+127.0.0.1	581.zm6392.ru
+127.0.0.1	0789.zm6392.ru
+127.0.0.1	www.globallimitedgroups.online
+127.0.0.1	www.globallimitedgroups.space
+127.0.0.1	orgdomin.mywire.org
+127.0.0.1	8451203.zm6392.ru
+127.0.0.1	706391.zm6392.ru
+127.0.0.1	41002.zm6392.ru
+127.0.0.1	3135.zm6392.ru
+127.0.0.1	925.zm6392.ru
+127.0.0.1	72563.lb3091.ru
+127.0.0.1	080.lb3091.ru
+127.0.0.1	3998107.lb3091.ru
+127.0.0.1	links-sponsorship.gl.at.ply.gg
+127.0.0.1	610294.lb3091.ru
+127.0.0.1	57411.lb3091.ru
 127.0.0.1	4920.lb3091.ru
 127.0.0.1	333.lb3091.ru
 127.0.0.1	05b8.8d9691.ru
@@ -29999,6 +30016,4 @@
 127.0.0.1	cpanel.buyjlindustriesonline.com
 127.0.0.1	r-tube.ru
 127.0.0.1	check.pikip.icu
-127.0.0.1	technical-equally.gl.at.ply.gg
-127.0.0.1	check.carin.icu
-# Number of entries: 29995
+# Number of entries: 30010
