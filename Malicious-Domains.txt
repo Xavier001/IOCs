@@ -1,11 +1,49 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-19 21:59:38 UTC                        #
+# Last updated: 2025-10-20 04:08:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	028.7i091.ru
+127.0.0.1	7652190.7i091.ru
+127.0.0.1	100587.7i091.ru
+127.0.0.1	9026.7i091.ru
+127.0.0.1	431.7i091.ru
+127.0.0.1	05c8.4y328.ru
+127.0.0.1	035.4y328.ru
+127.0.0.1	9912043.4y328.ru
+127.0.0.1	260941.4y328.ru
+127.0.0.1	70018.4y328.ru
+127.0.0.1	4823.4y328.ru
+127.0.0.1	719.4y328.ru
+127.0.0.1	42a5.9e466.ru
+127.0.0.1	0615.9e466.ru
+127.0.0.1	9031542.9e466.ru
+127.0.0.1	740182.9e466.ru
+127.0.0.1	56039.9e466.ru
+127.0.0.1	1207.9e466.ru
+127.0.0.1	384.9e466.ru
+127.0.0.1	tip.ngiz5.ru
+127.0.0.1	egg.kpyb0.ru
+127.0.0.1	bay.kvus7.ru
+127.0.0.1	mud.wtes4.ru
+127.0.0.1	use.cpak0.ru
+127.0.0.1	sea.bkud4.ru
+127.0.0.1	fix.rkuc9.ru
+127.0.0.1	gap.kduk8.ru
+127.0.0.1	ink.hxit8.ru
+127.0.0.1	of33333.ckon0.ru
+127.0.0.1	six.ngiz5.ru
+127.0.0.1	day.kpyb0.ru
+127.0.0.1	lip.kvus7.ru
+127.0.0.1	shy.wtes4.ru
+127.0.0.1	act.cpak0.ru
+127.0.0.1	tea.bkud4.ru
+127.0.0.1	pin.rkuc9.ru
+127.0.0.1	mi.limpingbronco.com
+127.0.0.1	car.kduk8.ru
 127.0.0.1	dig.ckon0.ru
 127.0.0.1	m0ma.ngiz5.ru
 127.0.0.1	big.kpyb0.ru
@@ -29947,7 +29985,4 @@
 127.0.0.1	kaohej.org
 127.0.0.1	core.kaohej.org
 127.0.0.1	o.socalmediazone.com
-127.0.0.1	autodiscover.aa.104-168-101-27.cprapid.com
-127.0.0.1	react.socalmediazone.com
-127.0.0.1	api.googleshop.xyz
-# Number of entries: 29944
+# Number of entries: 29979
