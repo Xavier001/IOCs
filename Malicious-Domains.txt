@@ -1,11 +1,61 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-20 22:08:21 UTC                        #
+# Last updated: 2025-10-21 04:07:16 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	arise.2-fyzog-201-e.ru
+127.0.0.1	f1oor.4-pytim-30-ua.ru
+127.0.0.1	lmage.2-wafij-3-ue.ru
+127.0.0.1	q8z1.7i091.online
+127.0.0.1	drunk.5-forez-515-o.ru
+127.0.0.1	v2.7i091.online
+127.0.0.1	buyer.xiqek-40-ye-8.ru
+127.0.0.1	l0wer.5-milod-931-o.ru
+127.0.0.1	heavy.5-ninet-1-ou.ru
+127.0.0.1	yh3a.7i091.online
+127.0.0.1	coast.2-fyzog-201-e.ru
+127.0.0.1	www.salesf0rce.club
+127.0.0.1	cause.0-rohyp-5-yu.ru
+127.0.0.1	c3k9.4y328.online
+127.0.0.1	easy57.1-byhih-05-ey.ru
+127.0.0.1	carve.5-kafaq-7-io.ru
+127.0.0.1	actor6.1-mafus-044-e.ru
+127.0.0.1	r8.4y328.online
+127.0.0.1	jumpy.5-forez-515-o.ru
+127.0.0.1	m01a.4y328.online
+127.0.0.1	eager.7-nenop-38-oy.ru
+127.0.0.1	bas1c36.xiqek-40-ye-8.ru
+127.0.0.1	biame.7-doxok-46-eu.ru
+127.0.0.1	tz6.4y328.online
+127.0.0.1	earth.xiqek-40-ye-8.ru
+127.0.0.1	draw1.5-ninet-1-ou.ru
+127.0.0.1	ex1st.2-pukeg-36-oy.ru
+127.0.0.1	b7q.4y328.online
+127.0.0.1	board73.0-we-fid-707-i.ru
+127.0.0.1	n4y2.4y328.online
+127.0.0.1	essay8.5-forez-515-o.ru
+127.0.0.1	x7.9e466.online
+127.0.0.1	a5ide.1-mafus-044-e.ru
+127.0.0.1	broad.0-rohyp-5-yu.ru
+127.0.0.1	chest.xiqek-40-ye-8.ru
+127.0.0.1	heavy40.5-juzeb-0-io.ru
+127.0.0.1	p9t.9e466.online
+127.0.0.1	rds1.dmg-tech.com
+127.0.0.1	enjoy.2-wafij-3-ue.ru
+127.0.0.1	k3v7.9e466.online
+127.0.0.1	album.0-rohyp-5-yu.ru
+127.0.0.1	elite.5-ninet-1-ou.ru
+127.0.0.1	digit37.2-pukeg-36-oy.ru
+127.0.0.1	chain7.2-wafij-3-ue.ru
+127.0.0.1	alone9.5-kafaq-7-io.ru
+127.0.0.1	ab0ve.2-fyzog-201-e.ru
+127.0.0.1	being.xiqek-40-ye-8.ru
+127.0.0.1	haven.2-pukeg-36-oy.ru
+127.0.0.1	driil93.7-doxok-46-eu.ru
+127.0.0.1	cheap8.0-rohyp-5-yu.ru
 127.0.0.1	greet09.5-ninet-1-ou.ru
 127.0.0.1	cl0ck7.0-rohyp-5-yu.ru
 127.0.0.1	elder77.5-forez-515-o.ru
@@ -30097,7 +30147,4 @@
 127.0.0.1	sound-designer-v21.pages.dev
 127.0.0.1	tracklist22.pages.dev
 127.0.0.1	security-check-l2j4.com
-127.0.0.1	ec2-47-128-167-206.ap-southeast-1.compute.amazonaws.com
-127.0.0.1	sslassla.com
-127.0.0.1	api.xiaoyaoruchu.com
-# Number of entries: 30094
+# Number of entries: 30141
