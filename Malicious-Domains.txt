@@ -1,11 +1,43 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-22 10:07:22 UTC                        #
+# Last updated: 2025-10-22 12:29:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	deepo.res4ev7oy1.online
+127.0.0.1	p7z1.rv6324.online
+127.0.0.1	vk.y-o7uu.ru
+127.0.0.1	m8.y-o7uu.ru
+127.0.0.1	qx2m.97ie88e7.ru
+127.0.0.1	g3c.rv6324.online
+127.0.0.1	s.y-o7uu.ru
+127.0.0.1	gra.nadimgadget.shop
+127.0.0.1	gra.khabeir.com
+127.0.0.1	pactohistorico2029.duckdns.org
+127.0.0.1	coorpfree7.duckdns.org
+127.0.0.1	myupdaterem.duckdns.org
+127.0.0.1	westy.karslioglu-tr.com
+127.0.0.1	a5v9.97ie88e7.ru
+127.0.0.1	q9.o-a4eu.ru
+127.0.0.1	x7.o-a4eu.ru
+127.0.0.1	7eud.97ie88e7.ru
+127.0.0.1	pt.o-a4eu.ru
+127.0.0.1	n0.rv6324.online
+127.0.0.1	lx0c.97ie88e7.ru
+127.0.0.1	z1.o-a4eu.ru
+127.0.0.1	f1y6.97ie88e7.ru
+127.0.0.1	4.o-a4eu.ru
+127.0.0.1	1m.t-pay3.ru
+127.0.0.1	4tqm.28ae00i7.ru
+127.0.0.1	c8.t-pay3.ru
+127.0.0.1	qk8.bl8205.online
+127.0.0.1	p0.t-pay3.ru
+127.0.0.1	0z.t-pay3.ru
+127.0.0.1	sr5b.28ae00i7.ru
+127.0.0.1	v3.t-pay3.ru
+127.0.0.1	h1.t-pay3.ru
 127.0.0.1	s.t-pay3.ru
 127.0.0.1	t1.x-ceu8.ru
 127.0.0.1	y.bl8205.online
@@ -35083,5 +35115,4 @@
 127.0.0.1	integration2-hohc4oi-ql5o2tbhqesto.us-5.magentosite.cloud
 127.0.0.1	apelmerah.top
 127.0.0.1	secure.gatecollegesystem.com
-127.0.0.1	c2.trollers.xyz
-# Number of entries: 35078
+# Number of entries: 35109
