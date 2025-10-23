@@ -1,11 +1,27 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-23 10:14:15 UTC                        #
+# Last updated: 2025-10-23 12:22:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ox.lizqa.ru
+127.0.0.1	c7.9z2503.online
+127.0.0.1	aw.q0spi.ru
+127.0.0.1	favorali.duckdns.org
+127.0.0.1	metillacanduiuitmanagerman.duckdns.org
+127.0.0.1	storms.tuful32io3.ru
+127.0.0.1	we.trowy.ru
+127.0.0.1	r8m2.9z2503.online
+127.0.0.1	fiame2.tuful32io3.ru
+127.0.0.1	ti.jg7ra.ru
+127.0.0.1	alafair.net
+127.0.0.1	wereatwar.com
+127.0.0.1	www.bethschwier.com
+127.0.0.1	y4.9z2503.online
+127.0.0.1	br1ght.tuful32io3.ru
+127.0.0.1	do.sne4p.ru
 127.0.0.1	a8x.6ck9465.online
 127.0.0.1	stoneo.tuful32io3.ru
 127.0.0.1	smart1.tuful32io3.ru
@@ -35257,89 +35273,4 @@
 127.0.0.1	eztest.site
 127.0.0.1	palid.icu
 127.0.0.1	pebeg.icu
-127.0.0.1	shelducopk.digital
-127.0.0.1	keywestuy.digital
-127.0.0.1	vampirebioat.digital
-127.0.0.1	manateeiu.digital
-127.0.0.1	quollgjk.digital
-127.0.0.1	shrimpcvd.digital
-127.0.0.1	pldcbus.digital
-127.0.0.1	tarantutyla.digital
-127.0.0.1	bullfrogvc.digital
-127.0.0.1	kangaroojh.digital
-127.0.0.1	nynoj.icu
-127.0.0.1	juhup.icu
-127.0.0.1	security-2k7q-check.com
-127.0.0.1	fartgo21oursts1.duckdns.org
-127.0.0.1	fartgo21oursts2.duckdns.org
-127.0.0.1	fartgo21oursts3.duckdns.org
-127.0.0.1	hajouts8koumis5.duckdns.org
-127.0.0.1	hajouts8koumis6.duckdns.org
-127.0.0.1	www.themodaempire.com
-127.0.0.1	www.time4beauty-blog.info
-127.0.0.1	www.tuthofilly.info
-127.0.0.1	www.uniqueeyez.com
-127.0.0.1	www.wamohssurgery.com
-127.0.0.1	www.wwwvn602.com
-127.0.0.1	www.wx-newtork.net
-127.0.0.1	www.xn--950bn7a776apfal10cnib.com
-127.0.0.1	www.xn--bescheidprfung-psb.com
-127.0.0.1	www.yemail.email
-127.0.0.1	www.youngminds.place
-127.0.0.1	www.testvmsept07yyyyy.site
-127.0.0.1	www.myaeh.info
-127.0.0.1	www.mycarefamily.net
-127.0.0.1	www.nostalgicexpress.com
-127.0.0.1	www.nowgopaint.com
-127.0.0.1	www.nulunauniversity.com
-127.0.0.1	www.petal.parts
-127.0.0.1	www.plombierslivrygargan.com
-127.0.0.1	www.rencornachine.com
-127.0.0.1	www.sanmarinoseries.com
-127.0.0.1	www.seadragonfob.com
-127.0.0.1	www.surfbumapparel.com
-127.0.0.1	www.taylormthomas.net
-127.0.0.1	www.harmonyviolin.win
-127.0.0.1	www.hemalipaterl.com
-127.0.0.1	www.jennashrivercoaching.com
-127.0.0.1	www.jinchenjin.com
-127.0.0.1	www.kimbhoh.info
-127.0.0.1	www.la-forme-matrice.com
-127.0.0.1	www.lifemindmed.com
-127.0.0.1	www.lineagro.com
-127.0.0.1	www.liveoverseasconference.com
-127.0.0.1	www.mad.foundation
-127.0.0.1	www.michaellobato.com
-127.0.0.1	www.moneyprime.net
-127.0.0.1	www.cex.party
-127.0.0.1	www.cirquedumarina.com
-127.0.0.1	www.counsellingsupervisor.com
-127.0.0.1	www.cuchilleria.net
-127.0.0.1	www.d55105.com
-127.0.0.1	www.dondavidaltopalermo.com
-127.0.0.1	www.doomcrowoffical.com
-127.0.0.1	www.faraon-beth6.com
-127.0.0.1	www.freedom100plan.info
-127.0.0.1	www.ghyxm.info
-127.0.0.1	www.gmecpn.men
-127.0.0.1	www.goodkindtrue.com
-127.0.0.1	www.gzsanj.com
-127.0.0.1	www.hami.link
-127.0.0.1	www.9cri.accountant
-127.0.0.1	www.aandswholesale.com
-127.0.0.1	www.adithyavm.com
-127.0.0.1	www.ads-line.com
-127.0.0.1	www.airmediabda.com
-127.0.0.1	www.amcmadmen.com
-127.0.0.1	www.amonlineb.com
-127.0.0.1	www.animalnooz.info
-127.0.0.1	www.appin.tech
-127.0.0.1	www.bbbav93931.com
-127.0.0.1	www.bojny.net
-127.0.0.1	www.bufdv.com
-127.0.0.1	www.cagschools.com
-127.0.0.1	www.7needsofpatients.com
-127.0.0.1	www.yuklemeislemi.online
-127.0.0.1	nuxul.icu
-127.0.0.1	zabo.0x504.com
-# Number of entries: 35336
+# Number of entries: 35267
