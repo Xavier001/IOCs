@@ -1,11 +1,69 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-23 20:48:45 UTC                        #
+# Last updated: 2025-10-24 10:19:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	0a.d5-en.ru
+127.0.0.1	mint.treqz.online
+127.0.0.1	ea.b2ra.ru
+127.0.0.1	wiider.syc0aq8uy1.ru
+127.0.0.1	cj.a-zon.ru
+127.0.0.1	0v.3druv.ru
+127.0.0.1	ie.kaq51.ru
+127.0.0.1	sm1ie.syc0aq8uy1.ru
+127.0.0.1	jz.j8ro.ru
+127.0.0.1	elm.dor8y.online
+127.0.0.1	securepainelx.com
+127.0.0.1	zt.hyk5.ru
+127.0.0.1	leaf0.syc0aq8uy1.ru
+127.0.0.1	a3.fe-k2.ru
+127.0.0.1	ear.dor8y.online
+127.0.0.1	giass5.syc0aq8uy1.ru
+127.0.0.1	s1.d5en.ru
+127.0.0.1	8b.d5-en.ru
+127.0.0.1	waveo.syc0aq8uy1.ru
+127.0.0.1	6z.b2ra.ru
+127.0.0.1	princess-mens-club.com
+127.0.0.1	princess-mens.click
+127.0.0.1	bsnowcommunications.com
+127.0.0.1	lapas.live
+127.0.0.1	zoomconference.click
+127.0.0.1	goodhillsenterprise.com
+127.0.0.1	aerobionix.com
+127.0.0.1	zoomconference.app
+127.0.0.1	user-highly.gl.at.ply.gg
+127.0.0.1	mpannukwummadunawaoo.duckdns.org
+127.0.0.1	asdfasfasdf3-42172.portmap.host
+127.0.0.1	lopezsierra20.casacam.net
+127.0.0.1	kingspy.freemyip.com
+127.0.0.1	loganwolverin2027.duckdns.org
+127.0.0.1	fatisabi.linkpc.net
+127.0.0.1	l5.a-zon.ru
+127.0.0.1	xj.3druv.ru
+127.0.0.1	sil3nt.syc0aq8uy1.ru
+127.0.0.1	dot.dor8y.online
+127.0.0.1	gb.kaq51.ru
+127.0.0.1	green1.syc0aq8uy1.ru
+127.0.0.1	pn.j8ro.ru
+127.0.0.1	pagomulta2025.com
+127.0.0.1	formulaire-mondialrelay-pro.com
+127.0.0.1	entrepots-colis-2025.info
+127.0.0.1	neverlandstop.shop
+127.0.0.1	chickaboom.shop
+127.0.0.1	stg.server24x.com
+127.0.0.1	stg.mistonecorp.net
+127.0.0.1	investor.veranofund.com
+127.0.0.1	estate.verano.life
+127.0.0.1	cpanel.paquetesparaorlando.com
+127.0.0.1	configure.visionsflorida.com
+127.0.0.1	demo.halfmoonboulder.com
+127.0.0.1	elumadns.hopto.org
+127.0.0.1	elumadns.eluma101.com
+127.0.0.1	coorpfree9.duckdns.org
+127.0.0.1	la-supreme.gl.at.ply.gg
 127.0.0.1	khamyp.asia
 127.0.0.1	servgkp.asia
 127.0.0.1	indef.locker
@@ -35304,45 +35362,4 @@
 127.0.0.1	wolverineas.top
 127.0.0.1	timov.icu
 127.0.0.1	qwlpert.com
-127.0.0.1	fyquc.icu
-127.0.0.1	nationwidedirectlender.org
-127.0.0.1	185-38-142-128.cprapid.com
-127.0.0.1	gyner.icu
-127.0.0.1	fallenminer.com
-127.0.0.1	login.zalopay.site
-127.0.0.1	account.zalopay.site
-127.0.0.1	ecs-116-205-242-143.compute.hwclouds-dns.com
-127.0.0.1	gutenortherad.click
-127.0.0.1	cdn-app-server.vewojo9572.workers.dev
-127.0.0.1	koonenmagaziner.click
-127.0.0.1	flamencobeents.click
-127.0.0.1	vigorbridgoe.top
-127.0.0.1	cartograhphy.top
-127.0.0.1	biosphxere.digital
-127.0.0.1	topographky.top
-127.0.0.1	geographys.run
-127.0.0.1	tropiscbs.live
-127.0.0.1	eicp.byxwgimpbwiskniw.info
-127.0.0.1	lorda.hopto.org
-127.0.0.1	hylur.icu
-127.0.0.1	ndgadfqwywqe.pages.dev
-127.0.0.1	jjiiiiiiiiijjjj.pages.dev
-127.0.0.1	dealmakerwealthsociety.com
-127.0.0.1	id.webaudiomessages.xyz
-127.0.0.1	mansionsnowy.click
-127.0.0.1	outlook.webaudiomessages.xyz
-127.0.0.1	react.webaudiomessages.xyz
-127.0.0.1	airbluefootgear.com
-127.0.0.1	fastylamberta.click
-127.0.0.1	walkinsonbeer.click
-127.0.0.1	tc1.easingaffix.site
-127.0.0.1	vickmarine.com
-127.0.0.1	mrdltd.com
-127.0.0.1	iguanadx.run
-127.0.0.1	tycok.icu
-127.0.0.1	vyzap.icu
-127.0.0.1	windows.ddnsguru.com
-127.0.0.1	sewektrip.shop
-127.0.0.1	hamditebz-51107.portmap.io
-127.0.0.1	hobir.icu
-# Number of entries: 35339
+# Number of entries: 35356
