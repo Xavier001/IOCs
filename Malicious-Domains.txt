@@ -1,11 +1,46 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-24 10:19:29 UTC                        #
+# Last updated: 2025-10-24 12:28:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	2c.j8ro.ru
+127.0.0.1	r00m.rjofi.online
+127.0.0.1	4v.hyk5.ru
+127.0.0.1	1h.fe-k2.ru
+127.0.0.1	s1de.rjofi.online
+127.0.0.1	zbj2025.com
+127.0.0.1	abril04.con-ip.com
+127.0.0.1	metmanagermandatesxxxxme.duckdns.org
+127.0.0.1	plentymattersub.duckdns.org
+127.0.0.1	pradaguccimaneto.freeddns.org
+127.0.0.1	choose-cited.gl.at.ply.gg
+127.0.0.1	manythingsilove.duckdns.org
+127.0.0.1	person-pencil.gl.at.ply.gg
+127.0.0.1	undetected123-42839.portmap.host
+127.0.0.1	m1dn1ght-32162.portmap.host
+127.0.0.1	nr.d5en.ru
+127.0.0.1	bark.rjofi.online
+127.0.0.1	c9.d5-en.ru
+127.0.0.1	moon.rjofi.online
+127.0.0.1	77.b2ra.ru
+127.0.0.1	mesh.treqz.online
+127.0.0.1	ua.a-zon.ru
+127.0.0.1	c0re.treqz.online
+127.0.0.1	z6.3druv.ru
+127.0.0.1	dune.treqz.online
+127.0.0.1	gum.dor8y.online
+127.0.0.1	ny.kaq51.ru
+127.0.0.1	gem.dor8y.online
+127.0.0.1	r1se.treqz.online
+127.0.0.1	dr.j8ro.ru
+127.0.0.1	fj.hyk5.ru
+127.0.0.1	gl0w.treqz.online
+127.0.0.1	far.dor8y.online
+127.0.0.1	py.fe-k2.ru
+127.0.0.1	kz.d5en.ru
 127.0.0.1	0a.d5-en.ru
 127.0.0.1	mint.treqz.online
 127.0.0.1	ea.b2ra.ru
@@ -35352,14 +35387,4 @@
 127.0.0.1	u1.putdownpopcorn.digital
 127.0.0.1	vekeq.icu
 127.0.0.1	pypim.icu
-127.0.0.1	dvrhelper.anondns.net
-127.0.0.1	techsupport.anondns.net
-127.0.0.1	rustbot.anondns.net
-127.0.0.1	miraisucks.anondns.net
-127.0.0.1	lupuj.icu
-127.0.0.1	tazaz.icu
-127.0.0.1	woodpeckersd.run
-127.0.0.1	wolverineas.top
-127.0.0.1	timov.icu
-127.0.0.1	qwlpert.com
-# Number of entries: 35356
+# Number of entries: 35381
