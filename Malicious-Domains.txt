@@ -1,11 +1,69 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-25 22:07:58 UTC                        #
+# Last updated: 2025-10-26 03:50:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	jam.me2v.ru
+127.0.0.1	m0k2.1lt22.ru
+127.0.0.1	tea.n4ke.ru
+127.0.0.1	p7vx.3-s0u.ru
+127.0.0.1	cap.qen9.ru
+127.0.0.1	z8q.1lt22.ru
+127.0.0.1	pan.m4rj.ru
+127.0.0.1	w4ty.3-s0u.ru
+127.0.0.1	k3.1lt22.ru
+127.0.0.1	bit.ju5q.ru
+127.0.0.1	p5w0.7aoasu3.ru
+127.0.0.1	n1qh.3-s0u.ru
+127.0.0.1	wet.vex0.ru
+127.0.0.1	bud.xa5r.ru
+127.0.0.1	top.b9ku.ru
+127.0.0.1	k8zr.3-s0u.ru
+127.0.0.1	bar.fa0n.ru
+127.0.0.1	t4q.7aoasu3.ru
+127.0.0.1	spy.pl8a.ru
+127.0.0.1	sod.me2v.ru
+127.0.0.1	y5fw.4-l8u.ru
+127.0.0.1	cab.n4ke.ru
+127.0.0.1	dug.qen9.ru
+127.0.0.1	ice.m4rj.ru
+127.0.0.1	c2jn.4-l8u.ru
+127.0.0.1	pun.ju5q.ru
+127.0.0.1	gum.vex0.ru
+127.0.0.1	v9rx.4-l8u.ru
+127.0.0.1	rub.xa5r.ru
+127.0.0.1	mat.b9ku.ru
+127.0.0.1	t1kd.4-l8u.ru
+127.0.0.1	jar.fa0n.ru
+127.0.0.1	vow.pl8a.ru
+127.0.0.1	hq7b.4-l8u.ru
+127.0.0.1	hop.me2v.ru
+127.0.0.1	rut.n4ke.ru
+127.0.0.1	m7y1.7aoasu3.ru
+127.0.0.1	dip.qen9.ru
+127.0.0.1	z3mp.4-l8u.ru
+127.0.0.1	mob.m4rj.ru
+127.0.0.1	p0sb.o-b-79.ru
+127.0.0.1	raw.ju5q.ru
+127.0.0.1	7rcl.o-b-79.ru
+127.0.0.1	did.vex0.ru
+127.0.0.1	x9pa.o-b-79.ru
+127.0.0.1	x2z.7aoasu3.ru
+127.0.0.1	ge1.xa5r.ru
+127.0.0.1	4wj.o-b-79.ru
+127.0.0.1	7d.ziqa.ru
+127.0.0.1	e1mk.o-b-79.ru
+127.0.0.1	q6yt.o-b-79.ru
+127.0.0.1	iv.yjor.ru
+127.0.0.1	s0ga.i-c-81.ru
+127.0.0.1	0q.xvo4.ru
+127.0.0.1	n5vx.i-c-81.ru
+127.0.0.1	ma.xer-o.ru
+127.0.0.1	wj.x-vo4.ru
+127.0.0.1	2lh.i-c-81.ru
 127.0.0.1	jg.vuln5.ru
 127.0.0.1	f8rn.i-c-81.ru
 127.0.0.1	sq.twy0.ru
@@ -35529,4 +35587,4 @@
 127.0.0.1	greeconoimy.run
 127.0.0.1	geoecony.live
 127.0.0.1	teklits.com
-# Number of entries: 35523
+# Number of entries: 35581
