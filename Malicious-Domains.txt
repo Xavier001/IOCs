@@ -1,11 +1,109 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-26 12:18:39 UTC                        #
+# Last updated: 2025-10-26 22:07:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	s1lk.n-4-ke.ru
+127.0.0.1	mail.re-t-0.ru
+127.0.0.1	5o.do-k3.ru
+127.0.0.1	ye.ze-lu.ru
+127.0.0.1	eh.tr-8n.ru
+127.0.0.1	l0re.n-4-ke.ru
+127.0.0.1	icebergtbilisi.ge
+127.0.0.1	ablelifepurelife.ydns.eu
+127.0.0.1	ablelifepurelifebk.ydns.eu
+127.0.0.1	lake.re-t-0.ru
+127.0.0.1	ah.to-qa.ru
+127.0.0.1	tab.ju5q.ru
+127.0.0.1	end.xa5r.ru
+127.0.0.1	mint.n-4-ke.ru
+127.0.0.1	jump.re-t-0.ru
+127.0.0.1	go.tr-8n.ru
+127.0.0.1	p1.re-t0.ru
+127.0.0.1	join.re-t-0.ru
+127.0.0.1	ol.wi-7e.ru
+127.0.0.1	my.s2-ly.ru
+127.0.0.1	t00l.pl-8-a.ru
+127.0.0.1	fa.x3-ri.ru
+127.0.0.1	c0ve.n-4-ke.ru
+127.0.0.1	fern.n-4-ke.ru
+127.0.0.1	cog.vex0.ru
+127.0.0.1	hi.ky-4x.ru
+127.0.0.1	f1le.pl-8-a.ru
+127.0.0.1	kenges-rakishev-investigation.is
+127.0.0.1	dorimeinserino.shop
+127.0.0.1	www.aieov.com
+127.0.0.1	auth.snickers.lol
+127.0.0.1	b7gs.4aeaco0.ru
+127.0.0.1	idea.pl-8-a.ru
+127.0.0.1	uh.qen-9.ru
+127.0.0.1	host.pl-8-a.ru
+127.0.0.1	ex.to-qa.ru
+127.0.0.1	m.4aeaco0.ru
+127.0.0.1	b00t.no-ip.info
+127.0.0.1	growth-turtle.gl.at.ply.gg
+127.0.0.1	ka.do-k3.ru
+127.0.0.1	dedumanno.duckdns.org
+127.0.0.1	articles-dividend.gl.at.ply.gg
+127.0.0.1	job-citizenship.gl.at.ply.gg
+127.0.0.1	county-secret.gl.at.ply.gg
+127.0.0.1	gift.pl-8-a.ru
+127.0.0.1	em.n4-ke.ru
+127.0.0.1	we.vex-0.ru
+127.0.0.1	gear.pl-8-a.ru
+127.0.0.1	q8yr.4aeaco0.ru
+127.0.0.1	ma.r1v-x.ru
+127.0.0.1	pa55.me-2-v.ru
+127.0.0.1	am.x3-ri.ru
+127.0.0.1	needleexperience.xyz
+127.0.0.1	my.to-qa.ru
+127.0.0.1	write-event.gl.at.ply.gg
+127.0.0.1	ka.s2-ly.ru
+127.0.0.1	s1te.me-2-v.ru
+127.0.0.1	classic-dave.gl.at.ply.gg
+127.0.0.1	rfvlive.help
+127.0.0.1	utps.live
+127.0.0.1	systemsupport.top
+127.0.0.1	nwrstghbwrtjynrsfghberth.com
+127.0.0.1	ka.ze-lu.ru
+127.0.0.1	farm.me-2-v.ru
+127.0.0.1	ka.ky-4x.ru
+127.0.0.1	j1.4aeaco0.ru
+127.0.0.1	pe.vex-0.ru
+127.0.0.1	bhware.store
+127.0.0.1	root.bhware.store
+127.0.0.1	edit.me-2-v.ru
+127.0.0.1	re.wi-7e.ru
+127.0.0.1	xh5.6aiiwi2.ru
+127.0.0.1	ut.tr-8n.ru
+127.0.0.1	er.n4-ke.ru
+127.0.0.1	r2n.6aiiwi2.ru
+127.0.0.1	data.me-2-v.ru
+127.0.0.1	em.pl-8a.ru
+127.0.0.1	calm.me-2-v.ru
+127.0.0.1	ho.do-k3.ru
+127.0.0.1	f.6aiiwi2.ru
+127.0.0.1	h0me.xa-5-r.ru
+127.0.0.1	da.qen-9.ru
+127.0.0.1	c0de.xa-5-r.ru
+127.0.0.1	l9q7.6aiiwi2.ru
+127.0.0.1	oy.r1v-x.ru
+127.0.0.1	oh.re-t0.ru
+127.0.0.1	u0b.6aiiwi2.ru
+127.0.0.1	jab.b9ku.ru
+127.0.0.1	boat.xa-5-r.ru
+127.0.0.1	fry.fa0n.ru
+127.0.0.1	wed.pl8a.ru
+127.0.0.1	area.xa-5-r.ru
+127.0.0.1	one.me2v.ru
+127.0.0.1	c3.6aiiwi2.ru
+127.0.0.1	acid.xa-5-r.ru
+127.0.0.1	our.n4ke.ru
+127.0.0.1	k9r2.7ph88.ru
+127.0.0.1	yam.qen9.ru
 127.0.0.1	par.m4rj.ru
 127.0.0.1	u0b.7ph88.ru
 127.0.0.1	able.xa-5-r.ru
@@ -35634,9 +35732,4 @@
 127.0.0.1	electronics-junk.gl.at.ply.gg
 127.0.0.1	i.30x.ru
 127.0.0.1	srovuongtu.com
-127.0.0.1	logced.com
-127.0.0.1	bid-nova.gl.at.ply.gg
-127.0.0.1	superaidol-42726.portmap.io
-127.0.0.1	typoi-53795.portmap.io
-127.0.0.1	streamingrpots.duckdns.org
-# Number of entries: 35633
+# Number of entries: 35726
