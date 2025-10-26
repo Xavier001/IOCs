@@ -1,11 +1,31 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-26 10:02:04 UTC                        #
+# Last updated: 2025-10-26 12:18:39 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	par.m4rj.ru
+127.0.0.1	u0b.7ph88.ru
+127.0.0.1	able.xa-5-r.ru
+127.0.0.1	thread-faq.gl.at.ply.gg
+127.0.0.1	norot15.ddns.net
+127.0.0.1	bln.vex0.ru
+127.0.0.1	k4sm.9h-5y.ru
+127.0.0.1	hue.b9ku.ru
+127.0.0.1	v0jp.9h-5y.ru
+127.0.0.1	h8rf.9h-5y.ru
+127.0.0.1	boy.fa0n.ru
+127.0.0.1	c1wn.9h-5y.ru
+127.0.0.1	wee.pl8a.ru
+127.0.0.1	p9y1.7ph88.ru
+127.0.0.1	fad.me2v.ru
+127.0.0.1	a3z.7ph88.ru
+127.0.0.1	few.n4ke.ru
+127.0.0.1	z6qa.9h-5y.ru
+127.0.0.1	ate.qen9.ru
+127.0.0.1	t3yg.9h-5y.ru
 127.0.0.1	l5vd.8r-4u.ru
 127.0.0.1	odd.m4rj.ru
 127.0.0.1	aid.ju5q.ru
@@ -35619,11 +35639,4 @@
 127.0.0.1	superaidol-42726.portmap.io
 127.0.0.1	typoi-53795.portmap.io
 127.0.0.1	streamingrpots.duckdns.org
-127.0.0.1	farav.press
-127.0.0.1	biwiv.press
-127.0.0.1	security.flacgaurd.com
-127.0.0.1	zemiosp.com
-127.0.0.1	team-evaluating.gl.at.ply.gg
-127.0.0.1	cabym.press
-127.0.0.1	becel.press
-# Number of entries: 35620
+# Number of entries: 35633
