@@ -1,11 +1,27 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-27 10:08:43 UTC                        #
+# Last updated: 2025-10-27 12:33:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	fire.x-3-ri.ru
+127.0.0.1	dry.la9q.ru
+127.0.0.1	v7.7kf1u.ru
+127.0.0.1	sessomania.com
+127.0.0.1	tip.z3lu.ru
+127.0.0.1	cold.x-3-ri.ru
+127.0.0.1	but.v3sa.ru
+127.0.0.1	sorbbolindo.no-ip.biz
+127.0.0.1	ratings-architects.gl.at.ply.gg
+127.0.0.1	h2k.7kf1u.ru
+127.0.0.1	pap.tov4.ru
+127.0.0.1	bird.x-3-ri.ru
+127.0.0.1	dry.mi4x.ru
+127.0.0.1	no.vex-0.ru
+127.0.0.1	ad.n4-ke.ru
+127.0.0.1	c5r.3j5-y.ru
 127.0.0.1	qi.wi-7e.ru
 127.0.0.1	d4pz.3j5-y.ru
 127.0.0.1	eh.pl-8a.ru
@@ -35794,22 +35810,4 @@
 127.0.0.1	office-mirror-ue.duckdns.org
 127.0.0.1	domzblueman.online
 127.0.0.1	4a33131c-0fd3-4beb-bb52-c1bee6551841-00-2pvukptvjihkt.worf.replit.dev
-127.0.0.1	fisop.press
-127.0.0.1	security-7f2c-run.com
-127.0.0.1	techcastlev.live
-127.0.0.1	jusev.press
-127.0.0.1	heraldryr.digital
-127.0.0.1	dragonfireq.digital
-127.0.0.1	blacksmeiths.digital
-127.0.0.1	sorcery.digital
-127.0.0.1	stackwaven.digital
-127.0.0.1	rushelectc.digital
-127.0.0.1	automazye.digital
-127.0.0.1	webmindsk.digital
-127.0.0.1	hyperforge.digital
-127.0.0.1	courtjew.digital
-127.0.0.1	maxcloudr.digital
-127.0.0.1	sieeraft.digital
-127.0.0.1	bytequesty.digital
-127.0.0.1	gameverseb.digital
-# Number of entries: 35806
+# Number of entries: 35804
