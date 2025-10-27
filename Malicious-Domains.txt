@@ -1,11 +1,65 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-27 04:07:47 UTC                        #
+# Last updated: 2025-10-27 10:08:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	qi.wi-7e.ru
+127.0.0.1	d4pz.3j5-y.ru
+127.0.0.1	eh.pl-8a.ru
+127.0.0.1	y7mf.3j5-y.ru
+127.0.0.1	u3qa.3j5-y.ru
+127.0.0.1	oh.s2-ly.ru
+127.0.0.1	k8xn.3j5-y.ru
+127.0.0.1	pe.r1v-x.ru
+127.0.0.1	nu.qen-9.ru
+127.0.0.1	r0lg.3j5-y.ru
+127.0.0.1	ax.tr-8n.ru
+127.0.0.1	os.x3-ri.ru
+127.0.0.1	v3n.2h7-o.ru
+127.0.0.1	ye.vex-0.ru
+127.0.0.1	gpu.orca-trade.com
+127.0.0.1	gz.technicalprorj.xyz
+127.0.0.1	wed.salahelden.com
+127.0.0.1	fri.technicalprorj.xyz
+127.0.0.1	manaura-43718.portmap.host
+127.0.0.1	3thebfgnh.localto.net
+127.0.0.1	z9kahfjxc.localto.net
+127.0.0.1	new.executor.qzz.io
+127.0.0.1	v2.xoilaczzzgz.tv
+127.0.0.1	v3.xoilaczzzgz.tv
+127.0.0.1	blog.atri.today
+127.0.0.1	gatex.xoilaczzzgz.tv
+127.0.0.1	kw.atri.today
+127.0.0.1	pay.atri.today
+127.0.0.1	ye.qen-9.ru
+127.0.0.1	ef.s2-ly.ru
+127.0.0.1	n2bv.2h7-o.ru
+127.0.0.1	ow.x3-ri.ru
+127.0.0.1	6yd.ru
+127.0.0.1	ya.tr-8n.ru
+127.0.0.1	h5yx.2h7-o.ru
+127.0.0.1	ye.ky-4x.ru
+127.0.0.1	xi.pl-8a.ru
+127.0.0.1	c9tw.2h7-o.ru
+127.0.0.1	ho.n4-ke.ru
+127.0.0.1	getting-judicial.gl.at.ply.gg
+127.0.0.1	za.r1v-x.ru
+127.0.0.1	z1mk.2h7-o.ru
+127.0.0.1	ow.ze-lu.ru
+127.0.0.1	no.wi-7e.ru
+127.0.0.1	q6pr.2h7-o.ru
+127.0.0.1	ya.to-qa.ru
+127.0.0.1	yo.re-t0.ru
+127.0.0.1	ai.ky-4x.ru
+127.0.0.1	m3yc.3v-3y.ru
+127.0.0.1	1t.x3-ri.ru
+127.0.0.1	jo.s2-ly.ru
+127.0.0.1	t6b.3v-3y.ru
+127.0.0.1	jo.n4-ke.ru
+127.0.0.1	lo.ze-lu.ru
 127.0.0.1	ae.to-qa.ru
 127.0.0.1	g1zx.3v-3y.ru
 127.0.0.1	fa.wi-7e.ru
@@ -35758,24 +35812,4 @@
 127.0.0.1	sieeraft.digital
 127.0.0.1	bytequesty.digital
 127.0.0.1	gameverseb.digital
-127.0.0.1	buzzarddf.live
-127.0.0.1	fishgh.digital
-127.0.0.1	parakehjet.run
-127.0.0.1	bearjk.live
-127.0.0.1	crocodilefg.top
-127.0.0.1	puxup.press
-127.0.0.1	backparty.icu
-127.0.0.1	spoonarch.xyz
-127.0.0.1	www.tomo.ink
-127.0.0.1	vpn.founderic.xyz
-127.0.0.1	zipuk.press
-127.0.0.1	puqum.press
-127.0.0.1	javascript-67t.pages.dev
-127.0.0.1	security-9y5v-scan.com
-127.0.0.1	daltum.mx
-127.0.0.1	bojut.press
-127.0.0.1	tahip.press
-127.0.0.1	electronics-junk.gl.at.ply.gg
-127.0.0.1	i.30x.ru
-127.0.0.1	srovuongtu.com
-# Number of entries: 35772
+# Number of entries: 35806
