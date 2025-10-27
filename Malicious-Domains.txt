@@ -1,11 +1,57 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-26 22:07:36 UTC                        #
+# Last updated: 2025-10-27 04:07:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ae.to-qa.ru
+127.0.0.1	g1zx.3v-3y.ru
+127.0.0.1	fa.wi-7e.ru
+127.0.0.1	lo.pl-8a.ru
+127.0.0.1	he.tr-8n.ru
+127.0.0.1	r2tl.3v-3y.ru
+127.0.0.1	me.r1v-x.ru
+127.0.0.1	t9x4.7kf1u.ru
+127.0.0.1	he.re-t0.ru
+127.0.0.1	so.x3-ri.ru
+127.0.0.1	x7md.3v-3y.ru
+127.0.0.1	ta.vex-0.ru
+127.0.0.1	mz1.7kf1u.ru
+127.0.0.1	bililbilil.xyz
+127.0.0.1	ar.ze-lu.ru
+127.0.0.1	f9q.3v-3y.ru
+127.0.0.1	ox.to-qa.ru
+127.0.0.1	q3.7kf1u.ru
+127.0.0.1	na.tr-8n.ru
+127.0.0.1	he.qen-9.ru
+127.0.0.1	blue.ky-4-x.ru
+127.0.0.1	ut.ky-4x.ru
+127.0.0.1	pine.tr-8-n.ru
+127.0.0.1	cook.ky-4-x.ru
+127.0.0.1	aw.re-t0.ru
+127.0.0.1	quit.ky-4-x.ru
+127.0.0.1	rift.tr-8-n.ru
+127.0.0.1	re.s2-ly.ru
+127.0.0.1	clay.tr-8-n.ru
+127.0.0.1	da.wi-7e.ru
+127.0.0.1	1t.ky-4x.ru
+127.0.0.1	port.ky-4-x.ru
+127.0.0.1	ye.n4-ke.ru
+127.0.0.1	oe.wi-7e.ru
+127.0.0.1	open.ky-4-x.ru
+127.0.0.1	b0.vex-0.ru
+127.0.0.1	s0l0.tr-8-n.ru
+127.0.0.1	if.re-t0.ru
+127.0.0.1	go.r1v-x.ru
+127.0.0.1	bark.tr-8-n.ru
+127.0.0.1	node.ky-4-x.ru
+127.0.0.1	gale.tr-8-n.ru
+127.0.0.1	el.qen-9.ru
+127.0.0.1	dune.n-4-ke.ru
+127.0.0.1	b00k.re-t-0.ru
+127.0.0.1	l0gs.re-t-0.ru
 127.0.0.1	s1lk.n-4-ke.ru
 127.0.0.1	mail.re-t-0.ru
 127.0.0.1	5o.do-k3.ru
@@ -35732,4 +35778,4 @@
 127.0.0.1	electronics-junk.gl.at.ply.gg
 127.0.0.1	i.30x.ru
 127.0.0.1	srovuongtu.com
-# Number of entries: 35726
+# Number of entries: 35772
