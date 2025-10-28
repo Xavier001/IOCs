@@ -1,11 +1,69 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-28 04:01:26 UTC                        #
+# Last updated: 2025-10-28 10:07:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	h2v.4md69.ru
+127.0.0.1	q9lt.1s-1n.ru
+127.0.0.1	say.p2om.ru
+127.0.0.1	h2vx.1s-1n.ru
+127.0.0.1	rot.la9q.ru
+127.0.0.1	why.z3lu.ru
+127.0.0.1	ion.v3sa.ru
+127.0.0.1	z9k1.4md69.ru
+127.0.0.1	yaw.tov4.ru
+127.0.0.1	r4yd.1s-1n.ru
+127.0.0.1	hit.mi4x.ru
+127.0.0.1	m7qc.1s-1n.ru
+127.0.0.1	m7p.4md69.ru
+127.0.0.1	if.tov-4.ru
+127.0.0.1	iit.tweethost.com
+127.0.0.1	iit.teba-forexport.com
+127.0.0.1	portal.dmg-tech.com
+127.0.0.1	z8wm.7-09f.ru
+127.0.0.1	inspectlet.observer
+127.0.0.1	insightanalytics.pro
+127.0.0.1	cdnjscookies.top
+127.0.0.1	gagichls.top
+127.0.0.1	wordpress-login.com
+127.0.0.1	wordpress-commerce.com
+127.0.0.1	ls1ks.xyz
+127.0.0.1	suckerity.xyz
+127.0.0.1	woscket.store
+127.0.0.1	wsocket.store
+127.0.0.1	wooadminpro.com
+127.0.0.1	elementatorprof.online
+127.0.0.1	gigacgetski.top
+127.0.0.1	kezopersuc.xyz
+127.0.0.1	webawast.xyz
+127.0.0.1	asd123qwe2.online
+127.0.0.1	keritysuc.xyz
+127.0.0.1	websocket.click
+127.0.0.1	babymarket.io
+127.0.0.1	feabihc.cyou
+127.0.0.1	decision-danny.gl.at.ply.gg
+127.0.0.1	whiteangelcameonearthwithgodsignformegod.duckdns.org
+127.0.0.1	faggotfaggotfaggotfaggotfaggotfaggotfaggotfaggotfaggotfaggot.die.skin
+127.0.0.1	contents-douglas.gl.at.ply.gg
+127.0.0.1	robotproject.ddns.net
+127.0.0.1	safe-railway.gl.at.ply.gg
+127.0.0.1	doxxing.online
+127.0.0.1	seznam.giize.com
+127.0.0.1	us.ra-9x.ru
+127.0.0.1	g1rq.7-09f.ru
+127.0.0.1	do.z3-lu.ru
+127.0.0.1	wilsonkumar.duckdns.org
+127.0.0.1	giftoo1.ydns.eu
+127.0.0.1	q3.4md69.ru
+127.0.0.1	uh.yq-4n.ru
+127.0.0.1	t2xb.7-09f.ru
+127.0.0.1	go.r0-mx.ru
+127.0.0.1	y9lg.9-32p.ru
+127.0.0.1	bi.hu-7e.ru
+127.0.0.1	k9r2.0bj3i.ru
 127.0.0.1	my.com.au.debbiesimril.com
 127.0.0.1	ox.g-vox.ru
 127.0.0.1	u0b.0bj3i.ru
@@ -35923,20 +35981,4 @@
 127.0.0.1	doreblue.com
 127.0.0.1	milerdrew.cc
 127.0.0.1	solidwork.pro
-127.0.0.1	asperod.tech
-127.0.0.1	www.normanwaddell.com
-127.0.0.1	bookings.odoc.life
-127.0.0.1	dubyl.press
-127.0.0.1	mylan.press
-127.0.0.1	zenithcorde.top
-127.0.0.1	techguidet.digital
-127.0.0.1	btcgeared.live
-127.0.0.1	techsyncq.run
-127.0.0.1	toptalentw.top
-127.0.0.1	drindin.org
-127.0.0.1	tyfew.press
-127.0.0.1	denemescprittt.com
-127.0.0.1	ddos.dnsnb8.net
-127.0.0.1	aluminumsternness.shop
-127.0.0.1	fivel.press
-# Number of entries: 35933
+# Number of entries: 35975
