@@ -1,11 +1,37 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-28 10:07:17 UTC                        #
+# Last updated: 2025-10-28 12:28:08 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	far.mi4x.ru
+127.0.0.1	flat.da5v.online
+127.0.0.1	xl.tov-4.ru
+127.0.0.1	am.q-len.ru
+127.0.0.1	appbnc-connexion.online
+127.0.0.1	simplecopseholding.com
+127.0.0.1	f1rm.da5v.online
+127.0.0.1	ubongoload.duckdns.org
+127.0.0.1	dirolchiks.tplinkdns.com
+127.0.0.1	multiple-knitting.gl.at.ply.gg
+127.0.0.1	need-disturbed.gl.at.ply.gg
+127.0.0.1	ex.j5-ol.ru
+127.0.0.1	ye.fy-7a.ru
+127.0.0.1	f1le.da5v.online
+127.0.0.1	v1.6cm81.ru
+127.0.0.1	nu.n2-ke.ru
+127.0.0.1	nu.ra-9x.ru
+127.0.0.1	no.z3-lu.ru
+127.0.0.1	f15h.da5v.online
+127.0.0.1	no.r0-mx.ru
+127.0.0.1	x3pn.1s-1n.ru
+127.0.0.1	ha.hu-7e.ru
+127.0.0.1	jump.0x1.ink
+127.0.0.1	52sya04g88x3k.cfc-execute.su.baidubce.com
+127.0.0.1	d6aw.1s-1n.ru
+127.0.0.1	t04.4md69.ru
 127.0.0.1	h2v.4md69.ru
 127.0.0.1	q9lt.1s-1n.ru
 127.0.0.1	say.p2om.ru
@@ -35977,8 +36003,4 @@
 127.0.0.1	folew.press
 127.0.0.1	lammysecurity.com
 127.0.0.1	quzem.press
-127.0.0.1	jimriehls.com
-127.0.0.1	doreblue.com
-127.0.0.1	milerdrew.cc
-127.0.0.1	solidwork.pro
-# Number of entries: 35975
+# Number of entries: 35997
