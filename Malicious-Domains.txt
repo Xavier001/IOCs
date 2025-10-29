@@ -1,11 +1,94 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-28 22:11:56 UTC                        #
+# Last updated: 2025-10-29 04:07:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hew.vo3n.ru
+127.0.0.1	amfspro.click
+127.0.0.1	gig.n4ym.ru
+127.0.0.1	m.4qua0.ru
+127.0.0.1	hat.je9r.ru
+127.0.0.1	b1d.da5v.ru
+127.0.0.1	n2ch.9ha-t.ru
+127.0.0.1	led.x2lu.ru
+127.0.0.1	bet.pi6o.ru
+127.0.0.1	x9z.4qua0.ru
+127.0.0.1	ken.r9xa.ru
+127.0.0.1	g8wy.9ha-t.ru
+127.0.0.1	dry.tu7q.ru
+127.0.0.1	p5ld.9ha-t.ru
+127.0.0.1	hid.m4ze.ru
+127.0.0.1	bra.k8li.ru
+127.0.0.1	x9sr.9ha-t.ru
+127.0.0.1	cap.vo3n.ru
+127.0.0.1	had.n4ym.ru
+127.0.0.1	may.je9r.ru
+127.0.0.1	q1.4qua0.ru
+127.0.0.1	t0qm.9ha-t.ru
+127.0.0.1	has.da5v.ru
+127.0.0.1	c0re.do-k-3.ru
+127.0.0.1	bus.x2lu.ru
+127.0.0.1	b3vf.9ha-t.ru
+127.0.0.1	10ta.do-k-3.ru
+127.0.0.1	fro.pi6o.ru
+127.0.0.1	y6nb.7l-0b.ru
+127.0.0.1	asp.r9xa.ru
+127.0.0.1	r2px.7l-0b.ru
+127.0.0.1	dud.tu7q.ru
+127.0.0.1	k7w.7l-0b.ru
+127.0.0.1	nag.m4ze.ru
+127.0.0.1	d1hs.7l-0b.ru
+127.0.0.1	pop.k8li.ru
+127.0.0.1	s1ne.do-k-3.ru
+127.0.0.1	ant.vo3n.ru
+127.0.0.1	pit.n4ym.ru
+127.0.0.1	sage.do-k-3.ru
+127.0.0.1	v9tc.7l-0b.ru
+127.0.0.1	fin.je9r.ru
+127.0.0.1	m4qy.7l-0b.ru
+127.0.0.1	rum.da5v.ru
+127.0.0.1	hot.x2lu.ru
+127.0.0.1	onyx.do-k-3.ru
+127.0.0.1	rub.pi6o.ru
+127.0.0.1	a8lx.1p-8s.ru
+127.0.0.1	opal.do-k-3.ru
+127.0.0.1	ham.r9xa.ru
+127.0.0.1	bug.tu7q.ru
+127.0.0.1	u3kd.1p-8s.ru
+127.0.0.1	rye.m4ze.ru
+127.0.0.1	c7wp.1p-8s.ru
+127.0.0.1	bow.k8li.ru
+127.0.0.1	brirbxl.cyou
+127.0.0.1	calbewo.cyou
+127.0.0.1	meeqgem.cyou
+127.0.0.1	venezdj.cyou
+127.0.0.1	stamozp.cyou
+127.0.0.1	faeadud.cyou
+127.0.0.1	foodopg.cyou
+127.0.0.1	irrufnv.cyou
+127.0.0.1	scatbhn.cyou
+127.0.0.1	ventagl.cyou
+127.0.0.1	phthkob.cyou
+127.0.0.1	splwplx.cyou
+127.0.0.1	teered.locker
+127.0.0.1	anomal.locker
+127.0.0.1	strisef.mom
+127.0.0.1	kaloop.cyou
+127.0.0.1	sentmpy.cyou
+127.0.0.1	texaajc.cyou
+127.0.0.1	genubxc.cyou
+127.0.0.1	sounqp.cyou
+127.0.0.1	h9r.1p-8s.ru
+127.0.0.1	day.vo3n.ru
+127.0.0.1	mend.s-2-ly.ru
+127.0.0.1	up.je5w.com
+127.0.0.1	etch.s-2-ly.ru
+127.0.0.1	z1mv.1p-8s.ru
+127.0.0.1	bu5.je5w.com
+127.0.0.1	reed.s-2-ly.ru
 127.0.0.1	bay.r7va.com
 127.0.0.1	q5tn.1p-8s.ru
 127.0.0.1	pan.je5w.com
@@ -36147,15 +36230,10 @@
 127.0.0.1	quag.cn
 127.0.0.1	yoloff.pages.dev
 127.0.0.1	nasalcloud.com
-127.0.0.1	ppssl.press
 127.0.0.1	ace-project.org
 127.0.0.1	medievailfea.run
 127.0.0.1	h1.startingshabby.world
-127.0.0.1	wrltc.press
-127.0.0.1	qrczb.press
 127.0.0.1	pigshow.digital
 127.0.0.1	relmake.pages.dev
 127.0.0.1	security-2u6g-log.com
-127.0.0.1	qq.rqelo.live
-127.0.0.1	1618meritking.com
-# Number of entries: 36152
+# Number of entries: 36230
