@@ -1,11 +1,44 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-29 10:18:50 UTC                        #
+# Last updated: 2025-10-29 12:33:42 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wq7.1z22k.ru
+127.0.0.1	tvx.s7li.ru
+127.0.0.1	mint.vo-3-n.ru
+127.0.0.1	q2v.ju8r.ru
+127.0.0.1	nfs8u9aw.shop
+127.0.0.1	ad4rchr39w8f.fun
+127.0.0.1	zppd.live
+127.0.0.1	urclive.help
+127.0.0.1	rwmb.xyz
+127.0.0.1	www.hasist.top
+127.0.0.1	hmd.gl8r.ru
+127.0.0.1	d5m9.1z22k.ru
+127.0.0.1	windefenderconection.duckdns.org
+127.0.0.1	takes-thinkpad.gl.at.ply.gg
+127.0.0.1	yu2.ze9y.ru
+127.0.0.1	bark.vo-3-n.ru
+127.0.0.1	xc6.s7li.ru
+127.0.0.1	www.aadcdnn.m365.1drive.zip
+127.0.0.1	secureapimiddleware.com
+127.0.0.1	k0.1z22k.ru
+127.0.0.1	fun.je9r.ru
+127.0.0.1	goat.tu-7-q.ru
+127.0.0.1	hay.da5v.ru
+127.0.0.1	f1g.x2lu.ru
+127.0.0.1	fab.pi6o.ru
+127.0.0.1	golf.tu-7-q.ru
+127.0.0.1	u1x.1z22k.ru
+127.0.0.1	boa.r9xa.ru
+127.0.0.1	joy.tu7q.ru
+127.0.0.1	s3.1z22k.ru
+127.0.0.1	dune.tu-7-q.ru
+127.0.0.1	fix.k8li.ru
+127.0.0.1	bee.je9r.ru
 127.0.0.1	jar.da5v.ru
 127.0.0.1	b1rd.tu-7-q.ru
 127.0.0.1	m0x.6wou3.ru
@@ -36223,32 +36256,4 @@
 127.0.0.1	srndp.press
 127.0.0.1	organicflowers.site
 127.0.0.1	marinescoatsnow.click
-127.0.0.1	attt.shop
-127.0.0.1	swordandsr.digital
-127.0.0.1	botflowe.digital
-127.0.0.1	medievaltao.digital
-127.0.0.1	aquilaew.digital
-127.0.0.1	battloeaxes.digital
-127.0.0.1	enchanyo.digital
-127.0.0.1	wizardrry.digital
-127.0.0.1	romulusy.digital
-127.0.0.1	fairytas.digital
-127.0.0.1	castuwalls.digital
-127.0.0.1	mealair.digital
-127.0.0.1	equitesq.digital
-127.0.0.1	questforhoq.digital
-127.0.0.1	caligust.digital
-127.0.0.1	legenudso.digital
-127.0.0.1	smartasxlgorithm.shop
-127.0.0.1	gladiisr.digital
-127.0.0.1	wiyzardin.digital
-127.0.0.1	obeliske.digital
-127.0.0.1	realtorpichardo.com
-127.0.0.1	gotoselfmade.pro
-127.0.0.1	ctpzd.press
-127.0.0.1	parismeteells.net
-127.0.0.1	u1.paralegalchemicals.run
-127.0.0.1	kqwrv.press
-127.0.0.1	easyboty.digital
-127.0.0.1	eaglekl.digital
-# Number of entries: 36245
+# Number of entries: 36250
