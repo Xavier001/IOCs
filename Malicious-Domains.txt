@@ -1,11 +1,80 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-29 22:12:57 UTC                        #
+# Last updated: 2025-10-30 03:58:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nyd.po5m.ru
+127.0.0.1	tj3.ye-t5c.ru
+127.0.0.1	x.7g37b.ru
+127.0.0.1	a19.xa4p.ru
+127.0.0.1	gsd.ka2s.ru
+127.0.0.1	z0d.xa4p.ru
+127.0.0.1	g8.ye-t5c.ru
+127.0.0.1	cct.ka2s.ru
+127.0.0.1	d2a5.5no-v.ru
+127.0.0.1	j83.wi0x.ru
+127.0.0.1	1z.5no-v.ru
+127.0.0.1	n84.po5m.ru
+127.0.0.1	qpr.5no-v.ru
+127.0.0.1	ewd.gl8r.ru
+127.0.0.1	m94.5no-v.ru
+127.0.0.1	y0q9.7g37b.ru
+127.0.0.1	vkp.n5ol.ru
+127.0.0.1	405.ju8r.ru
+127.0.0.1	c7t.5no-v.ru
+127.0.0.1	c99.bo3l.ru
+127.0.0.1	g7x.7g37b.ru
+127.0.0.1	cbo.xa4p.ru
+127.0.0.1	uv4.r4tu.ru
+127.0.0.1	yx.5no-v.ru
+127.0.0.1	jcr.fe7a.ru
+127.0.0.1	n4.7g37b.ru
+127.0.0.1	b0r9.7si-s.ru
+127.0.0.1	h07.bo3l.ru
+127.0.0.1	n4y.v3ix.ru
+127.0.0.1	fh9.mi7x.ru
+127.0.0.1	8s3.s7li.ru
+127.0.0.1	xk2.7si-s.ru
+127.0.0.1	r9q.2s84d.ru
+127.0.0.1	vyt.lo9q.ru
+127.0.0.1	h27.mi7x.ru
+127.0.0.1	4m.7si-s.ru
+127.0.0.1	gp3.po5m.ru
+127.0.0.1	pnq.7si-s.ru
+127.0.0.1	g42.n5ol.ru
+127.0.0.1	rh6.gl8r.ru
+127.0.0.1	v31.7si-s.ru
+127.0.0.1	6i4.ze9y.ru
+127.0.0.1	d5.2s84d.ru
+127.0.0.1	a7.7si-s.ru
+127.0.0.1	y27.po5m.ru
+127.0.0.1	feromonesbones.shop
+127.0.0.1	ljutyojkfgjkfnmf.info
+127.0.0.1	unfet.locker
+127.0.0.1	eleciso.mom
+127.0.0.1	imbibei.mom
+127.0.0.1	dimityk.mom
+127.0.0.1	databap.mom
+127.0.0.1	puntoc.mom
+127.0.0.1	aspedyd.mom
+127.0.0.1	czarpve.mom
+127.0.0.1	chinij.mom
+127.0.0.1	lonaktm.mom
+127.0.0.1	caddov.mom
+127.0.0.1	overruq.mom
+127.0.0.1	corneot.mom
+127.0.0.1	biauob.mom
+127.0.0.1	maghaf.mom
+127.0.0.1	overfrz.mom
+127.0.0.1	middii.mom
+127.0.0.1	pleasuc.locker
+127.0.0.1	sugare.locker
+127.0.0.1	satet.locker
+127.0.0.1	b0t2.2s84d.ru
+127.0.0.1	lvu.xa4p.ru
 127.0.0.1	9hd.1ne-z.ru
 127.0.0.1	p0t.po5m.ru
 127.0.0.1	wvw.tweethost.com
@@ -36343,21 +36412,12 @@
 127.0.0.1	brandihx.run
 127.0.0.1	jezyq.press
 127.0.0.1	muvom.press
-127.0.0.1	lyqej.press
-127.0.0.1	wakor.press
 127.0.0.1	moriartybirds.click
-127.0.0.1	niaolas.top
 127.0.0.1	leeling.top
 127.0.0.1	wlandersmountain.click
 127.0.0.1	netscoute.digital
-127.0.0.1	hywod.press
 127.0.0.1	h1.exceptionicon.top
-127.0.0.1	greenhoet.top
 127.0.0.1	nodepathr.run
-127.0.0.1	crrtwright.top
 127.0.0.1	min-js-lib.pages.dev
 127.0.0.1	mentor.omgwowhq.org
-127.0.0.1	mypah.press
-127.0.0.1	nkdnopfdabcj.izipy.com
-127.0.0.1	static.wps-cdn.com
-# Number of entries: 36354
+# Number of entries: 36414
