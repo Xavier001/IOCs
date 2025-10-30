@@ -1,11 +1,78 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-30 03:58:00 UTC                        #
+# Last updated: 2025-10-30 10:07:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	879.lo9q.ru
+127.0.0.1	a12.r4tu.ru
+127.0.0.1	ze.v3ix.online
+127.0.0.1	c1z.60nma5.ru
+127.0.0.1	9x2.v3ix.ru
+127.0.0.1	rsm.xa4p.ru
+127.0.0.1	q4m.v3ix.online
+127.0.0.1	qgb.gl8r.ru
+127.0.0.1	p4r.lo9q.ru
+127.0.0.1	8tk.r4tu.ru
+127.0.0.1	y2.02lxy3.ru
+127.0.0.1	s0up.s7li.online
+127.0.0.1	bud.wi0x.ru
+127.0.0.1	d6k1.02lxy3.ru
+127.0.0.1	b1rd.s7li.online
+127.0.0.1	911.s7li.ru
+127.0.0.1	hlp.wi0x.ru
+127.0.0.1	8xd.r4tu.ru
+127.0.0.1	m00n.s7li.online
+127.0.0.1	glu.po5m.ru
+127.0.0.1	vth.ka2s.ru
+127.0.0.1	t3s.hy6o.ru
+127.0.0.1	g00d.s7li.online
+127.0.0.1	v7pz.02lxy3.ru
+127.0.0.1	za9.wi0x.ru
+127.0.0.1	fv5.ka2s.ru
+127.0.0.1	plum.s7li.online
+127.0.0.1	9ij.v3ix.ru
+127.0.0.1	m5o.hy6o.ru
+127.0.0.1	ajs.s7li.ru
+127.0.0.1	perropa.com
+127.0.0.1	menuderg.com
+127.0.0.1	cdn.m365.1drive.zip
+127.0.0.1	beautybalcony.com
+127.0.0.1	75nahgyu2.xyz
+127.0.0.1	he.75nahgyu2.xyz
+127.0.0.1	smo.75nahgyu2.xyz
+127.0.0.1	dune.s7li.online
+127.0.0.1	mrj.r4tu.ru
+127.0.0.1	b23.wi0x.ru
+127.0.0.1	mow.v3ix.ru
+127.0.0.1	r0se.ze9y.online
+127.0.0.1	f78.ju8r.ru
+127.0.0.1	eaa.v3ix.ru
+127.0.0.1	rk8.7g37b.ru
+127.0.0.1	l00k.ze9y.online
+127.0.0.1	p19.ra6n.ru
+127.0.0.1	d29.v3ix.ru
+127.0.0.1	mint.ze9y.online
+127.0.0.1	wlk.n5ol.ru
+127.0.0.1	gzt.lo9q.ru
+127.0.0.1	bark.ze9y.online
+127.0.0.1	muj.xa4p.ru
+127.0.0.1	tir.hy6o.ru
+127.0.0.1	3le.n5ol.ru
+127.0.0.1	2b9k.ye-t5c.ru
+127.0.0.1	7bv.xa4p.ru
+127.0.0.1	yrg.ka2s.ru
+127.0.0.1	rmx.ye-t5c.ru
+127.0.0.1	h2v.7g37b.ru
+127.0.0.1	svc.lo9q.ru
+127.0.0.1	bwp.r4tu.ru
+127.0.0.1	xpx.ra6n.ru
+127.0.0.1	h71.ye-t5c.ru
+127.0.0.1	epw.ju8r.ru
+127.0.0.1	npo.wi0x.ru
+127.0.0.1	0wq.ye-t5c.ru
 127.0.0.1	nyd.po5m.ru
 127.0.0.1	tj3.ye-t5c.ru
 127.0.0.1	x.7g37b.ru
@@ -36402,22 +36469,4 @@
 127.0.0.1	666.20240829.xyz
 127.0.0.1	quizzical-golick.94-156-177-241.plesk.page
 127.0.0.1	zivad.press
-127.0.0.1	u1.spiritismprotozoan.bet
-127.0.0.1	vytoz.press
-127.0.0.1	cleaner-consideration-thoroughly-personally.trycloudflare.com
-127.0.0.1	tuboos.pages.dev
-127.0.0.1	yuun.pages.dev
-127.0.0.1	jumstor.cloud
-127.0.0.1	victoreqs.run
-127.0.0.1	brandihx.run
-127.0.0.1	jezyq.press
-127.0.0.1	muvom.press
-127.0.0.1	moriartybirds.click
-127.0.0.1	leeling.top
-127.0.0.1	wlandersmountain.click
-127.0.0.1	netscoute.digital
-127.0.0.1	h1.exceptionicon.top
-127.0.0.1	nodepathr.run
-127.0.0.1	min-js-lib.pages.dev
-127.0.0.1	mentor.omgwowhq.org
-# Number of entries: 36414
+# Number of entries: 36463
