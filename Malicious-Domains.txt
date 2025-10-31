@@ -1,11 +1,43 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-31 10:09:21 UTC                        #
+# Last updated: 2025-10-31 12:28:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	q7fx.t1va.online
+127.0.0.1	q1.dl3zd.ru
+127.0.0.1	p7lrd.wi7o.online
+127.0.0.1	p.dl3zd.ru
+127.0.0.1	c4x3m.wi7o.online
+127.0.0.1	h.t-nin.ru
+127.0.0.1	note-road.gl.at.ply.gg
+127.0.0.1	disnotavalidmeantocommunicatemkidlydothe.duckdns.org
+127.0.0.1	basic-fan.gl.at.ply.gg
+127.0.0.1	lower-mem.gl.at.ply.gg
+127.0.0.1	v3.t-nin.ru
+127.0.0.1	m3yhu.t1va.online
+127.0.0.1	g0bn9.wi7o.online
+127.0.0.1	x2.91-7l.ru
+127.0.0.1	s.91-7l.ru
+127.0.0.1	k9.6vwj8.ru
+127.0.0.1	j1de9.re7x.online
+127.0.0.1	a.6vwj8.ru
+127.0.0.1	w6j2.sa3x.online
+127.0.0.1	2v.ty9a.ru
+127.0.0.1	r1m3k.sa3x.online
+127.0.0.1	p5wz0.re7x.online
+127.0.0.1	46.fa3y.ru
+127.0.0.1	f5bqh.sa3x.online
+127.0.0.1	jk.q4zi.ru
+127.0.0.1	u7z9n.sa3x.online
+127.0.0.1	fg.ru6q.ru
+127.0.0.1	x2cvg.sa3x.online
+127.0.0.1	70.b9sa.ru
+127.0.0.1	ui.tweethost.com
+127.0.0.1	ui.aidexcel.co.uk
+127.0.0.1	ddc.j3ve.ru
 127.0.0.1	v7.der14i.ru
 127.0.0.1	rp9a.je9t.online
 127.0.0.1	h2.xo3v.ru
@@ -36741,6 +36773,4 @@
 127.0.0.1	novow.press
 127.0.0.1	h1.riverbankrejoicing.top
 127.0.0.1	666.20240829.xyz
-127.0.0.1	quizzical-golick.94-156-177-241.plesk.page
-127.0.0.1	zivad.press
-# Number of entries: 36737
+# Number of entries: 36767
