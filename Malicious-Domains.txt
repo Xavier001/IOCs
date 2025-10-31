@@ -1,11 +1,88 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-10-31 04:08:31 UTC                        #
+# Last updated: 2025-10-31 10:09:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	v7.der14i.ru
+127.0.0.1	rp9a.je9t.online
+127.0.0.1	h2.xo3v.ru
+127.0.0.1	hpd.di5r.ru
+127.0.0.1	m7dqw.je9t.online
+127.0.0.1	kp.se5m.ru
+127.0.0.1	uq1.ke9t.ru
+127.0.0.1	t2gh5.je9t.online
+127.0.0.1	intelligencedns.duckdns.org
+127.0.0.1	www.kolklokjkj.com
+127.0.0.1	www.ozkeplancarpet.com
+127.0.0.1	www.siegania.com
+127.0.0.1	www.tjxh-internetional.com
+127.0.0.1	arusicucloud.es
+127.0.0.1	westy.ydns.eu
+127.0.0.1	dot9-30205.portmap.host
+127.0.0.1	v2.kallisti.uk.com
+127.0.0.1	v3.kallisti.uk.com
+127.0.0.1	gatex.kallisti.uk.com
+127.0.0.1	lvo.w1um.ru
+127.0.0.1	sm.ty9a.ru
+127.0.0.1	6h.fa3y.ru
+127.0.0.1	k8zm4.je9t.online
+127.0.0.1	3r.ha7e.ru
+127.0.0.1	factsec.cc
+127.0.0.1	t9x4.der14i.ru
+127.0.0.1	0lj.te8x.ru
+127.0.0.1	y3rfx.je9t.online
+127.0.0.1	c45.q4zi.ru
+127.0.0.1	7a.p7li.ru
+127.0.0.1	mz1.der14i.ru
+127.0.0.1	py.ru6q.ru
+127.0.0.1	hpa.i4-27k.ru
+127.0.0.1	k5h.b9sa.ru
+127.0.0.1	q3.der14i.ru
+127.0.0.1	25.j3ve.ru
+127.0.0.1	z7x5.i4-27k.ru
+127.0.0.1	z6u.xo3v.ru
+127.0.0.1	k9r2.lej75a.ru
+127.0.0.1	97.di5r.ru
+127.0.0.1	m11.i4-27k.ru
+127.0.0.1	a9.se5m.ru
+127.0.0.1	ux.ke9t.ru
+127.0.0.1	3qv.i4-27k.ru
+127.0.0.1	fh6.w1um.ru
+127.0.0.1	prototype.tapmycard.work
+127.0.0.1	ug0.ty9a.ru
+127.0.0.1	gk9.i4-27k.ru
+127.0.0.1	4o.fa3y.ru
+127.0.0.1	u0b.lej75a.ru
+127.0.0.1	birmatrabiloktrabvel.com
+127.0.0.1	gs.ha7e.ru
+127.0.0.1	snappis.lat
+127.0.0.1	d2.i4-27k.ru
+127.0.0.1	m7.lej75a.ru
+127.0.0.1	8i.te8x.ru
+127.0.0.1	p9y1.lej75a.ru
+127.0.0.1	jw.q4zi.ru
+127.0.0.1	cmv2.y3-68c.ru
+127.0.0.1	l8.p7li.ru
+127.0.0.1	t08.y3-68c.ru
+127.0.0.1	tuesdaymandatesss.duckdns.org
+127.0.0.1	hvg.ru6q.ru
+127.0.0.1	xr.b9sa.ru
+127.0.0.1	1l.j3ve.ru
+127.0.0.1	9az.y3-68c.ru
+127.0.0.1	t6y.hab77u.ru
+127.0.0.1	js.xo3v.ru
+127.0.0.1	z3.di5r.ru
+127.0.0.1	wq7.y3-68c.ru
+127.0.0.1	g70.se5m.ru
+127.0.0.1	cm.ke9t.ru
+127.0.0.1	xla.w1um.ru
+127.0.0.1	nj.ty9a.ru
+127.0.0.1	r3k.fa3y.ru
+127.0.0.1	r1m.y3-68c.ru
+127.0.0.1	lk.ha7e.ru
 127.0.0.1	i21.te8x.ru
 127.0.0.1	b9k2.hab77u.ru
 127.0.0.1	k4.y3-68c.ru
@@ -36666,22 +36743,4 @@
 127.0.0.1	666.20240829.xyz
 127.0.0.1	quizzical-golick.94-156-177-241.plesk.page
 127.0.0.1	zivad.press
-127.0.0.1	u1.spiritismprotozoan.bet
-127.0.0.1	vytoz.press
-127.0.0.1	cleaner-consideration-thoroughly-personally.trycloudflare.com
-127.0.0.1	tuboos.pages.dev
-127.0.0.1	yuun.pages.dev
-127.0.0.1	jumstor.cloud
-127.0.0.1	victoreqs.run
-127.0.0.1	brandihx.run
-127.0.0.1	jezyq.press
-127.0.0.1	muvom.press
-127.0.0.1	moriartybirds.click
-127.0.0.1	leeling.top
-127.0.0.1	wlandersmountain.click
-127.0.0.1	netscoute.digital
-127.0.0.1	h1.exceptionicon.top
-127.0.0.1	nodepathr.run
-127.0.0.1	min-js-lib.pages.dev
-127.0.0.1	mentor.omgwowhq.org
-# Number of entries: 36678
+# Number of entries: 36737
