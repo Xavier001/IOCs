@@ -1,11 +1,39 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-01 10:14:45 UTC                        #
+# Last updated: 2025-11-01 12:22:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	k0wz.u-v-9.online
+127.0.0.1	4i.zo4n.ru
+127.0.0.1	so.ve5l.ru
+127.0.0.1	y1r5.u-v-9.online
+127.0.0.1	xxxxyuanko.com
+127.0.0.1	121637121.duckdns.org
+127.0.0.1	field-accessing.gl.at.ply.gg
+127.0.0.1	5vt.lo2p.ru
+127.0.0.1	bcq.je9t.ru
+127.0.0.1	t7pqm.77-6.online
+127.0.0.1	qz8hd.mjg-1.online
+127.0.0.1	5d.fi0m.ru
+127.0.0.1	a3k9.77-6.online
+127.0.0.1	p9a.mjg-1.online
+127.0.0.1	nq.pe8d.ru
+127.0.0.1	d2xm.mjg-1.online
+127.0.0.1	y9bm.5-sy77.com
+127.0.0.1	67.ha5r.ru
+127.0.0.1	v7k3q.mjg-1.online
+127.0.0.1	j0e.n6ri.ru
+127.0.0.1	i2.x3le.ru
+127.0.0.1	a3vnt.5-sy77.com
+127.0.0.1	rk8.64198.ru
+127.0.0.1	0y.m2jo.ru
+127.0.0.1	h2v.64198.ru
+127.0.0.1	5e.t1va.ru
+127.0.0.1	x.64198.ru
+127.0.0.1	pzk6.5-sy77.com
 127.0.0.1	o3n.zo8k.ru
 127.0.0.1	hbr.qo1s.ru
 127.0.0.1	y0q9.64198.ru
@@ -36876,10 +36904,4 @@
 127.0.0.1	cubuj.press
 127.0.0.1	api.cloudphoto.online
 127.0.0.1	divoc.press
-127.0.0.1	xelop.press
-127.0.0.1	coxyz.press
-127.0.0.1	frendlymachened.top
-127.0.0.1	xelop.press
-127.0.0.1	holyseypju.run
-127.0.0.1	himselcaked.digital
-# Number of entries: 36876
+# Number of entries: 36898
