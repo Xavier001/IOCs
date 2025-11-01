@@ -1,11 +1,74 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-01 03:53:47 UTC                        #
+# Last updated: 2025-11-01 10:14:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	o3n.zo8k.ru
+127.0.0.1	hbr.qo1s.ru
+127.0.0.1	y0q9.64198.ru
+127.0.0.1	aa.da6v.ru
+127.0.0.1	u1rg3.5-sy77.com
+127.0.0.1	ay.yq2r.ru
+127.0.0.1	9x.bo8y.ru
+127.0.0.1	d2x7.5-sy77.com
+127.0.0.1	r9q.f42u6.ru
+127.0.0.1	veu.mi9q.ru
+127.0.0.1	h4qpn.5-sy77.com
+127.0.0.1	cx.re7x.ru
+127.0.0.1	ioy.wi7o.ru
+127.0.0.1	fl.gi0x.ru
+127.0.0.1	c9la.w-8z35.com
+127.0.0.1	4jf.va4n.ru
+127.0.0.1	k3.f42u6.ru
+127.0.0.1	tq.zo4n.ru
+127.0.0.1	m5we2.w-8z35.com
+127.0.0.1	9u.ve5l.ru
+127.0.0.1	r0yg.w-8z35.com
+127.0.0.1	l2v.lo2p.ru
+127.0.0.1	v7p2.i-m22.ru
+127.0.0.1	lh.je9t.ru
+127.0.0.1	tbd9.w-8z35.com
+127.0.0.1	3f.fi0m.ru
+127.0.0.1	m0x.i-m22.ru
+127.0.0.1	f5.pe8d.ru
+127.0.0.1	z83n.w-8z35.com
+127.0.0.1	t6c.sa3x.ru
+127.0.0.1	register.toastmasters86.org
+127.0.0.1	m6.ha5r.ru
+127.0.0.1	v1kpa.w-8z35.com
+127.0.0.1	zf.n6ri.ru
+127.0.0.1	t1.x3le.ru
+127.0.0.1	accomplish-suppose-val-ensure.trycloudflare.com
+127.0.0.1	stress-substance-mall-corrections.trycloudflare.com
+127.0.0.1	rider-february-thorough-decades.trycloudflare.com
+127.0.0.1	termination-str-north-cool.trycloudflare.com
+127.0.0.1	castle-fifth-print-metallic.trycloudflare.com
+127.0.0.1	librarian-alabama-iowa-vegetables.trycloudflare.com
+127.0.0.1	techwebi.net
+127.0.0.1	jwr.m2jo.ru
+127.0.0.1	h1vf4.lu2p.online
+127.0.0.1	q7m2x.w-8z35.com
+127.0.0.1	bj.t1va.ru
+127.0.0.1	h9l.zo8k.ru
+127.0.0.1	1i7.qo1s.ru
+127.0.0.1	c6pz.lu2p.online
+127.0.0.1	oql.da6v.ru
+127.0.0.1	v2.yq2r.ru
+127.0.0.1	e9tk3.lu2p.online
+127.0.0.1	abmtwphx4.localto.net
+127.0.0.1	5m.bo8y.ru
+127.0.0.1	nw.mi9q.ru
+127.0.0.1	f7q2.q7jt-0k.ru
+127.0.0.1	wa.re7x.ru
+127.0.0.1	y8m2.lu2p.online
+127.0.0.1	p0r.q7jt-0k.ru
+127.0.0.1	l8q.gi0x.ru
+127.0.0.1	9az.q7jt-0k.ru
+127.0.0.1	a5rl.lu2p.online
+127.0.0.1	sr7.va4n.ru
 127.0.0.1	wq1.q7jt-0k.ru
 127.0.0.1	w9hd3.mi9q.online
 127.0.0.1	n6k.q7jt-0k.ru
@@ -61,6 +124,7 @@
 127.0.0.1	k7.i3-42s.ru
 127.0.0.1	q3v2.zo4n.online
 127.0.0.1	ma4.sa3x.ru
+127.0.0.1	auth.m365.1drive.zip
 127.0.0.1	vzh.ha5r.ru
 127.0.0.1	r3j5.bo8y.online
 127.0.0.1	nj.n6ri.ru
@@ -36818,22 +36882,4 @@
 127.0.0.1	xelop.press
 127.0.0.1	holyseypju.run
 127.0.0.1	himselcaked.digital
-127.0.0.1	browngreencolors.top
-127.0.0.1	securealisveris.com
-127.0.0.1	pepjm.press
-127.0.0.1	mebwg.press
-127.0.0.1	zifnk.press
-127.0.0.1	beksr.press
-127.0.0.1	www.gerhtr.live
-127.0.0.1	rt.threat.city
-127.0.0.1	fodxj.press
-127.0.0.1	xeqnm.press
-127.0.0.1	app.bytevista.cloud
-127.0.0.1	app2.bytevista.cloud
-127.0.0.1	alpaca-flnance.com
-127.0.0.1	app.alpacaflnance.xyz
-127.0.0.1	ratatui.today
-127.0.0.1	z1z.pages.dev
-127.0.0.1	necscar.pro
-127.0.0.1	ho8.pages.de
-# Number of entries: 36830
+# Number of entries: 36876
