@@ -1,11 +1,69 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-02 04:08:18 UTC                        #
+# Last updated: 2025-11-02 10:07:08 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sw.xa9t.ru
+127.0.0.1	s1.k-8ip.ru
+127.0.0.1	gle.zo6r.ru
+127.0.0.1	7c7.1z57.ru
+127.0.0.1	c9la.v4-z.online
+127.0.0.1	8s.1yjp.ru
+127.0.0.1	m5we2.v4-z.online
+127.0.0.1	tp.op76.ru
+127.0.0.1	q.tgmop.ru
+127.0.0.1	60.crju.ru
+127.0.0.1	h0w4.98g-bj.ru
+127.0.0.1	dl.y8-8.ru
+127.0.0.1	2fr.5-rt.ru
+127.0.0.1	k2w0.tgmop.ru
+127.0.0.1	g2x7m.98g-bj.ru
+127.0.0.1	bo.da5y.ru
+127.0.0.1	a3z.tgmop.ru
+127.0.0.1	mde.ve1p.ru
+127.0.0.1	n5rqa.98g-bj.ru
+127.0.0.1	sh.18yk.ru
+127.0.0.1	88.fe9v.ru
+127.0.0.1	v0g.be3q.ru
+127.0.0.1	6n.3-5y.ru
+127.0.0.1	y9t3.98g-bj.ru
+127.0.0.1	b0.ru7x.ru
+127.0.0.1	b3m.q3lo.ru
+127.0.0.1	jjl.77-6.ru
+127.0.0.1	m4n.89atr.ru
+127.0.0.1	c1pze.98g-bj.ru
+127.0.0.1	m5n.wi7e.ru
+127.0.0.1	zq1.89atr.ru
+127.0.0.1	m4ny.p0k61h.ru
+127.0.0.1	t0.m2la.ru
+127.0.0.1	hi.e-dx.ru
+127.0.0.1	t5bx0.p0k61h.ru
+127.0.0.1	p6.89atr.ru
+127.0.0.1	v0s.ki8n.ru
+127.0.0.1	z8r1d.p0k61h.ru
+127.0.0.1	v7.t4mo.ru
+127.0.0.1	h2k.4-4gy.ru
+127.0.0.1	3ch.u-v9.ru
+127.0.0.1	v2k9.p0k61h.ru
+127.0.0.1	dn.33b2.ru
+127.0.0.1	1kl.xa9t.ru
+127.0.0.1	q7m3a.p0k61h.ru
+127.0.0.1	based-ratios.gl.at.ply.gg
+127.0.0.1	hosting-concepts.gl.at.ply.gg
+127.0.0.1	park-cayman.gl.at.ply.gg
+127.0.0.1	uq.zo6r.ru
+127.0.0.1	8ls.1z57.ru
+127.0.0.1	ak.1yjp.ru
+127.0.0.1	t0y6.op-76.online
+127.0.0.1	ttz.op76.ru
+127.0.0.1	qh.crju.ru
+127.0.0.1	e9n4k.op-76.online
+127.0.0.1	v2q.y8-8.ru
+127.0.0.1	m2q8.op-76.online
+127.0.0.1	q2.5-rt.ru
 127.0.0.1	0w.da5y.ru
 127.0.0.1	a5w9t.op-76.online
 127.0.0.1	u5.ve1p.ru
@@ -37068,16 +37126,4 @@
 127.0.0.1	82-147-85-160.networktube.net
 127.0.0.1	otototototoqqlfk.com
 127.0.0.1	dasopdoaodoaoaoao.com
-127.0.0.1	orjinalecza.net
-127.0.0.1	eczakozmetik.net
-127.0.0.1	orijinalecza.org
-127.0.0.1	eczamedikal.org
-127.0.0.1	medicalbitkisel.net
-127.0.0.1	unifi.ekefi.com
-127.0.0.1	stat.bluetroniq.vip
-127.0.0.1	raw.intenseproxy.zip
-127.0.0.1	tnop.pages.dev
-127.0.0.1	salorttactical.top
-127.0.0.1	septembergoodwine.top
-127.0.0.1	triremeo.digital
-# Number of entries: 37074
+# Number of entries: 37120
