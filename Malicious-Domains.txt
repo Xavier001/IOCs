@@ -1,11 +1,36 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-02 10:07:08 UTC                        #
+# Last updated: 2025-11-02 12:24:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	f2x8m.yw9a.online
+127.0.0.1	lz.fe9v.ru
+127.0.0.1	42.be3q.ru
+127.0.0.1	p3q.6x-3z.ru
+127.0.0.1	administration-montreal.gl.at.ply.gg
+127.0.0.1	20.3-5y.ru
+127.0.0.1	c0.ru7x.ru
+127.0.0.1	k7v1.6x-3z.ru
+127.0.0.1	2x7.q3lo.ru
+127.0.0.1	u0b9.6x-3z.ru
+127.0.0.1	pf4.77-6.ru
+127.0.0.1	g4m.6x-3z.ru
+127.0.0.1	4p2.wi7e.ru
+127.0.0.1	y9bm.139z.online
+127.0.0.1	9yg.m2la.ru
+127.0.0.1	a3vnt.139z.online
+127.0.0.1	u1.e-dx.ru
+127.0.0.1	pzk6.139z.online
+127.0.0.1	xc.ki8n.ru
+127.0.0.1	n.k-8ip.ru
+127.0.0.1	7t.t4mo.ru
+127.0.0.1	c0z7.k-8ip.ru
+127.0.0.1	8v.u-v9.ru
+127.0.0.1	wy.33b2.ru
+127.0.0.1	h4qpn.v4-z.online
 127.0.0.1	sw.xa9t.ru
 127.0.0.1	s1.k-8ip.ru
 127.0.0.1	gle.zo6r.ru
@@ -37123,7 +37148,4 @@
 127.0.0.1	camelot.exc-v3.com
 127.0.0.1	zeddexexchange.live
 127.0.0.1	rabbitx.pro
-127.0.0.1	82-147-85-160.networktube.net
-127.0.0.1	otototototoqqlfk.com
-127.0.0.1	dasopdoaodoaoaoao.com
-# Number of entries: 37120
+# Number of entries: 37142
