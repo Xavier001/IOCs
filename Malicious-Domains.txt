@@ -1,11 +1,79 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-01 22:07:57 UTC                        #
+# Last updated: 2025-11-02 04:08:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	0w.da5y.ru
+127.0.0.1	a5w9t.op-76.online
+127.0.0.1	u5.ve1p.ru
+127.0.0.1	0k.18yk.ru
+127.0.0.1	z3h1.op-76.online
+127.0.0.1	k7yb.1yjp.online
+127.0.0.1	ih.fe9v.ru
+127.0.0.1	v2l.be3q.ru
+127.0.0.1	x0t5n.8786.online
+127.0.0.1	s11.3-5y.ru
+127.0.0.1	0h.ru7x.ru
+127.0.0.1	v1q0.1yjp.online
+127.0.0.1	q8x.q3lo.ru
+127.0.0.1	w8j3.8786.online
+127.0.0.1	3r7.77-6.ru
+127.0.0.1	zny.wi7e.ru
+127.0.0.1	k1s7.8786.online
+127.0.0.1	g6u.m2la.ru
+127.0.0.1	6c.e-dx.ru
+127.0.0.1	t2kc.1yjp.online
+127.0.0.1	d4m9q.8786.online
+127.0.0.1	cqi.ki8n.ru
+127.0.0.1	se3.t4mo.ru
+127.0.0.1	8a.u-v9.ru
+127.0.0.1	b2y6.8786.online
+127.0.0.1	rr.33b2.ru
+127.0.0.1	h5c7.mjg1.online
+127.0.0.1	x.wlh84.ru
+127.0.0.1	n0aq.y8-8.online
+127.0.0.1	q2.wlh84.ru
+127.0.0.1	d.wlh84.ru
+127.0.0.1	q8m2.y8-8.online
+127.0.0.1	u0v4t.mjg1.online
+127.0.0.1	1m.595-1.ru
+127.0.0.1	c8.595-1.ru
+127.0.0.1	j8q2.mjg1.online
+127.0.0.1	p.595-1.ru
+127.0.0.1	v3.zms-u.ru
+127.0.0.1	h1.zms-u.ru
+127.0.0.1	p3zy.y8-8.online
+127.0.0.1	s.zms-u.ru
+127.0.0.1	r1n8k.mjg1.online
+127.0.0.1	w1.7n28r.ru
+127.0.0.1	p6z3.mjg1.online
+127.0.0.1	k9.7n28r.ru
+127.0.0.1	s4k1.5x7u.online
+127.0.0.1	l5tj.e-dx.online
+127.0.0.1	a.7n28r.ru
+127.0.0.1	x9he.e-dx.online
+127.0.0.1	g2t9w.5x7u.online
+127.0.0.1	x.b8c90.ru
+127.0.0.1	m3.b8c90.ru
+127.0.0.1	u0pw.e-dx.online
+127.0.0.1	n5r3.5x7u.online
+127.0.0.1	e.b8c90.ru
+127.0.0.1	y0p6.5x7u.online
+127.0.0.1	z9.4kl-9.ru
+127.0.0.1	t1.4kl-9.ru
+127.0.0.1	b6ru.e-dx.online
+127.0.0.1	c1m8q.5x7u.online
+127.0.0.1	b.4kl-9.ru
+127.0.0.1	e1xb.e-dx.online
+127.0.0.1	x8.13-yz.ru
+127.0.0.1	n4.13-yz.ru
+127.0.0.1	g.13-yz.ru
+127.0.0.1	q7p0d.u-v9.online
+127.0.0.1	y7.259ox.ru
+127.0.0.1	q1.259ox.ru
 127.0.0.1	p.259ox.ru
 127.0.0.1	j4da.18yk.online
 127.0.0.1	a8t1.u-v9.online
@@ -37011,9 +37079,5 @@
 127.0.0.1	tnop.pages.dev
 127.0.0.1	salorttactical.top
 127.0.0.1	septembergoodwine.top
-127.0.0.1	mesip.press
 127.0.0.1	triremeo.digital
-127.0.0.1	kasicamondan.mentality.cloud
-127.0.0.1	categories-survivors.gl.at.ply.gg
-127.0.0.1	ij.jioksdf.art
-# Number of entries: 37010
+# Number of entries: 37074
