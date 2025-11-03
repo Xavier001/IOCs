@@ -1,11 +1,100 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-03 04:11:33 UTC                        #
+# Last updated: 2025-11-03 10:18:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	g8z1.67tf.online
+127.0.0.1	h9u.p8ri.ru
+127.0.0.1	r6wt2.u4-r-o.ru
+127.0.0.1	cr.71o9.ru
+127.0.0.1	beastdositadvtofm.site
+127.0.0.1	missionim.cc
+127.0.0.1	k3.yldv.ru
+127.0.0.1	a9mj.u4-r-o.ru
+127.0.0.1	6rv.ha0m.ru
+127.0.0.1	n5t3a.67tf.online
+127.0.0.1	22k.g7ve.ru
+127.0.0.1	v5qp3.u4-r-o.ru
+127.0.0.1	83.si9a.ru
+127.0.0.1	y0bq9.67tf.online
+127.0.0.1	lj.to1j.ru
+127.0.0.1	ou.mjg1.ru
+127.0.0.1	bbjj.nageshks.com
+127.0.0.1	www.bakersfieldrealtyinvestment.com
+127.0.0.1	www.mosenego.ru
+127.0.0.1	fofatot.ddns.net
+127.0.0.1	r1p6.67tf.online
+127.0.0.1	vdx.yu5k.ru
+127.0.0.1	y8kz.u4-r-o.ru
+127.0.0.1	hehua.cookielive.top
+127.0.0.1	cya.no4s.ru
+127.0.0.1	v2k7m.67tf.online
+127.0.0.1	v7c.1r55.ru
+127.0.0.1	c7x0.j-7m.online
+127.0.0.1	7u.8786.ru
+127.0.0.1	qy.5x7u.ru
+127.0.0.1	b1nr.432b47.ru
+127.0.0.1	m9r2a.j-7m.online
+127.0.0.1	8p.p8ri.ru
+127.0.0.1	de.atlantaoralandfacialsurgery.com
+127.0.0.1	fwi.71o9.ru
+127.0.0.1	nqi.yldv.ru
+127.0.0.1	t1v8.j-7m.online
+127.0.0.1	approved-liability.gl.at.ply.gg
+127.0.0.1	idkegobruh-44949.portmap.host
+127.0.0.1	positive-significantly.gl.at.ply.gg
+127.0.0.1	song-shepherd.gl.at.ply.gg
+127.0.0.1	cure2x-54076.portmap.host
+127.0.0.1	p3q6y.432b47.ru
+127.0.0.1	galaxyprojectontop.con-ip.com
+127.0.0.1	nigganazi61-42359.portmap.host
+127.0.0.1	sophos1997.camdvr.org
+127.0.0.1	v3.darktide.live
+127.0.0.1	v3.xoilaczzzhz.tv
+127.0.0.1	medellin12345.duckdns.org
+127.0.0.1	v2.8services2point0.com
+127.0.0.1	v2.antiracistusa.org
+127.0.0.1	v2.darktide.live
+127.0.0.1	v2.xoilaczzzhz.tv
+127.0.0.1	v3.8services2point0.com
+127.0.0.1	v3.antiracistusa.org
+127.0.0.1	caiunofake.ddns.org
+127.0.0.1	8services2point0.com
+127.0.0.1	caiunotrojan.ddns.net
+127.0.0.1	darktide.live
+127.0.0.1	gatex.antiracistusa.org
+127.0.0.1	gatex.xoilaczzzhz.tv
+127.0.0.1	nopirate1990.dynuddns.net
+127.0.0.1	fr.ha0m.ru
+127.0.0.1	mcz.g7ve.ru
+127.0.0.1	k4.si9a.ru
+127.0.0.1	k4p9q.j-7m.online
+127.0.0.1	lm.to1j.ru
+127.0.0.1	t9jw4.432b47.ru
+127.0.0.1	axm.mjg1.ru
+127.0.0.1	1zs.yu5k.ru
+127.0.0.1	r0yg.0fv1.online
+127.0.0.1	0kd.no4s.ru
+127.0.0.1	f0v2.432b47.ru
+127.0.0.1	2d4.1r55.ru
+127.0.0.1	tbd9.0fv1.online
+127.0.0.1	wp.8786.ru
+127.0.0.1	m5x8r.432b47.ru
+127.0.0.1	z83n.0fv1.online
+127.0.0.1	0k.5x7u.ru
+127.0.0.1	rl.q3lo.ru
+127.0.0.1	v1kpa.0fv1.online
+127.0.0.1	q7dz.432b47.ru
+127.0.0.1	sd.77-6.ru
+127.0.0.1	anyone-recover.gl.at.ply.gg
+127.0.0.1	until-slope.gl.at.ply.gg
+127.0.0.1	minecraftmemesmp-55927.portmap.host
+127.0.0.1	h2pk3.432b47.ru
+127.0.0.1	q7m2x.0fv1.online
+127.0.0.1	ob1.wi7e.ru
 127.0.0.1	e2kj.ru7x.online
 127.0.0.1	t7.ru7x.ru
 127.0.0.1	byv.q3lo.ru
@@ -37273,13 +37362,4 @@
 127.0.0.1	shoptool.store
 127.0.0.1	players-lawyer.gl.at.ply.gg
 127.0.0.1	api-cloud-service.com
-127.0.0.1	xqrs69.scwill.my.id
-127.0.0.1	ec2-54-208-187-156.compute-1.amazonaws.com
-127.0.0.1	50-116-22-186.ip.linodeusercontent.com
-127.0.0.1	cnc.vietdediserver.shop
-127.0.0.1	ecs-124-71-139-126.compute.hwclouds-dns.com
-127.0.0.1	formydab.run
-127.0.0.1	c29e033b-f060-412e-87c6-c2320be33a8d-8888.tenants.hivecompute.ai
-127.0.0.1	139-216-164-122.sta.dodo.net.au
-127.0.0.1	cromatsfewbears.top
-# Number of entries: 37276
+# Number of entries: 37356
