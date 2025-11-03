@@ -1,11 +1,68 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-02 22:06:42 UTC                        #
+# Last updated: 2025-11-03 04:11:33 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	e2kj.ru7x.online
+127.0.0.1	t7.ru7x.ru
+127.0.0.1	byv.q3lo.ru
+127.0.0.1	p8ny.ru7x.online
+127.0.0.1	0ma.77-6.ru
+127.0.0.1	ab.wi7e.ru
+127.0.0.1	3g.m2la.ru
+127.0.0.1	h4v7.ru7x.online
+127.0.0.1	atd.e-dx.ru
+127.0.0.1	n00.ki8n.ru
+127.0.0.1	q6k.t4mo.ru
+127.0.0.1	5u2.u-v9.ru
+127.0.0.1	byf.33b2.ru
+127.0.0.1	m1ct.ru7x.online
+127.0.0.1	bg.xa9t.ru
+127.0.0.1	q4p.zo6r.ru
+127.0.0.1	xi.1z57.ru
+127.0.0.1	j8wz.xa9t.online
+127.0.0.1	ii.1yjp.ru
+127.0.0.1	l2hq.xa9t.online
+127.0.0.1	sbx.op76.ru
+127.0.0.1	hr.crju.ru
+127.0.0.1	xe.y8-8.ru
+127.0.0.1	vp.5-rt.ru
+127.0.0.1	s4ym.xa9t.online
+127.0.0.1	t5h.da5y.ru
+127.0.0.1	vef.ve1p.ru
+127.0.0.1	o11.18yk.ru
+127.0.0.1	q7xpa.si9a.online
+127.0.0.1	qa.fe9v.ru
+127.0.0.1	m4t9.si9a.online
+127.0.0.1	kfy.be3q.ru
+127.0.0.1	b0zq.si9a.online
+127.0.0.1	uvd.3-5y.ru
+127.0.0.1	x5wk.ve1p.online
+127.0.0.1	fx.ru7x.ru
+127.0.0.1	w1c8.si9a.online
+127.0.0.1	gw3.q3lo.ru
+127.0.0.1	n6ta.ve1p.online
+127.0.0.1	e3h7n.si9a.online
+127.0.0.1	jk.77-6.ru
+127.0.0.1	b3x8.ve1p.online
+127.0.0.1	jqp.wi7e.ru
+127.0.0.1	94f.m2la.ru
+127.0.0.1	f9r2.ve1p.online
+127.0.0.1	k9pwa.ha0m.online
+127.0.0.1	iso.e-dx.ru
+127.0.0.1	t6y3.ha0m.online
+127.0.0.1	wzu.ki8n.ru
+127.0.0.1	xb.t4mo.ru
+127.0.0.1	z0tb.ha0m.online
+127.0.0.1	jq.u-v9.ru
+127.0.0.1	q7je.ve1p.online
+127.0.0.1	ent.33b2.ru
+127.0.0.1	r1m8q.ha0m.online
+127.0.0.1	9ht.xa9t.ru
+127.0.0.1	c5n3.m2la.online
 127.0.0.1	v2k7.ha0m.online
 127.0.0.1	lj.zo6r.ru
 127.0.0.1	o9.1z57.ru
@@ -37225,8 +37282,4 @@
 127.0.0.1	c29e033b-f060-412e-87c6-c2320be33a8d-8888.tenants.hivecompute.ai
 127.0.0.1	139-216-164-122.sta.dodo.net.au
 127.0.0.1	cromatsfewbears.top
-127.0.0.1	zhansankun.top
-127.0.0.1	www.shopappnew.sbs
-127.0.0.1	update.microsofts.club
-127.0.0.1	437t8126e9.qicp.vip
-# Number of entries: 37223
+# Number of entries: 37276
