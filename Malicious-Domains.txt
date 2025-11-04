@@ -1,11 +1,35 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-03 22:14:27 UTC                        #
+# Last updated: 2025-11-04 02:48:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.cioudfiore.xyz
+127.0.0.1	cs.miu24.pro
+127.0.0.1	b.tyj-4b.ru
+127.0.0.1	s9.l-ly.ru
+127.0.0.1	x19.k0xx-i4.ru
+127.0.0.1	mg.k7t0.ru
+127.0.0.1	ewo.0fv1.ru
+127.0.0.1	n8r.k0xx-i4.ru
+127.0.0.1	mz7.tyj-4b.ru
+127.0.0.1	h6.3u-6.ru
+127.0.0.1	3rd.67tf.ru
+127.0.0.1	q1.tyj-4b.ru
+127.0.0.1	q5.k0xx-i4.ru
+127.0.0.1	9hb.p8ri.ru
+127.0.0.1	rk8.pdv4m6.ru
+127.0.0.1	v0x.do-04d2.ru
+127.0.0.1	1d.71o9.ru
+127.0.0.1	jo.yldv.ru
+127.0.0.1	h2v.pdv4m6.ru
+127.0.0.1	a3h.do-04d2.ru
+127.0.0.1	8r.ha0m.ru
+127.0.0.1	re.tweethost.com
+127.0.0.1	re.bestjacksonvillehotels.com
+127.0.0.1	gf.g7ve.ru
 127.0.0.1	t92.do-04d2.ru
 127.0.0.1	1fu.si9a.ru
 127.0.0.1	ghu.to1j.ru
@@ -37526,6 +37550,4 @@
 127.0.0.1	gobacknihq.digital
 127.0.0.1	suiadris.digital
 127.0.0.1	caverimared.digital
-127.0.0.1	coms-gs.com
-127.0.0.1	bmjpaperpqck.com
-# Number of entries: 37522
+# Number of entries: 37544
