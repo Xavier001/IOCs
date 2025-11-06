@@ -1,11 +1,75 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-05 22:07:31 UTC                        #
+# Last updated: 2025-11-06 04:08:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	p2.vortexgipfel.ru
+127.0.0.1	k3.prismquelle.ru
+127.0.0.1	ty3.a-8-xp.ru
+127.0.0.1	c3r.vortexgipfel.ru
+127.0.0.1	z01.a-8-xp.ru
+127.0.0.1	w9.vortexgipfel.ru
+127.0.0.1	w2t.ravenpfad.ru
+127.0.0.1	be.vortexgipfel.ru
+127.0.0.1	tqf.summitmond.ru
+127.0.0.1	a3.ravenpfad.ru
+127.0.0.1	z1.summitmond.ru
+127.0.0.1	v9r.a-8-xp.ru
+127.0.0.1	bd2.summitmond.ru
+127.0.0.1	n7x.ravenpfad.ru
+127.0.0.1	q7m.summitmond.ru
+127.0.0.1	k2.a-8-xp.ru
+127.0.0.1	gs.summitmond.ru
+127.0.0.1	m0k.8-f-e8.ru
+127.0.0.1	x4.ripplerover.ru
+127.0.0.1	q4.ravenpfad.ru
+127.0.0.1	c1v.8-f-e8.ru
+127.0.0.1	a2n.ripplerover.ru
+127.0.0.1	pr6q.8-f-e8.ru
+127.0.0.1	zt3.ripplerover.ru
+127.0.0.1	n8.ripplerover.ru
+127.0.0.1	9am.8-f-e8.ru
+127.0.0.1	kp.ripplerover.ru
+127.0.0.1	yxm.forgehafen.ru
+127.0.0.1	d5.willowberg.ru
+127.0.0.1	x4d.8-f-e8.ru
+127.0.0.1	c4n.forgehafen.ru
+127.0.0.1	v2.forgehafen.ru
+127.0.0.1	b7k2.willowberg.ru
+127.0.0.1	t3k.forgehafen.ru
+127.0.0.1	t8.8-f-e8.ru
+127.0.0.1	rz.forgehafen.ru
+127.0.0.1	h9m.lunarlicht.ru
+127.0.0.1	b7m2.7nf214.ru
+127.0.0.1	x1.lunarlicht.ru
+127.0.0.1	x0p.willowberg.ru
+127.0.0.1	q2k.lunarlicht.ru
+127.0.0.1	3qd.7nf214.ru
+127.0.0.1	m7x.lunarlicht.ru
+127.0.0.1	t1w.cometwald.ru
+127.0.0.1	ab.lunarlicht.ru
+127.0.0.1	n1k.7nf214.ru
+127.0.0.1	x.onyxmorgen.ru
+127.0.0.1	m.cometwald.ru
+127.0.0.1	bz.onyxmorgen.ru
+127.0.0.1	q1.onyxmorgen.ru
+127.0.0.1	wz0.7nf214.ru
+127.0.0.1	g5.onyxmorgen.ru
+127.0.0.1	e5.paradeabend.ru
+127.0.0.1	1m.paradeabend.ru
+127.0.0.1	c8.paradeabend.ru
+127.0.0.1	p0.paradeabend.ru
+127.0.0.1	r2p.7nf214.ru
+127.0.0.1	0z.sproutkraft.ru
+127.0.0.1	r7k2.sk-f0s.ru
+127.0.0.1	v3.sproutkraft.ru
+127.0.0.1	v1.sk-f0s.ru
+127.0.0.1	h1.sproutkraft.ru
+127.0.0.1	gh.7nf214.ru
+127.0.0.1	s.sproutkraft.ru
 127.0.0.1	h9p3.566318z8.ru
 127.0.0.1	n7.cobaltwolke.ru
 127.0.0.1	t1.cobaltwolke.ru
@@ -37775,19 +37839,12 @@
 127.0.0.1	cajuc.press
 127.0.0.1	api.goretep.com
 127.0.0.1	ansy4abril.duckdns.org
-127.0.0.1	fehin.press
-127.0.0.1	vekat.press
 127.0.0.1	n51v.pages.dev
-127.0.0.1	lelah.press
 127.0.0.1	medikalbitkisel.net
 127.0.0.1	medicalbitkisel.org
 127.0.0.1	medikalbitkisel.org
 127.0.0.1	e.overallwobbly.ru
 127.0.0.1	lightsoi.pages.dev
-127.0.0.1	pusob.press
 127.0.0.1	security.yourclodd.com
 127.0.0.1	memsiug.com
-127.0.0.1	naqod.press
-127.0.0.1	wincertfm.store
-127.0.0.1	vpn.coupmgrki.org
-# Number of entries: 37784
+# Number of entries: 37841
