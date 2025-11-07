@@ -1,11 +1,43 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-06 22:08:06 UTC                        #
+# Last updated: 2025-11-07 04:08:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	q7m.crystalmoor.ru
+127.0.0.1	gs.crystalmoor.ru
+127.0.0.1	t7z.saffronkern.ru
+127.0.0.1	bqk.saffronkern.ru
+127.0.0.1	x2.saffronkern.ru
+127.0.0.1	pc4.saffronkern.ru
+127.0.0.1	m8q.saffronkern.ru
+127.0.0.1	aj.saffronkern.ru
+127.0.0.1	gdatasoftvare.com
+127.0.0.1	z0r.nebularanke.ru
+127.0.0.1	nq5.nebularanke.ru
+127.0.0.1	d34.nebularanke.ru
+127.0.0.1	w9.nebularanke.ru
+127.0.0.1	k7x.nebularanke.ru
+127.0.0.1	f2a.nebularanke.ru
+127.0.0.1	z7.whisperlake.ru
+127.0.0.1	v2r.whisperlake.ru
+127.0.0.1	c4n.whisperlake.ru
+127.0.0.1	yxm4.whisperlake.ru
+127.0.0.1	t3q.whisperlake.ru
+127.0.0.1	k2v.whisperlake.ru
+127.0.0.1	rz4.sunny-harbor.ru
+127.0.0.1	h9m.sunny-harbor.ru
+127.0.0.1	x1p.sunny-harbor.ru
+127.0.0.1	q2k.sunny-harbor.ru
+127.0.0.1	m9x.sunny-harbor.ru
+127.0.0.1	ab7.sunny-harbor.ru
+127.0.0.1	brightsilk.ru
+127.0.0.1	serenapoint.ru
+127.0.0.1	ic0nicr1ver.ru
+127.0.0.1	shadow-grove.ru
+127.0.0.1	crystal-berry.ru
 127.0.0.1	m0onsh1nebay.ru
 127.0.0.1	sunnyharbor.ru
 127.0.0.1	serena-point.ru
@@ -37766,16 +37798,6 @@
 127.0.0.1	ip-50-116-22-186.cloudezapp.io
 127.0.0.1	zogun.run
 127.0.0.1	cyruh.run
-127.0.0.1	gozog.run
-127.0.0.1	christianlouboutin2017.top
-127.0.0.1	qyhux.run
-127.0.0.1	nagyg.run
 127.0.0.1	nodeapiintegrate.com
-127.0.0.1	watchesbest.top
 127.0.0.1	lgsdesign.co.uk
-127.0.0.1	levciavia.top
-127.0.0.1	lysys.run
-127.0.0.1	mail.94-156-189-245.cprapid.com
-127.0.0.1	smusxath.socalmediazone.com
-127.0.0.1	emreizol.com
-# Number of entries: 37772
+# Number of entries: 37794
