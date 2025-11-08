@@ -1,11 +1,51 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-07 22:09:10 UTC                        #
+# Last updated: 2025-11-08 04:01:55 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wind.hawkmast.ru
+127.0.0.1	mast.hawkmast.ru
+127.0.0.1	hawk.hawkmast.ru
+127.0.0.1	nacht.owlflug.ru
+127.0.0.1	flug.owlflug.ru
+127.0.0.1	0er.owlflug.ru
+127.0.0.1	0ver.heronturm.ru
+127.0.0.1	23.heronturm.ru
+127.0.0.1	1on.heronturm.ru
+127.0.0.1	segel.pumaschiff.ru
+127.0.0.1	schiff.pumaschiff.ru
+127.0.0.1	puma.pumaschiff.ru
+127.0.0.1	claw.tigerzaun.ru
+127.0.0.1	zaun.tigerzaun.ru
+127.0.0.1	tiger.tigerzaun.ru
+127.0.0.1	flug.cranezeit.ru
+127.0.0.1	zeit.cranezeit.ru
+127.0.0.1	crane.cranezeit.ru
+127.0.0.1	wolke.cloudkreis.ru
+127.0.0.1	kreis.cloudkreis.ru
+127.0.0.1	cloud.cloudkreis.ru
+127.0.0.1	sturm.rainrad.ru
+127.0.0.1	rad.rainrad.ru
+127.0.0.1	rain.rainrad.ru
+127.0.0.1	ufer.otterweg.ru
+127.0.0.1	weg.otterweg.ru
+127.0.0.1	otter.otterweg.ru
+127.0.0.1	stein.badgerfels.ru
+127.0.0.1	fels.badgerfels.ru
+127.0.0.1	badger.badgerfels.ru
+127.0.0.1	feld.harewinkel.ru
+127.0.0.1	winkel.harewinkel.ru
+127.0.0.1	hare.harewinkel.ru
+127.0.0.1	wald.martenhain.ru
+127.0.0.1	hain.martenhain.ru
+127.0.0.1	marten.martenhain.ru
+127.0.0.1	pfad.stoatgasse.ru
+127.0.0.1	stoat.stoatgasse.ru
+127.0.0.1	gasse.stoatgasse.ru
+127.0.0.1	peak.eaglekrone.ru
 127.0.0.1	krone.eaglekrone.ru
 127.0.0.1	adler.eaglekrone.ru
 127.0.0.1	ufer.wrenhafen.ru
@@ -38192,8 +38232,6 @@
 127.0.0.1	web-goodcrypto.com
 127.0.0.1	symblosis.com
 127.0.0.1	testerscrypto.store
-127.0.0.1	bbssj.run
-127.0.0.1	hspmj.run
 127.0.0.1	h1.glitzyentire.top
 127.0.0.1	improvxf.run
 127.0.0.1	tribunap.run
@@ -38208,6 +38246,4 @@
 127.0.0.1	sci.socalmediazone.com
 127.0.0.1	aimpes.com
 127.0.0.1	tchmitt.live
-127.0.0.1	gfddx.run
-127.0.0.1	ntmmh.run
-# Number of entries: 38204
+# Number of entries: 38240
