@@ -1,11 +1,42 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-08 10:08:05 UTC                        #
+# Last updated: 2025-11-08 12:17:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	0mf.dewroot.ru
+127.0.0.1	5ye8.n0rthw1nd.ru
+127.0.0.1	ed-rn.gl.at.ply.gg
+127.0.0.1	tungsahurchik228-49806.portmap.host
+127.0.0.1	index-hall.gl.at.ply.gg
+127.0.0.1	srd.n0rthw1nd.ru
+127.0.0.1	ix1.undernet.org
+127.0.0.1	ix2.undernet.org
+127.0.0.1	ashburn.va.us.undernet.org
+127.0.0.1	bucharest.ro.eu.undernet.org
+127.0.0.1	budapest.hu.eu.undernet.org
+127.0.0.1	chicago.il.us.undernet.org
+127.0.0.1	5h.n0rthw1nd.ru
+127.0.0.1	k9jc.n-0-rthw-1-nd.ru
+127.0.0.1	xpkyb.n-0-rthw-1-nd.ru
+127.0.0.1	fnw9.n-0-rthw-1-nd.ru
+127.0.0.1	3j6cb.ic0n1ctrove.ru
+127.0.0.1	bynbv.ic0n1ctrove.ru
+127.0.0.1	59gwy.ic0n1ctrove.ru
+127.0.0.1	cs4.starforged.ru
+127.0.0.1	42s.starforged.ru
+127.0.0.1	x5.starforged.ru
+127.0.0.1	microsharepolnt.store
+127.0.0.1	kocs45.916919.xyz
+127.0.0.1	js.driftshad0w.ru
+127.0.0.1	tz.driftshad0w.ru
+127.0.0.1	3a.driftshad0w.ru
+127.0.0.1	rfrz.emberharbor.ru
+127.0.0.1	zz5.emberharbor.ru
+127.0.0.1	c4v9.emberharbor.ru
+127.0.0.1	2hk8u.drift-shad-0-w.ru
 127.0.0.1	9zpya.drift-shad-0-w.ru
 127.0.0.1	i9.hiringimmediatelyjobs.com
 127.0.0.1	lasxz.drift-shad-0-w.ru
@@ -38688,15 +38719,4 @@
 127.0.0.1	www.thefertilemine.com
 127.0.0.1	mobile-cff.app
 127.0.0.1	mzrln.run
-127.0.0.1	wizardly-cannon.51-195-229-85.plesk.page
-127.0.0.1	setup.bestoffersfortoday.store
-127.0.0.1	37-72-168-146.static.hvvc.us
-127.0.0.1	snhnv.run
-127.0.0.1	noxajb.top
-127.0.0.1	voznessxyy.life
-127.0.0.1	clatteqrpq.digital
-127.0.0.1	ninepicchf.bet
-127.0.0.1	colliel.live
-127.0.0.1	fhtnt.run
-127.0.0.1	xtkdt.run
-# Number of entries: 38693
+# Number of entries: 38713
