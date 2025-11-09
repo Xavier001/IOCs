@@ -1,11 +1,67 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-09 04:05:51 UTC                        #
+# Last updated: 2025-11-09 10:06:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	shade.s0ftfern.ru
+127.0.0.1	ib.lakespry.ru
+127.0.0.1	vale.lakespry.ru
+127.0.0.1	r349.lakespry.ru
+127.0.0.1	86.bl1zpond.ru
+127.0.0.1	gk0.bl1zpond.ru
+127.0.0.1	hush5.bl1zpond.ru
+127.0.0.1	xhw.icymoth.ru
+127.0.0.1	t6s.icymoth.ru
+127.0.0.1	ajml.icymoth.ru
+127.0.0.1	l3.sm0kewood.ru
+127.0.0.1	spark7.sm0kewood.ru
+127.0.0.1	mist7.sm0kewood.ru
+127.0.0.1	1g.windowl.ru
+127.0.0.1	fnnl.windowl.ru
+127.0.0.1	willow9.windowl.ru
+127.0.0.1	drift.frostfox.ru
+127.0.0.1	botnet.hqdata.vn
+127.0.0.1	football-reflect.gl.at.ply.gg
+127.0.0.1	v2.xoilaczzzfz.tv
+127.0.0.1	v3.xoilaczzzfz.tv
+127.0.0.1	aperture-48940.portmap.host
+127.0.0.1	kw.atrishop.lol
+127.0.0.1	left-cure.gl.at.ply.gg
+127.0.0.1	startmenuexperiencehosting.ydns.eu
+127.0.0.1	xoilaczzzfz.tv
+127.0.0.1	ubiloma.com
+127.0.0.1	hlojonar.com
+127.0.0.1	nubiloma.com
+127.0.0.1	koh2.frostfox.ru
+127.0.0.1	brook.frostfox.ru
+127.0.0.1	stern.willowufer.ru
+127.0.0.1	moos.willowufer.ru
+127.0.0.1	adler.willowufer.ru
+127.0.0.1	klee.cometpfad.ru
+127.0.0.1	gleis.cometpfad.ru
+127.0.0.1	mond.cometpfad.ru
+127.0.0.1	glut.ravenkamm.ru
+127.0.0.1	wind.ravenkamm.ru
+127.0.0.1	ufer.ravenkamm.ru
+127.0.0.1	nacht.stormgrat.ru
+127.0.0.1	blatt.stormgrat.ru
+127.0.0.1	ydbao2.cyou
+127.0.0.1	envioansyr.dynuddns.net
+127.0.0.1	editor-okay.gl.at.ply.gg
+127.0.0.1	eis.stormgrat.ru
+127.0.0.1	wolke.polarhafen.ru
+127.0.0.1	tau.polarhafen.ru
+127.0.0.1	fjord.polarhafen.ru
+127.0.0.1	wolfe.pixelbuche.ru
+127.0.0.1	birch.pixelbuche.ru
+127.0.0.1	stern.pixelbuche.ru
+127.0.0.1	fauna.driftkrone.ru
+127.0.0.1	nebel.driftkrone.ru
+127.0.0.1	gleis.driftkrone.ru
+127.0.0.1	sturm.glaciergrat.ru
 127.0.0.1	alpen.glaciergrat.ru
 127.0.0.1	fels.glaciergrat.ru
 127.0.0.1	moor.frostgipfel.ru
@@ -38811,14 +38867,4 @@
 127.0.0.1	blackljjwc.run
 127.0.0.1	interpwthc.digital
 127.0.0.1	demuq.run
-127.0.0.1	curol.run
-127.0.0.1	ximyt.run
-127.0.0.1	nervous-mccarthy.154-53-165-98.plesk.page
-127.0.0.1	185-143-241-98.verelox.com
-127.0.0.1	srv35062473.ultasrv.net
-127.0.0.1	freeresolve.com
-127.0.0.1	tempoestil.com
-127.0.0.1	micuh.run
-127.0.0.1	security.guradclaouds.com
-127.0.0.1	security.clauodgaards.com
-# Number of entries: 38815
+# Number of entries: 38861
