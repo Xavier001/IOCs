@@ -1,11 +1,51 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-08 22:01:52 UTC                        #
+# Last updated: 2025-11-09 04:05:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	alpen.glaciergrat.ru
+127.0.0.1	fels.glaciergrat.ru
+127.0.0.1	moor.frostgipfel.ru
+127.0.0.1	sonne.frostgipfel.ru
+127.0.0.1	dampf.frostgipfel.ru
+127.0.0.1	quarz.ashenkrone.ru
+127.0.0.1	wolke.ashenkrone.ru
+127.0.0.1	glut.ashenkrone.ru
+127.0.0.1	prod.setupcloudos.com
+127.0.0.1	searchmtcn.com
+127.0.0.1	wind.cedarsteg.ru
+127.0.0.1	app.setupcloudos.com
+127.0.0.1	ufer.cedarsteg.ru
+127.0.0.1	nacht.cedarsteg.ru
+127.0.0.1	zorn.brassgipfel.ru
+127.0.0.1	klee.brassgipfel.ru
+127.0.0.1	eiche.brassgipfel.ru
+127.0.0.1	dorn.ironklippe.ru
+127.0.0.1	harz.ironklippe.ru
+127.0.0.1	blitz.ironklippe.ru
+127.0.0.1	rauch.swiftgasse.ru
+127.0.0.1	tau.swiftgasse.ru
+127.0.0.1	moos.swiftgasse.ru
+127.0.0.1	geist.quillwinkel.ru
+127.0.0.1	fjord.quillwinkel.ru
+127.0.0.1	wolke.quillwinkel.ru
+127.0.0.1	fx.sn0wmint.ru
+127.0.0.1	t3.sn0wmint.ru
+127.0.0.1	srs01.sn0wmint.ru
+127.0.0.1	80deo.oak-ember.ru
+127.0.0.1	2xado.oak-ember.ru
+127.0.0.1	qcn6.oak-ember.ru
+127.0.0.1	eiyxc.fl0wbud.ru
+127.0.0.1	b4.fl0wbud.ru
+127.0.0.1	2qn80.fl0wbud.ru
+127.0.0.1	21k2.fl-0-wbud.ru
+127.0.0.1	uy4g.fl-0-wbud.ru
+127.0.0.1	o6.fl-0-wbud.ru
+127.0.0.1	v42le.fog-map.ru
+127.0.0.1	e4.fog-map.ru
 127.0.0.1	6jr.fog-map.ru
 127.0.0.1	v5w.r1mrock.ru
 127.0.0.1	hd1p.r1mrock.ru
@@ -38779,10 +38819,6 @@
 127.0.0.1	freeresolve.com
 127.0.0.1	tempoestil.com
 127.0.0.1	micuh.run
-127.0.0.1	hyvur.run
 127.0.0.1	security.guradclaouds.com
 127.0.0.1	security.clauodgaards.com
-127.0.0.1	kahox.run
-127.0.0.1	sukum.run
-127.0.0.1	olympusgo.com
-# Number of entries: 38779
+# Number of entries: 38815
