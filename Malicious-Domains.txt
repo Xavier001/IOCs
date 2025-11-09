@@ -1,11 +1,50 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-09 10:06:59 UTC                        #
+# Last updated: 2025-11-09 12:21:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	5f2zf.frost-fox.ru
+127.0.0.1	rp.frost-fox.ru
+127.0.0.1	cecio.kozow.com
+127.0.0.1	travelok.dynuddns.net
+127.0.0.1	marketings.mysynology.net
+127.0.0.1	installinfo.dynu.net
+127.0.0.1	decorcom.ddnsguru.com
+127.0.0.1	pureworkcom.dynuddns.net
+127.0.0.1	companies.bumbleshrimp.com
+127.0.0.1	romanticweb.dynu.net
+127.0.0.1	travel.bumbleshrimp.com
+127.0.0.1	homelog.dynuddns.com
+127.0.0.1	daysincome.ddnsguru.com
+127.0.0.1	nayaink1990.dynu.net
+127.0.0.1	babyblue.dynuddns.com
+127.0.0.1	sufcompany.ddnsguru.com
+127.0.0.1	homelog2002.dynuddns.com
+127.0.0.1	beautyandbeef.dyndns.org
+127.0.0.1	leetboy.dynuddns.net
+127.0.0.1	60w.lake-spry.ru
+127.0.0.1	investment-entirely.gl.at.ply.gg
+127.0.0.1	huge-killer.gl.at.ply.gg
+127.0.0.1	astromattel.hopto.org
+127.0.0.1	standoffgey-42127.portmap.host
+127.0.0.1	cut-carry.gl.at.ply.gg
+127.0.0.1	pigb.lake-spry.ru
+127.0.0.1	tc.lake-spry.ru
+127.0.0.1	7tq70.rock-bay.ru
+127.0.0.1	littlekitty.at
+127.0.0.1	4v.rock-bay.ru
+127.0.0.1	gale2.rock-bay.ru
+127.0.0.1	snow5.sm-0-kewood.ru
+127.0.0.1	a3.sm-0-kewood.ru
+127.0.0.1	w4.sm-0-kewood.ru
+127.0.0.1	88c2.pyroclay.ru
+127.0.0.1	y4k.pyroclay.ru
+127.0.0.1	4d.pyroclay.ru
+127.0.0.1	w0umz.s0ftfern.ru
+127.0.0.1	i6gx6.s0ftfern.ru
 127.0.0.1	shade.s0ftfern.ru
 127.0.0.1	ib.lakespry.ru
 127.0.0.1	vale.lakespry.ru
@@ -38862,9 +38901,4 @@
 127.0.0.1	cntax.it.com
 127.0.0.1	afn00ws82z1yf.cfc-execute.bj.baidubce.com
 127.0.0.1	ponek.run
-127.0.0.1	meteorplyp.live
-127.0.0.1	cokok.run
-127.0.0.1	blackljjwc.run
-127.0.0.1	interpwthc.digital
-127.0.0.1	demuq.run
-# Number of entries: 38861
+# Number of entries: 38895
