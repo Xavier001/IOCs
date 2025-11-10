@@ -1,11 +1,33 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-10 10:15:35 UTC                        #
+# Last updated: 2025-11-10 12:25:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nb.brambleforge.ru
+127.0.0.1	5a0.ember-cross.ru
+127.0.0.1	25ow.ember-cross.ru
+127.0.0.1	colleststride.duckdns.org
+127.0.0.1	feelloosctoery.freeddns.org
+127.0.0.1	executive-difficulty.gl.at.ply.gg
+127.0.0.1	sgmzsw4rj64nb.mooo.com
+127.0.0.1	rasbeencollect.duckdns.org
+127.0.0.1	ufel.ember-cross.ru
+127.0.0.1	fpzu.ic0n1cvalley.ru
+127.0.0.1	sj6b.ic0n1cvalley.ru
+127.0.0.1	j60.ic0n1cvalley.ru
+127.0.0.1	ptk.0-pal-summit.ru
+127.0.0.1	ch.0-pal-summit.ru
+127.0.0.1	fox.0-pal-summit.ru
+127.0.0.1	wp.frost-wilder.ru
+127.0.0.1	drift.frost-wilder.ru
+127.0.0.1	br.frost-wilder.ru
+127.0.0.1	csonxwhattest12137.oss-cn-beijing.aliyuncs.com
+127.0.0.1	oak.0palsummit.ru
+127.0.0.1	hocn9.0palsummit.ru
+127.0.0.1	lumen.0palsummit.ru
 127.0.0.1	echo.embercross.ru
 127.0.0.1	marsh.embercross.ru
 127.0.0.1	irodx.embercross.ru
@@ -39341,17 +39363,4 @@
 127.0.0.1	wybod.run
 127.0.0.1	sliv.ph4nt0m.fr
 127.0.0.1	photoreport.roamdetail.com
-127.0.0.1	hye87lws0.localto.net
-127.0.0.1	mctestnoip0403.ddns.net
-127.0.0.1	rep.realmensw.life
-127.0.0.1	sort.realmensw.icu
-127.0.0.1	tvq.realmensw.click
-127.0.0.1	huy1612-24727.portmap.io
-127.0.0.1	7sesh-58077.portmap.io
-127.0.0.1	nnmirai.duckdns.org
-127.0.0.1	takine.duckdns.org
-127.0.0.1	kujim.run
-127.0.0.1	zumil.run
-127.0.0.1	static.195.89.27.37.clients.your-server.de
-127.0.0.1	b95bca55387d2a9ba0d7.webredirect.org
-# Number of entries: 39348
+# Number of entries: 39357
