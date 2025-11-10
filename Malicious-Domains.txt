@@ -1,11 +1,49 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-09 22:07:16 UTC                        #
+# Last updated: 2025-11-10 04:01:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bach.prairiewolf.ru
+127.0.0.1	nebel.prairiewolf.ru
+127.0.0.1	gleam.xenonridge.ru
+127.0.0.1	kamm.xenonridge.ru
+127.0.0.1	tal.xenonridge.ru
+127.0.0.1	birch.sparrowdock.ru
+127.0.0.1	moor.sparrowdock.ru
+127.0.0.1	blitz.sparrowdock.ru
+127.0.0.1	adler.anvilklee.ru
+127.0.0.1	ufer.anvilklee.ru
+127.0.0.1	stein.anvilklee.ru
+127.0.0.1	rauch.nimbusforge.ru
+127.0.0.1	glade.nimbusforge.ru
+127.0.0.1	wolke.nimbusforge.ru
+127.0.0.1	wind.sageufer.ru
+127.0.0.1	moor.sageufer.ru
+127.0.0.1	fels.sageufer.ru
+127.0.0.1	bach.echohang.ru
+127.0.0.1	krone.echohang.ru
+127.0.0.1	moos.echohang.ru
+127.0.0.1	fels.shadowtal.ru
+127.0.0.1	ufer.shadowtal.ru
+127.0.0.1	nacht.shadowtal.ru
+127.0.0.1	pfad.crimsonwald.ru
+127.0.0.1	grat.crimsonwald.ru
+127.0.0.1	eis.crimsonwald.ru
+127.0.0.1	stern.quartzhain.ru
+127.0.0.1	eiche.quartzhain.ru
+127.0.0.1	glut.quartzhain.ru
+127.0.0.1	moos.granitebach.ru
+127.0.0.1	adler.granitebach.ru
+127.0.0.1	sturm.granitebach.ru
+127.0.0.1	fjord.copperhang.ru
+127.0.0.1	wald.copperhang.ru
+127.0.0.1	eis.copperhang.ru
+127.0.0.1	pat.microsoft-telemetry.at
+127.0.0.1	cnr.microsoft-telemetry.at
+127.0.0.1	dorn.steelpfad.ru
 127.0.0.1	tau.steelpfad.ru
 127.0.0.1	rauch.steelpfad.ru
 127.0.0.1	gleis.atlasufer.ru
@@ -222,7 +260,6 @@
 127.0.0.1	left-cure.gl.at.ply.gg
 127.0.0.1	startmenuexperiencehosting.ydns.eu
 127.0.0.1	xoilaczzzfz.tv
-127.0.0.1	ubiloma.com
 127.0.0.1	hlojonar.com
 127.0.0.1	nubiloma.com
 127.0.0.1	koh2.frostfox.ru
@@ -38988,7 +39025,6 @@
 127.0.0.1	ecs-123-60-83-46.compute.hwclouds-dns.com
 127.0.0.1	flow.invstfund.io
 127.0.0.1	security.cliufgurad.com
-127.0.0.1	totyc.run
 127.0.0.1	memonzi.com
 127.0.0.1	h1.postedtipped.top
 127.0.0.1	taleweaiver.run
@@ -39005,9 +39041,4 @@
 127.0.0.1	ugive.live
 127.0.0.1	fyyl.live
 127.0.0.1	p.dpard.live
-127.0.0.1	hyvin.run
-127.0.0.1	jasad.lol
-127.0.0.1	cc6w584kc0zsp.cfc-execute.bj.baidubce.com
-127.0.0.1	97e790ebyt425.cfc-execute.bj.baidubce.com
-127.0.0.1	xizaf.run
-# Number of entries: 39004
+# Number of entries: 39035
