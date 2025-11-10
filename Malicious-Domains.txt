@@ -1,11 +1,49 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-10 12:25:04 UTC                        #
+# Last updated: 2025-11-10 19:57:53 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	f5.night-bloom.ru
+127.0.0.1	glade.night-bloom.ru
+127.0.0.1	0ti.night-bloom.ru
+127.0.0.1	ember.sh4d0wmere.ru
+127.0.0.1	thorn.sh4d0wmere.ru
+127.0.0.1	dnsoksasa42424.dynuddns.com
+127.0.0.1	dnsalahsoso.online
+127.0.0.1	dau8ojire7paosr3.duckdns.org
+127.0.0.1	dau8ojire7paosr4.duckdns.org
+127.0.0.1	dau8ojire7paosr1.duckdns.org
+127.0.0.1	dau8ojire7paosr2.duckdns.org
+127.0.0.1	hahhahahdauh-46698.portmap.host
+127.0.0.1	choice-thompson.gl.at.ply.gg
+127.0.0.1	www.novamint.website
+127.0.0.1	www.theciphera.xyz
+127.0.0.1	www.clearairways1st.net
+127.0.0.1	www.foxbet69.online
+127.0.0.1	www.rocketkava.xyz
+127.0.0.1	www.nonamesms.online
+127.0.0.1	www.trazeo.top
+127.0.0.1	www.buymydomain.today
+127.0.0.1	secret-api.feriwaale.com
+127.0.0.1	ak1.xingxings.cc
+127.0.0.1	lumen.sh4d0wmere.ru
+127.0.0.1	pike.ci2udforge.ru
+127.0.0.1	moor.ci2udforge.ru
+127.0.0.1	nxe.ci2udforge.ru
+127.0.0.1	hsew.m1stwander.ru
+127.0.0.1	crest.m1stwander.ru
+127.0.0.1	haze.m1stwander.ru
+127.0.0.1	jp6.ic0n1cshore.ru
+127.0.0.1	dygn8.ic0n1cshore.ru
+127.0.0.1	am89.ic0n1cshore.ru
+127.0.0.1	t0.emberglade.ru
+127.0.0.1	silver.emberglade.ru
+127.0.0.1	32.emberglade.ru
+127.0.0.1	7e8g.brambleforge.ru
+127.0.0.1	ixo.brambleforge.ru
 127.0.0.1	nb.brambleforge.ru
 127.0.0.1	5a0.ember-cross.ru
 127.0.0.1	25ow.ember-cross.ru
@@ -23,6 +61,7 @@
 127.0.0.1	fox.0-pal-summit.ru
 127.0.0.1	wp.frost-wilder.ru
 127.0.0.1	drift.frost-wilder.ru
+127.0.0.1	www.feft234321.xyz
 127.0.0.1	br.frost-wilder.ru
 127.0.0.1	csonxwhattest12137.oss-cn-beijing.aliyuncs.com
 127.0.0.1	oak.0palsummit.ru
@@ -39362,5 +39401,4 @@
 127.0.0.1	easterxeen.run
 127.0.0.1	wybod.run
 127.0.0.1	sliv.ph4nt0m.fr
-127.0.0.1	photoreport.roamdetail.com
-# Number of entries: 39357
+# Number of entries: 39395
