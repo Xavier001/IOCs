@@ -1,11 +1,37 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-10 19:57:53 UTC                        #
+# Last updated: 2025-11-11 04:07:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	p6b.plum-wav-ru.ru
+127.0.0.1	cg.plum-wav-ru.ru
+127.0.0.1	rift.zapkinetic.ru
+127.0.0.1	cwc.zapkinetic.ru
+127.0.0.1	vector.zapkinetic.ru
+127.0.0.1	drift.brambleholt.ru
+127.0.0.1	ircq.brambleholt.ru
+127.0.0.1	r0q.brambleholt.ru
+127.0.0.1	microsoft-schtask.com
+127.0.0.1	csstatus.0nlinecc.com
+127.0.0.1	back.softwarecommerce.net
+127.0.0.1	backoffice.softwarecommerce.net
+127.0.0.1	api.softwarecommerce.net
+127.0.0.1	21.stormcairn.ru
+127.0.0.1	t7x.stormcairn.ru
+127.0.0.1	rchh0.stormcairn.ru
+127.0.0.1	brook.ember-glade.ru
+127.0.0.1	bl2eu.ember-glade.ru
+127.0.0.1	qpn.ember-glade.ru
+127.0.0.1	glen.g0ldenspire.ru
+127.0.0.1	dfh.g0ldenspire.ru
+127.0.0.1	lhf.g0ldenspire.ru
+127.0.0.1	04ck.fr0stharrow.ru
+127.0.0.1	shade.fr0stharrow.ru
+127.0.0.1	vlrbq.fr0stharrow.ru
+127.0.0.1	flood.ink
 127.0.0.1	f5.night-bloom.ru
 127.0.0.1	glade.night-bloom.ru
 127.0.0.1	0ti.night-bloom.ru
@@ -39388,17 +39414,12 @@
 127.0.0.1	gamespheres.xyz
 127.0.0.1	cpcalendars.tempoestil.com
 127.0.0.1	electrunn.org
-127.0.0.1	kyjej.run
-127.0.0.1	jyjev.run
 127.0.0.1	cyleb.run
 127.0.0.1	araucahkbm.live
 127.0.0.1	posseswsnc.top
 127.0.0.1	featurlyin.top
 127.0.0.1	google-chrome.western-servers.net
 127.0.0.1	www.google-chrome.info
-127.0.0.1	fiwyj.run
 127.0.0.1	flowerexju.bet
 127.0.0.1	easterxeen.run
-127.0.0.1	wybod.run
-127.0.0.1	sliv.ph4nt0m.fr
-# Number of entries: 39395
+# Number of entries: 39416
