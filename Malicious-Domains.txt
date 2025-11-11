@@ -1,11 +1,28 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-11 10:17:30 UTC                        #
+# Last updated: 2025-11-11 12:28:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	g8f.opal-hollow.ru
+127.0.0.1	mist.opal-hollow.ru
+127.0.0.1	p2q.opal-hollow.ru
+127.0.0.1	sun.drift-bay.ru
+127.0.0.1	hours-morrison.gl.at.ply.gg
+127.0.0.1	x5m.drift-bay.ru
+127.0.0.1	k9r2.drift-bay.ru
+127.0.0.1	fh.zap-kinetic.ru
+127.0.0.1	iqht.zap-kinetic.ru
+127.0.0.1	cronapiworkersvc.com
+127.0.0.1	o3b.zap-kinetic.ru
+127.0.0.1	j6wk.gyrodesk.ru
+127.0.0.1	bot.windy.wtf
+127.0.0.1	www.nfdws.shop
+127.0.0.1	y3a81.gyrodesk.ru
+127.0.0.1	core.gyrodesk.ru
+127.0.0.1	r54v.qu1rkfuse.ru
 127.0.0.1	2iz.qu1rkfuse.ru
 127.0.0.1	flosinjs.com
 127.0.0.1	eco-technic.com
@@ -39505,7 +39522,4 @@
 127.0.0.1	login.mexc-signin.kro.kr
 127.0.0.1	1re0-61442.portmap.io
 127.0.0.1	djkms-32561.portmap.host
-127.0.0.1	ftp.fosna.net
-127.0.0.1	ftp.haliza.com.my
-127.0.0.1	ftp.hitplas.ro
-# Number of entries: 39502
+# Number of entries: 39516
