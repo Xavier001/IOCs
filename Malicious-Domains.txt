@@ -1,11 +1,81 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-11 12:28:01 UTC                        #
+# Last updated: 2025-11-11 22:07:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	byte2.fluxcrate.ru
+127.0.0.1	ock.turbotap.ru
+127.0.0.1	73k03.turbotap.ru
+127.0.0.1	7ws9g.turbotap.ru
+127.0.0.1	oe723.b-3-aconz.ru
+127.0.0.1	3o9.b-3-aconz.ru
+127.0.0.1	gvh.b-3-aconz.ru
+127.0.0.1	7mj20.turbo-tap.ru
+127.0.0.1	orbit2.turbo-tap.ru
+127.0.0.1	mi.turbo-tap.ru
+127.0.0.1	forge9.codecog.ru
+127.0.0.1	rto.codecog.ru
+127.0.0.1	ib.codecog.ru
+127.0.0.1	j0.b3aconz.ru
+127.0.0.1	2n.b3aconz.ru
+127.0.0.1	x2u4v.b3aconz.ru
+127.0.0.1	phase7.zimloop.ru
+127.0.0.1	q7dj.zimloop.ru
+127.0.0.1	jet.zimloop.ru
+127.0.0.1	krk.halfquark.ru
+127.0.0.1	490.halfquark.ru
+127.0.0.1	8o6.halfquark.ru
+127.0.0.1	mb3.acidwrench.ru
+127.0.0.1	loom.acidwrench.ru
+127.0.0.1	pooun.acidwrench.ru
+127.0.0.1	b0t.drift-meadow.ru
+127.0.0.1	ax20258888.com
+127.0.0.1	streamerbonfire.1cooldns.com
+127.0.0.1	miloquilla.linkpc.net
+127.0.0.1	hufhhfgfuandununcudcnjdncjndcnjdchdhfuan.duckdns.org
+127.0.0.1	log-surplus.gl.at.ply.gg
+127.0.0.1	n7y.drift-meadow.ru
+127.0.0.1	byspotikfy.com
+127.0.0.1	howelllanddevelopment.com
+127.0.0.1	flow.drift-meadow.ru
+127.0.0.1	z3x.drift-meadow.ru
+127.0.0.1	m2q.storm-ripple.ru
+127.0.0.1	p1k.storm-ripple.ru
+127.0.0.1	stormy.storm-ripple.ru
+127.0.0.1	r4t.storm-ripple.ru
+127.0.0.1	q5x.crystalcavern.ru
+127.0.0.1	v6n.crystalcavern.ru
+127.0.0.1	gleam.crystalcavern.ru
+127.0.0.1	c2r.crystalcavern.ru
+127.0.0.1	s9p.driftmeadow.ru
+127.0.0.1	meadow.driftmeadow.ru
+127.0.0.1	l0v.driftmeadow.ru
+127.0.0.1	w3b.driftmeadow.ru
+127.0.0.1	h7x.glimmerstone.ru
+127.0.0.1	r2m.glimmerstone.ru
+127.0.0.1	spark.glimmerstone.ru
+127.0.0.1	g4v.glimmerstone.ru
+127.0.0.1	dawn.emberfrontier.ru
+127.0.0.1	f8t.emberfrontier.ru
+127.0.0.1	q1r.emberfrontier.ru
+127.0.0.1	ember.emberfrontier.ru
+127.0.0.1	h2p.rivermote.ru
+127.0.0.1	n4s.rivermote.ru
+127.0.0.1	wave.rivermote.ru
+127.0.0.1	t9d.rivermote.ru
+127.0.0.1	z8n2.st0nesurge.ru
+127.0.0.1	rift.st0nesurge.ru
+127.0.0.1	m5k.st0nesurge.ru
+127.0.0.1	x3y.st0nesurge.ru
+127.0.0.1	q7z.opalhollow.ru
+127.0.0.1	bloom.opalhollow.ru
+127.0.0.1	r0c.opalhollow.ru
+127.0.0.1	shadowqueueflow.com
+127.0.0.1	l2u.opalhollow.ru
+127.0.0.1	v3n2.opal-hollow.ru
 127.0.0.1	g8f.opal-hollow.ru
 127.0.0.1	mist.opal-hollow.ru
 127.0.0.1	p2q.opal-hollow.ru
@@ -39503,23 +39573,4 @@
 127.0.0.1	bestwallet.my-profai.com
 127.0.0.1	tradingview.little-mouse.xyz
 127.0.0.1	sijyh.run
-127.0.0.1	cv.cbrw.ru
-127.0.0.1	sorov.run
-127.0.0.1	kepov.run
-127.0.0.1	pexab.run
-127.0.0.1	ciwid.run
-127.0.0.1	mygar.run
-127.0.0.1	electrurn.com
-127.0.0.1	electrurn.org
-127.0.0.1	skyprotech.ru
-127.0.0.1	ns1.shamless.sbs
-127.0.0.1	metalliko-industr.ru
-127.0.0.1	lancery.digital
-127.0.0.1	samrat4-56907.portmap.io
-127.0.0.1	dhaker.ddns.net
-127.0.0.1	raypun.eastus.cloudapp.azure.com
-127.0.0.1	magical-lumiere.94-156-177-241.plesk.page
-127.0.0.1	login.mexc-signin.kro.kr
-127.0.0.1	1re0-61442.portmap.io
-127.0.0.1	djkms-32561.portmap.host
-# Number of entries: 39516
+# Number of entries: 39567
