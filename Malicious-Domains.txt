@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-12 09:19:00 UTC                        #
+# Last updated: 2025-11-12 12:03:19 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	quasar.ydns.eu
+127.0.0.1	rajasas35safael1.duckdns.org
+127.0.0.1	productos.luxurestudiio.it.com
+127.0.0.1	6ewct49g.duckdns.org
 127.0.0.1	ir.holidaysuklastminute.co.uk
 127.0.0.1	i9.fabiankorte.net
 127.0.0.1	t.v.holidayuklastminute.co.uk
@@ -39622,8 +39626,4 @@
 127.0.0.1	dynk.run
 127.0.0.1	tvmovies.online
 127.0.0.1	udevd.microsoftools.com
-127.0.0.1	cp.exchangeodds.live
-127.0.0.1	net-2-45-248-130.cust.vodafonedsl.it
-127.0.0.1	jeqov.run
-127.0.0.1	tofukai.cfd
 # Number of entries: 39620
