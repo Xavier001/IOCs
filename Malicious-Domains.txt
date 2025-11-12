@@ -1,11 +1,52 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-12 12:03:19 UTC                        #
+# Last updated: 2025-11-12 22:02:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	grid.bash-glider.ru
+127.0.0.1	loom.vorticeye.ru
+127.0.0.1	echo.vorticeye.ru
+127.0.0.1	node.vorticeye.ru
+127.0.0.1	echo9.vorticeye.ru
+127.0.0.1	v3d1.st3elflare.ru
+127.0.0.1	trace.st3elflare.ru
+127.0.0.1	y5i1.st3elflare.ru
+127.0.0.1	nova1.st3elflare.ru
+127.0.0.1	vector.zenithsnap.ru
+127.0.0.1	nova.zenithsnap.ru
+127.0.0.1	4r1i.zenithsnap.ru
+127.0.0.1	wave.zenithsnap.ru
+127.0.0.1	wave6.gl1tchgarden.ru
+127.0.0.1	lz3y.gl1tchgarden.ru
+127.0.0.1	bp6.gl1tchgarden.ru
+127.0.0.1	l5sd.gl1tchgarden.ru
+127.0.0.1	16.bashglider.ru
+127.0.0.1	8bg.bashglider.ru
+127.0.0.1	rnxgc.bashglider.ru
+127.0.0.1	zil.bashglider.ru
+127.0.0.1	kamm.starfiare.ru
+127.0.0.1	weiss.starfiare.ru
+127.0.0.1	glow.starfiare.ru
+127.0.0.1	licht.cioudbr1nk.ru
+127.0.0.1	zephalon.com
+127.0.0.1	tedbutz.com
+127.0.0.1	nonoono1.dynuddns.com
+127.0.0.1	there-vendor.gl.at.ply.gg
+127.0.0.1	benefits.cheapguys.com
+127.0.0.1	dta.vrolijkecreaties.nl
+127.0.0.1	dta.holidayuklastminute.co.uk
+127.0.0.1	hugfornow.com
+127.0.0.1	fallmusicfestival.com
+127.0.0.1	pawprintspublishingllc.com
+127.0.0.1	nora-bs.com
+127.0.0.1	drsaputo.com
+127.0.0.1	addisartist.com
+127.0.0.1	pbcustomercare.com
+127.0.0.1	frostshiledr.com
+127.0.0.1	adeyqa.net
 127.0.0.1	quasar.ydns.eu
 127.0.0.1	rajasas35safael1.duckdns.org
 127.0.0.1	productos.luxurestudiio.it.com
@@ -39601,29 +39642,4 @@
 127.0.0.1	myaccount.google.posteid-a365.com
 127.0.0.1	mmgdt.run
 127.0.0.1	aliyun-prvhqgdlsj.cn-hangzhou.fcapp.run
-127.0.0.1	ffjdc.run
-127.0.0.1	vclpg.run
-127.0.0.1	asusupdateserver.asuscomm.com
-127.0.0.1	suave0316.ddns.net
-127.0.0.1	aliendemon.no-ip.org
-127.0.0.1	williamou.no-ip.biz
-127.0.0.1	hackeroibambini-38888.portmap.io
-127.0.0.1	kpnoq8eil.localto.net
-127.0.0.1	licz.run
-127.0.0.1	balp.run
-127.0.0.1	nygz.run
-127.0.0.1	junm.run
-127.0.0.1	biuropgcnc.duckdns.org
-127.0.0.1	biuropgcncbk.duckdns.org
-127.0.0.1	sulf.run
-127.0.0.1	jipg.run
-127.0.0.1	xelw.run
-127.0.0.1	qupt.run
-127.0.0.1	lykr.run
-127.0.0.1	chinapark.top
-127.0.0.1	www.roammco.com
-127.0.0.1	totalsolucao.com
-127.0.0.1	dynk.run
-127.0.0.1	tvmovies.online
-127.0.0.1	udevd.microsoftools.com
-# Number of entries: 39620
+# Number of entries: 39636
