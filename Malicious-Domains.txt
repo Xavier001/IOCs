@@ -1,11 +1,51 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-11 22:07:52 UTC                        #
+# Last updated: 2025-11-12 04:07:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	burst.rift-cog.ru
+127.0.0.1	7plpf.spryvolt.ru
+127.0.0.1	esa.spryvolt.ru
+127.0.0.1	labs.spryvolt.ru
+127.0.0.1	trail3.knackquill.ru
+127.0.0.1	gv8.knackquill.ru
+127.0.0.1	7q.knackquill.ru
+127.0.0.1	loom5.rumblekin.ru
+127.0.0.1	labs.eonlinesuccess.com
+127.0.0.1	host-winds.com
+127.0.0.1	edu.eonlinesuccess.com
+127.0.0.1	courses.eonlinesuccess.com
+127.0.0.1	ignite6.rumblekin.ru
+127.0.0.1	quark1.rumblekin.ru
+127.0.0.1	u1yee.spry-volt.ru
+127.0.0.1	kz17u.spry-volt.ru
+127.0.0.1	blink.spry-volt.ru
+127.0.0.1	b8.c-0-sm-1-cweld.ru
+127.0.0.1	ggww.c-0-sm-1-cweld.ru
+127.0.0.1	v8im.c-0-sm-1-cweld.ru
+127.0.0.1	quark5.glitch-pact.ru
+127.0.0.1	fyp.glitch-pact.ru
+127.0.0.1	1olj.glitch-pact.ru
+127.0.0.1	hiv8.polywhiz.ru
+127.0.0.1	2yn.polywhiz.ru
+127.0.0.1	nova7.polywhiz.ru
+127.0.0.1	xi.v3ctorplum.ru
+127.0.0.1	vector.v3ctorplum.ru
+127.0.0.1	7qti.v3ctorplum.ru
+127.0.0.1	q2q.joltberry.ru
+127.0.0.1	grid.joltberry.ru
+127.0.0.1	forge.joltberry.ru
+127.0.0.1	vale4.zenbloom.ru
+127.0.0.1	g6ur4.zenbloom.ru
+127.0.0.1	crest.zenbloom.ru
+127.0.0.1	thvs.glitchpact.ru
+127.0.0.1	shift2.glitchpact.ru
+127.0.0.1	q6lhy.glitchpact.ru
+127.0.0.1	23jn.fluxcrate.ru
+127.0.0.1	yq2z.fluxcrate.ru
 127.0.0.1	byte2.fluxcrate.ru
 127.0.0.1	ock.turbotap.ru
 127.0.0.1	73k03.turbotap.ru
@@ -39569,8 +39609,4 @@
 127.0.0.1	blessyoumother.world
 127.0.0.1	traxanhc2.duckdns.org
 127.0.0.1	electrurm.com
-127.0.0.1	14j1eqpwe044f.cfc-execute.bj.baidubce.com
-127.0.0.1	bestwallet.my-profai.com
-127.0.0.1	tradingview.little-mouse.xyz
-127.0.0.1	sijyh.run
-# Number of entries: 39567
+# Number of entries: 39603
