@@ -1,11 +1,54 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-12 22:02:58 UTC                        #
+# Last updated: 2025-11-13 04:08:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nut.jaxdrill.ru
+127.0.0.1	windows-updates-check.com
+127.0.0.1	mukphol.com
+127.0.0.1	v1.jaxdrill.ru
+127.0.0.1	byte.jaxdrill.ru
+127.0.0.1	vale.zenith-snap.ru
+127.0.0.1	rift.zenith-snap.ru
+127.0.0.1	012.zenith-snap.ru
+127.0.0.1	qzq.zenith-snap.ru
+127.0.0.1	02au.echozig.ru
+127.0.0.1	c0.echozig.ru
+127.0.0.1	nz.echozig.ru
+127.0.0.1	xqgn6.echozig.ru
+127.0.0.1	drift.wreckly.ru
+127.0.0.1	grid6.wreckly.ru
+127.0.0.1	4q.wreckly.ru
+127.0.0.1	7r.wreckly.ru
+127.0.0.1	loom7.fr0gpulse.ru
+127.0.0.1	fyi67.fr0gpulse.ru
+127.0.0.1	loom3.fr0gpulse.ru
+127.0.0.1	71f9.fr0gpulse.ru
+127.0.0.1	crest.miragepad.ru
+127.0.0.1	orbit1.miragepad.ru
+127.0.0.1	crest4.miragepad.ru
+127.0.0.1	5cg77.miragepad.ru
+127.0.0.1	f1o.twistnova.ru
+127.0.0.1	sparkle.twistnova.ru
+127.0.0.1	vi.twistnova.ru
+127.0.0.1	glide.twistnova.ru
+127.0.0.1	suz.mirage-pad.ru
+127.0.0.1	2z.mirage-pad.ru
+127.0.0.1	frqyt.gl-1-tchgarden.ru
+127.0.0.1	daw.gl-1-tchgarden.ru
+127.0.0.1	core.gl-1-tchgarden.ru
+127.0.0.1	y9w7.gl-1-tchgarden.ru
+127.0.0.1	q1f1p.twist-nova.ru
+127.0.0.1	ux.twist-nova.ru
+127.0.0.1	2tkvw.twist-nova.ru
+127.0.0.1	server.dczu.dpdns.org
+127.0.0.1	gynar.twist-nova.ru
+127.0.0.1	phase.bash-glider.ru
+127.0.0.1	shift.bash-glider.ru
+127.0.0.1	jet.bash-glider.ru
 127.0.0.1	grid.bash-glider.ru
 127.0.0.1	loom.vorticeye.ru
 127.0.0.1	echo.vorticeye.ru
@@ -39616,30 +39659,11 @@
 127.0.0.1	sbbe.loginpaxful.posteid-a365.com
 127.0.0.1	account.microsoft.live.posteid-a365.com
 127.0.0.1	dealerhub.ebanking.posteid-a365.com
-127.0.0.1	assets-msn.org
 127.0.0.1	recommendation-samoa-weights-guyana.trycloudflare.com
-127.0.0.1	linhua97.top
-127.0.0.1	cv.jyla.ru
 127.0.0.1	hgjbp.run
 127.0.0.1	animatcxju.live
 127.0.0.1	enumermbzz.live
 127.0.0.1	albizzcdlv.digital
 127.0.0.1	radiocity.serveminecraft.net
 127.0.0.1	rwdfn.run
-127.0.0.1	rhbqx.run
-127.0.0.1	jvlmr.run
-127.0.0.1	nrfwj.run
-127.0.0.1	pksns.run
-127.0.0.1	login.accountyahoo.posteid-a365.com
-127.0.0.1	yahoorecovery.posteid-a365.com
-127.0.0.1	ebanking-ch1.ebanking-ch1.posteid-a365.com
-127.0.0.1	www.dhl.posteid-a365.com
-127.0.0.1	onlineservices.onlineservices.posteid-a365.com
-127.0.0.1	login.livelogin.posteid-a365.com
-127.0.0.1	cdn.login.posteid-a365.com
-127.0.0.1	zdassets.loginpaxful.posteid-a365.com
-127.0.0.1	www.accountgoogle.posteid-a365.com
-127.0.0.1	myaccount.google.posteid-a365.com
-127.0.0.1	mmgdt.run
-127.0.0.1	aliyun-prvhqgdlsj.cn-hangzhou.fcapp.run
-# Number of entries: 39636
+# Number of entries: 39660
