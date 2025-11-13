@@ -1,11 +1,29 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-13 10:12:17 UTC                        #
+# Last updated: 2025-11-13 12:28:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	quartz3.quartz-flip.ru
+127.0.0.1	vlr.quartz-flip.ru
+127.0.0.1	hg.quartz-flip.ru
+127.0.0.1	trackboxing.dynuddns.net
+127.0.0.1	envioremcosanta.dynuddns.net
+127.0.0.1	belulunelubukekekbuekkkebdhhkekekjdhfjdj.duckdns.org
+127.0.0.1	p2.nibsnap.ru
+127.0.0.1	9fwu4.nibsnap.ru
+127.0.0.1	ctf.nibsnap.ru
+127.0.0.1	rsw.g0b1ncore.ru
+127.0.0.1	vmzts.g0b1ncore.ru
+127.0.0.1	dro.g0b1ncore.ru
+127.0.0.1	crest.zeromint.ru
+127.0.0.1	eri.vrolijkecreaties.nl
+127.0.0.1	sketch.zeromint.ru
+127.0.0.1	91.zeromint.ru
+127.0.0.1	1apde.zeromint.ru
+127.0.0.1	wsyu.t1nkerbay.ru
 127.0.0.1	j0gxn.t1nkerbay.ru
 127.0.0.1	foam.t1nkerbay.ru
 127.0.0.1	vitasdrudalokistok.com
@@ -39113,7 +39131,4 @@
 127.0.0.1	www.oceandentalcare.com
 127.0.0.1	kypa.press
 127.0.0.1	wydi.press
-127.0.0.1	darlon2025.duckdns.org
-127.0.0.1	cornerdurv.top
-127.0.0.1	testcawepr.run
-# Number of entries: 39110
+# Number of entries: 39125
