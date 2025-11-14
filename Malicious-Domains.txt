@@ -1,11 +1,54 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-13 21:12:51 UTC                        #
+# Last updated: 2025-11-14 04:07:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	moor.neonkiefer.ru
+127.0.0.1	gleis.neonkiefer.ru
+127.0.0.1	fels.cobaltspore.ru
+127.0.0.1	tau.cobaltspore.ru
+127.0.0.1	birch.cobaltspore.ru
+127.0.0.1	nacht.quartzfuchs.ru
+127.0.0.1	kamm.quartzfuchs.ru
+127.0.0.1	adler.quartzfuchs.ru
+127.0.0.1	glut.emberweide.ru
+127.0.0.1	4gef4km41aysc.cfc-execute.bj.baidubce.com
+127.0.0.1	bach.emberweide.ru
+127.0.0.1	stern.emberweide.ru
+127.0.0.1	moos.thundergrove.ru
+127.0.0.1	pfad.thundergrove.ru
+127.0.0.1	wolke.thundergrove.ru
+127.0.0.1	zorn.boulderfield.ru
+127.0.0.1	licht.boulderfield.ru
+127.0.0.1	stein.boulderfield.ru
+127.0.0.1	ufer.thrushmere.ru
+127.0.0.1	moos.thrushmere.ru
+127.0.0.1	falke.thrushmere.ru
+127.0.0.1	korn.ashriver.ru
+127.0.0.1	fjord.ashriver.ru
+127.0.0.1	rauch.ashriver.ru
+127.0.0.1	pfad.yewhollow.ru
+127.0.0.1	weiss.yewhollow.ru
+127.0.0.1	nacht.yewhollow.ru
+127.0.0.1	hafen.rowanstead.ru
+127.0.0.1	wald.rowanstead.ru
+127.0.0.1	rune.acornhollow.ru
+127.0.0.1	nebel.acornhollow.ru
+127.0.0.1	ufer.acornhollow.ru
+127.0.0.1	moos.ivyvale.ru
+127.0.0.1	gleis.ivyvale.ru
+127.0.0.1	adler.ivyvale.ru
+127.0.0.1	kamm.titanbirch.ru
+127.0.0.1	tau.titanbirch.ru
+127.0.0.1	glanz.titanbirch.ru
+127.0.0.1	stern.platinumvale.ru
+127.0.0.1	eiche.platinumvale.ru
+127.0.0.1	moor.platinumvale.ru
+127.0.0.1	stahl.goldtalon.ru
+127.0.0.1	klee.goldtalon.ru
 127.0.0.1	stern.brinewald.ru
 127.0.0.1	moor.brinewald.ru
 127.0.0.1	hafen.brinewald.ru
@@ -39141,15 +39184,11 @@
 127.0.0.1	qweiozmnxvla.click
 127.0.0.1	lkjzmxnqpwer.click
 127.0.0.1	naroowlagendbend.sbs
-127.0.0.1	lygep.ru
 127.0.0.1	oct-estimation.gl.at.ply.gg
 127.0.0.1	elon20252025subdominmain2025.duckdns.org
 127.0.0.1	hsjafklweqmn.click
 127.0.0.1	manlichcopfbeet.top
-127.0.0.1	cujob.ru
 127.0.0.1	entrinidad.cfd
-127.0.0.1	qaxib.ru
-127.0.0.1	gypuq.ru
 127.0.0.1	eduardocaballero5070.duckdns.org
 127.0.0.1	barmgek.digital
 127.0.0.1	wordinfos.com
@@ -39158,5 +39197,4 @@
 127.0.0.1	soundcloudxyinialol14881.duckdns.org
 127.0.0.1	ammarsy.no-ip.biz
 127.0.0.1	shiroweb-52633.portmap.host
-127.0.0.1	132.162.30.34.bc.googleusercontent.com
-# Number of entries: 39153
+# Number of entries: 39191
