@@ -1,11 +1,31 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-14 10:17:37 UTC                        #
+# Last updated: 2025-11-14 12:28:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	trail.flintzoo.ru
+127.0.0.1	echo.flintzoo.ru
+127.0.0.1	1b8.flintzoo.ru
+127.0.0.1	omgtelecom.com
+127.0.0.1	defupdater.dll
+127.0.0.1	www.smssending.ns1.name
+127.0.0.1	mr24251.duckdns.org
+127.0.0.1	confrewdsfgfs.con-ip.com
+127.0.0.1	cms0c.st-0-bepress.ru
+127.0.0.1	nova.st-0-bepress.ru
+127.0.0.1	bkp.st-0-bepress.ru
+127.0.0.1	sb.v0xelmint.ru
+127.0.0.1	uuf.v0xelmint.ru
+127.0.0.1	yw7.v0xelmint.ru
+127.0.0.1	www.marmosfinancial.com
+127.0.0.1	kna.bl1nkswitch.ru
+127.0.0.1	ceshioa.us.kg
+127.0.0.1	lmn.bl1nkswitch.ru
+127.0.0.1	z5.bl1nkswitch.ru
+127.0.0.1	vale.quantmelt.ru
 127.0.0.1	6m.quantmelt.ru
 127.0.0.1	u6.quantmelt.ru
 127.0.0.1	wave.flint-zoo.ru
@@ -39187,54 +39207,4 @@
 127.0.0.1	dkpfb.ru
 127.0.0.1	hjfct.ru
 127.0.0.1	web.svhhelp.top
-127.0.0.1	mahud.ru
-127.0.0.1	flyfrtee.shop
-127.0.0.1	genxhkwr.digital
-127.0.0.1	swauh.digital
-127.0.0.1	fahrenl.digital
-127.0.0.1	racxilb.digital
-127.0.0.1	hdtvwz.digital
-127.0.0.1	detemjj.digital
-127.0.0.1	erioxmza.digital
-127.0.0.1	backdbp.digital
-127.0.0.1	prozyre.digital
-127.0.0.1	cobwuxr.digital
-127.0.0.1	incinux.digital
-127.0.0.1	lathflk.digital
-127.0.0.1	voyagjeup.shop
-127.0.0.1	foistc.digital
-127.0.0.1	pubivxz.digital
-127.0.0.1	racoqd.digital
-127.0.0.1	genuitz.digital
-127.0.0.1	onsrdbld.digital
-127.0.0.1	steabza.digital
-127.0.0.1	chercw.digital
-127.0.0.1	tacticoo.top
-127.0.0.1	flatll.digital
-127.0.0.1	apjmxc.digital
-127.0.0.1	explri.digital
-127.0.0.1	snaklvx.digital
-127.0.0.1	ringj.digital
-127.0.0.1	lategja.digital
-127.0.0.1	serapf.digital
-127.0.0.1	voydagist.shop
-127.0.0.1	bondvq.digital
-127.0.0.1	beatart.digital
-127.0.0.1	ozenlul.digital
-127.0.0.1	kidneu.digital
-127.0.0.1	repubjc.digital
-127.0.0.1	casswjp.digital
-127.0.0.1	childpc.digital
-127.0.0.1	metaca.digital
-127.0.0.1	jzourneyy.shop
-127.0.0.1	glldsv.digital
-127.0.0.1	solxlac.digital
-127.0.0.1	tucuoq.digital
-127.0.0.1	tumcvkc.digital
-127.0.0.1	saltjfs.digital
-127.0.0.1	pingytb.digital
-127.0.0.1	deviludp.digital
-127.0.0.1	macjajm.digital
-127.0.0.1	discrk.digital
-127.0.0.1	revwugi.digital
-# Number of entries: 39231
+# Number of entries: 39201
