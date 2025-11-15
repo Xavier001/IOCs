@@ -1,11 +1,51 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-14 22:07:33 UTC                        #
+# Last updated: 2025-11-15 04:07:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	weald.auroralinde.ru
+127.0.0.1	moos.auroralinde.ru
+127.0.0.1	gleis.auroralinde.ru
+127.0.0.1	hain.maplerand.ru
+127.0.0.1	stern.maplerand.ru
+127.0.0.1	kraut.maplerand.ru
+127.0.0.1	fjord.maplerand.ru
+127.0.0.1	nebel.zephyrquelle.ru
+127.0.0.1	bach.zephyrquelle.ru
+127.0.0.1	rune.zephyrquelle.ru
+127.0.0.1	farn.quillgipfel.ru
+127.0.0.1	fluss.quillgipfel.ru
+127.0.0.1	stein.quillgipfel.ru
+127.0.0.1	tau.quillgipfel.ru
+127.0.0.1	wald.quillgipfel.ru
+127.0.0.1	dorn.onyxkamm.ru
+127.0.0.1	schild.onyxkamm.ru
+127.0.0.1	licht.onyxkamm.ru
+127.0.0.1	ufer.onyxkamm.ru
+127.0.0.1	pfad.onyxkamm.ru
+127.0.0.1	adler.graniteweide.ru
+127.0.0.1	strom.graniteweide.ru
+127.0.0.1	berg.graniteweide.ru
+127.0.0.1	weald.saffronhafen.ru
+127.0.0.1	glut.saffronhafen.ru
+127.0.0.1	klee.saffronhafen.ru
+127.0.0.1	moor.saffronhafen.ru
+127.0.0.1	funke.thunderkiesel.ru
+127.0.0.1	nebel.thunderkiesel.ru
+127.0.0.1	grat.thunderkiesel.ru
+127.0.0.1	bach.thunderkiesel.ru
+127.0.0.1	wolke.thunderkiesel.ru
+127.0.0.1	rinde.willowgrat.ru
+127.0.0.1	falke.willowgrat.ru
+127.0.0.1	moor.willowgrat.ru
+127.0.0.1	weiss.solarpfad.ru
+127.0.0.1	kamm.solarpfad.ru
+127.0.0.1	eis.solarpfad.ru
+127.0.0.1	licht.obsidianufer.ru
+127.0.0.1	pfote.obsidianufer.ru
 127.0.0.1	sturm.obsidianufer.ru
 127.0.0.1	weald.cobaltquelle.ru
 127.0.0.1	tal.cobaltquelle.ru
@@ -39260,9 +39300,4 @@
 127.0.0.1	laminaflbx.shop
 127.0.0.1	emphatakpn.bet
 127.0.0.1	saxecocnak.live
-127.0.0.1	ecs-113-44-39-1.compute.hwclouds-dns.com
-127.0.0.1	dvwct.ru
-127.0.0.1	ec2-54-183-101-23.us-west-1.compute.amazonaws.com
-127.0.0.1	zdqdc.ru
-127.0.0.1	ndgpt.ru
-# Number of entries: 39259
+# Number of entries: 39294
