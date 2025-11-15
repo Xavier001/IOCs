@@ -1,11 +1,40 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-15 04:07:44 UTC                        #
+# Last updated: 2025-11-15 10:08:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	echo5.bestffriend.digital
+127.0.0.1	pn.bestffriend.digital
+127.0.0.1	tap6.bestffriend.digital
+127.0.0.1	x2n.bestffriend.com
+127.0.0.1	echo5.bestffriend.com
+127.0.0.1	pn.bestffriend.com
+127.0.0.1	tap6.bestffriend.com
+127.0.0.1	mvu5.idealbros.com
+127.0.0.1	jet.idealbros.com
+127.0.0.1	xsud.idealbros.com
+127.0.0.1	bindlib.com
+127.0.0.1	ldasldalsd.com
+127.0.0.1	uploadclient32.com
+127.0.0.1	sistemdetect.com
+127.0.0.1	aasdtvcvchcvhhhhh.com
+127.0.0.1	drugtrh.qpon
+127.0.0.1	anomal.lockerozonelf.su
+127.0.0.1	leathes.qpon
+127.0.0.1	agosto13.con-ip.com
+127.0.0.1	eg-buzz.gl.at.ply.gg
+127.0.0.1	glanz.silvanbruch.ru
+127.0.0.1	tal.silvanbruch.ru
+127.0.0.1	zorn.silvanbruch.ru
+127.0.0.1	falke.silvanbruch.ru
+127.0.0.1	kreis.tundragrund.ru
+127.0.0.1	tau.tundragrund.ru
+127.0.0.1	ufer.tundragrund.ru
+127.0.0.1	licht.tundragrund.ru
+127.0.0.1	klee.tundragrund.ru
 127.0.0.1	weald.auroralinde.ru
 127.0.0.1	moos.auroralinde.ru
 127.0.0.1	gleis.auroralinde.ru
@@ -40,6 +69,7 @@
 127.0.0.1	wolke.thunderkiesel.ru
 127.0.0.1	rinde.willowgrat.ru
 127.0.0.1	falke.willowgrat.ru
+127.0.0.1	capstone.chandlercook.net
 127.0.0.1	moor.willowgrat.ru
 127.0.0.1	weiss.solarpfad.ru
 127.0.0.1	kamm.solarpfad.ru
@@ -39269,35 +39299,4 @@
 127.0.0.1	wss.telegrma.app
 127.0.0.1	aneesh-technomakest.duckdns.org
 127.0.0.1	aneesh-technomakestbk.duckdns.org
-127.0.0.1	jerusd.digital
-127.0.0.1	golconz.digital
-127.0.0.1	cladwybn.digital
-127.0.0.1	anna-akhmatova.com
-127.0.0.1	16.16.4t.com
-127.0.0.1	bootplate.info
-127.0.0.1	sistertable.xyz
-127.0.0.1	blameaowi.run
-127.0.0.1	changenwg.run
-127.0.0.1	flamingof.run
-127.0.0.1	tool.municipiodechepo.org
-127.0.0.1	api.incapdns.kz
-127.0.0.1	blog.jasonlees.com
-127.0.0.1	report.monicabellucci.kz
-127.0.0.1	developer.master.org.kz
-127.0.0.1	cast.voxcdn.kz
-127.0.0.1	host.moresecurity.kz
-127.0.0.1	ryanberardi.com
-127.0.0.1	onlinemail.kz
-127.0.0.1	contactlistsagregator.com
-127.0.0.1	frederichoms.com
-127.0.0.1	silver-map.gl.at.ply.gg
-127.0.0.1	brandenfrancseet.sbs
-127.0.0.1	fmovies123.top
-127.0.0.1	flowergrandeseen.sbs
-127.0.0.1	console24.online
-127.0.0.1	mahsa2283qt9.mahsaaminivpn.com
-127.0.0.1	webpanel.elementfx.com
-127.0.0.1	laminaflbx.shop
-127.0.0.1	emphatakpn.bet
-127.0.0.1	saxecocnak.live
-# Number of entries: 39294
+# Number of entries: 39293
