@@ -1,11 +1,109 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-15 12:27:27 UTC                        #
+# Last updated: 2025-11-15 22:07:41 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ku3.brimhopper.ru
+127.0.0.1	trail3.brimhopper.ru
+127.0.0.1	hammer.granitekamm.ru
+127.0.0.1	fluss.granitekamm.ru
+127.0.0.1	zorn.granitekamm.ru
+127.0.0.1	wolke.granitekamm.ru
+127.0.0.1	stern.willowsteg.ru
+127.0.0.1	dune.willowsteg.ru
+127.0.0.1	brook.willowsteg.ru
+127.0.0.1	hafen.glaciertal.ru
+127.0.0.1	bach.glaciertal.ru
+127.0.0.1	wind.glaciertal.ru
+127.0.0.1	moor.glaciertal.ru
+127.0.0.1	fels.glaciertal.ru
+127.0.0.1	weide.ravenkloster.ru
+127.0.0.1	pfad.ravenkloster.ru
+127.0.0.1	turm.ravenkloster.ru
+127.0.0.1	adler.ravenkloster.ru
+127.0.0.1	stern.copperalpen.ru
+127.0.0.1	bach.copperalpen.ru
+127.0.0.1	moor.copperalpen.ru
+127.0.0.1	glade.aurorafels.ru
+127.0.0.1	wind.aurorafels.ru
+127.0.0.1	grat.aurorafels.ru
+127.0.0.1	birch.aurorafels.ru
+127.0.0.1	ak1.xingxings2.cc
+127.0.0.1	newssystemcopilotdrivertresmil.ydns.eu
+127.0.0.1	archive-medical.gl.at.ply.gg
+127.0.0.1	dorn.midnightkiefer.ru
+127.0.0.1	falke.midnightkiefer.ru
+127.0.0.1	rune.midnightkiefer.ru
+127.0.0.1	wald.midnightkiefer.ru
+127.0.0.1	nacht.midnightkiefer.ru
+127.0.0.1	nebel.quartzfeder.ru
+127.0.0.1	kamm.quartzfeder.ru
+127.0.0.1	pfad.quartzfeder.ru
+127.0.0.1	korn.emberhochland.ru
+127.0.0.1	bestmoneytree.com
+127.0.0.1	chromiumgo.bond
+127.0.0.1	chroeminstant.com
+127.0.0.1	chromeupdate.download
+127.0.0.1	conqueringtheland.com
+127.0.0.1	beasteadyhand.org
+127.0.0.1	urbannewsnow.com
+127.0.0.1	samleapp.com
+127.0.0.1	mondotalk.co.uk
+127.0.0.1	dnss.pro
+127.0.0.1	egao25.com
+127.0.0.1	gameofbones.net
+127.0.0.1	diamondmusicent.com.ng
+127.0.0.1	epfindiauan.com
+127.0.0.1	cargo.aquafex.in
+127.0.0.1	fuckrabbit.com
+127.0.0.1	flavorista.branding-bar.com
+127.0.0.1	tildotsignatures.com
+127.0.0.1	cptchdm.icu
+127.0.0.1	sleepkids.app
+127.0.0.1	archilabdesigns.com
+127.0.0.1	super.namatin.com
+127.0.0.1	pokkaloh.com
+127.0.0.1	delix.misecretaria.com.ar
+127.0.0.1	xshby.com
+127.0.0.1	adultgamesps4.com
+127.0.0.1	tsutsuifujiko.com
+127.0.0.1	abstractoffieldtrialofblackgram.com
+127.0.0.1	simmexcontrol.com
+127.0.0.1	weald.emberhochland.ru
+127.0.0.1	rune.emberhochland.ru
+127.0.0.1	stern.emberhochland.ru
+127.0.0.1	moor.emberhochland.ru
+127.0.0.1	tau.stormlaterne.ru
+127.0.0.1	bach.stormlaterne.ru
+127.0.0.1	glanz.stormlaterne.ru
+127.0.0.1	wolke.stormlaterne.ru
+127.0.0.1	rift.waveretch.ru
+127.0.0.1	ieqs.waveretch.ru
+127.0.0.1	quark.waveretch.ru
+127.0.0.1	spark8.kn-1-fecast.ru
+127.0.0.1	l8lp.kn-1-fecast.ru
+127.0.0.1	nd9eh.kn-1-fecast.ru
+127.0.0.1	drs.patchvine.ru
+127.0.0.1	vale.patchvine.ru
+127.0.0.1	ewgmd.patchvine.ru
+127.0.0.1	flux.drip-anchor.ru
+127.0.0.1	ly.drip-anchor.ru
+127.0.0.1	98.drip-anchor.ru
+127.0.0.1	pulse.scramblehub.ru
+127.0.0.1	rah.scramblehub.ru
+127.0.0.1	ye.scramblehub.ru
+127.0.0.1	e0.meltquark.ru
+127.0.0.1	fvfsf.meltquark.ru
+127.0.0.1	q9p4.meltquark.ru
+127.0.0.1	he2.g-0-ss-lamp.ru
+127.0.0.1	ylr.g-0-ss-lamp.ru
+127.0.0.1	hover3.g-0-ss-lamp.ru
+127.0.0.1	www.acd852.me
+127.0.0.1	kpow.kn1fecast.ru
+127.0.0.1	35k.kn1fecast.ru
 127.0.0.1	beacon1.kn1fecast.ru
 127.0.0.1	1ojva.g0sslamp.ru
 127.0.0.1	lj.g0sslamp.ru
@@ -44,7 +142,6 @@
 127.0.0.1	sistemdetect.com
 127.0.0.1	aasdtvcvchcvhhhhh.com
 127.0.0.1	drugtrh.qpon
-127.0.0.1	anomal.lockerozonelf.su
 127.0.0.1	leathes.qpon
 127.0.0.1	agosto13.con-ip.com
 127.0.0.1	eg-buzz.gl.at.ply.gg
@@ -39307,16 +39404,4 @@
 127.0.0.1	mythic.cseccon.de
 127.0.0.1	ecs-1-92-100-230.compute.hwclouds-dns.com
 127.0.0.1	159-89-17-182.cprapid.com
-127.0.0.1	8r.czlw.ru
-127.0.0.1	badgervolleyball.org
-127.0.0.1	qv.gahq.ru
-127.0.0.1	awndsjkduiukekwltdadjwadawds.ru
-127.0.0.1	pentagonstealer.ru
-127.0.0.1	pentagon.cy
-127.0.0.1	testwebsite01-70h.pages.dev
-127.0.0.1	www.rivercitymech.biz
-127.0.0.1	stealer.cy
-127.0.0.1	ou.qymj.ru
-127.0.0.1	fanclubsemantics.sbs
-127.0.0.1	wss.telegrma.app
-# Number of entries: 39313
+# Number of entries: 39398
