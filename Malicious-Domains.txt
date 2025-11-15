@@ -1,11 +1,33 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-15 10:08:00 UTC                        #
+# Last updated: 2025-11-15 12:27:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	beacon1.kn1fecast.ru
+127.0.0.1	1ojva.g0sslamp.ru
+127.0.0.1	lj.g0sslamp.ru
+127.0.0.1	debt-apartment.gl.at.ply.gg
+127.0.0.1	center-lost.gl.at.ply.gg
+127.0.0.1	ezpz1.xyz
+127.0.0.1	kamazec-35137.portmap.host
+127.0.0.1	source-gtk.gl.at.ply.gg
+127.0.0.1	tuesday-gamma.gl.at.ply.gg
+127.0.0.1	7uo.g0sslamp.ru
+127.0.0.1	yspm.orbitling.ru
+127.0.0.1	f3.orbitling.ru
+127.0.0.1	scramble3.orbitling.ru
+127.0.0.1	trace.s1nkflare.ru
+127.0.0.1	drip2.s1nkflare.ru
+127.0.0.1	kans.s1nkflare.ru
+127.0.0.1	obte.dripanchor.ru
+127.0.0.1	ac3d0ee370745f757.awsglobalaccelerator.com
+127.0.0.1	anchor.dripanchor.ru
+127.0.0.1	q0ck.dripanchor.ru
+127.0.0.1	x2n.bestffriend.digital
+127.0.0.1	vibe.bestffriend.digital
 127.0.0.1	echo5.bestffriend.digital
 127.0.0.1	pn.bestffriend.digital
 127.0.0.1	tap6.bestffriend.digital
@@ -39297,6 +39319,4 @@
 127.0.0.1	ou.qymj.ru
 127.0.0.1	fanclubsemantics.sbs
 127.0.0.1	wss.telegrma.app
-127.0.0.1	aneesh-technomakest.duckdns.org
-127.0.0.1	aneesh-technomakestbk.duckdns.org
-# Number of entries: 39293
+# Number of entries: 39313
