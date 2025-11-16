@@ -1,11 +1,48 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-15 22:07:41 UTC                        #
+# Last updated: 2025-11-16 04:08:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	vyf3.mirthcap.ru
+127.0.0.1	sparkle.mirthcap.ru
+127.0.0.1	15yf.mirthcap.ru
+127.0.0.1	tbck.quartz-leaf.ru
+127.0.0.1	qnbtu.quartz-leaf.ru
+127.0.0.1	gk.quartz-leaf.ru
+127.0.0.1	core5.tweakmire.ru
+127.0.0.1	2h.tweakmire.ru
+127.0.0.1	rwz.tweakmire.ru
+127.0.0.1	92.sp1remoss.ru
+127.0.0.1	drift.sp1remoss.ru
+127.0.0.1	p2bf9.sp1remoss.ru
+127.0.0.1	pulse.harpswitch.ru
+127.0.0.1	8zmw8.harpswitch.ru
+127.0.0.1	7fl06.harpswitch.ru
+127.0.0.1	nova2.quartzleaf.ru
+127.0.0.1	o3xz6.quartzleaf.ru
+127.0.0.1	w1.quartzleaf.ru
+127.0.0.1	0z3sa.tweak-mire.ru
+127.0.0.1	gn.tweak-mire.ru
+127.0.0.1	labs0.tweak-mire.ru
+127.0.0.1	phase4.brim-hopper.ru
+127.0.0.1	xcmt.brim-hopper.ru
+127.0.0.1	glide.brim-hopper.ru
+127.0.0.1	trail.ventrill.ru
+127.0.0.1	dap.ventrill.ru
+127.0.0.1	switch.ventrill.ru
+127.0.0.1	hover.cl0udvex.ru
+127.0.0.1	blink.cl0udvex.ru
+127.0.0.1	forge4.cl0udvex.ru
+127.0.0.1	sparkle6.j1gglestone.ru
+127.0.0.1	cap.j1gglestone.ru
+127.0.0.1	wepe.j1gglestone.ru
+127.0.0.1	mesh.s0larbudge.ru
+127.0.0.1	phase0.s0larbudge.ru
+127.0.0.1	cwv2t.s0larbudge.ru
+127.0.0.1	nova.brimhopper.ru
 127.0.0.1	ku3.brimhopper.ru
 127.0.0.1	trail3.brimhopper.ru
 127.0.0.1	hammer.granitekamm.ru
@@ -39400,8 +39437,4 @@
 127.0.0.1	zrysdxnzmo.antiwifi.cc
 127.0.0.1	newjourneynewstartfreshthingforfuture.duckdns.org
 127.0.0.1	yxta.top
-127.0.0.1	sindio.organiccrap.com
-127.0.0.1	mythic.cseccon.de
-127.0.0.1	ecs-1-92-100-230.compute.hwclouds-dns.com
-127.0.0.1	159-89-17-182.cprapid.com
-# Number of entries: 39398
+# Number of entries: 39431
