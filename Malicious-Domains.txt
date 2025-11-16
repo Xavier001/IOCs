@@ -1,11 +1,92 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-16 04:08:03 UTC                        #
+# Last updated: 2025-11-16 10:09:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sky.sn0rtling.ru
+127.0.0.1	k4.torque-bud.ru
+127.0.0.1	morrow.torque-bud.ru
+127.0.0.1	rift5.torque-bud.ru
+127.0.0.1	e9v.morrow-plug.ru
+127.0.0.1	04.morrow-plug.ru
+127.0.0.1	quark.morrow-plug.ru
+127.0.0.1	ykh0q.plixhaven.ru
+127.0.0.1	plug.plixhaven.ru
+127.0.0.1	trace.plixhaven.ru
+127.0.0.1	g5ph.morrowplug.ru
+127.0.0.1	1tqwn.morrowplug.ru
+127.0.0.1	shard.morrowplug.ru
+127.0.0.1	r4a.h-0-bblenet.ru
+127.0.0.1	f9.h-0-bblenet.ru
+127.0.0.1	cmj3.h-0-bblenet.ru
+127.0.0.1	starwitchumbraculum.com
+127.0.0.1	8ey.jam-crest.ru
+127.0.0.1	worldspaceleague.net
+127.0.0.1	mihandyhub.com
+127.0.0.1	18win1.app
+127.0.0.1	sejtravels.com
+127.0.0.1	pastbsite.org
+127.0.0.1	pajero888slot.net
+127.0.0.1	fablabsaigon.org
+127.0.0.1	ilanjoseph.com
+127.0.0.1	diamondexportind.com
+127.0.0.1	doublehomework.com
+127.0.0.1	tradersmoods.com
+127.0.0.1	outattheinn.com
+127.0.0.1	gatesofolympus1000game.com
+127.0.0.1	povporngames.com
+127.0.0.1	affi-onna.com
+127.0.0.1	zinchicken.com
+127.0.0.1	daiwafoods.com
+127.0.0.1	taixe.ilokafood.com
+127.0.0.1	rocketfireworks.yswhosting.com
+127.0.0.1	we.teknospd.com
+127.0.0.1	elle.digipeeps.online
+127.0.0.1	medinbusiness.store
+127.0.0.1	varktechltd.com
+127.0.0.1	getshelters.com
+127.0.0.1	ync-web.com
+127.0.0.1	calismaiznibasvurusu.com
+127.0.0.1	sbpmr.fr
+127.0.0.1	oppaimon.com
+127.0.0.1	vodlia.com
+127.0.0.1	frx.kindnessbrand.com
+127.0.0.1	yuririn1.com
+127.0.0.1	loongviva.com
+127.0.0.1	sun-star-design.com
+127.0.0.1	gamecoreadultgames.com
+127.0.0.1	kendo-lesson.com
+127.0.0.1	buteam.com
+127.0.0.1	computersexgames.com
+127.0.0.1	goupdate.pages.dev
+127.0.0.1	updatemicrosoftonline.arkelconstructor.com
+127.0.0.1	chromeupdate.google.arkelconstructor.com
+127.0.0.1	mjjt.jam-crest.ru
+127.0.0.1	uubb.jam-crest.ru
+127.0.0.1	baf8t.gr-1-tbinder.ru
+127.0.0.1	8po.gr-1-tbinder.ru
+127.0.0.1	0icby.gr-1-tbinder.ru
+127.0.0.1	isv.cr1mpoint.ru
+127.0.0.1	glide.cr1mpoint.ru
+127.0.0.1	jam.cr1mpoint.ru
+127.0.0.1	628.torquebud.ru
+127.0.0.1	jvjduckdns233.duckdns.org
+127.0.0.1	arasik-20044.portmap.host
+127.0.0.1	christmas-historical.gl.at.ply.gg
+127.0.0.1	8g8.torquebud.ru
+127.0.0.1	aka.torquebud.ru
+127.0.0.1	2xg.jamcrest.ru
+127.0.0.1	crest.jamcrest.ru
+127.0.0.1	6o.jamcrest.ru
+127.0.0.1	labs.gr1tbinder.ru
+127.0.0.1	nova1.gr1tbinder.ru
+127.0.0.1	6nn.gr1tbinder.ru
+127.0.0.1	o6.skylintap.ru
+127.0.0.1	8e.skylintap.ru
+127.0.0.1	trail0.skylintap.ru
 127.0.0.1	vyf3.mirthcap.ru
 127.0.0.1	sparkle.mirthcap.ru
 127.0.0.1	15yf.mirthcap.ru
@@ -39425,16 +39506,4 @@
 127.0.0.1	xn--indirm-gunu-3zb.shop
 127.0.0.1	productos.zongamervid.com
 127.0.0.1	betbot.mchbee.cloud
-127.0.0.1	primivo.click
-127.0.0.1	anon26.ddns.net
-127.0.0.1	aiddesk.help
-127.0.0.1	ip66-179-94-187.pbiaas.com
-127.0.0.1	hunterinrx.run
-127.0.0.1	memelock.app
-127.0.0.1	pump.fun.ong
-127.0.0.1	uhie2025.duckdns.org
-127.0.0.1	voc.no-ip.org
-127.0.0.1	zrysdxnzmo.antiwifi.cc
-127.0.0.1	newjourneynewstartfreshthingforfuture.duckdns.org
-127.0.0.1	yxta.top
-# Number of entries: 39431
+# Number of entries: 39500
