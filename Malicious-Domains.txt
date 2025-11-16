@@ -1,11 +1,27 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-16 10:09:47 UTC                        #
+# Last updated: 2025-11-16 12:17:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	quark.wavermint.ru
+127.0.0.1	dzqz.waver-mint.ru
+127.0.0.1	useful-divine.gl.at.ply.gg
+127.0.0.1	8.tcp.us-cal-1.ngrok.io
+127.0.0.1	ywfqi-138-199-7-236.a.free.pinggy.link
+127.0.0.1	4y7w.spiicepad.ru
+127.0.0.1	oct0t.kink-bellow.ru
+127.0.0.1	z4cp.waver-mint.ru
+127.0.0.1	drift.h0bblenet.ru
+127.0.0.1	nova.h0bblenet.ru
+127.0.0.1	bud.h0bblenet.ru
+127.0.0.1	ciku.sn-0-rtling.ru
+127.0.0.1	sparkle7.sn-0-rtling.ru
+127.0.0.1	qg2j3.sn-0-rtling.ru
+127.0.0.1	xm9v.sn0rtling.ru
+127.0.0.1	phase6.sn0rtling.ru
 127.0.0.1	sky.sn0rtling.ru
 127.0.0.1	k4.torque-bud.ru
 127.0.0.1	morrow.torque-bud.ru
@@ -39503,7 +39519,4 @@
 127.0.0.1	n6shbbkm-88.usw3.devtunnels.ms
 127.0.0.1	d1ecnze4r6f2q.cfc-execute.bj.baidubce.com
 127.0.0.1	qianab2.anondns.net
-127.0.0.1	xn--indirm-gunu-3zb.shop
-127.0.0.1	productos.zongamervid.com
-127.0.0.1	betbot.mchbee.cloud
-# Number of entries: 39500
+# Number of entries: 39513
