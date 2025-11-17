@@ -1,11 +1,30 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-17 10:17:48 UTC                        #
+# Last updated: 2025-11-17 12:26:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	node0.cog-whittle.ru
+127.0.0.1	cog.gr1zzlepad.ru
+127.0.0.1	xap.gr1zzlepad.ru
+127.0.0.1	wea.zapto.org
+127.0.0.1	civo.gr1zzlepad.ru
+127.0.0.1	vmr3absd.ddns.net
+127.0.0.1	trail8.gr1zzlepad.ru
+127.0.0.1	glide2.vexlatch.ru
+127.0.0.1	kerwp.vexlatch.ru
+127.0.0.1	dn8z4.vexlatch.ru
+127.0.0.1	plume.vexlatch.ru
+127.0.0.1	g3.plasmabout.ru
+127.0.0.1	anchor.plasmabout.ru
+127.0.0.1	grid.plasmabout.ru
+127.0.0.1	v5.plasmabout.ru
+127.0.0.1	file.oss-flash.shop
+127.0.0.1	flp3.st1ltforge.ru
+127.0.0.1	pad.st1ltforge.ru
+127.0.0.1	tr.st1ltforge.ru
 127.0.0.1	1efys.st1ltforge.ru
 127.0.0.1	labs.cogwhittle.ru
 127.0.0.1	71kxr.cogwhittle.ru
@@ -39837,4 +39856,4 @@
 127.0.0.1	garyb.digital
 127.0.0.1	teoja.digital
 127.0.0.1	timertvey.top
-# Number of entries: 39831
+# Number of entries: 39850
