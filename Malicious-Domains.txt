@@ -1,11 +1,73 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-17 12:26:01 UTC                        #
+# Last updated: 2025-11-17 22:13:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	weald.quirkforge.ru
+127.0.0.1	glanz.quirkforge.ru
+127.0.0.1	fjord.m0ssplunge.ru
+127.0.0.1	rauch.m0ssplunge.ru
+127.0.0.1	dune.m0ssplunge.ru
+127.0.0.1	gleis.m0ssplunge.ru
+127.0.0.1	stern.m0ssplunge.ru
+127.0.0.1	taiga.flintpaddle.ru
+127.0.0.1	ufer.flintpaddle.ru
+127.0.0.1	wolke.flintpaddle.ru
+127.0.0.1	birch.flintpaddle.ru
+127.0.0.1	1k.j-0-tchamber.ru
+127.0.0.1	qm.j-0-tchamber.ru
+127.0.0.1	rv.j-0-tchamber.ru
+127.0.0.1	ju.j-0-tchamber.ru
+127.0.0.1	nyq.orbitalnip.ru
+127.0.0.1	kas.orbitalnip.ru
+127.0.0.1	3ccw2.orbitalnip.ru
+127.0.0.1	0t.orbitalnip.ru
+127.0.0.1	quark0.razor-plume.ru
+127.0.0.1	uy2k6.razor-plume.ru
+127.0.0.1	trace.razor-plume.ru
+127.0.0.1	7k.razor-plume.ru
+127.0.0.1	aa.evermint.ru
+127.0.0.1	ebrk.evermint.ru
+127.0.0.1	q4.evermint.ru
+127.0.0.1	kf2.evermint.ru
+127.0.0.1	dripiscoool1-45611.portmap.host
+127.0.0.1	gjin.ever-mint.ru
+127.0.0.1	pronik-37794.portmap.host
+127.0.0.1	pureeratee.duckdns.org
+127.0.0.1	ghooozztttt.duckdns.org
+127.0.0.1	hu41o.ever-mint.ru
+127.0.0.1	xfoxmaildns.stufftoread.com
+127.0.0.1	hank-oh53.duckdns.org
+127.0.0.1	vale.ever-mint.ru
+127.0.0.1	yjxm4.ever-mint.ru
+127.0.0.1	sparkle3.tanglehook.ru
+127.0.0.1	o7.tanglehook.ru
+127.0.0.1	oio.tanglehook.ru
+127.0.0.1	g3i6.tanglehook.ru
+127.0.0.1	26e.j0tchamber.ru
+127.0.0.1	flux.j0tchamber.ru
+127.0.0.1	mbwr5.j0tchamber.ru
+127.0.0.1	g2.j0tchamber.ru
+127.0.0.1	grizzle.razorplume.ru
+127.0.0.1	ss.razorplume.ru
+127.0.0.1	unaltee.qpon
+127.0.0.1	whittle.razorplume.ru
+127.0.0.1	454.razorplume.ru
+127.0.0.1	shift4.plasm-about.ru
+127.0.0.1	oi.plasm-about.ru
+127.0.0.1	r4rx.plasm-about.ru
+127.0.0.1	jzs48.plasm-about.ru
+127.0.0.1	d5.st-1-lt-forge.ru
+127.0.0.1	nova.st-1-lt-forge.ru
+127.0.0.1	rift.st-1-lt-forge.ru
+127.0.0.1	chamber.st-1-lt-forge.ru
+127.0.0.1	di3.cog-whittle.ru
+127.0.0.1	togogeo.com
+127.0.0.1	mint.cog-whittle.ru
+127.0.0.1	sjld.cog-whittle.ru
 127.0.0.1	node0.cog-whittle.ru
 127.0.0.1	cog.gr1zzlepad.ru
 127.0.0.1	xap.gr1zzlepad.ru
@@ -39827,33 +39889,4 @@
 127.0.0.1	makes-girl.gl.at.ply.gg
 127.0.0.1	giajgdfgcs63da2s.ksf123.icu
 127.0.0.1	www.emelowebshop.hu
-127.0.0.1	wps.nbpmmkrb.cn
-127.0.0.1	td.ldxwpedf.cn
-127.0.0.1	app.sparrowallet.net
-127.0.0.1	all.tcphangjews.lol
-127.0.0.1	katana.tcphangjews.lol
-127.0.0.1	lipaisanigger.niekot.xyz
-127.0.0.1	deathbotnet.lol
-127.0.0.1	wolf.tcphangjews.lol
-127.0.0.1	botnet.s3oox.com
-127.0.0.1	koegje.digital
-127.0.0.1	skjym.digital
-127.0.0.1	normacw.digital
-127.0.0.1	chmydt.digital
-127.0.0.1	sinb.digital
-127.0.0.1	towhnl.digital
-127.0.0.1	brapl.digital
-127.0.0.1	feidm.digital
-127.0.0.1	conmog.digital
-127.0.0.1	intabg.digital
-127.0.0.1	swizcpll.digital
-127.0.0.1	alleup.digital
-127.0.0.1	royat.digital
-127.0.0.1	wilgch.digital
-127.0.0.1	gratcf.digital
-127.0.0.1	kizscs.digital
-127.0.0.1	comstmo.digital
-127.0.0.1	garyb.digital
-127.0.0.1	teoja.digital
-127.0.0.1	timertvey.top
-# Number of entries: 39850
+# Number of entries: 39883
