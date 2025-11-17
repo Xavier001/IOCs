@@ -1,11 +1,49 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-16 22:08:16 UTC                        #
+# Last updated: 2025-11-17 04:07:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bach.merlincopse.ru
+127.0.0.1	nebel.merlincopse.ru
+127.0.0.1	wind.cairnsteg.ru
+127.0.0.1	adler.cairnsteg.ru
+127.0.0.1	moos.cairnsteg.ru
+127.0.0.1	tal.heatherpass.ru
+127.0.0.1	klee.heatherpass.ru
+127.0.0.1	bach.heatherpass.ru
+127.0.0.1	api.asduiasd12ab.xyz
+127.0.0.1	wolke.heatherpass.ru
+127.0.0.1	injj8.kink-bellow.ru
+127.0.0.1	gx.braycircuit.ru
+127.0.0.1	drift8.braycircuit.ru
+127.0.0.1	quark.braycircuit.ru
+127.0.0.1	jp.braycircuit.ru
+127.0.0.1	bay.spindle-way.ru
+127.0.0.1	hck.spindle-way.ru
+127.0.0.1	spark.spindle-way.ru
+127.0.0.1	i8.spindle-way.ru
+127.0.0.1	rift7.quibsnare.ru
+127.0.0.1	jx7y.quibsnare.ru
+127.0.0.1	6jtg4.quibsnare.ru
+127.0.0.1	labs.quibsnare.ru
+127.0.0.1	w9el.hover-mint.ru
+127.0.0.1	mrryq.hover-mint.ru
+127.0.0.1	q5ct.hover-mint.ru
+127.0.0.1	gtl.hover-mint.ru
+127.0.0.1	kvt.gl1nterbay.ru
+127.0.0.1	glide.gl1nterbay.ru
+127.0.0.1	circuit.gl1nterbay.ru
+127.0.0.1	jkf2.gl1nterbay.ru
+127.0.0.1	gleam.cl1ppleap.ru
+127.0.0.1	zgna.cl1ppleap.ru
+127.0.0.1	jov.cl1ppleap.ru
+127.0.0.1	1csr.cl1ppleap.ru
+127.0.0.1	marble5.spindleway.ru
+127.0.0.1	hkngj.spindleway.ru
+127.0.0.1	dl.spindleway.ru
 127.0.0.1	pua4.spindleway.ru
 127.0.0.1	6pz.bray-circuit.ru
 127.0.0.1	crest.bray-circuit.ru
@@ -40008,6 +40046,4 @@
 127.0.0.1	market-needed.gl.at.ply.gg
 127.0.0.1	water-keyword.gl.at.ply.gg
 127.0.0.1	sorts-pushed-completely-manuals.trycloudflare.com
-127.0.0.1	overcast2384.crabdance.com
-127.0.0.1	api.saicfinance.work
-# Number of entries: 40004
+# Number of entries: 40040
