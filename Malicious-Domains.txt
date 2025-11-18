@@ -1,11 +1,113 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-18 12:31:30 UTC                        #
+# Last updated: 2025-11-18 22:07:33 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sterm.st0nedrift.ru
+127.0.0.1	uefer.c1earpeak.ru
+127.0.0.1	birhc.c1earpeak.ru
+127.0.0.1	glowe.c1earpeak.ru
+127.0.0.1	wolkr.c1earpeak.ru
+127.0.0.1	eis.l1ghtseed.ru
+127.0.0.1	tau.l1ghtseed.ru
+127.0.0.1	moos.l1ghtseed.ru
+127.0.0.1	stern.l1ghtseed.ru
+127.0.0.1	glut.l1ghtseed.ru
+127.0.0.1	fels.w1ndmark.ru
+127.0.0.1	weg.w1ndmark.ru
+127.0.0.1	korn.w1ndmark.ru
+127.0.0.1	tal.s0ftwind.ru
+127.0.0.1	licht.s0ftwind.ru
+127.0.0.1	ufer.s0ftwind.ru
+127.0.0.1	vendas.securefile.xyz
+127.0.0.1	nest.s0ftwind.ru
+127.0.0.1	grat.brightv1be.ru
+127.0.0.1	wolke.brightv1be.ru
+127.0.0.1	zorn.brightv1be.ru
+127.0.0.1	moos.br1ghtf0x.ru
+127.0.0.1	rauch.br1ghtf0x.ru
+127.0.0.1	harz.br1ghtf0x.ru
+127.0.0.1	adler.br1ghtf0x.ru
+127.0.0.1	birke.br1ghtf0x.ru
+127.0.0.1	klee.crystalrun.ru
+127.0.0.1	weiss.crystalrun.ru
+127.0.0.1	falke.crystalrun.ru
+127.0.0.1	pfad.crystalrun.ru
+127.0.0.1	hafen.r1verbend.ru
+127.0.0.1	bach.r1verbend.ru
+127.0.0.1	wald.r1verbend.ru
+127.0.0.1	tau.st0nefall.ru
+127.0.0.1	conectionwindowssupport.duckdns.org
+127.0.0.1	servidoresethernetnew.duckdns.org
+127.0.0.1	rajasas35safael6.duckdns.org
+127.0.0.1	rajasas35safael5.duckdns.org
+127.0.0.1	rajasas35safael4.duckdns.org
+127.0.0.1	rajasas35safael3.duckdns.org
+127.0.0.1	rajasas35safael2.duckdns.org
+127.0.0.1	pool-roman.at.ply.gg
+127.0.0.1	abcp1.hopto.org
+127.0.0.1	strikerolionaolqnfks.com
+127.0.0.1	gleis.st0nefall.ru
+127.0.0.1	asiolkijmadikola.com
+127.0.0.1	avakreplianamame.com
+127.0.0.1	chakulilipopifikolas.com
+127.0.0.1	vilorhilokasdhermiol.com
+127.0.0.1	adoklixiokloer.com
+127.0.0.1	afolpderniolakfduik.com
+127.0.0.1	krone.st0nefall.ru
+127.0.0.1	moor.st0nefall.ru
+127.0.0.1	kamm.st0nefall.ru
+127.0.0.1	ufer.starfie1d.ru
+127.0.0.1	eiche.starfie1d.ru
+127.0.0.1	mond.starfie1d.ru
+127.0.0.1	glanz.c1oudmap.ru
+127.0.0.1	bach.c1oudmap.ru
+127.0.0.1	tal.c1oudmap.ru
+127.0.0.1	rhein.c1oudmap.ru
+127.0.0.1	ufer.redfie1d.ru
+127.0.0.1	mustdohavetrinmydimo.com
+127.0.0.1	stern.redfie1d.ru
+127.0.0.1	laghuirtinosdek.com
+127.0.0.1	darklousdirupas.com
+127.0.0.1	hdflksgreklams.com
+127.0.0.1	lalasisifuryglap.com
+127.0.0.1	asakusubinitohas.com
+127.0.0.1	faryshopkleyskipi.com
+127.0.0.1	automab.qpon
+127.0.0.1	catsquo.qpon
+127.0.0.1	moor.redfie1d.ru
+127.0.0.1	www.devopstechnologies.site
+127.0.0.1	bach.redfie1d.ru
+127.0.0.1	fels.redfie1d.ru
+127.0.0.1	klee.b1ue5pr1lng.ru
+127.0.0.1	wolke.b1ue5pr1lng.ru
+127.0.0.1	rune.b1ue5pr1lng.ru
+127.0.0.1	wald.wlnd5hore.ru
+127.0.0.1	krone.wlnd5hore.ru
+127.0.0.1	tal.wlnd5hore.ru
+127.0.0.1	brise.wlnd5hore.ru
+127.0.0.1	dune.c0ldwater.ru
+127.0.0.1	glanz.c0ldwater.ru
+127.0.0.1	fjord.c0ldwater.ru
+127.0.0.1	gleam.9reenpath.ru
+127.0.0.1	hain.9reenpath.ru
+127.0.0.1	sturm.9reenpath.ru
+127.0.0.1	weiss.9reenpath.ru
+127.0.0.1	kreis.9reenpath.ru
+127.0.0.1	ger.clashofmaps.vip
+127.0.0.1	ger.mummyhildasrice.com
+127.0.0.1	moor.darkr1ver.ru
+127.0.0.1	licht.darkr1ver.ru
+127.0.0.1	kamm.darkr1ver.ru
+127.0.0.1	www.zp857.online
+127.0.0.1	kl.kimlinlin.com
+127.0.0.1	enter.xone.la
+127.0.0.1	api.google-update.xyz
+127.0.0.1	adler.darkr1ver.ru
+127.0.0.1	pfad.br1ght5tar.ru
 127.0.0.1	wolke.br1ght5tar.ru
 127.0.0.1	birch.br1ght5tar.ru
 127.0.0.1	glade.f0re5tline.ru
@@ -18,6 +120,8 @@
 127.0.0.1	moos.rap1d5t0ne.ru
 127.0.0.1	klee.5ilverm0on.ru
 127.0.0.1	rune.5ilverm0on.ru
+127.0.0.1	www.youwhui.cn
+127.0.0.1	leeleelee.xyz
 127.0.0.1	bach.5ilverm0on.ru
 127.0.0.1	wolke.5ilverm0on.ru
 127.0.0.1	eiche.harmfu1tw0.ru
@@ -40017,9 +40121,4 @@
 127.0.0.1	acc.hu.webreqjobs.plasma.synlab.com
 127.0.0.1	fortisinstructure.de
 127.0.0.1	css.xsjl7932.top
-127.0.0.1	nig.ck.io.vn
-127.0.0.1	ikechukwu.duckdns.org
-127.0.0.1	lbgl2.login.5gfxwkdnci5fgoda27vad7snijqazv.info
-127.0.0.1	ulgroup.login.5gfxwkdnci5fgoda27vad7snijqazv.info
-127.0.0.1	next.avianix.tech
-# Number of entries: 40016
+# Number of entries: 40115
