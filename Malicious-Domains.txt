@@ -1,11 +1,29 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-17 22:13:13 UTC                        #
+# Last updated: 2025-11-18 00:47:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	falke.spyingte1ess.ru
+127.0.0.1	pfad.spyingte1ess.ru
+127.0.0.1	cloud.spyingte1ess.ru
+127.0.0.1	licht.c0nsiumpond.ru
+127.0.0.1	wald.c0nsiumpond.ru
+127.0.0.1	ufer.c0nsiumpond.ru
+127.0.0.1	eis.c0nsiumpond.ru
+127.0.0.1	weald.ec0nomyfl0.ru
+127.0.0.1	tau.ec0nomyfl0.ru
+127.0.0.1	birch.ec0nomyfl0.ru
+127.0.0.1	rune.re5u7coundrel.ru
+127.0.0.1	korn.re5u7coundrel.ru
+127.0.0.1	fjord.re5u7coundrel.ru
+127.0.0.1	ns2.jxalrport.top
+127.0.0.1	ns1.jxalrport.top
+127.0.0.1	glade.re5u7coundrel.ru
+127.0.0.1	wolke.re5u7coundrel.ru
+127.0.0.1	adler.quirkforge.ru
 127.0.0.1	weald.quirkforge.ru
 127.0.0.1	glanz.quirkforge.ru
 127.0.0.1	fjord.m0ssplunge.ru
@@ -39887,6 +39905,4 @@
 127.0.0.1	economic-rob.gl.at.ply.gg
 127.0.0.1	warrant764-45540.portmap.io
 127.0.0.1	makes-girl.gl.at.ply.gg
-127.0.0.1	giajgdfgcs63da2s.ksf123.icu
-127.0.0.1	www.emelowebshop.hu
-# Number of entries: 39883
+# Number of entries: 39899
