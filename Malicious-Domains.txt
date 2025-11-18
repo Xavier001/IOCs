@@ -1,11 +1,28 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-18 10:15:45 UTC                        #
+# Last updated: 2025-11-18 12:31:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wolke.br1ght5tar.ru
+127.0.0.1	birch.br1ght5tar.ru
+127.0.0.1	glade.f0re5tline.ru
+127.0.0.1	tau.f0re5tline.ru
+127.0.0.1	falke.f0re5tline.ru
+127.0.0.1	weald.f0re5tline.ru
+127.0.0.1	stern.f0re5tline.ru
+127.0.0.1	ufer.rap1d5t0ne.ru
+127.0.0.1	geist.rap1d5t0ne.ru
+127.0.0.1	moos.rap1d5t0ne.ru
+127.0.0.1	klee.5ilverm0on.ru
+127.0.0.1	rune.5ilverm0on.ru
+127.0.0.1	bach.5ilverm0on.ru
+127.0.0.1	wolke.5ilverm0on.ru
+127.0.0.1	eiche.harmfu1tw0.ru
+127.0.0.1	wald.harmfu1tw0.ru
+127.0.0.1	ufer.harmfu1tw0.ru
 127.0.0.1	glanz.harmfu1tw0.ru
 127.0.0.1	taiga.chankexpe1.ru
 127.0.0.1	raven.chankexpe1.ru
@@ -40005,4 +40022,4 @@
 127.0.0.1	lbgl2.login.5gfxwkdnci5fgoda27vad7snijqazv.info
 127.0.0.1	ulgroup.login.5gfxwkdnci5fgoda27vad7snijqazv.info
 127.0.0.1	next.avianix.tech
-# Number of entries: 39999
+# Number of entries: 40016
