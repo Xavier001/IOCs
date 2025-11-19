@@ -1,11 +1,53 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-18 22:07:33 UTC                        #
+# Last updated: 2025-11-19 04:07:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wolkr.2tannenpfad.ru
+127.0.0.1	bruke.s1lvergate.ru
+127.0.0.1	weald.s1lvergate.ru
+127.0.0.1	argent.s1lvergate.ru
+127.0.0.1	flair.firer1dge.ru
+127.0.0.1	cindr.firer1dge.ru
+127.0.0.1	brige.firer1dge.ru
+127.0.0.1	ambr.firer1dge.ru
+127.0.0.1	sumer.brightden.ru
+127.0.0.1	brisk.brightden.ru
+127.0.0.1	dawne.brightden.ru
+127.0.0.1	gloww.brightden.ru
+127.0.0.1	turne.mistytrai1.ru
+127.0.0.1	pfth.mistytrai1.ru
+127.0.0.1	foggy.mistytrai1.ru
+127.0.0.1	silem.s0ftvale.ru
+127.0.0.1	breez.s0ftvale.ru
+127.0.0.1	wylde.s0ftvale.ru
+127.0.0.1	vally.s0ftvale.ru
+127.0.0.1	gusty.rainv1sta.ru
+127.0.0.1	medow.rainv1sta.ru
+127.0.0.1	drizz.rainv1sta.ru
+127.0.0.1	pfed.deepv0yage.ru
+127.0.0.1	wolke.deepv0yage.ru
+127.0.0.1	trakk.deepv0yage.ru
+127.0.0.1	gleem.deepv0yage.ru
+127.0.0.1	harbr.deepv0yage.ru
+127.0.0.1	weald.0akstream.ru
+127.0.0.1	bruke.0akstream.ru
+127.0.0.1	mossy.0akstream.ru
+127.0.0.1	rivul.0akstream.ru
+127.0.0.1	licth.crysta1shore.ru
+127.0.0.1	quarz.crysta1shore.ru
+127.0.0.1	shoal.crysta1shore.ru
+127.0.0.1	tall.moonf1eld.ru
+127.0.0.1	374y246zera4r.cfc-execute.bj.baidubce.com
+127.0.0.1	winde.moonf1eld.ru
+127.0.0.1	glanz.moonf1eld.ru
+127.0.0.1	brige.moonf1eld.ru
+127.0.0.1	mooss.moonf1eld.ru
+127.0.0.1	rauch.st0nedrift.ru
+127.0.0.1	kleea.st0nedrift.ru
 127.0.0.1	sterm.st0nedrift.ru
 127.0.0.1	uefer.c1earpeak.ru
 127.0.0.1	birhc.c1earpeak.ru
@@ -40117,8 +40159,4 @@
 127.0.0.1	bothehedoxiahihi.zapto.org
 127.0.0.1	botnet.exiled.rip
 127.0.0.1	zbtgzbt.duckdns.org
-127.0.0.1	acc.webreq.plasma.synlab.com
-127.0.0.1	acc.hu.webreqjobs.plasma.synlab.com
-127.0.0.1	fortisinstructure.de
-127.0.0.1	css.xsjl7932.top
-# Number of entries: 40115
+# Number of entries: 40153
