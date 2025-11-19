@@ -1,11 +1,33 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-19 10:19:20 UTC                        #
+# Last updated: 2025-11-19 12:27:19 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	core.n0v0se1prew.ru
+127.0.0.1	alpha3.n0v0se1prew.ru
+127.0.0.1	wn.n0v0se1prew.ru
+127.0.0.1	yq9g.diab4uette.ru
+127.0.0.1	wealthyme.ddns.net
+127.0.0.1	oilmoney.duckdns.org
+127.0.0.1	godwilling.duckdns.org
+127.0.0.1	navox.duckdns.org
+127.0.0.1	godabeg.duckdns.org
+127.0.0.1	i9.diab4uette.ru
+127.0.0.1	delta.diab4uette.ru
+127.0.0.1	xq9.diab4uette.ru
+127.0.0.1	ha.amin0mer3ges.ru
+127.0.0.1	yp.amin0mer3ges.ru
+127.0.0.1	vale.amin0mer3ges.ru
+127.0.0.1	klif.hollow7ridge.ru
+127.0.0.1	grove.hollow7ridge.ru
+127.0.0.1	drb.amin0mer3ges.ru
+127.0.0.1	weald.echo6fern.ru
+127.0.0.1	korn.echo6fern.ru
+127.0.0.1	rune.spruce5moor.ru
+127.0.0.1	quarz.basaltwisp9.ru
 127.0.0.1	ardotcharleybuking.com
 127.0.0.1	brutalinfgonzasochi.com
 127.0.0.1	ember.basaltwisp9.ru
@@ -40276,17 +40298,4 @@
 127.0.0.1	www.azen.shop
 127.0.0.1	www.b13x6nu.pro
 127.0.0.1	www.b67f.top
-127.0.0.1	astroidd.shop
-127.0.0.1	modihq.digital
-127.0.0.1	sourpw.digital
-127.0.0.1	whitne.digital
-127.0.0.1	bbmthe.digital
-127.0.0.1	blnpa.digital
-127.0.0.1	crpcto.digital
-127.0.0.1	grobw.digital
-127.0.0.1	textu.digital
-127.0.0.1	bassb.digital
-127.0.0.1	sfacqwl.digital
-127.0.0.1	osbhob.digital
-127.0.0.1	mooncarc.top
-# Number of entries: 40283
+# Number of entries: 40292
