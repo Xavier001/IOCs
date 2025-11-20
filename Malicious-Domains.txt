@@ -1,11 +1,49 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-19 22:07:30 UTC                        #
+# Last updated: 2025-11-20 04:07:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bach3.thistleforge.ru
+127.0.0.1	wolke.thistleforge.ru
+127.0.0.1	w0ald.se1fish5tupid.ru
+127.0.0.1	gl4ut.se1fish5tupid.ru
+127.0.0.1	haf3en.se1fish5tupid.ru
+127.0.0.1	wei5ss.se1fish5tupid.ru
+127.0.0.1	st0urm.se1fish5tupid.ru
+127.0.0.1	eich3e.nar7owsized.ru
+127.0.0.1	wo2lke.nar7owsized.ru
+127.0.0.1	fa3lke.nar7owsized.ru
+127.0.0.1	ne1bel.nar7owsized.ru
+127.0.0.1	do4rn.pr0p0sedtact.ru
+127.0.0.1	gle2is.pr0p0sedtact.ru
+127.0.0.1	br1ise.pr0p0sedtact.ru
+127.0.0.1	pf7ad.rec1aimswal1.ru
+127.0.0.1	u6fer.rec1aimswal1.ru
+127.0.0.1	we4g.rec1aimswal1.ru
+127.0.0.1	mo2or.rec1aimswal1.ru
+127.0.0.1	ha1in.rec1aimswal1.ru
+127.0.0.1	st3eg.aphrh1tc4h.ru
+127.0.0.1	e1is.aphrh1tc4h.ru
+127.0.0.1	qu1arz.aphrh1tc4h.ru
+127.0.0.1	li2cht.aphrh1tc4h.ru
+127.0.0.1	fl3uss.test6yvarn1sh.ru
+127.0.0.1	be2rg.test6yvarn1sh.ru
+127.0.0.1	we1iss.test6yvarn1sh.ru
+127.0.0.1	t4au.deane4y5not.ru
+127.0.0.1	kra2ut.deane4y5not.ru
+127.0.0.1	mi5st.deane4y5not.ru
+127.0.0.1	gl0ow.deane4y5not.ru
+127.0.0.1	wal3d.deane4y5not.ru
+127.0.0.1	st1ern.bil1sun8en.ru
+127.0.0.1	u9fer.bil1sun8en.ru
+127.0.0.1	ha2fen.bil1sun8en.ru
+127.0.0.1	mo0or.dr0gaguaran.ru
+127.0.0.1	pf4ad.dr0gaguaran.ru
+127.0.0.1	ba3ch.dr0gaguaran.ru
+127.0.0.1	wi1nd.dr0gaguaran.ru
 127.0.0.1	rill.ve1vetc0ves.ru
 127.0.0.1	kamm.ve1vetc0ves.ru
 127.0.0.1	cloud.ve1vetc0ves.ru
@@ -40287,22 +40325,4 @@
 127.0.0.1	hours-affected-personals-grey.trycloudflare.com
 127.0.0.1	sublime-tragedy-counties-sculpture.trycloudflare.com
 127.0.0.1	apponflyd.duckdns.org
-127.0.0.1	crossfitolathe.com
-127.0.0.1	img6.rnidwayrentafence.com
-127.0.0.1	img1.rnidwayrentafence.com
-127.0.0.1	gui.rnidwayrentafence.com
-127.0.0.1	ok.rnidwayrentafence.com
-127.0.0.1	outlook.rnidwayrentafence.com
-127.0.0.1	events.api.rnidwayrentafence.com
-127.0.0.1	csp.rnidwayrentafence.com
-127.0.0.1	sso.rnidwayrentafence.com
-127.0.0.1	acc.rnidwayrentafence.com
-127.0.0.1	acc.webreqjobs.plasma.synlab.com
-127.0.0.1	51r7x0m2-8081.asse.devtunnels.ms
-127.0.0.1	g.sst.rnidwayrentafence.com
-127.0.0.1	reporting.rnidwayrentafence.com
-127.0.0.1	login.rnidwayrentafence.com
-127.0.0.1	live.rnidwayrentafence.com
-127.0.0.1	ec2-3-71-71-121.eu-central-1.compute.amazonaws.com
-127.0.0.1	b.udate.sbs
-# Number of entries: 40299
+# Number of entries: 40319
