@@ -1,11 +1,61 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-20 04:07:48 UTC                        #
+# Last updated: 2025-11-20 10:18:10 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	gleis.driftklause.ru
+127.0.0.1	brise.loamgarde.ru
+127.0.0.1	ridge4.loamgarde.ru
+127.0.0.1	gjt.wallyapp.xyz
+127.0.0.1	fra.wallyapp.xyz
+127.0.0.1	gjt.nigeriaafricatime.com
+127.0.0.1	mead.loamgarde.ru
+127.0.0.1	brook.loamgarde.ru
+127.0.0.1	weald.loamgarde.ru
+127.0.0.1	amififadinokasrwe.com
+127.0.0.1	sticka.qpon
+127.0.0.1	decalcy.qpon
+127.0.0.1	krone3.wolspfad.ru
+127.0.0.1	wald.wolspfad.ru
+127.0.0.1	falke.wolspfad.ru
+127.0.0.1	rauch2.emberbucht.ru
+127.0.0.1	glut.emberbucht.ru
+127.0.0.1	ufer.emberbucht.ru
+127.0.0.1	hafen.emberbucht.ru
+127.0.0.1	stern1.alderquartz.ru
+127.0.0.1	eiche.alderquartz.ru
+127.0.0.1	fjord.alderquartz.ru
+127.0.0.1	www.batescraigprojects.store
+127.0.0.1	www.batescraigprojects.site
+127.0.0.1	taiga.cobaltmeadow.ru
+127.0.0.1	korn7.cobaltmeadow.ru
+127.0.0.1	pfad.cobaltmeadow.ru
+127.0.0.1	sturm.cobaltmeadow.ru
+127.0.0.1	static.myonlinegigs.com
+127.0.0.1	birch.cobaltmeadow.ru
+127.0.0.1	wolke9.lindenarc.ru
+127.0.0.1	tal.lindenarc.ru
+127.0.0.1	ethupdate.top
+127.0.0.1	xrprelay.top
+127.0.0.1	bach.lindenarc.ru
+127.0.0.1	rune.lindenarc.ru
+127.0.0.1	strom2.granitehaven.ru
+127.0.0.1	weiss.granitehaven.ru
+127.0.0.1	igw.myfirewall.org
+127.0.0.1	hain.brackenloft.ru
+127.0.0.1	wind5.brackenloft.ru
+127.0.0.1	licht.brackenloft.ru
+127.0.0.1	fels.brackenloft.ru
+127.0.0.1	moor.moonfenster.ru
+127.0.0.1	geist.moonfenster.ru
+127.0.0.1	ufer1.moonfenster.ru
+127.0.0.1	tau.moonfenster.ru
+127.0.0.1	glade.moonfenster.ru
+127.0.0.1	rauch.thistleforge.ru
+127.0.0.1	klee.thistleforge.ru
 127.0.0.1	bach3.thistleforge.ru
 127.0.0.1	wolke.thistleforge.ru
 127.0.0.1	w0ald.se1fish5tupid.ru
@@ -40299,30 +40349,4 @@
 127.0.0.1	agents-frequencies.gl.at.ply.gg
 127.0.0.1	baby-mentor.gl.at.ply.gg
 127.0.0.1	zzzttv.ydns.eu
-127.0.0.1	mjoatboating.ydns.eu
-127.0.0.1	web.mryhelp.top
-127.0.0.1	nprcare.help
-127.0.0.1	okta.rnidwayrentafence.com
-127.0.0.1	account.rnidwayrentafence.com
-127.0.0.1	pcircle.duckdns.org
-127.0.0.1	pcubed.duckdns.org
-127.0.0.1	snapcans.top
-127.0.0.1	citellcagt.top
-127.0.0.1	escczlv.top
-127.0.0.1	caitraohvi.bet
-127.0.0.1	galijd.shop
-127.0.0.1	maxmtsq.bet
-127.0.0.1	laodocument.com
-127.0.0.1	tangem.ing
-127.0.0.1	cdn.belladonnarestaurant.co.uk
-127.0.0.1	shock-relations-enhancement-picks.trycloudflare.com
-127.0.0.1	anesthwtcm.run
-127.0.0.1	jugulagklc.live
-127.0.0.1	ofttimkong.run
-127.0.0.1	retechlabp.run
-127.0.0.1	strengbllk.live
-127.0.0.1	worldpofadventure.today
-127.0.0.1	hours-affected-personals-grey.trycloudflare.com
-127.0.0.1	sublime-tragedy-counties-sculpture.trycloudflare.com
-127.0.0.1	apponflyd.duckdns.org
-# Number of entries: 40319
+# Number of entries: 40343
