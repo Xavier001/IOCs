@@ -1,11 +1,87 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-21 12:27:46 UTC                        #
+# Last updated: 2025-11-21 22:07:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wolfe.deepstream.ru
+127.0.0.1	korn.wiidharbor.ru
+127.0.0.1	brise4.wiidharbor.ru
+127.0.0.1	moos.wiidharbor.ru
+127.0.0.1	ufer.wiidharbor.ru
+127.0.0.1	fjord.wiidharbor.ru
+127.0.0.1	kamm1.iunarblend.ru
+127.0.0.1	glade.iunarblend.ru
+127.0.0.1	taiga.iunarblend.ru
+127.0.0.1	rune.brightf0rge.ru
+127.0.0.1	eiche.brightf0rge.ru
+127.0.0.1	pfad2.brightf0rge.ru
+127.0.0.1	wolke.brightf0rge.ru
+127.0.0.1	vh.emberiake.ru
+127.0.0.1	vsieh.emberiake.ru
+127.0.0.1	sage.emberiake.ru
+127.0.0.1	lane7.emberiake.ru
+127.0.0.1	ngytp.iunarpeak.ru
+127.0.0.1	flare.iunarpeak.ru
+127.0.0.1	lwch.iunarpeak.ru
+127.0.0.1	fkk4m.iunarpeak.ru
+127.0.0.1	383cc.mistfaii.ru
+127.0.0.1	cr.mistfaii.ru
+127.0.0.1	cloud2.mistfaii.ru
+127.0.0.1	s2awscloudupdates.com
+127.0.0.1	2h6.mistfaii.ru
+127.0.0.1	tickets-somewhat.gl.at.ply.gg
+127.0.0.1	nas064gjgfebvbutebbtakethisasitisbhfdnmn.duckdns.org
+127.0.0.1	said-letter.gl.at.ply.gg
+127.0.0.1	qsa1.stormbioom.ru
+127.0.0.1	lake.stormbioom.ru
+127.0.0.1	6tpmi.stormbioom.ru
+127.0.0.1	bloom.stormbioom.ru
+127.0.0.1	bpk.brightsage.ru
+127.0.0.1	5obr8.brightsage.ru
+127.0.0.1	q6.brightsage.ru
+127.0.0.1	v9.brightsage.ru
+127.0.0.1	hello.tgllsy.bar
+127.0.0.1	frost8.silverr0ot.ru
+127.0.0.1	storm.silverr0ot.ru
+127.0.0.1	mint3.silverr0ot.ru
+127.0.0.1	nova4.silverr0ot.ru
+127.0.0.1	lbs.windfiare.ru
+127.0.0.1	cloud.windfiare.ru
+127.0.0.1	cloud4.windfiare.ru
+127.0.0.1	nest5.windfiare.ru
+127.0.0.1	mint.st0nefield.ru
+127.0.0.1	cloud8.st0nefield.ru
+127.0.0.1	lpx.st0nefield.ru
+127.0.0.1	u3i3y.st0nefield.ru
+127.0.0.1	silver.cioudnest.ru
+127.0.0.1	feedback.rightontheroad.com
+127.0.0.1	nsi.cioudnest.ru
+127.0.0.1	vale.cioudnest.ru
+127.0.0.1	sage8.cioudnest.ru
+127.0.0.1	uy3hc.mintforge.ru
+127.0.0.1	5i.mintforge.ru
+127.0.0.1	35y.mintforge.ru
+127.0.0.1	pulse.mintforge.ru
+127.0.0.1	vale3.fro5tlane.ru
+127.0.0.1	silver9.fro5tlane.ru
+127.0.0.1	xcx.fro5tlane.ru
+127.0.0.1	bv.fro5tlane.ru
+127.0.0.1	hop.wallyapp.xyz
+127.0.0.1	hop.noisolation.org.uk
+127.0.0.1	7l.brightridge.ru
+127.0.0.1	96btv.brightridge.ru
+127.0.0.1	rapid.brightridge.ru
+127.0.0.1	3y.brightridge.ru
+127.0.0.1	lr.stonecl0ud.ru
+127.0.0.1	medinflow.com
+127.0.0.1	qm.stonecl0ud.ru
+127.0.0.1	wild0.stonecl0ud.ru
+127.0.0.1	1e8.stonecl0ud.ru
+127.0.0.1	d17.w1ldforge.ru
+127.0.0.1	pulse1.w1ldforge.ru
 127.0.0.1	vale4.w1ldforge.ru
 127.0.0.1	ee2x.w1ldforge.ru
 127.0.0.1	0i4.suncrest0n.ru
@@ -36409,9 +36485,4 @@
 127.0.0.1	mhzlh11223344-34671.portmap.io
 127.0.0.1	apimicrososerver.fh328fehu.xyz
 127.0.0.1	webmail.detfec.com
-127.0.0.1	nk.zujer.ru
-127.0.0.1	jakestrack.com
-127.0.0.1	www.alifsemi.com
-127.0.0.1	ogotwin.ddns.net
-127.0.0.1	5pas9tdmjcs4y.cfc-execute.bj.baidubce.com
-# Number of entries: 36408
+# Number of entries: 36479
