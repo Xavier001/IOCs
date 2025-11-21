@@ -1,11 +1,65 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-20 22:07:58 UTC                        #
+# Last updated: 2025-11-21 04:06:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tal.dinfectt-0-rs-0.ru
+127.0.0.1	licht.dinfectt-0-rs-0.ru
+127.0.0.1	klee.kab-1-spr-0-tect.ru
+127.0.0.1	rune4.kab-1-spr-0-tect.ru
+127.0.0.1	stern.kab-1-spr-0-tect.ru
+127.0.0.1	wolfe.kab-1-spr-0-tect.ru
+127.0.0.1	bach.dis-5-h-7-gien.ru
+127.0.0.1	wind2.dis-5-h-7-gien.ru
+127.0.0.1	falke.dis-5-h-7-gien.ru
+127.0.0.1	eiche.dis-5-h-7-gien.ru
+127.0.0.1	geist.dis-5-h-7-gien.ru
+127.0.0.1	pfad.inha4itmu1ti.ru
+127.0.0.1	ufer1.inha4itmu1ti.ru
+127.0.0.1	moor.inha4itmu1ti.ru
+127.0.0.1	korn.kab1spr0tect.ru
+127.0.0.1	tau3.kab1spr0tect.ru
+127.0.0.1	glade.kab1spr0tect.ru
+127.0.0.1	wolke.kab1spr0tect.ru
+127.0.0.1	wolke2.stormpeak.ru
+127.0.0.1	grat.stormpeak.ru
+127.0.0.1	tal.stormpeak.ru
+127.0.0.1	bach.stormpeak.ru
+127.0.0.1	weiss.m1ntcioud.ru
+127.0.0.1	glanz7.m1ntcioud.ru
+127.0.0.1	kamm.m1ntcioud.ru
+127.0.0.1	dune.m1ntcioud.ru
+127.0.0.1	eiche.m1ntcioud.ru
+127.0.0.1	wind4.ciearbug.ru
+127.0.0.1	moor.ciearbug.ru
+127.0.0.1	pfad.ciearbug.ru
+127.0.0.1	stern.l1ghtcloud.ru
+127.0.0.1	gleis3.l1ghtcloud.ru
+127.0.0.1	vjlong5555.duckdns.org
+127.0.0.1	vj9999.duckdns.org
+127.0.0.1	pureforupdatebunies.dynuddns.net
+127.0.0.1	warewuasar3.duckdns.org
+127.0.0.1	portevergrenncallaosilcent.dynuddns.com
+127.0.0.1	wolke.l1ghtcloud.ru
+127.0.0.1	giasdfklopert.com
+127.0.0.1	dotarhiamkloie.com
+127.0.0.1	lasopisojioliondas.com
+127.0.0.1	kamisisterbrofanydodf.com
+127.0.0.1	hotfilipopersastriolkas.com
+127.0.0.1	ufer.l1ghtcloud.ru
+127.0.0.1	mikusadiokloka.com
+127.0.0.1	fikolasdklnbhgss.com
+127.0.0.1	eradiolpsssrepshvebsqw.com
+127.0.0.1	aviksateroliuwertu.com
+127.0.0.1	gladirustoklioasfar.com
+127.0.0.1	dadanetuilkolaifhrts.com
+127.0.0.1	compomhariolkifdsts.com
+127.0.0.1	astovengroikoliuyastat.com
+127.0.0.1	korn1.shadowmint.ru
+127.0.0.1	glade.shadowmint.ru
 127.0.0.1	nacht.shadowmint.ru
 127.0.0.1	nebel.wildr0se.ru
 127.0.0.1	strand.wildr0se.ru
@@ -40002,6 +40056,4 @@
 127.0.0.1	shoresolfe.live
 127.0.0.1	trotwhvn.live
 127.0.0.1	darwin151-20572.portmap.io
-127.0.0.1	acc.hu.webreqadmin.plasma.synlab.com
-127.0.0.1	acc.hu.results.plasma.synlab.com
-# Number of entries: 39998
+# Number of entries: 40050
