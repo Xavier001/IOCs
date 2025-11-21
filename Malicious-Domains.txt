@@ -1,11 +1,30 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-21 10:07:56 UTC                        #
+# Last updated: 2025-11-21 12:27:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	vale4.w1ldforge.ru
+127.0.0.1	ee2x.w1ldforge.ru
+127.0.0.1	0i4.suncrest0n.ru
+127.0.0.1	cucuketeee.dynuddns.com
+127.0.0.1	goloe2.duckdns.org
+127.0.0.1	6menpanelgrace99.duckdns.org
+127.0.0.1	shadow.suncrest0n.ru
+127.0.0.1	6xnq.suncrest0n.ru
+127.0.0.1	flare.suncrest0n.ru
+127.0.0.1	spark5.b1uespark.ru
+127.0.0.1	tw80g.b1uespark.ru
+127.0.0.1	sun.b1uespark.ru
+127.0.0.1	731.b1uespark.ru
+127.0.0.1	sky.m1ntflare.ru
+127.0.0.1	blue.m1ntflare.ru
+127.0.0.1	61.m1ntflare.ru
+127.0.0.1	nova.m1ntflare.ru
+127.0.0.1	drift8.skybl1ss.ru
+127.0.0.1	wild6.skybl1ss.ru
 127.0.0.1	crest3.skybl1ss.ru
 127.0.0.1	stone.skybl1ss.ru
 127.0.0.1	kj.rapidst0ne.ru
@@ -36395,70 +36414,4 @@
 127.0.0.1	www.alifsemi.com
 127.0.0.1	ogotwin.ddns.net
 127.0.0.1	5pas9tdmjcs4y.cfc-execute.bj.baidubce.com
-127.0.0.1	mstore.framfarmers.co.uk
-127.0.0.1	oxygenisempty.com
-127.0.0.1	building-and-forum.com
-127.0.0.1	voidtheboxs.com
-127.0.0.1	home-and-forum.com
-127.0.0.1	formxinvestors.com
-127.0.0.1	icluderegisteredhome.com
-127.0.0.1	termorina.com
-127.0.0.1	icludehomeregistered.com
-127.0.0.1	brightbytesite.com
-127.0.0.1	everygooodnews.com
-127.0.0.1	mxoilinvest.com
-127.0.0.1	payment-verify.com
-127.0.0.1	morebitro.com
-127.0.0.1	rominvestitor.com
-127.0.0.1	lamejoropcionn.com
-127.0.0.1	registeredhomeiclude.com
-127.0.0.1	somparlaned.com
-127.0.0.1	voidinsoul.com
-127.0.0.1	rominvesi.com
-127.0.0.1	romanbankro.com
-127.0.0.1	portalinorapair.com
-127.0.0.1	destoripsforicos.com
-127.0.0.1	gestordeconfort.com
-127.0.0.1	forum-and-building.com
-127.0.0.1	destormestor.com
-127.0.0.1	homestarbuild.com
-127.0.0.1	domain-from-home.com
-127.0.0.1	healthboostspot.com
-127.0.0.1	greenpulsebase.com
-127.0.0.1	isthecapital.com
-127.0.0.1	greenpulseland.com
-127.0.0.1	proprtrmsvstr.world
-127.0.0.1	mxbankpro.com
-127.0.0.1	homebuildstars.com
-127.0.0.1	buildfromstar.com
-127.0.0.1	forum-from-hero.com
-127.0.0.1	formxinvestor.com
-127.0.0.1	mxbankerspro.com
-127.0.0.1	rombankro.com
-127.0.0.1	brightbitebox.com
-127.0.0.1	destroiporland.com
-127.0.0.1	verlfication-process.com
-127.0.0.1	homeregisterediclude.com
-127.0.0.1	registeredicludehome.com
-127.0.0.1	verif-proccess.com
-127.0.0.1	verilication-proccess.com
-127.0.0.1	verification-proccess.com
-127.0.0.1	incxwf.shop
-127.0.0.1	dusrb.digital
-127.0.0.1	twinwx.digital
-127.0.0.1	ectacz.digital
-127.0.0.1	bushzy.digital
-127.0.0.1	sharpy.digital
-127.0.0.1	rechq.digital
-127.0.0.1	caniir.digital
-127.0.0.1	gejezu.digital
-127.0.0.1	untikr.digital
-127.0.0.1	hasta.digital
-127.0.0.1	firzql.digital
-127.0.0.1	indict.digital
-127.0.0.1	miskfg.digital
-127.0.0.1	cirxr.digital
-127.0.0.1	scricn.digital
-127.0.0.1	ordntx.top
-127.0.0.1	strejqt.bet
-# Number of entries: 36455
+# Number of entries: 36408
