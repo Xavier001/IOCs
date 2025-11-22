@@ -1,11 +1,27 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-22 10:17:08 UTC                        #
+# Last updated: 2025-11-22 12:27:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	track4.stoner0ck.ru
+127.0.0.1	motor0.qu1ck.ru
+127.0.0.1	ui.qu1ck.ru
+127.0.0.1	elvis123456.ddns.net
+127.0.0.1	ergwgfbrej.duckdns.org
+127.0.0.1	send-earlier.gl.at.ply.gg
+127.0.0.1	ffng5.qu1ck.ru
+127.0.0.1	xey4.qu1ck.ru
+127.0.0.1	y8mb.mintspr1ng.ru
+127.0.0.1	zone0.mintspr1ng.ru
+127.0.0.1	shine.mintspr1ng.ru
+127.0.0.1	dk.mintspr1ng.ru
+127.0.0.1	jujg2.br1ghtmist.ru
+127.0.0.1	trail.br1ghtmist.ru
+127.0.0.1	qi.br1ghtmist.ru
+127.0.0.1	drop.br1ghtmist.ru
 127.0.0.1	ajbkf.c1earwave.ru
 127.0.0.1	fox.c1earwave.ru
 127.0.0.1	lennox23111-31851.portmap.host
@@ -36584,4 +36600,4 @@
 127.0.0.1	yuriy-andropov.com
 127.0.0.1	yhs-gthjhxltud.cn-zhangjiakou.fcapp.run
 127.0.0.1	k5vmqdk8qk0c.cfc-execute.su.baidubce.com
-# Number of entries: 36578
+# Number of entries: 36594
