@@ -1,11 +1,49 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-21 22:07:01 UTC                        #
+# Last updated: 2025-11-22 03:58:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	klee5.co0peratre4er.ru
+127.0.0.1	rauch.co0peratre4er.ru
+127.0.0.1	glanz.co0peratre4er.ru
+127.0.0.1	fjord.co0peratre4er.ru
+127.0.0.1	dune.ele6tricmul1ed.ru
+127.0.0.1	weiss.ele6tricmul1ed.ru
+127.0.0.1	tau.ele6tricmul1ed.ru
+127.0.0.1	licht2.ele6tricmul1ed.ru
+127.0.0.1	pfad.ele6tricmul1ed.ru
+127.0.0.1	tal.hum-2-nk-0-str.ru
+127.0.0.1	ufer1.hum-2-nk-0-str.ru
+127.0.0.1	stern.hum-2-nk-0-str.ru
+127.0.0.1	kamm.awreti3uette.ru
+127.0.0.1	moor.awreti3uette.ru
+127.0.0.1	wolke3.awreti3uette.ru
+127.0.0.1	glade.awreti3uette.ru
+127.0.0.1	gleis.ciearforge.ru
+127.0.0.1	moor1.ciearforge.ru
+127.0.0.1	wolke.ciearforge.ru
+127.0.0.1	mond.stormfiare.ru
+127.0.0.1	grau5.stormfiare.ru
+127.0.0.1	tau.stormfiare.ru
+127.0.0.1	adler.stormfiare.ru
+127.0.0.1	wald3.mintstone.ru
+127.0.0.1	klee.mintstone.ru
+127.0.0.1	rauch.mintstone.ru
+127.0.0.1	shady.m1styvaive.ru
+127.0.0.1	rill.m1styvaive.ru
+127.0.0.1	glow2.m1styvaive.ru
+127.0.0.1	weald.m1styvaive.ru
+127.0.0.1	birch.m1styvaive.ru
+127.0.0.1	pfote.starcresting.ru
+127.0.0.1	jsbot.dzbot.top
+127.0.0.1	falke1.starcresting.ru
+127.0.0.1	nebel.starcresting.ru
+127.0.0.1	gleam.starcresting.ru
+127.0.0.1	tal2.deepstream.ru
+127.0.0.1	bach.deepstream.ru
 127.0.0.1	wolfe.deepstream.ru
 127.0.0.1	korn.wiidharbor.ru
 127.0.0.1	brise4.wiidharbor.ru
@@ -36483,6 +36521,4 @@
 127.0.0.1	localixbiw.top
 127.0.0.1	cp.envisionfonddulac.biz
 127.0.0.1	mhzlh11223344-34671.portmap.io
-127.0.0.1	apimicrososerver.fh328fehu.xyz
-127.0.0.1	webmail.detfec.com
-# Number of entries: 36479
+# Number of entries: 36515
