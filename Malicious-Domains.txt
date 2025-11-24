@@ -1,11 +1,79 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-24 04:17:19 UTC                        #
+# Last updated: 2025-11-24 10:17:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wind3.dustycode.ru
+127.0.0.1	pfote.dustycode.ru
+127.0.0.1	sturm.dustycode.ru
+127.0.0.1	glanz.cl0udnest.ru
+127.0.0.1	ufer2.cl0udnest.ru
+127.0.0.1	grat.cl0udnest.ru
+127.0.0.1	wolke1.bright0wl.ru
+127.0.0.1	licht.bright0wl.ru
+127.0.0.1	falke.bright0wl.ru
+127.0.0.1	dune4.bright0wl.ru
+127.0.0.1	weald.bright0wl.ru
+127.0.0.1	bach2.med1aflow.ru
+127.0.0.1	stern.med1aflow.ru
+127.0.0.1	totalsecllc.com
+127.0.0.1	oehme-partner.de
+127.0.0.1	ehcsils-id.ch
+127.0.0.1	houstoncomputerrepairgeeks.com
+127.0.0.1	evy2023website.nohasslebusiness.com
+127.0.0.1	estate-recipe.com
+127.0.0.1	asobi-plus.jp
+127.0.0.1	msgtrcrane.com
+127.0.0.1	subasanat.ir
+127.0.0.1	renwebdesign.xsrv.jp
+127.0.0.1	cittadellese.sitonuovo.eu
+127.0.0.1	haachan.net
+127.0.0.1	rachelsvineyardkc.org
+127.0.0.1	sagarpatil.bhsupportgt8.com
+127.0.0.1	lreindia.com
+127.0.0.1	castra.site
+127.0.0.1	bl555.gratis
+127.0.0.1	camersoftware.com
+127.0.0.1	estacaopequenaalemanha.com.br
+127.0.0.1	omaxtrans.com
+127.0.0.1	teambuildingtunisie.com
+127.0.0.1	r-lien.com
+127.0.0.1	sri-lanka-traumurlaub.com
+127.0.0.1	panplanning.com
+127.0.0.1	craftmasters.co.uk
+127.0.0.1	solidarityinsaya.com
+127.0.0.1	m8ke.agency
+127.0.0.1	hafen.med1aflow.ru
+127.0.0.1	tal.nightf0x.ru
+127.0.0.1	mujjs.com
+127.0.0.1	prsuerinkicon.today
+127.0.0.1	kraut.nightf0x.ru
+127.0.0.1	rill1.nightf0x.ru
+127.0.0.1	zorn.nightf0x.ru
+127.0.0.1	gleis.clearbyte.ru
+127.0.0.1	moos.clearbyte.ru
+127.0.0.1	wolfe2.clearbyte.ru
+127.0.0.1	zurumaks.hopto.org
+127.0.0.1	pfad.clearbyte.ru
+127.0.0.1	adler.clearbyte.ru
+127.0.0.1	weald.storml1ne.ru
+127.0.0.1	dune3.storml1ne.ru
+127.0.0.1	f77.f3322.net
+127.0.0.1	tau.storml1ne.ru
+127.0.0.1	glade.br1ghtstone.ru
+127.0.0.1	birch.br1ghtstone.ru
+127.0.0.1	kamm2.br1ghtstone.ru
+127.0.0.1	wolke.br1ghtstone.ru
+127.0.0.1	glanz.l1necloud.ru
+127.0.0.1	tal1.l1necloud.ru
+127.0.0.1	bach.l1necloud.ru
+127.0.0.1	wolke.l1necloud.ru
+127.0.0.1	dune2.shad0wline.ru
+127.0.0.1	wind.shad0wline.ru
+127.0.0.1	birch.shad0wline.ru
 127.0.0.1	weiss.mintdrive.ru
 127.0.0.1	tau.mintdrive.ru
 127.0.0.1	eiche4.mintdrive.ru
@@ -37214,11 +37282,4 @@
 127.0.0.1	quillexperience.icu
 127.0.0.1	railwaystomach.xyz
 127.0.0.1	wishson.icu
-127.0.0.1	injector.ddns.net
-127.0.0.1	have-printing.gl.at.ply.gg
-127.0.0.1	hackerhacker312312-57133.portmap.io
-127.0.0.1	server25.mentality.cloud
-127.0.0.1	iwishiamhappy.zapto.org
-127.0.0.1	feedback-pearl.gl.at.ply.gg
-127.0.0.1	async.uhdengine.com
-# Number of entries: 37215
+# Number of entries: 37276
