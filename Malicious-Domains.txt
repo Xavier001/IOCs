@@ -1,11 +1,96 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-24 12:27:22 UTC                        #
+# Last updated: 2025-11-24 22:07:15 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	m2m8.silverrun.ru
+127.0.0.1	hqk4.silverrun.ru
+127.0.0.1	2dzr0.silverrun.ru
+127.0.0.1	wind9.silverrun.ru
+127.0.0.1	jdiw5.mintflash.ru
+127.0.0.1	lhf6.mintflash.ru
+127.0.0.1	b7.mintflash.ru
+127.0.0.1	pulse5.mintflash.ru
+127.0.0.1	upux.firetrail.ru
+127.0.0.1	sun.firetrail.ru
+127.0.0.1	run1.firetrail.ru
+127.0.0.1	dsc.firetrail.ru
+127.0.0.1	yr4y5.shadowsun.ru
+127.0.0.1	spark3.shadowsun.ru
+127.0.0.1	cliff4.shadowsun.ru
+127.0.0.1	run.shadowsun.ru
+127.0.0.1	yg3jg.cliffwave.ru
+127.0.0.1	rx6cd.cliffwave.ru
+127.0.0.1	v98.cliffwave.ru
+127.0.0.1	trail.cliffwave.ru
+127.0.0.1	moor.c0dehawk.ru
+127.0.0.1	ufer4.c0dehawk.ru
+127.0.0.1	stern.c0dehawk.ru
+127.0.0.1	glade.c0dehawk.ru
+127.0.0.1	zorn.crystalf0x.ru
+127.0.0.1	exportsales.gkngroupsbk.ydns.eu
+127.0.0.1	exportsales.gkngroups.ydns.eu
+127.0.0.1	iniiivanbk.ydns.eu
+127.0.0.1	iniiivan.ydns.eu
+127.0.0.1	policybk.ydns.eu
+127.0.0.1	policy.ydns.eu
+127.0.0.1	nexlunix.com
+127.0.0.1	goodmoneyi.net
+127.0.0.1	licht.crystalf0x.ru
+127.0.0.1	wind3.crystalf0x.ru
+127.0.0.1	klee.crystalf0x.ru
+127.0.0.1	pfote.crystalf0x.ru
+127.0.0.1	wolke2.oceantrail.ru
+127.0.0.1	tau.oceantrail.ru
+127.0.0.1	fjord.oceantrail.ru
+127.0.0.1	hitonowa-salon.com
+127.0.0.1	nathanhowe.nathanhowemusic.com
+127.0.0.1	yaoisexgames.com
+127.0.0.1	dorn2.stargl0w.ru
+127.0.0.1	printlife.vn
+127.0.0.1	missdulcet.com
+127.0.0.1	utazznapolyba.hu
+127.0.0.1	miserugrayhair.com
+127.0.0.1	weiss.stargl0w.ru
+127.0.0.1	tsfs.com.my
+127.0.0.1	vair.xcreative.cz
+127.0.0.1	cockpit.hartsimagineering.com
+127.0.0.1	glow.stargl0w.ru
+127.0.0.1	adler.stargl0w.ru
+127.0.0.1	kamm3.m1stwood.ru
+127.0.0.1	hafen.m1stwood.ru
+127.0.0.1	wald.m1stwood.ru
+127.0.0.1	d.hansang.top
+127.0.0.1	hain.shadowc0re.ru
+127.0.0.1	falke1.shadowc0re.ru
+127.0.0.1	licht.shadowc0re.ru
+127.0.0.1	grat.shadowc0re.ru
+127.0.0.1	wolke.shadowc0re.ru
+127.0.0.1	korn.safebl0ck.ru
+127.0.0.1	tal2.safebl0ck.ru
+127.0.0.1	nest.safebl0ck.ru
+127.0.0.1	viedorta.com
+127.0.0.1	modernrecent.com
+127.0.0.1	glanz.safebl0ck.ru
+127.0.0.1	pfad.darkfeather.ru
+127.0.0.1	moor.darkfeather.ru
+127.0.0.1	birch.darkfeather.ru
+127.0.0.1	gleam.r1vermint.ru
+127.0.0.1	rauch.r1vermint.ru
+127.0.0.1	stern.r1vermint.ru
+127.0.0.1	fer.wallyapp.xyz
+127.0.0.1	fer.pigeonforgetnrestaurant.com
+127.0.0.1	ufer1.r1vermint.ru
+127.0.0.1	klee.r1vermint.ru
+127.0.0.1	dune.silentwave.ru
+127.0.0.1	weald.silentwave.ru
+127.0.0.1	rune.silentwave.ru
+127.0.0.1	tau.bluecr4ft.ru
+127.0.0.1	glade2.bluecr4ft.ru
+127.0.0.1	fjord.bluecr4ft.ru
 127.0.0.1	wolke.bluecr4ft.ru
 127.0.0.1	brook.gl0wmist.ru
 127.0.0.1	rime.gl0wmist.ru
@@ -37239,9 +37324,4 @@
 127.0.0.1	electronicpgioneers.live
 127.0.0.1	ec2-18-228-31-163.sa-east-1.compute.amazonaws.com
 127.0.0.1	rustore.sasha-solzhenicyn.ru
-127.0.0.1	mail0.hswl.shop
-127.0.0.1	sunground.info
-127.0.0.1	mintborder.icu
-127.0.0.1	eggisland.info
-127.0.0.1	web.ucucuga.tech
-# Number of entries: 37238
+# Number of entries: 37318
