@@ -1,11 +1,46 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-23 21:57:04 UTC                        #
+# Last updated: 2025-11-24 04:17:19 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	weiss.mintdrive.ru
+127.0.0.1	tau.mintdrive.ru
+127.0.0.1	eiche4.mintdrive.ru
+127.0.0.1	hafen.mintdrive.ru
+127.0.0.1	gleam.mintdrive.ru
+127.0.0.1	pfad2.rapidmint.ru
+127.0.0.1	wolke.rapidmint.ru
+127.0.0.1	korn.rapidmint.ru
+127.0.0.1	rill.nightspark.ru
+127.0.0.1	ufer1.nightspark.ru
+127.0.0.1	licht.nightspark.ru
+127.0.0.1	weald.nightspark.ru
+127.0.0.1	moor3.w1ndstorm.ru
+127.0.0.1	kamm.w1ndstorm.ru
+127.0.0.1	grat.w1ndstorm.ru
+127.0.0.1	tal.darkspark.ru
+127.0.0.1	wolke.darkspark.ru
+127.0.0.1	bach2.darkspark.ru
+127.0.0.1	rauch.darkspark.ru
+127.0.0.1	gleis3.oceanbyte.ru
+127.0.0.1	stern.oceanbyte.ru
+127.0.0.1	ufer.oceanbyte.ru
+127.0.0.1	wald.snowl1ne.ru
+127.0.0.1	dorn4.snowl1ne.ru
+127.0.0.1	tau.snowl1ne.ru
+127.0.0.1	fluss.snowl1ne.ru
+127.0.0.1	weiss.snowl1ne.ru
+127.0.0.1	falke2.g0ldmint.ru
+127.0.0.1	moor.g0ldmint.ru
+127.0.0.1	klee.g0ldmint.ru
+127.0.0.1	choice99.ydns.eu
+127.0.0.1	bach.brightstep.ru
+127.0.0.1	ufer3.brightstep.ru
+127.0.0.1	glade.brightstep.ru
+127.0.0.1	wolke.brightstep.ru
 127.0.0.1	echo.cloudw1re.ru
 127.0.0.1	48mm.cloudw1re.ru
 127.0.0.1	m8o.cloudw1re.ru
@@ -37186,6 +37221,4 @@
 127.0.0.1	iwishiamhappy.zapto.org
 127.0.0.1	feedback-pearl.gl.at.ply.gg
 127.0.0.1	async.uhdengine.com
-127.0.0.1	www.sasha-solzhenicyn.ru
-127.0.0.1	fedor-turin.ru
-# Number of entries: 37182
+# Number of entries: 37215
