@@ -1,11 +1,34 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-25 10:14:34 UTC                        #
+# Last updated: 2025-11-25 12:25:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wolke.clearpeak.ru
+127.0.0.1	hain2.w1ldgate.ru
+127.0.0.1	tal.w1ldgate.ru
+127.0.0.1	adler.w1ldgate.ru
+127.0.0.1	gleis.midn1ghtdrop.ru
+127.0.0.1	weiss.midn1ghtdrop.ru
+127.0.0.1	korn3.midn1ghtdrop.ru
+127.0.0.1	falke.midn1ghtdrop.ru
+127.0.0.1	nacht.midn1ghtdrop.ru
+127.0.0.1	rill.fl0wbyte.ru
+127.0.0.1	ufer2.fl0wbyte.ru
+127.0.0.1	glanz.fl0wbyte.ru
+127.0.0.1	1pc1wdstwjv4p.cfc-execute.gz.baidubce.com
+127.0.0.1	shore.sunm0tion.ru
+127.0.0.1	wasimoc.cyou
+127.0.0.1	crpavdsg.cyou
+127.0.0.1	lacuobl.cyou
+127.0.0.1	senszlz.cfd
+127.0.0.1	realad.bond
+127.0.0.1	crest.sunm0tion.ru
+127.0.0.1	glow1.sunm0tion.ru
+127.0.0.1	trp.wallyapp.xyz
+127.0.0.1	trp.shortletsinaberdeen.co.uk
 127.0.0.1	reef.sunm0tion.ru
 127.0.0.1	klee.stormseed.ru
 127.0.0.1	moor.stormseed.ru
@@ -37318,4 +37341,4 @@
 127.0.0.1	wce.serveirc.com
 127.0.0.1	wce.zapto.org
 127.0.0.1	wwe.homesecuritypc.com
-# Number of entries: 37312
+# Number of entries: 37335
