@@ -1,11 +1,50 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-24 22:07:15 UTC                        #
+# Last updated: 2025-11-25 04:07:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	birch.mount0ak.ru
+127.0.0.1	klee3.deep5tone.ru
+127.0.0.1	ufer.deep5tone.ru
+127.0.0.1	moor.deep5tone.ru
+127.0.0.1	em.cl0udmark.ru
+127.0.0.1	4sv.cl0udmark.ru
+127.0.0.1	soft.cl0udmark.ru
+127.0.0.1	cloud.cl0udmark.ru
+127.0.0.1	1318289497-b40xhuifyy.ap-beijing.tencentscf.com
+127.0.0.1	4d.stormblink.ru
+127.0.0.1	2wa.stormblink.ru
+127.0.0.1	e31.stormblink.ru
+127.0.0.1	peak.stormblink.ru
+127.0.0.1	r91.b1tzdrop.ru
+127.0.0.1	5rn.b1tzdrop.ru
+127.0.0.1	silver0.b1tzdrop.ru
+127.0.0.1	li90.b1tzdrop.ru
+127.0.0.1	shadow6.st0nepeak.ru
+127.0.0.1	scg7.st0nepeak.ru
+127.0.0.1	blink.st0nepeak.ru
+127.0.0.1	crest.st0nepeak.ru
+127.0.0.1	e2h.s0ftmint.ru
+127.0.0.1	crest.sunb1aze.ru
+127.0.0.1	reef.sunb1aze.ru
+127.0.0.1	glade2.sunb1aze.ru
+127.0.0.1	wolke.sunb1aze.ru
+127.0.0.1	www.cybermac.co.tz
+127.0.0.1	ol.wildcr3st.ru
+127.0.0.1	trail.wildcr3st.ru
+127.0.0.1	fern2.wildcr3st.ru
+127.0.0.1	ridge.wildcr3st.ru
+127.0.0.1	wolke.wildcr3st.ru
+127.0.0.1	vale.s0ftmint.ru
+127.0.0.1	2dhk1.s0ftmint.ru
+127.0.0.1	8a.s0ftmint.ru
+127.0.0.1	om17w.rockwind.ru
+127.0.0.1	o7oz.rockwind.ru
+127.0.0.1	soft2.rockwind.ru
+127.0.0.1	peak0.rockwind.ru
 127.0.0.1	m2m8.silverrun.ru
 127.0.0.1	hqk4.silverrun.ru
 127.0.0.1	2dzr0.silverrun.ru
@@ -37322,6 +37361,4 @@
 127.0.0.1	true-smithsonian.gl.at.ply.gg
 127.0.0.1	jucnglecrea.bet
 127.0.0.1	electronicpgioneers.live
-127.0.0.1	ec2-18-228-31-163.sa-east-1.compute.amazonaws.com
-127.0.0.1	rustore.sasha-solzhenicyn.ru
-# Number of entries: 37318
+# Number of entries: 37355
