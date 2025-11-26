@@ -1,11 +1,55 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-26 10:16:02 UTC                        #
+# Last updated: 2025-11-26 12:34:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	crest.lakesp1rit.ru
+127.0.0.1	rtku.lat
+127.0.0.1	title-car.info
+127.0.0.1	linkmore.info
+127.0.0.1	btexee3dc53f6dc453f6a9f461a5hfamd.pages.dev
+127.0.0.1	steamcommunity-account.com
+127.0.0.1	53f.clearspark.ru
+127.0.0.1	frost5.clearspark.ru
+127.0.0.1	spark.clearspark.ru
+127.0.0.1	bcqz.clearspark.ru
+127.0.0.1	ocean.oceanshift.ru
+127.0.0.1	mist8.oceanshift.ru
+127.0.0.1	channel-belly.gl.at.ply.gg
+127.0.0.1	express-through.gl.at.ply.gg
+127.0.0.1	frost2.oceanshift.ru
+127.0.0.1	gassssssssssssssssssssssssss.ydns.eu
+127.0.0.1	8q7.oceanshift.ru
+127.0.0.1	life1.l1festone.ru
+127.0.0.1	wild3.l1festone.ru
+127.0.0.1	pulse9.l1festone.ru
+127.0.0.1	nova1.l1festone.ru
+127.0.0.1	account-extranetcheck.com
+127.0.0.1	kjarz.com
+127.0.0.1	9375.skym0tion.ru
+127.0.0.1	account-extranetcheck.info
+127.0.0.1	lospls.com
+127.0.0.1	ta.skym0tion.ru
+127.0.0.1	verification-220-check-441-8890.click
+127.0.0.1	trail.skym0tion.ru
+127.0.0.1	jui.itermed.ar
+127.0.0.1	jui.theoptimizedbody.com
+127.0.0.1	at.skym0tion.ru
+127.0.0.1	m0q8.mintcraft.ru
+127.0.0.1	6ymh.mintcraft.ru
+127.0.0.1	validate-348-captcha-220-8237.click
+127.0.0.1	ap.mintcraft.ru
+127.0.0.1	2p0.mintcraft.ru
+127.0.0.1	spur8.emberhoehle.ru
+127.0.0.1	8rt2.emberhoehle.ru
+127.0.0.1	xjqi.emberhoehle.ru
+127.0.0.1	70ywi.emberhoehle.ru
+127.0.0.1	eqwxe.heatherkranz.ru
+127.0.0.1	wolken9.heatherkranz.ru
+127.0.0.1	forest.heatherkranz.ru
 127.0.0.1	wtg2.heatherkranz.ru
 127.0.0.1	zuqfv.wolkenspur3.ru
 127.0.0.1	h6f.wolkenspur3.ru
@@ -37441,4 +37485,4 @@
 127.0.0.1	donation.benjaminssoldiers.com
 127.0.0.1	home.33893306.xyz
 127.0.0.1	cv9bpfn9kk9vq.cfc-execute.bj.baidubce.com
-# Number of entries: 37435
+# Number of entries: 37479
