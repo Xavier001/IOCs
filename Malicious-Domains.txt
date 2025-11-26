@@ -1,11 +1,101 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-26 04:14:14 UTC                        #
+# Last updated: 2025-11-26 10:16:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wtg2.heatherkranz.ru
+127.0.0.1	zuqfv.wolkenspur3.ru
+127.0.0.1	h6f.wolkenspur3.ru
+127.0.0.1	9vo.wolkenspur3.ru
+127.0.0.1	wi.wolkenspur3.ru
+127.0.0.1	cedar9.quartzweald.ru
+127.0.0.1	spur.quartzweald.ru
+127.0.0.1	z4d.quartzweald.ru
+127.0.0.1	dz.quartzweald.ru
+127.0.0.1	silver2.prariehafen.ru
+127.0.0.1	wolken.prariehafen.ru
+127.0.0.1	ufer9.prariehafen.ru
+127.0.0.1	csju5.prariehafen.ru
+127.0.0.1	glacial1.glacialufer.ru
+127.0.0.1	grotto4.glacialufer.ru
+127.0.0.1	21n.glacialufer.ru
+127.0.0.1	fs.glacialufer.ru
+127.0.0.1	8qs.ravenklause.ru
+127.0.0.1	psm1e.ravenklause.ru
+127.0.0.1	jqk.ravenklause.ru
+127.0.0.1	rzie8.ravenklause.ru
+127.0.0.1	glacial.cedarwinkel5.ru
+127.0.0.1	grotto8.cedarwinkel5.ru
+127.0.0.1	trp.theoptimizedbody.com
+127.0.0.1	her.theoptimizedbody.com
+127.0.0.1	trp.itermed.ar
+127.0.0.1	3w4nn.cedarwinkel5.ru
+127.0.0.1	td.cedarwinkel5.ru
+127.0.0.1	spark2.silverklamm.ru
+127.0.0.1	lft5.silverklamm.ru
+127.0.0.1	heather9.silverklamm.ru
+127.0.0.1	hn.silverklamm.ru
+127.0.0.1	harbor.mossgrotte.ru
+127.0.0.1	quartz.mossgrotte.ru
+127.0.0.1	mist.mossgrotte.ru
+127.0.0.1	ocdfg.mossgrotte.ru
+127.0.0.1	pfad.quartzweide4.ru
+127.0.0.1	klee.quartzweide4.ru
+127.0.0.1	glanz.quartzweide4.ru
+127.0.0.1	ast.7willowkranz.ru
+127.0.0.1	laub.7willowkranz.ru
+127.0.0.1	ring.7willowkranz.ru
+127.0.0.1	weide.7willowkranz.ru
+127.0.0.1	sumpf.heatherquell.ru
+127.0.0.1	farn.heatherquell.ru
+127.0.0.1	bach.heatherquell.ru
+127.0.0.1	nest.ravenbucht.ru
+127.0.0.1	alpeoqa.cyou
+127.0.0.1	binauxa.cyou
+127.0.0.1	convuey.cyou
+127.0.0.1	impzowr.cyou
+127.0.0.1	manpfqa.cyou
+127.0.0.1	smipmue.cyou
+127.0.0.1	twobkgg.cyou
+127.0.0.1	unotinf.cyou
+127.0.0.1	kb-f.space
+127.0.0.1	cashforclutter.online
+127.0.0.1	tffoodindustries.com
+127.0.0.1	deploy.webpaydaz.com
+127.0.0.1	evoshield-db-proxy-52388.orbyt.lat
+127.0.0.1	hafen.ravenbucht.ru
+127.0.0.1	klippe.ravenbucht.ru
+127.0.0.1	adler.ravenbucht.ru
+127.0.0.1	block.granitepfad.ru
+127.0.0.1	steig.granitepfad.ru
+127.0.0.1	ridge.granitepfad.ru
+127.0.0.1	schlucht.granitepfad.ru
+127.0.0.1	hammer.granitepfad.ru
+127.0.0.1	firn.frostwinkel.ru
+127.0.0.1	rime.frostwinkel.ru
+127.0.0.1	eis.frostwinkel.ru
+127.0.0.1	shawwerma.ddns.net
+127.0.0.1	korn.wolkenkueste.ru
+127.0.0.1	dune.wolkenkueste.ru
+127.0.0.1	ufer.wolkenkueste.ru
+127.0.0.1	brandung.wolkenkueste.ru
+127.0.0.1	hang.glimmerufer.ru
+127.0.0.1	weide.glimmerufer.ru
+127.0.0.1	stern.glimmerufer.ru
+127.0.0.1	birch.cedarhollw.ru
+127.0.0.1	rune.cedarhollw.ru
+127.0.0.1	moos.cedarhollw.ru
+127.0.0.1	tal.cedarhollw.ru
+127.0.0.1	fjord.cedarhollw.ru
+127.0.0.1	tau.silberhain9.ru
+127.0.0.1	licht.silberhain9.ru
+127.0.0.1	wolke.silberhain9.ru
+127.0.0.1	nord.amberkliff.ru
+127.0.0.1	cedro.amberkliff.ru
+127.0.0.1	storm.amberkliff.ru
 127.0.0.1	brisa.amberkliff.ru
 127.0.0.1	nival3.snowdr1ft.ru
 127.0.0.1	firn2.snowdr1ft.ru
@@ -37351,21 +37441,4 @@
 127.0.0.1	donation.benjaminssoldiers.com
 127.0.0.1	home.33893306.xyz
 127.0.0.1	cv9bpfn9kk9vq.cfc-execute.bj.baidubce.com
-127.0.0.1	security.closecurflae.com
-127.0.0.1	aldoep.com
-127.0.0.1	pancakebag.xyz
-127.0.0.1	smarttorg.world
-127.0.0.1	beemorning.icu
-127.0.0.1	birthteeth.xyz
-127.0.0.1	lowspacewish.site
-127.0.0.1	megabuy24.xyz
-127.0.0.1	radio-boating.gl.at.ply.gg
-127.0.0.1	besttrailwithgreatstartingpointforhimgvf.duckdns.org
-127.0.0.1	cashmoneyinc2025.casacam.net
-127.0.0.1	naimshekh-39648.portmap.io
-127.0.0.1	wealthismine.duckdns.org
-127.0.0.1	hilly6969-57199.portmap.io
-127.0.0.1	negob80122-48657.portmap.io
-127.0.0.1	betnot.duck
-127.0.0.1	zxczxczxczxc.twist2katz.com
-# Number of entries: 37362
+# Number of entries: 37435
