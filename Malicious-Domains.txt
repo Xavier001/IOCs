@@ -1,11 +1,50 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-25 22:05:44 UTC                        #
+# Last updated: 2025-11-26 04:14:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	brisa.amberkliff.ru
+127.0.0.1	nival3.snowdr1ft.ru
+127.0.0.1	firn2.snowdr1ft.ru
+127.0.0.1	frost9.snowdr1ft.ru
+127.0.0.1	phase7.clearm0on.ru
+127.0.0.1	orbit0.clearm0on.ru
+127.0.0.1	noct4.clearm0on.ru
+127.0.0.1	selene8.clearm0on.ru
+127.0.0.1	luna1.clearm0on.ru
+127.0.0.1	spina3.mintsp1ke.ru
+127.0.0.1	cedro4.mintsp1ke.ru
+127.0.0.1	punta6.mintsp1ke.ru
+127.0.0.1	menta2.mintsp1ke.ru
+127.0.0.1	prair1e.wildb1ss.ru
+127.0.0.1	lupus7.wildb1ss.ru
+127.0.0.1	feral4.wildb1ss.ru
+127.0.0.1	basil9.br1ghtmint.ru
+127.0.0.1	fresh1.br1ghtmint.ru
+127.0.0.1	verde7.br1ghtmint.ru
+127.0.0.1	brisa2.br1ghtmint.ru
+127.0.0.1	herb5.br1ghtmint.ru
+127.0.0.1	raven3.shad0wdrop.ru
+127.0.0.1	umbra6.shad0wdrop.ru
+127.0.0.1	drip1.shad0wdrop.ru
+127.0.0.1	shade8.shad0wdrop.ru
+127.0.0.1	astra7.starf0ld.ru
+127.0.0.1	nova1.starf0ld.ru
+127.0.0.1	orbit5.starf0ld.ru
+127.0.0.1	aur3.l1ghtstorm.ru
+127.0.0.1	nimbus6.l1ghtstorm.ru
+127.0.0.1	spark9.l1ghtstorm.ru
+127.0.0.1	zeph1r.l1ghtstorm.ru
+127.0.0.1	glow2.l1ghtstorm.ru
+127.0.0.1	rune5.st0nebird.ru
+127.0.0.1	cliff7.st0nebird.ru
+127.0.0.1	avian2.st0nebird.ru
+127.0.0.1	rock3.st0nebird.ru
+127.0.0.1	noir4.darksun5et.ru
+127.0.0.1	dusk1.darksun5et.ru
 127.0.0.1	umbra8.darksun5et.ru
 127.0.0.1	astra3.skyf1ame.ru
 127.0.0.1	flare9.skyf1ame.ru
@@ -37329,5 +37368,4 @@
 127.0.0.1	negob80122-48657.portmap.io
 127.0.0.1	betnot.duck
 127.0.0.1	zxczxczxczxc.twist2katz.com
-127.0.0.1	www.cciczy.com
-# Number of entries: 37324
+# Number of entries: 37362
