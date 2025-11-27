@@ -1,11 +1,62 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-26 22:08:13 UTC                        #
+# Last updated: 2025-11-27 04:10:16 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	spruc5.sprucewinkel.ru
+127.0.0.1	fluss8.nebeltal.ru
+127.0.0.1	talon4.nebeltal.ru
+127.0.0.1	grau5e.nebeltal.ru
+127.0.0.1	tau3ig.nebeltal.ru
+127.0.0.1	nebe7l.nebeltal.ru
+127.0.0.1	zerfa2.willowgase.ru
+127.0.0.1	haust5.willowgase.ru
+127.0.0.1	nebl4e.willowgase.ru
+127.0.0.1	gas3en.willowgase.ru
+127.0.0.1	will7o.willowgase.ru
+127.0.0.1	beryl6.silberquarz4.ru
+127.0.0.1	rauch4.silberquarz4.ru
+127.0.0.1	glanz5.silberquarz4.ru
+127.0.0.1	qartz7.silberquarz4.ru
+127.0.0.1	www.beihu-jlbank.com
+127.0.0.1	static-mtpjoriqkv.cn-beijing.fcapp.run
+127.0.0.1	1310445127-bo78zajqf2.ap-shanghai.tencentscf.com
+127.0.0.1	silb3r.silberquarz4.ru
+127.0.0.1	bl3nda.glimmerkranz.ru
+127.0.0.1	scher4.glimmerkranz.ru
+127.0.0.1	funke5.glimmerkranz.ru
+127.0.0.1	kran7z.glimmerkranz.ru
+127.0.0.1	gl1mra.glimmerkranz.ru
+127.0.0.1	bryz4a.maplekueste.ru
+127.0.0.1	ahorn7.maplekueste.ru
+127.0.0.1	kuest5.maplekueste.ru
+127.0.0.1	fjord6.maplekueste.ru
+127.0.0.1	mapl3e.maplekueste.ru
+127.0.0.1	noxil7.ravenstein.ru
+127.0.0.1	steyn4.ravenstein.ru
+127.0.0.1	korvo5.ravenstein.ru
+127.0.0.1	eis3en.ravenstein.ru
+127.0.0.1	rava7n.ravenstein.ru
+127.0.0.1	yoxel2.copperweide8.ru
+127.0.0.1	braun5.copperweide8.ru
+127.0.0.1	mist4y.copperweide8.ru
+127.0.0.1	weid7e.copperweide8.ru
+127.0.0.1	copp3r.copperweide8.ru
+127.0.0.1	raxen3.auroragrat.ru
+127.0.0.1	glim8r.auroragrat.ru
+127.0.0.1	nordiq4.auroragrat.ru
+127.0.0.1	stel5a.auroragrat.ru
+127.0.0.1	aurg7o.auroragrat.ru
+127.0.0.1	qidra5.thistlehavn.ru
+127.0.0.1	havn3x.thistlehavn.ru
+127.0.0.1	tresk9.thistlehavn.ru
+127.0.0.1	lomqa7.thistlehavn.ru
+127.0.0.1	vrix5a.thistlehavn.ru
+127.0.0.1	lofsitewebsdrft.com
+127.0.0.1	sp1rel.lake5p1rit.ru
 127.0.0.1	ublak5.lake5p1rit.ru
 127.0.0.1	wav3ly.lake5p1rit.ru
 127.0.0.1	fjord7a.lake5p1rit.ru
@@ -37596,7 +37647,6 @@
 127.0.0.1	lopeid.com
 127.0.0.1	security.cloofshield.com
 127.0.0.1	maidforyou1985.com
-127.0.0.1	zt45gg.top
 127.0.0.1	year-developers.gl.at.ply.gg
 127.0.0.1	twosisterswine.com.au
-# Number of entries: 37593
+# Number of entries: 37643
