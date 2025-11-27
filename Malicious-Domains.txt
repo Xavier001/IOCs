@@ -1,11 +1,39 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-27 10:15:47 UTC                        #
+# Last updated: 2025-11-27 12:26:55 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	doz3er.lazywind.ru
+127.0.0.1	racy5n.fastspark.ru
+127.0.0.1	bolt9a.fastspark.ru
+127.0.0.1	qu1ckr.fastspark.ru
+127.0.0.1	b1.yydscd3.top
+127.0.0.1	b1.yydscd1.top
+127.0.0.1	sp4rkx.fastspark.ru
+127.0.0.1	flash7.fastspark.ru
+127.0.0.1	mote5r.dustpeak.ru
+127.0.0.1	haz3lo.dustpeak.ru
+127.0.0.1	silt9x.dustpeak.ru
+127.0.0.1	peak7r.dustpeak.ru
+127.0.0.1	du5tly.dustpeak.ru
+127.0.0.1	flak8e.frostdrop.ru
+127.0.0.1	shivr5.frostdrop.ru
+127.0.0.1	icell3.frostdrop.ru
+127.0.0.1	drip7y.frostdrop.ru
+127.0.0.1	fr0stx.frostdrop.ru
+127.0.0.1	dew4ly.mintpeak.ru
+127.0.0.1	clov8r.mintpeak.ru
+127.0.0.1	zefyr7.mintpeak.ru
+127.0.0.1	mnt3ak.mintpeak.ru
+127.0.0.1	herb5x.mintpeak.ru
+127.0.0.1	fr3sha.cl0vermint.ru
+127.0.0.1	shamr4.cl0vermint.ru
+127.0.0.1	bop.itermed.ar
+127.0.0.1	bop.thesmarthustle.info
+127.0.0.1	herb6x.cl0vermint.ru
 127.0.0.1	minty7.cl0vermint.ru
 127.0.0.1	clov3r.cl0vermint.ru
 127.0.0.1	mar3na.soft0cean.ru
@@ -37789,4 +37817,4 @@
 127.0.0.1	rag382.top
 127.0.0.1	www.insideedgepr.com
 127.0.0.1	images.nashbashracing.com
-# Number of entries: 37783
+# Number of entries: 37811
