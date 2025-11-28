@@ -1,11 +1,38 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-28 10:19:00 UTC                        #
+# Last updated: 2025-11-28 12:25:41 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nova.l1ghtflare.ru
+127.0.0.1	s8.l1ghtflare.ru
+127.0.0.1	gl1m.0rbishade.ru
+127.0.0.1	v4n.0rbishade.ru
+127.0.0.1	ratmainz.ink
+127.0.0.1	americanmechineries.com
+127.0.0.1	hard-remembered.gl.at.ply.gg
+127.0.0.1	ember.0rbishade.ru
+127.0.0.1	qk9.0rbishade.ru
+127.0.0.1	tide4.oceandrop.ru
+127.0.0.1	m2q.oceandrop.ru
+127.0.0.1	brisk.oceandrop.ru
+127.0.0.1	x7.oceandrop.ru
+127.0.0.1	tgx.aud1mi5s.ru
+127.0.0.1	m3pv.po-1-ba-8-esett.ru
+127.0.0.1	data8.po-1-ba-8-esett.ru
+127.0.0.1	drop.crysta1drop.ru
+127.0.0.1	road.crysta1drop.ru
+127.0.0.1	fire3.crysta1drop.ru
+127.0.0.1	storm6.snowbyte.ru
+127.0.0.1	ns2.googleclouds.net
+127.0.0.1	ns1.googleclouds.net
+127.0.0.1	lake2.snowbyte.ru
+127.0.0.1	7ms.snowbyte.ru
+127.0.0.1	iud.snowbyte.ru
+127.0.0.1	kcjdc.c1earway.ru
+127.0.0.1	1tpe.c1earway.ru
 127.0.0.1	ilf4a.c1earway.ru
 127.0.0.1	bright9.c1earway.ru
 127.0.0.1	crystal2.shadowtrail.ru
@@ -45885,8 +45912,4 @@
 127.0.0.1	classiccolonialhomes.com
 127.0.0.1	feedback.jjsbootjack.com
 127.0.0.1	60z89fnebpz1v.cfc-execute.bj.baidubce.com
-127.0.0.1	binduserdoc.p-e.kry.o-r.kr
-127.0.0.1	addes.top
-127.0.0.1	adldas.top
-127.0.0.1	promo.summat10n.org
-# Number of entries: 45883
+# Number of entries: 45906
