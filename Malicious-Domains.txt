@@ -1,11 +1,54 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-27 22:07:41 UTC                        #
+# Last updated: 2025-11-28 04:00:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	root.le3nsnet7e.ru
+127.0.0.1	70.le3nsnet7e.ru
+127.0.0.1	code.le3nsnet7e.ru
+127.0.0.1	nr.le3nsnet7e.ru
+127.0.0.1	aq.pen1sp7edef.ru
+127.0.0.1	spark.pen1sp7edef.ru
+127.0.0.1	wave.pen1sp7edef.ru
+127.0.0.1	mint.pen1sp7edef.ru
+127.0.0.1	ipl.dunn0en7el.ru
+127.0.0.1	code6.dunn0en7el.ru
+127.0.0.1	cliff4.dunn0en7el.ru
+127.0.0.1	su.dunn0en7el.ru
+127.0.0.1	3mt.manual-1-sa-1-yz.ru
+127.0.0.1	cliff.manual-1-sa-1-yz.ru
+127.0.0.1	h18u.manual-1-sa-1-yz.ru
+127.0.0.1	cliff0.manual-1-sa-1-yz.ru
+127.0.0.1	flow2.st-0-y-70-renka.ru
+127.0.0.1	pulse.st-0-y-70-renka.ru
+127.0.0.1	7d7ai.st-0-y-70-renka.ru
+127.0.0.1	pulse2.st-0-y-70-renka.ru
+127.0.0.1	trail.ede1g0rge.ru
+127.0.0.1	iz.ede1g0rge.ru
+127.0.0.1	frost.ede1g0rge.ru
+127.0.0.1	ne9.ede1g0rge.ru
+127.0.0.1	wave5.ju4enpare1.ru
+127.0.0.1	o1.ju4enpare1.ru
+127.0.0.1	bright2.ju4enpare1.ru
+127.0.0.1	vh1xr.ju4enpare1.ru
+127.0.0.1	snow.ju-4-en-pare-1.ru
+127.0.0.1	eju.ju-4-en-pare-1.ru
+127.0.0.1	dk2fp.ju-4-en-pare-1.ru
+127.0.0.1	root7.ju-4-en-pare-1.ru
+127.0.0.1	red7.a5t1gstudy.ru
+127.0.0.1	storm.a5t1gstudy.ru
+127.0.0.1	lake2.a5t1gstudy.ru
+127.0.0.1	7ol4i.a5t1gstudy.ru
+127.0.0.1	dperw.ede-1-g-0-rge.ru
+127.0.0.1	td.ede-1-g-0-rge.ru
+127.0.0.1	b2.ede-1-g-0-rge.ru
+127.0.0.1	53.ede-1-g-0-rge.ru
+127.0.0.1	2fq4.dunn-0-en-7-el.ru
+127.0.0.1	2ql.dunn-0-en-7-el.ru
+127.0.0.1	tvaz.dunn-0-en-7-el.ru
 127.0.0.1	8lwyc.dunn-0-en-7-el.ru
 127.0.0.1	5r.a-5-t-1-gstudy.ru
 127.0.0.1	ei.a-5-t-1-gstudy.ru
@@ -37598,7 +37641,6 @@
 127.0.0.1	dnsg-windows-ds-data.live
 127.0.0.1	adwwworks.com
 127.0.0.1	z98123.top
-127.0.0.1	syavsp5.top
 127.0.0.1	celebratingseniors.net
 127.0.0.1	security.cloflguared.com
 127.0.0.1	fopelas.com
@@ -37611,7 +37653,4 @@
 127.0.0.1	nercy.live
 127.0.0.1	hassanaltimeme9.no-ip.biz
 127.0.0.1	which-submission.gl.at.ply.gg
-127.0.0.1	www.owa.fedor-turin.ru
-127.0.0.1	1.tcp.hk.cpolar.io
-127.0.0.1	ec2-44-211-135-190.compute-1.amazonaws.com
-# Number of entries: 37608
+# Number of entries: 37647
