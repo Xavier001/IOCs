@@ -1,11 +1,37 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-29 10:07:36 UTC                        #
+# Last updated: 2025-11-29 12:15:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	c0dexy.c0deshore.ru
+127.0.0.1	twig7s.0akshade.ru
+127.0.0.1	gr0vny.0akshade.ru
+127.0.0.1	vip.xg.frp.one
+127.0.0.1	vip.bj.frp.one
+127.0.0.1	list-term.gl.at.ply.gg
+127.0.0.1	xg-8.frp.one
+127.0.0.1	outplsfinishy.dynuddns.com
+127.0.0.1	somwayz.gleeze.com
+127.0.0.1	somwayzbackup.ooguy.com
+127.0.0.1	8.tcp.cpolar.top
+127.0.0.1	day-mortgage.gl.at.ply.gg
+127.0.0.1	linconlskype.ddnsguru.com
+127.0.0.1	can0py.0akshade.ru
+127.0.0.1	shad3o.0akshade.ru
+127.0.0.1	oak5hd.0akshade.ru
+127.0.0.1	bark9t.flashwood.ru
+127.0.0.1	timbr3.flashwood.ru
+127.0.0.1	ember6.flashwood.ru
+127.0.0.1	spark7.flashwood.ru
+127.0.0.1	fl4sho.flashwood.ru
+127.0.0.1	shad0w.duskfield.ru
+127.0.0.1	gloam7.duskfield.ru
+127.0.0.1	tw1lyt.duskfield.ru
+127.0.0.1	fi3lda.duskfield.ru
+127.0.0.1	dusk4r.duskfield.ru
 127.0.0.1	ray9st.brightlake.ru
 127.0.0.1	gl1nty.brightlake.ru
 127.0.0.1	delta.d7un4recid.ru
@@ -46146,13 +46172,4 @@
 127.0.0.1	ry8fjzbwal.execute-api.ap-southeast-1.amazonaws.com
 127.0.0.1	8ajmswdkjya6r.cfc-execute.bj.baidubce.com
 127.0.0.1	3smqt0fdwhnc5.cfc-execute.bj.baidubce.com
-127.0.0.1	booking.extranet-listing.com
-127.0.0.1	partnervrft.com
-127.0.0.1	thundeqqbw.bet
-127.0.0.1	browser-update.lesalid.com
-127.0.0.1	citrixget.com
-127.0.0.1	cloudtflare.com
-127.0.0.1	nodedock.shop
-127.0.0.1	abo3skr-27041.portmap.io
-127.0.0.1	poker-venues.gl.at.ply.gg
-# Number of entries: 46149
+# Number of entries: 46166
