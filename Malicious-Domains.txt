@@ -1,11 +1,56 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-28 22:08:04 UTC                        #
+# Last updated: 2025-11-29 04:04:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	rope3.fal1ow7an.ru
+127.0.0.1	rur2.fal1ow7an.ru
+127.0.0.1	1ot1.fal1ow7an.ru
+127.0.0.1	01o.fal1ow7an.ru
+127.0.0.1	tm.bowin1nca5.ru
+127.0.0.1	jq8ob.bowin1nca5.ru
+127.0.0.1	2vx.bowin1nca5.ru
+127.0.0.1	vale.bowin1nca5.ru
+127.0.0.1	pu1785.com
+127.0.0.1	fu5599.com
+127.0.0.1	dy6288.com
+127.0.0.1	dk2799.com
+127.0.0.1	audio.aud-1-mi-5-s.ru
+127.0.0.1	bru81.aud-1-mi-5-s.ru
+127.0.0.1	srjxi.aud-1-mi-5-s.ru
+127.0.0.1	fund.aud-1-mi-5-s.ru
+127.0.0.1	core.bowin-1-nca-5.ru
+127.0.0.1	custv.bowin-1-nca-5.ru
+127.0.0.1	d2.bowin-1-nca-5.ru
+127.0.0.1	fpx0w.bowin-1-nca-5.ru
+127.0.0.1	7p53k.commi-5-sfa-7-t.ru
+127.0.0.1	1yc.commi-5-sfa-7-t.ru
+127.0.0.1	iqm.commi-5-sfa-7-t.ru
+127.0.0.1	ufsu.commi-5-sfa-7-t.ru
+127.0.0.1	aulf.po1ba8esett.ru
+127.0.0.1	fall.po1ba8esett.ru
+127.0.0.1	rope.po1ba8esett.ru
+127.0.0.1	uu.po1ba8esett.ru
+127.0.0.1	2qj0g.esca1t3ust.ru
+127.0.0.1	ln.esca1t3ust.ru
+127.0.0.1	cdn.rs-dns.sbs
+127.0.0.1	5nafr.esca1t3ust.ru
+127.0.0.1	trail2.esca1t3ust.ru
+127.0.0.1	v6kxb.a6il1oyal.ru
+127.0.0.1	prime5.a6il1oyal.ru
+127.0.0.1	unp6e.a6il1oyal.ru
+127.0.0.1	lolhy.a6il1oyal.ru
+127.0.0.1	nova.law5andw1ch.ru
+127.0.0.1	5m7n8.law5andw1ch.ru
+127.0.0.1	9n4s.law5andw1ch.ru
+127.0.0.1	learn.law5andw1ch.ru
+127.0.0.1	lucky8.es-ca-1-t-3-ust.ru
+127.0.0.1	kjw.es-ca-1-t-3-ust.ru
+127.0.0.1	layer1.es-ca-1-t-3-ust.ru
+127.0.0.1	w65.es-ca-1-t-3-ust.ru
 127.0.0.1	5oe.law-5-andw-1-ch.ru
 127.0.0.1	w43.law-5-andw-1-ch.ru
 127.0.0.1	field1.law-5-andw-1-ch.ru
@@ -46021,13 +46066,7 @@
 127.0.0.1	friendlyman69.ddns.net
 127.0.0.1	danishcent.duckdns.org
 127.0.0.1	ssh.ddos-cc.org
-127.0.0.1	pielsteel.top
 127.0.0.1	www.vacconnect.com
 127.0.0.1	security.flaweguaard.com
 127.0.0.1	kolepti.com
-127.0.0.1	ss1x1.demonjoe.site
-127.0.0.1	nwww.sasha-solzhenicyn.ru
-127.0.0.1	www.russtore.fedor-turin.ru
-127.0.0.1	www.nrustore.sasha-solzhenicyn.ru
-127.0.0.1	www.rustore.fedor-turin.ru
-# Number of entries: 46024
+# Number of entries: 46063
