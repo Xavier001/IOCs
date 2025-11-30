@@ -1,11 +1,52 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-29 22:11:49 UTC                        #
+# Last updated: 2025-11-30 04:18:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wise7r.f1amewise.ru
+127.0.0.1	flam3w.f1amewise.ru
+127.0.0.1	bright.sunfold.ru
+127.0.0.1	ray0ut.sunfold.ru
+127.0.0.1	flare5.sunfold.ru
+127.0.0.1	fold9r.sunfold.ru
+127.0.0.1	sun7fd.sunfold.ru
+127.0.0.1	vibra7.soundg0.ru
+127.0.0.1	ech0ly.soundg0.ru
+127.0.0.1	tone9x.soundg0.ru
+127.0.0.1	azurefree.ignorelist.com
+127.0.0.1	audio5.soundg0.ru
+127.0.0.1	snd7go.soundg0.ru
+127.0.0.1	c4lmly.windzero.ru
+127.0.0.1	breez9.windzero.ru
+127.0.0.1	gust5y.windzero.ru
+127.0.0.1	zer0br.windzero.ru
+127.0.0.1	wind7x.windzero.ru
+127.0.0.1	bubb7e.g0ldfish.ru
+127.0.0.1	f1sher.g0ldfish.ru
+127.0.0.1	sw1mly.g0ldfish.ru
+127.0.0.1	fin5er.g0ldfish.ru
+127.0.0.1	gold7y.g0ldfish.ru
+127.0.0.1	optn4k.keyhope.ru
+127.0.0.1	trez5r.keyhope.ru
+127.0.0.1	l0ckey.keyhope.ru
+127.0.0.1	hope9r.keyhope.ru
+127.0.0.1	key7hp.keyhope.ru
+127.0.0.1	quak3r.fr0gtime.ru
+127.0.0.1	sprng9.fr0gtime.ru
+127.0.0.1	pond5x.fr0gtime.ru
+127.0.0.1	t1melo.fr0gtime.ru
+127.0.0.1	for.drearilystrobe.com
+127.0.0.1	frog7y.fr0gtime.ru
+127.0.0.1	gl0wbx.b0xlight.ru
+127.0.0.1	lumix5.b0xlight.ru
+127.0.0.1	crat0n.b0xlight.ru
+127.0.0.1	l1tgle.b0xlight.ru
+127.0.0.1	box7ly.b0xlight.ru
+127.0.0.1	cl0udy.ra1nbyte.ru
+127.0.0.1	cast4r.ra1nbyte.ru
 127.0.0.1	drip9y.ra1nbyte.ru
 127.0.0.1	byte5r.ra1nbyte.ru
 127.0.0.1	rain7x.ra1nbyte.ru
@@ -48017,7 +48058,4 @@
 127.0.0.1	security.flreshieelds.com
 127.0.0.1	wekosle.com
 127.0.0.1	analytiscnode.com
-127.0.0.1	geo.cwlabtes.shop
-127.0.0.1	m.login1-sow.com
-127.0.0.1	4cc3c767-806f-4deb-a2f0-9260e37035c4.sasha-solzhenicyn.ru
-# Number of entries: 48014
+# Number of entries: 48052
