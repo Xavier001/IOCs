@@ -1,11 +1,52 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-11-30 22:07:10 UTC                        #
+# Last updated: 2025-12-01 04:27:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	crest.chri5t1anget.ru
+127.0.0.1	gh.chri5t1anget.ru
+127.0.0.1	k2i1p.chri5t1anget.ru
+127.0.0.1	mist.chri5t1anget.ru
+127.0.0.1	09o.ap2thsh0pk.ru
+127.0.0.1	qjwe.ap2thsh0pk.ru
+127.0.0.1	nv57.ap2thsh0pk.ru
+127.0.0.1	38.ap2thsh0pk.ru
+127.0.0.1	xy.aistem0rpho1.ru
+127.0.0.1	dark.aistem0rpho1.ru
+127.0.0.1	stone.aistem0rpho1.ru
+127.0.0.1	host.globalinfohost.top
+127.0.0.1	xv.aistem0rpho1.ru
+127.0.0.1	wr.evacu0t0nova.ru
+127.0.0.1	khw6m.evacu0t0nova.ru
+127.0.0.1	9iqq.evacu0t0nova.ru
+127.0.0.1	qit.evacu0t0nova.ru
+127.0.0.1	river.def1nmem0r.ru
+127.0.0.1	pmv.def1nmem0r.ru
+127.0.0.1	9pft.def1nmem0r.ru
+127.0.0.1	h3.def1nmem0r.ru
+127.0.0.1	qh1wl.5eertr1ad.ru
+127.0.0.1	crystal.5eertr1ad.ru
+127.0.0.1	ld8bd.5eertr1ad.ru
+127.0.0.1	beta.5eertr1ad.ru
+127.0.0.1	night.f1nsh2ytan.ru
+127.0.0.1	sunny.f1nsh2ytan.ru
+127.0.0.1	silent.f1nsh2ytan.ru
+127.0.0.1	flame.f1nsh2ytan.ru
+127.0.0.1	clear.che7nt2rp.ru
+127.0.0.1	jx.che7nt2rp.ru
+127.0.0.1	xyw.che7nt2rp.ru
+127.0.0.1	xnds.che7nt2rp.ru
+127.0.0.1	d1k5ev.go-1-dkamy-5-hev.ru
+127.0.0.1	gok7am.go-1-dkamy-5-hev.ru
+127.0.0.1	hev5g1.go-1-dkamy-5-hev.ru
+127.0.0.1	dk5my1.go-1-dkamy-5-hev.ru
+127.0.0.1	g1d5hv.go-1-dkamy-5-hev.ru
+127.0.0.1	g7r8ev.ger8y5evruga.ru
+127.0.0.1	ruga85.ger8y5evruga.ru
+127.0.0.1	gy58va.ger8y5evruga.ru
 127.0.0.1	ev5g8r.ger8y5evruga.ru
 127.0.0.1	g8v5ru.ger8y5evruga.ru
 127.0.0.1	k4myh5.go1dkamy5hev.ru
@@ -47872,50 +47913,4 @@
 127.0.0.1	security.guarsflere.com
 127.0.0.1	elomisa.com
 127.0.0.1	begin-trezor-cdn.gorgias.help
-127.0.0.1	www.rua.fedor-turin.ru
-127.0.0.1	vv4.qpalzmonline.uk
-127.0.0.1	www.inphyra.com
-127.0.0.1	ip-89-40-31-203.hosted-by-hosterdaddy.com
-127.0.0.1	www.rurusstore.fedor-turin.ru
-127.0.0.1	ns1.cxtwh.top
-127.0.0.1	law-nc.gl.at.ply.gg
-127.0.0.1	flytouur.shop
-127.0.0.1	jefati5198-31022.portmap.io
-127.0.0.1	nanotism.nolanwh.cf
-127.0.0.1	affiliate-47437.portmap.io
-127.0.0.1	eliteaffiliate-24198.portmap.io
-127.0.0.1	chahid123.no-ip.biz
-127.0.0.1	138-201-220-186.top
-127.0.0.1	updaterswindows.com
-127.0.0.1	631dgmj9-8085.usw3.devtunnels.ms
-127.0.0.1	multiperfect.cloud
-127.0.0.1	kimbeech.cfd
-127.0.0.1	yie-cpj.pages.dev
-127.0.0.1	orange-service.xyz
-127.0.0.1	erika-mugia.mikahouse.my.id
-127.0.0.1	www.arcadealley.fun
-127.0.0.1	185-36-145-226.static.sslip.io
-127.0.0.1	security.gurradfclre.com
-127.0.0.1	loakens.com
-127.0.0.1	brefif.run
-127.0.0.1	majlkj.live
-127.0.0.1	makeyrlo.top
-127.0.0.1	racueu.run
-127.0.0.1	stockyslam.top
-127.0.0.1	windowsmsn-cn.live
-127.0.0.1	anichind.com
-127.0.0.1	held-isle.gl.at.ply.gg
-127.0.0.1	rcglobo.duckdns.org
-127.0.0.1	takerhumble.duckdns.org
-127.0.0.1	lordegypt.no-ip.org
-127.0.0.1	supersha256.run.place
-127.0.0.1	shilex.dyndns.org
-127.0.0.1	hold-asy.duckdns.org
-127.0.0.1	cdn.pollogreatagain.click
-127.0.0.1	tavge.duckdns.org
-127.0.0.1	s4cc3c767-806f-4deb-a2f0-9260e37035c4.sasha-solzhenicyn.ru
-127.0.0.1	sitemaps.sasha-solzhenicyn.ru
-127.0.0.1	sitemaps.fedor-turin.ru
-127.0.0.1	asdxxcg.top
-127.0.0.1	802y5hys810na.cfc-execute.gz.baidubce.com
-# Number of entries: 47912
+# Number of entries: 47907
