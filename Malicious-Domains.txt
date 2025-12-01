@@ -1,11 +1,72 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-01 04:27:58 UTC                        #
+# Last updated: 2025-12-01 10:16:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	support.kingwoodcomputercenter.com
+127.0.0.1	xd.br1ckw0rd.ru
+127.0.0.1	7k24.br1ckw0rd.ru
+127.0.0.1	969.br1ckw0rd.ru
+127.0.0.1	7r8r.br1ckw0rd.ru
+127.0.0.1	cloudy.quickf0x.ru
+127.0.0.1	mx283.quickf0x.ru
+127.0.0.1	hq.quickf0x.ru
+127.0.0.1	u7b9.quickf0x.ru
+127.0.0.1	gamma.f1rest0ne.ru
+127.0.0.1	bold.f1rest0ne.ru
+127.0.0.1	wind.f1rest0ne.ru
+127.0.0.1	qq.f1rest0ne.ru
+127.0.0.1	x4dpn.sun5park.ru
+127.0.0.1	q6.sun5park.ru
+127.0.0.1	zwdq.sun5park.ru
+127.0.0.1	zrq0.sun5park.ru
+127.0.0.1	zj1ij.sun5hine.ru
+127.0.0.1	61.sun5hine.ru
+127.0.0.1	delta.sun5hine.ru
+127.0.0.1	soft.sun5hine.ru
+127.0.0.1	fox.cl0udland.ru
+127.0.0.1	vs.cl0udland.ru
+127.0.0.1	nmqg.cl0udland.ru
+127.0.0.1	class-rouge.gl.at.ply.gg
+127.0.0.1	contains-are.gl.at.ply.gg
+127.0.0.1	physical-concepts.gl.at.ply.gg
+127.0.0.1	sync.dareck.it.com
+127.0.0.1	sync.juzgadorama.it.com
+127.0.0.1	api.dareck.it.com
+127.0.0.1	api.juzgadorama.it.com
+127.0.0.1	cdn.dareck.it.com
+127.0.0.1	cdn.juzgadorama.it.com
+127.0.0.1	cloud.dareck.it.com
+127.0.0.1	cloud.juzgadorama.it.com
+127.0.0.1	portal.dareck.it.com
+127.0.0.1	portal.juzgadorama.it.com
+127.0.0.1	quick.cl0udland.ru
+127.0.0.1	jql0.dark5hip.ru
+127.0.0.1	8z2a.dark5hip.ru
+127.0.0.1	ga.rt.threat.city
+127.0.0.1	stars-party.gl.at.ply.gg
+127.0.0.1	century-see.gl.at.ply.gg
+127.0.0.1	m8hpd.dark5hip.ru
+127.0.0.1	8k.dark5hip.ru
+127.0.0.1	zw0.lightb0x.ru
+127.0.0.1	00.lightb0x.ru
+127.0.0.1	s41p4.lightb0x.ru
+127.0.0.1	ttr.jyhsolucion.ar
+127.0.0.1	ttr.tokiejegedeinitiative.org
+127.0.0.1	uyu.jyhsolucion.ar
+127.0.0.1	uyu.wantedrelief.com
+127.0.0.1	he62g.lightb0x.ru
+127.0.0.1	o1i.clear5ky.ru
+127.0.0.1	sky.clear5ky.ru
+127.0.0.1	2epwa.clear5ky.ru
+127.0.0.1	ypa.clear5ky.ru
+127.0.0.1	fzr.p0larday.ru
+127.0.0.1	cloud.p0larday.ru
+127.0.0.1	4o.p0larday.ru
+127.0.0.1	alpha.p0larday.ru
 127.0.0.1	crest.chri5t1anget.ru
 127.0.0.1	gh.chri5t1anget.ru
 127.0.0.1	k2i1p.chri5t1anget.ru
@@ -47899,18 +47960,4 @@
 127.0.0.1	freedom.golf
 127.0.0.1	gedankenlaut.xyz
 127.0.0.1	h34ry.top
-127.0.0.1	witchdbhy.run
-127.0.0.1	huazai168.com
-127.0.0.1	mi.professedunease.top
-127.0.0.1	snowzin.ddns.net
-127.0.0.1	snowzin.accesscam.org
-127.0.0.1	bart2003.ddns.net
-127.0.0.1	asatvm.duckdns.org
-127.0.0.1	r-declared.gl.at.ply.gg
-127.0.0.1	asegurar8889rem.mysynology.net
-127.0.0.1	established-greensboro.gl.at.ply.gg
-127.0.0.1	7162abdd9fd6e28.click
-127.0.0.1	security.guarsflere.com
-127.0.0.1	elomisa.com
-127.0.0.1	begin-trezor-cdn.gorgias.help
-# Number of entries: 47907
+# Number of entries: 47954
