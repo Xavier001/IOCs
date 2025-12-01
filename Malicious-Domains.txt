@@ -1,11 +1,28 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-01 10:16:07 UTC                        #
+# Last updated: 2025-12-01 12:26:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	gate.c1earrec0ng.ru
+127.0.0.1	3ul.c1earrec0ng.ru
+127.0.0.1	kfl6f.c1earrec0ng.ru
+127.0.0.1	k0l.c1earrec0ng.ru
+127.0.0.1	dec-end.gl.at.ply.gg
+127.0.0.1	storm.co7nrev0ke.ru
+127.0.0.1	3l.co7nrev0ke.ru
+127.0.0.1	a5wnr.co7nrev0ke.ru
+127.0.0.1	ecioc.co7nrev0ke.ru
+127.0.0.1	0imm.sh2mvi5cous.ru
+127.0.0.1	nln8.sh2mvi5cous.ru
+127.0.0.1	ov1.sh2mvi5cous.ru
+127.0.0.1	deep.sh2mvi5cous.ru
+127.0.0.1	wild.windm1ll.ru
+127.0.0.1	l0.windm1ll.ru
+127.0.0.1	hn.windm1ll.ru
+127.0.0.1	c9iz.windm1ll.ru
 127.0.0.1	support.kingwoodcomputercenter.com
 127.0.0.1	xd.br1ckw0rd.ru
 127.0.0.1	7k24.br1ckw0rd.ru
@@ -47919,45 +47936,4 @@
 127.0.0.1	search-email.com
 127.0.0.1	mail.ssadownload.top
 127.0.0.1	medellin2029.duckdns.org
-127.0.0.1	sd693.com
-127.0.0.1	jolertipor33.top
-127.0.0.1	hagitkoren.online
-127.0.0.1	halo78.org
-127.0.0.1	herpich.one
-127.0.0.1	hptechsoft.xyz
-127.0.0.1	idearchx.net
-127.0.0.1	idgluxe.shop
-127.0.0.1	infinityplatform.xyz
-127.0.0.1	jefebusyness.net
-127.0.0.1	letsgoogarage.click
-127.0.0.1	quick-image.xyz
-127.0.0.1	rentnt.xyz
-127.0.0.1	rieo.pro
-127.0.0.1	secretariaa.shop
-127.0.0.1	sticker.business
-127.0.0.1	teamx.club
-127.0.0.1	tempoproje.xyz
-127.0.0.1	turbocloud.website
-127.0.0.1	vibeark.xyz
-127.0.0.1	voguevanguard.xyz
-127.0.0.1	vpert.online
-127.0.0.1	aksow.xyz
-127.0.0.1	audiobooks.ltd
-127.0.0.1	autorolluphub.xyz
-127.0.0.1	buildertools.xyz
-127.0.0.1	cardo.work
-127.0.0.1	clevelse.live
-127.0.0.1	covoai.live
-127.0.0.1	cravatte.xyz
-127.0.0.1	dfsdfgergrrtth.online
-127.0.0.1	dgdetailing.pro
-127.0.0.1	doeda-pvcw.xyz
-127.0.0.1	droneapp.xyz
-127.0.0.1	earthandiris.net
-127.0.0.1	echotch.website
-127.0.0.1	fasadmebelchelny.store
-127.0.0.1	financialsquare.xyz
-127.0.0.1	freedom.golf
-127.0.0.1	gedankenlaut.xyz
-127.0.0.1	h34ry.top
-# Number of entries: 47954
+# Number of entries: 47930
