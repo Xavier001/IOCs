@@ -1,11 +1,57 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-01 22:14:24 UTC                        #
+# Last updated: 2025-12-02 04:14:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	uw.n1ghtbloom.ru
+127.0.0.1	sbtua.n1ghtbloom.ru
+127.0.0.1	6f.n1ghtbloom.ru
+127.0.0.1	pond.n1ghtbloom.ru
+127.0.0.1	jn.stoneflare.ru
+127.0.0.1	river.stoneflare.ru
+127.0.0.1	6tal.stoneflare.ru
+127.0.0.1	84m.stoneflare.ru
+127.0.0.1	forest.mistyflare.ru
+127.0.0.1	368.mistyflare.ru
+127.0.0.1	x40.mistyflare.ru
+127.0.0.1	kd7u.mistyflare.ru
+127.0.0.1	j8kd7.brightst0ne.ru
+127.0.0.1	ydb7x.brightst0ne.ru
+127.0.0.1	soft.brightst0ne.ru
+127.0.0.1	k9yn.crystal0ak.ru
+127.0.0.1	trace.crystal0ak.ru
+127.0.0.1	j1bn.crystal0ak.ru
+127.0.0.1	alpha.crystal0ak.ru
+127.0.0.1	8m.rivershad0w.ru
+127.0.0.1	7c.rivershad0w.ru
+127.0.0.1	5h.rivershad0w.ru
+127.0.0.1	gate.rivershad0w.ru
+127.0.0.1	19r6l.softgl1de.ru
+127.0.0.1	92nr.softgl1de.ru
+127.0.0.1	7qqa.softgl1de.ru
+127.0.0.1	g6vi.softgl1de.ru
+127.0.0.1	crystal.cloudb1te.ru
+127.0.0.1	silent.cloudb1te.ru
+127.0.0.1	bold.cloudb1te.ru
+127.0.0.1	hzjx5.cloudb1te.ru
+127.0.0.1	n9vgt.n1ghtowl.ru
+127.0.0.1	3047.n1ghtowl.ru
+127.0.0.1	2fd.n1ghtowl.ru
+127.0.0.1	dg45.n1ghtowl.ru
+127.0.0.1	c21.sun5t0rm.ru
+127.0.0.1	6n.sun5t0rm.ru
+127.0.0.1	yxhsc.sun5t0rm.ru
+127.0.0.1	jv.sun5t0rm.ru
+127.0.0.1	ljo.cl0udfall.ru
+127.0.0.1	mariklogisaretina.com
+127.0.0.1	varchidublikatsre.com
+127.0.0.1	yj.cl0udfall.ru
+127.0.0.1	kristimalayasrtertyu.com
+127.0.0.1	uxizfixcomplandrush.com
+127.0.0.1	gigastlasteryux.com
 127.0.0.1	fliarcibasdoklosave.com
 127.0.0.1	xuykoliuasdopin.com
 127.0.0.1	frost.cl0udfall.ru
@@ -48122,12 +48168,4 @@
 127.0.0.1	core.sopeited.org
 127.0.0.1	elomaio.com
 127.0.0.1	hi-nurses.gl.at.ply.gg
-127.0.0.1	ecs-189-1-223-179.compute.hwclouds-dns.com
-127.0.0.1	1254528c-235e-4b9b-9bf3-850214133e82.selcdn.net
-127.0.0.1	cat.fedor-turin.ru
-127.0.0.1	www.owa.sasha-solzhenicyn.ru
-127.0.0.1	4cc3c767-806f-4deb-a2f0-9260e37035c4.fedor-turin.ru
-127.0.0.1	www.rurua.fedor-turin.ru
-127.0.0.1	cdn.moneycomesagain.click
-127.0.0.1	548125.com
-# Number of entries: 48124
+# Number of entries: 48162
