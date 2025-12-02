@@ -1,11 +1,61 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-02 10:16:09 UTC                        #
+# Last updated: 2025-12-02 12:22:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bryuk.b2ptb1ryuk.ru
+127.0.0.1	a23.nbdsnb2.top
+127.0.0.1	talcry.decor1cry5t.ru
+127.0.0.1	uuuucome.com
+127.0.0.1	velorn.decor1cry5t.ru
+127.0.0.1	coolboy123123431-41087.portmap.host
+127.0.0.1	youcool12334213213-52394.portmap.hos
+127.0.0.1	youcool12334213213-62107.portmap.host
+127.0.0.1	youcool12334213213-42391.portmap.host
+127.0.0.1	youcool12334213213-43544.portmap.host
+127.0.0.1	unionserver.duckdns.org
+127.0.0.1	drift5.decor1cry5t.ru
+127.0.0.1	ocryl.decor1cry5t.ru
+127.0.0.1	decryn.decor1cry5t.ru
+127.0.0.1	dcv.snowtrace.ru
+127.0.0.1	wne.snowtrace.ru
+127.0.0.1	68.snowtrace.ru
+127.0.0.1	fjhk.snowtrace.ru
+127.0.0.1	delta.gr0upw0rk.ru
+127.0.0.1	gx0tr.gr0upw0rk.ru
+127.0.0.1	ohbro.krebstresser.st
+127.0.0.1	7juhe.gr0upw0rk.ru
+127.0.0.1	seris.gd
+127.0.0.1	kq.gr0upw0rk.ru
+127.0.0.1	qn.m1stybird.ru
+127.0.0.1	s1603.house-spirit.com
+127.0.0.1	s1619.house-spirit.com
+127.0.0.1	s1270.house-spirit.com
+127.0.0.1	s1256.house-spirit.com
+127.0.0.1	s1533.house-spirit.com
+127.0.0.1	s1276.house-spirit.com
+127.0.0.1	s1252.house-spirit.com
+127.0.0.1	s1264.house-spirit.com
+127.0.0.1	s1535.house-spirit.com
+127.0.0.1	s1266.house-spirit.com
+127.0.0.1	s1244.house-spirit.com
+127.0.0.1	s1531.house-spirit.com
+127.0.0.1	s1262.house-spirit.com
+127.0.0.1	s1254.house-spirit.com
+127.0.0.1	s1272.house-spirit.com
+127.0.0.1	s1246.house-spirit.com
+127.0.0.1	s1248.house-spirit.com
+127.0.0.1	s1274.house-spirit.com
+127.0.0.1	s1258.house-spirit.com
+127.0.0.1	s1268.house-spirit.com
+127.0.0.1	s1613.house-spirit.com
+127.0.0.1	s1621.house-spirit.com
+127.0.0.1	s1617.house-spirit.com
+127.0.0.1	s1609.house-spirit.com
+127.0.0.1	z9l5.m1stybird.ru
 127.0.0.1	beta.m1stybird.ru
 127.0.0.1	v9y32.m1stybird.ru
 127.0.0.1	73r.wildc0ast.ru
@@ -48230,5 +48280,4 @@
 127.0.0.1	www.judahshop.com
 127.0.0.1	pre-order.chablalker.com
 127.0.0.1	walltechsistem.com
-127.0.0.1	tinklertjp.bet
-# Number of entries: 48225
+# Number of entries: 48274
