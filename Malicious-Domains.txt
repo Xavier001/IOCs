@@ -1,11 +1,80 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-02 04:14:03 UTC                        #
+# Last updated: 2025-12-02 10:16:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	beta.m1stybird.ru
+127.0.0.1	v9y32.m1stybird.ru
+127.0.0.1	73r.wildc0ast.ru
+127.0.0.1	d038t.wildc0ast.ru
+127.0.0.1	0zi.wildc0ast.ru
+127.0.0.1	cpqps.wildc0ast.ru
+127.0.0.1	o3x5v.c1earstone.ru
+127.0.0.1	ld5f.c1earstone.ru
+127.0.0.1	vuqov.c1earstone.ru
+127.0.0.1	qau.c1earstone.ru
+127.0.0.1	lhv.cloudp0nd.ru
+127.0.0.1	wind.cloudp0nd.ru
+127.0.0.1	fg.cloudp0nd.ru
+127.0.0.1	sunny.cloudp0nd.ru
+127.0.0.1	jalz.stonef1eld.ru
+127.0.0.1	pew.stonef1eld.ru
+127.0.0.1	b2x0.stonef1eld.ru
+127.0.0.1	owl.stonef1eld.ru
+127.0.0.1	wild.f1recrest.ru
+127.0.0.1	group.f1recrest.ru
+127.0.0.1	glow.f1recrest.ru
+127.0.0.1	crest.f1recrest.ru
+127.0.0.1	public.dvrexpert.st
+127.0.0.1	work.nightm1nt.ru
+127.0.0.1	stone.nightm1nt.ru
+127.0.0.1	tovool123343123-42020.portmap.host
+127.0.0.1	to-appreciation.gl.at.ply.gg
+127.0.0.1	3h2p.nightm1nt.ru
+127.0.0.1	silver.nightm1nt.ru
+127.0.0.1	light.forestgl0w.ru
+127.0.0.1	night.forestgl0w.ru
+127.0.0.1	efjgerws.galaxias.cc
+127.0.0.1	dl9e.forestgl0w.ru
+127.0.0.1	bz.forestgl0w.ru
+127.0.0.1	quick.silenth1ll.ru
+127.0.0.1	e7.silenth1ll.ru
+127.0.0.1	31x.silenth1ll.ru
+127.0.0.1	spark.silenth1ll.ru
+127.0.0.1	xnaw.windsh1ne.ru
+127.0.0.1	alexiac.cyou
+127.0.0.1	ascetin.cyou
+127.0.0.1	boflijo.cyou
+127.0.0.1	entraiz.cyou
+127.0.0.1	extirpo.cyou
+127.0.0.1	leonhat.cyou
+127.0.0.1	rotfqxu.cyou
+127.0.0.1	truxaqn.cyou
+127.0.0.1	simonts.cyou
+127.0.0.1	souldey.cyou
+127.0.0.1	townsex.cyou
+127.0.0.1	soft-dns.sejilod7488888.workers.dev
+127.0.0.1	gold.windsh1ne.ru
+127.0.0.1	1qc.windsh1ne.ru
+127.0.0.1	5adm.windsh1ne.ru
+127.0.0.1	jun-suppliers.gl.at.ply.gg
+127.0.0.1	needs-developed.gl.at.ply.gg
+127.0.0.1	envio2777.mysynology.net
+127.0.0.1	sf.deepflash.ru
+127.0.0.1	llbf.deepflash.ru
+127.0.0.1	shadow.deepflash.ru
+127.0.0.1	00f.deepflash.ru
+127.0.0.1	coast.w1ndcrest.ru
+127.0.0.1	h3m.w1ndcrest.ru
+127.0.0.1	vnq.w1ndcrest.ru
+127.0.0.1	hl.w1ndcrest.ru
+127.0.0.1	a6u.wildm1st.ru
+127.0.0.1	p7l0.wildm1st.ru
+127.0.0.1	mzu8.wildm1st.ru
+127.0.0.1	flare.wildm1st.ru
 127.0.0.1	uw.n1ghtbloom.ru
 127.0.0.1	sbtua.n1ghtbloom.ru
 127.0.0.1	6f.n1ghtbloom.ru
@@ -287,12 +356,23 @@
 127.0.0.1	x85.deepw0rd.ru
 127.0.0.1	ocmdj.deepw0rd.ru
 127.0.0.1	5h0tb.deepw0rd.ru
+127.0.0.1	whichphablet.highheelsplace.com
+127.0.0.1	ilvisa.com
+127.0.0.1	livingstonscleaning.com.mobimark.net
+127.0.0.1	suzume-design.com
 127.0.0.1	1v.fastl1ne.ru
+127.0.0.1	sosracismjuif2025.pages.dev
 127.0.0.1	ry9.fastl1ne.ru
 127.0.0.1	e8vdb.fastl1ne.ru
 127.0.0.1	central-comes.gl.at.ply.gg
+127.0.0.1	icejqq.com
+127.0.0.1	account-bookcaptcha.com
+127.0.0.1	account-extranetpulser.com
 127.0.0.1	omega.fastl1ne.ru
+127.0.0.1	session-verify-118-secure-7222.click
+127.0.0.1	auth-device-553-security-3314.click
 127.0.0.1	b20gc.sea5t0rm.ru
+127.0.0.1	skygrowthhq.com
 127.0.0.1	lojl5.sea5t0rm.ru
 127.0.0.1	oly.sea5t0rm.ru
 127.0.0.1	tuh.sea5t0rm.ru
@@ -48151,21 +48231,4 @@
 127.0.0.1	pre-order.chablalker.com
 127.0.0.1	walltechsistem.com
 127.0.0.1	tinklertjp.bet
-127.0.0.1	xx.7.4t.com
-127.0.0.1	analyticnodes.com
-127.0.0.1	security.claufgaurd.com
-127.0.0.1	security.clodaflare.com
-127.0.0.1	security.clodujflare.com
-127.0.0.1	security.cloofalerg.com
-127.0.0.1	security.clouodgrd.com
-127.0.0.1	security.cloudstwr.com
-127.0.0.1	security.flclodshield.com
-127.0.0.1	security.flearegaurdc.com
-127.0.0.1	security.shieldclouds.com
-127.0.0.1	security.flflaegaurd.com
-127.0.0.1	core.sopeited.info
-127.0.0.1	core.sopeited.com
-127.0.0.1	core.sopeited.org
-127.0.0.1	elomaio.com
-127.0.0.1	hi-nurses.gl.at.ply.gg
-# Number of entries: 48162
+# Number of entries: 48225
