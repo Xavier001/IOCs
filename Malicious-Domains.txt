@@ -1,11 +1,82 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-02 12:22:58 UTC                        #
+# Last updated: 2025-12-02 22:01:41 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	vn.bana1ity8ed.ru
+127.0.0.1	field.bana1ity8ed.ru
+127.0.0.1	crest.bana1ity8ed.ru
+127.0.0.1	dark.a5pirbo0rda.ru
+127.0.0.1	x5.a5pirbo0rda.ru
+127.0.0.1	cloud.a5pirbo0rda.ru
+127.0.0.1	zx8.a5pirbo0rda.ru
+127.0.0.1	wind.barg5t0get.ru
+127.0.0.1	0ec.barg5t0get.ru
+127.0.0.1	bird.barg5t0get.ru
+127.0.0.1	3zg.barg5t0get.ru
+127.0.0.1	qjpc.mes5yr0mp.ru
+127.0.0.1	silent.mes5yr0mp.ru
+127.0.0.1	eg.mes5yr0mp.ru
+127.0.0.1	quick.mes5yr0mp.ru
+127.0.0.1	covel1.cos5acklove1.ru
+127.0.0.1	saclor.cos5acklove1.ru
+127.0.0.1	co5hue.cos5acklove1.ru
+127.0.0.1	lovent.cos5acklove1.ru
+127.0.0.1	cossak.cos5acklove1.ru
+127.0.0.1	majr5a.hubr1s5ajor.ru
+127.0.0.1	husaor.hubr1s5ajor.ru
+127.0.0.1	brume1.hubr1s5ajor.ru
+127.0.0.1	sajor.hubr1s5ajor.ru
+127.0.0.1	hubris.hubr1s5ajor.ru
+127.0.0.1	tram5s.abstractm1s5.ru
+127.0.0.1	absray.abstractm1s5.ru
+127.0.0.1	chukwunwike.ydns.eu
+127.0.0.1	film-gear.gl.at.ply.gg
+127.0.0.1	m1stic.abstractm1s5.ru
+127.0.0.1	stract.abstractm1s5.ru
+127.0.0.1	abstra.abstractm1s5.ru
+127.0.0.1	rya7nd.ba8ryanhe7d.ru
+127.0.0.1	harbyn.ba8ryanhe7d.ru
+127.0.0.1	bayen5.ba8ryanhe7d.ru
+127.0.0.1	ranhed.ba8ryanhe7d.ru
+127.0.0.1	baryan.ba8ryanhe7d.ru
+127.0.0.1	quill5.auth0r1etter.ru
+127.0.0.1	inkset.auth0r1etter.ru
+127.0.0.1	rhet1c.auth0r1etter.ru
+127.0.0.1	lettyr.auth0r1etter.ru
+127.0.0.1	author.auth0r1etter.ru
+127.0.0.1	email.meta-email.online
+127.0.0.1	derv1n.de5per5eem.ru
+127.0.0.1	demure.de5per5eem.ru
+127.0.0.1	peren5.de5per5eem.ru
+127.0.0.1	depra.de5per5eem.ru
+127.0.0.1	deepem.de5per5eem.ru
+127.0.0.1	benra8.be8ref7ain.ru
+127.0.0.1	abqsales.com
+127.0.0.1	billing.keywordmatters.com
+127.0.0.1	refayn.be8ref7ain.ru
+127.0.0.1	breez5.be8ref7ain.ru
+127.0.0.1	rainel.be8ref7ain.ru
+127.0.0.1	befrin.be8ref7ain.ru
+127.0.0.1	sevyn5.seven5pr2y.ru
+127.0.0.1	venpry.seven5pr2y.ru
+127.0.0.1	pravy2.seven5pr2y.ru
+127.0.0.1	spryn.seven5pr2y.ru
+127.0.0.1	sevray.seven5pr2y.ru
+127.0.0.1	trs.jyhsolucion.ar
+127.0.0.1	trs.whitehallalliance.co.uk
+127.0.0.1	uvelf1.fu1lneve7.ru
+127.0.0.1	flevin.fu1lneve7.ru
+127.0.0.1	lumen7.fu1lneve7.ru
+127.0.0.1	nevar.fu1lneve7.ru
+127.0.0.1	fulen.fu1lneve7.ru
+127.0.0.1	nebpt.b2ptb1ryuk.ru
+127.0.0.1	rybuk7.b2ptb1ryuk.ru
+127.0.0.1	ptarb.b2ptb1ryuk.ru
+127.0.0.1	tapel1.b2ptb1ryuk.ru
 127.0.0.1	bryuk.b2ptb1ryuk.ru
 127.0.0.1	a23.nbdsnb2.top
 127.0.0.1	talcry.decor1cry5t.ru
@@ -48244,40 +48315,4 @@
 127.0.0.1	23-95-197-208.cprapid.com
 127.0.0.1	adfsrss.pullovereshirt.xyz
 127.0.0.1	portal.pullovereshirt.xyz
-127.0.0.1	zvv007n2e9.execute-api.ap-southeast-1.amazonaws.com
-127.0.0.1	29.ip.gl.ply.gg
-127.0.0.1	prior-organizational.gl.at.ply.gg
-127.0.0.1	marianna.hopto.org
-127.0.0.1	sleeperhehehe.duckdns.org
-127.0.0.1	bensassiperson.ddns.net
-127.0.0.1	skills.sytes.net
-127.0.0.1	fadbook.ddns.net
-127.0.0.1	pnrt.kotomari-vn.dev
-127.0.0.1	joshuagrde.shop
-127.0.0.1	sltua.digital
-127.0.0.1	massisv.digital
-127.0.0.1	prmbv.digital
-127.0.0.1	loibgd.digital
-127.0.0.1	wiqvty.digital
-127.0.0.1	aihrws.digital
-127.0.0.1	loppkq.digital
-127.0.0.1	cdztf.digital
-127.0.0.1	buymxl.digital
-127.0.0.1	shouqe.digital
-127.0.0.1	hyperqv.digital
-127.0.0.1	buqtnw.digital
-127.0.0.1	conzjo.digital
-127.0.0.1	deerzha.digital
-127.0.0.1	silkyacvty.top
-127.0.0.1	salkn.digital
-127.0.0.1	peagzxx.digital
-127.0.0.1	payaob.digital
-127.0.0.1	nemzvg.digital
-127.0.0.1	spwha.digital
-127.0.0.1	lumamarket.fun
-127.0.0.1	slqpny.digital
-127.0.0.1	techradar.top
-127.0.0.1	www.judahshop.com
-127.0.0.1	pre-order.chablalker.com
-127.0.0.1	walltechsistem.com
-# Number of entries: 48274
+# Number of entries: 48309
