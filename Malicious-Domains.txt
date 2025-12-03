@@ -1,11 +1,51 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-02 22:01:41 UTC                        #
+# Last updated: 2025-12-03 04:07:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cpy.f1auntre6.ru
+127.0.0.1	9dv8.f1auntre6.ru
+127.0.0.1	magic.f1auntre6.ru
+127.0.0.1	9ujw.de5criptun1ver.ru
+127.0.0.1	pw0kt.de5criptun1ver.ru
+127.0.0.1	7jb.de5criptun1ver.ru
+127.0.0.1	amber.de5criptun1ver.ru
+127.0.0.1	qz6tf.pi1er5pat.ru
+127.0.0.1	1gn.pi1er5pat.ru
+127.0.0.1	beta.pi1er5pat.ru
+127.0.0.1	in7o.pi1er5pat.ru
+127.0.0.1	cil3.lifet1met0rt.ru
+127.0.0.1	3u3.lifet1met0rt.ru
+127.0.0.1	aw.lifet1met0rt.ru
+127.0.0.1	forest.lifet1met0rt.ru
+127.0.0.1	bj4.crust5p1ant.ru
+127.0.0.1	hv.crust5p1ant.ru
+127.0.0.1	5f6.crust5p1ant.ru
+127.0.0.1	storm.crust5p1ant.ru
+127.0.0.1	nova.cheb0t5agit.ru
+127.0.0.1	t77n.cheb0t5agit.ru
+127.0.0.1	gamma.cheb0t5agit.ru
+127.0.0.1	kj4j9.cheb0t5agit.ru
+127.0.0.1	sunny.dur2treces5.ru
+127.0.0.1	snow.dur2treces5.ru
+127.0.0.1	vector.dur2treces5.ru
+127.0.0.1	kxqeq.dur2treces5.ru
+127.0.0.1	y5gxz.em1npe0ny.ru
+127.0.0.1	deep.em1npe0ny.ru
+127.0.0.1	night.em1npe0ny.ru
+127.0.0.1	72.em1npe0ny.ru
+127.0.0.1	9gzt.c0ffee8rind.ru
+127.0.0.1	stone.c0ffee8rind.ru
+127.0.0.1	tn7z.c0ffee8rind.ru
+127.0.0.1	la.c0ffee8rind.ru
+127.0.0.1	spark.deve1ins0le.ru
+127.0.0.1	group.deve1ins0le.ru
+127.0.0.1	z6.deve1ins0le.ru
+127.0.0.1	11qb.deve1ins0le.ru
+127.0.0.1	y54.bana1ity8ed.ru
 127.0.0.1	vn.bana1ity8ed.ru
 127.0.0.1	field.bana1ity8ed.ru
 127.0.0.1	crest.bana1ity8ed.ru
@@ -48311,8 +48351,4 @@
 127.0.0.1	whitesand.codegotech.com
 127.0.0.1	opanbes.com
 127.0.0.1	security.flsecuard.com
-127.0.0.1	ruowa.fedor-turin.ru
-127.0.0.1	23-95-197-208.cprapid.com
-127.0.0.1	adfsrss.pullovereshirt.xyz
-127.0.0.1	portal.pullovereshirt.xyz
-# Number of entries: 48309
+# Number of entries: 48345
