@@ -1,11 +1,42 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-03 10:17:23 UTC                        #
+# Last updated: 2025-12-03 12:33:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	soft.f1y5agacious.ru
+127.0.0.1	bgh8.1ndu5trinsh.ru
+127.0.0.1	gma.1ndu5trinsh.ru
+127.0.0.1	ijry.1ndu5trinsh.ru
+127.0.0.1	6nb.1ndu5trinsh.ru
+127.0.0.1	n9.0prichpe7ch.ru
+127.0.0.1	vuloinsioscollid.duckdns.org
+127.0.0.1	tallymostfavor.duckdns.org
+127.0.0.1	playercollectionpros.duckdns.org
+127.0.0.1	valueforcollections.duckdns.org
+127.0.0.1	manymandyills.duckdns.org
+127.0.0.1	practicalplayercontact.duckdns.org
+127.0.0.1	you-friends.gl.at.ply.gg
+127.0.0.1	qqes.0prichpe7ch.ru
+127.0.0.1	24.0prichpe7ch.ru
+127.0.0.1	e1.0prichpe7ch.ru
+127.0.0.1	delta.lo0kferti1.ru
+127.0.0.1	4dh11.lo0kferti1.ru
+127.0.0.1	0yna.lo0kferti1.ru
+127.0.0.1	86.lo0kferti1.ru
+127.0.0.1	tw926.lu8eti5chkom.ru
+127.0.0.1	sa.lu8eti5chkom.ru
+127.0.0.1	kbrx.lu8eti5chkom.ru
+127.0.0.1	wf.lu8eti5chkom.ru
+127.0.0.1	ndcwsww.com
+127.0.0.1	xiongdaylf.com
+127.0.0.1	xionger.cc
+127.0.0.1	ssllndac.com
+127.0.0.1	oj.c1ubmel0dic.ru
+127.0.0.1	dsourceva.com
+127.0.0.1	aq.c1ubmel0dic.ru
 127.0.0.1	4p2h.c1ubmel0dic.ru
 127.0.0.1	47.c1ubmel0dic.ru
 127.0.0.1	631cf.ant1d5ulphur.ru
@@ -48352,8 +48383,4 @@
 127.0.0.1	rentvillcr.online
 127.0.0.1	unproxy.st
 127.0.0.1	bin.unproxy.st
-127.0.0.1	kubarekauction.com
-127.0.0.1	downloadtech.duckdns.org
-127.0.0.1	mikrusuft.com
-127.0.0.1	3xczyxef1vqnf.cfc-execute.bj.baidubce.com
-# Number of entries: 48350
+# Number of entries: 48377
