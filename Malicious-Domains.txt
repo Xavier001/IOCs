@@ -1,11 +1,88 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-04 12:28:11 UTC                        #
+# Last updated: 2025-12-04 22:07:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	28.darkb1rd.ru
+127.0.0.1	caiip.darkb1rd.ru
+127.0.0.1	lake.darkb1rd.ru
+127.0.0.1	forest.darkb1rd.ru
+127.0.0.1	sunrise.deep0asis.ru
+127.0.0.1	4mjo.deep0asis.ru
+127.0.0.1	fev5.deep0asis.ru
+127.0.0.1	field.deep0asis.ru
+127.0.0.1	jjjgaasda.live
+127.0.0.1	7p1e0901tm70n.cfc-execute.bj.baidubce.com
+127.0.0.1	alpha.ironbl0om.ru
+127.0.0.1	asmweosiqsaaw.com
+127.0.0.1	silent.ironbl0om.ru
+127.0.0.1	apdlive.top
+127.0.0.1	quick.ironbl0om.ru
+127.0.0.1	nimbsjoa.com
+127.0.0.1	deregulatedenergy.com
+127.0.0.1	tmy.ironbl0om.ru
+127.0.0.1	vk8w.st0neleaf.ru
+127.0.0.1	r4.st0neleaf.ru
+127.0.0.1	fk3v.st0neleaf.ru
+127.0.0.1	c1uo.st0neleaf.ru
+127.0.0.1	nv47.dreamc0ast.ru
+127.0.0.1	nc.dreamc0ast.ru
+127.0.0.1	crystal.dreamc0ast.ru
+127.0.0.1	delta.dreamc0ast.ru
+127.0.0.1	ix9.cl0udramble.ru
+127.0.0.1	beta.cl0udramble.ru
+127.0.0.1	lyk4e.cl0udramble.ru
+127.0.0.1	ojlj.cl0udramble.ru
+127.0.0.1	auhf.sunsettrai1.ru
+127.0.0.1	xlnpe-21642.portmap.host
+127.0.0.1	major-barrier.gl.at.ply.gg
+127.0.0.1	making-council.gl.at.ply.gg
+127.0.0.1	blessdx6m50isep.dynuddns.com
+127.0.0.1	hackersda-46118.portmap.host
+127.0.0.1	gamma.sunsettrai1.ru
+127.0.0.1	dg.sunsettrai1.ru
+127.0.0.1	g41i6.sunsettrai1.ru
+127.0.0.1	s8.crystalriver.ru
+127.0.0.1	8czk.crystalriver.ru
+127.0.0.1	river.crystalriver.ru
+127.0.0.1	dark.crystalriver.ru
+127.0.0.1	7e.c0ldstream.ru
+127.0.0.1	myst.c0ldstream.ru
+127.0.0.1	xhmns.c0ldstream.ru
+127.0.0.1	qgvn.c0ldstream.ru
+127.0.0.1	ember.nightblossom.ru
+127.0.0.1	bright.nightblossom.ru
+127.0.0.1	sunny.nightblossom.ru
+127.0.0.1	6hat8.nightblossom.ru
+127.0.0.1	e4hf.stormpiece.ru
+127.0.0.1	dream.stormpiece.ru
+127.0.0.1	booksbypatriciaschultz.com
+127.0.0.1	fsdtiototoitweot.com
+127.0.0.1	mahleinc.com
+127.0.0.1	gqdbvlxq.suprifitas.com
+127.0.0.1	valley.stormpiece.ru
+127.0.0.1	flame.stormpiece.ru
+127.0.0.1	stone.l1ghtwave.ru
+127.0.0.1	og.l1ghtwave.ru
+127.0.0.1	lzsj.l1ghtwave.ru
+127.0.0.1	d4d.automanpk.com
+127.0.0.1	d4d.aqarhoosh.com
+127.0.0.1	gate.l1ghtwave.ru
+127.0.0.1	omega.shadowsprint.ru
+127.0.0.1	gold.shadowsprint.ru
+127.0.0.1	gui.shadowsprint.ru
+127.0.0.1	bk.shadowsprint.ru
+127.0.0.1	5g95w.brightpeak.ru
+127.0.0.1	stream.brightpeak.ru
+127.0.0.1	x78.brightpeak.ru
+127.0.0.1	googlecret.com
+127.0.0.1	2v2.space
+127.0.0.1	09.brightpeak.ru
+127.0.0.1	23ra.b2yh7ean.ru
+127.0.0.1	q7.b2yh7ean.ru
 127.0.0.1	xvv.b2yh7ean.ru
 127.0.0.1	twu.b2yh7ean.ru
 127.0.0.1	5b7q.d1sputl2b.ru
@@ -47469,30 +47546,4 @@
 127.0.0.1	nemaodi.com
 127.0.0.1	robertocalimera.icu
 127.0.0.1	callbak.link.com
-127.0.0.1	timesync-utc.org
-127.0.0.1	ec2-13-229-126-45.ap-southeast-1.compute.amazonaws.com
-127.0.0.1	ec2-54-227-80-194.compute-1.amazonaws.com
-127.0.0.1	51.e1.4t.com
-127.0.0.1	mypopy.ddns.net
-127.0.0.1	djksandjkandsa-58893.portmap.io
-127.0.0.1	e3qieuj3qidwsa-60573.portmap.io
-127.0.0.1	vvvvvvase2314e214re21-22848.portmap.io
-127.0.0.1	aneesh-technomakestbk3.duckdns.org
-127.0.0.1	dreadfulnighttime.ddns.net
-127.0.0.1	hackerhussien00000.no-ip.biz
-127.0.0.1	028.portmap.host
-127.0.0.1	haneyr2.noip.me
-127.0.0.1	hollowin.000webhostapp.com
-127.0.0.1	rxrphar.duckdns.org
-127.0.0.1	xleee90.duckdns.org
-127.0.0.1	algfbg.live
-127.0.0.1	autogearw.live
-127.0.0.1	magwaeg.live
-127.0.0.1	screhwc.live
-127.0.0.1	proccess-verify.com
-127.0.0.1	tqidskreen.top
-127.0.0.1	zmfcc.es
-127.0.0.1	qytwba.anondns.net
-127.0.0.1	hamr.shop
-127.0.0.1	cpanel.doggiefountain.com
-# Number of entries: 47489
+# Number of entries: 47540
