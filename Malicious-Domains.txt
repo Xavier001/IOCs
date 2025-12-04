@@ -1,11 +1,25 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-04 10:17:56 UTC                        #
+# Last updated: 2025-12-04 12:28:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	xvv.b2yh7ean.ru
+127.0.0.1	twu.b2yh7ean.ru
+127.0.0.1	5b7q.d1sputl2b.ru
+127.0.0.1	s9o.d1sputl2b.ru
+127.0.0.1	64m.d1sputl2b.ru
+127.0.0.1	profyfk.click
+127.0.0.1	mb3.d1sputl2b.ru
+127.0.0.1	prqkv.ma5kd7unk.ru
+127.0.0.1	a83.ma5kd7unk.ru
+127.0.0.1	zpj.ma5kd7unk.ru
+127.0.0.1	zp3.ma5kd7unk.ru
+127.0.0.1	vfzkj.f1owreci7at.ru
+127.0.0.1	cloud.f1owreci7at.ru
+127.0.0.1	q4g.f1owreci7at.ru
 127.0.0.1	dp.f1owreci7at.ru
 127.0.0.1	work.c0mpen5ducky.ru
 127.0.0.1	5g.c0mpen5ducky.ru
@@ -47481,4 +47495,4 @@
 127.0.0.1	qytwba.anondns.net
 127.0.0.1	hamr.shop
 127.0.0.1	cpanel.doggiefountain.com
-# Number of entries: 47475
+# Number of entries: 47489
