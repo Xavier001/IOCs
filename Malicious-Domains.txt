@@ -1,11 +1,50 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-03 22:08:15 UTC                        #
+# Last updated: 2025-12-04 04:07:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	6c5k.n2zemt0ler.ru
+127.0.0.1	aighk.it.com
+127.0.0.1	nk.d0nit7then.ru
+127.0.0.1	s1.auv.one
+127.0.0.1	s1.biodog.dpdns.org
+127.0.0.1	ecve.d0nit7then.ru
+127.0.0.1	rwp.d0nit7then.ru
+127.0.0.1	spark.d0nit7then.ru
+127.0.0.1	hzqp.ar2kchd1ans.ru
+127.0.0.1	2vo6.ar2kchd1ans.ru
+127.0.0.1	h83d8.ar2kchd1ans.ru
+127.0.0.1	da.ar2kchd1ans.ru
+127.0.0.1	d6.gend2rlu1l.ru
+127.0.0.1	7dm.gend2rlu1l.ru
+127.0.0.1	ut2.gend2rlu1l.ru
+127.0.0.1	sky.gend2rlu1l.ru
+127.0.0.1	31.getp0ver7y.ru
+127.0.0.1	owl.getp0ver7y.ru
+127.0.0.1	wind.getp0ver7y.ru
+127.0.0.1	ex.getp0ver7y.ru
+127.0.0.1	5o.8oodt1me.ru
+127.0.0.1	l8iwt.8oodt1me.ru
+127.0.0.1	soft.8oodt1me.ru
+127.0.0.1	cloudy.8oodt1me.ru
+127.0.0.1	rrc.nevp0yob5tet.ru
+127.0.0.1	qr4z.nevp0yob5tet.ru
+127.0.0.1	wild.nevp0yob5tet.ru
+127.0.0.1	gate.nevp0yob5tet.ru
+127.0.0.1	fox.rub1er5ane.ru
+127.0.0.1	stone.rub1er5ane.ru
+127.0.0.1	group.rub1er5ane.ru
+127.0.0.1	hip.rub1er5ane.ru
+127.0.0.1	dw.ant1er5noos.ru
+127.0.0.1	deep.ant1er5noos.ru
+127.0.0.1	22754.ant1er5noos.ru
+127.0.0.1	5k.ant1er5noos.ru
+127.0.0.1	hollow.c0uperu8nia.ru
+127.0.0.1	ridge.c0uperu8nia.ru
+127.0.0.1	b3fas.c0uperu8nia.ru
 127.0.0.1	3vc.c0uperu8nia.ru
 127.0.0.1	valley.r2dire5our.ru
 127.0.0.1	light.r2dire5our.ru
@@ -47457,4 +47496,4 @@
 127.0.0.1	security.flagguart.com
 127.0.0.1	masteringjscode.com
 127.0.0.1	kolepz.com
-# Number of entries: 47451
+# Number of entries: 47490
