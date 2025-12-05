@@ -1,15 +1,14 @@
 #domain,ioc
 1258922563-2333n6dmlx.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain
-1310445127-bo78zajqf2.ap-shanghai.tencentscf.com,Possible Cobalt Strike C2 Domain
 1318289497-b40xhuifyy.ap-beijing.tencentscf.com,Possible Cobalt Strike C2 Domain
 2za55fsge8fbj.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain
+374y246zera4r.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain
 3se9ewodke339f0e82.connectivitytests.com,Possible Cobalt Strike C2 Fronted Domain
 51talk.com,Possible Cobalt Strike C2 Fronted Domain
 5ndg65b68274v.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain
 7p1e0901tm70n.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain
 8k8hj9277yjde.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain
 a6gycsh8hr68j.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain
-ac3d0ee370745f757.awsglobalaccelerator.com,Possible Cobalt Strike C2 Domain
 accesserdsc.com,Possible Cobalt Strike C2 Domain
 aliwsapubboce.suning.com,Possible Cobalt Strike C2 Fronted Domain
 antams.com,Possible Cobalt Strike C2 Domain
@@ -27,6 +26,7 @@ azurefree.ignorelist.com,Possible Cobalt Strike C2 Domain
 back.softwarecommerce.net,Possible Cobalt Strike C2 Domain
 backend.datasystemconsulting.com,Possible Cobalt Strike C2 Domain
 backoffice.softwarecommerce.net,Possible Cobalt Strike C2 Domain
+baidu-cdn29.shop,Possible Cobalt Strike C2 Fronted Domain
 bgfi-groupe.com,Possible Cobalt Strike C2 Fronted Domain
 bxmv1taxbxr8p.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain
 catmyinfo.top,Possible Cobalt Strike C2 Domain
@@ -105,7 +105,6 @@ ns1.googleclouds.net,Possible Cobalt Strike C2 Domain
 ns1.gygiuh.online,Possible Cobalt Strike C2 Domain
 ns1.jszwfw.com.cn,Possible Cobalt Strike C2 Domain
 ns1.microoosoft.com,Possible Cobalt Strike C2 Domain
-ns1.nmd5.com,Possible Cobalt Strike C2 Domain
 ns1.nsebseshop.cloud,Possible Cobalt Strike C2 Domain
 ns1.servicedata.services,Possible Cobalt Strike C2 Domain
 ns1.translategoos.com,Possible Cobalt Strike C2 Domain
@@ -119,7 +118,6 @@ ns2.fuckworldxxx.shop,Possible Cobalt Strike C2 Domain
 ns2.googleclouds.net,Possible Cobalt Strike C2 Domain
 ns2.jszwfw.com.cn,Possible Cobalt Strike C2 Domain
 ns2.microoosoft.com,Possible Cobalt Strike C2 Domain
-ns2.nmd5.com,Possible Cobalt Strike C2 Domain
 ns2.nsebseshop.cloud,Possible Cobalt Strike C2 Domain
 ns2.translategoos.com,Possible Cobalt Strike C2 Domain
 ns2.vmupdate.org,Possible Cobalt Strike C2 Domain

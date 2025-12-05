@@ -1,11 +1,28 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-05 10:18:17 UTC                        #
+# Last updated: 2025-12-05 12:27:48 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sbh.shadowstream.ru
+127.0.0.1	flare.shadowstream.ru
+127.0.0.1	sky.r1verstone.ru
+127.0.0.1	ledivineenfant-60344.portmap.host
+127.0.0.1	medloqservices.com
+127.0.0.1	e2cw.r1verstone.ru
+127.0.0.1	td.r1verstone.ru
+127.0.0.1	ps31j.r1verstone.ru
+127.0.0.1	r8uw.cl0udwave.ru
+127.0.0.1	zkc.cl0udwave.ru
+127.0.0.1	vk.automanpk.com
+127.0.0.1	vk.btreena.com
+127.0.0.1	ar0r8.cl0udwave.ru
+127.0.0.1	lk.cl0udwave.ru
+127.0.0.1	hcinz.darkc0re.ru
+127.0.0.1	beta.darkc0re.ru
+127.0.0.1	nmj.darkc0re.ru
 127.0.0.1	hobmjoi.click
 127.0.0.1	56p3d.darkc0re.ru
 127.0.0.1	elastolutdoc.duckdns.org
@@ -47621,14 +47638,4 @@
 127.0.0.1	peppinqikp.xyz
 127.0.0.1	loadsmods.net
 127.0.0.1	blindbut.icu
-127.0.0.1	domaincrop.fun
-127.0.0.1	plaxyrj.run
-127.0.0.1	runtnwq.run
-127.0.0.1	tyrpsrl.live
-127.0.0.1	wepwwd.live
-127.0.0.1	arcticprivate.duckdns.go
-127.0.0.1	arcticprivate.duckdns.org
-127.0.0.1	net.drillrp.com
-127.0.0.1	krakep.duckdns.org
-127.0.0.1	shop.xuebimc.com
-# Number of entries: 47625
+# Number of entries: 47632
