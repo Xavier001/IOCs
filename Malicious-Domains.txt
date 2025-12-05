@@ -1,11 +1,102 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-05 12:27:48 UTC                        #
+# Last updated: 2025-12-05 22:08:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	flame.re1iabteady.ru
+127.0.0.1	9wf.re1iabteady.ru
+127.0.0.1	clear.buddco1lect0r.ru
+127.0.0.1	dark.buddco1lect0r.ru
+127.0.0.1	e37.buddco1lect0r.ru
+127.0.0.1	stone.buddco1lect0r.ru
+127.0.0.1	pb4.ei8htyern1k.ru
+127.0.0.1	wild.ei8htyern1k.ru
+127.0.0.1	8r3y.ei8htyern1k.ru
+127.0.0.1	frost.ei8htyern1k.ru
+127.0.0.1	bright.agr0chem1nter.ru
+127.0.0.1	alpha.agr0chem1nter.ru
+127.0.0.1	spark.agr0chem1nter.ru
+127.0.0.1	tur.agr0chem1nter.ru
+127.0.0.1	light.bi2sedm0uth.ru
+127.0.0.1	tg.bi2sedm0uth.ru
+127.0.0.1	ry.bi2sedm0uth.ru
+127.0.0.1	hill.bi2sedm0uth.ru
+127.0.0.1	xt5t8.oceanflare.ru
+127.0.0.1	2m42p.oceanflare.ru
+127.0.0.1	grqd.oceanflare.ru
+127.0.0.1	d10.oceanflare.ru
+127.0.0.1	lcontrols7.online
+127.0.0.1	lcontrols6.online
+127.0.0.1	lcontrols5.online
+127.0.0.1	lcontrols4.online
+127.0.0.1	lcontrols3.online
+127.0.0.1	lcontrols2.online
+127.0.0.1	r1.st0rmwave.ru
+127.0.0.1	lcontrols9.online
+127.0.0.1	lcontrols8.online
+127.0.0.1	lcontrol-1.online
+127.0.0.1	2ro.st0rmwave.ru
+127.0.0.1	lcontrols9.ru
+127.0.0.1	lcontrols10.ru
+127.0.0.1	lcontrols8.ru
+127.0.0.1	lcontrols7.ru
+127.0.0.1	lcontrols6.ru
+127.0.0.1	lcontrols5.ru
+127.0.0.1	lcontrols4.ru
+127.0.0.1	linhxasro.com
+127.0.0.1	sessionsverificatise.live
+127.0.0.1	sessionsverificatse.live
+127.0.0.1	hppro1.hpnu.cn
+127.0.0.1	mike-dozens.gl.at.ply.gg
+127.0.0.1	wrufkhnwc.localto.net
+127.0.0.1	privatedns.b3tter.online
+127.0.0.1	100testtt.duckdns.org
+127.0.0.1	eg1.st0rmwave.ru
+127.0.0.1	reduction-atlas-services-mechanisms.trycloudflare.com
+127.0.0.1	ua7.st0rmwave.ru
+127.0.0.1	33wk.silentm1st.ru
+127.0.0.1	69.silentm1st.ru
+127.0.0.1	vt.silentm1st.ru
+127.0.0.1	39.silentm1st.ru
+127.0.0.1	dxtt.firecrest.ru
+127.0.0.1	wju.firecrest.ru
+127.0.0.1	rzv.firecrest.ru
+127.0.0.1	forest.firecrest.ru
+127.0.0.1	h3.darkh1ll.ru
+127.0.0.1	iqurf.darkh1ll.ru
+127.0.0.1	dods.fern-estates.com
+127.0.0.1	sso.fern-estates.com
+127.0.0.1	pas.fern-estates.com
+127.0.0.1	outk.fern-estates.com
+127.0.0.1	sci.fern-estates.com
+127.0.0.1	graph.fern-estates.com
+127.0.0.1	o.fern-estates.com
+127.0.0.1	conquestcourier.testingweblink.com
+127.0.0.1	buzzglobal.testingweblink.com
+127.0.0.1	qualitia.testingweblink.com
+127.0.0.1	xd.darkh1ll.ru
+127.0.0.1	nova.darkh1ll.ru
+127.0.0.1	fd.windbr1dge.ru
+127.0.0.1	wave.windbr1dge.ru
+127.0.0.1	svqwb.windbr1dge.ru
+127.0.0.1	yt6sz.windbr1dge.ru
+127.0.0.1	dc.nightc0de.ru
+127.0.0.1	z38u.nightc0de.ru
+127.0.0.1	hz7en.nightc0de.ru
+127.0.0.1	ib.nightc0de.ru
+127.0.0.1	0vp7.softw1nd.ru
+127.0.0.1	vla6j.softw1nd.ru
+127.0.0.1	cp.softw1nd.ru
+127.0.0.1	326.softw1nd.ru
+127.0.0.1	gsj.m1ntbyte.ru
+127.0.0.1	m3.m1ntbyte.ru
+127.0.0.1	hill.m1ntbyte.ru
+127.0.0.1	frost.m1ntbyte.ru
+127.0.0.1	storm.shadowstream.ru
+127.0.0.1	0up.shadowstream.ru
 127.0.0.1	sbh.shadowstream.ru
 127.0.0.1	flare.shadowstream.ru
 127.0.0.1	sky.r1verstone.ru
@@ -47622,20 +47713,4 @@
 127.0.0.1	security.flaeregaurde.com
 127.0.0.1	depsox.com
 127.0.0.1	ns1.admlistdel.com
-127.0.0.1	3gvvbrdve1gqr.cfc-execute.bj.baidubce.com
-127.0.0.1	3.cc.4t.com
-127.0.0.1	51.e2.4t.com
-127.0.0.1	edgepocket.info
-127.0.0.1	29a472b675379a4.homes
-127.0.0.1	29a472b675379a4.click
-127.0.0.1	29a472b675379a4.net
-127.0.0.1	29a472b675379a4.com
-127.0.0.1	a9d2b15fbed0ca9.click
-127.0.0.1	a9d2b15fbed0ca9.homes
-127.0.0.1	cpanel.imirp.co.uk
-127.0.0.1	claudeprofiling.com
-127.0.0.1	stochalyqp.xyz
-127.0.0.1	peppinqikp.xyz
-127.0.0.1	loadsmods.net
-127.0.0.1	blindbut.icu
-# Number of entries: 47632
+# Number of entries: 47707
