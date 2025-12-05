@@ -1,11 +1,70 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-05 04:07:50 UTC                        #
+# Last updated: 2025-12-05 10:18:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hobmjoi.click
+127.0.0.1	56p3d.darkc0re.ru
+127.0.0.1	elastolutdoc.duckdns.org
+127.0.0.1	eltesoro000.dynuddns.com
+127.0.0.1	50625.client.sudorat.ru
+127.0.0.1	50625.client.sudorat.top
+127.0.0.1	draft22.redirectme.net
+127.0.0.1	telechea123.dynuddns.com
+127.0.0.1	brownandgraymusic.com
+127.0.0.1	gatex.brownandgraymusic.com
+127.0.0.1	myfile.mywire.org
+127.0.0.1	omega.crystalwind.ru
+127.0.0.1	7h7gd.crystalwind.ru
+127.0.0.1	tv.crystalwind.ru
+127.0.0.1	m0tad.crystalwind.ru
+127.0.0.1	b9j.wildrange.ru
+127.0.0.1	stone.wildrange.ru
+127.0.0.1	6p.wildrange.ru
+127.0.0.1	hdzr.wildrange.ru
+127.0.0.1	bn.automanpk.com
+127.0.0.1	bn.btreena.com
+127.0.0.1	djv.deepc1iff.ru
+127.0.0.1	shadow.deepc1iff.ru
+127.0.0.1	nimeshpatel.in.net
+127.0.0.1	malware.nimeshpatel.in.net
+127.0.0.1	mint.deepc1iff.ru
+127.0.0.1	kla.deepc1iff.ru
+127.0.0.1	6mfff.cloudm1nt.ru
+127.0.0.1	silent.cloudm1nt.ru
+127.0.0.1	c1m.cloudm1nt.ru
+127.0.0.1	gatw7.cloudm1nt.ru
+127.0.0.1	womp.datasurge.vip
+127.0.0.1	w2z.f1rebyte.ru
+127.0.0.1	range.f1rebyte.ru
+127.0.0.1	mm.f1rebyte.ru
+127.0.0.1	kbbet777.net
+127.0.0.1	secretcryptos.com
+127.0.0.1	malware.kbbet777.net
+127.0.0.1	phishing.kbbet777.net
+127.0.0.1	request.affiliatesalesagent.com
+127.0.0.1	crystal.f1rebyte.ru
+127.0.0.1	night.st0neforest.ru
+127.0.0.1	delta.st0neforest.ru
+127.0.0.1	738n.st0neforest.ru
+127.0.0.1	gamma.st0neforest.ru
+127.0.0.1	wild.rainb1te.ru
+127.0.0.1	clients.enigmasolutions.xyz
+127.0.0.1	monbondns.duckdns.org
+127.0.0.1	bridge.rainb1te.ru
+127.0.0.1	river.rainb1te.ru
+127.0.0.1	7zos4.rainb1te.ru
+127.0.0.1	huh7f.m1stysun.ru
+127.0.0.1	idsb.m1stysun.ru
+127.0.0.1	yoeo7.m1stysun.ru
+127.0.0.1	bright.m1stysun.ru
+127.0.0.1	cloud.softcrest.ru
+127.0.0.1	1u.softcrest.ru
+127.0.0.1	sun.softcrest.ru
+127.0.0.1	flame.softcrest.ru
 127.0.0.1	drv.n1ghtstone.ru
 127.0.0.1	soft.n1ghtstone.ru
 127.0.0.1	ocean.n1ghtstone.ru
@@ -47572,14 +47631,4 @@
 127.0.0.1	net.drillrp.com
 127.0.0.1	krakep.duckdns.org
 127.0.0.1	shop.xuebimc.com
-127.0.0.1	super.mrflame.cfd
-127.0.0.1	microsofte.zapto.org
-127.0.0.1	bravo-rewards.com
-127.0.0.1	chat.mrflame.cfd
-127.0.0.1	basicvitals.com
-127.0.0.1	mastercardkeys.world
-127.0.0.1	jetjetbrzil.shop
-127.0.0.1	security.guaedfleres.com
-127.0.0.1	nemaodi.com
-127.0.0.1	robertocalimera.icu
-# Number of entries: 47576
+# Number of entries: 47625
