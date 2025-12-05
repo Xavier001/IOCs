@@ -1,11 +1,48 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-04 22:07:59 UTC                        #
+# Last updated: 2025-12-05 04:07:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	drv.n1ghtstone.ru
+127.0.0.1	soft.n1ghtstone.ru
+127.0.0.1	ocean.n1ghtstone.ru
+127.0.0.1	4zt.n1ghtstone.ru
+127.0.0.1	wind.silverh1ll.ru
+127.0.0.1	fqz.silverh1ll.ru
+127.0.0.1	8q1qk.silverh1ll.ru
+127.0.0.1	cloud.silverh1ll.ru
+127.0.0.1	www.vxucqb.dpdns.org
+127.0.0.1	leaf.s0ftbyte.ru
+127.0.0.1	spark.s0ftbyte.ru
+127.0.0.1	4vc.s0ftbyte.ru
+127.0.0.1	g5wyk.s0ftbyte.ru
+127.0.0.1	trail.softr1ver.ru
+127.0.0.1	light.softr1ver.ru
+127.0.0.1	house.softr1ver.ru
+127.0.0.1	ss7e.softr1ver.ru
+127.0.0.1	crest.riverl1ght.ru
+127.0.0.1	b0.riverl1ght.ru
+127.0.0.1	ox.riverl1ght.ru
+127.0.0.1	mist.riverl1ght.ru
+127.0.0.1	i2.windshift.ru
+127.0.0.1	frost.windshift.ru
+127.0.0.1	ma.windshift.ru
+127.0.0.1	x5ust.windshift.ru
+127.0.0.1	nova.brightf1eld.ru
+127.0.0.1	2lkz.brightf1eld.ru
+127.0.0.1	dawn.brightf1eld.ru
+127.0.0.1	bxq.brightf1eld.ru
+127.0.0.1	bd.brightl1ne.ru
+127.0.0.1	bloom.brightl1ne.ru
+127.0.0.1	gxjo.brightl1ne.ru
+127.0.0.1	cliff.brightl1ne.ru
+127.0.0.1	shift.stoneh0use.ru
+127.0.0.1	shadow.stoneh0use.ru
+127.0.0.1	v0k6.stoneh0use.ru
+127.0.0.1	hmo.stoneh0use.ru
 127.0.0.1	28.darkb1rd.ru
 127.0.0.1	caiip.darkb1rd.ru
 127.0.0.1	lake.darkb1rd.ru
@@ -47545,5 +47582,4 @@
 127.0.0.1	security.guaedfleres.com
 127.0.0.1	nemaodi.com
 127.0.0.1	robertocalimera.icu
-127.0.0.1	callbak.link.com
-# Number of entries: 47540
+# Number of entries: 47576
