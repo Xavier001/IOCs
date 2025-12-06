@@ -1,11 +1,49 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-05 22:08:58 UTC                        #
+# Last updated: 2025-12-06 04:07:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	4t2.inc1inedn0n.ru
+127.0.0.1	5gz.inc1inedn0n.ru
+127.0.0.1	xbex.in0cubwal1.ru
+127.0.0.1	storm.in0cubwal1.ru
+127.0.0.1	vbor.in0cubwal1.ru
+127.0.0.1	deep.in0cubwal1.ru
+127.0.0.1	bkj3.not0r5atush.ru
+127.0.0.1	1s.not0r5atush.ru
+127.0.0.1	uxsplooler.online
+127.0.0.1	wwt.not0r5atush.ru
+127.0.0.1	6a.not0r5atush.ru
+127.0.0.1	crest.hea1t5ultan.ru
+127.0.0.1	t7z.hea1t5ultan.ru
+127.0.0.1	c27.hea1t5ultan.ru
+127.0.0.1	20.hea1t5ultan.ru
+127.0.0.1	thz.c7ucifto1nov.ru
+127.0.0.1	ru3.c7ucifto1nov.ru
+127.0.0.1	delta.c7ucifto1nov.ru
+127.0.0.1	kx.c7ucifto1nov.ru
+127.0.0.1	sun.ind1sset5.ru
+127.0.0.1	a8.ind1sset5.ru
+127.0.0.1	crystal.ind1sset5.ru
+127.0.0.1	6uyj.ind1sset5.ru
+127.0.0.1	dll32s.lat
+127.0.0.1	dmh.f2rcegro0m.ru
+127.0.0.1	mist.f2rcegro0m.ru
+127.0.0.1	h1.f2rcegro0m.ru
+127.0.0.1	cwtw5.f2rcegro0m.ru
+127.0.0.1	guard.getr18ht.ru
+127.0.0.1	8s.getr18ht.ru
+127.0.0.1	at0.getr18ht.ru
+127.0.0.1	0icfl.getr18ht.ru
+127.0.0.1	0m95l.st2rudmu7t.ru
+127.0.0.1	wave.st2rudmu7t.ru
+127.0.0.1	ocean.st2rudmu7t.ru
+127.0.0.1	bridge.st2rudmu7t.ru
+127.0.0.1	6cm1.re1iabteady.ru
+127.0.0.1	zmj0.re1iabteady.ru
 127.0.0.1	flame.re1iabteady.ru
 127.0.0.1	9wf.re1iabteady.ru
 127.0.0.1	clear.buddco1lect0r.ru
@@ -47712,5 +47750,4 @@
 127.0.0.1	www.cuoreincomune.com
 127.0.0.1	security.flaeregaurde.com
 127.0.0.1	depsox.com
-127.0.0.1	ns1.admlistdel.com
-# Number of entries: 47707
+# Number of entries: 47744
