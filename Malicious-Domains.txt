@@ -1,11 +1,26 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-06 09:41:50 UTC                        #
+# Last updated: 2025-12-06 12:11:15 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	alza7f.localto.net
+127.0.0.1	fi.derayat.com
+127.0.0.1	spc.jp.net
+127.0.0.1	malware.spc.jp.net
+127.0.0.1	phishing.spc.jp.net
+127.0.0.1	balajibalamurugan.in.net
+127.0.0.1	motphimchillz.uk
+127.0.0.1	v3.motphimchillz.uk
+127.0.0.1	content-distribution-v2.pro
+127.0.0.1	different-ncaa.gl.at.ply.gg
+127.0.0.1	5.tcp.ngrok.io
+127.0.0.1	industrial-listed.gl.at.ply.gg
+127.0.0.1	animals-geology.gl.at.ply.gg
+127.0.0.1	ebay-worked.gl.at.ply.gg
+127.0.0.1	twistz69-34948.portmap.host
 127.0.0.1	v2.www.cascaderelief.org
 127.0.0.1	v3.www.cascaderelief.org
 127.0.0.1	v3.motchilltv.bot
@@ -66,12 +81,15 @@
 127.0.0.1	h1.f2rcegro0m.ru
 127.0.0.1	cwtw5.f2rcegro0m.ru
 127.0.0.1	guard.getr18ht.ru
+127.0.0.1	vimsltd.com
 127.0.0.1	8s.getr18ht.ru
 127.0.0.1	at0.getr18ht.ru
+127.0.0.1	relativeplanning.com
 127.0.0.1	0icfl.getr18ht.ru
 127.0.0.1	0m95l.st2rudmu7t.ru
 127.0.0.1	wave.st2rudmu7t.ru
 127.0.0.1	ocean.st2rudmu7t.ru
+127.0.0.1	bookcaptchaextranet.cfd
 127.0.0.1	bridge.st2rudmu7t.ru
 127.0.0.1	6cm1.re1iabteady.ru
 127.0.0.1	zmj0.re1iabteady.ru
@@ -93,9 +111,20 @@
 127.0.0.1	tg.bi2sedm0uth.ru
 127.0.0.1	ry.bi2sedm0uth.ru
 127.0.0.1	hill.bi2sedm0uth.ru
+127.0.0.1	www-youtube-com-watchvideo.cfd
+127.0.0.1	account-bookscaptcha.com
+127.0.0.1	account-bookpulse.icu
 127.0.0.1	xt5t8.oceanflare.ru
+127.0.0.1	bookcaptchasync.com
+127.0.0.1	account-bookupdate.cfd
+127.0.0.1	munichmotorsport.com
 127.0.0.1	2m42p.oceanflare.ru
+127.0.0.1	clinicasdorim.com.br
+127.0.0.1	translacat.com
+127.0.0.1	nsgrafica.ao
+127.0.0.1	lowcountrygrapevines.com
 127.0.0.1	grqd.oceanflare.ru
+127.0.0.1	sentidoseguros.com.br
 127.0.0.1	d10.oceanflare.ru
 127.0.0.1	lcontrols7.online
 127.0.0.1	lcontrols6.online
@@ -47757,8 +47786,4 @@
 127.0.0.1	ivan-turgenev.pro
 127.0.0.1	vladimir-nabokov.online
 127.0.0.1	www.publynx.com
-127.0.0.1	pulseriseglobal.com
-127.0.0.1	administration-ssa-gov.3d-proseriseconn.com
-127.0.0.1	masterclaserok.ddns-ip.net
-127.0.0.1	fethifethi.zapto.org
-# Number of entries: 47755
+# Number of entries: 47780
