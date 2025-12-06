@@ -1,11 +1,42 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-06 04:07:46 UTC                        #
+# Last updated: 2025-12-06 09:41:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	v2.www.cascaderelief.org
+127.0.0.1	v3.www.cascaderelief.org
+127.0.0.1	v3.motchilltv.bot
+127.0.0.1	v2.motchilltv.bot
+127.0.0.1	motchilltv.bot
+127.0.0.1	56h.ba7bdecep.ru
+127.0.0.1	omega.ba7bdecep.ru
+127.0.0.1	6c.c2nce1rarity.ru
+127.0.0.1	river.c2nce1rarity.ru
+127.0.0.1	gix.c2nce1rarity.ru
+127.0.0.1	vti.c2nce1rarity.ru
+127.0.0.1	gamma.po0f5hleika.ru
+127.0.0.1	ember.po0f5hleika.ru
+127.0.0.1	bcev3.po0f5hleika.ru
+127.0.0.1	ocb.po0f5hleika.ru
+127.0.0.1	t0.c0nden5easy.ru
+127.0.0.1	40p9e.c0nden5easy.ru
+127.0.0.1	74.c0nden5easy.ru
+127.0.0.1	wegame.sytes.net
+127.0.0.1	insidious764-41058.portmap.host
+127.0.0.1	jy3j.c0nden5easy.ru
+127.0.0.1	beta.tr2ct0rbuild.ru
+127.0.0.1	night.tr2ct0rbuild.ru
+127.0.0.1	zk.tr2ct0rbuild.ru
+127.0.0.1	wgig.tr2ct0rbuild.ru
+127.0.0.1	n5uw1.sc0rp5koroh.ru
+127.0.0.1	vector.sc0rp5koroh.ru
+127.0.0.1	1ikx.sc0rp5koroh.ru
+127.0.0.1	xrw.sc0rp5koroh.ru
+127.0.0.1	ddu2.inc1inedn0n.ru
+127.0.0.1	forest.inc1inedn0n.ru
 127.0.0.1	4t2.inc1inedn0n.ru
 127.0.0.1	5gz.inc1inedn0n.ru
 127.0.0.1	xbex.in0cubwal1.ru
@@ -47730,24 +47761,4 @@
 127.0.0.1	administration-ssa-gov.3d-proseriseconn.com
 127.0.0.1	masterclaserok.ddns-ip.net
 127.0.0.1	fethifethi.zapto.org
-127.0.0.1	diamotrix.world
-127.0.0.1	diamotrix.club
-127.0.0.1	lepidobdkn.digital
-127.0.0.1	rock-layer.gl.at.ply.gg
-127.0.0.1	yourmomishighoncrack-29827.portmap.io
-127.0.0.1	www.adityabirlia.com
-127.0.0.1	www.fjsanchaz.com
-127.0.0.1	toolkidi.iptime.org
-127.0.0.1	prismware.cf
-127.0.0.1	yearofair.club
-127.0.0.1	rat13.zapto.org
-127.0.0.1	gou.xiaogoubi.top
-127.0.0.1	windows.driversact.store
-127.0.0.1	b1.parsleyhandbook.life
-127.0.0.1	h4.wiryexclusion.top
-127.0.0.1	relay.thepcboy.com
-127.0.0.1	789pettoys.shop
-127.0.0.1	www.cuoreincomune.com
-127.0.0.1	security.flaeregaurde.com
-127.0.0.1	depsox.com
-# Number of entries: 47744
+# Number of entries: 47755
