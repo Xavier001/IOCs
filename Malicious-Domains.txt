@@ -1,11 +1,30 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-06 20:02:52 UTC                        #
+# Last updated: 2025-12-07 06:02:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	yopaxif225-50693.portmap.host
+127.0.0.1	g7cnfrcns.localto.net
+127.0.0.1	ritualex.com
+127.0.0.1	lols-esports.com
+127.0.0.1	trimed.com.au
+127.0.0.1	sureclear.com.au
+127.0.0.1	buckscountytaxattorney.com
+127.0.0.1	musl.site
+127.0.0.1	travelmix.ch
+127.0.0.1	karminis.ch
+127.0.0.1	aiboxs.click
+127.0.0.1	cans.systems
+127.0.0.1	tophygiene.co.uk
+127.0.0.1	sparklemyhome.net
+127.0.0.1	innov8league.com
+127.0.0.1	smokefreehousinginfo.com
+127.0.0.1	storysavers.in
+127.0.0.1	suketiawan.com
+127.0.0.1	g-terrace.net
 127.0.0.1	brightway-tn.com
 127.0.0.1	starjunky.com
 127.0.0.1	cmk.nebula.africa
@@ -47327,78 +47346,4 @@
 127.0.0.1	prior-automotive.gl.at.ply.gg
 127.0.0.1	image-quote.gl.at.ply.gg
 127.0.0.1	lsdmetin2.duckdns.org
-127.0.0.1	tools-helicopter.gl.at.ply.gg
-127.0.0.1	puppyluv645cmdoc-37214.portmap.io
-127.0.0.1	rekrra.run
-127.0.0.1	elite-vpn.com
-127.0.0.1	cf-session.cloud
-127.0.0.1	nagato.selfip.com
-127.0.0.1	ext.vavestudios.com
-127.0.0.1	www.urniture-upholstery-legacy.sbs
-127.0.0.1	www.vcimo.tech
-127.0.0.1	www.wxwhl.xyz
-127.0.0.1	www.ymmetrysocial.net
-127.0.0.1	www.z81q.top
-127.0.0.1	www.zura88.net
-127.0.0.1	www.itmartv3c9.top
-127.0.0.1	www.ivineexperience.biz
-127.0.0.1	www.jmfk.top
-127.0.0.1	www.lambro.net
-127.0.0.1	www.lusf.website
-127.0.0.1	www.ndpoint.email
-127.0.0.1	www.ndresilas.net
-127.0.0.1	www.nm3x9et8h8l0.xyz
-127.0.0.1	www.ocaj.top
-127.0.0.1	www.od19.cloud
-127.0.0.1	www.oldpoint.info
-127.0.0.1	www.oonsprout.art
-127.0.0.1	www.osmeticsshopbackend.click
-127.0.0.1	www.ospital-care-us-tr-89642.click
-127.0.0.1	www.parewheel.shop
-127.0.0.1	www.pzjd.town
-127.0.0.1	www.qx9yc7.shop
-127.0.0.1	www.ramana.law
-127.0.0.1	www.teelmason.dev
-127.0.0.1	www.tudioblijmetklei.online
-127.0.0.1	www.u-21.fun
-127.0.0.1	www.uanpian.vip
-127.0.0.1	www.urenorthanalytics.net
-127.0.0.1	www.arterellie.shop
-127.0.0.1	www.atchme.xyz
-127.0.0.1	www.atexenerji.xyz
-127.0.0.1	www.atherine-racette.net
-127.0.0.1	www.ave.world
-127.0.0.1	www.avesnap.online
-127.0.0.1	www.axroofing.biz
-127.0.0.1	www.clhja897iluhd.xyz
-127.0.0.1	www.eet-new-people-16978.bond
-127.0.0.1	www.ental-implants-21479.bond
-127.0.0.1	www.ev77.top
-127.0.0.1	www.ewelryphukien.shop
-127.0.0.1	www.ewmore.store
-127.0.0.1	www.fjhh.top
-127.0.0.1	www.gsp601.top
-127.0.0.1	www.hecreativo.online
-127.0.0.1	www.hemassageroom.info
-127.0.0.1	www.hgaragedoors.online
-127.0.0.1	www.hietbilamdep.cloud
-127.0.0.1	www.ia.fyi
-127.0.0.1	www.inimaljungle.shop
-127.0.0.1	www.4250029.xyz
-127.0.0.1	www.4260333.xyz
-127.0.0.1	www.4260620.xyz
-127.0.0.1	www.4271195.xyz
-127.0.0.1	www.42fhm.top
-127.0.0.1	www.58338.app
-127.0.0.1	www.7ftbd.sbs
-127.0.0.1	www.7ock.sbs
-127.0.0.1	www.89f.uno
-127.0.0.1	www.95337.shop
-127.0.0.1	www.9hz6dwkrqjtlci.skin
-127.0.0.1	www.am99.club
-127.0.0.1	www.ancunairporttaxi.net
-127.0.0.1	now-latin.gl.at.ply.gg
-127.0.0.1	relay.shipperzone.online
-127.0.0.1	security.flerashields.com
-127.0.0.1	azeqope.com
-# Number of entries: 47395
+# Number of entries: 47340
