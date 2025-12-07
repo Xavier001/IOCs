@@ -1,11 +1,81 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-07 06:02:14 UTC                        #
+# Last updated: 2025-12-07 12:24:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hestiapanel.xyz
+127.0.0.1	screenconnect.support
+127.0.0.1	server1magazine.com
+127.0.0.1	myexodus.app
+127.0.0.1	dropctf.live
+127.0.0.1	children-gel.gl.at.ply.gg
+127.0.0.1	library-med.gl.joinmc.link
+127.0.0.1	www.envio25.xyz
+127.0.0.1	kfz4gvwg6.localto.net
+127.0.0.1	karma0.xyz
+127.0.0.1	sqwqwasresbkng.com
+127.0.0.1	mousycyminays.com
+127.0.0.1	apekafilokreilosaka.com
+127.0.0.1	archikobalkrtiloka.com
+127.0.0.1	amicostrevelkrot.com
+127.0.0.1	tokaritokloiuer.com
+127.0.0.1	bikolasdikolertaa.com
+127.0.0.1	v3.www.brainspinesurgery.com
+127.0.0.1	ditmemaytuimayau88ngu.shilohbn.ru.com
+127.0.0.1	fuckgoogle.shilohbn.ru.com
+127.0.0.1	google.shilohbn.ru.com
+127.0.0.1	malware.shilohbn.ru.com
+127.0.0.1	porn.shilohbn.ru.com
+127.0.0.1	sex.shilohbn.ru.com
+127.0.0.1	v2.www.brainspinesurgery.com
+127.0.0.1	malware.f8bet.gr.com
+127.0.0.1	multiplayer-games-online.pandajogosgratis.com
+127.0.0.1	psynovareal.ddns.net
+127.0.0.1	gatex.vosillustration.logocravings.com
+127.0.0.1	gatex.workflows.edmdroid.com
+127.0.0.1	gatex.www.atlbbqfest.com
+127.0.0.1	gatex.www.everybodyeveryone.com
+127.0.0.1	gatex.www.franksndawgs.com
+127.0.0.1	gatex.www.iamerinbrown.info
+127.0.0.1	gatex.www.mipatriaecuador.com
+127.0.0.1	gatex.www.monitorduty.com
+127.0.0.1	gatex.www.rogerperrybook.com
+127.0.0.1	gatex.www.springhousepress.com
+127.0.0.1	gatex.www.uwff.com
+127.0.0.1	gatex.fieldblue.logocravings.com
+127.0.0.1	gatex.fighterpilotuniversity.com
+127.0.0.1	gatex.git.peteralanlloyd.com
+127.0.0.1	gatex.graffitinyc.com
+127.0.0.1	gatex.mail.richardstjohn.com
+127.0.0.1	gatex.new.logocravings.com
+127.0.0.1	gatex.nightmarerecords.com
+127.0.0.1	gatex.pandajogosgratis.com
+127.0.0.1	gatex.perdre-la-raison.com
+127.0.0.1	gatex.peteralanlloyd.com
+127.0.0.1	gatex.sitemaps.butchvoices.com
+127.0.0.1	fieldblue.logocravings.com
+127.0.0.1	fighterpilotuniversity.com
+127.0.0.1	gatex.bullstreetgourmetandmarket.lautrec.info
+127.0.0.1	gatex.cagis.pandajogosgratis.com
+127.0.0.1	gatex.cakhiatv.video
+127.0.0.1	gatex.cakhiatv.watch
+127.0.0.1	gatex.cakhiatvb.com
+127.0.0.1	gatex.cakhiatvd.com
+127.0.0.1	gatex.cakhiatvl.com
+127.0.0.1	gatex.cakhiatvx.com
+127.0.0.1	gatex.copenhagenclimatecouncil.com
+127.0.0.1	gatex.dynamicsyntax.org
+127.0.0.1	bullstreetgourmetandmarket.lautrec.info
+127.0.0.1	cagis.pandajogosgratis.com
+127.0.0.1	cakhiatv.video
+127.0.0.1	cakhiatv.watch
+127.0.0.1	cakhiatvb.com
+127.0.0.1	cakhiatvd.com
+127.0.0.1	copenhagenclimatecouncil.com
+127.0.0.1	dynamicsyntax.org
 127.0.0.1	yopaxif225-50693.portmap.host
 127.0.0.1	g7cnfrcns.localto.net
 127.0.0.1	ritualex.com
@@ -47342,8 +47412,4 @@
 127.0.0.1	valeasy.zapto.org
 127.0.0.1	v7fwtc200m4n.cfc-execute.bj.baidubce.com
 127.0.0.1	shop.enaz.shop
-127.0.0.1	rootoverflow.pro
-127.0.0.1	prior-automotive.gl.at.ply.gg
-127.0.0.1	image-quote.gl.at.ply.gg
-127.0.0.1	lsdmetin2.duckdns.org
-# Number of entries: 47340
+# Number of entries: 47406
