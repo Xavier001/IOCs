@@ -1,11 +1,31 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-09 10:20:21 UTC                        #
+# Last updated: 2025-12-09 12:27:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ember.con8ratgr2de.ru
+127.0.0.1	b2q.con8ratgr2de.ru
+127.0.0.1	light.con8ratgr2de.ru
+127.0.0.1	iceiiskeng.com
+127.0.0.1	kycb.ddns.net
+127.0.0.1	kali.hackcom.org
+127.0.0.1	mal.hackcom.org
+127.0.0.1	hqo7.con8ratgr2de.ru
+127.0.0.1	trace.ine7tinve7.ru
+127.0.0.1	spark.ine7tinve7.ru
+127.0.0.1	hvpri.ine7tinve7.ru
+127.0.0.1	vector.ine7tinve7.ru
+127.0.0.1	gate.akmei5mh0t.ru
+127.0.0.1	ng.akmei5mh0t.ru
+127.0.0.1	clear.akmei5mh0t.ru
+127.0.0.1	xi4l.akmei5mh0t.ru
+127.0.0.1	beta.in5istle5s.ru
+127.0.0.1	delta.in5istle5s.ru
+127.0.0.1	deep.in5istle5s.ru
+127.0.0.1	dark.in5istle5s.ru
 127.0.0.1	3azj.c0nfirmlo0k.ru
 127.0.0.1	54gbp.c0nfirmlo0k.ru
 127.0.0.1	nova.c0nfirmlo0k.ru
@@ -50243,36 +50263,4 @@
 127.0.0.1	poxtlb.shop
 127.0.0.1	prihxo.shop
 127.0.0.1	files.myamericanmadestory.com
-127.0.0.1	favgqu.shop
-127.0.0.1	wilvrdu.top
-127.0.0.1	plapwf.top
-127.0.0.1	abezgec.top
-127.0.0.1	totalqt.xyz
-127.0.0.1	lixkyf.xyz
-127.0.0.1	opalxrr.xyz
-127.0.0.1	shutvg.xyz
-127.0.0.1	wellrmy.xyz
-127.0.0.1	frustreghm.xyz
-127.0.0.1	countrnncn.xyz
-127.0.0.1	kinwlyo.xyz
-127.0.0.1	coedxz.xyz
-127.0.0.1	cryymd.xyz
-127.0.0.1	geglrx.xyz
-127.0.0.1	swydug.xyz
-127.0.0.1	psalgd.xyz
-127.0.0.1	totplh.xyz
-127.0.0.1	garexqz.xyz
-127.0.0.1	fullnjd.xyz
-127.0.0.1	herwxtx.xyz
-127.0.0.1	thicew.xyz
-127.0.0.1	wojbi.xyz
-127.0.0.1	dicyth.xyz
-127.0.0.1	stomrnd.xyz
-127.0.0.1	bevm.fun
-127.0.0.1	playontoy.run
-127.0.0.1	lasbmt.xyz
-127.0.0.1	miyelv.xyz
-127.0.0.1	jailykingi.site
-127.0.0.1	wbvhelp.top
-127.0.0.1	hotel.wildhorsehotel.net
-# Number of entries: 50269
+# Number of entries: 50257
