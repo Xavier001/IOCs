@@ -1,11 +1,88 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-10 12:27:12 UTC                        #
+# Last updated: 2025-12-10 22:08:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nexus.velvetecho.ru
+127.0.0.1	m727.velvetecho.ru
+127.0.0.1	muddle.velvetecho.ru
+127.0.0.1	rv.pip-etalon.ru
+127.0.0.1	alpha.pip-etalon.ru
+127.0.0.1	draft.pip-etalon.ru
+127.0.0.1	mu.pip-etalon.ru
+127.0.0.1	snibble.gl1mmerset.ru
+127.0.0.1	shift.gl1mmerset.ru
+127.0.0.1	echo.gl1mmerset.ru
+127.0.0.1	qmmj.gl1mmerset.ru
+127.0.0.1	1rr.s0apcluster.ru
+127.0.0.1	gamma.s0apcluster.ru
+127.0.0.1	aiwcp.s0apcluster.ru
+127.0.0.1	t8.s0apcluster.ru
+127.0.0.1	ku.crankmuddle.ru
+127.0.0.1	soap.crankmuddle.ru
+127.0.0.1	beta.crankmuddle.ru
+127.0.0.1	quartz.crankmuddle.ru
+127.0.0.1	enj.fu5spurch2s.ru
+127.0.0.1	ad1u.fu5spurch2s.ru
+127.0.0.1	i2.fu5spurch2s.ru
+127.0.0.1	pd.fu5spurch2s.ru
+127.0.0.1	cee.fe2rsos5is.ru
+127.0.0.1	light.fe2rsos5is.ru
+127.0.0.1	dle5u.fe2rsos5is.ru
+127.0.0.1	y6k8.org
+127.0.0.1	druwwtsas.duckdns.org
+127.0.0.1	xxblessingsinabundance.duckdns.org
+127.0.0.1	xxblessingsinabundant.duckdns.org
+127.0.0.1	cumasinavillageherdinauwangbedekanyiwelu.duckdns.org
+127.0.0.1	1haldmdpz.localto.net
+127.0.0.1	xxpeszmtf.localto.net
+127.0.0.1	vertex-optimizing.with.playit.plus
+127.0.0.1	57r.fe2rsos5is.ru
+127.0.0.1	dbry.bel1etin7eg.ru
+127.0.0.1	kcwx.bel1etin7eg.ru
+127.0.0.1	i62yv.bel1etin7eg.ru
+127.0.0.1	nen.bel1etin7eg.ru
+127.0.0.1	1t.ma5cotw2ter.ru
+127.0.0.1	oipolfield.com
+127.0.0.1	jer.demisemarzban.top
+127.0.0.1	jer.firsttech-llc.com
+127.0.0.1	ex6.ma5cotw2ter.ru
+127.0.0.1	ef.ma5cotw2ter.ru
+127.0.0.1	yqz.ma5cotw2ter.ru
+127.0.0.1	wa1s.b1asfi7ty.ru
+127.0.0.1	9r5b.b1asfi7ty.ru
+127.0.0.1	beta.b1asfi7ty.ru
+127.0.0.1	greenmosaic.testingweblink.com
+127.0.0.1	spark.b1asfi7ty.ru
+127.0.0.1	river.h0bbittr0ts.ru
+127.0.0.1	ssh.nobbos-team-lol.xyz
+127.0.0.1	vector.h0bbittr0ts.ru
+127.0.0.1	check.office365-update.com
+127.0.0.1	bridge.h0bbittr0ts.ru
+127.0.0.1	forest.h0bbittr0ts.ru
+127.0.0.1	ep8.lett5p0st.ru
+127.0.0.1	q7q.lett5p0st.ru
+127.0.0.1	pixel.lett5p0st.ru
+127.0.0.1	gamma.lett5p0st.ru
+127.0.0.1	37haj.adm1tdebu8.ru
+127.0.0.1	ix2s.adm1tdebu8.ru
+127.0.0.1	te9d.adm1tdebu8.ru
+127.0.0.1	7n5st.adm1tdebu8.ru
+127.0.0.1	ee3.gu1enme5ti.ru
+127.0.0.1	ad6.gu1enme5ti.ru
+127.0.0.1	8p.gu1enme5ti.ru
+127.0.0.1	account-captcha.eu
+127.0.0.1	kiraww.com
+127.0.0.1	tom.demisemarzban.top
+127.0.0.1	cqwrb.gu1enme5ti.ru
+127.0.0.1	mint.b0uncerco1d.ru
+127.0.0.1	sky.b0uncerco1d.ru
+127.0.0.1	tom.firsttech-llc.com
+127.0.0.1	umv.b0uncerco1d.ru
+127.0.0.1	l0eq.b0uncerco1d.ru
 127.0.0.1	ynge.lab0urun1n.ru
 127.0.0.1	lzcea.lab0urun1n.ru
 127.0.0.1	5vs.lab0urun1n.ru
@@ -50697,19 +50774,4 @@
 127.0.0.1	salmonqw.live
 127.0.0.1	netgizmow.live
 127.0.0.1	deviatemow.live
-127.0.0.1	tao081018.ddnsfree.com
-127.0.0.1	ns2.stack-drive.com
-127.0.0.1	ns1.stack-drive.com
-127.0.0.1	microsoftdatacenter-57447.portmap.io
-127.0.0.1	mylol-28375.portmap.io
-127.0.0.1	labina.work.gd
-127.0.0.1	cjfrde8g2386q.cfc-execute.bj.baidubce.com
-127.0.0.1	advertipros.com
-127.0.0.1	dev.couplesparks.com
-127.0.0.1	auto-london.gl.at.ply.gg
-127.0.0.1	huge-description.gl.at.ply.gg
-127.0.0.1	date-enclosed.gl.at.ply.gg
-127.0.0.1	xeilodaa-38185.portmap.io
-127.0.0.1	crazydns.bumbleshrimp.com
-127.0.0.1	zzylos.ddns.net
-# Number of entries: 50706
+# Number of entries: 50768
