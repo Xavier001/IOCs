@@ -1,11 +1,29 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-10 10:22:46 UTC                        #
+# Last updated: 2025-12-10 12:27:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ynge.lab0urun1n.ru
+127.0.0.1	lzcea.lab0urun1n.ru
+127.0.0.1	5vs.lab0urun1n.ru
+127.0.0.1	luvic1de.duckdns.org
+127.0.0.1	sw0ar.lab0urun1n.ru
+127.0.0.1	ai5.bene1i8ht.ru
+127.0.0.1	1tz1u.bene1i8ht.ru
+127.0.0.1	2pao.bene1i8ht.ru
+127.0.0.1	tenergymanagement.com
+127.0.0.1	8b0ng.bene1i8ht.ru
+127.0.0.1	9j9y4.c2prrai1.ru
+127.0.0.1	bright.c2prrai1.ru
+127.0.0.1	clear.c2prrai1.ru
+127.0.0.1	zbci.c2prrai1.ru
+127.0.0.1	f9.m2kebo1d.ru
+127.0.0.1	yhsi2.m2kebo1d.ru
+127.0.0.1	night.m2kebo1d.ru
+127.0.0.1	storm.m2kebo1d.ru
 127.0.0.1	lw.dia1ecgoo5e.ru
 127.0.0.1	alpha.dia1ecgoo5e.ru
 127.0.0.1	35kd.dia1ecgoo5e.ru
@@ -50694,8 +50712,4 @@
 127.0.0.1	xeilodaa-38185.portmap.io
 127.0.0.1	crazydns.bumbleshrimp.com
 127.0.0.1	zzylos.ddns.net
-127.0.0.1	venecia.club
-127.0.0.1	uzlehalo.duckdns.org
-127.0.0.1	1sou.top
-127.0.0.1	apex-consultant.com
-# Number of entries: 50692
+# Number of entries: 50706
