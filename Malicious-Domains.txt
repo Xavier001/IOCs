@@ -1,11 +1,62 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-09 22:08:28 UTC                        #
+# Last updated: 2025-12-10 04:17:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	trace.hex-wander.ru
+127.0.0.1	pattern.hex-wander.ru
+127.0.0.1	test.download1818.com
+127.0.0.1	shift.hex-wander.ru
+127.0.0.1	draft22.duckdns.org
+127.0.0.1	gamma.patterjack.ru
+127.0.0.1	r15u.patterjack.ru
+127.0.0.1	b3xts.patterjack.ru
+127.0.0.1	api-logs-b794.onrender.com
+127.0.0.1	duedilligence.com.au
+127.0.0.1	ifg.testingweblink.com
+127.0.0.1	analytics.sentihey.dedyn.io
+127.0.0.1	infozzle.testingweblink.com
+127.0.0.1	motphimchilli.uk
+127.0.0.1	motphimr.co
+127.0.0.1	kuban.ru.com
+127.0.0.1	login.kuban.ru.com
+127.0.0.1	possibleresc.com
+127.0.0.1	duu.patterjack.ru
+127.0.0.1	xydizainten.org
+127.0.0.1	n1.fr-1-zzlepit.ru
+127.0.0.1	nova.fr-1-zzlepit.ru
+127.0.0.1	q9x.fr-1-zzlepit.ru
+127.0.0.1	mkst8.fr-1-zzlepit.ru
+127.0.0.1	hj2c.fr1zzlepit.ru
+127.0.0.1	u5x.fr1zzlepit.ru
+127.0.0.1	xr.fr1zzlepit.ru
+127.0.0.1	27.fr1zzlepit.ru
+127.0.0.1	3s.g0bcrumb.ru
+127.0.0.1	7a0xj.g0bcrumb.ru
+127.0.0.1	jumble.g0bcrumb.ru
+127.0.0.1	7dbj.g0bcrumb.ru
+127.0.0.1	hex.twirlpane.ru
+127.0.0.1	wander.twirlpane.ru
+127.0.0.1	1euk.twirlpane.ru
+127.0.0.1	beta.twirlpane.ru
+127.0.0.1	weird.twirl-pane.ru
+127.0.0.1	pixel.twirl-pane.ru
+127.0.0.1	bit.twirl-pane.ru
+127.0.0.1	myaccount.sentihey.dedyn.io
+127.0.0.1	jt5.twirl-pane.ru
+127.0.0.1	v5.quirkpaste.ru
+127.0.0.1	dizzy.quirkpaste.ru
+127.0.0.1	o27y.quirkpaste.ru
+127.0.0.1	crumb.quirkpaste.ru
+127.0.0.1	glitch.quirk-paste.ru
+127.0.0.1	97dz.quirk-paste.ru
+127.0.0.1	jack.quirk-paste.ru
+127.0.0.1	bv.quirk-paste.ru
+127.0.0.1	0gays.siickhorn.ru
+127.0.0.1	warp.siickhorn.ru
 127.0.0.1	mw.siickhorn.ru
 127.0.0.1	frizzle.siickhorn.ru
 127.0.0.1	7is1.bl0bspinner.ru
@@ -50495,7 +50546,6 @@
 127.0.0.1	spectrum-ticket.net
 127.0.0.1	pahther-confins.com
 127.0.0.1	extraanet-groups.com
-127.0.0.1	reviewe-statusofpay.com
 127.0.0.1	partnet72k23id.com
 127.0.0.1	reservhub764574.com
 127.0.0.1	rsvn-extrnt.com
@@ -50508,15 +50558,9 @@
 127.0.0.1	appmacosx.com
 127.0.0.1	macosxapp.com
 127.0.0.1	macosapp-apple.com
-127.0.0.1	ncmtraders.com
-127.0.0.1	a82523.top
 127.0.0.1	downloadfreak.top
 127.0.0.1	jazzcafeposk.org
 127.0.0.1	msfed.optimumcs.org
 127.0.0.1	id.optimumcs.org
 127.0.0.1	cloud.optimumcs.org
-127.0.0.1	api.cdn-zoom-cloudflare.live
-127.0.0.1	38y1qea3nzt8e.cfc-execute.bj.baidubce.com
-127.0.0.1	s16.service-tiktok.cam
-127.0.0.1	b9c17ffc.host.njalla.net
-# Number of entries: 50513
+# Number of entries: 50557
