@@ -1,11 +1,30 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-11 10:18:22 UTC                        #
+# Last updated: 2025-12-11 12:28:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ocean.f1ippme7re.ru
+127.0.0.1	lxp1.f1ippme7re.ru
+127.0.0.1	flip.f1ippme7re.ru
+127.0.0.1	field.f1ippme7re.ru
+127.0.0.1	i1.bra9lupt5ev.ru
+127.0.0.1	fbk.bra9lupt5ev.ru
+127.0.0.1	tqe.bra9lupt5ev.ru
+127.0.0.1	f0.bra9lupt5ev.ru
+127.0.0.1	648.r0cketf2rm.ru
+127.0.0.1	cdr.r0cketf2rm.ru
+127.0.0.1	delta.r0cketf2rm.ru
+127.0.0.1	letter.r0cketf2rm.ru
+127.0.0.1	pixel.f1ukomki5s.ru
+127.0.0.1	mist.f1ukomki5s.ru
+127.0.0.1	wza.f1ukomki5s.ru
+127.0.0.1	bgmb.f1ukomki5s.ru
+127.0.0.1	5oj6.effu5rep7eh.ru
+127.0.0.1	flame.effu5rep7eh.ru
+127.0.0.1	byte.effu5rep7eh.ru
 127.0.0.1	v8r7.effu5rep7eh.ru
 127.0.0.1	omega.chel0be7upt.ru
 127.0.0.1	rocket.chel0be7upt.ru
@@ -51013,4 +51032,4 @@
 127.0.0.1	hvc.adcsa.org
 127.0.0.1	ntzljkg5d.localto.net
 127.0.0.1	6gpwqae72132.cfc-execute.gz.baidubce.com
-# Number of entries: 51007
+# Number of entries: 51026
