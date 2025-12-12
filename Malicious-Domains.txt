@@ -1,11 +1,28 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-12 10:18:51 UTC                        #
+# Last updated: 2025-12-12 12:27:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nh60c.mounta1npath.ru
+127.0.0.1	asirojointofucks.com
+127.0.0.1	neurolattice.com
+127.0.0.1	core.mounta1npath.ru
+127.0.0.1	s9i01.mounta1npath.ru
+127.0.0.1	register.spc.jp.net
+127.0.0.1	k38.deepbreez3.ru
+127.0.0.1	baritale.com
+127.0.0.1	8wp1.deepbreez3.ru
+127.0.0.1	stone.deepbreez3.ru
+127.0.0.1	field.deepbreez3.ru
+127.0.0.1	z24rf.mistyshore.ru
+127.0.0.1	q71t.mistyshore.ru
+127.0.0.1	ue.mistyshore.ru
+127.0.0.1	shore.mistyshore.ru
+127.0.0.1	fox.clears0ft.ru
+127.0.0.1	jt77.clears0ft.ru
 127.0.0.1	3e.clears0ft.ru
 127.0.0.1	drift.clears0ft.ru
 127.0.0.1	zgeg.forestcl0ud.ru
@@ -51337,36 +51354,4 @@
 127.0.0.1	2tct76626.fartit.com
 127.0.0.1	cdn.co-operativefinance.com
 127.0.0.1	mxgv2mct-8083.usw3.devtunnels.ms
-127.0.0.1	sbexv.xyz
-127.0.0.1	bowoqur.xyz
-127.0.0.1	centjp.xyz
-127.0.0.1	coqqxn.xyz
-127.0.0.1	cobxlm.xyz
-127.0.0.1	proqei.xyz
-127.0.0.1	canpnh.xyz
-127.0.0.1	decmzf.xyz
-127.0.0.1	caltgc.xyz
-127.0.0.1	immkay.xyz
-127.0.0.1	config-edge-assets.live
-127.0.0.1	showing-bl-order-skiing.trycloudflare.com
-127.0.0.1	scary-halo-designing-time.trycloudflare.com
-127.0.0.1	ears-circus-cam-lake.trycloudflare.com
-127.0.0.1	reached-loose-cashiers-logic.trycloudflare.com
-127.0.0.1	never-powered-agency-hear.trycloudflare.com
-127.0.0.1	obs-studio.live
-127.0.0.1	streamcore.pro
-127.0.0.1	fb-extension.com
-127.0.0.1	instchr.icu
-127.0.0.1	aderir.com
-127.0.0.1	producto.mueblesaccesoriosxi.com
-127.0.0.1	propios.gleeze.com
-127.0.0.1	usuariofebrero25.dedyn.io
-127.0.0.1	vectorwod.vectorwod.com
-127.0.0.1	butbot.ddns.net
-127.0.0.1	fusion-api.nl
-127.0.0.1	hihi.trumdvfb.com
-127.0.0.1	nmsl.cnmnm.top
-127.0.0.1	testbotgame.zapto.org
-127.0.0.1	envio1010.duckdns.org
-127.0.0.1	envio1919.duckdns.org
-# Number of entries: 51363
+# Number of entries: 51348
