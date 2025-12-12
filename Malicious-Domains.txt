@@ -1,11 +1,52 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-11 22:07:36 UTC                        #
+# Last updated: 2025-12-12 04:18:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	dh28.s0ftcrest.ru
+127.0.0.1	hill.s0ftcrest.ru
+127.0.0.1	testcuncr.testingweblink.com
+127.0.0.1	cwscj.stonec0re.ru
+127.0.0.1	69z.stonec0re.ru
+127.0.0.1	ocean.stonec0re.ru
+127.0.0.1	tur.stonec0re.ru
+127.0.0.1	breeze.br1ghtstorm.ru
+127.0.0.1	k1v5q.br1ghtstorm.ru
+127.0.0.1	a72o.br1ghtstorm.ru
+127.0.0.1	up.mcprotocol.cn
+127.0.0.1	c2.tiktok-js.top
+127.0.0.1	snow.br1ghtstorm.ru
+127.0.0.1	4b.cloudpeak.ru
+127.0.0.1	7iwp.cloudpeak.ru
+127.0.0.1	bright.cloudpeak.ru
+127.0.0.1	qk8q.cloudpeak.ru
+127.0.0.1	ukd0.saffron-dent.ru
+127.0.0.1	jitter.saffron-dent.ru
+127.0.0.1	cobble.saffron-dent.ru
+127.0.0.1	2njv.saffron-dent.ru
+127.0.0.1	d8iw.saffrondent.ru
+127.0.0.1	sn7.saffrondent.ru
+127.0.0.1	pq.saffrondent.ru
+127.0.0.1	qmolq.saffrondent.ru
+127.0.0.1	i4o3.twig-mantle.ru
+127.0.0.1	bf1.twig-mantle.ru
+127.0.0.1	dlnd.twig-mantle.ru
+127.0.0.1	shackle.twig-mantle.ru
+127.0.0.1	qwg6.orbshackle.ru
+127.0.0.1	g1gq.orbshackle.ru
+127.0.0.1	loom.orbshackle.ru
+127.0.0.1	vex.orbshackle.ru
+127.0.0.1	alpha.orb-shackle.ru
+127.0.0.1	v8.orb-shackle.ru
+127.0.0.1	cc.orb-shackle.ru
+127.0.0.1	clink.orb-shackle.ru
+127.0.0.1	2v.cl1nkbarge.ru
+127.0.0.1	ijct.cl1nkbarge.ru
+127.0.0.1	x7xh.cl1nkbarge.ru
+127.0.0.1	wztbj.cl1nkbarge.ru
 127.0.0.1	mantle.pr0wlmint.ru
 127.0.0.1	dxd.pr0wlmint.ru
 127.0.0.1	delta.pr0wlmint.ru
@@ -51111,4 +51152,4 @@
 127.0.0.1	security.fgoarrdes.com
 127.0.0.1	peosiv.com
 127.0.0.1	10.aa.uploadraja.com
-# Number of entries: 51105
+# Number of entries: 51146
