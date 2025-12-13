@@ -1,11 +1,74 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-13 12:27:54 UTC                        #
+# Last updated: 2025-12-13 22:11:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	2df.zigm0scope.ru
+127.0.0.1	le2.zigm0scope.ru
+127.0.0.1	zig.quench-orbit.ru
+127.0.0.1	h7rl1.quench-orbit.ru
+127.0.0.1	alpha.quench-orbit.ru
+127.0.0.1	delta.quench-orbit.ru
+127.0.0.1	volt.m1xthatch.ru
+127.0.0.1	5br.m1xthatch.ru
+127.0.0.1	kettle.m1xthatch.ru
+127.0.0.1	thatch.m1xthatch.ru
+127.0.0.1	psmds.br1stlefax.ru
+127.0.0.1	ped.br1stlefax.ru
+127.0.0.1	plum.br1stlefax.ru
+127.0.0.1	spark.br1stlefax.ru
+127.0.0.1	github.u9myanmar.store
+127.0.0.1	credcoopbeneficios.shop
+127.0.0.1	warp.paperknurl.ru
+127.0.0.1	wisp.paperknurl.ru
+127.0.0.1	4zx.paperknurl.ru
+127.0.0.1	6rr5.paperknurl.ru
+127.0.0.1	silk.ciears0ft.ru
+127.0.0.1	hush2.ciears0ft.ru
+127.0.0.1	plush.ciears0ft.ru
+127.0.0.1	satin.ciears0ft.ru
+127.0.0.1	haze.hiiistorm.ru
+127.0.0.1	squall2.hiiistorm.ru
+127.0.0.1	thunder.hiiistorm.ru
+127.0.0.1	surge.hiiistorm.ru
+127.0.0.1	nightmare6732-46415.portmap.host
+127.0.0.1	glare3.m1stycl0ud.ru
+127.0.0.1	zenith.m1stycl0ud.ru
+127.0.0.1	azur.m1stycl0ud.ru
+127.0.0.1	wisp5.m1stycl0ud.ru
+127.0.0.1	mist.m1stycl0ud.ru
+127.0.0.1	rime.fr0stgate.ru
+127.0.0.1	hoar2.fr0stgate.ru
+127.0.0.1	firn.fr0stgate.ru
+127.0.0.1	basin2.rockfieid.ru
+127.0.0.1	quarry.rockfieid.ru
+127.0.0.1	ledge.rockfieid.ru
+127.0.0.1	delta.deepbreeze.ru
+127.0.0.1	fjord1.deepbreeze.ru
+127.0.0.1	zephyr.deepbreeze.ru
+127.0.0.1	grove.deepbreeze.ru
+127.0.0.1	noct.n1ghtwave.ru
+127.0.0.1	swell4.n1ghtwave.ru
+127.0.0.1	crest.n1ghtwave.ru
+127.0.0.1	nimbus3.stormpixei.ru
+127.0.0.1	aurora.stormpixei.ru
+127.0.0.1	drift2.stormpixei.ru
+127.0.0.1	glint.stormpixei.ru
+127.0.0.1	squall.stormpixei.ru
+127.0.0.1	weft.tangleflux.ru
+127.0.0.1	snarl.tangleflux.ru
+127.0.0.1	eddy.tangleflux.ru
+127.0.0.1	whip.tangleflux.ru
+127.0.0.1	braid.tangleflux.ru
+127.0.0.1	spar.plume-anchor.ru
+127.0.0.1	boom.plume-anchor.ru
+127.0.0.1	rope.plume-anchor.ru
+127.0.0.1	dock.plume-anchor.ru
+127.0.0.1	maw.c1rclefang.ru
+127.0.0.1	prong.c1rclefang.ru
 127.0.0.1	gnash.c1rclefang.ru
 127.0.0.1	orbit.c1rclefang.ru
 127.0.0.1	seal.hollow-zip.ru
@@ -51364,19 +51427,4 @@
 127.0.0.1	cas-aws.optimumcs.org
 127.0.0.1	fokeniz.com
 127.0.0.1	security.gyqardfilares.com
-127.0.0.1	something-newfoundland.gl.at.ply.gg
-127.0.0.1	soskaxasy.duckdns.org
-127.0.0.1	warzones12.duckdns.org
-127.0.0.1	procesoexitos1.duckdns.org
-127.0.0.1	informesespeciales123.duckdns.org
-127.0.0.1	newrecaerga1.duckdns.org
-127.0.0.1	companianuevoano.duckdns.org
-127.0.0.1	estreno1-caso.duckdns.org
-127.0.0.1	mariocar1406.duckdns.org
-127.0.0.1	iyrdadxx.ddns.net
-127.0.0.1	nadine21347-42251.portmap.io
-127.0.0.1	football-wonder.gl.at.ply.gg
-127.0.0.1	app.qms2go.com
-127.0.0.1	universaltechnology.top
-127.0.0.1	northwindimmigration.com
-# Number of entries: 51373
+# Number of entries: 51421
