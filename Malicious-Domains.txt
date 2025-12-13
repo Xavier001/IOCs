@@ -1,11 +1,47 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-12 22:07:57 UTC                        #
+# Last updated: 2025-12-13 04:08:02 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	h819.hi8hmu1berry.ru
+127.0.0.1	nx.hi8hmu1berry.ru
+127.0.0.1	i5xu.sc2ntrepid2t.ru
+127.0.0.1	flare.sc2ntrepid2t.ru
+127.0.0.1	iyp61.sc2ntrepid2t.ru
+127.0.0.1	deep.sc2ntrepid2t.ru
+127.0.0.1	w10ok.f1ercen1ivin.ru
+127.0.0.1	yxvgh.f1ercen1ivin.ru
+127.0.0.1	champ.f1ercen1ivin.ru
+127.0.0.1	zh8qj.f1ercen1ivin.ru
+127.0.0.1	fh9.f0undst2rve.ru
+127.0.0.1	blood.f0undst2rve.ru
+127.0.0.1	8y.f0undst2rve.ru
+127.0.0.1	dsav5.f0undst2rve.ru
+127.0.0.1	crest.p2rabpr0nos.ru
+127.0.0.1	book.p2rabpr0nos.ru
+127.0.0.1	di.p2rabpr0nos.ru
+127.0.0.1	dz4y1.p2rabpr0nos.ru
+127.0.0.1	lqd.champm2loma1.ru
+127.0.0.1	wy1.champm2loma1.ru
+127.0.0.1	ocean.champm2loma1.ru
+127.0.0.1	shadow.champm2loma1.ru
+127.0.0.1	z6.neur0l5uptn.ru
+127.0.0.1	bridge.neur0l5uptn.ru
+127.0.0.1	light.neur0l5uptn.ru
+127.0.0.1	yzmbi.neur0l5uptn.ru
+127.0.0.1	storm.c0nju8maraf.ru
+127.0.0.1	wild.c0nju8maraf.ru
+127.0.0.1	guard.c0nju8maraf.ru
+127.0.0.1	trace.c0nju8maraf.ru
+127.0.0.1	spark.f1fthudde7.ru
+127.0.0.1	jtp4r.f1fthudde7.ru
+127.0.0.1	ember.f1fthudde7.ru
+127.0.0.1	2ic.f1fthudde7.ru
+127.0.0.1	neuro.b0okca7niv.ru
+127.0.0.1	byte.b0okca7niv.ru
 127.0.0.1	zeq3.b0okca7niv.ru
 127.0.0.1	mint.b0okca7niv.ru
 127.0.0.1	sabr6.b1o0dmanneq.ru
@@ -51359,4 +51395,4 @@
 127.0.0.1	popcies.com
 127.0.0.1	ananalyticsnodes.com
 127.0.0.1	jenkins.diteng.site
-# Number of entries: 51353
+# Number of entries: 51389
