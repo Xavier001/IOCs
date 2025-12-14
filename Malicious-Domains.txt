@@ -1,11 +1,48 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-13 22:11:29 UTC                        #
+# Last updated: 2025-12-14 04:13:08 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	89pdo.kettlewisp.ru
+127.0.0.1	r2k.kettlewisp.ru
+127.0.0.1	beta.kettlewisp.ru
+127.0.0.1	ajpl.ripple-cask.ru
+127.0.0.1	glitch.ripple-cask.ru
+127.0.0.1	75z.ripple-cask.ru
+127.0.0.1	d6gu.ripple-cask.ru
+127.0.0.1	orbit.v0lticrum.ru
+127.0.0.1	vjsjr.v0lticrum.ru
+127.0.0.1	v7rg.v0lticrum.ru
+127.0.0.1	nova.v0lticrum.ru
+127.0.0.1	h4o.snare-plum.ru
+127.0.0.1	qfbmr.snare-plum.ru
+127.0.0.1	paper.snare-plum.ru
+127.0.0.1	trace.snare-plum.ru
+127.0.0.1	fax.gl1tchloam.ru
+127.0.0.1	sp5.gl1tchloam.ru
+127.0.0.1	xc2i.gl1tchloam.ru
+127.0.0.1	pkxq.gl1tchloam.ru
+127.0.0.1	rfz.snareplum.ru
+127.0.0.1	hth.snareplum.ru
+127.0.0.1	patch.snareplum.ru
+127.0.0.1	vx7.snareplum.ru
+127.0.0.1	bmz0.ripplecask.ru
+127.0.0.1	omega.ripplecask.ru
+127.0.0.1	crum.ripplecask.ru
+127.0.0.1	ripple.ripplecask.ru
+127.0.0.1	33zy.quenchorbit.ru
+127.0.0.1	jd.quenchorbit.ru
+127.0.0.1	knurl.quenchorbit.ru
+127.0.0.1	gamma.quenchorbit.ru
+127.0.0.1	3mu0h.paper-knurl.ru
+127.0.0.1	94u4p.paper-knurl.ru
+127.0.0.1	pixel.paper-knurl.ru
+127.0.0.1	shift.paper-knurl.ru
+127.0.0.1	tkn.zigm0scope.ru
+127.0.0.1	tureq.zigm0scope.ru
 127.0.0.1	2df.zigm0scope.ru
 127.0.0.1	le2.zigm0scope.ru
 127.0.0.1	zig.quench-orbit.ru
@@ -51427,4 +51464,4 @@
 127.0.0.1	cas-aws.optimumcs.org
 127.0.0.1	fokeniz.com
 127.0.0.1	security.gyqardfilares.com
-# Number of entries: 51421
+# Number of entries: 51458
