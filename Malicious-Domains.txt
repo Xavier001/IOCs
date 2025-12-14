@@ -1,11 +1,75 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-14 12:27:37 UTC                        #
+# Last updated: 2025-12-14 22:08:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	squall.f1restorm.ru
+127.0.0.1	flare1.f1restorm.ru
+127.0.0.1	ember.f1restorm.ru
+127.0.0.1	sun.cliffbright.ru
+127.0.0.1	brink.cliffbright.ru
+127.0.0.1	ridge3.cliffbright.ru
+127.0.0.1	ledge.cliffbright.ru
+127.0.0.1	egqfg1ah2lbhoksjmxz30w==
+127.0.0.1	frost.darkmint.ru
+127.0.0.1	glade.darkmint.ru
+127.0.0.1	herb2.darkmint.ru
+127.0.0.1	noct.darkmint.ru
+127.0.0.1	shade.darkp1xel.ru
+127.0.0.1	delta5.darkp1xel.ru
+127.0.0.1	gamma.darkp1xel.ru
+127.0.0.1	noir.darkp1xel.ru
+127.0.0.1	slate.bluest0ne.ru
+127.0.0.1	azure2.bluest0ne.ru
+127.0.0.1	cobalt.bluest0ne.ru
+127.0.0.1	chill.frostc0re.ru
+127.0.0.1	firn3.frostc0re.ru
+127.0.0.1	hoar.frostc0re.ru
+127.0.0.1	rime.frostc0re.ru
+127.0.0.1	satin.softdr1ve.ru
+127.0.0.1	velvet.softdr1ve.ru
+127.0.0.1	plush2.softdr1ve.ru
+127.0.0.1	1.tcp.jp.ngrok.io
+127.0.0.1	francaeso-ctrik-51614.portmap.host
+127.0.0.1	grenki2005-34712.portmap.host
+127.0.0.1	centre-instruction.gl.at.ply.gg
+127.0.0.1	soulnxc-62104.portmap.host
+127.0.0.1	silk.softdr1ve.ru
+127.0.0.1	zeph.skytrac5.ru
+127.0.0.1	trail.skytrac5.ru
+127.0.0.1	apex4.skytrac5.ru
+127.0.0.1	glide.skytrac5.ru
+127.0.0.1	strat.skytrac5.ru
+127.0.0.1	crest.storml1nk.ru
+127.0.0.1	arc2.storml1nk.ru
+127.0.0.1	bolt.storml1nk.ru
+127.0.0.1	squall.storml1nk.ru
+127.0.0.1	draft.windc0de.ru
+127.0.0.1	cycl1e.windc0de.ru
+127.0.0.1	gust.windc0de.ru
+127.0.0.1	route.netw1ng.ru
+127.0.0.1	hub.netw1ng.ru
+127.0.0.1	link3.netw1ng.ru
+127.0.0.1	mesh.netw1ng.ru
+127.0.0.1	zeph1r.mintst0rm.ru
+127.0.0.1	breeze.mintst0rm.ru
+127.0.0.1	herb.mintst0rm.ru
+127.0.0.1	nexus.bytefl0w.ru
+127.0.0.1	trace.bytefl0w.ru
+127.0.0.1	flux2.bytefl0w.ru
+127.0.0.1	byte.bytefl0w.ru
+127.0.0.1	shard.datash1ft.ru
+127.0.0.1	index.datash1ft.ru
+127.0.0.1	cache.datash1ft.ru
+127.0.0.1	stream3.datash1ft.ru
+127.0.0.1	delta.datash1ft.ru
+127.0.0.1	zen.cloudv1be.ru
+127.0.0.1	altos.cloudv1be.ru
+127.0.0.1	nimbus5.cloudv1be.ru
+127.0.0.1	cirrus.cloudv1be.ru
 127.0.0.1	6ifg.mistybyte.ru
 127.0.0.1	whx.mistybyte.ru
 127.0.0.1	tq.mistybyte.ru
@@ -51508,19 +51572,4 @@
 127.0.0.1	www.waydownk.org
 127.0.0.1	svchost.iqiyia.top
 127.0.0.1	optimosphere.com
-127.0.0.1	fierdevivre.duckdns.org
-127.0.0.1	embargogo2378.duckdns.org
-127.0.0.1	forsondu92.duckdns.org
-127.0.0.1	aprcare.help
-127.0.0.1	aryxnw.xyz
-127.0.0.1	nil.group.found
-127.0.0.1	joshuasmith-59211.portmap.io
-127.0.0.1	mersenne502.noip.me
-127.0.0.1	izumi-test.f5.si
-127.0.0.1	sigmaboi.duckdns.org
-127.0.0.1	leedelectronics.top
-127.0.0.1	mail.leedelectronics.top
-127.0.0.1	pidorasina.ru
-127.0.0.1	emailreddit.com
-127.0.0.1	web.hvgeb.top
-# Number of entries: 51517
+# Number of entries: 51566
