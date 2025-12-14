@@ -1,11 +1,62 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-14 04:13:08 UTC                        #
+# Last updated: 2025-12-14 10:05:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wt.clearl1ne.ru
+127.0.0.1	lj.clearl1ne.ru
+127.0.0.1	po1y8.windst0ne.ru
+127.0.0.1	hfe.windst0ne.ru
+127.0.0.1	556.windst0ne.ru
+127.0.0.1	gc31.windst0ne.ru
+127.0.0.1	field.wild5ky.ru
+127.0.0.1	13rv.wild5ky.ru
+127.0.0.1	63oi.wild5ky.ru
+127.0.0.1	q5.wild5ky.ru
+127.0.0.1	ember.bluef1re.ru
+127.0.0.1	trace.bluef1re.ru
+127.0.0.1	clear.bluef1re.ru
+127.0.0.1	beta.bluef1re.ru
+127.0.0.1	mcx.deepcl0ud.ru
+127.0.0.1	w2li.xyz
+127.0.0.1	wqu5.deepcl0ud.ru
+127.0.0.1	wind.deepcl0ud.ru
+127.0.0.1	5nr.deepcl0ud.ru
+127.0.0.1	myrepis.gd
+127.0.0.1	yminsgdb.cn
+127.0.0.1	9q.raincr5st.ru
+127.0.0.1	clothcrib.xyz
+127.0.0.1	ricestar.xyz
+127.0.0.1	relays.buziopoasbubu.top
+127.0.0.1	app.buziopoasbubu.top
+127.0.0.1	romeroaktorpalimpsest.com
+127.0.0.1	wave.raincr5st.ru
+127.0.0.1	mizh.raincr5st.ru
+127.0.0.1	qtf.raincr5st.ru
+127.0.0.1	wkt.softmint.ru
+127.0.0.1	y4uhk.softmint.ru
+127.0.0.1	soft.softmint.ru
+127.0.0.1	hellober-62592.portmap.host
+127.0.0.1	4tqikdkjp.localto.net
+127.0.0.1	84u.softmint.ru
+127.0.0.1	repositorylinux.site
+127.0.0.1	cloud.stormf0x.ru
+127.0.0.1	mint.stormf0x.ru
+127.0.0.1	tvlounge.aw
+127.0.0.1	associacaodejudosi.org
+127.0.0.1	asos1.net
+127.0.0.1	microsoft.shopmzx.in.net
+127.0.0.1	verify.shopmzx.in.net
+127.0.0.1	storm.stormf0x.ru
+127.0.0.1	ch.stormf0x.ru
+127.0.0.1	mix.kettle-wisp.ru
+127.0.0.1	fizz.kettle-wisp.ru
+127.0.0.1	odd.kettle-wisp.ru
+127.0.0.1	cask.kettle-wisp.ru
+127.0.0.1	ejt0w.kettlewisp.ru
 127.0.0.1	89pdo.kettlewisp.ru
 127.0.0.1	r2k.kettlewisp.ru
 127.0.0.1	beta.kettlewisp.ru
@@ -51455,13 +51506,4 @@
 127.0.0.1	cryptoinfo-allnews.com
 127.0.0.1	appxmacos.com
 127.0.0.1	counterstrike2-cheats.com
-127.0.0.1	units-jewish.gl.at.ply.gg
-127.0.0.1	tavkz.duckdns.org
-127.0.0.1	topmicrosoftmarketing.com
-127.0.0.1	o.optimumcs.org
-127.0.0.1	yingjiachuwei.com
-127.0.0.1	secure.optimumcs.org
-127.0.0.1	cas-aws.optimumcs.org
-127.0.0.1	fokeniz.com
-127.0.0.1	security.gyqardfilares.com
-# Number of entries: 51458
+# Number of entries: 51500
