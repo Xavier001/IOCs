@@ -1,11 +1,31 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-14 10:05:05 UTC                        #
+# Last updated: 2025-12-14 12:27:37 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	6ifg.mistybyte.ru
+127.0.0.1	whx.mistybyte.ru
+127.0.0.1	tq.mistybyte.ru
+127.0.0.1	ekmeowprogram.ddns.net
+127.0.0.1	app.castlerocks.za.com
+127.0.0.1	n7xbtfikx.localto.net
+127.0.0.1	ellu2222-37691.portmap.host
+127.0.0.1	s2eeka-62143.portmap.host
+127.0.0.1	rock.mistybyte.ru
+127.0.0.1	jq.darkbreeze.ru
+127.0.0.1	castlerocks.za.com
+127.0.0.1	byte.darkbreeze.ru
+127.0.0.1	hog.darkbreeze.ru
+127.0.0.1	4n.darkbreeze.ru
+127.0.0.1	crest.rockstorm.ru
+127.0.0.1	mist.rockstorm.ru
+127.0.0.1	5wnc.rockstorm.ru
+127.0.0.1	delta.rockstorm.ru
+127.0.0.1	ab.clearl1ne.ru
+127.0.0.1	nexus.clearl1ne.ru
 127.0.0.1	wt.clearl1ne.ru
 127.0.0.1	lj.clearl1ne.ru
 127.0.0.1	po1y8.windst0ne.ru
@@ -51503,7 +51523,4 @@
 127.0.0.1	pidorasina.ru
 127.0.0.1	emailreddit.com
 127.0.0.1	web.hvgeb.top
-127.0.0.1	cryptoinfo-allnews.com
-127.0.0.1	appxmacos.com
-127.0.0.1	counterstrike2-cheats.com
-# Number of entries: 51500
+# Number of entries: 51517
