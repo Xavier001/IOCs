@@ -1,11 +1,54 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-14 22:08:35 UTC                        #
+# Last updated: 2025-12-15 04:27:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	arid.clears0il.ru
+127.0.0.1	tilth2.clears0il.ru
+127.0.0.1	loam.clears0il.ru
+127.0.0.1	nastwest.icu
+127.0.0.1	dav131.duckdns.org
+127.0.0.1	zephyr.windtrace.ru
+127.0.0.1	trail3.windtrace.ru
+127.0.0.1	gust.windtrace.ru
+127.0.0.1	nip.frostb1te.ru
+127.0.0.1	flurry4.frostb1te.ru
+127.0.0.1	gelid.frostb1te.ru
+127.0.0.1	hoar2.frostb1te.ru
+127.0.0.1	rime.frostb1te.ru
+127.0.0.1	peak.cl0udcrest.ru
+127.0.0.1	nadir.cl0udcrest.ru
+127.0.0.1	zenith.cl0udcrest.ru
+127.0.0.1	alto3.cl0udcrest.ru
+127.0.0.1	apex.cl0udcrest.ru
+127.0.0.1	loam.s0ftcliff.ru
+127.0.0.1	cush.s0ftcliff.ru
+127.0.0.1	ledge2.s0ftcliff.ru
+127.0.0.1	plush.s0ftcliff.ru
+127.0.0.1	ridge.rapidstone.ru
+127.0.0.1	scree.rapidstone.ru
+127.0.0.1	talus3.rapidstone.ru
+127.0.0.1	shard.rapidstone.ru
+127.0.0.1	swift.rapidstone.ru
+127.0.0.1	truss.mistybr1dge.ru
+127.0.0.1	fog.mistybr1dge.ru
+127.0.0.1	revounecses.run
+127.0.0.1	span2.mistybr1dge.ru
+127.0.0.1	arch.mistybr1dge.ru
+127.0.0.1	noir.shadowm1nt.ru
+127.0.0.1	basil.shadowm1nt.ru
+127.0.0.1	herb5.shadowm1nt.ru
+127.0.0.1	shade.shadowm1nt.ru
+127.0.0.1	nazrej.sa.com
+127.0.0.1	malware.motchilltv.how
+127.0.0.1	hush2.r1verdusk.ru
+127.0.0.1	bend.r1verdusk.ru
+127.0.0.1	gloam.r1verdusk.ru
+127.0.0.1	delta.r1verdusk.ru
+127.0.0.1	ash.f1restorm.ru
 127.0.0.1	squall.f1restorm.ru
 127.0.0.1	flare1.f1restorm.ru
 127.0.0.1	ember.f1restorm.ru
@@ -51570,6 +51613,4 @@
 127.0.0.1	tipo2.colchadretal.com
 127.0.0.1	vn3hg.optimumcs.org
 127.0.0.1	www.waydownk.org
-127.0.0.1	svchost.iqiyia.top
-127.0.0.1	optimosphere.com
-# Number of entries: 51566
+# Number of entries: 51607
