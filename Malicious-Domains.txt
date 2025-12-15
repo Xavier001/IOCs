@@ -1,11 +1,28 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-15 10:18:03 UTC                        #
+# Last updated: 2025-12-15 12:27:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	7kqic.corest0rm.ru
+127.0.0.1	work.cloudn0de.ru
+127.0.0.1	88r.cloudn0de.ru
+127.0.0.1	querahinor.xyz
+127.0.0.1	kanagoriyn.xyz
+127.0.0.1	hadachannt.xyz
+127.0.0.1	yuseef-57605.portmap.host
+127.0.0.1	gx5xq.cloudn0de.ru
+127.0.0.1	mind.cloudn0de.ru
+127.0.0.1	bridge.stormm1nt.ru
+127.0.0.1	crest.stormm1nt.ru
+127.0.0.1	j24uv.stormm1nt.ru
+127.0.0.1	wind.stormm1nt.ru
+127.0.0.1	ember.softm1nd.ru
+127.0.0.1	beta.softm1nd.ru
+127.0.0.1	fx.softm1nd.ru
+127.0.0.1	wave.softm1nd.ru
 127.0.0.1	field.mintdr1ft.ru
 127.0.0.1	mix.mintdr1ft.ru
 127.0.0.1	mng.333202.xyz
@@ -51601,5 +51618,4 @@
 127.0.0.1	galeuqqi.xyz
 127.0.0.1	fantpx.xyz
 127.0.0.1	wiggmyq.xyz
-127.0.0.1	soc-team.de
-# Number of entries: 51596
+# Number of entries: 51612
