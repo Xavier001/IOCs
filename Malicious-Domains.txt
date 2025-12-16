@@ -1,11 +1,51 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-15 22:07:38 UTC                        #
+# Last updated: 2025-12-16 04:17:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bvki6.fogtangent.ru
+127.0.0.1	patch.sp1nterpad.ru
+127.0.0.1	9sct2.sp1nterpad.ru
+127.0.0.1	fizz.sp1nterpad.ru
+127.0.0.1	ikzct.sp1nterpad.ru
+127.0.0.1	loom.quartz-nibble.ru
+127.0.0.1	thrumble.quartz-nibble.ru
+127.0.0.1	r1n.quartz-nibble.ru
+127.0.0.1	nova.quartz-nibble.ru
+127.0.0.1	bq.c0pperknit.ru
+127.0.0.1	trace.c0pperknit.ru
+127.0.0.1	9rg.c0pperknit.ru
+127.0.0.1	racket.c0pperknit.ru
+127.0.0.1	xiyp5.sp-1-nterpad.ru
+127.0.0.1	omega.sp-1-nterpad.ru
+127.0.0.1	l6vzy.sp-1-nterpad.ru
+127.0.0.1	awy.sp-1-nterpad.ru
+127.0.0.1	delta.quartznibble.ru
+127.0.0.1	d3l.quartznibble.ru
+127.0.0.1	crackle.quartznibble.ru
+127.0.0.1	vle.in.net
+127.0.0.1	beachshades.co.com
+127.0.0.1	i4nau.quartznibble.ru
+127.0.0.1	t0w.jaxmorrow.ru
+127.0.0.1	kibu.jaxmorrow.ru
+127.0.0.1	uqnp.jaxmorrow.ru
+127.0.0.1	copper.jaxmorrow.ru
+127.0.0.1	ya.thrumblex.ru
+127.0.0.1	ltaw.thrumblex.ru
+127.0.0.1	shift.thrumblex.ru
+127.0.0.1	warp.thrumblex.ru
+127.0.0.1	0k.softc0re.ru
+127.0.0.1	hq5s.softc0re.ru
+127.0.0.1	c12.softc0re.ru
+127.0.0.1	xthz.softc0re.ru
+127.0.0.1	4d.skyf0rm.ru
+127.0.0.1	2v6tz.skyf0rm.ru
+127.0.0.1	cjiu4.skyf0rm.ru
+127.0.0.1	bv251.skyf0rm.ru
+127.0.0.1	code.rainst0rm.ru
 127.0.0.1	ft.rainst0rm.ru
 127.0.0.1	r9.rainst0rm.ru
 127.0.0.1	ay.rainst0rm.ru
@@ -51631,4 +51671,4 @@
 127.0.0.1	emeoxm.com
 127.0.0.1	ec2-63-33-82-34.eu-west-1.compute.amazonaws.com
 127.0.0.1	down.ponjs.com
-# Number of entries: 51625
+# Number of entries: 51665
