@@ -1,11 +1,33 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-16 10:16:27 UTC                        #
+# Last updated: 2025-12-16 12:26:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	omega.fo0lrati0n.ru
+127.0.0.1	almond.fo0lrati0n.ru
+127.0.0.1	m3a0z.idi0tnau8h.ru
+127.0.0.1	endpoint.digitalpointsec.org
+127.0.0.1	artist.idi0tnau8h.ru
+127.0.0.1	asj99.com
+127.0.0.1	asj77.com
+127.0.0.1	asj88.com
+127.0.0.1	nifty.warzonedns.com
+127.0.0.1	0u.idi0tnau8h.ru
+127.0.0.1	6cqyk.idi0tnau8h.ru
+127.0.0.1	7uy.re5onwi1ling.ru
+127.0.0.1	bastroiklodasertjuyer.com
+127.0.0.1	giakloirtyuilokasdf.com
+127.0.0.1	hpolokolasolakiprijions.com
+127.0.0.1	fcn.re5onwi1ling.ru
+127.0.0.1	loop.re5onwi1ling.ru
+127.0.0.1	delta.re5onwi1ling.ru
+127.0.0.1	ys.jazzm1s8uid.ru
+127.0.0.1	reson.jazzm1s8uid.ru
+127.0.0.1	human.jazzm1s8uid.ru
+127.0.0.1	qjx5z.jazzm1s8uid.ru
 127.0.0.1	vyrf.qu2rv0lts.ru
 127.0.0.1	alpha.qu2rv0lts.ru
 127.0.0.1	val.chadamaite.com
@@ -51769,4 +51791,4 @@
 127.0.0.1	startupcheetah.com
 127.0.0.1	specification.saferunion.com
 127.0.0.1	held-lobby.gl.at.ply.gg
-# Number of entries: 51763
+# Number of entries: 51785
