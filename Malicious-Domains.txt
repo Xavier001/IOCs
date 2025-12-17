@@ -1,11 +1,81 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-17 12:21:38 UTC                        #
+# Last updated: 2025-12-17 22:07:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	gizmo.skysh1ne.ru
+127.0.0.1	7hn2w.skysh1ne.ru
+127.0.0.1	3yb.brightc0re.ru
+127.0.0.1	20ve.brightc0re.ru
+127.0.0.1	66o.brightc0re.ru
+127.0.0.1	b1g.brightc0re.ru
+127.0.0.1	2ms.cloudb1t.ru
+127.0.0.1	giz.cloudb1t.ru
+127.0.0.1	o4py.cloudb1t.ru
+127.0.0.1	form.cloudb1t.ru
+127.0.0.1	3l.hush-copper.ru
+127.0.0.1	u9m3e.hush-copper.ru
+127.0.0.1	www.themosthonestseller.top
+127.0.0.1	nalnk.hush-copper.ru
+127.0.0.1	ak8.hush-copper.ru
+127.0.0.1	hyh.ravelmint.ru
+127.0.0.1	wkm0.ravelmint.ru
+127.0.0.1	vhr6.ravelmint.ru
+127.0.0.1	shift.ravelmint.ru
+127.0.0.1	bright.picket-warp.ru
+127.0.0.1	link.picket-warp.ru
+127.0.0.1	code.picket-warp.ru
+127.0.0.1	shine.picket-warp.ru
+127.0.0.1	picket.g1zmotrail.ru
+127.0.0.1	trail.g1zmotrail.ru
+127.0.0.1	evx5.g1zmotrail.ru
+127.0.0.1	deep.g1zmotrail.ru
+127.0.0.1	8r.g-1-zmotrail.ru
+127.0.0.1	flow.g-1-zmotrail.ru
+127.0.0.1	60lk5.g-1-zmotrail.ru
+127.0.0.1	65w.g-1-zmotrail.ru
+127.0.0.1	mug.t1nkercove.ru
+127.0.0.1	37msl.t1nkercove.ru
+127.0.0.1	ember.t1nkercove.ru
+127.0.0.1	lod8z.t1nkercove.ru
+127.0.0.1	warp.hushcopper.ru
+127.0.0.1	fortwaynejubileebrontide.com
+127.0.0.1	pouch.hushcopper.ru
+127.0.0.1	ppek.hushcopper.ru
+127.0.0.1	ufp7o.hushcopper.ru
+127.0.0.1	8g.picketwarp.ru
+127.0.0.1	ii.picketwarp.ru
+127.0.0.1	loop.picketwarp.ru
+127.0.0.1	latch.picketwarp.ru
+127.0.0.1	fox.fl-0-wlatch.ru
+127.0.0.1	7a80p.fl-0-wlatch.ru
+127.0.0.1	wfg.fl-0-wlatch.ru
+127.0.0.1	alpha.fl-0-wlatch.ru
+127.0.0.1	vx.quartzmug.ru
+127.0.0.1	bg.quartzmug.ru
+127.0.0.1	lv.quartzmug.ru
+127.0.0.1	5cir.quartzmug.ru
+127.0.0.1	6n.bramble-fix.ru
+127.0.0.1	dl.bramble-fix.ru
+127.0.0.1	field.bramble-fix.ru
+127.0.0.1	beta.bramble-fix.ru
+127.0.0.1	jjc6u.v0rtapouch.ru
+127.0.0.1	wire.v0rtapouch.ru
+127.0.0.1	barrel.v0rtapouch.ru
+127.0.0.1	mickstatham.com
+127.0.0.1	chi.botick.top
+127.0.0.1	chi.frederickcookies.com.br
+127.0.0.1	xyrmiskisxyr.cc
+127.0.0.1	pdeterstars.com
+127.0.0.1	zlojs.v0rtapouch.ru
+127.0.0.1	ie.quartz-mug.ru
+127.0.0.1	sky.quartz-mug.ru
+127.0.0.1	hush.quartz-mug.ru
+127.0.0.1	nexus.quartz-mug.ru
+127.0.0.1	pixel.fl0wlatch.ru
 127.0.0.1	wo35.fl0wlatch.ru
 127.0.0.1	o3.fl0wlatch.ru
 127.0.0.1	doorforum.com
@@ -51821,31 +51891,4 @@
 127.0.0.1	play.accountsgooogle.loginlivemiscrosoftonline.duckdns.org
 127.0.0.1	100.56.171.34.bc.googleusercontent.com
 127.0.0.1	apis.accountsgoogle.loginlivemiscrosoftonline.duckdns.org
-127.0.0.1	michikoak51.duckdns.org
-127.0.0.1	michikoa.duckdns.org
-127.0.0.1	garden-enable.gl.at.ply.gg
-127.0.0.1	lyrics-ships.gl.at.ply.gg
-127.0.0.1	yellow-humanities.gl.at.ply.gg
-127.0.0.1	content.accountsgoogle.loginlivemiscrosoftonline.duckdns.org
-127.0.0.1	myaccount.accountsgoogle.loginlivemiscrosoftonline.duckdns.org
-127.0.0.1	play.google.loginlivemiscrosoftonline.duckdns.org
-127.0.0.1	dgost.duckdns.org
-127.0.0.1	dckaws.duckdns.org
-127.0.0.1	dcaw.duckdns.org
-127.0.0.1	soscop.duckdns.org
-127.0.0.1	drgrootp.duckdns.org
-127.0.0.1	glost.duckdns.org
-127.0.0.1	envioo20020.duckdns.org
-127.0.0.1	envio25100255.duckdns.org
-127.0.0.1	send9214.duckdns.org
-127.0.0.1	dnse2542.duckdns.org
-127.0.0.1	sendiadad.duckdns.org
-127.0.0.1	bendicionesdios.dynuddns.net
-127.0.0.1	dgost2.duckdns.org
-127.0.0.1	exclusionremcoss.duckdns.org
-127.0.0.1	respaldo2.duckdns.org
-127.0.0.1	archives-msgstr.gl.at.ply.gg
-127.0.0.1	cpanel.realizr.today
-127.0.0.1	yff.forupper.xyz
-127.0.0.1	asslup.sbs
-# Number of entries: 51842
+# Number of entries: 51885
