@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-17 10:12:49 UTC                        #
+# Last updated: 2025-12-17 12:21:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wo35.fl0wlatch.ru
+127.0.0.1	o3.fl0wlatch.ru
+127.0.0.1	doorforum.com
+127.0.0.1	grannyboosted-38861.portmap.host
+127.0.0.1	spark.fl0wlatch.ru
+127.0.0.1	wind.sn1pbarrel.ru
+127.0.0.1	omega.sn1pbarrel.ru
+127.0.0.1	quartz.sn1pbarrel.ru
+127.0.0.1	yfzsx.sn1pbarrel.ru
+127.0.0.1	x2.bramblefix.ru
+127.0.0.1	bramble.bramblefix.ru
+127.0.0.1	gamma.bramblefix.ru
+127.0.0.1	nova.bramblefix.ru
 127.0.0.1	draft.mon2r5chemer.ru
 127.0.0.1	ruse4.mon2r5chemer.ru
 127.0.0.1	scheme.mon2r5chemer.ru
@@ -51835,15 +51848,4 @@
 127.0.0.1	cpanel.realizr.today
 127.0.0.1	yff.forupper.xyz
 127.0.0.1	asslup.sbs
-127.0.0.1	macxapp.com
-127.0.0.1	9.yubaby.top
-127.0.0.1	a6dzlc7fyp7uy.swedencentral.cloudapp.azure.com
-127.0.0.1	activedirectory-windowsazure.com
-127.0.0.1	api.lcmeng.fun
-127.0.0.1	api.burbankskincancercenter.com
-127.0.0.1	carpoly.ru
-127.0.0.1	igmp.sc.cmcc.transportesturela.com
-127.0.0.1	kf.pinkpp.site
-127.0.0.1	techsupportconnect.com
-127.0.0.1	tv-box-cdn.xiaoyinzhen.com
-# Number of entries: 51840
+# Number of entries: 51842
