@@ -1,11 +1,62 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-17 04:17:18 UTC                        #
+# Last updated: 2025-12-17 10:12:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	draft.mon2r5chemer.ru
+127.0.0.1	ruse4.mon2r5chemer.ru
+127.0.0.1	scheme.mon2r5chemer.ru
+127.0.0.1	plot.mon2r5chemer.ru
+127.0.0.1	inner.se1fve5ky.ru
+127.0.0.1	vigil.se1fve5ky.ru
+127.0.0.1	mirror8.se1fve5ky.ru
+127.0.0.1	gor.botick.top
+127.0.0.1	gor.frederickcookies.com.br
+127.0.0.1	xsw.chadamaite.com
+127.0.0.1	xsw.asrkala.top
+127.0.0.1	prism.se1fve5ky.ru
+127.0.0.1	solo.se1fve5ky.ru
+127.0.0.1	cable2.ba1ustje7ky.ru
+127.0.0.1	plinth.ba1ustje7ky.ru
+127.0.0.1	railing.ba1ustje7ky.ru
+127.0.0.1	pulse.aut0ns2ving.ru
+127.0.0.1	toggle.aut0ns2ving.ru
+127.0.0.1	servo1.aut0ns2ving.ru
+127.0.0.1	relay.aut0ns2ving.ru
+127.0.0.1	ctdrpu.za.com
+127.0.0.1	citystore.in.net
+127.0.0.1	qq88one.us.com
+127.0.0.1	carrozar.sa.com
+127.0.0.1	xdhkqk.za.com
+127.0.0.1	khuradiyaparivarbherujeepoorvajsatee.in.net
+127.0.0.1	senat3.dict2t0rpech.ru
+127.0.0.1	tribune.dict2t0rpech.ru
+127.0.0.1	gavel.dict2t0rpech.ru
+127.0.0.1	census.makere5ide7t.ru
+127.0.0.1	ledger.makere5ide7t.ru
+127.0.0.1	edict9.makere5ide7t.ru
+127.0.0.1	charter.makere5ide7t.ru
+127.0.0.1	civic.makere5ide7t.ru
+127.0.0.1	motive.re5orsymp2th.ru
+127.0.0.1	cadre.re5orsymp2th.ru
+127.0.0.1	lyre5.re5orsymp2th.ru
+127.0.0.1	anmonis-34179.portmap.host
+127.0.0.1	zilcore.giize.com
+127.0.0.1	weifang.serveftp.com
+127.0.0.1	wlzssic9u.localto.net
+127.0.0.1	chorus.re5orsymp2th.ru
+127.0.0.1	serif2.s1umtypo1ogy.ru
+127.0.0.1	kerning.s1umtypo1ogy.ru
+127.0.0.1	glyph.s1umtypo1ogy.ru
+127.0.0.1	spool.doub1ebarzu8.ru
+127.0.0.1	stitch5.doub1ebarzu8.ru
+127.0.0.1	braid.doub1ebarzu8.ru
+127.0.0.1	twine.doub1ebarzu8.ru
+127.0.0.1	locus.l2mbl1vonian.ru
+127.0.0.1	crypt7.l2mbl1vonian.ru
 127.0.0.1	umbel.l2mbl1vonian.ru
 127.0.0.1	sable.l2mbl1vonian.ru
 127.0.0.1	vellum.l2mbl1vonian.ru
@@ -51795,22 +51846,4 @@
 127.0.0.1	kf.pinkpp.site
 127.0.0.1	techsupportconnect.com
 127.0.0.1	tv-box-cdn.xiaoyinzhen.com
-127.0.0.1	romanovas.duckdns.org
-127.0.0.1	agent24.space
-127.0.0.1	actwindowdsdrivers.duckdns.org
-127.0.0.1	11.130.storysaverr.app
-127.0.0.1	jjk1241255325324523.duckdns.org
-127.0.0.1	redslide13-42748.portmap.io
-127.0.0.1	dddf.com
-127.0.0.1	hnoo17.no-ip.biz
-127.0.0.1	flux.zapto.org
-127.0.0.1	almghamrh073.ddns.net
-127.0.0.1	rfcahelp.us
-127.0.0.1	web.gtysx.top
-127.0.0.1	jrzlive.help
-127.0.0.1	itdcare.help
-127.0.0.1	sinofreights.com
-127.0.0.1	security.fjeareshiedls.com
-127.0.0.1	folepfa.com
-127.0.0.1	host-5-58-172-98.bitternet.ua
-# Number of entries: 51807
+# Number of entries: 51840
