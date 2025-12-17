@@ -1,11 +1,50 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-16 22:07:59 UTC                        #
+# Last updated: 2025-12-17 04:17:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	umbel.l2mbl1vonian.ru
+127.0.0.1	sable.l2mbl1vonian.ru
+127.0.0.1	vellum.l2mbl1vonian.ru
+127.0.0.1	trame4.cherec0nce7t.ru
+127.0.0.1	nexus.cherec0nce7t.ru
+127.0.0.1	pivot.cherec0nce7t.ru
+127.0.0.1	spark.baib2kcle2r.ru
+127.0.0.1	rinse3.baib2kcle2r.ru
+127.0.0.1	purge.baib2kcle2r.ru
+127.0.0.1	reset.baib2kcle2r.ru
+127.0.0.1	lumen.am0rc2thed.ru
+127.0.0.1	canto2.am0rc2thed.ru
+127.0.0.1	ambr.am0rc2thed.ru
+127.0.0.1	sibyl.con5epr0phet.ru
+127.0.0.1	script.con5epr0phet.ru
+127.0.0.1	canon.con5epr0phet.ru
+127.0.0.1	augur3.con5epr0phet.ru
+127.0.0.1	oracle.con5epr0phet.ru
+127.0.0.1	delta5.h0dikim2n.ru
+127.0.0.1	summa.h0dikim2n.ru
+127.0.0.1	cedar.h0dikim2n.ru
+127.0.0.1	lemma.go0dsc1ence.ru
+127.0.0.1	proof.go0dsc1ence.ru
+127.0.0.1	logic7.go0dsc1ence.ru
+127.0.0.1	axiom.go0dsc1ence.ru
+127.0.0.1	vapor6.his5isappe2r.ru
+127.0.0.1	gloss.his5isappe2r.ru
+127.0.0.1	trace.his5isappe2r.ru
+127.0.0.1	clave.enra8evue7k.ru
+127.0.0.1	aurora.enra8evue7k.ru
+127.0.0.1	vento4.enra8evue7k.ru
+127.0.0.1	serra.enra8evue7k.ru
+127.0.0.1	ember.enra8evue7k.ru
+127.0.0.1	aria.me2nin8harp.ru
+127.0.0.1	murmur1.me2nin8harp.ru
+127.0.0.1	cadence.me2nin8harp.ru
+127.0.0.1	lute.me2nin8harp.ru
+127.0.0.1	cipher.auth0rtoki1l.ru
+127.0.0.1	noir7.auth0rtoki1l.ru
 127.0.0.1	ledger.auth0rtoki1l.ru
 127.0.0.1	tau.ant1sepgue7.ru
 127.0.0.1	arbor.ant1sepgue7.ru
@@ -51770,13 +51809,8 @@
 127.0.0.1	web.gtysx.top
 127.0.0.1	jrzlive.help
 127.0.0.1	itdcare.help
-127.0.0.1	6hms.top
 127.0.0.1	sinofreights.com
-127.0.0.1	cellinifurniture.com
 127.0.0.1	security.fjeareshiedls.com
 127.0.0.1	folepfa.com
 127.0.0.1	host-5-58-172-98.bitternet.ua
-127.0.0.1	lh3.accountsgoogle.loginlivemiscrosoftonline.duckdns.org
-127.0.0.1	port-storage.ddns.net
-127.0.0.1	play.accountsgoogle.loginlivemiscrosoftonline.duckdns.org
-# Number of entries: 51773
+# Number of entries: 51807
