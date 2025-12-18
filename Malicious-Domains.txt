@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-18 10:24:09 UTC                        #
+# Last updated: 2025-12-18 12:28:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	browns.sn1pixel.ru
+127.0.0.1	u3kd.sn1pixel.ru
+127.0.0.1	4p9.sn1pixel.ru
+127.0.0.1	z8sn.sn1pixel.ru
+127.0.0.1	g7t3.brambleage.ru
+127.0.0.1	mowl1.brambleage.ru
+127.0.0.1	k3p.brambleage.ru
+127.0.0.1	2yq4.brambleage.ru
+127.0.0.1	infill.articu1urb2n.ru
+127.0.0.1	zoning.articu1urb2n.ru
+127.0.0.1	plaza4.articu1urb2n.ru
+127.0.0.1	metro.articu1urb2n.ru
+127.0.0.1	civic.articu1urb2n.ru
 127.0.0.1	nipple.smartvault.com.ng
 127.0.0.1	siper.smartvault.com.ng
 127.0.0.1	spray.dunkr1n5her.ru
@@ -51966,4 +51979,4 @@
 127.0.0.1	unitedigs.org
 127.0.0.1	kizitodavina.kozow.com
 127.0.0.1	mohamed88.work.gd
-# Number of entries: 51960
+# Number of entries: 51973
