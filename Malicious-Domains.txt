@@ -1,11 +1,81 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-18 04:23:13 UTC                        #
+# Last updated: 2025-12-18 10:24:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nipple.smartvault.com.ng
+127.0.0.1	siper.smartvault.com.ng
+127.0.0.1	spray.dunkr1n5her.ru
+127.0.0.1	doc-001.filedocshaering.ru
+127.0.0.1	brine3.dunkr1n5her.ru
+127.0.0.1	splash.dunkr1n5her.ru
+127.0.0.1	river.dunkr1n5her.ru
+127.0.0.1	plane.l2titsm1ne.ru
+127.0.0.1	stealer.su
+127.0.0.1	til3.l2titsm1ne.ru
+127.0.0.1	grid.l2titsm1ne.ru
+127.0.0.1	vector.calculu5eve7y.ru
+127.0.0.1	lemma.calculu5eve7y.ru
+127.0.0.1	proof.calculu5eve7y.ru
+127.0.0.1	delta2.calculu5eve7y.ru
+127.0.0.1	lampweight.info
+127.0.0.1	instrumentthrone.info
+127.0.0.1	representativeaddition.info
+127.0.0.1	losstwig.info
+127.0.0.1	northbox.xyz
+127.0.0.1	coatberry.xyz
+127.0.0.1	sigma.calculu5eve7y.ru
+127.0.0.1	lumen.sv0orchond0.ru
+127.0.0.1	synap3.sv0orchond0.ru
+127.0.0.1	ala.marcialongman.com.br
+127.0.0.1	ala.cimansazan.top
+127.0.0.1	chord.sv0orchond0.ru
+127.0.0.1	organ.sv0orchond0.ru
+127.0.0.1	rampart.obor1shwron8.ru
+127.0.0.1	sentry5.obor1shwron8.ru
+127.0.0.1	ward.obor1shwron8.ru
+127.0.0.1	muster.b2ckymembe7.ru
+127.0.0.1	roll.b2ckymembe7.ru
+127.0.0.1	pepgauge.com
+127.0.0.1	egepefr.ru
+127.0.0.1	pegasustour.ru
+127.0.0.1	14emeliaterracewestroxburyma02132.su
+127.0.0.1	guild2.b2ckymembe7.ru
+127.0.0.1	rtrdedge1.samsungcdn.cloud
+127.0.0.1	fuckzachebt.meowmeowmeowmeowmeow.meow.indiahackgod.su
+127.0.0.1	sdk-dl-prod.proxiessdk.online
+127.0.0.1	sdk-dl-production.proxiessdk.store
+127.0.0.1	lol.713mtauburnctcolumbusoh43085.st
+127.0.0.1	pawsatyou.eth
+127.0.0.1	lolbroweborrowtvbro.713mtauburnctcolumbusoh43085.st
+127.0.0.1	api.groksearch.net
+127.0.0.1	nnkjzfaxkjanxzk.14emeliaterracewestroxburyma02132.su
+127.0.0.1	zachebt.chachasl.de
+127.0.0.1	zachebt.groksearch.net
+127.0.0.1	badge.b2ckymembe7.ru
+127.0.0.1	staging.pproxy1.fun
+127.0.0.1	boberkurwa.phoneparts.icu
+127.0.0.1	cohort.b2ckymembe7.ru
+127.0.0.1	simmer.s0uponwe2ther.ru
+127.0.0.1	stir3.s0uponwe2ther.ru
+127.0.0.1	ladle.s0uponwe2ther.ru
+127.0.0.1	broth.s0uponwe2ther.ru
+127.0.0.1	pfad.c2tt1eschlen.ru
+127.0.0.1	lbnewac1.work.gd
+127.0.0.1	newslbn.publicvm.com
+127.0.0.1	feld2.c2tt1eschlen.ru
+127.0.0.1	rhein.c2tt1eschlen.ru
+127.0.0.1	lathe.j1tmech2nic.ru
+127.0.0.1	torque.j1tmech2nic.ru
+127.0.0.1	cam1.j1tmech2nic.ru
+127.0.0.1	gear.j1tmech2nic.ru
+127.0.0.1	myrmex3.ent0molobo1t.ru
+127.0.0.1	spore.ent0molobo1t.ru
+127.0.0.1	larva.ent0molobo1t.ru
+127.0.0.1	prion5.ent0molobo1t.ru
 127.0.0.1	thorax.ent0molobo1t.ru
 127.0.0.1	9x.windl1nk.ru
 127.0.0.1	puf0.windl1nk.ru
@@ -51896,29 +51966,4 @@
 127.0.0.1	unitedigs.org
 127.0.0.1	kizitodavina.kozow.com
 127.0.0.1	mohamed88.work.gd
-127.0.0.1	nupdate0625.com
-127.0.0.1	cloused-flow.site
-127.0.0.1	debianlist.cfd
-127.0.0.1	cdnnode-01.cfd
-127.0.0.1	servicesmesh.pro
-127.0.0.1	ncloud-servers.shop
-127.0.0.1	brokpolok.shop
-127.0.0.1	d-nodes.shop
-127.0.0.1	uplink-mirrors.shop
-127.0.0.1	securityhealthsystray.accesscam.org
-127.0.0.1	securityhealthmonitor.duckdns.org
-127.0.0.1	givedem2.duckdns.org
-127.0.0.1	givedem.duckdns.org
-127.0.0.1	boyz2346.duckdns.org
-127.0.0.1	updatedrvier.duckdns.org
-127.0.0.1	actwindowdsdriver.duckdns.org
-127.0.0.1	boss2468.duckdns.org
-127.0.0.1	greatthingsstillhappen.duckdns.org
-127.0.0.1	eraqron.shop
-127.0.0.1	9.20.storysaverr.app
-127.0.0.1	nnnpanel.top
-127.0.0.1	wepolix.com
-127.0.0.1	security.fizaregiyard.com
-127.0.0.1	www.ssatech.online
-127.0.0.1	www.waillyrx5.com
-# Number of entries: 51915
+# Number of entries: 51960
