@@ -1,11 +1,50 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-17 22:07:51 UTC                        #
+# Last updated: 2025-12-18 04:23:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	thorax.ent0molobo1t.ru
+127.0.0.1	9x.windl1nk.ru
+127.0.0.1	puf0.windl1nk.ru
+127.0.0.1	copper.windl1nk.ru
+127.0.0.1	hth5.windl1nk.ru
+127.0.0.1	mint.wave5hift.ru
+127.0.0.1	flare.wave5hift.ru
+127.0.0.1	zbas.wave5hift.ru
+127.0.0.1	ahp.wave5hift.ru
+127.0.0.1	lo68g.darkw1re.ru
+127.0.0.1	27.darkw1re.ru
+127.0.0.1	ts.darkw1re.ru
+127.0.0.1	ridge.darkw1re.ru
+127.0.0.1	crest.deepw1nd.ru
+127.0.0.1	xk8v.deepw1nd.ru
+127.0.0.1	dark.deepw1nd.ru
+127.0.0.1	bit.deepw1nd.ru
+127.0.0.1	jgl.mintp1xel.ru
+127.0.0.1	qeu.mintp1xel.ru
+127.0.0.1	ps.mintp1xel.ru
+127.0.0.1	gom.mintp1xel.ru
+127.0.0.1	ug3.stormf0rm.ru
+127.0.0.1	xx.stormf0rm.ru
+127.0.0.1	2887k.stormf0rm.ru
+127.0.0.1	e97hx.stormf0rm.ru
+127.0.0.1	delta.lightst0rm.ru
+127.0.0.1	vg.lightst0rm.ru
+127.0.0.1	1ay20.lightst0rm.ru
+127.0.0.1	1i.lightst0rm.ru
+127.0.0.1	soft.softf0x.ru
+127.0.0.1	gcd1.softf0x.ru
+127.0.0.1	kl.softf0x.ru
+127.0.0.1	wave.softf0x.ru
+127.0.0.1	shadow.frostc0de.ru
+127.0.0.1	storm.frostc0de.ru
+127.0.0.1	2jgq.frostc0de.ru
+127.0.0.1	gate.frostc0de.ru
+127.0.0.1	8q.skysh1ne.ru
+127.0.0.1	mqgi.skysh1ne.ru
 127.0.0.1	gizmo.skysh1ne.ru
 127.0.0.1	7hn2w.skysh1ne.ru
 127.0.0.1	3yb.brightc0re.ru
@@ -51882,13 +51921,4 @@
 127.0.0.1	security.fizaregiyard.com
 127.0.0.1	www.ssatech.online
 127.0.0.1	www.waillyrx5.com
-127.0.0.1	singtelcom.site
-127.0.0.1	ssl.accountsgoogle.loginlivemiscrosoftonline.duckdns.org
-127.0.0.1	mta73.bwcasino.email
-127.0.0.1	santutxuht.eus
-127.0.0.1	zoutailian.jlx9.asia
-127.0.0.1	ecs-113-44-144-145.compute.hwclouds-dns.com
-127.0.0.1	play.accountsgooogle.loginlivemiscrosoftonline.duckdns.org
-127.0.0.1	100.56.171.34.bc.googleusercontent.com
-127.0.0.1	apis.accountsgoogle.loginlivemiscrosoftonline.duckdns.org
-# Number of entries: 51885
+# Number of entries: 51915
