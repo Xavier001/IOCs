@@ -1,11 +1,79 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-18 12:28:04 UTC                        #
+# Last updated: 2025-12-18 22:01:36 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	proof3.infide1d0wn.ru
+127.0.0.1	doubt.infide1d0wn.ru
+127.0.0.1	axiom.infide1d0wn.ru
+127.0.0.1	vassal.d0minon2me.ru
+127.0.0.1	edict2.d0minon2me.ru
+127.0.0.1	realm.d0minon2me.ru
+127.0.0.1	glaze.dymk0v5klei.ru
+127.0.0.1	kiln3.dymk0v5klei.ru
+127.0.0.1	js.jquery.cn.com
+127.0.0.1	gesso.dymk0v5klei.ru
+127.0.0.1	studio.dymk0v5klei.ru
+127.0.0.1	t8q1.ravelpink.ru
+127.0.0.1	bloom.ravelpink.ru
+127.0.0.1	p6z3.ravelpink.ru
+127.0.0.1	cove.ravelpink.ru
+127.0.0.1	rook.picket-core.ru
+127.0.0.1	l9c2.picket-core.ru
+127.0.0.1	d3h7.picket-core.ru
+127.0.0.1	perk.picket-core.ru
+127.0.0.1	m5r1.g1zmobrain.ru
+127.0.0.1	sway.g1zmobrain.ru
+127.0.0.1	x2k8.g1zmobrain.ru
+127.0.0.1	gale.g1zmobrain.ru
+127.0.0.1	palm.ravel-pink.ru
+127.0.0.1	n3q7.ravel-pink.ru
+127.0.0.1	silk2.ravel-pink.ru
+127.0.0.1	b4x.ravel-pink.ru
+127.0.0.1	star.co.com
+127.0.0.1	haze.t1nkerpove.ru
+127.0.0.1	z9m4.t1nkerpove.ru
+127.0.0.1	c7z1.t1nkerpove.ru
+127.0.0.1	fleet.t1nkerpove.ru
+127.0.0.1	s3w9.hushdr0pper.ru
+127.0.0.1	k8c2.hushdr0pper.ru
+127.0.0.1	vibe.hushdr0pper.ru
+127.0.0.1	j1r.hushdr0pper.ru
+127.0.0.1	fizz3.picketcore.ru
+127.0.0.1	t4q9.picketcore.ru
+127.0.0.1	b6n2.picketcore.ru
+127.0.0.1	moss.picketcore.ru
+127.0.0.1	k9v3.sn-1-pixel.ru
+127.0.0.1	s7b4.sn-1-pixel.ru
+127.0.0.1	gleam.sn-1-pixel.ru
+127.0.0.1	h2x.sn-1-pixel.ru
+127.0.0.1	zany.quartzace.ru
+127.0.0.1	p9fz.quartzace.ru
+127.0.0.1	mint7.quartzace.ru
+127.0.0.1	w3c.quartzace.ru
+127.0.0.1	jule.bramble-age.ru
+127.0.0.1	ryosweb.com
+127.0.0.1	k2s9.bramble-age.ru
+127.0.0.1	dawn3.bramble-age.ru
+127.0.0.1	r8m.bramble-age.ru
+127.0.0.1	p7qk.v0rtatouch.ru
+127.0.0.1	brisk.v0rtatouch.ru
+127.0.0.1	e9h2.v0rtatouch.ru
+127.0.0.1	c4z.v0rtatouch.ru
+127.0.0.1	m1c8.quartz-ace.ru
+127.0.0.1	tapes.quartz-ace.ru
+127.0.0.1	5vg.quartz-ace.ru
+127.0.0.1	pri.marcialongman.com.br
+127.0.0.1	pri.diamond-cutting.kiev.ua
+127.0.0.1	n7q.quartz-ace.ru
+127.0.0.1	h3d9.fl0watch.ru
+127.0.0.1	lark.fl0watch.ru
+127.0.0.1	image.flash.cn.com
+127.0.0.1	v2n3.fl0watch.ru
+127.0.0.1	q5l.fl0watch.ru
 127.0.0.1	browns.sn1pixel.ru
 127.0.0.1	u3kd.sn1pixel.ru
 127.0.0.1	4p9.sn1pixel.ru
@@ -51964,19 +52032,4 @@
 127.0.0.1	b1.freshtug.top
 127.0.0.1	namadistribution.com
 127.0.0.1	guce.newservicedotup.de
-127.0.0.1	yj233.e1.luyouxia.net
-127.0.0.1	yukselofficial.duckdns.org
-127.0.0.1	shnf-47787.portmap.io
-127.0.0.1	cocohack.dtdns.net
-127.0.0.1	unit-sap.gl.at.ply.gg
-127.0.0.1	winter-criminal.gl.at.ply.gg
-127.0.0.1	arvnd.duckdns.org
-127.0.0.1	hosts.dynuddns.com
-127.0.0.1	crownmedicals.com
-127.0.0.1	popcornstudy.info
-127.0.0.1	purpleyh.info
-127.0.0.1	redcardboard.info
-127.0.0.1	unitedigs.org
-127.0.0.1	kizitodavina.kozow.com
-127.0.0.1	mohamed88.work.gd
-# Number of entries: 51973
+# Number of entries: 52026
