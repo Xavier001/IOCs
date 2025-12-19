@@ -1,11 +1,55 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-18 22:01:36 UTC                        #
+# Last updated: 2025-12-19 04:18:08 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wager2.dou5etossin8.ru
+127.0.0.1	token.dou5etossin8.ru
+127.0.0.1	forum.dict2tja8d.ru
+127.0.0.1	shea-raydemo.testingweblink.com
+127.0.0.1	gits.testingweblink.com
+127.0.0.1	kreatmaster.testingweblink.com
+127.0.0.1	senate4.dict2tja8d.ru
+127.0.0.1	tribune.dict2tja8d.ru
+127.0.0.1	edict.dict2tja8d.ru
+127.0.0.1	rumor.mumb1e8uess.ru
+127.0.0.1	guess3.mumb1e8uess.ru
+127.0.0.1	whisper.mumb1e8uess.ru
+127.0.0.1	runic.c7ibnihi1.ru
+127.0.0.1	www.ntn.it.com
+127.0.0.1	riddle2.c7ibnihi1.ru
+127.0.0.1	cipher.c7ibnihi1.ru
+127.0.0.1	pulse.blo0dci7cul.ru
+127.0.0.1	serum.blo0dci7cul.ru
+127.0.0.1	vein.blo0dci7cul.ru
+127.0.0.1	aorta2.blo0dci7cul.ru
+127.0.0.1	plasma.blo0dci7cul.ru
+127.0.0.1	block.c2rpyub2n.ru
+127.0.0.1	loft4.c2rpyub2n.ru
+127.0.0.1	grid.c2rpyub2n.ru
+127.0.0.1	metro.c2rpyub2n.ru
+127.0.0.1	psalm2.b2ptistda7k.ru
+127.0.0.1	pulpit.b2ptistda7k.ru
+127.0.0.1	choir.b2ptistda7k.ru
+127.0.0.1	clear.defore5tm0unt.ru
+127.0.0.1	saw2.defore5tm0unt.ru
+127.0.0.1	stump.defore5tm0unt.ru
+127.0.0.1	ocrdatabase.com
+127.0.0.1	cedar.defore5tm0unt.ru
+127.0.0.1	fray.nerv0u5radic.ru
+127.0.0.1	synap.nerv0u5radic.ru
+127.0.0.1	axon.nerv0u5radic.ru
+127.0.0.1	spike7.nerv0u5radic.ru
+127.0.0.1	pulse.nerv0u5radic.ru
+127.0.0.1	forge.effu5m0unt.ru
+127.0.0.1	slag.effu5m0unt.ru
+127.0.0.1	ore2.effu5m0unt.ru
+127.0.0.1	smelt.effu5m0unt.ru
+127.0.0.1	canon.infide1d0wn.ru
+127.0.0.1	query.infide1d0wn.ru
 127.0.0.1	proof3.infide1d0wn.ru
 127.0.0.1	doubt.infide1d0wn.ru
 127.0.0.1	axiom.infide1d0wn.ru
@@ -52030,6 +52074,4 @@
 127.0.0.1	qnoeis.com
 127.0.0.1	security.fgleragusards.com
 127.0.0.1	b1.freshtug.top
-127.0.0.1	namadistribution.com
-127.0.0.1	guce.newservicedotup.de
-# Number of entries: 52026
+# Number of entries: 52068
