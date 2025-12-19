@@ -1,11 +1,44 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-19 10:12:28 UTC                        #
+# Last updated: 2025-12-19 12:27:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	zanfer.b2tnikpu1yar.ru
+127.0.0.1	prim0x.e9uilyb5opr.ru
+127.0.0.1	somethingood.viewdns.net
+127.0.0.1	helqat.e9uilyb5opr.ru
+127.0.0.1	inside-alt.gl.at.ply.gg
+127.0.0.1	dobzi7.e9uilyb5opr.ru
+127.0.0.1	sirvex.e9uilyb5opr.ru
+127.0.0.1	groovyfox.today
+127.0.0.1	qumral.e9uilyb5opr.ru
+127.0.0.1	hom1e-c2ity.com
+127.0.0.1	grandideapay.com
+127.0.0.1	socialcloudguru.com
+127.0.0.1	cardlowestgroup.com
+127.0.0.1	kelzir.c1imby2p.ru
+127.0.0.1	punv0x.c1imby2p.ru
+127.0.0.1	drasqi.c1imby2p.ru
+127.0.0.1	lem7ur.c1imby2p.ru
+127.0.0.1	wobnix.c1imby2p.ru
+127.0.0.1	texuld.c2rb0lduty.ru
+127.0.0.1	atalowh.sbs
+127.0.0.1	philanm.sbs
+127.0.0.1	soundtu.sbs
+127.0.0.1	ballisi.cyou
+127.0.0.1	udtbwaz.cyou
+127.0.0.1	renegax.sbs
+127.0.0.1	nevernb.sbs
+127.0.0.1	municih.sbs
+127.0.0.1	inacces.cfd
+127.0.0.1	draggjj.sbs
+127.0.0.1	declams.sbs
+127.0.0.1	chocold.sbs
+127.0.0.1	blackth.sbs
+127.0.0.1	mibz3o.c2rb0lduty.ru
 127.0.0.1	crafun.c2rb0lduty.ru
 127.0.0.1	jolt9e.c2rb0lduty.ru
 127.0.0.1	vynkra.c2rb0lduty.ru
@@ -51022,12 +51055,4 @@
 127.0.0.1	www.stirngo.com
 127.0.0.1	lumma-market.ru
 127.0.0.1	reexmv.top
-127.0.0.1	macxapp.org
-127.0.0.1	cryptonews-info.com
-127.0.0.1	gewgb.xyz
-127.0.0.1	skjgx.xyz
-127.0.0.1	ropyi.xyz
-127.0.0.1	spjeo.xyz
-127.0.0.1	accounts.accountsgooogle.loginlivemiscrosoftonline.duckdns.org
-127.0.0.1	myaccount.google.loginlivemiscrosoftonline.duckdns.org
-# Number of entries: 51024
+# Number of entries: 51049
