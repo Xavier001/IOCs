@@ -1,11 +1,48 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-19 22:07:34 UTC                        #
+# Last updated: 2025-12-20 04:08:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tridam.clearl1nk.ru
+127.0.0.1	xenvop.clearl1nk.ru
+127.0.0.1	javnek.mintbrook.ru
+127.0.0.1	kimz0r.mintbrook.ru
+127.0.0.1	rovdit.mintbrook.ru
+127.0.0.1	sulqen.mintbrook.ru
+127.0.0.1	pelvar.mintbrook.ru
+127.0.0.1	homzir.rainpixel.ru
+127.0.0.1	fayl0n.rainpixel.ru
+127.0.0.1	nurqet.rainpixel.ru
+127.0.0.1	besvyl.rainpixel.ru
+127.0.0.1	qidrom.rainpixel.ru
+127.0.0.1	tufeck.datashade.ru
+127.0.0.1	jorbin.datashade.ru
+127.0.0.1	laxven.datashade.ru
+127.0.0.1	serqut.datashade.ru
+127.0.0.1	miprol.datashade.ru
+127.0.0.1	zuv1ak.cl0udmist.ru
+127.0.0.1	gepsir.cl0udmist.ru
+127.0.0.1	homtaz.cl0udmist.ru
+127.0.0.1	vilqon.cl0udmist.ru
+127.0.0.1	ryfkel.cl0udmist.ru
+127.0.0.1	vesnug.cr1pptit2n.ru
+127.0.0.1	hirqat.cr1pptit2n.ru
+127.0.0.1	muk3av.cr1pptit2n.ru
+127.0.0.1	zolrin.cr1pptit2n.ru
+127.0.0.1	dafpex.cr1pptit2n.ru
+127.0.0.1	bixfoy.pa5spra8mat.ru
+127.0.0.1	gumral.pa5spra8mat.ru
+127.0.0.1	sen4ik.pa5spra8mat.ru
+127.0.0.1	tidvop.pa5spra8mat.ru
+127.0.0.1	lorqes.pa5spra8mat.ru
+127.0.0.1	pilzur.c0lombve8et.ru
+127.0.0.1	kys.li
+127.0.0.1	hastev.c0lombve8et.ru
+127.0.0.1	zudm1q.c0lombve8et.ru
+127.0.0.1	vokner.c0lombve8et.ru
 127.0.0.1	fiplar.c0lombve8et.ru
 127.0.0.1	yubnix.ban9noti0n.ru
 127.0.0.1	kartel.ban9noti0n.ru
@@ -51108,11 +51145,4 @@
 127.0.0.1	analytticasnoden.com
 127.0.0.1	security.fweragyrads.com
 127.0.0.1	foepsa.com
-127.0.0.1	update.applefilesync.com
-127.0.0.1	mathiasputzola.com
-127.0.0.1	c.testcs888.com
-127.0.0.1	c2.moustartline.com
-127.0.0.1	v361422.hosted-by-vdsina.com
-127.0.0.1	www.uyghur.eu.org
-127.0.0.1	8xney90cqcr5m.cfc-execute.su.baidubce.com
-# Number of entries: 51109
+# Number of entries: 51139
