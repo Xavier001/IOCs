@@ -1,11 +1,59 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-20 04:08:05 UTC                        #
+# Last updated: 2025-12-20 10:10:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ctya.windc0re.ru
+127.0.0.1	kerjub.nightcl0ud.ru
+127.0.0.1	futs0n.nightcl0ud.ru
+127.0.0.1	daqrel.nightcl0ud.ru
+127.0.0.1	zilpun.nightcl0ud.ru
+127.0.0.1	morvex.nightcl0ud.ru
+127.0.0.1	jaknuf.rockf1eld.ru
+127.0.0.1	him3al.rockf1eld.ru
+127.0.0.1	zorpev.rockf1eld.ru
+127.0.0.1	dilqat.rockf1eld.ru
+127.0.0.1	vexrum.rockf1eld.ru
+127.0.0.1	tavmec.darkn0va.ru
+127.0.0.1	gurs0l.darkn0va.ru
+127.0.0.1	hofdan.darkn0va.ru
+127.0.0.1	pelqix.darkn0va.ru
+127.0.0.1	zinrum.darkn0va.ru
+127.0.0.1	kobwex.wavec0re.ru
+127.0.0.1	rijd0n.wavec0re.ru
+127.0.0.1	talfem.wavec0re.ru
+127.0.0.1	cm88.gb.net
+127.0.0.1	mx1.sa.com
+127.0.0.1	egestx.ru.com
+127.0.0.1	aref.co.com
+127.0.0.1	dean.it.com
+127.0.0.1	rieege.mx
+127.0.0.1	casinogame.it.com
+127.0.0.1	giftingbuddy.in.net
+127.0.0.1	sevqor.wavec0re.ru
+127.0.0.1	muxlin.wavec0re.ru
+127.0.0.1	jaxvel.stonem1st.ru
+127.0.0.1	herp0n.stonem1st.ru
+127.0.0.1	tulsac.stonem1st.ru
+127.0.0.1	vimqon.stonem1st.ru
+127.0.0.1	dafryl.stonem1st.ru
+127.0.0.1	movtik.windc0met.ru
+127.0.0.1	asfdavsdgkas-37221.portmap.host
+127.0.0.1	garp1s.windc0met.ru
+127.0.0.1	xubmel.windc0met.ru
+127.0.0.1	feqvan.windc0met.ru
+127.0.0.1	tilzor.windc0met.ru
+127.0.0.1	jadwok.mistysky.ru
+127.0.0.1	norf1m.mistysky.ru
+127.0.0.1	pudlex.mistysky.ru
+127.0.0.1	silran.mistysky.ru
+127.0.0.1	vemqot.mistysky.ru
+127.0.0.1	hubrel.clearl1nk.ru
+127.0.0.1	karf1x.clearl1nk.ru
+127.0.0.1	lojqes.clearl1nk.ru
 127.0.0.1	tridam.clearl1nk.ru
 127.0.0.1	xenvop.clearl1nk.ru
 127.0.0.1	javnek.mintbrook.ru
@@ -51134,15 +51182,4 @@
 127.0.0.1	d.tstcs888.com
 127.0.0.1	www.googleapi.top
 127.0.0.1	api.micosoftr.icu
-127.0.0.1	cf.testcs888.com
-127.0.0.1	cf.1v5sd1c2ds.com
-127.0.0.1	8vz75cfcfmey5.cfc-execute.bj.baidubce.com
-127.0.0.1	reason-tribal.gl.at.ply.gg
-127.0.0.1	we-referring.gl.at.ply.gg
-127.0.0.1	yn.eoow.cn
-127.0.0.1	us.worldisendmail.ml
-127.0.0.1	tax-warrior.gl.at.ply.gg
-127.0.0.1	analytticasnoden.com
-127.0.0.1	security.fweragyrads.com
-127.0.0.1	foepsa.com
-# Number of entries: 51139
+# Number of entries: 51176
