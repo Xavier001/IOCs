@@ -1,11 +1,72 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-20 12:27:43 UTC                        #
+# Last updated: 2025-12-20 22:08:31 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	rqdgj.wavec0de.ru
+127.0.0.1	8s.wavec0de.ru
+127.0.0.1	1now.wavec0de.ru
+127.0.0.1	p65a.wavec0de.ru
+127.0.0.1	es4.stormp1ne.ru
+127.0.0.1	3a.stormp1ne.ru
+127.0.0.1	sb.stormp1ne.ru
+127.0.0.1	5bvg1.stormp1ne.ru
+127.0.0.1	n774.rainf0x.ru
+127.0.0.1	wing.rainf0x.ru
+127.0.0.1	micp.rainf0x.ru
+127.0.0.1	mk1qq.rainf0x.ru
+127.0.0.1	7a19u.darkl1ne.ru
+127.0.0.1	beta.darkl1ne.ru
+127.0.0.1	field.darkl1ne.ru
+127.0.0.1	chx.darkl1ne.ru
+127.0.0.1	15.frostc0met.ru
+127.0.0.1	59l.frostc0met.ru
+127.0.0.1	0ej.frostc0met.ru
+127.0.0.1	0tmh.frostc0met.ru
+127.0.0.1	sgbvj.cloudb1rd.ru
+127.0.0.1	line.cloudb1rd.ru
+127.0.0.1	uy.cloudb1rd.ru
+127.0.0.1	rain.cloudb1rd.ru
+127.0.0.1	135y.clearb1te.ru
+127.0.0.1	rc.clearb1te.ru
+127.0.0.1	ampz4.clearb1te.ru
+127.0.0.1	soft.clearb1te.ru
+127.0.0.1	u6uek.mistf1eld.ru
+127.0.0.1	bird.mistf1eld.ru
+127.0.0.1	nexus.mistf1eld.ru
+127.0.0.1	wind.mistf1eld.ru
+127.0.0.1	bite.softp1ne.ru
+127.0.0.1	plnb3.softp1ne.ru
+127.0.0.1	trace.softp1ne.ru
+127.0.0.1	ic.softp1ne.ru
+127.0.0.1	blue.sunsh1ne.ru
+127.0.0.1	0up.sunsh1ne.ru
+127.0.0.1	range.sunsh1ne.ru
+127.0.0.1	frost.sunsh1ne.ru
+127.0.0.1	mist.stonel1nk.ru
+127.0.0.1	pixel.stonel1nk.ru
+127.0.0.1	omega.stonel1nk.ru
+127.0.0.1	gma.stonel1nk.ru
+127.0.0.1	clear.datam1st.ru
+127.0.0.1	o1h5i.datam1st.ru
+127.0.0.1	8x.datam1st.ru
+127.0.0.1	elisauy.ru.com
+127.0.0.1	crest.datam1st.ru
+127.0.0.1	gate.wavec0met.ru
+127.0.0.1	wlvpw.wavec0met.ru
+127.0.0.1	spark.wavec0met.ru
+127.0.0.1	8c.wavec0met.ru
+127.0.0.1	adcn.stormw1ng.ru
+127.0.0.1	fl21d.stormw1ng.ru
+127.0.0.1	68s.stormw1ng.ru
+127.0.0.1	bxo57.stormw1ng.ru
+127.0.0.1	recargamos.co.com
+127.0.0.1	pine.nightf0rm.ru
+127.0.0.1	nova.nightf0rm.ru
+127.0.0.1	cloud.nightf0rm.ru
 127.0.0.1	kpu.nightf0rm.ru
 127.0.0.1	core.rain5tone.ru
 127.0.0.1	q9b.rain5tone.ru
@@ -51181,17 +51242,4 @@
 127.0.0.1	jk002.cc
 127.0.0.1	log.nongfushan.org
 127.0.0.1	apps.soft-storelive.com
-127.0.0.1	www.ddddddddguashjdka.top
-127.0.0.1	2tuff-33336.portmap.io
-127.0.0.1	junie15.duckdns.org
-127.0.0.1	lespencer.duckdns.org
-127.0.0.1	district-graphical.gl.at.ply.gg
-127.0.0.1	0.0.mastermaths.com.sg
-127.0.0.1	app.symphoniabags.com
-127.0.0.1	gitlab.sbs
-127.0.0.1	r-cdn.icu
-127.0.0.1	api.googleapi.top
-127.0.0.1	api.r-cdn.icu
-127.0.0.1	down.gitlab.sbs
-127.0.0.1	d.tstcs888.com
-# Number of entries: 51188
+# Number of entries: 51236
