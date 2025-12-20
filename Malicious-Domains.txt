@@ -1,11 +1,25 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-20 10:10:58 UTC                        #
+# Last updated: 2025-12-20 12:27:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	kpu.nightf0rm.ru
+127.0.0.1	core.rain5tone.ru
+127.0.0.1	q9b.rain5tone.ru
+127.0.0.1	realtopka-50211.portmap.host
+127.0.0.1	light.rain5tone.ru
+127.0.0.1	gamma.rain5tone.ru
+127.0.0.1	shine.darkc0de.ru
+127.0.0.1	night.darkc0de.ru
+127.0.0.1	ydmnx.darkc0de.ru
+127.0.0.1	link.darkc0de.ru
+127.0.0.1	api.vxucqb.dpdns.org
+127.0.0.1	storm.windc0re.ru
+127.0.0.1	shadow.windc0re.ru
+127.0.0.1	91de.windc0re.ru
 127.0.0.1	ctya.windc0re.ru
 127.0.0.1	kerjub.nightcl0ud.ru
 127.0.0.1	futs0n.nightcl0ud.ru
@@ -51180,6 +51194,4 @@
 127.0.0.1	api.r-cdn.icu
 127.0.0.1	down.gitlab.sbs
 127.0.0.1	d.tstcs888.com
-127.0.0.1	www.googleapi.top
-127.0.0.1	api.micosoftr.icu
-# Number of entries: 51176
+# Number of entries: 51188
