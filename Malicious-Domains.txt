@@ -1,11 +1,77 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-21 04:17:38 UTC                        #
+# Last updated: 2025-12-21 10:08:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	8udp8.j-1-ngleknob.ru
+127.0.0.1	xze.hollow-fizz.ru
+127.0.0.1	beta.hollow-fizz.ru
+127.0.0.1	patchwork.hollow-fizz.ru
+127.0.0.1	nm1.hollow-fizz.ru
+127.0.0.1	b3g3.j1ngleknob.ru
+127.0.0.1	3ek56.j1ngleknob.ru
+127.0.0.1	odd.j1ngleknob.ru
+127.0.0.1	a9.j1ngleknob.ru
+127.0.0.1	2to.t0rchmingle.ru
+127.0.0.1	he.t0rchmingle.ru
+127.0.0.1	jap7.t0rchmingle.ru
+127.0.0.1	do.t0rchmingle.ru
+127.0.0.1	tvgiv.fl1ntrelay.ru
+127.0.0.1	0k.fl1ntrelay.ru
+127.0.0.1	warp.fl1ntrelay.ru
+127.0.0.1	crackle.fl1ntrelay.ru
+127.0.0.1	nxu6.amber-coil.ru
+127.0.0.1	qt.amber-coil.ru
+127.0.0.1	convergepay.co.com
+127.0.0.1	southstateonline.co.com
+127.0.0.1	saferpay.co.com
+127.0.0.1	spendesk.co.com
+127.0.0.1	carterfcu.co.com
+127.0.0.1	flagstarbank.co.com
+127.0.0.1	tivimate.co.com
+127.0.0.1	app-slash.co.com
+127.0.0.1	fleetone.co.com
+127.0.0.1	tronskan.co.com
+127.0.0.1	skinbaaron.com
+127.0.0.1	firstcitizensonline.co.com
+127.0.0.1	skinbaron.co.com
+127.0.0.1	achievacredit.co.com
+127.0.0.1	websterbank.co.com
+127.0.0.1	synovusbank.co.com
+127.0.0.1	bannerbank.co.com
+127.0.0.1	ephratanational.co.com
+127.0.0.1	numericacredit.co.com
+127.0.0.1	renasantbank.co.com
+127.0.0.1	commercebank.co.com
+127.0.0.1	comericawebbanking.co.com
+127.0.0.1	amerisbank.co.com
+127.0.0.1	vacuonline.co.com
+127.0.0.1	fusebox-elavon.co.com
+127.0.0.1	psecumember.co.com
+127.0.0.1	horizon-united-cherry.com
+127.0.0.1	koz1.in.net
+127.0.0.1	e2etestsworker.localhost
+127.0.0.1	domain1.sa.com
+127.0.0.1	torch.amber-coil.ru
+127.0.0.1	nova.amber-coil.ru
+127.0.0.1	8ux.ambercoil.ru
+127.0.0.1	vixen.ambercoil.ru
+127.0.0.1	omega.ambercoil.ru
+127.0.0.1	alpha.ambercoil.ru
+127.0.0.1	psh09.grit-pillow.ru
+127.0.0.1	bracket.grit-pillow.ru
+127.0.0.1	klpjx.grit-pillow.ru
+127.0.0.1	wa.grit-pillow.ru
+127.0.0.1	gamma.v0xencrate.ru
+127.0.0.1	fizz.v0xencrate.ru
+127.0.0.1	coil.v0xencrate.ru
+127.0.0.1	azcw.v0xencrate.ru
+127.0.0.1	16s.quark-spoon.ru
+127.0.0.1	g8xs.quark-spoon.ru
+127.0.0.1	8a.quark-spoon.ru
 127.0.0.1	snarl.quark-spoon.ru
 127.0.0.1	grit.sn-1-rlpatch.ru
 127.0.0.1	9lp0.sn-1-rlpatch.ru
@@ -51267,5 +51333,4 @@
 127.0.0.1	hamster-exchange.top
 127.0.0.1	return-aug.gl.at.ply.gg
 127.0.0.1	anyukov-43802.portmap.io
-127.0.0.1	webapi.360se.dpdns.org
-# Number of entries: 51262
+# Number of entries: 51327
