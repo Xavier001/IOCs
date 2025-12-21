@@ -1,11 +1,28 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-21 10:08:06 UTC                        #
+# Last updated: 2025-12-21 12:15:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	py9.bracketfern.ru
+127.0.0.1	rblfh.bracketfern.ru
+127.0.0.1	maaahao.vip
+127.0.0.1	danaloids-38924.portmap.host
+127.0.0.1	scd.bracketfern.ru
+127.0.0.1	cc.bracketfern.ru
+127.0.0.1	507.fl-1-ntrelay.ru
+127.0.0.1	trace.fl-1-ntrelay.ru
+127.0.0.1	8o9r.fl-1-ntrelay.ru
+127.0.0.1	832ez.fl-1-ntrelay.ru
+127.0.0.1	km.hollowfizz.ru
+127.0.0.1	weird.hollowfizz.ru
+127.0.0.1	jingle.hollowfizz.ru
+127.0.0.1	glitch.hollowfizz.ru
+127.0.0.1	crate.j-1-ngleknob.ru
+127.0.0.1	spark.j-1-ngleknob.ru
+127.0.0.1	yf2i.j-1-ngleknob.ru
 127.0.0.1	8udp8.j-1-ngleknob.ru
 127.0.0.1	xze.hollow-fizz.ru
 127.0.0.1	beta.hollow-fizz.ru
@@ -51330,7 +51347,4 @@
 127.0.0.1	security.fpwergwavrd.com
 127.0.0.1	posugxa.com
 127.0.0.1	microsoftcdnlicense.putinswin.es
-127.0.0.1	hamster-exchange.top
-127.0.0.1	return-aug.gl.at.ply.gg
-127.0.0.1	anyukov-43802.portmap.io
-# Number of entries: 51327
+# Number of entries: 51341
