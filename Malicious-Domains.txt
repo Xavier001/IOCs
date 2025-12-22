@@ -1,11 +1,101 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-22 12:30:51 UTC                        #
+# Last updated: 2025-12-22 22:05:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	jarnuq.dev0urspon8y.ru
+127.0.0.1	gipxot.dev0urspon8y.ru
+127.0.0.1	vufmel.dev0urspon8y.ru
+127.0.0.1	doxqer.dev0urspon8y.ru
+127.0.0.1	tusgiv.ab5olutsa8ogul.ru
+127.0.0.1	qenfob.ab5olutsa8ogul.ru
+127.0.0.1	haxdir.ab5olutsa8ogul.ru
+127.0.0.1	julmon.ab5olutsa8ogul.ru
+127.0.0.1	pezqiv.ab5olutsa8ogul.ru
+127.0.0.1	worfik.sy2bkywa1tz.ru
+127.0.0.1	hivbep.sy2bkywa1tz.ru
+127.0.0.1	tejxom.sy2bkywa1tz.ru
+127.0.0.1	guslin.sy2bkywa1tz.ru
+127.0.0.1	naxqer.sy2bkywa1tz.ru
+127.0.0.1	hubqen.c1otheto0th.ru
+127.0.0.1	jykfer.c1otheto0th.ru
+127.0.0.1	rce.cool
+127.0.0.1	apis.sentihey.dedyn.io
+127.0.0.1	notifications.sentihey.dedyn.io
+127.0.0.1	account.sentihey.dedyn.io
+127.0.0.1	login.microsoftonline.sentihey.dedyn.io
+127.0.0.1	pavxom.c1otheto0th.ru
+127.0.0.1	wuzgek.c1otheto0th.ru
+127.0.0.1	sefqid.c1otheto0th.ru
+127.0.0.1	tixqup.dropga7net5.ru
+127.0.0.1	morsiv.dropga7net5.ru
+127.0.0.1	jaltep.dropga7net5.ru
+127.0.0.1	buvmix.dropga7net5.ru
+127.0.0.1	gyzqen.dropga7net5.ru
+127.0.0.1	darpig.ann0uneterna1.ru
+127.0.0.1	wixlob.ann0uneterna1.ru
+127.0.0.1	havqen.ann0uneterna1.ru
+127.0.0.1	mirxup.ann0uneterna1.ru
+127.0.0.1	qolzef.ann0uneterna1.ru
+127.0.0.1	zobqen.ext0rttramp1e.ru
+127.0.0.1	tusbev.ext0rttramp1e.ru
+127.0.0.1	kijfer.ext0rttramp1e.ru
+127.0.0.1	valpuz.ext0rttramp1e.ru
+127.0.0.1	nexqit.ext0rttramp1e.ru
+127.0.0.1	userrd1pre-46688.portmap.host
+127.0.0.1	hyltok.b0rzvorsink2.ru
+127.0.0.1	werguf.b0rzvorsink2.ru
+127.0.0.1	jadxiv.b0rzvorsink2.ru
+127.0.0.1	mufqen.b0rzvorsink2.ru
+127.0.0.1	pexvur.b0rzvorsink2.ru
+127.0.0.1	mot.kievholod.kiev.ua
+127.0.0.1	web-telegram.us
+127.0.0.1	sokqiz.bunkerle0p2rd.ru
+127.0.0.1	jivtep.bunkerle0p2rd.ru
+127.0.0.1	daxmor.bunkerle0p2rd.ru
+127.0.0.1	guzlav.bunkerle0p2rd.ru
+127.0.0.1	wifqen.bunkerle0p2rd.ru
+127.0.0.1	mertuk.incur2b1epity.ru
+127.0.0.1	vozqen.incur2b1epity.ru
+127.0.0.1	sulbik.incur2b1epity.ru
+127.0.0.1	gaxfen.incur2b1epity.ru
+127.0.0.1	tibqov.incur2b1epity.ru
+127.0.0.1	pelyqu.ro1luzbek5.ru
+127.0.0.1	lh3.sentihey.dedyn.io
+127.0.0.1	mugtev.ro1luzbek5.ru
+127.0.0.1	lund.0cusign.com
+127.0.0.1	dorzep.ro1luzbek5.ru
+127.0.0.1	wafnib.ro1luzbek5.ru
+127.0.0.1	hixqer.ro1luzbek5.ru
+127.0.0.1	guzvem.hate7reven2nt.ru
+127.0.0.1	tyxqer.hate7reven2nt.ru
+127.0.0.1	mabfin.hate7reven2nt.ru
+127.0.0.1	qevhop.hate7reven2nt.ru
+127.0.0.1	zorluk.hate7reven2nt.ru
+127.0.0.1	stratosphereventuresgo.com
+127.0.0.1	growthcatalystone.com
+127.0.0.1	growthcatalystes.com
+127.0.0.1	operationalexcellenceus.com
+127.0.0.1	tufqib.dur2tionjuda5.ru
+127.0.0.1	pivsen.dur2tionjuda5.ru
+127.0.0.1	hajqow.dur2tionjuda5.ru
+127.0.0.1	merliv.dur2tionjuda5.ru
+127.0.0.1	xuqfen.dur2tionjuda5.ru
+127.0.0.1	kyrqen.b2nchikwa5te.ru
+127.0.0.1	woslem.b2nchikwa5te.ru
+127.0.0.1	faytuk.b2nchikwa5te.ru
+127.0.0.1	mivqer.b2nchikwa5te.ru
+127.0.0.1	images.weightlosstonight.net
+127.0.0.1	uvenom.sa.com
+127.0.0.1	ocharovan.ru.com
+127.0.0.1	dexhib.b2nchikwa5te.ru
+127.0.0.1	jorqit.c1utter0ver.ru
+127.0.0.1	wulgev.c1utter0ver.ru
+127.0.0.1	xamfop.c1utter0ver.ru
+127.0.0.1	tibxal.c1utter0ver.ru
 127.0.0.1	kuzqer.c1utter0ver.ru
 127.0.0.1	mepdic.buoyc0mp1aint.ru
 127.0.0.1	gobxur.buoyc0mp1aint.ru
@@ -51427,15 +51517,4 @@
 127.0.0.1	app2.symphoniabags.com
 127.0.0.1	fazstpgnpnqb0.cfc-execute.bj.baidubce.com
 127.0.0.1	1357965137-bafd04zr1t.ap-guangzhou.tencentscf.com
-127.0.0.1	sp.b0t.me
-127.0.0.1	ns2.ns.xiaotusu.top
-127.0.0.1	ns1.ns.xiaotusu.top
-127.0.0.1	johncollins55-29335.portmap.io
-127.0.0.1	espinyskibidi-40205.portmap.host
-127.0.0.1	b1.cornmealjustly.lat
-127.0.0.1	panel333222111.icu
-127.0.0.1	holycrappycrap.no-ip.org
-127.0.0.1	snezze-27701.portmap.io
-127.0.0.1	hackblue.zapto.org
-127.0.0.1	myhost5.ddns.net
-# Number of entries: 51432
+# Number of entries: 51511
