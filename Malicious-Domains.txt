@@ -1,11 +1,27 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-22 10:17:57 UTC                        #
+# Last updated: 2025-12-22 12:30:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	kuzqer.c1utter0ver.ru
+127.0.0.1	mepdic.buoyc0mp1aint.ru
+127.0.0.1	gobxur.buoyc0mp1aint.ru
+127.0.0.1	sevqet.buoyc0mp1aint.ru
+127.0.0.1	rm2.zomfile.in
+127.0.0.1	rmm.zomfile.in
+127.0.0.1	jaxbim.buoyc0mp1aint.ru
+127.0.0.1	nufvel.buoyc0mp1aint.ru
+127.0.0.1	pylguf.bobi1dece4.ru
+127.0.0.1	romxet.bobi1dece4.ru
+127.0.0.1	hezqow.bobi1dece4.ru
+127.0.0.1	tujfim.bobi1dece4.ru
+127.0.0.1	vacdiz.bobi1dece4.ru
+127.0.0.1	metqiv.tr2chec0rrupt.ru
+127.0.0.1	danzep.tr2chec0rrupt.ru
+127.0.0.1	yufmib.tr2chec0rrupt.ru
 127.0.0.1	qerhot.tr2chec0rrupt.ru
 127.0.0.1	zabxuq.tr2chec0rrupt.ru
 127.0.0.1	tadqis.gir1y5om.ru
@@ -51422,9 +51438,4 @@
 127.0.0.1	snezze-27701.portmap.io
 127.0.0.1	hackblue.zapto.org
 127.0.0.1	myhost5.ddns.net
-127.0.0.1	asasas44-58548.portmap.io
-127.0.0.1	season-clothes.gl.at.ply.gg
-127.0.0.1	waohsfs-48136.portmap.io
-127.0.0.1	de5.localto.net
-127.0.0.1	regional-evaluate.gl.at.ply.gg
-# Number of entries: 51421
+# Number of entries: 51432
