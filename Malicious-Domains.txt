@@ -1,11 +1,59 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-22 04:27:43 UTC                        #
+# Last updated: 2025-12-22 10:17:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	qerhot.tr2chec0rrupt.ru
+127.0.0.1	zabxuq.tr2chec0rrupt.ru
+127.0.0.1	tadqis.gir1y5om.ru
+127.0.0.1	muxler.gir1y5om.ru
+127.0.0.1	bexhud.gir1y5om.ru
+127.0.0.1	jofynk.gir1y5om.ru
+127.0.0.1	wimqaz.gir1y5om.ru
+127.0.0.1	pamxeg.humb1epr2bab.ru
+127.0.0.1	sukbiv.humb1epr2bab.ru
+127.0.0.1	qelmot.humb1epr2bab.ru
+127.0.0.1	onetools.pages.dev
+127.0.0.1	gate2.pages.dev
+127.0.0.1	vixqew.humb1epr2bab.ru
+127.0.0.1	rutfan.humb1epr2bab.ru
+127.0.0.1	tezqiw.chup7unwhe7e.ru
+127.0.0.1	lumvot.chup7unwhe7e.ru
+127.0.0.1	josqen.chup7unwhe7e.ru
+127.0.0.1	harsib.chup7unwhe7e.ru
+127.0.0.1	xlabarechinks.anondns.net
+127.0.0.1	webbnbinance.xyz
+127.0.0.1	qymfel.chup7unwhe7e.ru
+127.0.0.1	pyxhad.mo5hnap2sser.ru
+127.0.0.1	tivwel.mo5hnap2sser.ru
+127.0.0.1	centscarf.xyz
+127.0.0.1	mabqir.mo5hnap2sser.ru
+127.0.0.1	xovfej.mo5hnap2sser.ru
+127.0.0.1	21food.cn.com
+127.0.0.1	mingxing.cn.com
+127.0.0.1	chis.cn.com
+127.0.0.1	iciba.cn.com
+127.0.0.1	bot.doball99.live
+127.0.0.1	retoinnovacion.xyz
+127.0.0.1	aped.sa.com
+127.0.0.1	fly88-vn01.pro
+127.0.0.1	zelnip.mo5hnap2sser.ru
+127.0.0.1	hozqen.auth0r1tjudo.ru
+127.0.0.1	cyrtuf.auth0r1tjudo.ru
+127.0.0.1	wajbim.auth0r1tjudo.ru
+127.0.0.1	guxlem.auth0r1tjudo.ru
+127.0.0.1	bivqet.auth0r1tjudo.ru
+127.0.0.1	dibzow.howi2unbe1.ru
+127.0.0.1	mepqig.howi2unbe1.ru
+127.0.0.1	tusfeb.howi2unbe1.ru
+127.0.0.1	vokxur.howi2unbe1.ru
+127.0.0.1	hylqen.howi2unbe1.ru
+127.0.0.1	jopdez.l2ckey5mina.ru
+127.0.0.1	wacgij.l2ckey5mina.ru
+127.0.0.1	syhmot.l2ckey5mina.ru
 127.0.0.1	vugpiz.l2ckey5mina.ru
 127.0.0.1	qefrik.l2ckey5mina.ru
 127.0.0.1	tinsaq.ha1fmakin8.ru
@@ -51379,11 +51427,4 @@
 127.0.0.1	waohsfs-48136.portmap.io
 127.0.0.1	de5.localto.net
 127.0.0.1	regional-evaluate.gl.at.ply.gg
-127.0.0.1	trezor-io-start.typedream.app
-127.0.0.1	justhk.saoken.me
-127.0.0.1	www.dulcidora.com.br
-127.0.0.1	ns1.basicvitals.com
-127.0.0.1	security.gyredoflzares.com
-127.0.0.1	gowqpaz.com
-127.0.0.1	test.manageenglne.com
-# Number of entries: 51380
+# Number of entries: 51421
