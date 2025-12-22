@@ -1,11 +1,53 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-21 22:08:03 UTC                        #
+# Last updated: 2025-12-22 04:27:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	vugpiz.l2ckey5mina.ru
+127.0.0.1	qefrik.l2ckey5mina.ru
+127.0.0.1	tinsaq.ha1fmakin8.ru
+127.0.0.1	golpev.ha1fmakin8.ru
+127.0.0.1	myrjug.ha1fmakin8.ru
+127.0.0.1	xutwel.ha1fmakin8.ru
+127.0.0.1	bafqem.ha1fmakin8.ru
+127.0.0.1	pusdeg.ext1nctlog8ia.ru
+127.0.0.1	jirywu.ext1nctlog8ia.ru
+127.0.0.1	mnabeg.ext1nctlog8ia.ru
+127.0.0.1	tilxur.ext1nctlog8ia.ru
+127.0.0.1	45.156.87.153.nip.io
+127.0.0.1	8j6dt21smgcw0.cfc-execute.su.baidubce.com
+127.0.0.1	vopqew.ext1nctlog8ia.ru
+127.0.0.1	fezqun.b1u7tpercep.ru
+127.0.0.1	kipwet.b1u7tpercep.ru
+127.0.0.1	muvcif.b1u7tpercep.ru
+127.0.0.1	hyldox.b1u7tpercep.ru
+127.0.0.1	zqneby.b1u7tpercep.ru
+127.0.0.1	wugbem.re1e8atedday.ru
+127.0.0.1	tixfoq.re1e8atedday.ru
+127.0.0.1	sabqer.re1e8atedday.ru
+127.0.0.1	mirkub.re1e8atedday.ru
+127.0.0.1	gxyfew.re1e8atedday.ru
+127.0.0.1	piahuz.nep2le5reach.ru
+127.0.0.1	ktnsib.nep2le5reach.ru
+127.0.0.1	woljaf.nep2le5reach.ru
+127.0.0.1	yxmdeq.nep2le5reach.ru
+127.0.0.1	fvgqer.nep2le5reach.ru
+127.0.0.1	tyrwam.stumbv1gil2nt.ru
+127.0.0.1	ub.testingweblink.com
+127.0.0.1	qepzot.stumbv1gil2nt.ru
+127.0.0.1	lbqhiw.stumbv1gil2nt.ru
+127.0.0.1	vutmeq.stumbv1gil2nt.ru
+127.0.0.1	xyrfom.stumbv1gil2nt.ru
+127.0.0.1	jafkim.frei1r2tions.ru
+127.0.0.1	zuhxoq.frei1r2tions.ru
+127.0.0.1	pvnemi.frei1r2tions.ru
+127.0.0.1	gsbqot.frei1r2tions.ru
+127.0.0.1	iclw7k.frei1r2tions.ru
+127.0.0.1	hulsaf.f1atte5tudies.ru
+127.0.0.1	bexiq9.f1atte5tudies.ru
 127.0.0.1	xiwfut.f1atte5tudies.ru
 127.0.0.1	qtrmew.f1atte5tudies.ru
 127.0.0.1	uijy5p.f1atte5tudies.ru
@@ -51344,13 +51386,4 @@
 127.0.0.1	security.gyredoflzares.com
 127.0.0.1	gowqpaz.com
 127.0.0.1	test.manageenglne.com
-127.0.0.1	elgg.santutxuht.eus
-127.0.0.1	ecs-113-44-139-80.compute.hwclouds-dns.com
-127.0.0.1	ms-pupils.gl.at.ply.gg
-127.0.0.1	ansy10jun.duckdns.org
-127.0.0.1	asegurar3octubre.duckdns.org
-127.0.0.1	asegurar2octubre.duckdns.org
-127.0.0.1	zombiedomain.sytes.net
-127.0.0.1	catherinekey1965-28715.portmap.io
-127.0.0.1	ratforme.ddns.net
-# Number of entries: 51347
+# Number of entries: 51380
