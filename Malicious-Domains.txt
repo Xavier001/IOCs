@@ -1,11 +1,51 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-23 10:11:45 UTC                        #
+# Last updated: 2025-12-23 12:34:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	vigilantguildsatori.com
+127.0.0.1	wodqis.quartz-jolt.ru
+127.0.0.1	tufhel.quartz-jolt.ru
+127.0.0.1	mepxuv.quartz-jolt.ru
+127.0.0.1	zylqen.quartz-jolt.ru
+127.0.0.1	motherpure.duckdns.org
+127.0.0.1	tazmel.sn0cklebeam.ru
+127.0.0.1	logs.giftingbuddy.in.net
+127.0.0.1	download.giftingbuddy.in.net
+127.0.0.1	cdn.aref.co.com
+127.0.0.1	download.iciba.cn.com
+127.0.0.1	download.chis.cn.com
+127.0.0.1	download.mingxing.cn.com
+127.0.0.1	download.21food.cn.com
+127.0.0.1	logs.rieege.mx
+127.0.0.1	download.rieege.mx
+127.0.0.1	bendecidos8624blessd.dynuddns.com
+127.0.0.1	cdn.koz1.in.net
+127.0.0.1	logs.koz1.in.net
+127.0.0.1	download.koz1.in.net
+127.0.0.1	cdn.egestx.ru.com
+127.0.0.1	download.egestx.ru.com
+127.0.0.1	vupxir.sn0cklebeam.ru
+127.0.0.1	qesdul.sn0cklebeam.ru
+127.0.0.1	sousssf-39168.portmap.host
+127.0.0.1	harbex.sn0cklebeam.ru
+127.0.0.1	jivqam.sn0cklebeam.ru
+127.0.0.1	nextra.in.net
+127.0.0.1	www.aliyuncloud.icu
+127.0.0.1	morxip.plume-vortex.ru
+127.0.0.1	tuvqen.plume-vortex.ru
+127.0.0.1	jaxhef.plume-vortex.ru
+127.0.0.1	wufmib.plume-vortex.ru
+127.0.0.1	kezqer.plume-vortex.ru
+127.0.0.1	tazqiv.quartzjolt.ru
+127.0.0.1	jorxep.quartzjolt.ru
+127.0.0.1	hemnob.quartzjolt.ru
+127.0.0.1	safqil.quartzjolt.ru
+127.0.0.1	vudxen.quartzjolt.ru
+127.0.0.1	jafqim.gr-1-tfable.ru
 127.0.0.1	wudhel.gr-1-tfable.ru
 127.0.0.1	mepxod.gr-1-tfable.ru
 127.0.0.1	tivmon.gr-1-tfable.ru
@@ -51614,6 +51654,4 @@
 127.0.0.1	kids-indeed.gl.at.ply.gg
 127.0.0.1	wwwsec.top
 127.0.0.1	search.2y3rn846.com
-127.0.0.1	surfshark.pw
-127.0.0.1	shallowrepurpose.top
-# Number of entries: 51610
+# Number of entries: 51648
