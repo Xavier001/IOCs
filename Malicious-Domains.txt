@@ -1,11 +1,60 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-22 22:05:30 UTC                        #
+# Last updated: 2025-12-23 04:22:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	vyrqet.bramble-zip.ru
+127.0.0.1	hapdig.me2n5precede.ru
+127.0.0.1	sifqen.me2n5precede.ru
+127.0.0.1	tooki-hzlbsvr.sbs
+127.0.0.1	jertol.me2n5precede.ru
+127.0.0.1	wumxib.me2n5precede.ru
+127.0.0.1	kavqet.me2n5precede.ru
+127.0.0.1	joltev.m2ximtherm0s.ru
+127.0.0.1	werpix.m2ximtherm0s.ru
+127.0.0.1	hufqam.m2ximtherm0s.ru
+127.0.0.1	davlon.m2ximtherm0s.ru
+127.0.0.1	qepxir.m2ximtherm0s.ru
+127.0.0.1	mazfil.narr2tpenici1l.ru
+127.0.0.1	missmovie.lol
+127.0.0.1	gutqer.narr2tpenici1l.ru
+127.0.0.1	vexhup.narr2tpenici1l.ru
+127.0.0.1	jodxif.narr2tpenici1l.ru
+127.0.0.1	sylqen.narr2tpenici1l.ru
+127.0.0.1	pafqud.g2un7makeup.ru
+127.0.0.1	jebxit.g2un7makeup.ru
+127.0.0.1	murlop.g2un7makeup.ru
+127.0.0.1	hazmiz.g2un7makeup.ru
+127.0.0.1	tivqer.g2un7makeup.ru
+127.0.0.1	mabneg.hump7yb0lt.ru
+127.0.0.1	jivqot.hump7yb0lt.ru
+127.0.0.1	doxbim.hump7yb0lt.ru
+127.0.0.1	wytlaf.hump7yb0lt.ru
+127.0.0.1	huzqer.hump7yb0lt.ru
+127.0.0.1	gipqen.f0undoutw2y.ru
+127.0.0.1	vaklid.f0undoutw2y.ru
+127.0.0.1	sorxep.f0undoutw2y.ru
+127.0.0.1	juzmat.f0undoutw2y.ru
+127.0.0.1	nyfqeg.f0undoutw2y.ru
+127.0.0.1	tabqis.rea8erepr1nt.ru
+127.0.0.1	merxot.rea8erepr1nt.ru
+127.0.0.1	dukfen.rea8erepr1nt.ru
+127.0.0.1	xylbim.rea8erepr1nt.ru
+127.0.0.1	povqer.rea8erepr1nt.ru
+127.0.0.1	hertuq.imp0rttwi5t.ru
+127.0.0.1	sugbim.imp0rttwi5t.ru
+127.0.0.1	javxet.imp0rttwi5t.ru
+127.0.0.1	wodlup.imp0rttwi5t.ru
+127.0.0.1	xifqen.imp0rttwi5t.ru
+127.0.0.1	gerxif.a8ent5ing.ru
+127.0.0.1	bipmuh.a8ent5ing.ru
+127.0.0.1	vazqer.a8ent5ing.ru
+127.0.0.1	tufxew.a8ent5ing.ru
+127.0.0.1	mynqob.a8ent5ing.ru
+127.0.0.1	hexqiv.dev0urspon8y.ru
 127.0.0.1	jarnuq.dev0urspon8y.ru
 127.0.0.1	gipxot.dev0urspon8y.ru
 127.0.0.1	vufmel.dev0urspon8y.ru
@@ -51513,8 +51562,5 @@
 127.0.0.1	faospe.com
 127.0.0.1	onmolatori.icu
 127.0.0.1	static.161.152.69.159.clients.your-server.de
-127.0.0.1	photo.suziestuder.com
 127.0.0.1	app2.symphoniabags.com
-127.0.0.1	fazstpgnpnqb0.cfc-execute.bj.baidubce.com
-127.0.0.1	1357965137-bafd04zr1t.ap-guangzhou.tencentscf.com
-# Number of entries: 51511
+# Number of entries: 51557
