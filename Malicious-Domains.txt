@@ -1,11 +1,71 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-24 04:22:18 UTC                        #
+# Last updated: 2025-12-24 10:07:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	qerfo7.luz7it5tretch.ru
+127.0.0.1	mavlun.luz7it5tretch.ru
+127.0.0.1	hez3it.pa1mi5trythat.ru
+127.0.0.1	wolpek.pa1mi5trythat.ru
+127.0.0.1	tivran.pa1mi5trythat.ru
+127.0.0.1	ser1up.pa1mi5trythat.ru
+127.0.0.1	juqmal.pa1mi5trythat.ru
+127.0.0.1	boxram.ar5hinas5ist.ru
+127.0.0.1	hunled.ar5hinas5ist.ru
+127.0.0.1	zem5iq.ar5hinas5ist.ru
+127.0.0.1	tilgor.ar5hinas5ist.ru
+127.0.0.1	parvux.ar5hinas5ist.ru
+127.0.0.1	zodrey.gig8lere1y.ru
+127.0.0.1	harbit.gig8lere1y.ru
+127.0.0.1	qimle8.gig8lere1y.ru
+127.0.0.1	obsidiangate.space
+127.0.0.1	focusgroovy.com
+127.0.0.1	vulgan.gig8lere1y.ru
+127.0.0.1	fexmor.gig8lere1y.ru
+127.0.0.1	kenfyl.lobo8rnerf1.ru
+127.0.0.1	jiv8ro.lobo8rnerf1.ru
+127.0.0.1	solbam.lobo8rnerf1.ru
+127.0.0.1	zong.elpaies.info
+127.0.0.1	xuang.elpaies.info
+127.0.0.1	hudrex.lobo8rnerf1.ru
+127.0.0.1	wirgol.lobo8rnerf1.ru
+127.0.0.1	andredorethrenody.com
+127.0.0.1	remont-center.ru.com
+127.0.0.1	camerica.co.com
+127.0.0.1	ib-boq.co.com
+127.0.0.1	visionsfederalcredit.co.com
+127.0.0.1	stifelwealth.co.com
+127.0.0.1	trustonefinancial.co.com
+127.0.0.1	uwcreditunion.co.com
+127.0.0.1	midfloridacreditunion.co.com
+127.0.0.1	firsthorizonbank.co.com
+127.0.0.1	robinsfinancialcredit.co.com
+127.0.0.1	df999-20.com
+127.0.0.1	ojxqy.sa.com
+127.0.0.1	ersel33640.freedynamicdns.org
+127.0.0.1	78win88.co.com
+127.0.0.1	sivqen.a8riculmarb1e.ru
+127.0.0.1	tam8re.a8riculmarb1e.ru
+127.0.0.1	pruxol.a8riculmarb1e.ru
+127.0.0.1	levhun.a8riculmarb1e.ru
+127.0.0.1	darmiq.a8riculmarb1e.ru
+127.0.0.1	mufden.f1ysynchr0n.ru
+127.0.0.1	jostiq.f1ysynchr0n.ru
+127.0.0.1	valcyn.f1ysynchr0n.ru
+127.0.0.1	hepm1r.f1ysynchr0n.ru
+127.0.0.1	grylox.f1ysynchr0n.ru
+127.0.0.1	tivsek.r1dsheet5et.ru
+127.0.0.1	pufnar.r1dsheet5et.ru
+127.0.0.1	loxme7.r1dsheet5et.ru
+127.0.0.1	qerdit.r1dsheet5et.ru
+127.0.0.1	slanef.r1dsheet5et.ru
+127.0.0.1	pixhun.gethun8le2r.ru
+127.0.0.1	velgor.gethun8le2r.ru
+127.0.0.1	murd1n.gethun8le2r.ru
+127.0.0.1	teqvax.gethun8le2r.ru
 127.0.0.1	folmir.gethun8le2r.ru
 127.0.0.1	wizfem.bo0ndc0pe.ru
 127.0.0.1	culdar.bo0ndc0pe.ru
@@ -51792,20 +51852,4 @@
 127.0.0.1	kerneltaskmanager.com
 127.0.0.1	28k85x5jb1k9a.cfc-execute.bj.baidubce.com
 127.0.0.1	1357965137-hnjcoxitoz.ap-guangzhou.tencentscf.com
-127.0.0.1	securityhealthsystray.ydns.eu
-127.0.0.1	adiobast.icu
-127.0.0.1	wmieventlogonlinehelp.ydns.eu
-127.0.0.1	kamdum.duckdns.org
-127.0.0.1	kamdumbk.duckdns.org
-127.0.0.1	systemcopilotdriver.ydns.eu
-127.0.0.1	rem.aaahorneswll.com
-127.0.0.1	eyeagreement.info
-127.0.0.1	ecs-1-94-41-160.compute.hwclouds-dns.com
-127.0.0.1	imap.dkairsystems.com
-127.0.0.1	arni110.painhealingcenter.com
-127.0.0.1	ec2-100-25-215-41.compute-1.amazonaws.com
-127.0.0.1	security.fhqreagurard.com
-127.0.0.1	dovlica.com
-127.0.0.1	devindicator.dev
-127.0.0.1	webdatacache.com
-# Number of entries: 51802
+# Number of entries: 51846
