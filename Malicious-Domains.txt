@@ -1,11 +1,62 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-23 22:14:33 UTC                        #
+# Last updated: 2025-12-24 04:22:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	folmir.gethun8le2r.ru
+127.0.0.1	wizfem.bo0ndc0pe.ru
+127.0.0.1	culdar.bo0ndc0pe.ru
+127.0.0.1	atlanta.testingweblink.com
+127.0.0.1	jomvet.bo0ndc0pe.ru
+127.0.0.1	breq2o.bo0ndc0pe.ru
+127.0.0.1	haxlim.bo0ndc0pe.ru
+127.0.0.1	sub9ek.circu1arc0pna.ru
+127.0.0.1	meflar.circu1arc0pna.ru
+127.0.0.1	tizruk.circu1arc0pna.ru
+127.0.0.1	vorqen.circu1arc0pna.ru
+127.0.0.1	dalmex.circu1arc0pna.ru
+127.0.0.1	33.cl0udtrace.ru
+127.0.0.1	6us.cl0udtrace.ru
+127.0.0.1	b7.cl0udtrace.ru
+127.0.0.1	vl.cl0udtrace.ru
+127.0.0.1	sag1.cl0udtrace.ru
+127.0.0.1	link.windm1nd.ru
+127.0.0.1	hf.windm1nd.ru
+127.0.0.1	ejsdi.windm1nd.ru
+127.0.0.1	mq.windm1nd.ru
+127.0.0.1	soft.windm1nd.ru
+127.0.0.1	ts.softcl0ud.ru
+127.0.0.1	lurn.softcl0ud.ru
+127.0.0.1	fhu9.softcl0ud.ru
+127.0.0.1	3get.softcl0ud.ru
+127.0.0.1	lm.softcl0ud.ru
+127.0.0.1	9c.bluecl1ff.ru
+127.0.0.1	tmp.bluecl1ff.ru
+127.0.0.1	dpou.bluecl1ff.ru
+127.0.0.1	y36.bluecl1ff.ru
+127.0.0.1	a5.bluecl1ff.ru
+127.0.0.1	g0nd9.rainst0ne.ru
+127.0.0.1	u0b.rainst0ne.ru
+127.0.0.1	sky.rainst0ne.ru
+127.0.0.1	storm.rainst0ne.ru
+127.0.0.1	nl.rainst0ne.ru
+127.0.0.1	679.skyf0rge.ru
+127.0.0.1	mint.skyf0rge.ru
+127.0.0.1	d0.skyf0rge.ru
+127.0.0.1	6wz.skyf0rge.ru
+127.0.0.1	gate.skyf0rge.ru
+127.0.0.1	y6gbc.n1ghtcore.ru
+127.0.0.1	nexus.n1ghtcore.ru
+127.0.0.1	spark.n1ghtcore.ru
+127.0.0.1	id.n1ghtcore.ru
+127.0.0.1	d2.n1ghtcore.ru
+127.0.0.1	kxc.f1relayer.ru
+127.0.0.1	light.f1relayer.ru
+127.0.0.1	m5ax.f1relayer.ru
+127.0.0.1	silent.f1relayer.ru
 127.0.0.1	roh.f1relayer.ru
 127.0.0.1	wave.shadowl1nk.ru
 127.0.0.1	scq.shadowl1nk.ru
@@ -51757,11 +51808,4 @@
 127.0.0.1	dovlica.com
 127.0.0.1	devindicator.dev
 127.0.0.1	webdatacache.com
-127.0.0.1	owa.printermaintenanceservice.com
-127.0.0.1	profile.printermaintenanceservice.com
-127.0.0.1	ns3.ceshi897.cn
-127.0.0.1	ns2.ceshi897.cn
-127.0.0.1	ns1.ceshi897.cn
-127.0.0.1	mail.printermaintenanceservice.com
-127.0.0.1	cdn.feilvbing111.top
-# Number of entries: 51758
+# Number of entries: 51802
