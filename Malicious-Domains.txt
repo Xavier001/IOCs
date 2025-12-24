@@ -1,11 +1,28 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-24 10:07:00 UTC                        #
+# Last updated: 2025-12-24 12:32:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	pelqen.0rav2uterus.ru
+127.0.0.1	musrin.0rav2uterus.ru
+127.0.0.1	taldor.0rav2uterus.ru
+127.0.0.1	orvex0.0rav2uterus.ru
+127.0.0.1	hylvet.fl0rinf2t.ru
+127.0.0.1	carmin.fl0rinf2t.ru
+127.0.0.1	sundel.fl0rinf2t.ru
+127.0.0.1	velmar.fl0rinf2t.ru
+127.0.0.1	florix.fl0rinf2t.ru
+127.0.0.1	jubran.imp2ctto1st.ru
+127.0.0.1	hilvex.imp2ctto1st.ru
+127.0.0.1	tarfyn.imp2ctto1st.ru
+127.0.0.1	morqel.imp2ctto1st.ru
+127.0.0.1	vexlun.imp2ctto1st.ru
+127.0.0.1	suvnit.luz7it5tretch.ru
+127.0.0.1	tolcem.luz7it5tretch.ru
+127.0.0.1	dibrax.luz7it5tretch.ru
 127.0.0.1	qerfo7.luz7it5tretch.ru
 127.0.0.1	mavlun.luz7it5tretch.ru
 127.0.0.1	hez3it.pa1mi5trythat.ru
@@ -51852,4 +51869,4 @@
 127.0.0.1	kerneltaskmanager.com
 127.0.0.1	28k85x5jb1k9a.cfc-execute.bj.baidubce.com
 127.0.0.1	1357965137-hnjcoxitoz.ap-guangzhou.tencentscf.com
-# Number of entries: 51846
+# Number of entries: 51863
