@@ -1,11 +1,61 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-24 22:10:15 UTC                        #
+# Last updated: 2025-12-25 04:23:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wrbe.0ctave5pairi.ru
+127.0.0.1	6o2p1.0ctave5pairi.ru
+127.0.0.1	loop.0ctave5pairi.ru
+127.0.0.1	hyidb.f0rtunmentho1.ru
+127.0.0.1	llamafr.click
+127.0.0.1	blue.f0rtunmentho1.ru
+127.0.0.1	989.f0rtunmentho1.ru
+127.0.0.1	8gr.f0rtunmentho1.ru
+127.0.0.1	breeze.f0rtunmentho1.ru
+127.0.0.1	pcjls.grim1atin0s.ru
+127.0.0.1	f8bkf.grim1atin0s.ru
+127.0.0.1	path.grim1atin0s.ru
+127.0.0.1	ridge.grim1atin0s.ru
+127.0.0.1	aso.grim1atin0s.ru
+127.0.0.1	deep.ga8tukh1yat.ru
+127.0.0.1	wgm.ga8tukh1yat.ru
+127.0.0.1	ewrd3.ga8tukh1yat.ru
+127.0.0.1	stone.ga8tukh1yat.ru
+127.0.0.1	pi87t.ga8tukh1yat.ru
+127.0.0.1	crest.dua1i5mmuksun.ru
+127.0.0.1	ul34.dua1i5mmuksun.ru
+127.0.0.1	t5.dua1i5mmuksun.ru
+127.0.0.1	alpha.dua1i5mmuksun.ru
+127.0.0.1	ui.dua1i5mmuksun.ru
+127.0.0.1	86ds.bracket-loam.ru
+127.0.0.1	quw6l.bracket-loam.ru
+127.0.0.1	7gp8l.bracket-loam.ru
+127.0.0.1	6x79j.bracket-loam.ru
+127.0.0.1	qnb11.bracket-loam.ru
+127.0.0.1	jl.bracketloam.ru
+127.0.0.1	u0.bracketloam.ru
+127.0.0.1	3ym.bracketloam.ru
+127.0.0.1	vixen.bracketloam.ru
+127.0.0.1	ocev.bracketloam.ru
+127.0.0.1	xt.fl-0-wmortar.ru
+127.0.0.1	r15yi.fl-0-wmortar.ru
+127.0.0.1	bnh19.fl-0-wmortar.ru
+127.0.0.1	flint.fl-0-wmortar.ru
+127.0.0.1	1p53.fl-0-wmortar.ru
+127.0.0.1	bwp.hushzigzag.ru
+127.0.0.1	v21nv.hushzigzag.ru
+127.0.0.1	beta.hushzigzag.ru
+127.0.0.1	8nf25.hushzigzag.ru
+127.0.0.1	spark.hushzigzag.ru
+127.0.0.1	hgd7l.hush-zigzag.ru
+127.0.0.1	glitch.hush-zigzag.ru
+127.0.0.1	d3k.hush-zigzag.ru
+127.0.0.1	hush.hush-zigzag.ru
+127.0.0.1	tt.hush-zigzag.ru
+127.0.0.1	warp.j1nxbuckle.ru
 127.0.0.1	snip.j1nxbuckle.ru
 127.0.0.1	2b3n1.j1nxbuckle.ru
 127.0.0.1	vh.j1nxbuckle.ru
@@ -51929,11 +51979,4 @@
 127.0.0.1	michikodom.duckdns.org
 127.0.0.1	security.fjaregarads.com
 127.0.0.1	oswyka.com
-127.0.0.1	114-34-241-92.hinet-ip.hinet.net
-127.0.0.1	fls-na.rubyhall.in.net
-127.0.0.1	ogs.accounts.rubyhall.in.net
-127.0.0.1	www2.rubyhall.in.net
-127.0.0.1	barniclespine.com
-127.0.0.1	huxpurak.xjslsd.com
-127.0.0.1	mujust.fenmila.me
-# Number of entries: 51930
+# Number of entries: 51973
