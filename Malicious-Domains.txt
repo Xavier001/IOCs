@@ -1,11 +1,95 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-25 04:23:45 UTC                        #
+# Last updated: 2025-12-25 10:14:08 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	50.1ntrude7truha.ru
+127.0.0.1	rain.1ntrude7truha.ru
+127.0.0.1	8f.entire1y5ming.ru
+127.0.0.1	4hiyz.entire1y5ming.ru
+127.0.0.1	gate.entire1y5ming.ru
+127.0.0.1	dw.entire1y5ming.ru
+127.0.0.1	lgq.entire1y5ming.ru
+127.0.0.1	bstsj.entert2inru8.ru
+127.0.0.1	omega.entert2inru8.ru
+127.0.0.1	8iyp.entert2inru8.ru
+127.0.0.1	kc.entert2inru8.ru
+127.0.0.1	cloud.entert2inru8.ru
+127.0.0.1	hb999.comp0ser5kid.ru
+127.0.0.1	dark.comp0ser5kid.ru
+127.0.0.1	hollow.comp0ser5kid.ru
+127.0.0.1	mv.comp0ser5kid.ru
+127.0.0.1	qvomu.comp0ser5kid.ru
+127.0.0.1	nujwg2.sa.com
+127.0.0.1	shield.s1ogan5timul.ru
+127.0.0.1	beta.s1ogan5timul.ru
+127.0.0.1	abd0r.s1ogan5timul.ru
+127.0.0.1	storm.s1ogan5timul.ru
+127.0.0.1	m9.s1ogan5timul.ru
+127.0.0.1	pjf.conf1dcorr0de.ru
+127.0.0.1	dx.conf1dcorr0de.ru
+127.0.0.1	zh.conf1dcorr0de.ru
+127.0.0.1	delta.conf1dcorr0de.ru
+127.0.0.1	kyalli3.testingweblink.com
+127.0.0.1	messagepathconfirmation.download
+127.0.0.1	bandizip.band
+127.0.0.1	capframex.org
+127.0.0.1	easeus.tech
+127.0.0.1	ksdbmerge.com
+127.0.0.1	magixvegaspro.com
+127.0.0.1	trading-view.io
+127.0.0.1	userbenchmark.tech
+127.0.0.1	topazphoto.org
+127.0.0.1	metatrader.forum
+127.0.0.1	verdent-ai.com
+127.0.0.1	wondersharerecoverit.com
+127.0.0.1	ytddownloader.org
+127.0.0.1	cakewallet-app.com
+127.0.0.1	cefaz-notazsp.help
+127.0.0.1	cefaz-notazsp.click
+127.0.0.1	cefaz-notazsp.icu
+127.0.0.1	cemarenergia-portal.click
+127.0.0.1	cemarenergia-portal.help
+127.0.0.1	database-download3d.blog
+127.0.0.1	database-download3d.online
+127.0.0.1	duit123slot.it.com
+127.0.0.1	dit.kievholod.kiev.ua
+127.0.0.1	aa888.br.com
+127.0.0.1	premierservices365.com
+127.0.0.1	aacobson.com
+127.0.0.1	kvf1h.conf1dcorr0de.ru
+127.0.0.1	wu.5lau8htwater.ru
+127.0.0.1	3m.5lau8htwater.ru
+127.0.0.1	shift.5lau8htwater.ru
+127.0.0.1	ux6cb.5lau8htwater.ru
+127.0.0.1	mist.5lau8htwater.ru
+127.0.0.1	5y8t4.t2kec2reujo.ru
+127.0.0.1	tdh.t2kec2reujo.ru
+127.0.0.1	ew.t2kec2reujo.ru
+127.0.0.1	7ew.t2kec2reujo.ru
+127.0.0.1	trace.t2kec2reujo.ru
+127.0.0.1	cq4g.g0rico1ormica.ru
+127.0.0.1	vector.g0rico1ormica.ru
+127.0.0.1	zf.g0rico1ormica.ru
+127.0.0.1	glow.g0rico1ormica.ru
+127.0.0.1	wfewefwef-51975.portmap.host
+127.0.0.1	report242424.dynuddns.com
+127.0.0.1	spark.g0rico1ormica.ru
+127.0.0.1	ember.acr0b2tdiffer.ru
+127.0.0.1	hd.acr0b2tdiffer.ru
+127.0.0.1	frost.acr0b2tdiffer.ru
+127.0.0.1	flow.acr0b2tdiffer.ru
+127.0.0.1	cw.acr0b2tdiffer.ru
+127.0.0.1	0vj.f2rewel1lever.ru
+127.0.0.1	field.f2rewel1lever.ru
+127.0.0.1	forest.f2rewel1lever.ru
+127.0.0.1	z5a.f2rewel1lever.ru
+127.0.0.1	m5ex.f2rewel1lever.ru
+127.0.0.1	2bej.0ctave5pairi.ru
+127.0.0.1	nova.0ctave5pairi.ru
 127.0.0.1	wrbe.0ctave5pairi.ru
 127.0.0.1	6o2p1.0ctave5pairi.ru
 127.0.0.1	loop.0ctave5pairi.ru
@@ -51970,13 +52054,4 @@
 127.0.0.1	archives-cnet.gl.at.ply.gg
 127.0.0.1	cpanel.productdevelopmentplan.com
 127.0.0.1	8k8hj9277yjde.cfc-execute.bj.baidubce.com
-127.0.0.1	event-time-microsoft.org
-127.0.0.1	event-datamicrosoft.live
-127.0.0.1	windows-msgas.com
-127.0.0.1	eventdata-microsoft.live
-127.0.0.1	varying-rentals-calgary-predict.trycloudflare.com
-127.0.0.1	cdnhelofin.pro
-127.0.0.1	michikodom.duckdns.org
-127.0.0.1	security.fjaregarads.com
-127.0.0.1	oswyka.com
-# Number of entries: 51973
+# Number of entries: 52048
