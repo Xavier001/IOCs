@@ -1,11 +1,63 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-25 10:14:08 UTC                        #
+# Last updated: 2025-12-25 12:34:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	xjayj.cloudsh1ft.ru
+127.0.0.1	q1ezk.cloudsh1ft.ru
+127.0.0.1	fox.fori5po1u.ru
+127.0.0.1	trumpisperfect.com
+127.0.0.1	suhcare.live
+127.0.0.1	wochelp.top
+127.0.0.1	vex.fori5po1u.ru
+127.0.0.1	gamma.fori5po1u.ru
+127.0.0.1	7nt.fori5po1u.ru
+127.0.0.1	qykr.fori5po1u.ru
+127.0.0.1	odm6j.lo5ermedi0c.ru
+127.0.0.1	api.78win88.co.com
+127.0.0.1	download.78win88.co.com
+127.0.0.1	asj299.com
+127.0.0.1	asj199.com
+127.0.0.1	asj277.com
+127.0.0.1	asj288.com
+127.0.0.1	asj188.com
+127.0.0.1	elsa3eed.dynalias.com
+127.0.0.1	asj177.com
+127.0.0.1	images.remont-center.ru.com
+127.0.0.1	logs.remont-center.ru.com
+127.0.0.1	download.remont-center.ru.com
+127.0.0.1	cdn.ojxqy.sa.com
+127.0.0.1	download.ojxqy.sa.com
+127.0.0.1	logs.mx1.sa.com
+127.0.0.1	download.mx1.sa.com
+127.0.0.1	malware.sarahl.ru.com
+127.0.0.1	proxey.publicvm.com
+127.0.0.1	transadvice.org
+127.0.0.1	teens-resource.gl.at.ply.gg
+127.0.0.1	hill-modern.gl.at.ply.gg
+127.0.0.1	iamg7bh-58861.portmap.host
+127.0.0.1	mr4y9.lo5ermedi0c.ru
+127.0.0.1	0zlrw.lo5ermedi0c.ru
+127.0.0.1	line.lo5ermedi0c.ru
+127.0.0.1	me0.lo5ermedi0c.ru
+127.0.0.1	sqewtj.za.com
+127.0.0.1	ehpgqp.sa.com
+127.0.0.1	0v79.c2dmiumgho5t.ru
+127.0.0.1	yju0.c2dmiumgho5t.ru
+127.0.0.1	rvzvl.c2dmiumgho5t.ru
+127.0.0.1	y7z3h.c2dmiumgho5t.ru
+127.0.0.1	shadow.c2dmiumgho5t.ru
+127.0.0.1	972d1.n2imenei8hbor.ru
+127.0.0.1	sba.n2imenei8hbor.ru
+127.0.0.1	ekl.n2imenei8hbor.ru
+127.0.0.1	4lj.n2imenei8hbor.ru
+127.0.0.1	56i3.n2imenei8hbor.ru
+127.0.0.1	wind.1ntrude7truha.ru
+127.0.0.1	a1d.1ntrude7truha.ru
+127.0.0.1	4o.1ntrude7truha.ru
 127.0.0.1	50.1ntrude7truha.ru
 127.0.0.1	rain.1ntrude7truha.ru
 127.0.0.1	8f.entire1y5ming.ru
@@ -52053,5 +52105,4 @@
 127.0.0.1	shopping-bundle.gl.at.ply.gg
 127.0.0.1	archives-cnet.gl.at.ply.gg
 127.0.0.1	cpanel.productdevelopmentplan.com
-127.0.0.1	8k8hj9277yjde.cfc-execute.bj.baidubce.com
-# Number of entries: 52048
+# Number of entries: 52099
