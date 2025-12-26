@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-26 09:51:38 UTC                        #
+# Last updated: 2025-12-26 12:10:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	xhamster4.za.com
+127.0.0.1	vkdg.sa.com
+127.0.0.1	newhdporn18.za.com
+127.0.0.1	kanido.za.com
+127.0.0.1	ipex.uk.com
+127.0.0.1	alphatech.eu.com
+127.0.0.1	acc.cn.com
+127.0.0.1	a24.nbdsnb2.top
+127.0.0.1	cdn.macoloniedevacance.fr
+127.0.0.1	c8x20bua.ga1axy5ubject.ru
+127.0.0.1	h5trmznn.ga1axy5ubject.ru
 127.0.0.1	21zqurgr.bur9a5erious.ru
 127.0.0.1	97aiol4v.bur9a5erious.ru
 127.0.0.1	mu1ticolop0r.ru
@@ -52309,10 +52320,4 @@
 127.0.0.1	oss-as.x1go.cc
 127.0.0.1	deadpoolstart2061.duckdns.org
 127.0.0.1	issouchat.freeboxos.fr
-127.0.0.1	cloud-flaer-verif.com
-127.0.0.1	newstartnewjournyevamygirllovesalotwithm.duckdns.org
-127.0.0.1	mountsys.ddnsking.com
-127.0.0.1	jw8ndw9ev.localto.net
-127.0.0.1	obomo.ydns.eu
-127.0.0.1	overall-bachelor.gl.at.ply.gg
-# Number of entries: 52309
+# Number of entries: 52314
