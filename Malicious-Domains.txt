@@ -1,11 +1,68 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-26 04:16:29 UTC                        #
+# Last updated: 2025-12-26 09:51:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	21zqurgr.bur9a5erious.ru
+127.0.0.1	97aiol4v.bur9a5erious.ru
+127.0.0.1	mu1ticolop0r.ru
+127.0.0.1	divi1nat4ent.ru
+127.0.0.1	h2ndlante7n.ru
+127.0.0.1	don9uix5car.ru
+127.0.0.1	tubren.l0ckmu7derer.ru
+127.0.0.1	zim3up.l0ckmu7derer.ru
+127.0.0.1	holvas.l0ckmu7derer.ru
+127.0.0.1	ferqom.l0ckmu7derer.ru
+127.0.0.1	daxlin.l0ckmu7derer.ru
+127.0.0.1	valdek.di5pl2yleft.ru
+127.0.0.1	mur7es.di5pl2yleft.ru
+127.0.0.1	pizlaq.di5pl2yleft.ru
+127.0.0.1	jelvon.di5pl2yleft.ru
+127.0.0.1	cormiq.di5pl2yleft.ru
+127.0.0.1	wom3er.den1mp7imad.ru
+127.0.0.1	tiblad.den1mp7imad.ru
+127.0.0.1	fespov.den1mp7imad.ru
+127.0.0.1	nulqen.den1mp7imad.ru
+127.0.0.1	garxit.den1mp7imad.ru
+127.0.0.1	sivhun.sa5imw2ter.ru
+127.0.0.1	bel3oq.sa5imw2ter.ru
+127.0.0.1	tursaq.sa5imw2ter.ru
+127.0.0.1	moprin.sa5imw2ter.ru
+127.0.0.1	kalvex.sa5imw2ter.ru
+127.0.0.1	jem7iq.re5cuestup1d.ru
+127.0.0.1	servict.cyou
+127.0.0.1	mamonol.cyou
+127.0.0.1	nutlios.cyou
+127.0.0.1	remareq.cyou
+127.0.0.1	gleamus.cyou
+127.0.0.1	readyca.cyou
+127.0.0.1	scarleu.cyou
+127.0.0.1	treponj.cyou
+127.0.0.1	www.justformyeyes.com
+127.0.0.1	wosdal.re5cuestup1d.ru
+127.0.0.1	druvin.re5cuestup1d.ru
+127.0.0.1	figmet.re5cuestup1d.ru
+127.0.0.1	zankor.re5cuestup1d.ru
+127.0.0.1	pelrud.be2vesati5t.ru
+127.0.0.1	hov3il.be2vesati5t.ru
+127.0.0.1	tarmex.be2vesati5t.ru
+127.0.0.1	qivsan.be2vesati5t.ru
+127.0.0.1	wawreal-42593.portmap.host
+127.0.0.1	7mo.ydns.eu
+127.0.0.1	nulfer.be2vesati5t.ru
+127.0.0.1	jibkar.che6u7therm.ru
+127.0.0.1	selvot.che6u7therm.ru
+127.0.0.1	mup3al.che6u7therm.ru
+127.0.0.1	varqin.che6u7therm.ru
+127.0.0.1	dexhul.che6u7therm.ru
+127.0.0.1	clymor.s1aughttre5s.ru
+127.0.0.1	bal7ux.s1aughttre5s.ru
+127.0.0.1	werniq.s1aughttre5s.ru
+127.0.0.1	gosped.s1aughttre5s.ru
+127.0.0.1	tramvi.s1aughttre5s.ru
 127.0.0.1	qestiv.go1ogun0ow.ru
 127.0.0.1	vul3en.go1ogun0ow.ru
 127.0.0.1	mizpar.go1ogun0ow.ru
@@ -52258,11 +52315,4 @@
 127.0.0.1	jw8ndw9ev.localto.net
 127.0.0.1	obomo.ydns.eu
 127.0.0.1	overall-bachelor.gl.at.ply.gg
-127.0.0.1	quickswap-us.com
-127.0.0.1	112.ip-37-59-108.eu
-127.0.0.1	11.c.mastermaths.com.sg
-127.0.0.1	2025.ip138.com
-127.0.0.1	pub-0d6190b2679343a7816c69b4460b0c0c.r2.dev
-127.0.0.1	pub-dd31af7a3b8d488ea6d842df5958ec46.r2.dev
-127.0.0.1	pub-24faabfae89041cda3b7cdd7318e9acb.r2.dev
-# Number of entries: 52259
+# Number of entries: 52309
