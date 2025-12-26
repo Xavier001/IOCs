@@ -1,11 +1,70 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-25 22:12:42 UTC                        #
+# Last updated: 2025-12-26 04:16:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	qestiv.go1ogun0ow.ru
+127.0.0.1	vul3en.go1ogun0ow.ru
+127.0.0.1	mizpar.go1ogun0ow.ru
+127.0.0.1	joltex.go1ogun0ow.ru
+127.0.0.1	farnuq.go1ogun0ow.ru
+127.0.0.1	belv7a.ru5t1eview.ru
+127.0.0.1	pixdro.ru5t1eview.ru
+127.0.0.1	hovlen.ru5t1eview.ru
+127.0.0.1	ramqit.ru5t1eview.ru
+127.0.0.1	zulpex.ru5t1eview.ru
+127.0.0.1	ker9ip.act0rpie7ce.ru
+127.0.0.1	wuzhel.act0rpie7ce.ru
+127.0.0.1	mabfin.act0rpie7ce.ru
+127.0.0.1	jorxel.act0rpie7ce.ru
+127.0.0.1	tivqam.act0rpie7ce.ru
+127.0.0.1	hev7om.antip2th5ub.ru
+127.0.0.1	salbik.antip2th5ub.ru
+127.0.0.1	jurqen.antip2th5ub.ru
+127.0.0.1	fexmor.antip2th5ub.ru
+127.0.0.1	naltiv.antip2th5ub.ru
+127.0.0.1	hofqen.b2ckfo0t.ru
+127.0.0.1	sirvax.b2ckfo0t.ru
+127.0.0.1	mudlen.b2ckfo0t.ru
+127.0.0.1	vex3il.b2ckfo0t.ru
+127.0.0.1	barkom.b2ckfo0t.ru
+127.0.0.1	wosfir.or8anop5crew.ru
+127.0.0.1	kel3op.or8anop5crew.ru
+127.0.0.1	tundev.or8anop5crew.ru
+127.0.0.1	zivmar.or8anop5crew.ru
+127.0.0.1	orqelx.or8anop5crew.ru
+127.0.0.1	dirzam.exh2ust8one.ru
+127.0.0.1	muf3ed.exh2ust8one.ru
+127.0.0.1	vablot.exh2ust8one.ru
+127.0.0.1	sorqin.exh2ust8one.ru
+127.0.0.1	hexvul.exh2ust8one.ru
+127.0.0.1	jax3um.gu1detr2in.ru
+127.0.0.1	silmot.gu1detr2in.ru
+127.0.0.1	tovqer.gu1detr2in.ru
+127.0.0.1	pelniv.gu1detr2in.ru
+127.0.0.1	gudrax.gu1detr2in.ru
+127.0.0.1	morqet.b1uesgr2mp.ru
+127.0.0.1	saflin.b1uesgr2mp.ru
+127.0.0.1	vylgor.b1uesgr2mp.ru
+127.0.0.1	ker9al.b1uesgr2mp.ru
+127.0.0.1	blusom.b1uesgr2mp.ru
+127.0.0.1	mirdax.a5kin8insur.ru
+127.0.0.1	hav7el.a5kin8insur.ru
+127.0.0.1	truzik.a5kin8insur.ru
+127.0.0.1	felmor.a5kin8insur.ru
+127.0.0.1	dagvex.a5kin8insur.ru
+127.0.0.1	pixhun.hiredp1ayfu1.ru
+127.0.0.1	salqor.hiredp1ayfu1.ru
+127.0.0.1	jomvet.hiredp1ayfu1.ru
+127.0.0.1	wex3il.hiredp1ayfu1.ru
+127.0.0.1	kudram.hiredp1ayfu1.ru
+127.0.0.1	tervul.bi1ingnause2.ru
+127.0.0.1	myn5iq.bi1ingnause2.ru
+127.0.0.1	havtor.bi1ingnause2.ru
+127.0.0.1	zul4ep.bi1ingnause2.ru
 127.0.0.1	brixen.bi1ingnause2.ru
 127.0.0.1	jeplox.e9uatp2nth.ru
 127.0.0.1	syr3un.e9uatp2nth.ru
@@ -52206,8 +52265,4 @@
 127.0.0.1	pub-0d6190b2679343a7816c69b4460b0c0c.r2.dev
 127.0.0.1	pub-dd31af7a3b8d488ea6d842df5958ec46.r2.dev
 127.0.0.1	pub-24faabfae89041cda3b7cdd7318e9acb.r2.dev
-127.0.0.1	mythic.mustansirg.in
-127.0.0.1	security.fgewrgoald.com
-127.0.0.1	kerewz.com
-127.0.0.1	dev-testprvpgfextext2bdc1c5-pg1.postgres.database.azure.com
-# Number of entries: 52204
+# Number of entries: 52259
