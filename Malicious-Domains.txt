@@ -1,11 +1,25 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-26 21:40:29 UTC                        #
+# Last updated: 2025-12-27 03:43:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	w37usb1b.bristle-cove.ru
+127.0.0.1	xrbjetr5.bristle-cove.ru
+127.0.0.1	hd01chih.j1nkspur.ru
+127.0.0.1	bwlhpb27.j1nkspur.ru
+127.0.0.1	srow43xf.t0gglefern.ru
+127.0.0.1	4voy0soi.t0gglefern.ru
+127.0.0.1	kg5991s6.fl1pbramble.ru
+127.0.0.1	280krm6i.fl1pbramble.ru
+127.0.0.1	imdeveloper.work.gd
+127.0.0.1	d9o15ky4.quartz-punch.ru
+127.0.0.1	x9ka4m3w.quartz-punch.ru
+127.0.0.1	q.ciberseguridad-eia.xyz
+127.0.0.1	5xk22scx.quartzpunch.ru
+127.0.0.1	pg44l5bl.quartzpunch.ru
 127.0.0.1	w0px98e7.fizz-mantle.ru
 127.0.0.1	zrc41ary.fizz-mantle.ru
 127.0.0.1	et6oehxk.v0rticlaw.ru
@@ -52207,6 +52221,4 @@
 127.0.0.1	security.frarenguaced.com
 127.0.0.1	kapefex.com
 127.0.0.1	analyticznodec.com
-127.0.0.1	jobs.qtelcloud.com
-127.0.0.1	image-oieeodlcsb.cn-hangzhou.fcapp.run
-# Number of entries: 52203
+# Number of entries: 52215
