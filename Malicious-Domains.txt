@@ -1,11 +1,26 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-27 09:49:42 UTC                        #
+# Last updated: 2025-12-27 12:07:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	1usljhth.1nterject0il.ru
+127.0.0.1	augox4go.1nterject0il.ru
+127.0.0.1	y59d2xt3.1nterject0il.ru
+127.0.0.1	cepte-kampanya-2026.cfd
+127.0.0.1	sosato-31557.portmap.host
+127.0.0.1	33zvn57u.c0nfectgod5on.ru
+127.0.0.1	tfuvb9xb.c0nfectgod5on.ru
+127.0.0.1	miraslkx.c0nfectgod5on.ru
+127.0.0.1	erspnnas.5purbu7y.ru
+127.0.0.1	rnml2bsj.5purbu7y.ru
+127.0.0.1	4uw50lrg.5purbu7y.ru
+127.0.0.1	y2sv71w4.5purbu7y.ru
+127.0.0.1	8fltdnni.5purbu7y.ru
+127.0.0.1	z63jsowz.5purbu7y.ru
+127.0.0.1	3t29yzra.5purbu7y.ru
 127.0.0.1	45wyxveb.givin8karba5.ru
 127.0.0.1	5pgut9ly.givin8karba5.ru
 127.0.0.1	tailcoat.xyz
@@ -52165,4 +52180,4 @@
 127.0.0.1	m.cpa2go.com
 127.0.0.1	10x07.ink
 127.0.0.1	dq54wdwq5d4.jocker.space
-# Number of entries: 52159
+# Number of entries: 52174
