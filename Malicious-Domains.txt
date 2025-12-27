@@ -1,11 +1,96 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-27 12:07:04 UTC                        #
+# Last updated: 2025-12-27 21:18:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	xaesdb97.c2bba8etip.ru
+127.0.0.1	vrna7onz.c2bba8etip.ru
+127.0.0.1	zfbbu8bs.c2bba8etip.ru
+127.0.0.1	l4r97zzd.c2bba8etip.ru
+127.0.0.1	5cw7rw2b.compres5text0l.ru
+127.0.0.1	8ouero1r.compres5text0l.ru
+127.0.0.1	iyhrsk8v.compres5text0l.ru
+127.0.0.1	83x6d0ks.compres5text0l.ru
+127.0.0.1	2sv9bgxa.redf1ee7.ru
+127.0.0.1	inhibyln.redf1ee7.ru
+127.0.0.1	fd4ol8zs.redf1ee7.ru
+127.0.0.1	qfjal5xm.redf1ee7.ru
+127.0.0.1	6warimna.preisdrop.qpon
+127.0.0.1	tf72zgyh.preisdrop.qpon
+127.0.0.1	nci5ab3x.preisdrop.qpon
+127.0.0.1	6kl4y41v.preisdrop.qpon
+127.0.0.1	github.ciberseguridad-eia.xyz
+127.0.0.1	api.ciberseguridad-eia.xyz
+127.0.0.1	liverfatdiet.stechdaily.com
+127.0.0.1	ctnodeexporter.chatutor.com
+127.0.0.1	ctdify.chatutor.com
+127.0.0.1	p31dr0bs.dealzauber.qpon
+127.0.0.1	z724fxb3.dealzauber.qpon
+127.0.0.1	p6baqeca.dealzauber.qpon
+127.0.0.1	ljogytxh.dealzauber.qpon
+127.0.0.1	qjrkh8m1.savefalke.qpon
+127.0.0.1	avatarcoder.ddns.net
+127.0.0.1	tspmo-40154.portmap.host
+127.0.0.1	hhgyqyai.savefalke.qpon
+127.0.0.1	r4ojz98h.savefalke.qpon
+127.0.0.1	yhkd41e4.savefalke.qpon
+127.0.0.1	9pbhrc3o.bargainbucht.qpon
+127.0.0.1	cisun35q.bargainbucht.qpon
+127.0.0.1	84sruvb9.bargainbucht.qpon
+127.0.0.1	6g3xqw6s.bonusquelle.qpon
+127.0.0.1	yyce0en9.bonusquelle.qpon
+127.0.0.1	vml9rdmh.bonusquelle.qpon
+127.0.0.1	ispg4tzl.couponforge.qpon
+127.0.0.1	bu7nil0q.couponforge.qpon
+127.0.0.1	ozezesx1.couponforge.qpon
+127.0.0.1	7ylfs86u.perkmeister.qpon
+127.0.0.1	4a4cn2sm.perkmeister.qpon
+127.0.0.1	7b4m2pvx.perkmeister.qpon
+127.0.0.1	zylxz5wp.sparmarkt.qpon
+127.0.0.1	c4y3itze.sparmarkt.qpon
+127.0.0.1	4ry8jdls.sparmarkt.qpon
+127.0.0.1	fi8vr6q1.rabattkiste.qpon
+127.0.0.1	z22sc59w.rabattkiste.qpon
+127.0.0.1	mhjmwloj.rabattkiste.qpon
+127.0.0.1	d44vdnpu.dealblitz.qpon
+127.0.0.1	w2q9lxtj.redf1ee7.ru
+127.0.0.1	e6xa096z.redf1ee7.ru
+127.0.0.1	2jznszsn.redf1ee7.ru
+127.0.0.1	k2xyv9zj.s0ci0ltendency.ru
+127.0.0.1	a5ganxmg.s0ci0ltendency.ru
+127.0.0.1	zxv70ud6.s0ci0ltendency.ru
+127.0.0.1	c22.yourbigbro.shop
+127.0.0.1	qm3y81ja.crypt5t2te.ru
+127.0.0.1	zx5666xc.crypt5t2te.ru
+127.0.0.1	80jm3i5h.crypt5t2te.ru
+127.0.0.1	p9xz8kwz.b2dmintonper5.ru
+127.0.0.1	j73qaq77.b2dmintonper5.ru
+127.0.0.1	zwssy2gy.b2dmintonper5.ru
+127.0.0.1	rq44wt3c.a9uedmu5eum.ru
+127.0.0.1	m6vc0q91.a9uedmu5eum.ru
+127.0.0.1	h8fd573x.a9uedmu5eum.ru
+127.0.0.1	b12mtww0.cerem0nyiwas1.ru
+127.0.0.1	qyaf95d8.cerem0nyiwas1.ru
+127.0.0.1	aw4e97im.cerem0nyiwas1.ru
+127.0.0.1	j7f3fm89.repe2t5tuffy.ru
+127.0.0.1	5qtw3lvf.repe2t5tuffy.ru
+127.0.0.1	b2c82xwr.repe2t5tuffy.ru
+127.0.0.1	tgophp9p.ai7uninit1at.ru
+127.0.0.1	oraamrw7.ai7uninit1at.ru
+127.0.0.1	fwmi46ip.ai7uninit1at.ru
+127.0.0.1	tybt39bz.fabu1ou5down.ru
+127.0.0.1	td24nm0b.fabu1ou5down.ru
+127.0.0.1	r7ohz2wt.fabu1ou5down.ru
+127.0.0.1	7mqyam5a.h0wevpro5eca.ru
+127.0.0.1	ypbudxdj.h0wevpro5eca.ru
+127.0.0.1	f4s1ud3i.h0wevpro5eca.ru
+127.0.0.1	zh.goog1e.dpdns.org
+127.0.0.1	9h54jr6k.get2b0ut.ru
+127.0.0.1	95ejtn2v.get2b0ut.ru
+127.0.0.1	o11u1d4p.get2b0ut.ru
 127.0.0.1	1usljhth.1nterject0il.ru
 127.0.0.1	augox4go.1nterject0il.ru
 127.0.0.1	y59d2xt3.1nterject0il.ru
@@ -52165,19 +52250,4 @@
 127.0.0.1	federal-jewel.gl.at.ply.gg
 127.0.0.1	held-prozac.gl.at.ply.gg
 127.0.0.1	hypixelproxy.gooning.shop
-127.0.0.1	taketh.org
-127.0.0.1	ketxsuz.xyz
-127.0.0.1	pacwpw.xyz
-127.0.0.1	comkxjs.xyz
-127.0.0.1	unurew.xyz
-127.0.0.1	trsuv.xyz
-127.0.0.1	sqgzl.xyz
-127.0.0.1	cexpxg.xyz
-127.0.0.1	urarfx.xyz
-127.0.0.1	liaxn.xyz
-127.0.0.1	vps-4f7bd7bb.vps.ovh.net
-127.0.0.1	107.41.mastermaths.com.sg
-127.0.0.1	m.cpa2go.com
-127.0.0.1	10x07.ink
-127.0.0.1	dq54wdwq5d4.jocker.space
-# Number of entries: 52174
+# Number of entries: 52244
