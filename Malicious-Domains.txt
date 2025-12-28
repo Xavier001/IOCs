@@ -1,11 +1,50 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-28 04:33:49 UTC                        #
+# Last updated: 2025-12-28 09:38:58 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	tyr2to6g.cl0udpath.ru
+127.0.0.1	3ttsi6qg.cl0udpath.ru
+127.0.0.1	d2njqwvf.cl0udpath.ru
+127.0.0.1	u43n4xax.cl0udpath.ru
+127.0.0.1	pzskci29.shadowf1ow.ru
+127.0.0.1	zxa96eaf.shadowf1ow.ru
+127.0.0.1	cq10n3rg.shadowf1ow.ru
+127.0.0.1	69gnv9zp.shadowf1ow.ru
+127.0.0.1	micesisters.xyz
+127.0.0.1	hpkr.help
+127.0.0.1	suzoo.ryxuz.com
+127.0.0.1	setkapls99.com
+127.0.0.1	setkapls88.com
+127.0.0.1	setkapls77.com
+127.0.0.1	aacademica.uk.com
+127.0.0.1	brightcleaners.uk.com
+127.0.0.1	sarkariexamresult.in.net
+127.0.0.1	pyeyen.za.com
+127.0.0.1	tczflw.za.com
+127.0.0.1	beautifulbumps.testingweblink.com
+127.0.0.1	ares.uplus.co.kr
+127.0.0.1	ok365.org
+127.0.0.1	nexus.ok365.org
+127.0.0.1	dxyiz.sa.com
+127.0.0.1	general-invention.sa.com
+127.0.0.1	78win.it.com
+127.0.0.1	svis.in.net
+127.0.0.1	yhlgut.za.com
+127.0.0.1	a85k99xb.mistysh1eld.ru
+127.0.0.1	15eitnbq.mistysh1eld.ru
+127.0.0.1	i1i1jlwa.mistysh1eld.ru
+127.0.0.1	kkldicmk.mistysh1eld.ru
+127.0.0.1	y5i3tc1t.stormc1oud.ru
+127.0.0.1	lkgapm4v.stormc1oud.ru
+127.0.0.1	ncwg03c0.stormc1oud.ru
+127.0.0.1	zye0i6nx.stormc1oud.ru
+127.0.0.1	yandi9988.com
+127.0.0.1	sssdow.redirectme.net
+127.0.0.1	monsterrdp3.duckdns.org
 127.0.0.1	301tnw8t.f0ursme1ting.ru
 127.0.0.1	s7gnorm4.f0ursme1ting.ru
 127.0.0.1	vz94j85x.f0ursme1ting.ru
@@ -52268,11 +52307,4 @@
 127.0.0.1	protocol.stakesolv.com
 127.0.0.1	legacyshare.io
 127.0.0.1	dns1.globalcdn.autos
-127.0.0.1	dsh.fvsrchps.cn
-127.0.0.1	ttkks.cc
-127.0.0.1	zuiopppkurban.sytes.net
-127.0.0.1	return-min.gl.at.ply.gg
-127.0.0.1	federal-jewel.gl.at.ply.gg
-127.0.0.1	held-prozac.gl.at.ply.gg
-127.0.0.1	hypixelproxy.gooning.shop
-# Number of entries: 52269
+# Number of entries: 52301
