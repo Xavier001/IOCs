@@ -1,11 +1,46 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-28 12:10:20 UTC                        #
+# Last updated: 2025-12-28 21:25:34 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	googleconnection.motphimr.ac
+127.0.0.1	googleconnection.sun.win
+127.0.0.1	googleconnection.sunwin.moi
+127.0.0.1	bandarslotterpercaya.jp.net
+127.0.0.1	jprglro7.frostm1nd.ru
+127.0.0.1	pxe51lm9.frostm1nd.ru
+127.0.0.1	8stcb44l.frostm1nd.ru
+127.0.0.1	wm7ctop5.frostm1nd.ru
+127.0.0.1	h-crime.gl.at.ply.gg
+127.0.0.1	doddmandi-51221.portmap.io
+127.0.0.1	jerseys-store.us.com
+127.0.0.1	condor90-50240.portmap.host
+127.0.0.1	305v33-40382.portmap.host
+127.0.0.1	y9eygjch.skym0ti0n.ru
+127.0.0.1	un5gi16o.skym0ti0n.ru
+127.0.0.1	uvo951pg.skym0ti0n.ru
+127.0.0.1	ej7lqmwt.skym0ti0n.ru
+127.0.0.1	ervy2cgl.deepc0ve.ru
+127.0.0.1	7ozcjgwc.deepc0ve.ru
+127.0.0.1	uy8h00ja.deepc0ve.ru
+127.0.0.1	6ig14p8a.deepc0ve.ru
+127.0.0.1	hym.uk.com
+127.0.0.1	epta.eu.com
+127.0.0.1	elt.uk.com
+127.0.0.1	ksi.uk.com
+127.0.0.1	zn3foc66.skyc0rest.ru
+127.0.0.1	vhe65fgx.skyc0rest.ru
+127.0.0.1	ad4wlprk.skyc0rest.ru
+127.0.0.1	l1etjecz.skyc0rest.ru
+127.0.0.1	ixwuvljz.windb1rd.ru
+127.0.0.1	xndpt67e.windb1rd.ru
+127.0.0.1	c5r0ty9b.windb1rd.ru
+127.0.0.1	mi4ny8w7.windb1rd.ru
+127.0.0.1	0ucxq0mx.bluef0x.ru
+127.0.0.1	igbpzyhe.bluef0x.ru
 127.0.0.1	9pm93zo8.br1ghtf0rm.ru
 127.0.0.1	a2.nbdsnb2.top
 127.0.0.1	nmm9i8ce.br1ghtf0rm.ru
@@ -52304,21 +52339,4 @@
 127.0.0.1	port1.gleeze.com
 127.0.0.1	port3.gleeze.com
 127.0.0.1	actually-packets.gl.at.ply.gg
-127.0.0.1	write-document.freedynamicdns.org
-127.0.0.1	document-downloads.ddns.net
-127.0.0.1	document-prok.freedynamicdns.org
-127.0.0.1	downloads-document.freedynamicdns.org
-127.0.0.1	google-pdf.redirectme.net
-127.0.0.1	print-documents.freedynamicdns.net
-127.0.0.1	eu.p.redc.eu.org
-127.0.0.1	rodicicle.info
-127.0.0.1	robinkiss.info
-127.0.0.1	airportmonth.info
-127.0.0.1	producesound.xyz
-127.0.0.1	c2.zerotr4ce.online
-127.0.0.1	azelsan.com.tr
-127.0.0.1	security.fpwereguared.com
-127.0.0.1	deopins.com
-127.0.0.1	protocol.stakesolv.com
-127.0.0.1	legacyshare.io
-# Number of entries: 52315
+# Number of entries: 52333
