@@ -1,11 +1,26 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-28 09:38:58 UTC                        #
+# Last updated: 2025-12-28 12:10:20 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	9pm93zo8.br1ghtf0rm.ru
+127.0.0.1	a2.nbdsnb2.top
+127.0.0.1	nmm9i8ce.br1ghtf0rm.ru
+127.0.0.1	ei353i4i.br1ghtf0rm.ru
+127.0.0.1	x5v04q4u.br1ghtf0rm.ru
+127.0.0.1	nanocoreee.ddns.net
+127.0.0.1	cybergaat.ddns.net
+127.0.0.1	mm-includes.gl.at.ply.gg
+127.0.0.1	kidplay.gleeze.com
+127.0.0.1	tutr54756754u6-64430.portmap.host
+127.0.0.1	3ms7v0at.stormh1ll.ru
+127.0.0.1	llhl82wr.stormh1ll.ru
+127.0.0.1	2ah4j4gq.stormh1ll.ru
+127.0.0.1	fp57ddz7.stormh1ll.ru
+127.0.0.1	api.dyshop.online
 127.0.0.1	tyr2to6g.cl0udpath.ru
 127.0.0.1	3ttsi6qg.cl0udpath.ru
 127.0.0.1	d2njqwvf.cl0udpath.ru
@@ -52306,5 +52321,4 @@
 127.0.0.1	deopins.com
 127.0.0.1	protocol.stakesolv.com
 127.0.0.1	legacyshare.io
-127.0.0.1	dns1.globalcdn.autos
-# Number of entries: 52301
+# Number of entries: 52315
