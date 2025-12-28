@@ -1,11 +1,36 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-27 21:18:23 UTC                        #
+# Last updated: 2025-12-28 04:33:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	301tnw8t.f0ursme1ting.ru
+127.0.0.1	s7gnorm4.f0ursme1ting.ru
+127.0.0.1	vz94j85x.f0ursme1ting.ru
+127.0.0.1	gnvkaki6.f0ursme1ting.ru
+127.0.0.1	52r1hjg1.ch2ntro1ley.ru
+127.0.0.1	9nkc9lsf.ch2ntro1ley.ru
+127.0.0.1	o2eio9ep.ch2ntro1ley.ru
+127.0.0.1	xgah9u46.ch2ntro1ley.ru
+127.0.0.1	help3.proxywebsite.top
+127.0.0.1	3ei6h1fz.udmu7tsw2rp.ru
+127.0.0.1	nfml0shm.udmu7tsw2rp.ru
+127.0.0.1	xy53k61z.udmu7tsw2rp.ru
+127.0.0.1	5hps77pw.udmu7tsw2rp.ru
+127.0.0.1	d64zcw85.harr0wp2i.ru
+127.0.0.1	3a4srpk1.harr0wp2i.ru
+127.0.0.1	jil2ol5c.harr0wp2i.ru
+127.0.0.1	u7ujwv68.harr0wp2i.ru
+127.0.0.1	yk7vp5q0.arm2turege7m.ru
+127.0.0.1	ru38kvwa.arm2turege7m.ru
+127.0.0.1	5sreizuv.arm2turege7m.ru
+127.0.0.1	8uhifp9q.arm2turege7m.ru
+127.0.0.1	ai2uuwqw.ecumen1sm0ff.ru
+127.0.0.1	f94vb8l0.ecumen1sm0ff.ru
+127.0.0.1	zqdqgezv.ecumen1sm0ff.ru
+127.0.0.1	7zxnifkk.ecumen1sm0ff.ru
 127.0.0.1	xaesdb97.c2bba8etip.ru
 127.0.0.1	vrna7onz.c2bba8etip.ru
 127.0.0.1	zfbbu8bs.c2bba8etip.ru
@@ -52250,4 +52275,4 @@
 127.0.0.1	federal-jewel.gl.at.ply.gg
 127.0.0.1	held-prozac.gl.at.ply.gg
 127.0.0.1	hypixelproxy.gooning.shop
-# Number of entries: 52244
+# Number of entries: 52269
