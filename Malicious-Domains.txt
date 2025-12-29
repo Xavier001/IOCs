@@ -1,11 +1,49 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-29 03:00:30 UTC                        #
+# Last updated: 2025-12-29 09:42:26 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	u6mf1131.fr0stw1ng.ru
+127.0.0.1	g4q5p73e.fr0stw1ng.ru
+127.0.0.1	e5aild1m.fr0stw1ng.ru
+127.0.0.1	wza2i4g3.fr0stw1ng.ru
+127.0.0.1	zzz.leproxy.blog
+127.0.0.1	oxycodone.email
+127.0.0.1	bot.devnguvcl.dev
+127.0.0.1	ou6060.com
+127.0.0.1	ou5858.com
+127.0.0.1	ou5959.com
+127.0.0.1	gripsleep.xyz
+127.0.0.1	pizzasthread.xyz
+127.0.0.1	44471.jp.net
+127.0.0.1	login.44471.jp.net
+127.0.0.1	hhu.uk.com
+127.0.0.1	mjo.uk.com
+127.0.0.1	energysave.uk.com
+127.0.0.1	crsc.eu.com
+127.0.0.1	ngo.uk.com
+127.0.0.1	reelshare.in.net
+127.0.0.1	www.la-beaute.jp.net
+127.0.0.1	part.ru.com
+127.0.0.1	twitch.za.com
+127.0.0.1	9850.cn.com
+127.0.0.1	nationalwaste.uk.com
+127.0.0.1	name.sa.com
+127.0.0.1	356gfbo3to.gb.net
+127.0.0.1	fitspresso.co.com
+127.0.0.1	mosmet.ru.com
+127.0.0.1	ykurk-143-244-47-87.a.free.pinggy.link
+127.0.0.1	samniqqas12.duckdns.org
+127.0.0.1	4kgnpztl.deepmi5t.ru
+127.0.0.1	tqi7q7rf.deepmi5t.ru
+127.0.0.1	y7euy6ea.deepmi5t.ru
+127.0.0.1	99lss5vw.deepmi5t.ru
+127.0.0.1	vermclta.deepmi5t.ru
+127.0.0.1	9oowqjso.deepmi5t.ru
+127.0.0.1	47ogw79y.deepmi5t.ru
 127.0.0.1	a5cciv20.rainshield.ru
 127.0.0.1	2h5ydzqo.rainshield.ru
 127.0.0.1	ra6pw4r3.rainshield.ru
@@ -45,6 +83,41 @@
 127.0.0.1	7ozcjgwc.deepc0ve.ru
 127.0.0.1	uy8h00ja.deepc0ve.ru
 127.0.0.1	6ig14p8a.deepc0ve.ru
+127.0.0.1	paopao.fit
+127.0.0.1	draft23.duckdns.org
+127.0.0.1	bot.johenlg.cloud
+127.0.0.1	draft22.bounceme.net
+127.0.0.1	reish8ohp1z.duckdns.org
+127.0.0.1	lited.myftp.org
+127.0.0.1	yukivela.duckdns.org
+127.0.0.1	aeceze9o.duckdns.org
+127.0.0.1	cnc.kamill.fr
+127.0.0.1	rc.b6ce.com
+127.0.0.1	catelcro.duckdns.org
+127.0.0.1	katana.chernobyl.network
+127.0.0.1	pma.jarry.onl
+127.0.0.1	scan.kamill.fr
+127.0.0.1	verykakaka.frii.site
+127.0.0.1	bobnet.chernobyl.network
+127.0.0.1	alanbotnet.dpdns.org
+127.0.0.1	lizadesm.duckdns.org
+127.0.0.1	fishertriv.duckdns.org
+127.0.0.1	cnc.nijasec.io
+127.0.0.1	cahngee2lei.duckdns.org
+127.0.0.1	aineeng9th.duckdns.org
+127.0.0.1	frohncrop77.duckdns.org
+127.0.0.1	draft22.zapto.org
+127.0.0.1	uut5ooy7a.duckdns.org
+127.0.0.1	pantera.no-ip.biz
+127.0.0.1	spasm.no-ip.org
+127.0.0.1	nikokaramia.no-ip.org
+127.0.0.1	ppservr.dyndns.biz
+127.0.0.1	erayapk.duckdns.org
+127.0.0.1	missczarny.no-ip.biz
+127.0.0.1	hackerhazem1.no-ip.info
+127.0.0.1	jackweb15.ddns.net
+127.0.0.1	rektbynesho8.chickenkiller.com
+127.0.0.1	127.0.0.1rektbynesho8.chickenkiller.com
 127.0.0.1	hym.uk.com
 127.0.0.1	epta.eu.com
 127.0.0.1	elt.uk.com
@@ -52140,5 +52213,4 @@
 127.0.0.1	half-exhibit.gl.at.ply.gg
 127.0.0.1	develop-francis.gl.at.ply.gg
 127.0.0.1	yourself-snowboard.gl.at.ply.gg
-127.0.0.1	abtsi.com
-# Number of entries: 52135
+# Number of entries: 52207
