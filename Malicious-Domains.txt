@@ -1,11 +1,39 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-29 09:42:26 UTC                        #
+# Last updated: 2025-12-29 12:30:16 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	2ueuas0z.n1ghtsh0re.ru
+127.0.0.1	988gfbyb.n1ghtsh0re.ru
+127.0.0.1	hpel0i42.windf1eld.ru
+127.0.0.1	n37dschg.windf1eld.ru
+127.0.0.1	login.twitch.za.com
+127.0.0.1	login.la-beaute.jp.net
+127.0.0.1	login.reelshare.in.net
+127.0.0.1	logs.tczflw.za.com
+127.0.0.1	agriomaymaite22.duckdns.org
+127.0.0.1	i7ov2xvv.cl0ud5tream.ru
+127.0.0.1	qgy86o6o.cl0ud5tream.ru
+127.0.0.1	hsvltty0.darkc0a5t.ru
+127.0.0.1	dv09pgac.darkc0a5t.ru
+127.0.0.1	it8zf5px.darkc0a5t.ru
+127.0.0.1	0do79h4s.blueh1ll.ru
+127.0.0.1	hopaa18r.blueh1ll.ru
+127.0.0.1	3n64fa05.blueh1ll.ru
+127.0.0.1	522bmwhj.cl0udr1dge.ru
+127.0.0.1	xcd2tiab.cl0udr1dge.ru
+127.0.0.1	8ivg8p58.cl0udr1dge.ru
+127.0.0.1	84hjxo5f.skyf1ow.ru
+127.0.0.1	umnj5g1g.skyf1ow.ru
+127.0.0.1	urj2bp9a.skyf1ow.ru
+127.0.0.1	0oq3vcby.skyf1ow.ru
+127.0.0.1	ly7p6r10.w1ndshift.ru
+127.0.0.1	8i60caub.w1ndshift.ru
+127.0.0.1	fwypvent.w1ndshift.ru
+127.0.0.1	yrwx65jv.w1ndshift.ru
 127.0.0.1	u6mf1131.fr0stw1ng.ru
 127.0.0.1	g4q5p73e.fr0stw1ng.ru
 127.0.0.1	e5aild1m.fr0stw1ng.ru
@@ -52200,17 +52228,4 @@
 127.0.0.1	mkkuei4kdsz.com
 127.0.0.1	lousta.net
 127.0.0.1	standard-suited.gl.at.ply.gg
-127.0.0.1	dofucks.com
-127.0.0.1	private115.duckdns.org
-127.0.0.1	onedrive-office.com
-127.0.0.1	laiu.org
-127.0.0.1	danger2026.duckdns.org
-127.0.0.1	real9.dynuddns.com
-127.0.0.1	w-grant.gl.at.ply.gg
-127.0.0.1	approach-connection.gl.at.ply.gg
-127.0.0.1	rockstar.dnsframe.com
-127.0.0.1	any-arctic.gl.at.ply.gg
-127.0.0.1	half-exhibit.gl.at.ply.gg
-127.0.0.1	develop-francis.gl.at.ply.gg
-127.0.0.1	yourself-snowboard.gl.at.ply.gg
-# Number of entries: 52207
+# Number of entries: 52222
