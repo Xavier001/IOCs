@@ -1,11 +1,52 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-30 10:06:46 UTC                        #
+# Last updated: 2025-12-30 12:29:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	rl0mpqyk.t0rchbasil.ru
+127.0.0.1	a2vok2y8.t0rchbasil.ru
+127.0.0.1	yzd2eyt4.t0rchbasil.ru
+127.0.0.1	1phwsssa.t0rchbasil.ru
+127.0.0.1	02eo2wy3.t0rchbasil.ru
+127.0.0.1	xh5k6k5j.fl1ckerpost.ru
+127.0.0.1	98pt6jbo.fl1ckerpost.ru
+127.0.0.1	0ar78c5m.fl1ckerpost.ru
+127.0.0.1	ju6so2bd.fl1ckerpost.ru
+127.0.0.1	cc.452225.vip
+127.0.0.1	wbj431uy.amber-flume.ru
+127.0.0.1	5xp1e8eh.amber-flume.ru
+127.0.0.1	13smh6r8.amber-flume.ru
+127.0.0.1	27965ld3.amber-flume.ru
+127.0.0.1	2v5d82bf.quartzsketch.ru
+127.0.0.1	5nt19cgc.quartzsketch.ru
+127.0.0.1	g9l8c7fk.quartzsketch.ru
+127.0.0.1	vnghnf72.quartzsketch.ru
+127.0.0.1	awjrq1fn.crumple-jet.ru
+127.0.0.1	935m337r.crumple-jet.ru
+127.0.0.1	f3s0gpds.crumple-jet.ru
+127.0.0.1	wjlcx0ex.crumple-jet.ru
+127.0.0.1	oeql6rvy.v0xentwine.ru
+127.0.0.1	gib9tyuu.v0xentwine.ru
+127.0.0.1	7qkb6y1p.v0xentwine.ru
+127.0.0.1	9vx0265a.v0xentwine.ru
+127.0.0.1	phgbh6cb.quartz-sketch.ru
+127.0.0.1	qaaavdss.quartz-sketch.ru
+127.0.0.1	flrlrdl1.quartz-sketch.ru
+127.0.0.1	ekmjouez.quartz-sketch.ru
+127.0.0.1	d9lwvqxy.quartz-sketch.ru
+127.0.0.1	zbb6it90.quartz-sketch.ru
+127.0.0.1	m4ffr2lr.quartz-sketch.ru
+127.0.0.1	9b1a9xye.quartz-sketch.ru
+127.0.0.1	s83sht55.amberflume.ru
+127.0.0.1	kgzr7l5e.amberflume.ru
+127.0.0.1	1vvmu70s.amberflume.ru
+127.0.0.1	9burdy0u.amberflume.ru
+127.0.0.1	xfxyhznv.amberflume.ru
+127.0.0.1	b5ozofvc.amberflume.ru
+127.0.0.1	q50kt1jm.amberflume.ru
 127.0.0.1	hsrq2bkz.sn1pburrow.ru
 127.0.0.1	xozpwh9b.sn1pburrow.ru
 127.0.0.1	mqmas4ow.sn1pburrow.ru
@@ -52374,10 +52415,4 @@
 127.0.0.1	c2.atomdata.xyz
 127.0.0.1	motre.jbvpshosti.com
 127.0.0.1	auth.bobbleflatfoot.lat
-127.0.0.1	iujqdwh-61305.portmap.io
-127.0.0.1	java-romance.gl.at.ply.gg
-127.0.0.1	advertising-mary.gl.at.ply.gg
-127.0.0.1	backupindvy.duckdns.org
-127.0.0.1	bit-bathrooms.gl.at.ply.gg
-127.0.0.1	rbmlh.xyz
-# Number of entries: 52374
+# Number of entries: 52409
