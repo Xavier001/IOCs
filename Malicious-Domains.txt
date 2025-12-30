@@ -52346,9 +52346,4 @@
 127.0.0.1	hellocamel.p-e.kr
 127.0.0.1	mafia.trumdvfb.com
 127.0.0.1	securityhealthsystray.duckdns.org
-127.0.0.1	ec2-3-145-32-11.us-east-2.compute.amazonaws.com
-127.0.0.1	114.138.61.34.bc.googleusercontent.com
-127.0.0.1	apis.rubyhall.in.net
-127.0.0.1	notifications.rubyhall.in.net
-127.0.0.1	www3.accounts.rubyhall.in.net
-# Number of entries: 52345
+# Number of entries: 52340
