@@ -1,11 +1,71 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-29 20:44:35 UTC                        #
+# Last updated: 2025-12-30 10:06:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hsrq2bkz.sn1pburrow.ru
+127.0.0.1	xozpwh9b.sn1pburrow.ru
+127.0.0.1	mqmas4ow.sn1pburrow.ru
+127.0.0.1	c5wnvaa8.sn1pburrow.ru
+127.0.0.1	50mfsn0s.crumplejet.ru
+127.0.0.1	qucwl9kb.crumplejet.ru
+127.0.0.1	7ixjonx7.crumplejet.ru
+127.0.0.1	dsw550du.crumplejet.ru
+127.0.0.1	2cpyxxm5.a5hsuper1or.ru
+127.0.0.1	a0coka3w.a5hsuper1or.ru
+127.0.0.1	5tphx051.a5hsuper1or.ru
+127.0.0.1	q73qfqvt.a5hsuper1or.ru
+127.0.0.1	p3v5s4t5.a5hsuper1or.ru
+127.0.0.1	wcwbxufl.a5hsuper1or.ru
+127.0.0.1	d3vci1ep.dep2rtmen0va.ru
+127.0.0.1	40k8qjo8.dep2rtmen0va.ru
+127.0.0.1	p118yh64.dep2rtmen0va.ru
+127.0.0.1	p26wgffw.dep2rtmen0va.ru
+127.0.0.1	sc7nd8s4.heh0vli8ht.ru
+127.0.0.1	y3ctp4x3.heh0vli8ht.ru
+127.0.0.1	2uho5jqk.heh0vli8ht.ru
+127.0.0.1	wy3onf15.heh0vli8ht.ru
+127.0.0.1	seedbox.in.net
+127.0.0.1	pjma3tgi.bohem1apred0m.ru
+127.0.0.1	o9ekn7ff.bohem1apred0m.ru
+127.0.0.1	g48hk2ii.bohem1apred0m.ru
+127.0.0.1	6n8p5fx4.bohem1apred0m.ru
+127.0.0.1	r27xerh8.bohem1apred0m.ru
+127.0.0.1	vr6cc5re.bohem1apred0m.ru
+127.0.0.1	c0rnltpb.bohem1apred0m.ru
+127.0.0.1	15w9bglk.pu7eer0d.ru
+127.0.0.1	tdebwovt.pu7eer0d.ru
+127.0.0.1	783oz4we.pu7eer0d.ru
+127.0.0.1	spn38una.pu7eer0d.ru
+127.0.0.1	za9l40ec.pu7eer0d.ru
+127.0.0.1	q7hqh19r.r2nkteh2.ru
+127.0.0.1	el5348ic.r2nkteh2.ru
+127.0.0.1	ex8g6di3.r2nkteh2.ru
+127.0.0.1	vyw5a5k3.r2nkteh2.ru
+127.0.0.1	srpwnrw8.p2ciftamp0n.ru
+127.0.0.1	je5mf64c.p2ciftamp0n.ru
+127.0.0.1	3rozqcun.p2ciftamp0n.ru
+127.0.0.1	qb3rl80v.p2ciftamp0n.ru
+127.0.0.1	yz3j4wu2.5t0rmfail.ru
+127.0.0.1	u888.br.com
+127.0.0.1	hybrid.uk.com
+127.0.0.1	cst.uk.com
+127.0.0.1	incep.uk.com
+127.0.0.1	perfectfoodcompany.uk.com
+127.0.0.1	sc88mobi.com
+127.0.0.1	2fl4vwmp.5t0rmfail.ru
+127.0.0.1	hncwzapf.5t0rmfail.ru
+127.0.0.1	cd35785969d4cfc6d6b1a6c8a3ae1e92.7c3ba162fb57b914c08ba8a4a3b310a7.traefik.default
+127.0.0.1	sunwinn.earth
+127.0.0.1	login.sunwinn.earth
+127.0.0.1	barbermoo.shop
+127.0.0.1	wjkcfilr.5t0rmfail.ru
+127.0.0.1	wealthandolaedo.ddns.net
+127.0.0.1	wealthandolaedo1.ddns.net
+127.0.0.1	clawless-42349.portmap.host
 127.0.0.1	2tfg15f1.blu3field.ru
 127.0.0.1	rq5aflxn.blu3field.ru
 127.0.0.1	ec0fh86q.blu3field.ru
@@ -52320,30 +52380,4 @@
 127.0.0.1	backupindvy.duckdns.org
 127.0.0.1	bit-bathrooms.gl.at.ply.gg
 127.0.0.1	rbmlh.xyz
-127.0.0.1	osetigolumdede.duckdns.org
-127.0.0.1	b0dnyoxrn.localto.net
-127.0.0.1	uwammunachimso.duckdns.org
-127.0.0.1	put-ladder.gl.at.ply.gg
-127.0.0.1	ads-teachers.gl.at.ply.gg
-127.0.0.1	odyssey1.to
-127.0.0.1	odyssey-st.com
-127.0.0.1	17.aa.4t.com
-127.0.0.1	qr.ap.4t.com
-127.0.0.1	ds.exifit.eu.org
-127.0.0.1	12.35.redc.eu.org
-127.0.0.1	security.flqergoaurd.com
-127.0.0.1	pobikc.com
-127.0.0.1	galilaospa.com
-127.0.0.1	built-punch.gl.at.ply.gg
-127.0.0.1	wizzyandrichy.hopto.org
-127.0.0.1	rrfasdsa-27990.portmap.io
-127.0.0.1	myaw.no-ip.biz
-127.0.0.1	robinmmadi.servehumour.com
-127.0.0.1	important-ala.gl.at.ply.gg
-127.0.0.1	abc.galaxias.cc
-127.0.0.1	api.chanlevip.site
-127.0.0.1	fearoxe.duckdns.org
-127.0.0.1	hellocamel.p-e.kr
-127.0.0.1	mafia.trumdvfb.com
-127.0.0.1	securityhealthsystray.duckdns.org
-# Number of entries: 52340
+# Number of entries: 52374
