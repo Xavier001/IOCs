@@ -1,11 +1,26 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-31 09:36:43 UTC                        #
+# Last updated: 2025-12-31 12:32:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	eyadking.linkpc.net
+127.0.0.1	masonratopngga-51671.portmap.host
+127.0.0.1	logs.veredictum.in.net
+127.0.0.1	skdlfsd-56502.portmap.host
+127.0.0.1	yassinedfe4-39487.portmap.host
+127.0.0.1	abdumido20181.ddns.net
+127.0.0.1	dark-kok01.duckdns.org
+127.0.0.1	xxnx.ddns.net
+127.0.0.1	iraq313.publicvm.com
+127.0.0.1	ready-scan.duckdns.org
+127.0.0.1	salvigame.ddns.net
+127.0.0.1	addpanel.duckdns.org
+127.0.0.1	ahmed000.ddns.net
+127.0.0.1	k0lan.ddns.net
+127.0.0.1	bobbelal2.ddns.net
 127.0.0.1	hknhosting.xyz
 127.0.0.1	holiopkasdfoion.com
 127.0.0.1	coratuikilooklosd.com
@@ -52649,10 +52664,4 @@
 127.0.0.1	c2.atomdata.xyz
 127.0.0.1	motre.jbvpshosti.com
 127.0.0.1	auth.bobbleflatfoot.lat
-127.0.0.1	iujqdwh-61305.portmap.io
-127.0.0.1	java-romance.gl.at.ply.gg
-127.0.0.1	advertising-mary.gl.at.ply.gg
-127.0.0.1	backupindvy.duckdns.org
-127.0.0.1	bit-bathrooms.gl.at.ply.gg
-127.0.0.1	rbmlh.xyz
-# Number of entries: 52649
+# Number of entries: 52658
