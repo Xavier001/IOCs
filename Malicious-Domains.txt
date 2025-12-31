@@ -1,11 +1,45 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-31 00:22:14 UTC                        #
+# Last updated: 2025-12-31 09:36:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hknhosting.xyz
+127.0.0.1	holiopkasdfoion.com
+127.0.0.1	coratuikilooklosd.com
+127.0.0.1	heavylussy.su
+127.0.0.1	hammernew.su
+127.0.0.1	familyriwo.su
+127.0.0.1	nigeluk.cyou
+127.0.0.1	izzardtow.su
+127.0.0.1	spilliv.cyou
+127.0.0.1	screwsj.click
+127.0.0.1	whitepepper.su
+127.0.0.1	fecalja.cyou
+127.0.0.1	gruntpo.cyou
+127.0.0.1	homuncloud.su
+127.0.0.1	basilicros.su
+127.0.0.1	broguenko.su
+127.0.0.1	readthisifgay.datasurge.vip
+127.0.0.1	www.dgccollectors.com
+127.0.0.1	www.walkingholidays.co.za
+127.0.0.1	youngtechcoorp.com
+127.0.0.1	www.criticalcare-neurotrauma.ca
+127.0.0.1	www.dancesportacademy.nl
+127.0.0.1	999slot.media
+127.0.0.1	h11uu.com
+127.0.0.1	veredictum.in.net
+127.0.0.1	www.aicinformatique.com
+127.0.0.1	www.fahrschule-br.de
+127.0.0.1	futuresmuseumdubai.sa.com
+127.0.0.1	www.welchwrite.com
+127.0.0.1	www.altenabrass.nl
+127.0.0.1	www.capacitafinanziaria.net
+127.0.0.1	secure.seketafrica.org
+127.0.0.1	f0f5d142773c9409d043c11054bb39b4.be15023586893006b4acf9ef23a9691f.traefik.default
+127.0.0.1	mitch275-37737.portmap.host
 127.0.0.1	jasm72mf.vagusbra.ru
 127.0.0.1	goe0vvjr.vagusbra.ru
 127.0.0.1	qzf73dvm.vagusbra.ru
@@ -125,6 +159,18 @@
 127.0.0.1	8119tj0t.bun8topch2n.ru
 127.0.0.1	pzmiqand.bun8topch2n.ru
 127.0.0.1	x2sjzzau.bun8topch2n.ru
+127.0.0.1	tuvalul.cyou
+127.0.0.1	ukrayzd.cyou
+127.0.0.1	assumhw.cyou
+127.0.0.1	castous.cyou
+127.0.0.1	computl.cyou
+127.0.0.1	drapefa.cyou
+127.0.0.1	footnam.cyou
+127.0.0.1	fricaec.cyou
+127.0.0.1	instiga.cyou
+127.0.0.1	loopkbw.cyou
+127.0.0.1	oxacilg.cyou
+127.0.0.1	sinitjq.cyou
 127.0.0.1	j2borkqf.astra1r0pac.ru
 127.0.0.1	28l94n0x.astra1r0pac.ru
 127.0.0.1	qy8gmxy5.astra1r0pac.ru
@@ -52609,30 +52655,4 @@
 127.0.0.1	backupindvy.duckdns.org
 127.0.0.1	bit-bathrooms.gl.at.ply.gg
 127.0.0.1	rbmlh.xyz
-127.0.0.1	osetigolumdede.duckdns.org
-127.0.0.1	b0dnyoxrn.localto.net
-127.0.0.1	uwammunachimso.duckdns.org
-127.0.0.1	put-ladder.gl.at.ply.gg
-127.0.0.1	ads-teachers.gl.at.ply.gg
-127.0.0.1	odyssey1.to
-127.0.0.1	odyssey-st.com
-127.0.0.1	17.aa.4t.com
-127.0.0.1	qr.ap.4t.com
-127.0.0.1	ds.exifit.eu.org
-127.0.0.1	12.35.redc.eu.org
-127.0.0.1	security.flqergoaurd.com
-127.0.0.1	pobikc.com
-127.0.0.1	galilaospa.com
-127.0.0.1	built-punch.gl.at.ply.gg
-127.0.0.1	wizzyandrichy.hopto.org
-127.0.0.1	rrfasdsa-27990.portmap.io
-127.0.0.1	myaw.no-ip.biz
-127.0.0.1	robinmmadi.servehumour.com
-127.0.0.1	important-ala.gl.at.ply.gg
-127.0.0.1	abc.galaxias.cc
-127.0.0.1	api.chanlevip.site
-127.0.0.1	fearoxe.duckdns.org
-127.0.0.1	hellocamel.p-e.kr
-127.0.0.1	mafia.trumdvfb.com
-127.0.0.1	securityhealthsystray.duckdns.org
-# Number of entries: 52629
+# Number of entries: 52649
