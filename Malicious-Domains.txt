@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-01 11:40:43 UTC                        #
+# Last updated: 2026-01-01 15:20:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	lgo.passadisco.com.br
+127.0.0.1	lgo.kievteplo.in.ua
+127.0.0.1	www.lisakiddo.se
+127.0.0.1	cyber-reborn.com
+127.0.0.1	ykcs.601219.xyz
 127.0.0.1	www.ldbot.top
 127.0.0.1	open88-vip.com
 127.0.0.1	bornodatabase.ng
@@ -52570,17 +52575,4 @@
 127.0.0.1	m83-189-135-177.cust.tele2.se
 127.0.0.1	ecs-113-45-47-3.compute.hwclouds-dns.com
 127.0.0.1	73w6tr0x1tnay.cfc-execute.bj.baidubce.com
-127.0.0.1	malahh.oixrv2gn.com
-127.0.0.1	suchdevil-25933.portmap.io
-127.0.0.1	exper.mywire.org
-127.0.0.1	dczip3.duckdns.org
-127.0.0.1	vltalmex.com.mx
-127.0.0.1	00283643bbm.duckdns.org
-127.0.0.1	cpanel.thekooljack.com
-127.0.0.1	amaprox.shop
-127.0.0.1	fbsvm.cam
-127.0.0.1	accounts.directllinegroup.co.uk
-127.0.0.1	0.x.exifit.eu.org
-127.0.0.1	www.autoauctionsdirect.net
-127.0.0.1	47sqwjxze4941.cfc-execute.su.baidubce.com
-# Number of entries: 52577
+# Number of entries: 52569
