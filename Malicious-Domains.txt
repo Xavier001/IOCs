@@ -1,21 +1,47 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-01 04:03:09 UTC                        #
+# Last updated: 2026-01-01 08:37:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bornodatabase.ng
+127.0.0.1	ekoplod.pentasoftcomputers.eu
+127.0.0.1	usajili.hamasagroup.com
+127.0.0.1	www.weiterbildungsblog.de
+127.0.0.1	momcherries.xyz
+127.0.0.1	umbrellaroad.info
+127.0.0.1	landerror.xyz
+127.0.0.1	windirautoupdates.top
+127.0.0.1	proton.eu.com
+127.0.0.1	indo-pak.us.com
+127.0.0.1	danhdeonline.co.com
+127.0.0.1	vlxx.bz
+127.0.0.1	x.vlxx.bz
 127.0.0.1	smartcloaker.sbs
 127.0.0.1	google.coppsindoor.org
+127.0.0.1	www.bsdeboomgaard.be
 127.0.0.1	ctn8n.chatutor.com
 127.0.0.1	www.xbwa1.top
 127.0.0.1	wzy.firstanquan.cn
+127.0.0.1	www.taylorwebsolutions.com
+127.0.0.1	www.tnpconsultants.ch
+127.0.0.1	zaklad.zoloautor.pl
+127.0.0.1	www.axpdresources.com
+127.0.0.1	www.dimant.laena.de
 127.0.0.1	capture.coppsindoor.org
 127.0.0.1	googletagmanager.coppsindoor.org
 127.0.0.1	gstatic.coppsindoor.org
 127.0.0.1	static.coppsindoor.org
 127.0.0.1	ctwebhook.chatutor.com
+127.0.0.1	www.assenmacher-koeln.de
+127.0.0.1	www.eclairons.com
+127.0.0.1	www.kaffa.se
+127.0.0.1	www.davidberger.net
+127.0.0.1	viridissima.ch
+127.0.0.1	tv.german-mma.de
+127.0.0.1	yasminbusko.pl
 127.0.0.1	altex.jpn.com
 127.0.0.1	kubet.de.com
 127.0.0.1	www.adunion.se
@@ -74,6 +100,7 @@
 127.0.0.1	secure.seketafrica.org
 127.0.0.1	f0f5d142773c9409d043c11054bb39b4.be15023586893006b4acf9ef23a9691f.traefik.default
 127.0.0.1	mitch275-37737.portmap.host
+127.0.0.1	setting.cc
 127.0.0.1	jasm72mf.vagusbra.ru
 127.0.0.1	goe0vvjr.vagusbra.ru
 127.0.0.1	qzf73dvm.vagusbra.ru
@@ -52562,46 +52589,4 @@
 127.0.0.1	zenforexpvtltd.hopto.org
 127.0.0.1	ofkkfd24.work.gd
 127.0.0.1	djlmwd9b-80.euw.devtunnels.ms
-127.0.0.1	greenpop.info
-127.0.0.1	hreatlittleheaven.info
-127.0.0.1	ksecure.bio
-127.0.0.1	pineappleworld.info
-127.0.0.1	plumpinr.info
-127.0.0.1	sunmelonontheway.info
-127.0.0.1	vibrantforest.info
-127.0.0.1	islamabadpolice.org
-127.0.0.1	safecityctd.com
-127.0.0.1	mofa.gov.bd.mofa-govbd.com
-127.0.0.1	mofa-govbd.org
-127.0.0.1	yahoo.com.mofa-govbd.com
-127.0.0.1	mail.mofa-govbd.com
-127.0.0.1	mod.mofa-govbd.com
-127.0.0.1	mhapsd.gov.bd.mofa-govbd.com
-127.0.0.1	mofa-govbd.com
-127.0.0.1	tod.treasury.gov.lk.mofa-govbd.com
-127.0.0.1	erd.gov.lk.mofa-govbd.com
-127.0.0.1	ftp.mofa-govbd.com
-127.0.0.1	mofagovbd.com
-127.0.0.1	nvloi.mofagovbd.com
-127.0.0.1	mofa-gov-bd.com
-127.0.0.1	mofa-govpk.co
-127.0.0.1	mofagovpk-hq.co
-127.0.0.1	cons.mofagovpk.co
-127.0.0.1	cuttingedgetechworks.com
-127.0.0.1	languagenose.info
-127.0.0.1	cnm.h0xtopsec.vip
-127.0.0.1	intelligentopennetworkingawards.com
-127.0.0.1	storeshomeestudiosfluworks.xyz
-127.0.0.1	buukas.duckdns.org
-127.0.0.1	bulon.trumdvfb.com
-127.0.0.1	vip.jbvipnetwork.cc
-127.0.0.1	hot-filing.gl.at.ply.gg
-127.0.0.1	nulltraces-38627.portmap.io
-127.0.0.1	nulltraces-62756.portmap.io
-127.0.0.1	along-rid.gl.at.ply.gg
-127.0.0.1	web-rabby.org
-127.0.0.1	security.fsealengurrad.com
-127.0.0.1	poqers.com
-127.0.0.1	susni-swap.net
-127.0.0.1	dexsceerner.org
-# Number of entries: 52598
+# Number of entries: 52583
