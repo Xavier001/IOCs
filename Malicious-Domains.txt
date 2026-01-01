@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2025-12-31 20:03:28 UTC                        #
+# Last updated: 2026-01-01 04:03:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	smartcloaker.sbs
+127.0.0.1	google.coppsindoor.org
+127.0.0.1	ctn8n.chatutor.com
+127.0.0.1	www.xbwa1.top
+127.0.0.1	wzy.firstanquan.cn
 127.0.0.1	capture.coppsindoor.org
 127.0.0.1	googletagmanager.coppsindoor.org
 127.0.0.1	gstatic.coppsindoor.org
@@ -52599,9 +52604,4 @@
 127.0.0.1	poqers.com
 127.0.0.1	susni-swap.net
 127.0.0.1	dexsceerner.org
-127.0.0.1	play.rubyhall.in.net
-127.0.0.1	win2officialgray.win
-127.0.0.1	360sec-dns.com
-127.0.0.1	accounts.podform.site
-127.0.0.1	www.csgo-csgo-go.it.com
 # Number of entries: 52598
