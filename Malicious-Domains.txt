@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-01 08:37:04 UTC                        #
+# Last updated: 2026-01-01 11:40:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.ldbot.top
+127.0.0.1	open88-vip.com
 127.0.0.1	bornodatabase.ng
 127.0.0.1	ekoplod.pentasoftcomputers.eu
 127.0.0.1	usajili.hamasagroup.com
@@ -52581,12 +52583,4 @@
 127.0.0.1	0.x.exifit.eu.org
 127.0.0.1	www.autoauctionsdirect.net
 127.0.0.1	47sqwjxze4941.cfc-execute.su.baidubce.com
-127.0.0.1	mdnsserver.com
-127.0.0.1	lionvs.gotdns.ch
-127.0.0.1	mxsunamz.gotdns.ch
-127.0.0.1	wigroups.com
-127.0.0.1	weneedverysweetgirlwholovesmebetterthana.duckdns.org
-127.0.0.1	zenforexpvtltd.hopto.org
-127.0.0.1	ofkkfd24.work.gd
-127.0.0.1	djlmwd9b-80.euw.devtunnels.ms
-# Number of entries: 52583
+# Number of entries: 52577
