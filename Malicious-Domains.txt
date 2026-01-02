@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-02 10:52:34 UTC                        #
+# Last updated: 2026-01-02 18:03:01 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	chinollek-51048.portmap.host
+127.0.0.1	1911.oss
+127.0.0.1	relaynet.parody
+127.0.0.1	imso.libre
+127.0.0.1	dontbeabitch.geek
+127.0.0.1	suckmycockstupidfed.gopher
+127.0.0.1	www.vonwidmanndesigns.com
+127.0.0.1	www.arton-bv.nl
 127.0.0.1	opennic.geek
 127.0.0.1	zarintandis.ir
 127.0.0.1	pushokbandit-598.cfd
@@ -52477,13 +52485,4 @@
 127.0.0.1	partopikoto.live
 127.0.0.1	user.thinkg.cc
 127.0.0.1	api.xiaomis.lol
-127.0.0.1	admin.027dzjl.com
-127.0.0.1	pan.crooods.com
-127.0.0.1	dilin2345-47228.portmap.io
-127.0.0.1	net.botwork.cc
-127.0.0.1	musicdownloader.top
-127.0.0.1	kabarbhayangkara.com
-127.0.0.1	continue-relationships.gl.at.ply.gg
-127.0.0.1	images.venthalpyapp.com
-127.0.0.1	265ea973-18d6-47d2-8796-29db4decc888-00-lq5hf5va4e7m.pike.replit.dev
-# Number of entries: 52480
+# Number of entries: 52479
