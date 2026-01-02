@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-01 15:20:01 UTC                        #
+# Last updated: 2026-01-02 00:01:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	relayontop.dad
+127.0.0.1	kf.xbwa1.top
+127.0.0.1	donotclick.foo
 127.0.0.1	lgo.passadisco.com.br
 127.0.0.1	lgo.kievteplo.in.ua
 127.0.0.1	www.lisakiddo.se
@@ -52572,7 +52575,4 @@
 127.0.0.1	developer1.ydns.eu
 127.0.0.1	andre21.ydns.eu
 127.0.0.1	imagoatlowk-58420.portmap.io
-127.0.0.1	m83-189-135-177.cust.tele2.se
-127.0.0.1	ecs-113-45-47-3.compute.hwclouds-dns.com
-127.0.0.1	73w6tr0x1tnay.cfc-execute.bj.baidubce.com
 # Number of entries: 52569
