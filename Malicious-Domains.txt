@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-02 07:08:26 UTC                        #
+# Last updated: 2026-01-02 10:52:34 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	opennic.geek
 127.0.0.1	zarintandis.ir
 127.0.0.1	pushokbandit-598.cfd
 127.0.0.1	pushokriotru-907.icu
@@ -52485,53 +52486,4 @@
 127.0.0.1	continue-relationships.gl.at.ply.gg
 127.0.0.1	images.venthalpyapp.com
 127.0.0.1	265ea973-18d6-47d2-8796-29db4decc888-00-lq5hf5va4e7m.pike.replit.dev
-127.0.0.1	3.s.exifit.eu.org
-127.0.0.1	kardan35.zapto.org
-127.0.0.1	www.denisa.shop
-127.0.0.1	leading-calculator.gl.at.ply.gg
-127.0.0.1	better-allan.gl.at.ply.gg
-127.0.0.1	sfr90.no-ip.org
-127.0.0.1	4morphis.no-ip.org
-127.0.0.1	the07ayoub.zapto.org
-127.0.0.1	alfoo.no-ip.org
-127.0.0.1	edwardian.zapto.org
-127.0.0.1	italo2011.no-ip.org
-127.0.0.1	juttrdx.no-ip.biz
-127.0.0.1	cutaylorpascale.top
-127.0.0.1	sdorthyyantonietta.top
-127.0.0.1	jpearl26kacey.top
-127.0.0.1	alfo.zapto.org
-127.0.0.1	zielony.no-ip.org
-127.0.0.1	phenoms.ddns.net
-127.0.0.1	moneybag042.warzonedns.com
-127.0.0.1	contact-japan.gl.at.ply.gg
-127.0.0.1	duoohr71.top
-127.0.0.1	morttttf08.top
-127.0.0.1	kypersar42.top
-127.0.0.1	morfev07.top
-127.0.0.1	gallery-article.gl.at.ply.gg
-127.0.0.1	1221.sytes.net
-127.0.0.1	nokta147.no-ip.biz
-127.0.0.1	both-burlington.gl.at.ply.gg
-127.0.0.1	mosabedz.ddns.net
-127.0.0.1	ckimo.ddns.net
-127.0.0.1	markscott.ddns.net
-127.0.0.1	btoast.mywire.org
-127.0.0.1	magazine-tattoo.gl.at.ply.gg
-127.0.0.1	names-compatibility.gl.at.ply.gg
-127.0.0.1	superwx.duckdns.org
-127.0.0.1	xw.lnpntkd9vth0tup2.rest
-127.0.0.1	conhostlogsdown2.sytes.net
-127.0.0.1	josemansory980.4cloud.click
-127.0.0.1	alexmoro.duckdns.org
-127.0.0.1	servicesdrivres1.duckdns.org
-127.0.0.1	gomezgomez.duckdns.org
-127.0.0.1	mistico2032.duckdns.org
-127.0.0.1	conhostlogsdown1.sytes.net
-127.0.0.1	evilc6604-54395.portmap.io
-127.0.0.1	qquasar.lnpntkd9vth0tup2.rest
-127.0.0.1	ever-transparent.gl.at.ply.gg
-127.0.0.1	done-gather.gl.at.ply.gg
-127.0.0.1	clairos-34961.portmap.io
-127.0.0.1	fall-islam.gl.at.ply.gg
-# Number of entries: 52528
+# Number of entries: 52480
