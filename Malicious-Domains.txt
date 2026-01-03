@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-03 11:00:05 UTC                        #
+# Last updated: 2026-01-03 20:04:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	secure.ciberseguridad-eia.xyz
+127.0.0.1	customer.cathost.io
+127.0.0.1	workstation.chatutor.com
+127.0.0.1	nft.uk.com
+127.0.0.1	cim.co.com
+127.0.0.1	pixel.coppsindoor.org
+127.0.0.1	scontent.xx.coppsindoor.org
+127.0.0.1	api.coppsindoor.org
+127.0.0.1	witchhyf.cyou
+127.0.0.1	arrierzh.cyou
+127.0.0.1	makeravh.cyou
+127.0.0.1	recitebl.cyou
+127.0.0.1	dev.googleshop.xyz
 127.0.0.1	diao.jingxiaoliandong.com
 127.0.0.1	c1.msft-config-service.com
 127.0.0.1	invoicing-kyc.com
@@ -53255,25 +53268,4 @@
 127.0.0.1	mailing-iv.gl.at.ply.gg
 127.0.0.1	dsasinject-58214.portmap.io
 127.0.0.1	nas.gddsw.top
-127.0.0.1	whitegambit.com
-127.0.0.1	degene000-47221.portmap.io
-127.0.0.1	63tefarz8.localto.net
-127.0.0.1	ratlordvc.ddns.net
-127.0.0.1	evidence-ecommerce.gl.at.ply.gg
-127.0.0.1	newjewel.duckdns.org
-127.0.0.1	sound-vietnam.gl.at.ply.gg
-127.0.0.1	test8.scacasdxc.love
-127.0.0.1	test9.scacasdxc.love
-127.0.0.1	test3.scacasdxc.love
-127.0.0.1	test4.scacasdxc.love
-127.0.0.1	test5.scacasdxc.love
-127.0.0.1	test6.scacasdxc.love
-127.0.0.1	test7.scacasdxc.love
-127.0.0.1	test2.scacasdxc.love
-127.0.0.1	vertex0110.sbs
-127.0.0.1	ssaspeed.top
-127.0.0.1	roccbqw.pics
-127.0.0.1	cbakk.xyz
-127.0.0.1	git.xtertexter.com
-127.0.0.1	backupjs.ddns.net
-# Number of entries: 53270
+# Number of entries: 53262
