@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-02 18:03:01 UTC                        #
+# Last updated: 2026-01-03 04:03:34 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	oiastocks.pics
+127.0.0.1	cathost.io
+127.0.0.1	ispolic.com
+127.0.0.1	dj6q.ignorelist.com
 127.0.0.1	chinollek-51048.portmap.host
 127.0.0.1	1911.oss
 127.0.0.1	relaynet.parody
@@ -52483,6 +52487,4 @@
 127.0.0.1	perjaxs.com
 127.0.0.1	security.folapegiaurd.com
 127.0.0.1	partopikoto.live
-127.0.0.1	user.thinkg.cc
-127.0.0.1	api.xiaomis.lol
-# Number of entries: 52479
+# Number of entries: 52481
