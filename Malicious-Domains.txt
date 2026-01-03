@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-03 08:27:19 UTC                        #
+# Last updated: 2026-01-03 11:00:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	diao.jingxiaoliandong.com
+127.0.0.1	c1.msft-config-service.com
 127.0.0.1	invoicing-kyc.com
 127.0.0.1	www.dev.ostra-regal.com
 127.0.0.1	www.diallocksmith.keydesigndevelopment.com
@@ -53274,9 +53276,4 @@
 127.0.0.1	cbakk.xyz
 127.0.0.1	git.xtertexter.com
 127.0.0.1	backupjs.ddns.net
-127.0.0.1	myhost.servepics.com
-127.0.0.1	myhost.misecure.com
-127.0.0.1	ec2-13-114-32-108.ap-northeast-1.compute.amazonaws.com
-127.0.0.1	show.thailisting.net
-127.0.0.1	80.t.exifit.eu.org
-# Number of entries: 53273
+# Number of entries: 53270
