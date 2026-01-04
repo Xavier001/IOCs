@@ -53178,13 +53178,4 @@
 127.0.0.1	middleshape.info
 127.0.0.1	sonplane.info
 127.0.0.1	boytheory.xyz
-127.0.0.1	xt.exifit.eu.org
-127.0.0.1	funmusic.servebeer.com
-127.0.0.1	risk.preech.top
-127.0.0.1	ksa-h4ck.ddns.net
-127.0.0.1	results-sand.gl.at.ply.gg
-127.0.0.1	securityhealthsystrays.duckdns.org
-127.0.0.1	securityhealthmonitorgiize.duckdns.org
-127.0.0.1	windowsupdatetoasticon.issmarterthanyou.com
-127.0.0.1	vietololm.duckdns.org
-# Number of entries: 53181
+# Number of entries: 53172
