@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-03 20:04:04 UTC                        #
+# Last updated: 2026-01-04 08:01:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	velvetpaw2031.cfd
+127.0.0.1	my-api-lol.xyz
+127.0.0.1	lgr7mgmwdnswvdgw.wincryptapi.com
+127.0.0.1	goooooogk.cfd
+127.0.0.1	korex.sbs
+127.0.0.1	ptn.kievteplo.kiev.ua
+127.0.0.1	ptn.tfba.me
+127.0.0.1	juridico.tjtjusticia.com
+127.0.0.1	shabi9988-64207.portmap.host
 127.0.0.1	secure.ciberseguridad-eia.xyz
 127.0.0.1	customer.cathost.io
 127.0.0.1	workstation.chatutor.com
@@ -53178,93 +53187,4 @@
 127.0.0.1	securityhealthmonitorgiize.duckdns.org
 127.0.0.1	windowsupdatetoasticon.issmarterthanyou.com
 127.0.0.1	vietololm.duckdns.org
-127.0.0.1	staman.top
-127.0.0.1	swigddmb.top
-127.0.0.1	impvmg.pics
-127.0.0.1	foqdra.lat
-127.0.0.1	sulfvo.top
-127.0.0.1	foqmpk.shop
-127.0.0.1	giyewf.shop
-127.0.0.1	tomxlw.shop
-127.0.0.1	jewbhl.pics
-127.0.0.1	bumualu.shop
-127.0.0.1	clehygs.shop
-127.0.0.1	leehpfe.shop
-127.0.0.1	talkrt.lat
-127.0.0.1	bidafgs.lat
-127.0.0.1	foospjo.lat
-127.0.0.1	grkuek.pics
-127.0.0.1	rumidk.pics
-127.0.0.1	majvkra.pics
-127.0.0.1	upgrazz.top
-127.0.0.1	wonxw.top
-127.0.0.1	gilyesu.top
-127.0.0.1	folshvs.top
-127.0.0.1	pitqhms.shop
-127.0.0.1	dusjnnn.shop
-127.0.0.1	almzsff.shop
-127.0.0.1	untuia.top
-127.0.0.1	whaagd.lat
-127.0.0.1	absqln.lat
-127.0.0.1	dealbht.shop
-127.0.0.1	iswxch.pics
-127.0.0.1	pltefd.lat
-127.0.0.1	pofnxk.top
-127.0.0.1	ponqcf.top
-127.0.0.1	senezqj.pics
-127.0.0.1	smoskp.shop
-127.0.0.1	suhvqq.shop
-127.0.0.1	diseysy.lat
-127.0.0.1	vetbe.pics
-127.0.0.1	freqbkv.top
-127.0.0.1	braoto.top
-127.0.0.1	somfhz.lat
-127.0.0.1	whilhi.pics
-127.0.0.1	8diaprinzpistpe.blogspot.com
-127.0.0.1	cloud839v3.cyou
-127.0.0.1	media.cloud839v3.cyou
-127.0.0.1	londonoffvisit.com
-127.0.0.1	ripple-legal.com
-127.0.0.1	ripple-regulation.com
-127.0.0.1	ripple-regulatory.com
-127.0.0.1	ferjpn.top
-127.0.0.1	gecoea.lat
-127.0.0.1	nbwihi.shop
-127.0.0.1	odetgw.pics
-127.0.0.1	saleone.top
-127.0.0.1	stabkkf.shop
-127.0.0.1	stefeu.shop
-127.0.0.1	thiyntf.pics
-127.0.0.1	casupfi.shop
-127.0.0.1	calxzg.top
-127.0.0.1	cljaln.top
-127.0.0.1	emegln.lat
-127.0.0.1	flotzi.shop
-127.0.0.1	grkozh.shop
-127.0.0.1	harmst.shop
-127.0.0.1	havyfad.top
-127.0.0.1	invjzc.shop
-127.0.0.1	londqx.top
-127.0.0.1	meyks.top
-127.0.0.1	mjfqq.top
-127.0.0.1	omahpy.pics
-127.0.0.1	paggdt.lat
-127.0.0.1	pnpxsc.pics
-127.0.0.1	powdgl.lat
-127.0.0.1	rejpqb.shop
-127.0.0.1	request-bosnia.gl.at.ply.gg
-127.0.0.1	wickpinto.duckdns.org
-127.0.0.1	rvbwtbeitwjeitv.com
-127.0.0.1	oskolko.uno
-127.0.0.1	1c.exifit.eu.org
-127.0.0.1	server.pikachull.ip-ddns.com
-127.0.0.1	updatemsdnserver.com
-127.0.0.1	myaccount.secured-authentication.ru
-127.0.0.1	pulsaratlogs.duckdns.org
-127.0.0.1	pulsa2ndrdplogs.duckdns.org
-127.0.0.1	mer.b2b.9zt.hk
-127.0.0.1	68.227.0.34.bc.googleusercontent.com
-127.0.0.1	mobatek.pro
-127.0.0.1	mailing-iv.gl.at.ply.gg
-127.0.0.1	dsasinject-58214.portmap.io
-# Number of entries: 53261
+# Number of entries: 53181
