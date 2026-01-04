@@ -1,11 +1,52 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-04 08:01:50 UTC                        #
+# Last updated: 2026-01-04 22:06:26 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	v65hz4cb.b1ondepi8s.ru
+127.0.0.1	tulfxa99.b1ondepi8s.ru
+127.0.0.1	929j5tsa.rainriver.ru
+127.0.0.1	g3f5okuq.rainriver.ru
+127.0.0.1	3gr8e6lu.n1ghtfaise.ru
+127.0.0.1	vp4r67nk.n1ghtfaise.ru
+127.0.0.1	489hkp0t.sunfiare.ru
+127.0.0.1	5t07uep8.sunfiare.ru
+127.0.0.1	m1dr52xc.windbioom.ru
+127.0.0.1	auxyv8ds.windbioom.ru
+127.0.0.1	l1e26ikw.5t0rmhiil.ru
+127.0.0.1	1s0ryrsp.5t0rmhiil.ru
+127.0.0.1	z9bdth4n.blu3cioud.ru
+127.0.0.1	j77nejj1.blu3cioud.ru
+127.0.0.1	b76ctsj1.5kyline.ru
+127.0.0.1	is9rzgzv.5kyline.ru
+127.0.0.1	heysenti.dedyn.io
+127.0.0.1	7i2b9swt.expe7iencfu9.ru
+127.0.0.1	mrkao6m7.expe7iencfu9.ru
+127.0.0.1	ol01a5t4.expe7iencfu9.ru
+127.0.0.1	6p1jc04w.expe7iencfu9.ru
+127.0.0.1	gp0nuv6i.expe7iencfu9.ru
+127.0.0.1	bkndstkv.expe7iencfu9.ru
+127.0.0.1	kys.cx
+127.0.0.1	gim0hpzu.ce1lsfeste7.ru
+127.0.0.1	lxkz1wt2.ce1lsfeste7.ru
+127.0.0.1	ag9sdh7p.expre5ssme4d.ru
+127.0.0.1	xgz7bm86.expre5ssme4d.ru
+127.0.0.1	hywk36mt.gr2vityta1k.ru
+127.0.0.1	658w83n5.gr2vityta1k.ru
+127.0.0.1	m5yvac5o.gr2vityta1k.ru
+127.0.0.1	risv99a3.gr2vityta1k.ru
+127.0.0.1	hellofriend.exfrp.space
+127.0.0.1	lunexmods.io
+127.0.0.1	sevreko.rvamsp.com
+127.0.0.1	oil.kievteplo.kiev.ua
+127.0.0.1	oil.tfba.me
+127.0.0.1	orederpush.cfd
+127.0.0.1	content.teamslivesupport.com
+127.0.0.1	myaccount.teamslivesupport.com
+127.0.0.1	server.alpinebooks.xyz
 127.0.0.1	velvetpaw2031.cfd
 127.0.0.1	my-api-lol.xyz
 127.0.0.1	lgr7mgmwdnswvdgw.wincryptapi.com
@@ -53111,71 +53152,4 @@
 127.0.0.1	connecetwise.com
 127.0.0.1	rates-north.gl.at.ply.gg
 127.0.0.1	second-spyware.gl.at.ply.gg
-127.0.0.1	azuredbclitest-tkbum.rs-f815c4c85fb6.postgres.database.azure.com
-127.0.0.1	omgwtfbbq123.sytes.net
-127.0.0.1	not-sized.gl.at.ply.gg
-127.0.0.1	rathole.icu
-127.0.0.1	dmaap.link
-127.0.0.1	selmanaged.fun
-127.0.0.1	rasteks.org
-127.0.0.1	knv.one
-127.0.0.1	gazladder.top
-127.0.0.1	optica.expert
-127.0.0.1	dltc.xyz
-127.0.0.1	strah.biz
-127.0.0.1	feredo.online
-127.0.0.1	iroibk.lat
-127.0.0.1	pupkvw.pics
-127.0.0.1	duxoq.pics
-127.0.0.1	dupldaw.pics
-127.0.0.1	bouzxme.shop
-127.0.0.1	bitjbpc.top
-127.0.0.1	uneqclj.pics
-127.0.0.1	jumpkwo.pics
-127.0.0.1	halnbb.pics
-127.0.0.1	jumclx.pics
-127.0.0.1	cennqq.lat
-127.0.0.1	fifdtm.lat
-127.0.0.1	creewuh.shop
-127.0.0.1	delnsc.pics
-127.0.0.1	deepvqy.shop
-127.0.0.1	cucujxc.shop
-127.0.0.1	concvek.shop
-127.0.0.1	blisao.pics
-127.0.0.1	vegwrwv.pics
-127.0.0.1	gaylw.shop
-127.0.0.1	gastrci.lat
-127.0.0.1	gamtxto.pics
-127.0.0.1	marktth.shop
-127.0.0.1	trarzcr.top
-127.0.0.1	loxmbi.shop
-127.0.0.1	kgqxaa.top
-127.0.0.1	letoxtk.shop
-127.0.0.1	lelurr.top
-127.0.0.1	invdfgq.pics
-127.0.0.1	imasau.pics
-127.0.0.1	shiqgvx.shop
-127.0.0.1	riamoyi.top
-127.0.0.1	radlomr.lat
-127.0.0.1	quaagq.lat
-127.0.0.1	prkovy.shop
-127.0.0.1	poioblz.pics
-127.0.0.1	pilqdx.shop
-127.0.0.1	nooinys.lat
-127.0.0.1	mieydn.lat
-127.0.0.1	masmkl.lat
-127.0.0.1	whiydg.shop
-127.0.0.1	werdqs.lat
-127.0.0.1	wesajkh.top
-127.0.0.1	venxvrc.top
-127.0.0.1	varjdih.shop
-127.0.0.1	vafonp.top
-127.0.0.1	unsmka.top
-127.0.0.1	tamwzen.lat
-127.0.0.1	spiioyt.top
-127.0.0.1	feedback.bigsightsystems.com
-127.0.0.1	countryview.info
-127.0.0.1	middleshape.info
-127.0.0.1	sonplane.info
-127.0.0.1	boytheory.xyz
-# Number of entries: 53172
+# Number of entries: 53146
