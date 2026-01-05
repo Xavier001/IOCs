@@ -1,11 +1,34 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-04 22:06:26 UTC                        #
+# Last updated: 2026-01-05 00:50:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	92bh4ebq.m0ri5ompump.ru
+127.0.0.1	9q0r8r20.m0ri5ompump.ru
+127.0.0.1	41xyhih6.sunb2zealou5.ru
+127.0.0.1	1205eq5m.sunb2zealou5.ru
+127.0.0.1	1ulufjyr.dive9uoht2.ru
+127.0.0.1	3fj89h5i.dive9uoht2.ru
+127.0.0.1	u9bygw3d.liner5ag0.ru
+127.0.0.1	xgspmgw8.liner5ag0.ru
+127.0.0.1	0ouow35c.con8ratken2r.ru
+127.0.0.1	bdpkkklq.con8ratken2r.ru
+127.0.0.1	nzrhwm99.d0tte1ran.ru
+127.0.0.1	4xjyevmd.d0tte1ran.ru
+127.0.0.1	ynr4ubkn.b1tterb0tt.ru
+127.0.0.1	e40yvibc.b1tterb0tt.ru
+127.0.0.1	admin.ciberseguridad-eia.xyz
+127.0.0.1	multiipay-ar.shop
+127.0.0.1	ctadvisor.chatutor.com
+127.0.0.1	b4g475eq.atte4dh2ve.ru
+127.0.0.1	rnm3sp58.atte4dh2ve.ru
+127.0.0.1	w6lcjzd6.ei8hthyp0.ru
+127.0.0.1	69t7i1mv.ei8hthyp0.ru
+127.0.0.1	11mo4fsx.ho1idayt2rn.ru
+127.0.0.1	a5gmsv1u.ho1idayt2rn.ru
 127.0.0.1	v65hz4cb.b1ondepi8s.ru
 127.0.0.1	tulfxa99.b1ondepi8s.ru
 127.0.0.1	929j5tsa.rainriver.ru
@@ -53137,19 +53160,4 @@
 127.0.0.1	brave.webredirect.org
 127.0.0.1	www.documentfliers.com
 127.0.0.1	www.documentflies.com
-127.0.0.1	204.178.153.160.host.secureserver.net
-127.0.0.1	azuredbclitest-tkbum.postgres.database.azure.com
-127.0.0.1	probrad.no-ip.org
-127.0.0.1	maxo.4cloud.click
-127.0.0.1	tutatara.no-ip.info
-127.0.0.1	changeintoafly.no-ip.biz
-127.0.0.1	r3nt3r.no-ip.org
-127.0.0.1	sonytester.no-ip.biz
-127.0.0.1	stpmarche.no-ip.org
-127.0.0.1	city-communicate.gl.at.ply.gg
-127.0.0.1	got-incurred.gl.at.ply.gg
-127.0.0.1	let12345-61544.portmap.io
-127.0.0.1	connecetwise.com
-127.0.0.1	rates-north.gl.at.ply.gg
-127.0.0.1	second-spyware.gl.at.ply.gg
-# Number of entries: 53146
+# Number of entries: 53154
