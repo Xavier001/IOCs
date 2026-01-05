@@ -1,11 +1,31 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-05 12:02:40 UTC                        #
+# Last updated: 2026-01-05 20:25:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	open88-01.pro
+127.0.0.1	ampelectrical.it.com
+127.0.0.1	win678.uk.net
+127.0.0.1	win678.de.com
+127.0.0.1	win678.cn.com
+127.0.0.1	jersey-tricks.gl.at.ply.gg
+127.0.0.1	6nuzshlva.localto.net
+127.0.0.1	mullanyauricvista.com
+127.0.0.1	holdrem.dynuddns.com
+127.0.0.1	xid.zabbixcloud.cloud
+127.0.0.1	linux.docker-update.com
+127.0.0.1	cringeasfaslto-34920.portmap.host
+127.0.0.1	scrroeder.com
+127.0.0.1	annonalc.cyou
+127.0.0.1	porcupvu.cyou
+127.0.0.1	statisnv.cyou
+127.0.0.1	genusstv.cyou
+127.0.0.1	gvo.tfba.me
+127.0.0.1	gvo.kievteplo.kiev.ua
+127.0.0.1	ttwweb.live
 127.0.0.1	clawless-42512.portmap.host
 127.0.0.1	api.bitcoinusdtusdc.xyz
 127.0.0.1	krs.kievteplo.kiev.ua
@@ -53146,17 +53166,4 @@
 127.0.0.1	h.yangthousand.hair
 127.0.0.1	dadanyohoocloud.com
 127.0.0.1	analytics.digitalflowcloud.com
-127.0.0.1	ec2-3-121-114-119.eu-central-1.compute.amazonaws.com
-127.0.0.1	mainsdos.hopto.org
-127.0.0.1	hugo123.no-ip.biz
-127.0.0.1	danyjosy.ddns.com.br
-127.0.0.1	spardra-59711.portmap.host
-127.0.0.1	activistascol25.myonlineportal.net
-127.0.0.1	capreconlmtdafull.dedyn.io
-127.0.0.1	televisor1.con-ip.com
-127.0.0.1	cannonistanbulsskys.duckdns.org
-127.0.0.1	cell-submitted.gl.at.ply.gg
-127.0.0.1	acc.jybhelp.top
-127.0.0.1	loveharmony.live
-127.0.0.1	banana.quatrocliche.com
-# Number of entries: 53153
+# Number of entries: 53160
