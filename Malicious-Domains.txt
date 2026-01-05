@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-05 10:07:29 UTC                        #
+# Last updated: 2026-01-05 12:02:40 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	clawless-42512.portmap.host
+127.0.0.1	api.bitcoinusdtusdc.xyz
 127.0.0.1	krs.kievteplo.kiev.ua
 127.0.0.1	ptn.passadisco.com.br
 127.0.0.1	pex.passadisco.com.br
@@ -53157,9 +53159,4 @@
 127.0.0.1	acc.jybhelp.top
 127.0.0.1	loveharmony.live
 127.0.0.1	banana.quatrocliche.com
-127.0.0.1	blogmail.pro
-127.0.0.1	evil-inc.no-ip.biz
-127.0.0.1	person-files.gl.at.ply.gg
-127.0.0.1	hold-mayre.duckdns.org
-127.0.0.1	something-relation.gl.at.ply.gg
-# Number of entries: 53156
+# Number of entries: 53153
