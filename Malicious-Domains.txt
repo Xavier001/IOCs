@@ -1,11 +1,47 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-06 10:16:16 UTC                        #
+# Last updated: 2026-01-06 12:25:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	invoice-statement.com
+127.0.0.1	eaupdateservice.ddns.net
+127.0.0.1	saliangel.ru
+127.0.0.1	xillenkillers.ru
+127.0.0.1	alien007.my-firewall.org
+127.0.0.1	kevindavis-58161.portmap.host
+127.0.0.1	r3dc0d3r.duckdns.org
+127.0.0.1	fuu.tfuuuk.com
+127.0.0.1	whoami.cc.cd
+127.0.0.1	sadxssaw-41989.portmap.host
+127.0.0.1	starnhgggf-58632.portmap.host
+127.0.0.1	owais5050-61656.portmap.io
+127.0.0.1	spark.ilovegrooming.xyz
+127.0.0.1	tester.attackzombie.com
+127.0.0.1	gmail.myddns.me
+127.0.0.1	api.shenzhenschool.fun
+127.0.0.1	dfgdfgeiurguer.live
+127.0.0.1	prukinsandiz41.luxmailing.store
+127.0.0.1	crolinpanrol.luxmailing.store
+127.0.0.1	cropenval8.mail-lab.store
+127.0.0.1	flipinlanjal.mail-cube.store
+127.0.0.1	flisinfuntar.mail-lab.store
+127.0.0.1	flononconsal.mail-genius.store
+127.0.0.1	frepanlanral563.luxpost.shop
+127.0.0.1	frukinvel.luxmailer.store
+127.0.0.1	glaronhal.lxmail.store
+127.0.0.1	glasal.luxmail.space
+127.0.0.1	glefenbonder.luxomail.store
+127.0.0.1	glejal.mail-craft.store
+127.0.0.1	platum.luxxmail.store
+127.0.0.1	pripingor.mail-boss.store
+127.0.0.1	progongor822.mail-genius.store
+127.0.0.1	prorol638.luxormail.store
+127.0.0.1	prosil.mail-mentor.store
+127.0.0.1	cretonriz.lxmail.store
+127.0.0.1	crical.mail-craft.store
 127.0.0.1	sgna.sa.com
 127.0.0.1	riku.in.net
 127.0.0.1	win678.ru.com
@@ -53171,9 +53207,4 @@
 127.0.0.1	cantante1.no-ip.org
 127.0.0.1	ak1.ksdcks2.org
 127.0.0.1	ec2-34-219-200-70.us-west-2.compute.amazonaws.com
-127.0.0.1	mohooooo.zapto.org
-127.0.0.1	mohamedmmk.zapto.org
-127.0.0.1	wizwormskiddoleakexpose-22797.portmap.io
-127.0.0.1	urchamadi.ddns.net
-127.0.0.1	jmaxx2.duckdns.org
-# Number of entries: 53170
+# Number of entries: 53201
