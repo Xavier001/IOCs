@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-05 20:25:18 UTC                        #
+# Last updated: 2026-01-06 02:15:33 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sunrbf.za.com
+127.0.0.1	zuqiuzhiye.cn.com
+127.0.0.1	kf8.cn.com
+127.0.0.1	ceu.uk.com
+127.0.0.1	galciabeneficios.shop
 127.0.0.1	open88-01.pro
 127.0.0.1	ampelectrical.it.com
 127.0.0.1	win678.uk.net
@@ -53162,8 +53167,4 @@
 127.0.0.1	1ms0rry-35873.portmap.io
 127.0.0.1	respaldofinal.kozow.com
 127.0.0.1	nsxauth.duckdns.org
-127.0.0.1	ozzytzy-anomali-adminjomok.panel-store-pterodactyl.my.id
-127.0.0.1	h.yangthousand.hair
-127.0.0.1	dadanyohoocloud.com
-127.0.0.1	analytics.digitalflowcloud.com
-# Number of entries: 53160
+# Number of entries: 53161
