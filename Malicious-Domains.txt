@@ -1,11 +1,38 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-06 02:15:33 UTC                        #
+# Last updated: 2026-01-06 10:16:16 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	sgna.sa.com
+127.0.0.1	riku.in.net
+127.0.0.1	win678.ru.com
+127.0.0.1	psyca.co.com
+127.0.0.1	automotive6.sa.com
+127.0.0.1	subdomain.minhaempresa.tv
+127.0.0.1	www.classicashionprobackup2.net
+127.0.0.1	www.classicashionprobackup1.net
+127.0.0.1	www.classicashionpro.net
+127.0.0.1	sagent.zabbixcloud.cloud
+127.0.0.1	lacedomu.cyou
+127.0.0.1	coverxyzer.su
+127.0.0.1	spielbkr.cyou
+127.0.0.1	app.modernbusinessevolution.com
+127.0.0.1	administrator.modernbusinessevolution.com
+127.0.0.1	securedock.ltd
+127.0.0.1	supphouse.minhacasa.tv
+127.0.0.1	memory-scanner.cc
+127.0.0.1	springdogs.xyz
+127.0.0.1	turnclass.xyz
+127.0.0.1	qq88.za.com
+127.0.0.1	agn121-64753.portmap.host
+127.0.0.1	mnnenmvgfj.a.pinggy.link
+127.0.0.1	dal-business-20.duckdns.org
+127.0.0.1	ghostisrealll-39376.portmap.host
+127.0.0.1	www.essistme.com
+127.0.0.1	www.identitetsmanual.se
 127.0.0.1	sunrbf.za.com
 127.0.0.1	zuqiuzhiye.cn.com
 127.0.0.1	kf8.cn.com
@@ -53149,22 +53176,4 @@
 127.0.0.1	wizwormskiddoleakexpose-22797.portmap.io
 127.0.0.1	urchamadi.ddns.net
 127.0.0.1	jmaxx2.duckdns.org
-127.0.0.1	chernobyl.webhop.me
-127.0.0.1	hacking702-35743.portmap.io
-127.0.0.1	shitfaced.tk
-127.0.0.1	360.huiyuan8.vip
-127.0.0.1	dubstep33.ddns.net
-127.0.0.1	ec2-13-250-159-36.ap-southeast-1.compute.amazonaws.com
-127.0.0.1	island-towns.gl.at.ply.gg
-127.0.0.1	kingdom-nu.gl.at.ply.gg
-127.0.0.1	unique-heard.gl.at.ply.gg
-127.0.0.1	yu.troutbunion.bet
-127.0.0.1	31.213.176.34.bc.googleusercontent.com
-127.0.0.1	thecrazyboyyy.no-ip.biz
-127.0.0.1	hacker9393.ddns.net
-127.0.0.1	sidalibelkercha.ddns.net
-127.0.0.1	rrs123.no-ip.org
-127.0.0.1	1ms0rry-35873.portmap.io
-127.0.0.1	respaldofinal.kozow.com
-127.0.0.1	nsxauth.duckdns.org
-# Number of entries: 53161
+# Number of entries: 53170
