@@ -1,11 +1,64 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-06 12:25:50 UTC                        #
+# Last updated: 2026-01-06 20:24:42 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	rang.uk.com
+127.0.0.1	techsanjay.in.net
+127.0.0.1	pqs.uk.net
+127.0.0.1	karvacolud.in.net
+127.0.0.1	pradeepprabhu7.duckdns.org
+127.0.0.1	vxe.uk.com
+127.0.0.1	todayepisode.ru.com
+127.0.0.1	runafrica.us.org
+127.0.0.1	n188.co.com
+127.0.0.1	gate.motfim.com
+127.0.0.1	gate.735bet12.com
+127.0.0.1	exuberant.uk.com
+127.0.0.1	eihbgb.sa.com
+127.0.0.1	buybitcoin.us.com
+127.0.0.1	8xx.de.com
+127.0.0.1	777x.us.com
+127.0.0.1	1710.cn.com
+127.0.0.1	aaasx123.com
+127.0.0.1	cls-services.uk.com
+127.0.0.1	without-gibraltar.gl.at.ply.gg
+127.0.0.1	support-prospect.gl.at.ply.gg
+127.0.0.1	seller-editions.gl.at.ply.gg
+127.0.0.1	vibeproject776-44233.portmap.host
+127.0.0.1	usb-norm.gl.at.ply.gg
+127.0.0.1	meiweibo.cn.com
+127.0.0.1	franchise.uk.net
+127.0.0.1	doggrooming.uk.com
+127.0.0.1	peal.us.com
+127.0.0.1	kge.uk.com
+127.0.0.1	huanle.cn.com
+127.0.0.1	gdmp.cn.com
+127.0.0.1	dtk.uk.com
+127.0.0.1	zun.uk.com
+127.0.0.1	sunwin11.us.com
+127.0.0.1	ipv6.eu.com
+127.0.0.1	iez.uk.com
+127.0.0.1	firstcall.eu.com
+127.0.0.1	lavender-wallaby-90664.zap.cloud
+127.0.0.1	adfs.vdjhrr.de
+127.0.0.1	grufuncinlhar.floresflorcravovermelho.cfd
+127.0.0.1	9.qq8875.online
+127.0.0.1	8.qq8875.online
+127.0.0.1	7.qq8875.online
+127.0.0.1	6.qq8875.online
+127.0.0.1	5.qq8875.online
+127.0.0.1	4.qq8875.online
+127.0.0.1	3.qq8875.online
+127.0.0.1	2.qq8875.online
+127.0.0.1	10.qq8875.online
+127.0.0.1	1.qq8875.online
+127.0.0.1	gatemaden.space
+127.0.0.1	tpl.tfba.me
+127.0.0.1	tpl.kievteplo.kiev.ua
 127.0.0.1	invoice-statement.com
 127.0.0.1	eaupdateservice.ddns.net
 127.0.0.1	saliangel.ru
@@ -53203,8 +53256,4 @@
 127.0.0.1	legder-live-desktop.net
 127.0.0.1	forbescheck.top
 127.0.0.1	b1.a.exifit.ir
-127.0.0.1	ratosorrateiro.hopto.org
-127.0.0.1	cantante1.no-ip.org
-127.0.0.1	ak1.ksdcks2.org
-127.0.0.1	ec2-34-219-200-70.us-west-2.compute.amazonaws.com
-# Number of entries: 53201
+# Number of entries: 53250
