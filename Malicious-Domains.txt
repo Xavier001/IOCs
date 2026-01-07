@@ -1,11 +1,72 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-07 12:29:00 UTC                        #
+# Last updated: 2026-01-07 20:48:29 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	vision.cssc.design
+127.0.0.1	spark.cssc.design
+127.0.0.1	nexus.cssc.design
+127.0.0.1	zlpiik.sa.com
+127.0.0.1	y2matethumbnaildownloader.in.net
+127.0.0.1	tuvrdk.sa.com
+127.0.0.1	tfdqcr.sa.com
+127.0.0.1	sc88mobi.shop
+127.0.0.1	karenbrodiephotography.co.uk
+127.0.0.1	ederh.za.com
+127.0.0.1	www.lens-flare.uk.com
+127.0.0.1	powerjolytia.com
+127.0.0.1	locketflock.info
+127.0.0.1	eyesmatch.xyz
+127.0.0.1	adviceturn.xyz
+127.0.0.1	illillliilliliililliilllilliilllilliilililllii.li
+127.0.0.1	xhl.cn.com
+127.0.0.1	hitclub.pro
+127.0.0.1	wotoken.jpn.com
+127.0.0.1	verb.eu.com
+127.0.0.1	sui.us.com
+127.0.0.1	newstalk.us.com
+127.0.0.1	lydney.uk.com
+127.0.0.1	ircservices.uk.net
+127.0.0.1	fairway.uk.com
+127.0.0.1	extortioners.us.org
+127.0.0.1	setuyaku.jp.net
+127.0.0.1	testexternal.mettlab.online
+127.0.0.1	tonicuwl.cyou
+127.0.0.1	yearbxre.cyou
+127.0.0.1	turkisal.cyou
+127.0.0.1	hokigame.org
+127.0.0.1	hkw.br.com
+127.0.0.1	hillstore.uk.com
+127.0.0.1	aloe.uk.com
+127.0.0.1	taixiuonline.jp.net
+127.0.0.1	hitclub.com.pe
+127.0.0.1	entejasen.sa.com
+127.0.0.1	biletik.ru.com
+127.0.0.1	ths.tfba.me
+127.0.0.1	ths.kievteplo.kiev.ua
+127.0.0.1	cgg.tfba.xyz
+127.0.0.1	cgg.kievteplo.kiev.ua
+127.0.0.1	morozmyau-658.cfd
+127.0.0.1	giantslegs.xyz
+127.0.0.1	ballfrank.xyz
+127.0.0.1	ballfrank.space
+127.0.0.1	barbermoo.space
+127.0.0.1	jmpbowl.coupons
+127.0.0.1	jmpbowl.fun
+127.0.0.1	jmpbowl.space
+127.0.0.1	groovyfox.coupons
+127.0.0.1	foldexmoon.shop
+127.0.0.1	argoflyleens.space
+127.0.0.1	alfredoway.space
+127.0.0.1	elfrodbloom.fun
+127.0.0.1	mbrezqgbgn39qoiv.timebolls.com
+127.0.0.1	mondozer.com
+127.0.0.1	bot.rehannnap.my.id
+127.0.0.1	structurelinen.xyz
+127.0.0.1	6bbwz4471hjbx.cfc-execute.bj.baidubce.com
 127.0.0.1	www.kasperskysecure.com
 127.0.0.1	docsc.ddns.net
 127.0.0.1	abo7seshaelmkatel-50598.portmap.host
@@ -53231,26 +53292,4 @@
 127.0.0.1	cdn.bitttrrix.ru
 127.0.0.1	apiprod.regpad.net
 127.0.0.1	api.regpad.net
-127.0.0.1	17.5.exifit.ir
-127.0.0.1	support.desktop.wales
-127.0.0.1	ns3.bsetop.top
-127.0.0.1	ns2.bsetop.top
-127.0.0.1	ns1.bsetop.top
-127.0.0.1	login.ictstudents.help
-127.0.0.1	dns2.e-twfpg.com
-127.0.0.1	blog.ictstudents.help
-127.0.0.1	tarek777.no-ip.biz
-127.0.0.1	reportedfall.no-ip.biz
-127.0.0.1	amazon.capeturk.com
-127.0.0.1	nglocalhost.com
-127.0.0.1	rem.specialtyfoodnetwork.site
-127.0.0.1	slitterline.xyz
-127.0.0.1	windows11.webredirect.org
-127.0.0.1	ambakgroup.com
-127.0.0.1	en.earthen.io
-127.0.0.1	anoteryo.top
-127.0.0.1	videoproduction.demostagingserver.com
-127.0.0.1	c83-249-230-189.bredband.tele2.se
-127.0.0.1	mugu3.ydns.eu
-127.0.0.1	stable.lanpdt.info
-# Number of entries: 53247
+# Number of entries: 53286
