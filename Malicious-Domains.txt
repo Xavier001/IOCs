@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-06 20:24:42 UTC                        #
+# Last updated: 2026-01-07 09:27:14 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	clausdoom.es
+127.0.0.1	stoyo-59509.portmap.host
+127.0.0.1	msservice.network
+127.0.0.1	avserivce.network
+127.0.0.1	msmanager.network
+127.0.0.1	plugins-manager.network
+127.0.0.1	avumanager.network
+127.0.0.1	connectmanager.network
+127.0.0.1	dinozozo.com
+127.0.0.1	pippyheydguide.com
 127.0.0.1	rang.uk.com
 127.0.0.1	techsanjay.in.net
 127.0.0.1	pqs.uk.net
@@ -53246,14 +53256,4 @@
 127.0.0.1	remdynu1.accesscam.org
 127.0.0.1	farahsaamer.duckdns.org
 127.0.0.1	summer25hot.org
-127.0.0.1	lbkequityexchange.com
-127.0.0.1	node.ozzytzy-anomali-adminjomok.panel-store-pterodactyl.my.id
-127.0.0.1	uranet.duckdns.org
-127.0.0.1	madara21-54023.portmap.io
-127.0.0.1	296azure-64092.portmap.io
-127.0.0.1	nuevboprogreso.duckdns.org
-127.0.0.1	nnnnssss-64548.portmap.io
-127.0.0.1	legder-live-desktop.net
-127.0.0.1	forbescheck.top
-127.0.0.1	b1.a.exifit.ir
 # Number of entries: 53250
