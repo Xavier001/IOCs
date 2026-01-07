@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-07 09:27:14 UTC                        #
+# Last updated: 2026-01-07 12:29:00 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.kasperskysecure.com
+127.0.0.1	docsc.ddns.net
+127.0.0.1	abo7seshaelmkatel-50598.portmap.host
+127.0.0.1	claus4doom.co.za
 127.0.0.1	clausdoom.es
 127.0.0.1	stoyo-59509.portmap.host
 127.0.0.1	msservice.network
@@ -53249,11 +53253,4 @@
 127.0.0.1	c83-249-230-189.bredband.tele2.se
 127.0.0.1	mugu3.ydns.eu
 127.0.0.1	stable.lanpdt.info
-127.0.0.1	wisedreams-53895.portmap.io
-127.0.0.1	hajouts8koumis910.duckdns.org
-127.0.0.1	hajouts8koumis9.duckdns.org
-127.0.0.1	remdynu2.accesscam.org
-127.0.0.1	remdynu1.accesscam.org
-127.0.0.1	farahsaamer.duckdns.org
-127.0.0.1	summer25hot.org
-# Number of entries: 53250
+# Number of entries: 53247
