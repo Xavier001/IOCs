@@ -1,11 +1,34 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-08 12:32:07 UTC                        #
+# Last updated: 2026-01-08 20:04:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	login.ciberseguridad-eia.xyz
+127.0.0.1	join.ciberseguridad-eia.xyz
+127.0.0.1	outlook.ciberseguridad-eia.xyz
+127.0.0.1	sonbaharindirimi.sbs
+127.0.0.1	ewaewaeawwe-47532.portmap.host
+127.0.0.1	arvrestbnkonline.top
+127.0.0.1	vci.uk.com
+127.0.0.1	bbq.us.com
+127.0.0.1	sdancecompany.in.net
+127.0.0.1	royalweddingcars.in.net
+127.0.0.1	cce.co.com
+127.0.0.1	antiglare.in.net
+127.0.0.1	www.luongsontv3.tv
+127.0.0.1	www.luongsontv1.tv
+127.0.0.1	www.luongsontv.tv
+127.0.0.1	luongsontv2.tv
+127.0.0.1	luongsontv.io
+127.0.0.1	afonoditrixdxcomplany.com
+127.0.0.1	oasioncounertstrike.com
+127.0.0.1	gti.azl.one
+127.0.0.1	gti.mir-massage.kiev.ua
+127.0.0.1	wewekikilopsterstakan.com
+127.0.0.1	relays.zyabozadpap.top
 127.0.0.1	barbermoo.top
 127.0.0.1	ballfrank.top
 127.0.0.1	argoflyleens.coupons
@@ -53327,22 +53350,4 @@
 127.0.0.1	baidu-cdn29.shop
 127.0.0.1	test10.scacasdxc.love
 127.0.0.1	edge3.bsqb.ru
-127.0.0.1	www.thelist2win.com
-127.0.0.1	bruconriz72.futurox.store
-127.0.0.1	iwine.top
-127.0.0.1	www.bonusnewmember.fyi
-127.0.0.1	hosts32.no-ip.biz
-127.0.0.1	www.dddddddguashjdka.top
-127.0.0.1	google-com-site-backup.duckdns.org
-127.0.0.1	codingoffensive.duckdns.org
-127.0.0.1	hciagriitec.ddns.net
-127.0.0.1	technovisionpromaxx.com
-127.0.0.1	116b1bac-dcea-42f0-befb-e4383be4037a.k8s.ondigitalocean.com
-127.0.0.1	gbotupdate19xx.com
-127.0.0.1	draw.treetrauma.com
-127.0.0.1	xiaoshihou13.top
-127.0.0.1	mail.operationesim.com
-127.0.0.1	relay.colonjars.xyz
-127.0.0.1	hitmanzok.net
-127.0.0.1	jareyo.duckdns.org
-# Number of entries: 53339
+# Number of entries: 53344
