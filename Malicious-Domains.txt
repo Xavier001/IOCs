@@ -1,11 +1,43 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-08 03:21:05 UTC                        #
+# Last updated: 2026-01-08 09:52:30 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cadjehounthrenody.com
+127.0.0.1	app.zyabozadpap.top
+127.0.0.1	peropanel.xyz
+127.0.0.1	predovec.com
+127.0.0.1	xoclo.fordvungtau.com.vn
+127.0.0.1	ttu.azl.one
+127.0.0.1	ttu.mir-massage.kiev.ua
+127.0.0.1	cph.tfba.xyz
+127.0.0.1	cph.kievteplo.kiev.ua
+127.0.0.1	buradabmwking.com
+127.0.0.1	secure-signal.info
+127.0.0.1	trfvbhi.unrwpeifdot.info
+127.0.0.1	connect.dadumaster.co.com
+127.0.0.1	connect.psyca.co.com
+127.0.0.1	connect.avan.co.com
+127.0.0.1	connect.cim.co.com
+127.0.0.1	connect.danhdeonline.co.com
+127.0.0.1	connect.emi.co.com
+127.0.0.1	connect.vn88a.co.com
+127.0.0.1	connect.bong88.co.com
+127.0.0.1	connect.gizmodo.co.com
+127.0.0.1	paw6f2wjk.localto.net
+127.0.0.1	connect.form.co.com
+127.0.0.1	n.gochatx.mov
+127.0.0.1	v4.vlxx.net
+127.0.0.1	v4.phimmoiz.dev
+127.0.0.1	v3.vlxx.net
+127.0.0.1	v3.phimmoiz.dev
+127.0.0.1	v2.vlxx.net
+127.0.0.1	v2.phimmoiz.dev
+127.0.0.1	v1.vlxx.net
+127.0.0.1	v1.phimmoiz.dev
 127.0.0.1	form.co.com
 127.0.0.1	gizmodo.co.com
 127.0.0.1	dadumaster.co.com
@@ -53282,14 +53314,4 @@
 127.0.0.1	idrnmk.top
 127.0.0.1	whitfmz.top
 127.0.0.1	anfdfq.pics
-127.0.0.1	qeel.xyz
-127.0.0.1	lnofi.xyz
-127.0.0.1	ryxpq.xyz
-127.0.0.1	dzyzb.xyz
-127.0.0.1	dkkig.xyz
-127.0.0.1	lodib.xyz
-127.0.0.1	genmkh.xyz
-127.0.0.1	vaykhon.ddns.net
-127.0.0.1	mokveid.duckdns.org
-127.0.0.1	page4work.mywire.org
-# Number of entries: 53286
+# Number of entries: 53308
