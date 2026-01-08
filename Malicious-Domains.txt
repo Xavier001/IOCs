@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-07 20:48:29 UTC                        #
+# Last updated: 2026-01-08 03:21:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	form.co.com
+127.0.0.1	gizmodo.co.com
+127.0.0.1	dadumaster.co.com
+127.0.0.1	alphalaval.testingweblink.com
+127.0.0.1	web.nutorus.com
 127.0.0.1	vision.cssc.design
 127.0.0.1	spark.cssc.design
 127.0.0.1	nexus.cssc.design
@@ -53287,9 +53292,4 @@
 127.0.0.1	vaykhon.ddns.net
 127.0.0.1	mokveid.duckdns.org
 127.0.0.1	page4work.mywire.org
-127.0.0.1	net-2-45-246-28.cust.vodafonedsl.it
-127.0.0.1	personal.regpad.net
-127.0.0.1	cdn.bitttrrix.ru
-127.0.0.1	apiprod.regpad.net
-127.0.0.1	api.regpad.net
 # Number of entries: 53286
