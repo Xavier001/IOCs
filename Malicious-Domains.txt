@@ -1,11 +1,53 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-08 09:52:30 UTC                        #
+# Last updated: 2026-01-08 12:32:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	barbermoo.top
+127.0.0.1	ballfrank.top
+127.0.0.1	argoflyleens.coupons
+127.0.0.1	groovyfox.top
+127.0.0.1	ballfrank.fun
+127.0.0.1	groovyfox.fun
+127.0.0.1	barbermoo.fun
+127.0.0.1	foldexmoon.top
+127.0.0.1	clausdoom.co.za
+127.0.0.1	jmpbowl.top
+127.0.0.1	foldexmoon.space
+127.0.0.1	foldexmoon.xyz
+127.0.0.1	goalblistr.ydns.eu
+127.0.0.1	foldexmoon.fun
+127.0.0.1	claus2doom.es
+127.0.0.1	claus4doom.es
+127.0.0.1	claus5doom.es
+127.0.0.1	claus3doom.es
+127.0.0.1	api.qq88.za.com
+127.0.0.1	www.story-diary.ru.com
+127.0.0.1	foldexmoon.coupons
+127.0.0.1	argoflyleens.fun
+127.0.0.1	2.tcp.cpolar.cn
+127.0.0.1	ballfrank.shop
+127.0.0.1	jmpbowl.shop
+127.0.0.1	groovyfox.space
+127.0.0.1	elfrodbloom.coupons
+127.0.0.1	barbermoo.coupons
+127.0.0.1	barbermoo.xyz
+127.0.0.1	elfrodbloom.space
+127.0.0.1	groovyfox.shop
+127.0.0.1	groovyfox.xyz
+127.0.0.1	jmpbowl.xyz
+127.0.0.1	ballfrank.coupons
+127.0.0.1	claus5doom.co.za
+127.0.0.1	claus3doom.co.za
+127.0.0.1	folkband.fun
+127.0.0.1	claus2doom.co.za
+127.0.0.1	rnk.uk.com
+127.0.0.1	novasghey.ru.com
+127.0.0.1	educationcentre.in.net
+127.0.0.1	bgh4.ru.com
 127.0.0.1	cadjehounthrenody.com
 127.0.0.1	app.zyabozadpap.top
 127.0.0.1	peropanel.xyz
@@ -53303,15 +53345,4 @@
 127.0.0.1	relay.colonjars.xyz
 127.0.0.1	hitmanzok.net
 127.0.0.1	jareyo.duckdns.org
-127.0.0.1	hunterbry.no-ip.biz
-127.0.0.1	webdevs.vip
-127.0.0.1	security-malware.com
-127.0.0.1	citadelcdn.pro
-127.0.0.1	hotroutingcdn.asia
-127.0.0.1	filedisterbuter.icu
-127.0.0.1	perkoj.shop
-127.0.0.1	metopypv.top
-127.0.0.1	idrnmk.top
-127.0.0.1	whitfmz.top
-127.0.0.1	anfdfq.pics
-# Number of entries: 53308
+# Number of entries: 53339
