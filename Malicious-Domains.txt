@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-09 02:49:28 UTC                        #
+# Last updated: 2026-01-09 08:00:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	fir.azl.one
+127.0.0.1	fir.mir-massage.kiev.ua
+127.0.0.1	mcafeeupdates.com
+127.0.0.1	frttsch.com
+127.0.0.1	roadmap.lifeinsurancemasters.net
+127.0.0.1	foresposition.com
+127.0.0.1	mercedesheritage.com
+127.0.0.1	vdsturkiye.com
+127.0.0.1	farforshop.cfd
+127.0.0.1	zobyyog3nyah123-35769.portmap.host
 127.0.0.1	bbb.flash-china.com
 127.0.0.1	wey.uk.com
 127.0.0.1	hhz.uk.com
@@ -53264,93 +53274,4 @@
 127.0.0.1	goodhost.work.gd
 127.0.0.1	late-starting.gl.at.ply.gg
 127.0.0.1	game-charleston.gl.at.ply.gg
-127.0.0.1	108.8.sarijayaco.my.id
-127.0.0.1	secfileshare.com
-127.0.0.1	kpuszkiev.com
-127.0.0.1	fiuylj.top
-127.0.0.1	jqueryapishelpers.com
-127.0.0.1	fetchapiutility.com
-127.0.0.1	www.uochantanhua.net
-127.0.0.1	www.vow0bfd7z3-wc8g.shop
-127.0.0.1	www.x06n.top
-127.0.0.1	www.yfamily.bar
-127.0.0.1	www.q8ocuz2.xyz
-127.0.0.1	www.rolan.shop
-127.0.0.1	www.rtprinthop.shop
-127.0.0.1	www.shfgr.pro
-127.0.0.1	www.sy609.top
-127.0.0.1	www.trezcip.xyz
-127.0.0.1	www.txbx2.top
-127.0.0.1	www.ubuly.xyz
-127.0.0.1	www.ucnso.top
-127.0.0.1	www.unseokyang.dev
-127.0.0.1	www.omagugra.cfd
-127.0.0.1	www.otholez.xyz
-127.0.0.1	www.ov-fze-pay.top
-127.0.0.1	www.ov-vdotbt.vip
-127.0.0.1	www.ovapeptide.net
-127.0.0.1	www.ovie-tickets-89216.bond
-127.0.0.1	www.pennatelindhq.top
-127.0.0.1	www.pkmagic.xyz
-127.0.0.1	www.q0.shop
-127.0.0.1	www.lphacustcareapp.top
-127.0.0.1	www.lphagatherhappyhoney.forum
-127.0.0.1	www.m444.top
-127.0.0.1	www.obgil.xyz
-127.0.0.1	www.occpit.net
-127.0.0.1	www.ocumessage.click
-127.0.0.1	www.oldenapple.studio
-127.0.0.1	www.ollectionss.top
-127.0.0.1	www.hlbfs.top
-127.0.0.1	www.iendaahorro.shop
-127.0.0.1	www.ifodsiffl.pro
-127.0.0.1	www.jalki123fa.app
-127.0.0.1	www.kv16ybq7qm.sbs
-127.0.0.1	www.landestinecreations.shop
-127.0.0.1	www.latformjago89servervip.lat
-127.0.0.1	www.limaxholdings.net
-127.0.0.1	www.estcleaningquote.info
-127.0.0.1	www.etabeauty.clinic
-127.0.0.1	www.etmagneticmessaging.top
-127.0.0.1	www.ffoik.top
-127.0.0.1	www.g-farcaster.xyz
-127.0.0.1	www.hamarhqh.net
-127.0.0.1	www.henhuazhai.food
-127.0.0.1	www.hepio.click
-127.0.0.1	www.atamspa.net
-127.0.0.1	www.c0518.top
-127.0.0.1	www.creenboard.top
-127.0.0.1	www.d25124166.cfd
-127.0.0.1	www.del.business
-127.0.0.1	www.eboldbraverobot.shop
-127.0.0.1	www.electsoftwarereviewshub.top
-127.0.0.1	www.eraka189sleepguy.xyz
-127.0.0.1	www.88865.xyz
-127.0.0.1	www.ababakh.shop
-127.0.0.1	www.acking-jobs-17785.bond
-127.0.0.1	www.ai8866.vip
-127.0.0.1	www.andirussell.art
-127.0.0.1	www.anguage-courses-93435.bond
-127.0.0.1	www.apecash88.xyz
-127.0.0.1	www.8293.sbs
-127.0.0.1	www.868com643.app
-127.0.0.1	www.-sky.net
-127.0.0.1	newxx.ddns.net
-127.0.0.1	natural-hide.gl.at.ply.gg
-127.0.0.1	autodiscover.ransomed.biz
-127.0.0.1	autoconfig.ransomed.biz
-127.0.0.1	cdn.ransomed.biz
-127.0.0.1	mail.ransomed.biz
-127.0.0.1	market.ransomed.biz
-127.0.0.1	wd11.zapto.org
-127.0.0.1	verfycash.com
-127.0.0.1	dczip7.duckdns.org
-127.0.0.1	ms-office1.duckdns.org
-127.0.0.1	ms-office.duckdns.org
-127.0.0.1	hajouts8koumis12.duckdns.org
-127.0.0.1	hajouts8koumis11.duckdns.org
-127.0.0.1	hajouts8koumis10.duckdns.org
-127.0.0.1	casino.ddnss.de
-127.0.0.1	anonsim.pw
-127.0.0.1	regone.dnsframe.com
-# Number of entries: 53347
+# Number of entries: 53268
