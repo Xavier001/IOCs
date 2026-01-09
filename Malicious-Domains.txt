@@ -1,11 +1,17 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-08 20:04:12 UTC                        #
+# Last updated: 2026-01-09 02:49:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bbb.flash-china.com
+127.0.0.1	wey.uk.com
+127.0.0.1	hhz.uk.com
+127.0.0.1	www.gangotri.edu.np
+127.0.0.1	henry.xx.kg
+127.0.0.1	sxwa.nxjwl.com
 127.0.0.1	login.ciberseguridad-eia.xyz
 127.0.0.1	join.ciberseguridad-eia.xyz
 127.0.0.1	outlook.ciberseguridad-eia.xyz
@@ -53347,7 +53353,4 @@
 127.0.0.1	casino.ddnss.de
 127.0.0.1	anonsim.pw
 127.0.0.1	regone.dnsframe.com
-127.0.0.1	baidu-cdn29.shop
-127.0.0.1	test10.scacasdxc.love
-127.0.0.1	edge3.bsqb.ru
-# Number of entries: 53344
+# Number of entries: 53347
