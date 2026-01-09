@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-09 08:00:28 UTC                        #
+# Last updated: 2026-01-09 11:55:45 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	riyaenterprises.in.net
+127.0.0.1	kbbet.app
+127.0.0.1	carryeky.cyou
+127.0.0.1	potassyr.cyou
+127.0.0.1	mecholuq.cyou
+127.0.0.1	profancf.cyou
+127.0.0.1	gowithcu.cyou
+127.0.0.1	clapzdeh.cyou
+127.0.0.1	bloomuje.cyou
+127.0.0.1	frolessmoke.co.za
+127.0.0.1	www.quick-shares.com
 127.0.0.1	fir.azl.one
 127.0.0.1	fir.mir-massage.kiev.ua
 127.0.0.1	mcafeeupdates.com
@@ -53270,8 +53281,4 @@
 127.0.0.1	bot.nightbotnet.my.id
 127.0.0.1	cnnetwork.uk
 127.0.0.1	assets.studermfg.com
-127.0.0.1	novermber12.dynamic-dns.net
-127.0.0.1	goodhost.work.gd
-127.0.0.1	late-starting.gl.at.ply.gg
-127.0.0.1	game-charleston.gl.at.ply.gg
-# Number of entries: 53268
+# Number of entries: 53275
