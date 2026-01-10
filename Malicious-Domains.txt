@@ -53281,10 +53281,4 @@
 127.0.0.1	filelist.zapto.org
 127.0.0.1	multi-laid.gl.at.ply.gg
 127.0.0.1	goatdjdj-59021.portmap.io
-127.0.0.1	artists-drew.gl.at.ply.gg
-127.0.0.1	taker202.ddns.net
-127.0.0.1	taker202.duckdns.org
-127.0.0.1	newpage44.mywire.org
-127.0.0.1	iykemonii.ydns.eu
-127.0.0.1	kingmethod.sytes.net
-# Number of entries: 53281
+# Number of entries: 53275
