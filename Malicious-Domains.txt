@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-09 21:46:22 UTC                        #
+# Last updated: 2026-01-10 00:46:08 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	fnlipr.ru.com
 127.0.0.1	xqjiin.sa.com
 127.0.0.1	orionshipping.co.uk
 127.0.0.1	bielzingl-59529.portmap.host
@@ -53391,5 +53392,4 @@
 127.0.0.1	a.zqycftmex.cn
 127.0.0.1	yk.ggdy.com
 127.0.0.1	privateone.no-ip.biz
-127.0.0.1	ent.santutxuht.eus
 # Number of entries: 53386
