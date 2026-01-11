@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-10 18:07:19 UTC                        #
+# Last updated: 2026-01-11 04:03:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	gd0.com.co
+127.0.0.1	sosyalkonutprojesi.sbs
+127.0.0.1	toki.konutbasvurutr.cfd
+127.0.0.1	sosyalkonut.cfd
+127.0.0.1	toki.sosyalkonutunuz.cfd
+127.0.0.1	eticaret.yonlendir.cfd
+127.0.0.1	e-konutbasvuruekran.sbs
+127.0.0.1	newunveiled.com
+127.0.0.1	duckdns2233444.duckdns.org
 127.0.0.1	nj5056ja.duckdns.org
 127.0.0.1	www.company-it-technology.ru.com
 127.0.0.1	damonke43453-59818.portmap.host
@@ -52676,7 +52685,6 @@
 127.0.0.1	oldinax.com
 127.0.0.1	security.folagaiurd.com
 127.0.0.1	nenilac.com
-127.0.0.1	analyticacnodec.com
 127.0.0.1	security.flwcereguaard.com
 127.0.0.1	tepolix.com
 127.0.0.1	security.fleapecguadr.com
@@ -53245,12 +53253,4 @@
 127.0.0.1	images.mildecommercialrealestate.com
 127.0.0.1	blue.o7lab.me
 127.0.0.1	brimaganla.duckdns.org
-127.0.0.1	www.cloudpacket.xyz
-127.0.0.1	pe40.com
-127.0.0.1	a26.nbdsnb2.top
-127.0.0.1	a19.nbdsnb2.top
-127.0.0.1	about-source.gl.at.ply.gg
-127.0.0.1	hallo2222-49080.portmap.host
-127.0.0.1	2305133156.a1.luyouxia.net
-127.0.0.1	bestpeoplesaroundtheworldwithbeautifullt.duckdns.org
 # Number of entries: 53247
