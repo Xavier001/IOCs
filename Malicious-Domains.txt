@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-11 10:15:37 UTC                        #
+# Last updated: 2026-01-11 12:08:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	guarderia.hopto.org
+127.0.0.1	remgreat2740.duckdns.org
+127.0.0.1	holdremco.bumbleshrimp.com
+127.0.0.1	exveyra-52557.portmap.host
+127.0.0.1	queijoz-38545.portmap.host
+127.0.0.1	nobrains.localto.net
+127.0.0.1	8xx.it.com
+127.0.0.1	58win8.in.net
 127.0.0.1	wabnewszamanpaper22.za.com
 127.0.0.1	tamilrockers.gr.com
 127.0.0.1	rehumedece.ru.com
@@ -53273,8 +53281,4 @@
 127.0.0.1	josyfs.shop
 127.0.0.1	ai-dev.overscaleconsulting.com
 127.0.0.1	3wz63jwcct4de.cfc-execute.bj.baidubce.com
-127.0.0.1	usr-smithsonian.gl.at.ply.gg
-127.0.0.1	freemadness.duckdns.org
-127.0.0.1	johngavins12311860.ddns.net
-127.0.0.1	johngavins2311860.ddns.net
-# Number of entries: 53271
+# Number of entries: 53275
