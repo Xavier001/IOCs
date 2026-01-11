@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-11 04:03:56 UTC                        #
+# Last updated: 2026-01-11 10:15:37 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	wabnewszamanpaper22.za.com
+127.0.0.1	tamilrockers.gr.com
+127.0.0.1	rehumedece.ru.com
+127.0.0.1	promole16.ddns.net
 127.0.0.1	gd0.com.co
 127.0.0.1	sosyalkonutprojesi.sbs
 127.0.0.1	toki.konutbasvurutr.cfd
@@ -15,6 +19,45 @@
 127.0.0.1	e-konutbasvuruekran.sbs
 127.0.0.1	newunveiled.com
 127.0.0.1	duckdns2233444.duckdns.org
+127.0.0.1	oussamaa123.zapto.org
+127.0.0.1	badmeetsevil.zapto.org
+127.0.0.1	golinosssum1214.ddns.net
+127.0.0.1	chryslero.servebeer.com
+127.0.0.1	hihi.ddnsking.com
+127.0.0.1	condokiller.duckdns.org
+127.0.0.1	dot.polarisnetwork.fun
+127.0.0.1	v.x86thx.xyz
+127.0.0.1	blackhawk1121.no-ip.org
+127.0.0.1	snak3.dyndns-server.com
+127.0.0.1	dark12345555.duckdns.org
+127.0.0.1	wowtroy.sytes.net
+127.0.0.1	zerobrian.no-ip.biz
+127.0.0.1	mackenzie.ddns.net
+127.0.0.1	ahmetdeann.no-ip.org
+127.0.0.1	noroge.noip.me
+127.0.0.1	hasansefa123.duckdns.org
+127.0.0.1	zylookup.no-ip.info
+127.0.0.1	f-starrow.no-ip.org
+127.0.0.1	medo5120.no-ip.biz
+127.0.0.1	vimto660.no-ip.biz
+127.0.0.1	r18.no-ip.biz
+127.0.0.1	streetxhunx.no-ip.biz
+127.0.0.1	kallistobee.ddns.net
+127.0.0.1	sittner.no-ip.biz
+127.0.0.1	negazione414.no-ip.org
+127.0.0.1	datgary.zapto.org
+127.0.0.1	dct2313.duckdns.org
+127.0.0.1	uditsoni.no-ip.org
+127.0.0.1	jaxonsmith22-49703.portmap.host
+127.0.0.1	still-resistant.gl.at.ply.gg
+127.0.0.1	30.tcp.cpolar.top
+127.0.0.1	george-broke.gl.at.ply.gg
+127.0.0.1	fahadx700-50129.portmap.host
+127.0.0.1	roles-38825.portmap.host
+127.0.0.1	roles-40374.portmap.host
+127.0.0.1	howlmsolke.a.pinggy.link
+127.0.0.1	xixot69291-44565.portmap.host
+127.0.0.1	iidk.dev
 127.0.0.1	nj5056ja.duckdns.org
 127.0.0.1	www.company-it-technology.ru.com
 127.0.0.1	damonke43453-59818.portmap.host
@@ -53234,23 +53277,4 @@
 127.0.0.1	freemadness.duckdns.org
 127.0.0.1	johngavins12311860.ddns.net
 127.0.0.1	johngavins2311860.ddns.net
-127.0.0.1	atlantqlpt.bet
-127.0.0.1	armorratdns.ddns.net
-127.0.0.1	cameldomain1.n-e.kr
-127.0.0.1	cdn.valgap.org
-127.0.0.1	1.izumisv1.cc
-127.0.0.1	abc.izumisv1.cc
-127.0.0.1	7kmynviev.localto.net
-127.0.0.1	chat.kongfupro.shop
-127.0.0.1	dogcsdogcs.js
-127.0.0.1	subasyncratlog.duckdns.org
-127.0.0.1	correctwion.click
-127.0.0.1	helpfullyk.click
-127.0.0.1	discoveronline.top
-127.0.0.1	altopew.com
-127.0.0.1	getin.top
-127.0.0.1	security.fbaregwaurd.com
-127.0.0.1	images.mildecommercialrealestate.com
-127.0.0.1	blue.o7lab.me
-127.0.0.1	brimaganla.duckdns.org
-# Number of entries: 53247
+# Number of entries: 53271
