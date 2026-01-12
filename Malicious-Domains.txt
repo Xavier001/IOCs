@@ -1,11 +1,27 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-12 08:11:38 UTC                        #
+# Last updated: 2026-01-12 12:18:34 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	uberdeltagss.com
+127.0.0.1	fbnmoon.fun
+127.0.0.1	fbnmoon.space
+127.0.0.1	artemkalenadov-42277.portmap.host
+127.0.0.1	fbnmoon.xyz
+127.0.0.1	fbnmoon.world
+127.0.0.1	fbnmoon.top
+127.0.0.1	fbnmoon.coupons
+127.0.0.1	gonebornes.com
+127.0.0.1	securityfenceandwelding.com
+127.0.0.1	kurasizkatilim.sbs
+127.0.0.1	toki.evekonutabasvur.cfd
+127.0.0.1	evekonutabasvur.cfd
+127.0.0.1	toki.sosyalkonut.cfd
+127.0.0.1	toki.konutbasvuruturkiye.sbs
+127.0.0.1	e-konutbasvuru.sbs
 127.0.0.1	gbr.erom-e.com
 127.0.0.1	wvw.erom-e.com
 127.0.0.1	dup.erom-e.com
@@ -53283,16 +53299,4 @@
 127.0.0.1	meosne.fit
 127.0.0.1	map.nlscmap.com
 127.0.0.1	62crwk8ep4k5a.cfc-execute.bj.baidubce.com
-127.0.0.1	employees-churches.gl.at.ply.gg
-127.0.0.1	small-bend.gl.at.ply.gg
-127.0.0.1	indro.top
-127.0.0.1	app.youroboter.com
-127.0.0.1	cloud.youroboter.com
-127.0.0.1	last.galaxias.cc
-127.0.0.1	net.bolo.gay
-127.0.0.1	piotr2222-40866.portmap.host
-127.0.0.1	alfons.ddns.net
-127.0.0.1	mbc2.no-ip.biz
-127.0.0.1	compare-jennifer.gl.at.ply.gg
-127.0.0.1	dariusfanxwomrskiddedaahh-40602.portmap.host
-# Number of entries: 53289
+# Number of entries: 53293
