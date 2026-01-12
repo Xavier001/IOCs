@@ -1,11 +1,31 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-12 04:03:38 UTC                        #
+# Last updated: 2026-01-12 08:11:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	gbr.erom-e.com
+127.0.0.1	wvw.erom-e.com
+127.0.0.1	dup.erom-e.com
+127.0.0.1	leb.erom-e.com
+127.0.0.1	oui.erom-e.com
+127.0.0.1	goo.erom-e.com
+127.0.0.1	gbr.zeronoiseclassroom.com
+127.0.0.1	wvw.zeronoiseclassroom.com
+127.0.0.1	dup.zeronoiseclassroom.com
+127.0.0.1	leb.zeronoiseclassroom.com
+127.0.0.1	oui.zeronoiseclassroom.com
+127.0.0.1	goo.zeronoiseclassroom.com
+127.0.0.1	importhd.cyou
+127.0.0.1	irregukw.cyou
+127.0.0.1	mirelvse.cyou
+127.0.0.1	reveiley.cyou
+127.0.0.1	rumordoz.cyou
+127.0.0.1	schemaqa.cyou
+127.0.0.1	swimglii.cyou
+127.0.0.1	triniliu.cyou
 127.0.0.1	toki.vatandasbasvuru.cfd
 127.0.0.1	hostikslu.is
 127.0.0.1	visa.br.com
@@ -53275,18 +53295,4 @@
 127.0.0.1	mbc2.no-ip.biz
 127.0.0.1	compare-jennifer.gl.at.ply.gg
 127.0.0.1	dariusfanxwomrskiddedaahh-40602.portmap.host
-127.0.0.1	iot.stellar-iot.net
-127.0.0.1	server1.stellar-iot.net
-127.0.0.1	masike4.preech.top
-127.0.0.1	westcnds.asia
-127.0.0.1	linkedservlet.pro
-127.0.0.1	eyertyn.lat
-127.0.0.1	www.jpchacha.com
-127.0.0.1	ltdvjvr.top
-127.0.0.1	uponmap.com
-127.0.0.1	jojo-ent.com
-127.0.0.1	resutato.com
-127.0.0.1	security.flearengauurd.com
-127.0.0.1	haciver.com
-127.0.0.1	smithenv.com
-# Number of entries: 53283
+# Number of entries: 53289
