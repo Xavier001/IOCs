@@ -1,11 +1,51 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-12 12:18:34 UTC                        #
+# Last updated: 2026-01-12 20:04:04 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	toki.konutabasvur.cfd
+127.0.0.1	server.datagence.xyz
+127.0.0.1	toki.basvurkonutbilgi.cfd
+127.0.0.1	basvurkonut.cfd
+127.0.0.1	yffsoksss888.com
+127.0.0.1	www.www-161bet.com
+127.0.0.1	matalan.uk.com
+127.0.0.1	hhv.uk.com
+127.0.0.1	leprixnet.com
+127.0.0.1	food-family.icu
+127.0.0.1	peacockes.ie
+127.0.0.1	ollertonandboughton.uk.com
+127.0.0.1	hitclub33.eu.com
+127.0.0.1	emg.uk.com
+127.0.0.1	dpn.uk.net
+127.0.0.1	bryw.cn.com
+127.0.0.1	beittikvah.us.com
+127.0.0.1	789club1.se.net
+127.0.0.1	topshop.in.net
+127.0.0.1	springdesignpartners.us.com
+127.0.0.1	gordonsmitharchitect.co.uk
+127.0.0.1	arasida.sa.com
+127.0.0.1	kurasizhemenkatil.cfd
+127.0.0.1	basvurudanis.sbs
+127.0.0.1	tokl.basvurusondonem.cfd
+127.0.0.1	yepork.com
+127.0.0.1	readconfig.x1s.icu
+127.0.0.1	nightcopper.info
+127.0.0.1	beeftexture.xyz
+127.0.0.1	distancebedroom.xyz
+127.0.0.1	animalrecord.xyz
+127.0.0.1	crrhelp.top
+127.0.0.1	indian-lotus.cc
+127.0.0.1	backend-knwv.onrender.com
+127.0.0.1	solfson.com
+127.0.0.1	portwinejoke.icu
+127.0.0.1	inforash.com
+127.0.0.1	fuzzy-pickle.cc
+127.0.0.1	sub.erom-e.com
+127.0.0.1	sub.zeronoiseclassroom.com
 127.0.0.1	uberdeltagss.com
 127.0.0.1	fbnmoon.fun
 127.0.0.1	fbnmoon.space
@@ -53290,13 +53330,4 @@
 127.0.0.1	xntryz.thddns.net
 127.0.0.1	craftsgamer.4cloud.click
 127.0.0.1	10.0.minewise.xyz
-127.0.0.1	data.reversesync.com
-127.0.0.1	testermania.theworkpc.com
-127.0.0.1	logscomenow.sbs
-127.0.0.1	bambaz0r.zapto.org
-127.0.0.1	dc070925.duckdns.org
-127.0.0.1	qui.realmensw.top
-127.0.0.1	meosne.fit
-127.0.0.1	map.nlscmap.com
-127.0.0.1	62crwk8ep4k5a.cfc-execute.bj.baidubce.com
-# Number of entries: 53293
+# Number of entries: 53324
