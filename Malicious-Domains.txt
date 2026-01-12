@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-11 18:10:37 UTC                        #
+# Last updated: 2026-01-12 04:03:38 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	toki.vatandasbasvuru.cfd
+127.0.0.1	hostikslu.is
+127.0.0.1	visa.br.com
+127.0.0.1	hitclub.ru.com
+127.0.0.1	gamers.uk.net
+127.0.0.1	feq.uk.com
+127.0.0.1	eastwell.uk.com
+127.0.0.1	adoption.sa.com
+127.0.0.1	accutane18.us.org
+127.0.0.1	www.mariseaverguyglobal.com
+127.0.0.1	www.mariseaverguyglobalbackup1.com
+127.0.0.1	www.mariseaverguyglobalbackup2.com
+127.0.0.1	toki.e-konutbasvuruekran.sbs
 127.0.0.1	wmware.no-ip.biz
 127.0.0.1	artemmakarov-30233.portmap.host
 127.0.0.1	hssshsh-33054.portmap.host
@@ -53276,5 +53289,4 @@
 127.0.0.1	security.flearengauurd.com
 127.0.0.1	haciver.com
 127.0.0.1	smithenv.com
-127.0.0.1	ecs-123-60-142-31.compute.hwclouds-dns.com
-# Number of entries: 53271
+# Number of entries: 53283
