@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-12 20:04:04 UTC                        #
+# Last updated: 2026-01-13 03:00:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	bbliss898
+127.0.0.1	homevpn.anondns.net
+127.0.0.1	api.dns-cloudflare.net
+127.0.0.1	konutbasvuruturkiye.cfd
 127.0.0.1	toki.konutabasvur.cfd
 127.0.0.1	server.datagence.xyz
 127.0.0.1	toki.basvurkonutbilgi.cfd
@@ -53329,5 +53333,4 @@
 127.0.0.1	bibl129.ddns.net
 127.0.0.1	xntryz.thddns.net
 127.0.0.1	craftsgamer.4cloud.click
-127.0.0.1	10.0.minewise.xyz
-# Number of entries: 53324
+# Number of entries: 53327
