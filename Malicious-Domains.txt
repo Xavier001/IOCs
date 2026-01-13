@@ -1,11 +1,37 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-13 12:38:05 UTC                        #
+# Last updated: 2026-01-13 20:48:22 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	joinnow.diasporamedia.net
+127.0.0.1	www.cc999.gay
+127.0.0.1	motphimro.com
+127.0.0.1	7fff.com.br
+127.0.0.1	nd.yuxuanow.com
+127.0.0.1	map-casio.gl.at.ply.gg
+127.0.0.1	watchstore.in.net
+127.0.0.1	getpan.in.net
+127.0.0.1	fly881.us.com
+127.0.0.1	fedralmouint.ru.com
+127.0.0.1	dxyiz.za.com
+127.0.0.1	anaycarrentalcabbookings.in.net
+127.0.0.1	6183.cn.com
+127.0.0.1	gts.zeronoiseclassroom.com
+127.0.0.1	gts.erom-e.com
+127.0.0.1	basvuru.kurasizkatilim.sbs
+127.0.0.1	nsnhzysbntsqdwpys6mhml33muccsvterxewh5rkbmcab7bg2ttevjqd.onion
+127.0.0.1	tgsst34i6z4mwdj2kpigixxb3k3xfz7xhuqnsowvfvyu3snm6nv4s5ad.onion
+127.0.0.1	myeli53ogsryjg2kob4xqxtwkr5oc5zj7jr5fcfizpytwe566k5thxyd.onion
+127.0.0.1	6oeuvb4fq65xlrft2ezxjmkeqnu7oafbsevrr3ocer27wft6ivvhstqd.onion
+127.0.0.1	ryrw2ojab62yij4y33ssfgvm2d2vwt3tcqetu6qmpwznqhooqxz3wpqd.onion
+127.0.0.1	wealthybanks.duckdns.org
+127.0.0.1	n3bulast34l3r.es
+127.0.0.1	remaxbemidji.com
+127.0.0.1	nom.erom-e.com
+127.0.0.1	nom.zeronoiseclassroom.com
 127.0.0.1	potential-memory.cc
 127.0.0.1	iploits.com
 127.0.0.1	lowin.zapto.org
@@ -53341,14 +53367,4 @@
 127.0.0.1	ec2-3-85-192-21.compute-1.amazonaws.com
 127.0.0.1	gd-gd.top
 127.0.0.1	1302498057-jifjeq2q25.na-siliconvalley.tencentscf.com
-127.0.0.1	attack.emocc.cc
-127.0.0.1	darkhacker07.no-ip.biz
-127.0.0.1	already-ibm.gl.at.ply.gg
-127.0.0.1	adamha.duckdns.org
-127.0.0.1	win2325.webredirect.org
-127.0.0.1	sorrij.top
-127.0.0.1	prvqhm.shop
-127.0.0.1	ungryo.shop
-127.0.0.1	perdvg.lat
-127.0.0.1	ongmanibeimeihong.microsolt.org
-# Number of entries: 53345
+# Number of entries: 53361
