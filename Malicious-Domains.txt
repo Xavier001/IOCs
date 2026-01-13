@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-13 10:02:09 UTC                        #
+# Last updated: 2026-01-13 12:38:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	potential-memory.cc
+127.0.0.1	iploits.com
+127.0.0.1	lowin.zapto.org
+127.0.0.1	siren20260105.com
+127.0.0.1	nimm666.biz
+127.0.0.1	sayfalse-33597.portmap.host
+127.0.0.1	disco222222-31929.portmap.host
+127.0.0.1	hustleathem.duckdns.org
+127.0.0.1	srgsy.za.com
 127.0.0.1	verify-my-accounts.com
 127.0.0.1	invoice-simplee.com
 127.0.0.1	med.erom-e.com
@@ -53342,12 +53351,4 @@
 127.0.0.1	ungryo.shop
 127.0.0.1	perdvg.lat
 127.0.0.1	ongmanibeimeihong.microsolt.org
-127.0.0.1	page-prostores.gl.at.ply.gg
-127.0.0.1	solutions-samsung.gl.at.ply.gg
-127.0.0.1	analyticasnodez.com
-127.0.0.1	security.faraleshiaeld.com
-127.0.0.1	xn--2vrub.cc
-127.0.0.1	solpendi.com
-127.0.0.1	157-230-34-254.cprapid.com
-127.0.0.1	biaderibra.info
-# Number of entries: 53344
+# Number of entries: 53345
