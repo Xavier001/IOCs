@@ -1,11 +1,37 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-13 03:00:49 UTC                        #
+# Last updated: 2026-01-13 10:02:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	verify-my-accounts.com
+127.0.0.1	invoice-simplee.com
+127.0.0.1	med.erom-e.com
+127.0.0.1	med.zeronoiseclassroom.com
+127.0.0.1	roofreaction.xyz
+127.0.0.1	hydrantdolls.xyz
+127.0.0.1	aaslooria.com
+127.0.0.1	swimglii.cyou
+127.0.0.1	bimonwz.cyou
+127.0.0.1	inconzy.cyou
+127.0.0.1	schemaqa.cyou
+127.0.0.1	szhuandxiaomuma-yandi.com
+127.0.0.1	rumordoz.cyou
+127.0.0.1	triniliu.cyou
+127.0.0.1	reveiley.cyou
+127.0.0.1	mirelvse.cyou
+127.0.0.1	antliafo.cyou
+127.0.0.1	irregukw.cyou
+127.0.0.1	importhd.cyou
+127.0.0.1	receiver.cy
+127.0.0.1	weedhack.cy
+127.0.0.1	gallery.lorellaparis.com
+127.0.0.1	ser.aivorahub.xyz
+127.0.0.1	ooo-tdt.ru.com
+127.0.0.1	1.tcp.ap.cpolar.io
+127.0.0.1	shreekrishnaindustries.in.net
 127.0.0.1	bbliss898
 127.0.0.1	homevpn.anondns.net
 127.0.0.1	api.dns-cloudflare.net
@@ -53324,13 +53350,4 @@
 127.0.0.1	solpendi.com
 127.0.0.1	157-230-34-254.cprapid.com
 127.0.0.1	biaderibra.info
-127.0.0.1	partner-expedia.gl.at.ply.gg
-127.0.0.1	second-ep.gl.at.ply.gg
-127.0.0.1	envrem07.duckdns.org
-127.0.0.1	lethaldose.nodns.ca
-127.0.0.1	top1miku.duckdns.org
-127.0.0.1	names-jelsoft.gl.at.ply.gg
-127.0.0.1	bibl129.ddns.net
-127.0.0.1	xntryz.thddns.net
-127.0.0.1	craftsgamer.4cloud.click
-# Number of entries: 53327
+# Number of entries: 53344
