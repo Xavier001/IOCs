@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-13 20:48:22 UTC                        #
+# Last updated: 2026-01-14 03:15:49 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	danocore.ddns.net
+127.0.0.1	red3.verybigbank.com
+127.0.0.1	newsdharashivaawaj.in.net
+127.0.0.1	f8bet-01.online
+127.0.0.1	f88bet84.com
+127.0.0.1	f88bet.today
+127.0.0.1	888vnd.vip
+127.0.0.1	888vnd.club
 127.0.0.1	joinnow.diasporamedia.net
 127.0.0.1	www.cc999.gay
 127.0.0.1	motphimro.com
@@ -53365,6 +53373,4 @@
 127.0.0.1	ecs-121-36-27-251.compute.hwclouds-dns.com
 127.0.0.1	ec2-34-221-83-3.us-west-2.compute.amazonaws.com
 127.0.0.1	ec2-3-85-192-21.compute-1.amazonaws.com
-127.0.0.1	gd-gd.top
-127.0.0.1	1302498057-jifjeq2q25.na-siliconvalley.tencentscf.com
-# Number of entries: 53361
+# Number of entries: 53367
