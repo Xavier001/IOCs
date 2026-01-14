@@ -1,11 +1,30 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-14 12:29:06 UTC                        #
+# Last updated: 2026-01-14 21:21:51 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	fbnmoon.today
+127.0.0.1	fbnmoon.shop
+127.0.0.1	wq4x0gt8l.localto.net
+127.0.0.1	cezamail.com.cezamail.com
+127.0.0.1	cezamail.com.localto.net
+127.0.0.1	promole5.ddnsfree.com
+127.0.0.1	eco.sa.com
+127.0.0.1	hanehi6623-51611.portmap.host
+127.0.0.1	8xx.ru.com
+127.0.0.1	f8bet-atq.com
+127.0.0.1	davidwilliam.uk.com
+127.0.0.1	allclean.jp.net
+127.0.0.1	tourne.eu.com
+127.0.0.1	madebycraft.in.net
+127.0.0.1	atopain.ru.com
+127.0.0.1	midnight-forge.cc
+127.0.0.1	bechtellr.com
+127.0.0.1	burger-cx-free-work.fun
+127.0.0.1	dashboard2-cqhtfds57-cihan-katircis-projects.vercel.app
 127.0.0.1	pierrhp.cyou
 127.0.0.1	possuhb.cyou
 127.0.0.1	jailqjm.cyou
@@ -53715,20 +53734,4 @@
 127.0.0.1	abremeh.top
 127.0.0.1	rdlaw.mywire.org
 127.0.0.1	www.yubo.life
-127.0.0.1	mx.minewise.xyz
-127.0.0.1	flhg.pics
-127.0.0.1	winres-43090.portmap.io
-127.0.0.1	denagautr7jkoms2.duckdns.org
-127.0.0.1	denagautr7jkoms3.duckdns.org
-127.0.0.1	denagautr7jkoms4.duckdns.org
-127.0.0.1	denagautr7jkoms5.duckdns.org
-127.0.0.1	eleme11.loseyourip.com
-127.0.0.1	eleme11.ddns.net
-127.0.0.1	denagautr7jkoms1.duckdns.org
-127.0.0.1	cpanel.quantumconcretecoatings.com
-127.0.0.1	bunnybot.ac
-127.0.0.1	botnetnn.duckdns.org
-127.0.0.1	last-kernel-update.top
-127.0.0.1	deepseek.syoik.com
-127.0.0.1	c38ftw1bdzm4g.cfc-execute.bj.baidubce.com
-# Number of entries: 53725
+# Number of entries: 53728
