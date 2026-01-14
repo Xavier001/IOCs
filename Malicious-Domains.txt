@@ -1,11 +1,23 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-14 08:11:06 UTC                        #
+# Last updated: 2026-01-14 12:29:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	pierrhp.cyou
+127.0.0.1	possuhb.cyou
+127.0.0.1	jailqjm.cyou
+127.0.0.1	bimonwz.cyou
+127.0.0.1	antliafo.cyou
+127.0.0.1	inconzy.cyou
+127.0.0.1	sprinqp.cyou
+127.0.0.1	actomil.cyou
+127.0.0.1	neutewj.cyou
+127.0.0.1	starnt80-46282.portmap.host
+127.0.0.1	dre.erom-e.com
+127.0.0.1	dre.zeronoiseclassroom.com
 127.0.0.1	xhsq.sa.com
 127.0.0.1	newpappernews211.ru.com
 127.0.0.1	xrx.zeronoiseclassroom.com
@@ -53719,5 +53731,4 @@
 127.0.0.1	last-kernel-update.top
 127.0.0.1	deepseek.syoik.com
 127.0.0.1	c38ftw1bdzm4g.cfc-execute.bj.baidubce.com
-127.0.0.1	kitchen-english.gl.at.ply.gg
-# Number of entries: 53714
+# Number of entries: 53725
