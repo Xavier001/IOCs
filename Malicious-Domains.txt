@@ -1,11 +1,56 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-15 12:08:24 UTC                        #
+# Last updated: 2026-01-15 20:11:05 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	qua64.gotdns.ch
+127.0.0.1	hokaoneoneshoes.us.com
+127.0.0.1	meshcentral.girydsfsggvb.com
+127.0.0.1	gate.eihbgb.sa.com
+127.0.0.1	gate.exuberant.uk.com
+127.0.0.1	gate.todayepisode.ru.com
+127.0.0.1	gate.n188.co.com
+127.0.0.1	gate.runafrica.us.org
+127.0.0.1	gate.777x.us.com
+127.0.0.1	gate.buybitcoin.us.com
+127.0.0.1	gate.vxe.uk.com
+127.0.0.1	gate.8xx.de.com
+127.0.0.1	gate.1710.cn.com
+127.0.0.1	www-vavada.za.com
+127.0.0.1	ww-clouds-en.ru.com
+127.0.0.1	uogapk7.ddns.net
+127.0.0.1	bottleneckid.com
+127.0.0.1	endoste.cyou
+127.0.0.1	globustree.fun
+127.0.0.1	islandmater.xyz
+127.0.0.1	oncebaurus.fun
+127.0.0.1	islandmater.coupons
+127.0.0.1	islandmater.world
+127.0.0.1	islandmater.today
+127.0.0.1	islandmater.space
+127.0.0.1	techsupp.fun
+127.0.0.1	grapeballs.fun
+127.0.0.1	underword.fun
+127.0.0.1	islandmater.fun
+127.0.0.1	islandmater.top
+127.0.0.1	kornmeel.fun
+127.0.0.1	gracefulm.fun
+127.0.0.1	ns1.padyhost.com
+127.0.0.1	cerkery.com
+127.0.0.1	gigglywhisker2010.sbs
+127.0.0.1	meeller.com
+127.0.0.1	newscontractors.ru.com
+127.0.0.1	motabhaitadka.in.net
+127.0.0.1	quentin.it.com
+127.0.0.1	kinglimos.in.net
+127.0.0.1	innova.africa.com
+127.0.0.1	fezbet.gr.com
+127.0.0.1	elies.eu.com
+127.0.0.1	bqm.uk.com
+127.0.0.1	aokgfu.sa.com
 127.0.0.1	ju-n-88.vip
 127.0.0.1	f-8-bet.vip
 127.0.0.1	m-b-66.vip
@@ -53742,18 +53787,4 @@
 127.0.0.1	friendly-proskuriakova.194-26-192-12.plesk.page
 127.0.0.1	m365.office.safelogins.su
 127.0.0.1	www.quoteconsumer.net
-127.0.0.1	blockchain-projects.com
-127.0.0.1	witherisagoat-20650.portmap.host
-127.0.0.1	8fhd2idhacas.click
-127.0.0.1	8nioqhxciwoqc.click
-127.0.0.1	8hdfiqowchq.click
-127.0.0.1	8eh18dhq9wd.click
-127.0.0.1	8fnuawbfuac.click
-127.0.0.1	madmrx.duckdns.org
-127.0.0.1	envios25.duckdns.org
-127.0.0.1	flyrbeengeek-25127.portmap.io
-127.0.0.1	ec2-18-168-225-154.eu-west-2.compute.amazonaws.com
-127.0.0.1	files.tucsonrenovationservices.com
-127.0.0.1	bcdc37vn5vr5t.cfc-execute.bj.baidubce.com
-127.0.0.1	1357504293-h43knumeov.ap-guangzhou.tencentscf.com
-# Number of entries: 53750
+# Number of entries: 53781
