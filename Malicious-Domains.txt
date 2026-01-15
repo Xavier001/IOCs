@@ -1,11 +1,40 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-15 02:48:59 UTC                        #
+# Last updated: 2026-01-15 09:31:15 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	zx88.se.net
+127.0.0.1	thewinepress.uk.com
+127.0.0.1	cheapoutletjerseys.us.com
+127.0.0.1	4kctwop.uk.com
+127.0.0.1	ne-w88.vip
+127.0.0.1	h-i88.vip
+127.0.0.1	fly8-8.vip
+127.0.0.1	cm-88.vip
+127.0.0.1	78w-in.vip
+127.0.0.1	zx888.us.org
+127.0.0.1	qtm.uk.com
+127.0.0.1	pyx.uk.com
+127.0.0.1	cuesta.us.com
+127.0.0.1	candanchucd.gb.net
+127.0.0.1	byu.cn.com
+127.0.0.1	caliboooooooooooooo.ydns.eu
+127.0.0.1	007ryan.duckdns.org
+127.0.0.1	toothpastesense.xyz
+127.0.0.1	powersmoke.xyz
+127.0.0.1	inkletters.info
+127.0.0.1	decisionreaction.xyz
+127.0.0.1	wastereading.xyz
+127.0.0.1	baretteexpressions.com
+127.0.0.1	qirtewd.com
+127.0.0.1	batandball.in.net
+127.0.0.1	storehouse.beautysupplysalonllc.com
+127.0.0.1	getinvolved.bukrilegacyfoundation.org
+127.0.0.1	xiaocaifeng.net
+127.0.0.1	wwwyandex.org
 127.0.0.1	cruel.boats
 127.0.0.1	xpch.sa.com
 127.0.0.1	mozammilhayatt.in.net
@@ -53727,14 +53756,4 @@
 127.0.0.1	jekwuserver.ydns.eu
 127.0.0.1	nwa2323.ydns.eu
 127.0.0.1	st.w.sachdevalawpublishers.com
-127.0.0.1	hwsrv-1285168.hostwindsdns.com
-127.0.0.1	b3kylyu7z.localto.net
-127.0.0.1	ecs-124-71-152-57.compute.hwclouds-dns.com
-127.0.0.1	pre-order.sodakconcretecoatings.com
-127.0.0.1	security.guaerdflfare.com
-127.0.0.1	jemriz.com
-127.0.0.1	still-ie.gl.at.ply.gg
-127.0.0.1	alcapulco.duckdns.org
-127.0.0.1	abremeh.top
-127.0.0.1	rdlaw.mywire.org
-# Number of entries: 53731
+# Number of entries: 53750
