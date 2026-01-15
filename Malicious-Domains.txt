@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-14 21:21:51 UTC                        #
+# Last updated: 2026-01-15 02:48:59 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	cruel.boats
+127.0.0.1	xpch.sa.com
+127.0.0.1	mozammilhayatt.in.net
+127.0.0.1	drfdm.za.com
 127.0.0.1	fbnmoon.today
 127.0.0.1	fbnmoon.shop
 127.0.0.1	wq4x0gt8l.localto.net
@@ -53733,5 +53737,4 @@
 127.0.0.1	alcapulco.duckdns.org
 127.0.0.1	abremeh.top
 127.0.0.1	rdlaw.mywire.org
-127.0.0.1	www.yubo.life
-# Number of entries: 53728
+# Number of entries: 53731
