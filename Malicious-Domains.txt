@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-15 09:31:15 UTC                        #
+# Last updated: 2026-01-15 12:08:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ju-n-88.vip
+127.0.0.1	f-8-bet.vip
+127.0.0.1	m-b-66.vip
+127.0.0.1	7-89-bet.vip
+127.0.0.1	58-win.uk.com
+127.0.0.1	travel-ustrip.us.com
+127.0.0.1	okayshwh-38943.portmap.host
+127.0.0.1	greatxwill7009.duckdns.org
+127.0.0.1	aralkis.sa.com
+127.0.0.1	crule.boats
+127.0.0.1	5b0rgq8mxzxgv.cfc-execute.bj.baidubce.com
+127.0.0.1	zen.erom-e.com
+127.0.0.1	zen.zeronoiseclassroom.com
 127.0.0.1	zx88.se.net
 127.0.0.1	thewinepress.uk.com
 127.0.0.1	cheapoutletjerseys.us.com
@@ -53743,17 +53756,4 @@
 127.0.0.1	files.tucsonrenovationservices.com
 127.0.0.1	bcdc37vn5vr5t.cfc-execute.bj.baidubce.com
 127.0.0.1	1357504293-h43knumeov.ap-guangzhou.tencentscf.com
-127.0.0.1	omnivva.shop
-127.0.0.1	host0.quoteconsumers.biz
-127.0.0.1	record-examined.gl.at.ply.gg
-127.0.0.1	rovider.net
-127.0.0.1	mcaumnb.shop
-127.0.0.1	daruubs.top
-127.0.0.1	cidtfhh.shop
-127.0.0.1	rayrhs.top
-127.0.0.1	furwmsx.shop
-127.0.0.1	monkkn.top
-127.0.0.1	jekwuserver.ydns.eu
-127.0.0.1	nwa2323.ydns.eu
-127.0.0.1	st.w.sachdevalawpublishers.com
 # Number of entries: 53750
