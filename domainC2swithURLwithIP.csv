@@ -33,6 +33,7 @@ domaingroup.eu.cc,Possible Cobalt Strike C2 Domain,/load,202.162.99.237
 dzeninfra.site,Possible Cobalt Strike C2 Fronted Domain,/mg.css,84.21.172.89
 dzeninfra.xyz,Possible Cobalt Strike C2 Fronted Domain,/mg.css,84.21.172.89
 enter.xone.la,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,193.42.25.65
+etcprofile.biying007.xyz,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,173.44.62.141
 flaskproxy-fedg.onrender.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,154.219.109.205
 fx.doubao.com,Possible Cobalt Strike C2 Domain,/visit.js,118.89.73.78
 help.clickckckck.click,Possible Cobalt Strike C2 Domain,/api/v1/server/user/detail,47.242.129.79
@@ -93,6 +94,7 @@ spark.cssc.design,Possible Cobalt Strike C2 Domain,/pixel,193.149.129.121
 ssl.googletls.top,Possible Cobalt Strike C2 Domain,/idle/1376547834/1,103.194.107.168
 sso.dzeninfra.site,Possible Cobalt Strike C2 Fronting Domain,/mg.css,84.21.172.89
 static-mtpjoriqkv.cn-beijing.fcapp.run,Possible Cobalt Strike C2 Domain,/api/x_53e3c13808,43.155.252.158
+test.dnslogger.site,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,101.37.236.20
 timestamp.logogogogo.click,Possible Cobalt Strike C2 Domain,/api/v1/server/user/detail,47.242.129.79
 update.mloadspring.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,70.34.196.238
 updatery.ai,Possible Cobalt Strike C2 Fronted Domain,/image/,101.43.103.154

@@ -1,11 +1,33 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-16 12:06:19 UTC                        #
+# Last updated: 2026-01-16 19:12:17 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	007consultoriafinanceira.net
+127.0.0.1	buglwf041.localto.net
+127.0.0.1	goto.166bet.com.br
+127.0.0.1	goto.psp.jpn.com
+127.0.0.1	legendify-42335.portmap.host
+127.0.0.1	xxblessingsxtras.duckdns.org
+127.0.0.1	greatlyspeak.co.za
+127.0.0.1	oconneln.com
+127.0.0.1	aassecc.ydns.eu
+127.0.0.1	privatedns.lcweikiki.com
+127.0.0.1	ukg.uk.com
+127.0.0.1	psp.jpn.com
+127.0.0.1	166bet.com.br
+127.0.0.1	poc.sekershuk.com
+127.0.0.1	poc.123230.xyz
+127.0.0.1	kle.sekershuk.com
+127.0.0.1	kle.123230.xyz
+127.0.0.1	test.dnslogger.site
+127.0.0.1	www.oe1m4w297y.com
+127.0.0.1	www.67betapp.com
+127.0.0.1	vlxx.ms
+127.0.0.1	motfim.org
 127.0.0.1	jkloveuu.com
 127.0.0.1	pdxfacai888.com
 127.0.0.1	sunsu.xyz
@@ -53938,29 +53960,4 @@
 127.0.0.1	ns3.nsebseshop.cloud
 127.0.0.1	ns2.nsebseshop.cloud
 127.0.0.1	ns1.nsebseshop.cloud
-127.0.0.1	genuine-seahorse-f5e9c4.netlify.app
-127.0.0.1	cvko-56792.portmap.host
-127.0.0.1	white-edited.gl.at.ply.gg
-127.0.0.1	legacysystemsettings.is-an-engineer.com
-127.0.0.1	email-server.xyz
-127.0.0.1	ares25.duckdns.org
-127.0.0.1	luciphas.xyz
-127.0.0.1	ganggang300182312-32221.portmap.host
-127.0.0.1	nanoemailing-46446.portmap.host
-127.0.0.1	drglockz-48262.portmap.io
-127.0.0.1	login.secure-verifications.es
-127.0.0.1	dev.www.francotamouls.com
-127.0.0.1	m.awareinsurance.com
-127.0.0.1	william-numerical.gl.at.ply.gg
-127.0.0.1	hotels-eq.gl.at.ply.gg
-127.0.0.1	planning-sas.gl.at.ply.gg
-127.0.0.1	thread-realistic.gl.at.ply.gg
-127.0.0.1	york-pavilion.gl.at.ply.gg
-127.0.0.1	because-constitutional.gl.at.ply.gg
-127.0.0.1	mentirosaputa5-27719.portmap.host
-127.0.0.1	zulo88.ddns.net
-127.0.0.1	vps.tuxy.lol
-127.0.0.1	client123.zapto.org
-127.0.0.1	funds-ct.gl.at.ply.gg
-127.0.0.1	bay-butterfly.gl.at.ply.gg
-# Number of entries: 53957
+# Number of entries: 53954
