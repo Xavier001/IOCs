@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-17 06:04:12 UTC                        #
+# Last updated: 2026-01-17 12:04:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	popapopa-41352.portmap.host
+127.0.0.1	hulk88-35315.portmap.host
+127.0.0.1	network000.ddns.net
+127.0.0.1	looppli.cyou
+127.0.0.1	civiliq.cyou
+127.0.0.1	directi.cyou
+127.0.0.1	www.windows-updates.us
 127.0.0.1	leshanapas-64300.portmap.host
 127.0.0.1	get-comp.gl.at.ply.gg
 127.0.0.1	mythic.ccdcscoring.net
@@ -53927,13 +53934,4 @@
 127.0.0.1	plantsstove.info
 127.0.0.1	wastegrape.info
 127.0.0.1	secure.clinchstar.com
-127.0.0.1	zerolendnow.top
-127.0.0.1	city-applicants.gl.at.ply.gg
-127.0.0.1	zinghome.vn
-127.0.0.1	host0.blockchain-projects.com
-127.0.0.1	server.weex-marketing.com
-127.0.0.1	dogbij.top
-127.0.0.1	famigh.shop
-127.0.0.1	sleevesleeve.shop
-127.0.0.1	rdmfile.eu
-# Number of entries: 53930
+# Number of entries: 53928
