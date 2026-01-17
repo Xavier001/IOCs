@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-16 23:00:18 UTC                        #
+# Last updated: 2026-01-17 06:04:12 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	leshanapas-64300.portmap.host
+127.0.0.1	get-comp.gl.at.ply.gg
 127.0.0.1	mythic.ccdcscoring.net
 127.0.0.1	007consultoriafinanceira.net
 127.0.0.1	buglwf041.localto.net
@@ -53934,24 +53936,4 @@
 127.0.0.1	famigh.shop
 127.0.0.1	sleevesleeve.shop
 127.0.0.1	rdmfile.eu
-127.0.0.1	mx.francotamouls.com
-127.0.0.1	skdgh.top
-127.0.0.1	unxyng.top
-127.0.0.1	trbxlj.top
-127.0.0.1	gehkmx.top
-127.0.0.1	sacrp.top
-127.0.0.1	dktnd.top
-127.0.0.1	as5yo.top
-127.0.0.1	lpdesigns.uk
-127.0.0.1	ageillaxnv.a.pinggy.link
-127.0.0.1	visa.identity-shield.org
-127.0.0.1	beblbdzjhs.a.pinggy.link
-127.0.0.1	person-vc.gl.at.ply.gg
-127.0.0.1	wisk43.top
-127.0.0.1	www.amazonlivenews.com
-127.0.0.1	wemoips.com
-127.0.0.1	security.fcolareguaard.com
-127.0.0.1	lumen.radium.lol
-127.0.0.1	us10.killall.sh
-127.0.0.1	yiyiscrm.com
-# Number of entries: 53948
+# Number of entries: 53930
