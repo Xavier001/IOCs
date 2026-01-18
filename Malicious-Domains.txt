@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-17 20:03:51 UTC                        #
+# Last updated: 2026-01-18 02:49:55 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	webcloudplt2.oss-cn-shanghai.aliyuncs.com
+127.0.0.1	deterministic-physics.api-cloud-dispatch-core.in.net
+127.0.0.1	latency-compensation-lyr.rt-sim-ws-repl-clstr.in.net
+127.0.0.1	gameplay-event-date.data-plane-api-gateway.in.net
 127.0.0.1	a2.auaacc2.vip
 127.0.0.1	a2.auaadd1.vip
 127.0.0.1	anbui7.ddns.net
@@ -54107,7 +54111,4 @@
 127.0.0.1	v2.egrfbumsu.cn
 127.0.0.1	test.accendente.tn
 127.0.0.1	together-well.gl.at.ply.gg
-127.0.0.1	aafastservice.top
-127.0.0.1	m.fbwatch.live
-127.0.0.1	ftp.p4.bukharielectro.pk
-# Number of entries: 54104
+# Number of entries: 54105
