@@ -1,11 +1,16 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-18 02:49:55 UTC                        #
+# Last updated: 2026-01-18 06:05:23 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ou6363.com
+127.0.0.1	ou6262.com
+127.0.0.1	ou6161.com
+127.0.0.1	matvey-41302.portmap.host
+127.0.0.1	fljdslfjdsf-57814.portmap.host
 127.0.0.1	webcloudplt2.oss-cn-shanghai.aliyuncs.com
 127.0.0.1	deterministic-physics.api-cloud-dispatch-core.in.net
 127.0.0.1	latency-compensation-lyr.rt-sim-ws-repl-clstr.in.net
@@ -54101,14 +54106,4 @@
 127.0.0.1	bond007.xyz
 127.0.0.1	getcredentialingdone.com
 127.0.0.1	police-turkish.gl.at.ply.gg
-127.0.0.1	cooawbi.top
-127.0.0.1	ourkbpw.top
-127.0.0.1	sleaqwad.shop
-127.0.0.1	pasotslv.shop
-127.0.0.1	tryfancify.com
-127.0.0.1	security.flegurasec.com
-127.0.0.1	erpoci.com
-127.0.0.1	v2.egrfbumsu.cn
-127.0.0.1	test.accendente.tn
-127.0.0.1	together-well.gl.at.ply.gg
-# Number of entries: 54105
+# Number of entries: 54100
