@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-18 06:05:23 UTC                        #
+# Last updated: 2026-01-18 11:20:52 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	yrbaidu.za.com
+127.0.0.1	xszcuj.sa.com
+127.0.0.1	wwc.uk.com
+127.0.0.1	stileunico.it.com
+127.0.0.1	nqxuvd.za.com
+127.0.0.1	keramogranit.ru.com
+127.0.0.1	hz88-bet.vip
+127.0.0.1	haf.uk.com
+127.0.0.1	forums.uk.net
+127.0.0.1	bfcg5.ru.com
+127.0.0.1	ba.za.com
 127.0.0.1	ou6363.com
 127.0.0.1	ou6262.com
 127.0.0.1	ou6161.com
@@ -54105,5 +54116,4 @@
 127.0.0.1	www.souguo.icu
 127.0.0.1	bond007.xyz
 127.0.0.1	getcredentialingdone.com
-127.0.0.1	police-turkish.gl.at.ply.gg
-# Number of entries: 54100
+# Number of entries: 54110
