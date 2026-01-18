@@ -1,11 +1,45 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-18 11:20:52 UTC                        #
+# Last updated: 2026-01-18 21:11:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	api.loseallyour.money
+127.0.0.1	etvidanueva.com
+127.0.0.1	zqqhyp.sa.com
+127.0.0.1	titth.za.com
+127.0.0.1	shbet-casino.co
+127.0.0.1	mb66znet.com
+127.0.0.1	granitfliesen.de.com
+127.0.0.1	78win.ru.com
+127.0.0.1	2co7rrv.uk.com
+127.0.0.1	2c48hup.uk.com
+127.0.0.1	cyberplg.cyou
+127.0.0.1	incelcuck.duckdns.org
+127.0.0.1	buildnetcrew.com
+127.0.0.1	fgwqojpr.buildnetcrew.com
+127.0.0.1	asphoau.cyou
+127.0.0.1	galleqi.cyou
+127.0.0.1	crossat.cyou
+127.0.0.1	hanggxx.cyou
+127.0.0.1	traumadj.cyou
+127.0.0.1	requieiy.cyou
+127.0.0.1	sakuratea.cfd
+127.0.0.1	v9oe2nsym.localto.net
+127.0.0.1	aet2fkdj7.localto.net
+127.0.0.1	dxp4s2ibc.localto.net
+127.0.0.1	brodyy-39471.portmap.host
+127.0.0.1	hytagow69.localto.net
+127.0.0.1	pymrweslf.localto.net
+127.0.0.1	181.ip.gl.ply.gg
+127.0.0.1	yxtu8a6fk.localto.net
+127.0.0.1	slze8kkuh.localto.net
+127.0.0.1	quasarrat220-24487.portmap.io
+127.0.0.1	jlgwbfxtol.a.pinggy.link
+127.0.0.1	abdulraheem6-50903.portmap.host
+127.0.0.1	borinakis.fun
 127.0.0.1	yrbaidu.za.com
 127.0.0.1	xszcuj.sa.com
 127.0.0.1	wwc.uk.com
@@ -54095,25 +54129,4 @@
 127.0.0.1	www.haoxueaibang.com
 127.0.0.1	inventscience.st
 127.0.0.1	gh.optionchain.dpdns.org
-127.0.0.1	vmi2330570.contaboserver.net
-127.0.0.1	socketapiupdates.com
-127.0.0.1	cichau.lat
-127.0.0.1	thoqp.lat
-127.0.0.1	552e3ca1f307.ngrok-free.app
-127.0.0.1	mode-civil.gl.at.ply.gg
-127.0.0.1	cvv6.com
-127.0.0.1	grigori.ddns.net
-127.0.0.1	sellers-lit.gl.at.ply.gg
-127.0.0.1	detalles12.duckdns.org
-127.0.0.1	www.vidrloscobo.com
-127.0.0.1	goodfilesvibresgood.dynuddns.net
-127.0.0.1	select-soma.gl.at.ply.gg
-127.0.0.1	sx.optionchain.dpdns.org
-127.0.0.1	f-v1-url-fd220acde0-c.marlin-development.com
-127.0.0.1	hfdjmoedkjf.asia
-127.0.0.1	mgmt.studerandson.us
-127.0.0.1	dl.newtoyourgame.com
-127.0.0.1	www.souguo.icu
-127.0.0.1	bond007.xyz
-127.0.0.1	getcredentialingdone.com
-# Number of entries: 54110
+# Number of entries: 54123
