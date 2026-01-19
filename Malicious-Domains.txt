@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-18 21:11:24 UTC                        #
+# Last updated: 2026-01-18 22:25:46 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	vn168a.link
 127.0.0.1	api.loseallyour.money
 127.0.0.1	etvidanueva.com
 127.0.0.1	zqqhyp.sa.com
@@ -54119,14 +54120,10 @@
 127.0.0.1	security.fjarlegiuard.com
 127.0.0.1	noswexa.com
 127.0.0.1	buildingjobs.xyz
-127.0.0.1	ignifugacionsarguix.com
 127.0.0.1	alekzhero.no-ip.org
 127.0.0.1	fnahaga-41990.portmap.io
 127.0.0.1	yessir12.duckdns.org
 127.0.0.1	karenmuir.hopto.org
 127.0.0.1	anonuevovidanueva20212021.duckdns.org
 127.0.0.1	guardameplata.kozow.com
-127.0.0.1	www.haoxueaibang.com
-127.0.0.1	inventscience.st
-127.0.0.1	gh.optionchain.dpdns.org
-# Number of entries: 54123
+# Number of entries: 54120
