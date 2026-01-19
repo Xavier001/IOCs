@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-19 09:13:39 UTC                        #
+# Last updated: 2026-01-19 12:09:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	matsau.noip.me
+127.0.0.1	10jqka.ec.cc
+127.0.0.1	qq-88.co.com
+127.0.0.1	www.resrei.com
+127.0.0.1	xgpviv.za.com
+127.0.0.1	fly88.gr.com
+127.0.0.1	mythicserver.eastus.cloudapp.azure.com
+127.0.0.1	smartprince111111
 127.0.0.1	appolobase.com
 127.0.0.1	ultradatahost1.baby
 127.0.0.1	visit.bombauthority.website
@@ -54071,17 +54079,4 @@
 127.0.0.1	www.cannabispatientcare.com
 127.0.0.1	update.microsoftwindows.biz
 127.0.0.1	security.microsoftwindows.biz
-127.0.0.1	net.botwork.africa
-127.0.0.1	rhiuit.shop
-127.0.0.1	srlemnhg.top
-127.0.0.1	rootino.top
-127.0.0.1	zxoms.top
-127.0.0.1	anxtaun.fit
-127.0.0.1	dumv.online
-127.0.0.1	dampg.shop
-127.0.0.1	siniavzv.life
-127.0.0.1	permwgp.xyz
-127.0.0.1	recopcwr.top
-127.0.0.1	seruneqy.live
-127.0.0.1	strujqwn.xyz
-# Number of entries: 54078
+# Number of entries: 54073
