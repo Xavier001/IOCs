@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-20 08:11:06 UTC                        #
+# Last updated: 2026-01-20 11:00:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hk.zgao.top
 127.0.0.1	kltu.sa.com
 127.0.0.1	auc.ru.com
 127.0.0.1	ygncsj.za.com
@@ -54020,5 +54021,4 @@
 127.0.0.1	cnc.netjssaytcpp.lat
 127.0.0.1	security.felaguueard.com
 127.0.0.1	pewbicved.com
-127.0.0.1	1328175548-4zksdftd97.ap-guangzhou.tencentscf.com
 # Number of entries: 54015
