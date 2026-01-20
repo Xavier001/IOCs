@@ -1,11 +1,30 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-19 22:32:25 UTC                        #
+# Last updated: 2026-01-20 08:11:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	kltu.sa.com
+127.0.0.1	auc.ru.com
+127.0.0.1	ygncsj.za.com
+127.0.0.1	weis24.de.com
+127.0.0.1	swbc.mex.com
+127.0.0.1	safedrive.uk.com
+127.0.0.1	eimf.uk.com
+127.0.0.1	discountcode.co.com
+127.0.0.1	chesapeakecity.us.com
+127.0.0.1	oxygrapics.zapto.org
+127.0.0.1	wc-ltc.myvnc.com
+127.0.0.1	wc-ltc.ddns.me
+127.0.0.1	uk3551.pickx.online
+127.0.0.1	www1.co.com
+127.0.0.1	shoe.eu.com
+127.0.0.1	floorspace.uk.com
+127.0.0.1	fb888.in.net
+127.0.0.1	cngov.cn.com
+127.0.0.1	qoz.uk.com
 127.0.0.1	www.wiklpedia.net
 127.0.0.1	touchkasablanka.com
 127.0.0.1	whooptm.cyou
@@ -54002,9 +54021,4 @@
 127.0.0.1	security.felaguueard.com
 127.0.0.1	pewbicved.com
 127.0.0.1	1328175548-4zksdftd97.ap-guangzhou.tencentscf.com
-127.0.0.1	domet.chanbaba.online
-127.0.0.1	vegemuoe.top
-127.0.0.1	sworwdcp.top
-127.0.0.1	tunenrnc.top
-127.0.0.1	ultracpj.xyz
-# Number of entries: 54001
+# Number of entries: 54015
