@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-19 19:04:37 UTC                        #
+# Last updated: 2026-01-19 22:32:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.wiklpedia.net
+127.0.0.1	touchkasablanka.com
+127.0.0.1	whooptm.cyou
+127.0.0.1	westerrd.cyou
 127.0.0.1	api.fanataxservices.com
 127.0.0.1	enigma-locket.info
 127.0.0.1	utoigzdol.localto.net
@@ -54003,5 +54007,4 @@
 127.0.0.1	sworwdcp.top
 127.0.0.1	tunenrnc.top
 127.0.0.1	ultracpj.xyz
-127.0.0.1	tip.emailsv.org
-# Number of entries: 53998
+# Number of entries: 54001
