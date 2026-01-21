@@ -1,11 +1,30 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-21 02:20:45 UTC                        #
+# Last updated: 2026-01-21 09:30:07 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hrm.yago.fun
+127.0.0.1	tenoro.mobilefoundationrepair.com
+127.0.0.1	stm.agfoodpos.com
+127.0.0.1	ultradatahost4.baby
+127.0.0.1	ultradatahost2.baby
+127.0.0.1	imper-strlk5.com
+127.0.0.1	ultradatahost3.baby
+127.0.0.1	zx88.ae.org
+127.0.0.1	vibrations.ru.com
+127.0.0.1	mfd.uk.com
+127.0.0.1	kaf.uk.com
+127.0.0.1	fastandfastairconditioner.in.net
+127.0.0.1	a9wi86h.uk.com
+127.0.0.1	xxblessing2026now.duckdns.org
+127.0.0.1	panel.kalygenesis.xyz
+127.0.0.1	gl1g7tts-5500.euw.devtunnels.ms
+127.0.0.1	atlretf7m.localto.net
+127.0.0.1	us-neuroquiet.co.com
+127.0.0.1	losespadadz.myftp.biz
 127.0.0.1	tosifu.jp.net
 127.0.0.1	nuestraboda.it.com
 127.0.0.1	dc2.sa.com
@@ -54026,20 +54045,4 @@
 127.0.0.1	fee-largest.gl.at.ply.gg
 127.0.0.1	heqcare.help
 127.0.0.1	aslive.help
-127.0.0.1	broker.nm.xevil.cn
-127.0.0.1	vault-360-nexus.com
-127.0.0.1	theblumiles.com
-127.0.0.1	misshon.com
-127.0.0.1	goatramz.com
-127.0.0.1	couriontesy.com
-127.0.0.1	jupagroup.com
-127.0.0.1	vivianvalora.com
-127.0.0.1	redempti.com
-127.0.0.1	laccalhdc.com
-127.0.0.1	ekochist.com
-127.0.0.1	scygas.com
-127.0.0.1	aspotan.com
-127.0.0.1	memory-julia.gl.at.ply.gg
-127.0.0.1	person-consumer.gl.at.ply.gg
-127.0.0.1	profile-indians.gl.at.ply.gg
-# Number of entries: 54036
+# Number of entries: 54039
