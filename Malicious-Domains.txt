@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-21 09:30:07 UTC                        #
+# Last updated: 2026-01-21 12:31:18 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	zrr.uk.com
+127.0.0.1	ucjnz.sa.com
+127.0.0.1	member77daftar.it.com
+127.0.0.1	68gamebai.gb.net
+127.0.0.1	000.start-men.store
+127.0.0.1	000.start-men.space
+127.0.0.1	000.start-men.site
+127.0.0.1	aizenespada.ddns.net
+127.0.0.1	espada.ddns.net
+127.0.0.1	losespada.ddns.net
 127.0.0.1	hrm.yago.fun
 127.0.0.1	tenoro.mobilefoundationrepair.com
 127.0.0.1	stm.agfoodpos.com
@@ -54035,14 +54045,4 @@
 127.0.0.1	streaming-films.xyz
 127.0.0.1	www.austinroofs.net
 127.0.0.1	app.novationseo.com
-127.0.0.1	ptdpro-46069.portmap.host
-127.0.0.1	login.login.x-fit.ch
-127.0.0.1	dozyremco.sbs
-127.0.0.1	donjhkkr.kicks-ass.org
-127.0.0.1	www.bakerhughas.com
-127.0.0.1	www.lcdlcds.com
-127.0.0.1	www.campoyitierra.com
-127.0.0.1	fee-largest.gl.at.ply.gg
-127.0.0.1	heqcare.help
-127.0.0.1	aslive.help
 # Number of entries: 54039
