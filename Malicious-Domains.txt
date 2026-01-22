@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-21 21:11:10 UTC                        #
+# Last updated: 2026-01-22 02:51:11 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	xyt.cpolar.top
+127.0.0.1	easyrce.eu.org
+127.0.0.1	agosto202508blessed.dynuddns.com
 127.0.0.1	captioto.com
 127.0.0.1	pototooqalal.com
 127.0.0.1	t9vdmkdro.localto.net
@@ -54136,8 +54139,4 @@
 127.0.0.1	security.floesrgayrd.com
 127.0.0.1	corronxu.xyz
 127.0.0.1	worlejrc.xyz
-127.0.0.1	s2.mx.mottogrotto.com
-127.0.0.1	caq71hz7x2ccj.cfc-execute.bj.baidubce.com
-127.0.0.1	zereoo.zapto.org
-127.0.0.1	zereoo.duckdns.org
-# Number of entries: 54134
+# Number of entries: 54133
