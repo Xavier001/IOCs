@@ -1,11 +1,26 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-22 09:25:06 UTC                        #
+# Last updated: 2026-01-22 12:19:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	diamondpickaxeforge.com
+127.0.0.1	enjambwm.cyou
+127.0.0.1	lacevcnt.cyou
+127.0.0.1	stripcil.cyou
+127.0.0.1	fvnkpgjcw.localto.net
+127.0.0.1	snwang-yandi.com
+127.0.0.1	elfrodbloom.world
+127.0.0.1	wwtvktcg.frozendoome.com
+127.0.0.1	eoaqgpmv.frozendoome.com
+127.0.0.1	fndokott.frozendoome.com
+127.0.0.1	pvyritcv.frozendoome.com
+127.0.0.1	wpptrzam.frozendoome.com
+127.0.0.1	ergodown.com
+127.0.0.1	slabiflc.ergodown.com
+127.0.0.1	romerolandscape.com
 127.0.0.1	jth.yago.fun
 127.0.0.1	tvelkor.mobilefoundationrepair.com
 127.0.0.1	shj.uk.com
@@ -54106,17 +54121,4 @@
 127.0.0.1	calc.diversifieddebtsolutions.com
 127.0.0.1	rubidin.top
 127.0.0.1	download.microsoftwindows.biz
-127.0.0.1	bkp.mail.organica.tv
-127.0.0.1	kinky82.zapto.org
-127.0.0.1	phephelipinho.no-ip.org
-127.0.0.1	mar-vietnamese.gl.at.ply.gg
-127.0.0.1	procesos2025.duckdns.org
-127.0.0.1	republic-ins.gl.at.ply.gg
-127.0.0.1	photography-tools.gl.at.ply.gg
-127.0.0.1	genusuvk.xyz
-127.0.0.1	keepnody.top
-127.0.0.1	mosaicia.top
-127.0.0.1	familkqo.xyz
-127.0.0.1	headtechnologies.xyz
-127.0.0.1	clientes.sangrecreativa.com
-# Number of entries: 54113
+# Number of entries: 54115
