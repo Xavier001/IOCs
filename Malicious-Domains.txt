@@ -1,11 +1,22 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-22 02:51:11 UTC                        #
+# Last updated: 2026-01-22 09:25:06 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	jth.yago.fun
+127.0.0.1	tvelkor.mobilefoundationrepair.com
+127.0.0.1	shj.uk.com
+127.0.0.1	mongodb.uk.com
+127.0.0.1	liv.it.com
+127.0.0.1	ledlighting.uk.com
+127.0.0.1	kkj.uk.com
+127.0.0.1	i0qens8.uk.com
+127.0.0.1	lacemeup-64707.portmap.host
+127.0.0.1	ppinacon.za.com
+127.0.0.1	homecenter.co.com
 127.0.0.1	xyt.cpolar.top
 127.0.0.1	easyrce.eu.org
 127.0.0.1	agosto202508blessed.dynuddns.com
@@ -54108,35 +54119,4 @@
 127.0.0.1	familkqo.xyz
 127.0.0.1	headtechnologies.xyz
 127.0.0.1	clientes.sangrecreativa.com
-127.0.0.1	www.split2econd.com
-127.0.0.1	mysticaltrekking.com
-127.0.0.1	www.airdriediamondcabs.ca
-127.0.0.1	eskom.cc
-127.0.0.1	mnemvlk.top
-127.0.0.1	resqtk.top
-127.0.0.1	swalocf.lat
-127.0.0.1	comprovantt.ddns.net
-127.0.0.1	girls-projection.gl.at.ply.gg
-127.0.0.1	msn-announce.gl.at.ply.gg
-127.0.0.1	quick-corner.gl.at.ply.gg
-127.0.0.1	bot.chanbaba.online
-127.0.0.1	gw62.com
-127.0.0.1	helloworid.org
-127.0.0.1	pw778.com
-127.0.0.1	job2.qaozrzszc.cn
-127.0.0.1	bwute.ddns.net
-127.0.0.1	than-removed.gl.at.ply.gg
-127.0.0.1	chaubolitas.ddnsking.com
-127.0.0.1	particular-beds.gl.at.ply.gg
-127.0.0.1	usa-objectives.gl.at.ply.gg
-127.0.0.1	static.13.162.4.46.clients.your-server.de
-127.0.0.1	login.teamss.de
-127.0.0.1	glossmagazine.shop
-127.0.0.1	calioons.top
-127.0.0.1	wlldberries.pro
-127.0.0.1	akacostanyaszarvas.hu
-127.0.0.1	pelrinsz.com
-127.0.0.1	security.floesrgayrd.com
-127.0.0.1	corronxu.xyz
-127.0.0.1	worlejrc.xyz
-# Number of entries: 54133
+# Number of entries: 54113
