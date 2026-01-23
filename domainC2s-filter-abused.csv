@@ -1,6 +1,7 @@
 #domain,ioc
 120vip.top,Possible Cobalt Strike C2 Fronting Domain
 1258922563-2333n6dmlx.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain
+1ljft17gwl.execute-api.ap-southeast-1.amazonaws.com,Possible Cobalt Strike C2 Domain
 5b0rgq8mxzxgv.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain
 5ndg65b68274v.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain
 95mfmnebv9a1r.cfc-execute.gz.baidubce.com,Possible Cobalt Strike C2 Domain
@@ -17,7 +18,6 @@ check.judicical.ml,Possible Cobalt Strike C2 Domain
 check1.judicical.ml,Possible Cobalt Strike C2 Domain
 cloud-sync-bcjxmnarpb.cn-shanghai.fcapp.run,Possible Cobalt Strike C2 Domain
 connect.huaweicloud.com,Possible Cobalt Strike C2 Fronted Domain
-crule.boats,Possible Cobalt Strike C2 Domain
 cryptoprot.info,Possible Cobalt Strike C2 Fronted Domain
 csstatus.0nlinecc.com,Possible Cobalt Strike C2 Domain
 cstest.mucfc.store,Possible Cobalt Strike C2 Domain
@@ -90,7 +90,6 @@ skullcode.myddns.me,Possible Cobalt Strike C2 Domain
 skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain
 static-mtpjoriqkv.cn-beijing.fcapp.run,Possible Cobalt Strike C2 Domain
 superart.boeing.top,Possible Cobalt Strike C2 Fronting Domain
-test.dnslogger.site,Possible Cobalt Strike C2 Domain
 timestamp.logogogogo.click,Possible Cobalt Strike C2 Domain
 update.mloadspring.com,Possible Cobalt Strike C2 Domain
 updatery.ai,Possible Cobalt Strike C2 Fronted Domain
