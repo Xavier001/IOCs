@@ -1,11 +1,13 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-23 09:35:57 UTC                        #
+# Last updated: 2026-01-23 11:56:27 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	s38omfg2.cinderpouch.ru
+127.0.0.1	vpkw420q.hcuoprednic.ru
 127.0.0.1	nameservers.us.com
 127.0.0.1	jtb.uk.com
 127.0.0.1	getinone.in.net
@@ -54181,9 +54183,4 @@
 127.0.0.1	given-offense.gl.at.ply.gg
 127.0.0.1	api.organica.tv
 127.0.0.1	markets.globalequity360.com
-127.0.0.1	nageiaju.pics
-127.0.0.1	htht1-21140.portmap.host
-127.0.0.1	another-expedia.gl.at.ply.gg
-127.0.0.1	moruk.xyz
-127.0.0.1	eveloungeyyc.com
-# Number of entries: 54180
+# Number of entries: 54177
