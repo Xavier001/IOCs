@@ -1,11 +1,29 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-22 20:59:29 UTC                        #
+# Last updated: 2026-01-23 09:35:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	nameservers.us.com
+127.0.0.1	jtb.uk.com
+127.0.0.1	getinone.in.net
+127.0.0.1	dailyamarbangla.com
+127.0.0.1	angles.uk.com
+127.0.0.1	sopwritersbangalore.in.net
+127.0.0.1	investor.uk.com
+127.0.0.1	ecologistics.co.com
+127.0.0.1	update.kernel-update.com
+127.0.0.1	katieqlhello.ru.com
+127.0.0.1	gyp.uk.com
+127.0.0.1	akon.za.com
+127.0.0.1	bos.sodstreams.com
+127.0.0.1	bos.bexca.org
+127.0.0.1	lat.sodstreams.com
+127.0.0.1	lat.bexca.org
+127.0.0.1	coordenacao2026.writesthisblog.com
+127.0.0.1	uekkek2424242442.dynuddns.net
 127.0.0.1	bnli8khzo.localto.net
 127.0.0.1	gxmbkcpvv.localto.net
 127.0.0.1	scamkiller.loseyourip.com
@@ -54168,28 +54186,4 @@
 127.0.0.1	another-expedia.gl.at.ply.gg
 127.0.0.1	moruk.xyz
 127.0.0.1	eveloungeyyc.com
-127.0.0.1	perfoxd.xyz
-127.0.0.1	stfota.xyz
-127.0.0.1	ondcvxe.top
-127.0.0.1	sciencemagazine.me
-127.0.0.1	pastsslv.shop
-127.0.0.1	www.chrome-update.pro
-127.0.0.1	randsopskwn.site
-127.0.0.1	akwatic-hotel.ci
-127.0.0.1	security.guiaodfalear.com
-127.0.0.1	nomgerx.com
-127.0.0.1	jaclwdc.top
-127.0.0.1	jfbd.com
-127.0.0.1	hydrillageardes.shop
-127.0.0.1	casulahobbuoies.shop
-127.0.0.1	otterspromisdes.shop
-127.0.0.1	outdonefurniturders.shop
-127.0.0.1	proxybuilderservice.com
-127.0.0.1	stompinggrounders.shop
-127.0.0.1	eartheea.life
-127.0.0.1	glassma.live
-127.0.0.1	zg.jackload.cn
-127.0.0.1	medical-principles.gl.at.ply.gg
-127.0.0.1	program-neutral.gl.at.ply.gg
-127.0.0.1	dev.ip.organica.tv
-# Number of entries: 54186
+# Number of entries: 54180
