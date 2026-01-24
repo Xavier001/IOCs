@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-24 07:32:26 UTC                        #
+# Last updated: 2026-01-24 11:02:55 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	homencck.com
 127.0.0.1	radiopoljubac.net
 127.0.0.1	koszulki.net
 127.0.0.1	wxqdcakvuv.com
@@ -53890,10 +53891,4 @@
 127.0.0.1	www.alfapetroluems.com
 127.0.0.1	www.asttoria-trade.com
 127.0.0.1	arewa.ydns.eu
-127.0.0.1	spain-posters.gl.at.ply.gg
-127.0.0.1	biotec-imc.xyz
-127.0.0.1	kreon.one
-127.0.0.1	siltapl.fun
-127.0.0.1	potosuz.fun
-127.0.0.1	wagnvp.fun
-# Number of entries: 53890
+# Number of entries: 53885
