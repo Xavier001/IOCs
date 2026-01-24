@@ -53959,9 +53959,4 @@
 127.0.0.1	video-trinity.gl.at.ply.gg
 127.0.0.1	ansy2307.duckdns.org
 127.0.0.1	l-integrate.gl.at.ply.gg
-127.0.0.1	ec2-34-219-119-143.us-west-2.compute.amazonaws.com
-127.0.0.1	fast.mirzazizo.https443.net
-127.0.0.1	bxmv1taxbxr8p.cfc-execute.bj.baidubce.com
-127.0.0.1	main.db.review.digital
-127.0.0.1	accounts.secure-verifications.es
-# Number of entries: 53958
+# Number of entries: 53953
