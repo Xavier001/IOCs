@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-23 20:49:03 UTC                        #
+# Last updated: 2026-01-24 07:32:26 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	radiopoljubac.net
+127.0.0.1	koszulki.net
+127.0.0.1	wxqdcakvuv.com
+127.0.0.1	official-jaxxwallet.com
 127.0.0.1	1ljft17gwl.execute-api.ap-southeast-1.amazonaws.com
 127.0.0.1	bemuseqy.cyou
 127.0.0.1	lmn990112-54741.portmap.host
@@ -53892,71 +53896,4 @@
 127.0.0.1	siltapl.fun
 127.0.0.1	potosuz.fun
 127.0.0.1	wagnvp.fun
-127.0.0.1	royaltbn.xyz
-127.0.0.1	columnez.shop
-127.0.0.1	mixp.digital
-127.0.0.1	woodenso.top
-127.0.0.1	foundrr.bet
-127.0.0.1	nanoceus.run
-127.0.0.1	linejjer.lat
-127.0.0.1	porzxgnw.lat
-127.0.0.1	lysandjkd.lol
-127.0.0.1	bumpegq.lol
-127.0.0.1	cosopwx.shop
-127.0.0.1	ellexb.lol
-127.0.0.1	dogtrgc.lat
-127.0.0.1	podhxwf.lat
-127.0.0.1	potppfu.lat
-127.0.0.1	tranfex.lat
-127.0.0.1	genuygpa.lol
-127.0.0.1	idioigsa.lol
-127.0.0.1	exponxb.lol
-127.0.0.1	profityd.lol
-127.0.0.1	tefere.lol
-127.0.0.1	mesovti.lol
-127.0.0.1	trainaj.lol
-127.0.0.1	oesopt.lol
-127.0.0.1	superuu.lol
-127.0.0.1	unswqik.shop
-127.0.0.1	eintek.lat
-127.0.0.1	raincazn.lat
-127.0.0.1	hardexbo.lat
-127.0.0.1	siluriyt.lat
-127.0.0.1	agrevpud.shop
-127.0.0.1	carptrvo.shop
-127.0.0.1	conaarl.top
-127.0.0.1	religxp.top
-127.0.0.1	frowjyx.top
-127.0.0.1	hobbcxez.top
-127.0.0.1	grateb.lat
-127.0.0.1	charuhd.lat
-127.0.0.1	eliminhd.lol
-127.0.0.1	sheddeuh.lol
-127.0.0.1	blegekei.lol
-127.0.0.1	newyorwr.lol
-127.0.0.1	expressapiwizard.com
-127.0.0.1	wppanel.icu
-127.0.0.1	pallvlxl.lat
-127.0.0.1	machine-resume.gl.at.ply.gg
-127.0.0.1	know-damages.gl.at.ply.gg
-127.0.0.1	narrowfemboy.ddns.net
-127.0.0.1	security.flaversegaurd.com
-127.0.0.1	kacivoped.com
-127.0.0.1	wndlogon.itemdb.com
-127.0.0.1	wndlogon.hopto.org
-127.0.0.1	delfxus.today
-127.0.0.1	jambnwz.top
-127.0.0.1	sparklfm.xyz
-127.0.0.1	app.kefel.tech
-127.0.0.1	428d09ca103d2593e3555304a2862f873c70ca7d
-127.0.0.1	s3.kefel.tech
-127.0.0.1	s4.kefel.tech
-127.0.0.1	s2.kefel.tech
-127.0.0.1	s1.kefel.tech
-127.0.0.1	kefel.tech
-127.0.0.1	kefel.io
-127.0.0.1	board-promotes.gl.at.ply.gg
-127.0.0.1	video-trinity.gl.at.ply.gg
-127.0.0.1	ansy2307.duckdns.org
-127.0.0.1	l-integrate.gl.at.ply.gg
-# Number of entries: 53953
+# Number of entries: 53890
