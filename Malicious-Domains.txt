@@ -1,11 +1,50 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-24 11:02:55 UTC                        #
+# Last updated: 2026-01-24 22:10:50 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	uotahi.za.com
+127.0.0.1	vn-au88.com
+127.0.0.1	testseriesbymadhavi.in.net
+127.0.0.1	mqdfpy.sa.com
+127.0.0.1	erogen.ru.com
+127.0.0.1	au88vietnam.pro
+127.0.0.1	consultrade.uk.com
+127.0.0.1	au88.it.com
+127.0.0.1	au88kitty.com
+127.0.0.1	au88-binb.com
+127.0.0.1	au88-top.com
+127.0.0.1	return-network.icu
+127.0.0.1	bbos.homes
+127.0.0.1	f6m8.chickenkiller.com
+127.0.0.1	on81.crabdance.com
+127.0.0.1	nkn7.mooo.com
+127.0.0.1	ubdecp.sa.com
+127.0.0.1	playercodes.in.net
+127.0.0.1	lxzzyb.sa.com
+127.0.0.1	gro.uk.com
+127.0.0.1	ecom.in.net
+127.0.0.1	dwuxon.za.com
+127.0.0.1	rfk.uk.com
+127.0.0.1	lxbqgh.sa.com
+127.0.0.1	iqzomxh.sa.com
+127.0.0.1	hailorachiy.in.net
+127.0.0.1	6247.cn.com
+127.0.0.1	skybridgeconstructions.in.net
+127.0.0.1	vva.uk.com
+127.0.0.1	unl.uk.com
+127.0.0.1	technest.us.com
+127.0.0.1	hitclub5.br.com
+127.0.0.1	elixis.br.com
+127.0.0.1	6222.cn.com
+127.0.0.1	hollow-paper.info
+127.0.0.1	capitamx.cyou
+127.0.0.1	personrg.cyou
+127.0.0.1	www.micrcscft.cyou
+127.0.0.1	ggjvk3v5bzopisqkf7kd5el2j40gdgcu.lambda-url.ap-southeast-1.on.aws
 127.0.0.1	homencck.com
 127.0.0.1	radiopoljubac.net
 127.0.0.1	koszulki.net
@@ -53855,40 +53894,4 @@
 127.0.0.1	ecs-1-94-134-161.compute.hwclouds-dns.com
 127.0.0.1	ec2-35-180-234-10.eu-west-3.compute.amazonaws.com
 127.0.0.1	pasttslv.click
-127.0.0.1	choice.ydns.eu
-127.0.0.1	fadingannk.xyz
-127.0.0.1	anasofia.duckdns.org
-127.0.0.1	released-domain.gl.at.ply.gg
-127.0.0.1	xx.fu.review.digital
-127.0.0.1	test.livepanel.pw
-127.0.0.1	files.businessmondo.com
-127.0.0.1	charigelly.com
-127.0.0.1	ff-exchange.biz
-127.0.0.1	ff-exchange.art
-127.0.0.1	ff-exchange.vip
-127.0.0.1	ff-exchange.help
-127.0.0.1	simpleswap.name
-127.0.0.1	slmpleswap.com
-127.0.0.1	cosmochanger.net
-127.0.0.1	simpieswap.net
-127.0.0.1	charigelly.org
-127.0.0.1	simpieswap.org
-127.0.0.1	charigelly.xyz
-127.0.0.1	changenovv.xyz
-127.0.0.1	my-exodus.co.uk
-127.0.0.1	chn-gnow.com
-127.0.0.1	simpleswapweb.com
-127.0.0.1	tr0n.link
-127.0.0.1	hop-exchange.co
-127.0.0.1	sushiswap-v2.com
-127.0.0.1	supereform.xyz
-127.0.0.1	aml-checknow.net
-127.0.0.1	zh-imtoken.cn
-127.0.0.1	wallet-syncing.top
-127.0.0.1	bestproductreviews.xyz
-127.0.0.1	curemile.com
-127.0.0.1	derppyderpponline.win
-127.0.0.1	www.alfapetroluems.com
-127.0.0.1	www.asttoria-trade.com
-127.0.0.1	arewa.ydns.eu
-# Number of entries: 53885
+# Number of entries: 53888

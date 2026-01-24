@@ -1,6 +1,7 @@
 #domain,ioc
-120vip.top,Possible Cobalt Strike C2 Fronting Domain
+1ljft17gwl.execute-api.ap-southeast-1.amazonaws.com,Possible Cobalt Strike C2 Domain
 5ndg65b68274v.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain
+7ynnkgq37bjrv.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain
 95mfmnebv9a1r.cfc-execute.gz.baidubce.com,Possible Cobalt Strike C2 Domain
 abyssestrinity.com,Possible Cobalt Strike C2 Fronted Domain
 accesserdsc.com,Possible Cobalt Strike C2 Domain
@@ -13,7 +14,6 @@ c1.msft-config-service.com,Possible Cobalt Strike C2 Domain
 c2.120vip.top,Possible Cobalt Strike C2 Fronting Domain
 check.judicical.ml,Possible Cobalt Strike C2 Domain
 check1.judicical.ml,Possible Cobalt Strike C2 Domain
-cloud-sync-bcjxmnarpb.cn-shanghai.fcapp.run,Possible Cobalt Strike C2 Domain
 connect.huaweicloud.com,Possible Cobalt Strike C2 Fronted Domain
 cryptoprot.info,Possible Cobalt Strike C2 Fronted Domain
 cstest.mucfc.store,Possible Cobalt Strike C2 Domain
@@ -32,7 +32,6 @@ enter.xone.la,Possible Cobalt Strike C2 Domain
 flaskproxy-fedg.onrender.com,Possible Cobalt Strike C2 Domain
 flyingbbird.abc,Possible Cobalt Strike C2 Domain
 fx.doubao.com,Possible Cobalt Strike C2 Domain
-ggjvk3v5bzopisqkf7kd5el2j40gdgcu.lambda-url.ap-southeast-1.on.aws,Possible Cobalt Strike C2 Domain
 google.baobecgiang.net,Possible Cobalt Strike C2 Domain
 help.clickckckck.click,Possible Cobalt Strike C2 Domain
 help3.proxywebsite.top,Possible Cobalt Strike C2 Domain
