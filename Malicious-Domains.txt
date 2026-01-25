@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-25 08:50:52 UTC                        #
+# Last updated: 2026-01-25 12:20:47 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	goaenergy.com
+127.0.0.1	57c42474b0ea.ofalias.net
+127.0.0.1	garellla-30563.portmap.host
 127.0.0.1	enemy1.no-ip.info
 127.0.0.1	genetichax.no-ip.biz
 127.0.0.1	kc15.no-ip.info
@@ -54030,14 +54033,4 @@
 127.0.0.1	www.mvchase.com
 127.0.0.1	vericloudz.com
 127.0.0.1	mybugyoyayakilith.com
-127.0.0.1	vrfycloudx.com
-127.0.0.1	vericloudx.com
-127.0.0.1	www.dombracht.de
-127.0.0.1	lost.baoda-mouid.com
-127.0.0.1	year-mental.gl.at.ply.gg
-127.0.0.1	line-pressing.gl.at.ply.gg
-127.0.0.1	web.sparkfunding56.site
-127.0.0.1	timestamp.logogogogo.click
-127.0.0.1	cnd.baiidu.vip
-127.0.0.1	log-bi.gl.at.ply.gg
-# Number of entries: 54034
+# Number of entries: 54027
