@@ -1,11 +1,15 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-25 12:20:47 UTC                        #
+# Last updated: 2026-01-25 18:08:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	vf6cttllpzkiklvpmvj5ihtnqb4e4v3ki6oizt3vhifd3q7pg6oz36qd.onion
+127.0.0.1	jefafe2169-35904.portmap.host
+127.0.0.1	canadaamournoixthrum.com
+127.0.0.1	marrueye.cyou
 127.0.0.1	goaenergy.com
 127.0.0.1	57c42474b0ea.ofalias.net
 127.0.0.1	garellla-30563.portmap.host
@@ -54019,18 +54023,4 @@
 127.0.0.1	fpvxzvrzz-58282.portmap.host
 127.0.0.1	web.vnpti.uk
 127.0.0.1	5ndg65b68274v.cfc-execute.bj.baidubce.com
-127.0.0.1	1318387972-34ie6xy56d.ap-guangzhou.tencentscf.com
-127.0.0.1	parischor.duckdns.org
-127.0.0.1	private.dynuddns.net
-127.0.0.1	officedesk.4nmn.com
-127.0.0.1	survey-push.gl.at.ply.gg
-127.0.0.1	intanschools.py628fxjlk-gok67gvk2652.p.temp-site.link
-127.0.0.1	net1.willomane.com
-127.0.0.1	app.dessertshouse.com
-127.0.0.1	ch36efcnia2ct5.duckdns.org
-127.0.0.1	cya8dfhb72hbgc2.dedyn.io
-127.0.0.1	www.basetitanuim.com
-127.0.0.1	www.mvchase.com
-127.0.0.1	vericloudz.com
-127.0.0.1	mybugyoyayakilith.com
-# Number of entries: 54027
+# Number of entries: 54017
