@@ -1,11 +1,28 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-24 22:10:50 UTC                        #
+# Last updated: 2026-01-25 01:05:56 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	officegrow.in.net
+127.0.0.1	kotabansal.in.net
+127.0.0.1	iop5.ru.com
+127.0.0.1	go88.sa.com
+127.0.0.1	wah.uk.com
+127.0.0.1	paperaeroplane.uk.com
+127.0.0.1	nnk.uk.com
+127.0.0.1	netdoctor.uk.com
+127.0.0.1	gxm.us.com
+127.0.0.1	slotscatteremas.jp.net
+127.0.0.1	tagbilarandiocese.mex.com
+127.0.0.1	roblox.gr.com
+127.0.0.1	iso.za.com
+127.0.0.1	fastlovesolutions.in.net
+127.0.0.1	duo.us.com
+127.0.0.1	au888.surf
+127.0.0.1	au88-au88.shop
 127.0.0.1	uotahi.za.com
 127.0.0.1	vn-au88.com
 127.0.0.1	testseriesbymadhavi.in.net
@@ -53892,6 +53909,4 @@
 127.0.0.1	security.flioreshielld.com
 127.0.0.1	homsertip.com
 127.0.0.1	ecs-1-94-134-161.compute.hwclouds-dns.com
-127.0.0.1	ec2-35-180-234-10.eu-west-3.compute.amazonaws.com
-127.0.0.1	pasttslv.click
-# Number of entries: 53888
+# Number of entries: 53903
