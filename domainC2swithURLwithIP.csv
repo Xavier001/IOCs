@@ -1,6 +1,5 @@
 #domain,ioc,uri_path,ip
 5ndg65b68274v.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x,101.34.66.77
-7ynnkgq37bjrv.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/img/logo.jpg,42.121.223.74
 95mfmnebv9a1r.cfc-execute.gz.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x,111.229.43.212
 abyssestrinity.com,Possible Cobalt Strike C2 Fronted Domain,/match,216.126.224.23
 accesserdsc.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,154.201.74.112
@@ -12,6 +11,7 @@ bxmv1taxbxr8p.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/
 c1.msft-config-service.com,Possible Cobalt Strike C2 Domain,/v1/api/check-update,107.175.94.110
 check.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,67.219.102.244
 check1.judicical.ml,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,67.219.102.244
+cloud-sync-bcjxmnarpb.cn-shanghai.fcapp.run,Possible Cobalt Strike C2 Domain,/api/getit,42.121.223.74
 connect.huaweicloud.com,Possible Cobalt Strike C2 Fronted Domain,/demo/Credentials/V1XVWVA7U,120.46.3.183
 cryptoprot.info,Possible Cobalt Strike C2 Fronted Domain,/dhl,138.124.15.54
 d3vnuv7smlsg9a.cloudfront.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,195.24.236.149
@@ -52,6 +52,7 @@ ns1.googleclouds.net,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,148.1
 ns1.gygiuh.online,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,47.129.2.130
 ns1.mhtmzl.top,Possible Cobalt Strike C2 Domain,/__utm.gif,146.235.201.30
 ns1.microoosoft.com,Possible Cobalt Strike C2 Domain,/Manag_backend/jquery-3.3.1.min.js,47.236.159.248
+ns1.ns-apache.jo3.org,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,167.179.76.179
 ns1.nsebseshop.cloud,Possible Cobalt Strike C2 Domain,/v/741823546921,47.236.130.154
 ns1.servicedata.services,Possible Cobalt Strike C2 Domain,/cx,169.239.129.45
 ns1.translategoos.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,207.148.68.118

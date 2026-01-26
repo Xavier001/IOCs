@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-25 18:08:57 UTC                        #
+# Last updated: 2026-01-25 23:10:28 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	suitingwarriors.org
+127.0.0.1	student56.ru.com
+127.0.0.1	kshxfr.sa.com
+127.0.0.1	mjnd.sa.com
+127.0.0.1	nrafth.za.com
+127.0.0.1	devyus.in.net
+127.0.0.1	ns1.ns-apache.jo3.org
 127.0.0.1	vf6cttllpzkiklvpmvj5ihtnqb4e4v3ki6oizt3vhifd3q7pg6oz36qd.onion
 127.0.0.1	jefafe2169-35904.portmap.host
 127.0.0.1	canadaamournoixthrum.com
@@ -54021,6 +54028,4 @@
 127.0.0.1	sixx.hopto.org
 127.0.0.1	body-conclusion.gl.at.ply.gg
 127.0.0.1	fpvxzvrzz-58282.portmap.host
-127.0.0.1	web.vnpti.uk
-127.0.0.1	5ndg65b68274v.cfc-execute.bj.baidubce.com
-# Number of entries: 54017
+# Number of entries: 54022
