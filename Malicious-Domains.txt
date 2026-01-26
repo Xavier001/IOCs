@@ -1,11 +1,47 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-26 11:12:32 UTC                        #
+# Last updated: 2026-01-26 20:05:25 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	guce.onetime-authentication.cruiserscrib.com
+127.0.0.1	cyberperficient.com
+127.0.0.1	zx888.in.net
+127.0.0.1	theheavenofjoy.in.net
+127.0.0.1	sufa.in.net
+127.0.0.1	777x.it.com
+127.0.0.1	777x.in.net
+127.0.0.1	eu-central-7075.packetriot.net
+127.0.0.1	2av9bxno.sn1pglacier.ru
+127.0.0.1	j1820wh3.sn1pglacier.ru
+127.0.0.1	cool-hose.sa.com
+127.0.0.1	h-j.jp.net
+127.0.0.1	wri.uk.com
+127.0.0.1	cloudshape.us.com
+127.0.0.1	58winvina.com
+127.0.0.1	1hitclub.eu.com
+127.0.0.1	xxx.caoxxip.top
+127.0.0.1	thitandaeru.top
+127.0.0.1	onetime-authentication.cruiserscrib.com
+127.0.0.1	dno.cdcmn.edu.bd
+127.0.0.1	dno.lidiia.com.ua
+127.0.0.1	heismanscholarship.com
+127.0.0.1	miabiollen.com
+127.0.0.1	special.blainrealtor.net
+127.0.0.1	lmd.cdcmn.edu.bd
+127.0.0.1	lmd.lidiia.com.ua
+127.0.0.1	hqnq.sa.com
+127.0.0.1	777x.us.org
+127.0.0.1	777x.uk.net
+127.0.0.1	777x.de.com
+127.0.0.1	777x.cn.com
+127.0.0.1	trebblay.com
+127.0.0.1	xlge.sa.com
+127.0.0.1	xjjvf.ru.com
+127.0.0.1	ovinb.uk.com
+127.0.0.1	xxblessingsbreakthroughs.duckdns.org
 127.0.0.1	hobework.com
 127.0.0.1	mubasokurso.com
 127.0.0.1	minorbegon.com
@@ -54009,20 +54045,4 @@
 127.0.0.1	nov-transport.gl.at.ply.gg
 127.0.0.1	realdot.ddns.net
 127.0.0.1	xt.dev.review.technology
-127.0.0.1	dns2.fjhfkjgfoufruyduyd.org
-127.0.0.1	dns1.fjhfkjgfoufruyduyd.org
-127.0.0.1	helpfandaven.org
-127.0.0.1	ploatvoatin.ydns.eu
-127.0.0.1	floataboat.strangled.net
-127.0.0.1	ethefi.org
-127.0.0.1	hawla2016.hopto.org
-127.0.0.1	updateservice.bounceme.net
-127.0.0.1	ccc1qarush1ccc.no-ip.org
-127.0.0.1	uku8541.top
-127.0.0.1	kingmalkawe8.no-ip.biz
-127.0.0.1	learn-springfield.gl.at.ply.gg
-127.0.0.1	vpn-vds22.eleos.pro
-127.0.0.1	states-jc.gl.at.ply.gg
-127.0.0.1	ossyqztest.oss-cn-beijing.aliyuncs.com
-127.0.0.1	cioud.nsebseshop.cloud
-# Number of entries: 54019
+# Number of entries: 54039
