@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-26 08:53:35 UTC                        #
+# Last updated: 2026-01-26 11:12:32 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	hobework.com
 127.0.0.1	mubasokurso.com
 127.0.0.1	minorbegon.com
 127.0.0.1	pratikvivah.in.net
@@ -54024,8 +54025,4 @@
 127.0.0.1	states-jc.gl.at.ply.gg
 127.0.0.1	ossyqztest.oss-cn-beijing.aliyuncs.com
 127.0.0.1	cioud.nsebseshop.cloud
-127.0.0.1	vigorous-vaughan.206-123-128-81.plesk.page
-127.0.0.1	mosasil583-48581.portmap.host
-127.0.0.1	existing-vincent.gl.at.ply.gg
-127.0.0.1	ds.web.review.technology
-# Number of entries: 54022
+# Number of entries: 54019
