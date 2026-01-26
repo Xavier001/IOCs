@@ -1,11 +1,29 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-25 23:10:28 UTC                        #
+# Last updated: 2026-01-26 08:53:35 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	mubasokurso.com
+127.0.0.1	minorbegon.com
+127.0.0.1	pratikvivah.in.net
+127.0.0.1	patagoniajapan.jp.net
+127.0.0.1	abbie.ru.com
+127.0.0.1	777x.co.com
+127.0.0.1	zjvhvg.za.com
+127.0.0.1	abnewszamanpaper1.ru.com
+127.0.0.1	2vkube.ru.com
+127.0.0.1	pez.borendrokontho.com
+127.0.0.1	pez.lidiia.com.ua
+127.0.0.1	peg.borendrokontho.com
+127.0.0.1	peg.lidiia.com.ua
+127.0.0.1	fdy.borendrokontho.com
+127.0.0.1	fdy.lidiia.com.ua
+127.0.0.1	21.tcp.vip.cpolar.cn
+127.0.0.1	verlyx12345-41388.portmap.host
+127.0.0.1	koky.hopto.org
 127.0.0.1	suitingwarriors.org
 127.0.0.1	student56.ru.com
 127.0.0.1	kshxfr.sa.com
@@ -54010,22 +54028,4 @@
 127.0.0.1	mosasil583-48581.portmap.host
 127.0.0.1	existing-vincent.gl.at.ply.gg
 127.0.0.1	ds.web.review.technology
-127.0.0.1	cousmf.lat
-127.0.0.1	sabrkqw.lol
-127.0.0.1	rndge-2a00-102a-506d-54c6-34d9-4f5e-8f2a-2e91.a.free.pinggy.link
-127.0.0.1	lms-austria.duckdns.org
-127.0.0.1	wormoni.lms-austria.com
-127.0.0.1	darkcomet777rat.ddns.net
-127.0.0.1	security.flekergauuard.com
-127.0.0.1	perxilox.com
-127.0.0.1	dhcp-150-193-129-5.metro86.ru
-127.0.0.1	art-infinite.gl.at.ply.gg
-127.0.0.1	pabla102102.kozow.com
-127.0.0.1	hyteras.org
-127.0.0.1	graphics-discussions.gl.at.ply.gg
-127.0.0.1	carolina-collections.gl.at.ply.gg
-127.0.0.1	there-prozac.gl.at.ply.gg
-127.0.0.1	sixx.hopto.org
-127.0.0.1	body-conclusion.gl.at.ply.gg
-127.0.0.1	fpvxzvrzz-58282.portmap.host
 # Number of entries: 54022
