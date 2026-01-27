@@ -1,11 +1,14 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-27 09:35:57 UTC                        #
+# Last updated: 2026-01-27 12:12:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	ravenkw.shop
+127.0.0.1	noone5123-52149.portmap.host
+127.0.0.1	noone5123-59078.portmap.host
 127.0.0.1	zortyfivev.crabdance.com
 127.0.0.1	twobyonset.ydns.eu
 127.0.0.1	weareriu.cyou
@@ -54038,6 +54041,4 @@
 127.0.0.1	doneloby12131-39622.portmap.host
 127.0.0.1	xenquz-46850.portmap.host
 127.0.0.1	www.expects-crucial-pest-bubble.club
-127.0.0.1	mail.letlama.com
-127.0.0.1	mareczek123-27222.portmap.host
-# Number of entries: 54034
+# Number of entries: 54035
