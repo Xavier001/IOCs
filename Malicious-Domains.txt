@@ -1,11 +1,18 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-26 20:05:25 UTC                        #
+# Last updated: 2026-01-27 04:05:13 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.lootlify.ch
+127.0.0.1	humanmeat.us.com
+127.0.0.1	gotour.in.net
+127.0.0.1	sporttip-partner.ch
+127.0.0.1	se-2.ironhide.su
+127.0.0.1	chat-stg.smartdocapp.com
+127.0.0.1	api.qjweb.xyz
 127.0.0.1	guce.onetime-authentication.cruiserscrib.com
 127.0.0.1	cyberperficient.com
 127.0.0.1	zx888.in.net
@@ -54044,5 +54051,4 @@
 127.0.0.1	is-gas.gl.at.ply.gg
 127.0.0.1	nov-transport.gl.at.ply.gg
 127.0.0.1	realdot.ddns.net
-127.0.0.1	xt.dev.review.technology
-# Number of entries: 54039
+# Number of entries: 54045
