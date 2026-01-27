@@ -1,11 +1,25 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-27 04:05:13 UTC                        #
+# Last updated: 2026-01-27 09:35:57 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	zortyfivev.crabdance.com
+127.0.0.1	twobyonset.ydns.eu
+127.0.0.1	weareriu.cyou
+127.0.0.1	forkgramme.com
+127.0.0.1	mif.cdcmn.edu.bd
+127.0.0.1	mif.lidiia.com.ua
+127.0.0.1	modaaura.store
+127.0.0.1	lionsmanetech.shop
+127.0.0.1	winterfall102.ddns.net
+127.0.0.1	million-acc.gl.at.ply.gg
+127.0.0.1	niggerinmybuthole-56571.portmap.host
+127.0.0.1	www.officedirectorqsecondbackup.com
+127.0.0.1	www.officedirectorqbackup.com
+127.0.0.1	www.officedirectorq.com
 127.0.0.1	www.lootlify.ch
 127.0.0.1	humanmeat.us.com
 127.0.0.1	gotour.in.net
@@ -54026,29 +54040,4 @@
 127.0.0.1	www.expects-crucial-pest-bubble.club
 127.0.0.1	mail.letlama.com
 127.0.0.1	mareczek123-27222.portmap.host
-127.0.0.1	smp.rodeo
-127.0.0.1	xurekodip.com
-127.0.0.1	utvp1.net
-127.0.0.1	orienderi.com
-127.0.0.1	thinkrz.lol
-127.0.0.1	integkr.pics
-127.0.0.1	paramkc.lat
-127.0.0.1	aspecqo.top
-127.0.0.1	severhi.lol
-127.0.0.1	emageuv.fun
-127.0.0.1	emapsho.fun
-127.0.0.1	firiaer.fun
-127.0.0.1	orekcee.fun
-127.0.0.1	snjofxs.top
-127.0.0.1	tswelo.com
-127.0.0.1	recleau.com
-127.0.0.1	paxrobot.digital
-127.0.0.1	cyberdarkduck.live
-127.0.0.1	security.floiregwaqrd.com
-127.0.0.1	cekipolen.com
-127.0.0.1	ip70-176-149-88.ph.ph.cox.net
-127.0.0.1	svhosted.duckdns.org
-127.0.0.1	is-gas.gl.at.ply.gg
-127.0.0.1	nov-transport.gl.at.ply.gg
-127.0.0.1	realdot.ddns.net
-# Number of entries: 54045
+# Number of entries: 54034
