@@ -1,11 +1,36 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-28 12:09:43 UTC                        #
+# Last updated: 2026-01-28 20:55:44 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	www.carhartt-market.com
+127.0.0.1	dnsuptime.dns.army
+127.0.0.1	csp.cloudvaly.com
+127.0.0.1	csp.beznervov.com
+127.0.0.1	projectindia999.loseyourip.com
+127.0.0.1	cia.anondns.net
+127.0.0.1	skittlesforlife.anondns.net
+127.0.0.1	suzrbgndb.localto.net
+127.0.0.1	ecolombia223.casacam.net
+127.0.0.1	atlnewmedia.com
+127.0.0.1	arenalexperience.com
+127.0.0.1	mikey12325ja1-31716.portmap.host
+127.0.0.1	yoga.tatatech.net
+127.0.0.1	nra.uk.com
+127.0.0.1	jwwp.cn.com
+127.0.0.1	d8zljb.ru.com
+127.0.0.1	changingcanoes.us.com
+127.0.0.1	asianswitch.gb.net
+127.0.0.1	mail.onetime-authentication.cruiserscrib.com
+127.0.0.1	banengids.com
+127.0.0.1	globaljira.com
+127.0.0.1	gty.cloudvaly.com
+127.0.0.1	gty.beznervov.com
+127.0.0.1	static.cos-tencent.cloud
+127.0.0.1	img2.huorongsec.com
 127.0.0.1	kernel-compass.com
 127.0.0.1	them-choose.gl.at.ply.gg
 127.0.0.1	daroughgan.com
@@ -53869,21 +53894,4 @@
 127.0.0.1	test111-1302872009.cos.ap-shanghai.myqcloud.com
 127.0.0.1	edufinder.ir
 127.0.0.1	logrecovery.com
-127.0.0.1	19.34.eva-store.store
-127.0.0.1	datahog.su
-127.0.0.1	ac7b2eda6f14.datahog.su
-127.0.0.1	ac7b2eda6f1.datahog.su
-127.0.0.1	datacrab-analytics.com
-127.0.0.1	datalytica.su
-127.0.0.1	dieorsuffer.com
-127.0.0.1	fileservice.gtainside.com
-127.0.0.1	firebase.su
-127.0.0.1	smartscreen-api.com
-127.0.0.1	ifyouseethisyouareultragay.com
-127.0.0.1	ak5.ksdcks2.org
-127.0.0.1	ak6.ksdcks2.org
-127.0.0.1	notmalicious-29362.portmap.host
-127.0.0.1	started-brunswick.gl.at.ply.gg
-127.0.0.1	client-unusual.gl.at.ply.gg
-127.0.0.1	panel.sineramiel.com
-# Number of entries: 53880
+# Number of entries: 53888
