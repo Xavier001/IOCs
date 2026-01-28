@@ -1,11 +1,24 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-28 10:17:24 UTC                        #
+# Last updated: 2026-01-28 12:09:43 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	kernel-compass.com
+127.0.0.1	them-choose.gl.at.ply.gg
+127.0.0.1	daroughgan.com
+127.0.0.1	daroughgan8hajous5.duckdns.org
+127.0.0.1	daroughgan8hajous4.duckdns.org
+127.0.0.1	daroughgan8hajous3.duckdns.org
+127.0.0.1	daroughgan8hajous2.duckdns.org
+127.0.0.1	daroughgan8hajous1.duckdns.org
+127.0.0.1	zaryef.za.com
+127.0.0.1	uber.gr.com
+127.0.0.1	sri.gb.net
+127.0.0.1	leivistabaltic.eu.com
+127.0.0.1	hoianorchidgarden.com
 127.0.0.1	szdxmm-ydbaoji0126.com
 127.0.0.1	szdxmm-yd0126.com
 127.0.0.1	gohapel398-62132.portmap.host
@@ -53873,8 +53886,4 @@
 127.0.0.1	started-brunswick.gl.at.ply.gg
 127.0.0.1	client-unusual.gl.at.ply.gg
 127.0.0.1	panel.sineramiel.com
-127.0.0.1	boxworld.top
-127.0.0.1	resistantmusic.shop
-127.0.0.1	pavan001-50933.portmap.host
-127.0.0.1	rx.net.eva-store.store
-# Number of entries: 53871
+# Number of entries: 53880
