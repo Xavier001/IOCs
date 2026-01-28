@@ -1,11 +1,21 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-27 20:49:03 UTC                        #
+# Last updated: 2026-01-28 02:49:21 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	get-musciqq-xqifzpfeed.cn-beijing.fcapp.run
+127.0.0.1	tbt.uk.com
+127.0.0.1	mart.it.com
+127.0.0.1	mismilahioluwadoam.duckdns.org
+127.0.0.1	ytloie.za.com
+127.0.0.1	wabnewszamanpaper23.ru.com
+127.0.0.1	ufpi.br.com
+127.0.0.1	solowheel.uk.com
+127.0.0.1	www.proxy1pal.shop
+127.0.0.1	denjak.store
 127.0.0.1	wxblockchain.cn
 127.0.0.1	yourfearcig.no-ip.biz
 127.0.0.1	myleingg.ddns.net
@@ -53852,7 +53862,4 @@
 127.0.0.1	updates-seal.gl.at.ply.gg
 127.0.0.1	jazper-21519.portmap.host
 127.0.0.1	dfsfdgsfgdsffdsg-20559.portmap.host
-127.0.0.1	conaqr.click
-127.0.0.1	maszgn.club
-127.0.0.1	www.coinhunters.xyz
-# Number of entries: 53849
+# Number of entries: 53856
