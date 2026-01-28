@@ -1,11 +1,40 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-28 02:49:21 UTC                        #
+# Last updated: 2026-01-28 10:17:24 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	szdxmm-ydbaoji0126.com
+127.0.0.1	szdxmm-yd0126.com
+127.0.0.1	gohapel398-62132.portmap.host
+127.0.0.1	act-tingly.gl.at.ply.gg
+127.0.0.1	blank-carrot.com
+127.0.0.1	rrg.cdcmn.edu.bd
+127.0.0.1	rrg.lidiia.com.ua
+127.0.0.1	trx.cdcmn.edu.bd
+127.0.0.1	trx.lidiia.com.ua
+127.0.0.1	wmk99.com
+127.0.0.1	wmk88.com
+127.0.0.1	wmk77.com
+127.0.0.1	gubbisx.cyou
+127.0.0.1	braxttp.cyou
+127.0.0.1	potashbx.cyou
+127.0.0.1	recyclqb.cyou
+127.0.0.1	reberts.com
+127.0.0.1	cpanel.mahfuzrealtor.com
+127.0.0.1	account.quarklab.app
+127.0.0.1	account.quarkdrainer.com
+127.0.0.1	peg.bexca.org
+127.0.0.1	ultra4ktool.com
+127.0.0.1	ferrimania.com
+127.0.0.1	cole.zoomwork.one
+127.0.0.1	gameverse.in.net
+127.0.0.1	trangchuhit.club
+127.0.0.1	hit-club.io
+127.0.0.1	28.tcp.cpolar.top
+127.0.0.1	penidi8413-47021.portmap.host
 127.0.0.1	get-musciqq-xqifzpfeed.cn-beijing.fcapp.run
 127.0.0.1	tbt.uk.com
 127.0.0.1	mart.it.com
@@ -53848,18 +53877,4 @@
 127.0.0.1	resistantmusic.shop
 127.0.0.1	pavan001-50933.portmap.host
 127.0.0.1	rx.net.eva-store.store
-127.0.0.1	soberano.top
-127.0.0.1	mastwin.in
-127.0.0.1	precisionbiomeds.com
-127.0.0.1	physicianusepeptides.com
-127.0.0.1	inkermen.top
-127.0.0.1	htsfhtdrjbyy1bgxbv.cfd
-127.0.0.1	parisforrent.top
-127.0.0.1	wps.preech.top
-127.0.0.1	board-vitamins.gl.at.ply.gg
-127.0.0.1	socmer.baoda-mouid.com
-127.0.0.1	wedding-camps.gl.at.ply.gg
-127.0.0.1	updates-seal.gl.at.ply.gg
-127.0.0.1	jazper-21519.portmap.host
-127.0.0.1	dfsfdgsfgdsffdsg-20559.portmap.host
-# Number of entries: 53856
+# Number of entries: 53871
