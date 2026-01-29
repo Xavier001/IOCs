@@ -1,11 +1,51 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-29 12:09:03 UTC                        #
+# Last updated: 2026-01-29 21:38:09 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	captolls.com
+127.0.0.1	mini-zmoto.com
+127.0.0.1	arsenmarkaruyn.com
+127.0.0.1	cotlesgengeral.com
+127.0.0.1	hqej69yf.v0xenharvest.ru
+127.0.0.1	wydannc6.v0xenharvest.ru
+127.0.0.1	bargeshipping.com
+127.0.0.1	gosemobi.com
+127.0.0.1	njtankservices.com
+127.0.0.1	laderbaj.net
+127.0.0.1	stobminipinporl.com
+127.0.0.1	www.355bet.com.br
+127.0.0.1	rentals-hidden.gl.at.ply.gg
+127.0.0.1	octazo.gb.net
+127.0.0.1	fb888.uk.com
+127.0.0.1	communications.it.com
+127.0.0.1	hobefork.com
+127.0.0.1	clearwaterfishingcompany.com
+127.0.0.1	taxnearme.com
+127.0.0.1	kd62.casino
+127.0.0.1	337788bet.site
+127.0.0.1	handsonatwork.co.uk
+127.0.0.1	cansti.in.net
+127.0.0.1	foamfasfkkfkfkfa.com
+127.0.0.1	ofofoalalaladjrkrka.com
+127.0.0.1	tdrdomainnew.com
+127.0.0.1	unmindv.cyou
+127.0.0.1	genussy.cyou
+127.0.0.1	studfdu.cyou
+127.0.0.1	aliengp.cyou
+127.0.0.1	vetchir.cyou
+127.0.0.1	menopjc.cyou
+127.0.0.1	stathas.cyou
+127.0.0.1	odovakmc.cyou
+127.0.0.1	mummifjn.cyou
+127.0.0.1	offseti.cyou
+127.0.0.1	interrg.cyou
+127.0.0.1	vyy.uk.com
+127.0.0.1	nog.jp.net
+127.0.0.1	license.eu.com
 127.0.0.1	luvxcide.duckdns.org
 127.0.0.1	dohinukss.localto.net
 127.0.0.1	boosterman22q1-33740.portmap.host
@@ -53823,59 +53863,4 @@
 127.0.0.1	www.7b0a0.click
 127.0.0.1	2825clerkenwell.com
 127.0.0.1	v4lcs-58756.portmap.io
-127.0.0.1	cf2.xinxiangnancs.com
-127.0.0.1	cc.xinxiangnancs.com
-127.0.0.1	meils.info
-127.0.0.1	guosong.top
-127.0.0.1	seputartuban.com
-127.0.0.1	ogash96-53631.portmap.io
-127.0.0.1	nuevos777.duckdns.org
-127.0.0.1	masterdabha02.kozow.com
-127.0.0.1	gasworld.duckdns.org
-127.0.0.1	myfactorydocs.ddns.me
-127.0.0.1	button-genres.gl.at.ply.gg
-127.0.0.1	browser-kansas.gl.at.ply.gg
-127.0.0.1	grayhatx69back.ddns.net
-127.0.0.1	etc-probe.gl.at.ply.gg
-127.0.0.1	french-nasdaq.gl.at.ply.gg
-127.0.0.1	cell-membership.gl.at.ply.gg
-127.0.0.1	jun-assist.gl.at.ply.gg
-127.0.0.1	below-activation.gl.at.ply.gg
-127.0.0.1	jersey-marked.gl.at.ply.gg
-127.0.0.1	ripakslool.ddns.net
-127.0.0.1	oktorre1.duckdns.org
-127.0.0.1	diome152511.duckdns.org
-127.0.0.1	choncho1.kozow.com
-127.0.0.1	enviodiomdesdiaz11.duckdns.org
-127.0.0.1	phentermine-introduced.gl.at.ply.gg
-127.0.0.1	21dc2025.duckdns.org
-127.0.0.1	class-point.gl.at.ply.gg
-127.0.0.1	envio211.duckdns.org
-127.0.0.1	whole-egyptian.gl.at.ply.gg
-127.0.0.1	diomdes1212.duckdns.org
-127.0.0.1	diomedesdiaz.kozow.com
-127.0.0.1	tax-found.gl.at.ply.gg
-127.0.0.1	shomitt.3322.org
-127.0.0.1	ledivineenfant-59793.portmap.host
-127.0.0.1	qassar19933.ddns.net
-127.0.0.1	country-blade.gl.at.ply.gg
-127.0.0.1	trust-conditional.gl.at.ply.gg
-127.0.0.1	ganga22.ddns.net
-127.0.0.1	graddsad-24862.portmap.io
-127.0.0.1	aa.repack4u.pro
-127.0.0.1	jarcoe02-55163.portmap.io
-127.0.0.1	sell-musician.gl.at.ply.gg
-127.0.0.1	https-keepkey.com
-127.0.0.1	keepkeys.co
-127.0.0.1	o.1.richinimpianti.cloud
-127.0.0.1	mx.eva-store.store
-127.0.0.1	m.groiz.com
-127.0.0.1	arearugs.top
-127.0.0.1	mytan.click
-127.0.0.1	cpmemes.cfd
-127.0.0.1	drectggy.one
-127.0.0.1	noyan.cfd
-127.0.0.1	freeworld.sbs
-127.0.0.1	silome.sbs
-127.0.0.1	heras.cfd
-# Number of entries: 53872
+# Number of entries: 53857
