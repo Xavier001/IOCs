@@ -1,11 +1,20 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-28 23:00:10 UTC                        #
+# Last updated: 2026-01-29 10:10:33 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	kakapupuneww.com
+127.0.0.1	midlandaudio.com
+127.0.0.1	bek.cloudvaly.com
+127.0.0.1	bek.beznervov.com
+127.0.0.1	pov.cloudvaly.com
+127.0.0.1	pov.beznervov.com
+127.0.0.1	tor.cloudvaly.com
+127.0.0.1	tor.beznervov.com
+127.0.0.1	th3hunt3r-53504.portmap.host
 127.0.0.1	deeyou.xyz
 127.0.0.1	www.carhartt-market.com
 127.0.0.1	dnsuptime.dns.army
@@ -53870,26 +53879,4 @@
 127.0.0.1	mrowx.gaclassics.com
 127.0.0.1	modified-rebecca.gl.at.ply.gg
 127.0.0.1	prakashjadhav74738.ddns.net
-127.0.0.1	legalharuka.com
-127.0.0.1	hoverk.club
-127.0.0.1	meme8.work.gd
-127.0.0.1	lfv1zhpwz.localto.net
-127.0.0.1	ec2-3-19-222-192.us-east-2.compute.amazonaws.com
-127.0.0.1	monclerjackets.top
-127.0.0.1	server-cd2.bipewi2747.workers.dev
-127.0.0.1	security.fluargueds.com
-127.0.0.1	menpogisa.com
-127.0.0.1	ex-02.ankk.uk
-127.0.0.1	includes-net.gl.at.ply.gg
-127.0.0.1	ansy25jul.duckdns.org
-127.0.0.1	luisd444.duckdns.org
-127.0.0.1	crrypte-23119.portmap.io
-127.0.0.1	animal-expressions.gl.at.ply.gg
-127.0.0.1	effective-psychological.gl.at.ply.gg
-127.0.0.1	children-hughes.gl.at.ply.gg
-127.0.0.1	myth0249-43397.portmap.io
-127.0.0.1	zxcmisha5963-26454.portmap.host
-127.0.0.1	test-mariah.gl.at.ply.gg
-127.0.0.1	v4lcs-58756.portmap.host
-127.0.0.1	previous-vietnamese.gl.at.ply.gg
-# Number of entries: 53886
+# Number of entries: 53873
