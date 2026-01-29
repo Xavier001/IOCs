@@ -1,11 +1,19 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-29 10:10:33 UTC                        #
+# Last updated: 2026-01-29 12:09:03 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	luvxcide.duckdns.org
+127.0.0.1	dohinukss.localto.net
+127.0.0.1	boosterman22q1-33740.portmap.host
+127.0.0.1	hebasix.duckdns.org
+127.0.0.1	boosterman22q1-42479.portmap.host
+127.0.0.1	egornigga-61525.portmap.host
+127.0.0.1	rousedonkibure.us
+127.0.0.1	evil.azuretest.fr
 127.0.0.1	kakapupuneww.com
 127.0.0.1	midlandaudio.com
 127.0.0.1	bek.cloudvaly.com
@@ -53870,13 +53878,4 @@
 127.0.0.1	freeworld.sbs
 127.0.0.1	silome.sbs
 127.0.0.1	heras.cfd
-127.0.0.1	14733sss.icu
-127.0.0.1	h43-74.fcsrv.net
-127.0.0.1	effect-bedroom.gl.at.ply.gg
-127.0.0.1	lopez789.kozow.com
-127.0.0.1	bigbelly042.duckdns.org
-127.0.0.1	daily-iraqi.gl.at.ply.gg
-127.0.0.1	mrowx.gaclassics.com
-127.0.0.1	modified-rebecca.gl.at.ply.gg
-127.0.0.1	prakashjadhav74738.ddns.net
-# Number of entries: 53873
+# Number of entries: 53872
