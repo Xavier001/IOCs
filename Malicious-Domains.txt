@@ -1,11 +1,12 @@
 ################################################################
 # ThreatFox IOCs: host file                                    #
-# Last updated: 2026-01-28 20:55:44 UTC                        #
+# Last updated: 2026-01-28 23:00:10 UTC                        #
 #                                                              #
 # Terms Of Use: https://threatfox.abuse.ch/faq/#tos            #
 # For questions please contact threatfox [at] abuse.ch         #
 ################################################################
 #
+127.0.0.1	deeyou.xyz
 127.0.0.1	www.carhartt-market.com
 127.0.0.1	dnsuptime.dns.army
 127.0.0.1	csp.cloudvaly.com
@@ -53891,7 +53892,4 @@
 127.0.0.1	test-mariah.gl.at.ply.gg
 127.0.0.1	v4lcs-58756.portmap.host
 127.0.0.1	previous-vietnamese.gl.at.ply.gg
-127.0.0.1	test111-1302872009.cos.ap-shanghai.myqcloud.com
-127.0.0.1	edufinder.ir
-127.0.0.1	logrecovery.com
-# Number of entries: 53888
+# Number of entries: 53886
